@@ -1,0 +1,109 @@
+{
+ "doc_id": "D0579",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:22:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.058473800000000006,
+  "in": 2,
+  "out": 1855,
+  "cache_read": 11758,
+  "cache_create": 9686,
+  "api_ms": 9364,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "文化适配性视角下社交机器人技术接受度研究——基于信任、语言与伦理的TLE模型构建",
+  "title_en": "A Study of Social Robot Technology Acceptance from the Perspective of Cultural Suitability—Construction of a TLE Model Based on Trust, Language and Ethics",
+  "language": "zh",
+  "authors_or_issuer": "王雪琳",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": "10.12677/acpp.2025.144202",
+  "venue": "Advances in Philosophy 哲学进展",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN",
+   "JP",
+   "KR",
+   "EU"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care",
+   "education",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "trust_acceptance",
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "transparency_explainability",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "trust_acceptance",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "UNESCO Recommendation on the Ethics of AI",
+   "China Generative AI Measures"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Conceptual paper proposing a TLE model (trust, language/communication, ethics) to explain cross-cultural acceptance of social robots, with a focus on China, Confucian ethics and elder care. It argues cultural adaptation of transparency, language and ethical values is needed, citing Chinese AI policies and the EU AI Act.",
+  "key_provisions_or_claims": [
+   "Proposes TLE three-dimensional model mapped to DeLone & McLean system, information and service quality.",
+   "Cross-cultural technological trust must be calibrated with ethical values.",
+   "Language localisation must cover symbolic systems and cultural pragmatics (high- vs low-context).",
+   "Confucian 'ren' ethics offers a complement to Western privacy-centred AI ethics.",
+   "Recommends trustworthy AI certification and ethics-by-design for social robots in China."
+  ],
+  "confidence": 0.85
+ }
+}

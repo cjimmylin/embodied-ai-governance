@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-c8fbe33a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:31:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.059067800000000004,
+  "in": 2,
+  "out": 1724,
+  "cache_read": 11758,
+  "cache_create": 10162,
+  "api_ms": 8968,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "中华人民共和国国务院令第844号 国务院关于修改《住房公积金管理条例》的决定",
+  "title_en": "State Council Order No. 844: Decision of the State Council on Amending the Regulations on the Management of Housing Provident Funds",
+  "language": "zh",
+  "authors_or_issuer": "中华人民共和国国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "finance"
+  ],
+  "governance_topics": [
+   "other",
+   "labor_employment"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "State Council Order No. 844 amends China's Regulations on the Management of Housing Provident Funds, effective 20 September 2026. It revises contribution, withdrawal, loan and surplus-use rules, raises penalties, adds credit records, voluntary contributions by flexible workers and digitalisation duties. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Expands permitted withdrawals (rent, renovation, property fees) and sets 3-day withdrawal and 10-day loan decision deadlines",
+   "Flexible-employment workers and self-employed may voluntarily contribute to housing provident funds",
+   "Fines for failing to register raised to 50,000–300,000 yuan",
+   "Fraudulent withdrawals/loans barred from fund use for 3/5 years",
+   "Mandates digital and intelligent management and nationwide mutual recognition of contribution records"
+  ],
+  "confidence": 0.95
+ }
+}

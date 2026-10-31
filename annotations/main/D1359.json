@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1359",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:43:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0452118,
+  "in": 2,
+  "out": 1784,
+  "cache_read": 11758,
+  "cache_create": 6548,
+  "api_ms": 16839,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Założenia do strategii AI w Polsce. Plan działań Ministerstwa Cyfryzacji",
+  "title_en": "Foundations for the AI Strategy in Poland: Action Plan of the Ministry of Digital Affairs",
+  "language": "pl",
+  "authors_or_issuer": "Ministerstwo Cyfryzacji (Poland), with pro bono expert working groups",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2018,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "gov.pl",
+  "jurisdiction_country": "PL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "PL"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "proposal_or_concept",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "ethics_principles",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "civil_liability",
+   "labor_employment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "data_governance_requirements",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Expert report commissioned by Poland's Ministry of Digital Affairs (Nov 2018) as groundwork for a national AI strategy. Four working groups cover data economy, funding and development, education, and law and ethics, recommending funding, skills programmes, and ethical and legal safeguards such as non-discrimination and privacy. It has little robotics content.",
+  "key_provisions_or_claims": [
+   "Four working groups: data economy, funding and R&D, education, ethics and law",
+   "Recommends funding and acceleration programmes for AI development in Poland",
+   "Education recommendations: train AI creators, sector specialists, users, and reskill workers",
+   "Ethics and law section addresses discrimination, privacy and free expression risks of AI",
+   "Intended as basis for national debate and a government AI strategy"
+  ],
+  "confidence": 0.8
+ }
+}

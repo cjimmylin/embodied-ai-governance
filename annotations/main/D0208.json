@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0208",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:12:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0459538,
+  "in": 2,
+  "out": 1847,
+  "cache_read": 11758,
+  "cache_create": 6576,
+  "api_ms": 8969,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Surgeon Attitudes Toward AI-Enhanced Robotic Surgery: A Survey on Autonomy, Liability, and Skill Erosion",
+  "title_en": "Surgeon Attitudes Toward AI-Enhanced Robotic Surgery: A Survey on Autonomy, Liability, and Skill Erosion",
+  "language": "en",
+  "authors_or_issuer": "Taghipour, N.; Mostafavinia, A.; Mehran, H.; Hosseini, S.; Alighadr, A.; Javaherinasab, M.; et al.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": "10.61186/ist.202502.06.03",
+  "venue": "InfoScience Trends",
+  "jurisdiction_country": "IR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IR"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "human_oversight_control",
+   "labor_employment",
+   "education_training",
+   "trust_acceptance",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "empirical_qualitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Qualitative interview study of 25 Iranian surgeons on AI-enhanced robotic surgery. Surgeons favour assistive and shared-control systems over unsupervised autonomy. They report uncertainty about liability for AI errors and call for Iran-specific regulation. They also fear skill erosion and recommend hybrid and simulation-based training.",
+  "key_provisions_or_claims": [
+   "Surgeons support assistive/shared-control AI but are skeptical of unsupervised autonomy",
+   "Liability for AI-driven errors is unclear; participants call for Iran-specific regulatory frameworks",
+   "Over-reliance on AI risks deskilling, especially among younger surgeons",
+   "Hybrid training and simulation-based learning proposed for skill maintenance",
+   "Iranian surgeons show greater concern about affordability, access and legal clarity than international peers"
+  ],
+  "confidence": 0.9
+ }
+}

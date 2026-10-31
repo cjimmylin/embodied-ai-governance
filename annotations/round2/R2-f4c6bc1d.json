@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-f4c6bc1d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:14:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0341858,
+  "in": 2,
+  "out": 1845,
+  "cache_read": 11758,
+  "cache_create": 3639,
+  "api_ms": 10338,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ASTM F3265-17 Standard Test Method for Grid-Video Obstacle Measurement",
+  "title_en": "ASTM F3265-17 Standard Test Method for Grid-Video Obstacle Measurement",
+  "language": "en",
+  "authors_or_issuer": "ASTM International (Committee F45, Subcommittee F45.03)",
+  "issuer_type": "standards_body",
+  "pub_year": 2017,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.1520/F3265-17",
+  "venue": "ASTM International Book of Standards Vol. 15.13",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "application_sectors": [
+   "manufacturing",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "ANSI/ITSDF B56.5",
+   "ASTM F3218"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "ASTM F3265-17 is a voluntary test method that measures how an automatic/autonomous unmanned ground vehicle (A-UGV) reduces kinetic energy and stops when obstacles enter its path within the safety sensors' stop-detect range. It supplements, but does not replace, ANSI/ITSDF B56.5 safety testing. The page excerpt also contains ordering and shipping information.",
+  "key_provisions_or_claims": [
+   "Measures A-UGV kinetic energy reduction and stopping distance when an obstacle appears in the vehicle path.",
+   "Uses a test piece from ANSI/ITSDF B56.5 and can use other test pieces from it.",
+   "Intended for A-UGV manufacturers, installers and users.",
+   "Does not substitute for safety testing required by ANSI/ITSDF B56.5 or other normative standards.",
+   "Tests are performed in a laboratory, with environmental conditions recorded per ASTM F3218."
+  ],
+  "confidence": 0.85
+ }
+}

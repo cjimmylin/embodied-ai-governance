@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-ac54e952",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:08:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0803204,
+  "in": 4,
+  "out": 3805,
+  "cache_read": 32079,
+  "cache_create": 10484,
+  "api_ms": 18740,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "authors_or_issuer": "United States of America (submitted to CCW Group of Governmental Experts on LAWS)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "parliamentary_material",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "civil_liability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Existing IHL (distinction, proportionality, precaution) provides a comprehensive framework governing autonomy in weapon systems.",
+   "IHL duties fall on combatants and parties to conflict, not on machines.",
+   "Rigorous testing, doctrine, training and legal review of weapons are essential practical measures.",
+   "Emerging LAWS technologies could strengthen IHL implementation via precision, logging, incident flagging and UXO tracking.",
+   "Three use scenarios illustrate when reliance on autonomous functions is lawful."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE",
+   "US DoD Directive 3000.09",
+   "DoD Law of War Manual",
+   "CCW Protocol V"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "pub_month": 3,
+  "pub_year": 2019,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "summary_en": "US working paper to the CCW Group of Governmental Experts on LAWS arguing that existing international humanitarian law adequately governs autonomy in weapon systems. It outlines three usage scenarios, stresses testing, doctrine, training and legal weapons review, and argues emerging technologies can strengthen IHL implementation.",
+  "title_clean": "Implementing International Humanitarian Law in the Use of Autonomy in Weapon Systems",
+  "title_en": "Implementing International Humanitarian Law in the Use of Autonomy in Weapon Systems",
+  "venue": "UN CCW Group of Governmental Experts on LAWS (CCW/GGE.1/2019/WP.5)"
+ }
+}

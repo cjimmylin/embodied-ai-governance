@@ -1,0 +1,93 @@
+{
+ "doc_id": "D1327",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:42:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027781800000000002,
+  "in": 2,
+  "out": 1629,
+  "cache_read": 11758,
+  "cache_create": 2578,
+  "api_ms": 11201,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "About us - Office for Artificial Intelligence - GOV.UK",
+  "title_en": "About us - Office for Artificial Intelligence - GOV.UK",
+  "language": "en",
+  "authors_or_issuer": "Office for Artificial Intelligence, Department for Science, Innovation and Technology (UK)",
+  "issuer_type": "national_government_executive",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "trust_acceptance"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "GOV.UK 'About us' page for the UK Office for Artificial Intelligence, now merged into DSIT's AI Policy Directorate. It describes the Office's former responsibility for implementing the National AI Strategy across three pillars: long-term ecosystem investment, AI-enabled economy transition, and national and international AI governance.",
+  "key_provisions_or_claims": [
+   "Office for AI is now part of DSIT's AI Policy Directorate and no longer separately branded",
+   "It oversaw implementation of the National AI Strategy",
+   "Three pillars: ecosystem investment, AI-enabled economy, getting AI governance right",
+   "Points to the government response to the AI white paper consultation"
+  ],
+  "confidence": 0.9
+ }
+}

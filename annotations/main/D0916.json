@@ -1,0 +1,105 @@
+{
+ "doc_id": "D0916",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:31:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08017579999999999,
+  "in": 2,
+  "out": 2046,
+  "cache_read": 11758,
+  "cache_create": 14634,
+  "api_ms": 11255,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "FACT SHEET: President Biden Issues Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence",
+  "title_en": "FACT SHEET: President Biden Issues Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "The White House (Biden administration)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "The White House (Biden White House archives)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "labor_employment",
+   "industrial_policy_innovation",
+   "cybersecurity"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "technical_standards_reference",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "US Executive Order 14110",
+   "NIST AI RMF"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Archived White House fact sheet announcing the October 2023 Executive Order on Safe, Secure, and Trustworthy AI. The supplied text is mostly encoded page graphics, so the annotation relies on the title and known content: safety testing and reporting for powerful models, standards, privacy, equity, workforce and innovation measures.",
+  "key_provisions_or_claims": [
+   "Developers of powerful AI systems must share safety test results with the US government",
+   "NIST to set standards for red-team testing",
+   "Calls for privacy protections and action against algorithmic discrimination",
+   "Measures to support workers and promote innovation and competition",
+   "Pursues international cooperation on AI governance"
+  ],
+  "confidence": 0.45
+ }
+}

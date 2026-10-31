@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-d4fc719b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:28:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0501198,
+  "in": 2,
+  "out": 1702,
+  "cache_read": 11758,
+  "cache_create": 7980,
+  "api_ms": 8666,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院关于印发《“十五五”碳达峰行动方案》的通知",
+  "title_en": "Notice of the State Council on Issuing the \"15th Five-Year Plan\" Carbon Peaking Action Plan",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "国务院 (State Council)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "industrial_policy_innovation",
+   "standards_interoperability"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "State Council notice issuing China's 15th Five-Year Plan carbon peaking action plan. It sets 2030 targets (17% lower CO2 per GDP, 25% non-fossil share) and measures on energy mix, industry, transport, buildings, standards, finance and markets. It has no AI or robotics governance content.",
+  "key_provisions_or_claims": [
+   "By 2030, CO2 emissions per unit GDP fall 17% from 2025 levels",
+   "Non-fossil energy to reach 25% of consumption by 2030",
+   "Build about 100 national zero-carbon parks and 500 zero-carbon factories",
+   "Green and low-carbon transition of computing facilities",
+   "Provinces must draft their own carbon peaking plans"
+  ],
+  "confidence": 0.93
+ }
+}

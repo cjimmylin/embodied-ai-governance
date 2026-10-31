@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-30f6f22a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:56:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0533758,
+  "in": 2,
+  "out": 1916,
+  "cache_read": 11758,
+  "cache_create": 8259,
+  "api_ms": 11567,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Economic and Social Committee on the Communication from the Commission – Industrial Action Plan for the European automotive sector (COM(2025) 95 final)",
+  "title_en": "Opinion of the European Economic and Social Committee on the Communication from the Commission – Industrial Action Plan for the European automotive sector (COM(2025) 95 final)",
+  "language": "en",
+  "authors_or_issuer": "European Economic and Social Committee",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (C series)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "CN",
+   "US"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "labor_employment",
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "civil_liability",
+   "education_training",
+   "trust_acceptance",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "Industrial Action Plan for the European automotive sector"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EESC opinion on the Commission's Industrial Action Plan for the automotive sector. It backs a fair, competitive transition covering EVs, skills, supply chains and trade. It includes a section on connected and autonomous vehicles, calling for a harmonised regulatory framework, liability clarity and a type-approval timeline.",
+  "key_provisions_or_claims": [
+   "Calls for harmonised standards and regulation for connected and autonomous vehicles to support testing and deployment.",
+   "Seeks legal certainty on liability in autonomous vehicle accidents.",
+   "Calls for a harmonised approach and clear timeline for type-approval of autonomous vehicles.",
+   "Proposes a European Connected and Autonomous Vehicle Alliance and an Auto Data Act.",
+   "Urges reskilling programmes, social dialogue and support for regions and SMEs."
+  ],
+  "confidence": 0.9
+ }
+}

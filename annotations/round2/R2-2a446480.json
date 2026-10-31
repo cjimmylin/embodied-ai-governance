@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-2a446480",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0830758,
+  "in": 2,
+  "out": 1742,
+  "cache_read": 11758,
+  "cache_create": 16119,
+  "api_ms": 8832,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Quality Jobs Roadmap",
+  "title_en": "Quality Jobs Roadmap",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2025) 944 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "education_training",
+   "industrial_policy_innovation",
+   "human_oversight_control"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 2,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission communication setting out the Quality Jobs Roadmap: initiatives on skills, restructuring, OSH, wages, labour mobility and social dialogue. It briefly addresses AI and algorithmic management in the workplace, relying on the AI Act and GDPR, and announces a Quality Jobs Act. It has no robotics-specific content.",
+  "key_provisions_or_claims": [
+   "Announces a Quality Jobs Act and launches first-stage social partner consultation under Art. 154 TFEU",
+   "Relies on AI Act and GDPR as the horizontal framework for algorithmic management at work",
+   "Possible targeted complementary EU measures on algorithmic management, focused on implementation and enforcement",
+   "Review of Workplace and Display Screen Equipment Directives to address digital tools and psychosocial risks",
+   "Skills Guarantee, Skills Portability Initiative and revision of public procurement directives in 2026"
+  ],
+  "confidence": 0.92
+ }
+}

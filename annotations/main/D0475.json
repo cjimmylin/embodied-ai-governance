@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0475",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0702167,
+  "in": 4,
+  "out": 3568,
+  "cache_read": 30572,
+  "cache_create": 8355,
+  "api_ms": 18181,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Distributed Consent Based Sociocracy 3.0 Governance Framework for Autonomous Robot Systems",
+  "title_en": "Distributed Consent Based Sociocracy 3.0 Governance Framework for Autonomous Robot Systems",
+  "language": "en",
+  "authors_or_issuer": "Karunakaran, T.; Dhayashankar, J.M.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": "10.21203/rs.3.rs-10189339/v1",
+  "venue": "Research Square (preprint)",
+  "jurisdiction_country": "IN",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "other_embodied"
+  ],
+  "primary_embodied_category": "other_embodied",
+  "application_sectors": [
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "transparency_explainability",
+   "safety_physical_harm",
+   "standards_interoperability",
+   "ethics_principles",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "technical_or_engineering",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Preprint adapting Sociocracy 3.0 principles into a technical governance framework for multi-robot systems, with a three-tier consent protocol integrated into ROS 2. Evaluated on simulations and the DROID-100 dataset, it reports fewer coordination conflicts and better debuggability while scaling to about 12 robots before degradation.",
+  "key_provisions_or_claims": [
+   "Adapts the seven S3 principles to distributed multi-robot governance",
+   "Three-tier consent protocol: automatic, active and full consent",
+   "Drivers classified as safety-critical, operational or optimization determine the consent level",
+   "Integrated with ROS 2 and DDS",
+   "Evaluation shows fewer coordination conflicts; scalability threshold around 12 robots"
+  ],
+  "confidence": 0.8
+ }
+}

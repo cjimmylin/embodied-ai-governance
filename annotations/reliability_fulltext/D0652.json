@@ -1,0 +1,111 @@
+{
+ "doc_id": "D0652",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:14:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.062203800000000004,
+  "in": 4,
+  "out": 3797,
+  "cache_read": 28128,
+  "cache_create": 5798,
+  "api_ms": 21166,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Five Trends in Russian Robotics",
+  "title_en": "Five Trends in Russian Robotics",
+  "language": "en",
+  "authors_or_issuer": "International Federation of Robotics (IFR) member blog; Konuikhovskaia, A. (Russian Association of Robotics)",
+  "issuer_type": "industry_association",
+  "pub_year": 2019,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "IFR (ifr.org) member blog",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "RU",
+   "KR"
+  ],
+  "doc_type": "blog_or_opinion",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots",
+   "professional_service_robots",
+   "educational_robots",
+   "rehabilitation_exoskeleton_prosthetic",
+   "drones_uas",
+   "autonomous_road_vehicles",
+   "space_or_extreme_environment"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "education",
+   "manufacturing",
+   "energy_environment",
+   "healthcare",
+   "agriculture_food",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "labor_employment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "IFR member blog by the Russian Association of Robotics describing five trends in Russian robotics: government digitalisation policy, educational robotics demand, service robot growth, industrial robot uptake, and SME-oriented offerings. Notes planned AI and robotics regulation to reduce legal risk and a state-funded R&D roadmap.",
+  "key_provisions_or_claims": [
+   "Russia's 'Digital economy' program (2017) includes robotics; the Russian Association of Robotics is drafting an industry strategy with the Ministry of Trade and Industry.",
+   "The government plans AI and robotics regulation to clarify legal issues and reduce legal risk; research on regulatory approaches was commissioned in 2018.",
+   "A government R&D roadmap for advanced robotics sets priority state-funded technologies.",
+   "Educational and service robotics are major growth drivers, with strong exports.",
+   "Industrial robot density is very low (4 per 10,000 workers in 2017); cobots and Robot-as-a-Service may open the SME market."
+  ],
+  "confidence": 0.9
+ }
+}

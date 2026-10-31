@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0783",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:30:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0467498,
+  "in": 2,
+  "out": 1885,
+  "cache_read": 11758,
+  "cache_create": 6680,
+  "api_ms": 9978,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "「臺灣 AI 行動計畫 2.0」於 114 年度預計投入 157 億餘元,允宜建置統籌檢討機制並完善 AI 法制作業,以強化各細部計畫之鏈結,俾達成厚植 AI 國力目標",
+  "title_en": "Taiwan AI Action Plan 2.0: NT$15.7 billion planned for FY2025; a coordinating review mechanism and AI legislation should be established to strengthen links among sub-plans",
+  "language": "zh",
+  "authors_or_issuer": "Control Yuan / Audit authority (Taiwan) – review of central government budget",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Audit report on FY2025 central government budget (Taiwan)",
+  "jurisdiction_country": "TW",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "TW",
+   "EU",
+   "US",
+   "JP",
+   "SG"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "sustainability_environment",
+   "education_training",
+   "other"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Taiwan government review of the Taiwan AI Action Plan 2.0 (NT$15.75 billion budgeted for 2025). It finds no overall performance review across ministries, and urges a cross-ministry coordinating mechanism, faster enactment of the AI Basic Act, and better power infrastructure and AI talent supply.",
+  "key_provisions_or_claims": [
+   "Establish a cross-ministry coordinating review mechanism for AI Action Plan 2.0 sub-plans",
+   "Expedite legislation of the draft AI Basic Act (18 articles, principle-based), pending since 2019",
+   "AI power demand to rise about 8x by 2028, so infrastructure must be strengthened",
+   "Strengthen AI talent via on-the-job training and industry-academia cooperation",
+   "FY2025 budget NT$15.748 billion, up 29.9% from FY2024"
+  ],
+  "confidence": 0.7
+ }
+}

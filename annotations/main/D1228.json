@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1228",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:39:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0408298,
+  "in": 2,
+  "out": 1707,
+  "cache_read": 11758,
+  "cache_create": 5645,
+  "api_ms": 12024,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Decent work in global supply chains (Report IV, ILC 105th Session)",
+  "title_en": "Decent work in global supply chains (Report IV, ILC 105th Session)",
+  "language": "en",
+  "authors_or_issuer": "International Labour Office (ILO), Geneva",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2016,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "International Labour Conference, 105th Session (ILO Research Guides)",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "BD",
+   "PK",
+   "ET",
+   "MX",
+   "ZA"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "industrial_policy_innovation",
+   "safety_physical_harm",
+   "other"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "self_regulation_codes",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "ILO Report IV for the 2016 International Labour Conference on decent work in global supply chains. It reviews production, trade, investment and employment trends, economic and social upgrading, and public, private, social-partner and multilateral governance, identifying governance gaps. It does not address AI or robotics, despite being listed in an ILO AI-and-work guide.",
+  "key_provisions_or_claims": [
+   "Global supply chains create jobs but can cause decent work deficits, as shown by Rana Plaza.",
+   "Economic upgrading does not automatically bring social upgrading; deliberate interventions are needed.",
+   "Public, private, social-partner and multilateral governance approaches leave a governance gap.",
+   "Suggests points for discussion on closing the governance gap at the conference."
+  ],
+  "confidence": 0.8
+ }
+}

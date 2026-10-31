@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-fc4dbfd1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0674898,
+  "in": 2,
+  "out": 1687,
+  "cache_read": 11758,
+  "cache_create": 12360,
+  "api_ms": 8528,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Council Recommendation of 9 March 2026 on human capital in the European Union",
+  "title_en": "Council Recommendation of 9 March 2026 on human capital in the European Union",
+  "language": "en",
+  "authors_or_issuer": "Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (C series)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "education_training",
+   "labor_employment",
+   "industrial_policy_innovation",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Council Recommendation urging EU Member States in 2026-2027 to address skills shortages, strengthen basic and digital skills including AI literacy, improve VET and STEM tertiary education, raise education investment, and develop skills intelligence. AI appears only as a skills topic; no robotics or physical AI governance.",
+  "key_provisions_or_claims": [
+   "Address skills shortages in strategic sectors, focusing on STEM, ICT and AI",
+   "Strengthen basic skills and AI literacy, with ethical and responsible AI use",
+   "Boost VET quality and STEM participation, especially of women",
+   "Promote public and private investment in education and skills, with impact evaluation",
+   "Use big data and AI to improve skills intelligence"
+  ],
+  "confidence": 0.93
+ }
+}

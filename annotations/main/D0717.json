@@ -1,0 +1,92 @@
+{
+ "doc_id": "D0717",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:26:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0425798,
+  "in": 2,
+  "out": 1652,
+  "cache_read": 11758,
+  "cache_create": 6220,
+  "api_ms": 8077,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Guidelines (Personal Information Protection Commission, Korea – guidelines listing)",
+  "title_en": "Guidelines (Personal Information Protection Commission, Korea – guidelines listing)",
+  "language": "en",
+  "authors_or_issuer": "Personal Information Protection Commission (PIPC), Republic of Korea",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "PIPC English website",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "privacy_data_protection"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Index page of Korea's Personal Information Protection Commission listing four English-translated guidelines: pseudonymizing unstructured data (2024), biometric information protection (2022), an AI personal information protection self-checklist (2021), and supplementary rules for data transferred to Korea (2021). No substantive guideline text and no embodied-AI content.",
+  "key_provisions_or_claims": [
+   "Lists guideline on pseudonymizing unstructured data (2024.11.14)",
+   "Lists Biometric Information Protection Guideline (2022.11.30)",
+   "Lists AI personal information protection self-checklist (2021.07.09)",
+   "Lists supplementary PIPA rules for personal data transferred to Korea (2021.02.09)",
+   "English translations are unofficial; Korean versions prevail"
+  ],
+  "confidence": 0.8
+ }
+}

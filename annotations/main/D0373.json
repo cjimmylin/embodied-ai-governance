@@ -1,0 +1,116 @@
+{
+ "doc_id": "D0373",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:16:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04752580000000001,
+  "in": 2,
+  "out": 1915,
+  "cache_read": 11758,
+  "cache_create": 6799,
+  "api_ms": 9921,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Empowering the Future: The Ethical Path to Artificial Intelligence",
+  "title_en": "Empowering the Future: The Ethical Path to Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "Baraka, H.",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Ministry of Communications and Information Technology, Egypt (presentation slides)",
+  "jurisdiction_country": "EG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "EG",
+   "US"
+  ],
+  "doc_type": "other",
+  "doc_class": "grey_literature",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "finance",
+   "education",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "civil_liability",
+   "industrial_policy_innovation",
+   "education_training"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "international_cooperation",
+   "education_training_programs",
+   "audits_impact_assessment",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles",
+   "UNESCO Recommendation on the Ethics of AI",
+   "Hiroshima Process",
+   "Council of Europe Framework Convention on AI",
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Slide deck by an adviser to Egypt's ICT Minister on AI ethics: sector applications, ten case studies of bias, privacy and accountability, global frameworks (OECD, UNESCO, G7, CoE, EU AI Act), and recommendations for Arab-region AI governance. Embodied AI appears only via autonomous vehicles and robotic surgery.",
+  "key_provisions_or_claims": [
+   "Ethical AI principles: transparency, privacy, accountability, fairness, safety, respect for human values",
+   "Ten case studies including Tesla Autopilot crashes, COMPAS, Clearview AI",
+   "Summarises OECD, UNESCO, G7 Hiroshima, Council of Europe treaty and EU AI Act",
+   "Recommends harmonised Arab-region AI policies and data protection laws",
+   "Calls for AI accountability regulatory bodies and ethics education"
+  ],
+  "confidence": 0.8
+ }
+}

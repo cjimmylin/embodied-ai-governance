@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0865",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:30:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07073950000000001,
+  "in": 4,
+  "out": 3704,
+  "cache_read": 29980,
+  "cache_create": 8399,
+  "api_ms": 22544,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "research_science"
+  ],
+  "authors_or_issuer": "Khan, O.; Alberta, M.; Lee, D.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.33552/OJRAT.2023.02.000534",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "military_autonomous_weapons",
+   "other_embodied"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "civil_liability",
+   "safety_physical_harm",
+   "human_robot_interaction_social_effects"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Proposes moral conditioning ('bumper theory') so robots become morally responsible agents, addressing the responsibility gap.",
+   "Implements Haidt's Moral Foundations Theory as a social-learning rulebook for robots.",
+   "Uses computer vision (YOLO, MTCNN) on Jetson Nano to detect humans, dogs and cars to avoid collisions.",
+   "Finds YOLOv4-tiny best suited to the constrained Jetson Nano environment.",
+   "Asimov's Three Laws are deemed insufficient for autonomous vehicles."
+  ],
+  "language": "en",
+  "methodology": "technical_or_engineering",
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "pub_month": 11,
+  "pub_year": 2023,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Research article addressing the robot responsibility gap by proposing moral conditioning ('bumper theory') based on Moral Foundations Theory. It tests YOLO and MTCNN vision models on a Jetson Nano to detect humans and vehicles for collision avoidance, concluding YOLOv4-tiny is best suited for making robots responsible moral agents.",
+  "title_clean": "Responsible Robots and AI Via Moral Conditioning",
+  "title_en": "Responsible Robots and AI Via Moral Conditioning",
+  "venue": "Online Journal of Robotics & Automation Technology"
+ }
+}

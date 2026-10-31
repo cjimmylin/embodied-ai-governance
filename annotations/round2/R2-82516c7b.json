@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-82516c7b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:55:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1810238,
+  "in": 2,
+  "out": 1748,
+  "cache_read": 11758,
+  "cache_create": 40591,
+  "api_ms": 11777,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The General Product Safety Regulations 2005",
+  "title_en": "The General Product Safety Regulations 2005",
+  "language": "en",
+  "authors_or_issuer": "UK Secretary of State, Department of Trade and Industry (legislation.gov.uk)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2005,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "legislation.gov.uk",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "criminal_liability"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "incident_reporting",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [
+   "Directive 2001/95/EC General Product Safety",
+   "Consumer Protection Act 1987"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UK statutory instrument implementing the EU General Product Safety Directive 2001/95/EC (version current to Feb 2025). It requires producers to place only safe consumer products on the market, sets producer and distributor duties, and gives enforcement authorities powers for safety notices, recalls and forfeiture. It contains no AI or robotics provisions.",
+  "key_provisions_or_claims": [
+   "Producers may place only safe products on the market (general safety requirement)",
+   "Conformity with designated standards creates a presumption of safety",
+   "Producers and distributors must notify authorities of risky products and cooperate on recalls",
+   "Authorities may issue suspension, withdrawal, warning, marking and recall notices, with appeal rights and compensation",
+   "Offences carry fines and up to 12 months' imprisonment; due diligence defence available"
+  ],
+  "confidence": 0.93
+ }
+}

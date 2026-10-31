@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-e852c9b8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1942518,
+  "in": 2,
+  "out": 1890,
+  "cache_read": 11758,
+  "cache_create": 43543,
+  "api_ms": 12051,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "PART 121—THE UNITED STATES MUNITIONS LIST (22 CFR Part 121)",
+  "title_en": "Part 121—The United States Munitions List (22 CFR Part 121)",
+  "language": "en",
+  "authors_or_issuer": "U.S. Department of State (International Traffic in Arms Regulations), via eCFR",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "eCFR / Code of Federal Regulations",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas",
+   "autonomous_maritime_or_rail",
+   "autonomous_road_vehicles",
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "The US Munitions List (22 CFR 121), the ITAR schedule of defense articles requiring export licensing across Categories I–XXI. It covers weapons, missiles, vessels, ground vehicles, aircraft and electronics, and includes controls on autonomous unmanned vessel systems, UAV swarming flight controls, unmanned conversion kits and developmental exoskeletons.",
+  "key_provisions_or_claims": [
+   "Enumerates defense articles, technical data and defense services subject to ITAR export licensing across Categories I–XXI.",
+   "Controls autonomous unmanned vessel control systems capable of navigating without human intervention (Cat VI(f)(4)).",
+   "Controls UAV flight control and vehicle management systems with swarming capability (Cat VIII(h)(12)).",
+   "Controls kits converting ground vehicles to unmanned or driver-optional operation (Cat VII(g)(11)).",
+   "Controls DoD-funded developmental exoskeletons (Cat X(b)) and large long-endurance uncrewed vessels."
+  ],
+  "confidence": 0.85
+ }
+}

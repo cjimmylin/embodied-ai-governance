@@ -1,0 +1,110 @@
+{
+ "doc_id": "D1266",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:49:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.10967840000000001,
+  "in": 4,
+  "out": 3671,
+  "cache_read": 39509,
+  "cache_create": 18008,
+  "api_ms": 22061,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Open Science Expert Group of the Estonian Research Council: Principles and Recommendations for Developing National Policy",
+  "title_en": "Open Science Expert Group of the Estonian Research Council: Principles and Recommendations for Developing National Policy",
+  "language": "en",
+  "authors_or_issuer": "Open Science Expert Group of the Estonian Research Council",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2016,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Estonian Research Council",
+  "jurisdiction_country": "EE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "EE",
+   "GB",
+   "NL",
+   "SE",
+   "FI",
+   "EU"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "research_science"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "intellectual_property",
+   "standards_interoperability",
+   "research_ethics"
+  ],
+  "primary_topic": "research_ethics",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "data_governance_requirements",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "OECD Principles and Guidelines for Access to Research Data from Public Funding",
+   "Commission Recommendation on access to and preservation of scientific information 2012",
+   "Horizon 2020 Open Access Guidelines",
+   "Budapest Open Access Initiative"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Estonian Research Council expert group's 2016 principles and recommendations for a national open science policy, covering open access to publicly funded research publications and data, licensing, repositories, data management plans, stakeholder roles and a 2016–2020 implementation schedule. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "By 2020 publicly funded articles should be open access within one year at most, with at least half immediately open.",
+   "Open access must be included in public research funding conditions.",
+   "Funding applications must include data management plans with licensing information.",
+   "Prefer CC BY licences, persistent identifiers and machine-readable metadata.",
+   "ETIS to serve as central repository; open access share rises to 50% then 75% by 2018–2020."
+  ],
+  "confidence": 0.9
+ }
+}

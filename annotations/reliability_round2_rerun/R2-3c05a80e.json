@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-3c05a80e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:04:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030259800000000003,
+  "in": 2,
+  "out": 1672,
+  "cache_read": 11758,
+  "cache_create": 3090,
+  "api_ms": 8454,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "中华人民共和国矿产资源法实施条例",
+  "title_en": "Regulations for the Implementation of the Mineral Resources Law of the People's Republic of China",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中国政府网",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "State Council Decree No. 839 promulgating the Implementing Regulations of the Mineral Resources Law, effective 15 June 2026. It governs mining and exploration rights, terms, renewal, licensing, ecological restoration, strategic mineral reserves and penalties. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Exploration rights last 5 years, renewable up to 3 times; mining rights up to 30 years",
+   "Competitive rights transfers require public notice of at least 30 working days",
+   "Mining right holders must carry out ecological restoration, within 2 years of mine closure at the latest where concurrent restoration is not possible",
+   "Fines imposed for obstructing surveys, failing to report reserves, or unpaid fees",
+   "Takes effect 15 June 2026 and repeals six earlier mineral regulations"
+  ],
+  "confidence": 0.9
+ }
+}

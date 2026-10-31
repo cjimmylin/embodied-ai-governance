@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0221",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:10:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08913560000000001,
+  "in": 2,
+  "out": 1776,
+  "cache_read": 11758,
+  "cache_create": 6407,
+  "api_ms": 12485,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Industrial Robotic Systems & International Human Rights",
+  "title_en": "Industrial Robotic Systems & International Human Rights",
+  "language": "en",
+  "authors_or_issuer": "Basiri, A.; Mousazadeh, R.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2018,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": "10.5539/jpl.v11n1p53",
+  "venue": "Journal of Politics and Law",
+  "jurisdiction_country": "IR",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "US",
+   "CN",
+   "JP",
+   "DE",
+   "KR",
+   "BR"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "safety_physical_harm",
+   "fairness_bias_discrimination",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [],
+  "named_instruments_referenced": [
+   "Universal Declaration of Human Rights",
+   "International Covenant on Economic, Social and Cultural Rights",
+   "ILO conventions"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Journal article by Iranian authors on whether the spread of industrial robots violates international human rights instruments. It focuses on job losses, job insecurity and worker health and safety. The authors argue that replacing workers with robots conflicts with the right to work, equal opportunity and the employment standards protected by the UDHR and related instruments.",
+  "key_provisions_or_claims": [
+   "Industrial robots are rapidly replacing human labour in manufacturing because they cut costs and raise output",
+   "Robotisation reduces jobs, increases job insecurity and threatens worker health and safety",
+   "These effects conflict with UDHR Articles 1, 7, 22 and 23 (equality, right to work, social security)",
+   "The use of industrial robots may violate employment standards in international human rights instruments"
+  ],
+  "confidence": 0.8
+ }
+}

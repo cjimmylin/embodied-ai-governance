@@ -1,0 +1,107 @@
+{
+ "doc_id": "D0515",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:28:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.039405800000000005,
+  "in": 2,
+  "out": 1857,
+  "cache_read": 11758,
+  "cache_create": 4914,
+  "api_ms": 9646,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "智慧機器人之產品責任問題研析",
+  "title_en": "Analysis of Product Liability Issues for Intelligent Robots",
+  "language": "zh",
+  "authors_or_issuer": "立法院 (Legislative Yuan, Taiwan) – 議題研析, 撰稿人：李淑瓊",
+  "issuer_type": "legislature",
+  "pub_year": 2025,
+  "pub_month": 6,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "立法院議題研析",
+  "jurisdiction_country": "TW",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "TW",
+   "EU"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "healthcare",
+   "manufacturing",
+   "retail_hospitality",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "legal_personhood_robot_rights",
+   "consumer_protection",
+   "transparency_explainability"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017",
+   "EU AI Liability Directive (proposal)",
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Taiwan Legislative Yuan issue brief on product liability for intelligent robots. It reviews the Civil Code art. 191-1 and Consumer Protection Act arts. 7-9, robot legal status debates, and the EU AI Liability Directive's proposed withdrawal. It concludes existing law is inadequate and recommends studying amendments or a special statute.",
+  "key_provisions_or_claims": [
+   "Civil Code art. 191-1 and Consumer Protection Act arts. 7-9 struggle with autonomous learning robots' causation and complex supply chains.",
+   "Opacity of robot decision-making creates evidentiary burdens for victims.",
+   "Granting AI personhood or a new legal category is debated; it may weaken human designers' liability.",
+   "EU AI Liability Directive proposal (2022) was slated for withdrawal in the Commission's 2025 work programme.",
+   "Recommends balancing consumers and supply-chain actors and evaluating amendments or a special law for Taiwan."
+  ],
+  "confidence": 0.9
+ }
+}

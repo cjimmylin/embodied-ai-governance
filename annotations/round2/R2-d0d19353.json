@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-d0d19353",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.13682060000000001,
+  "in": 4,
+  "out": 3741,
+  "cache_read": 46001,
+  "cache_create": 24430,
+  "api_ms": 26176,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Law on People's Air Defense No. 49/2024/QH15",
+  "title_en": "Law on People's Air Defense No. 49/2024/QH15",
+  "language": "en",
+  "authors_or_issuer": "National Assembly of the Socialist Republic of Vietnam",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "LuatVietnam.vn",
+  "jurisdiction_country": "VN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "VN"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "defense_security",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "military_use_ihl",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Vietnam's Law on People's Air Defense (2024, effective 1 July 2025) sets out air defense forces and activities and a licensing regime for unmanned aircraft and other flying vehicles. The regime covers import/export, manufacture, registration, flight permits, pilot licensing, flight suspension, and suppression and seizure. It also amends the Civil Aviation Law.",
+  "key_provisions_or_claims": [
+   "Unmanned aircraft must be registered before operation; flight permits are required except for sub-0.25 kg recreational flights in permitted areas.",
+   "Manufacture, repair, and trade require certificates of eligibility from the Ministry of National Defense, and products must meet its standards.",
+   "Import and export of unmanned aircraft and related equipment require licences from the defense, public security, or trade ministries.",
+   "Operators must be 18 or older and hold a flight control licence; foreign operators need a Vietnamese guarantor.",
+   "Authorities may suspend flights and suppress or temporarily seize non-compliant drones; the law takes effect 1 July 2025."
+  ],
+  "confidence": 0.85
+ }
+}

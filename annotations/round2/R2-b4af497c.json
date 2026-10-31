@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-b4af497c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:42:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0355078,
+  "in": 2,
+  "out": 1970,
+  "cache_read": 11758,
+  "cache_create": 3657,
+  "api_ms": 12849,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2022/425 of 14 March 2022 amending Implementing Regulation (EU) 2019/947 as regards postponing the transition dates for the use of certain unmanned aircraft systems in the 'open' category and the date of application for standard scenarios for operations executed in or beyond the visual line of sight",
+  "title_en": "Commission Implementing Regulation (EU) 2022/425 of 14 March 2022 amending Implementing Regulation (EU) 2019/947 as regards postponing the transition dates for the use of certain unmanned aircraft systems in the 'open' category and the date of application for standard scenarios for operations executed in or beyond the visual line of sight",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 87/20",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [
+   "Commission Implementing Regulation (EU) 2019/947",
+   "Commission Delegated Regulation (EU) 2019/945",
+   "Regulation (EU) 2018/1139"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "EU Commission implementing regulation postponing transition dates for non-compliant unmanned aircraft systems in the 'open' category and the application of standard scenarios for visual and beyond-visual line of sight operations, because harmonised standards for UAS classes C0–C6 and remote identification will not be available until mid-2023.",
+  "key_provisions_or_claims": [
+   "Article 20 transition date extended from 1 January 2023 to 1 January 2024",
+   "Article 22 transitional period for non-compliant open-category UAS ends 31 December 2023",
+   "Article 5(5) declarations for standard scenarios apply from 1 January 2024",
+   "Member States may accept national standard scenario declarations until 31 December 2023; they cease to be valid from 1 January 2026",
+   "Delay justified by unavailability of harmonised standards for UAS classes C0–C6 and direct remote identification"
+  ],
+  "confidence": 0.95
+ }
+}

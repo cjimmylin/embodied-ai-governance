@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-85b49103",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:47:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0384038,
+  "in": 2,
+  "out": 1898,
+  "cache_read": 11758,
+  "cache_create": 4561,
+  "api_ms": 10230,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2025/2526 of 16 December 2025 amending Implementing Regulation (EU) 2023/2713 to correct the designation of an EU reference laboratory and to designate European Union reference laboratories for diagnostic medical devices intended for detection or quantification of markers of parasite infection and detection of blood grouping markers",
+  "title_en": "Commission Implementing Regulation (EU) 2025/2526 of 16 December 2025 amending Implementing Regulation (EU) 2023/2713 to correct the designation of an EU reference laboratory and to designate European Union reference laboratories for diagnostic medical devices intended for detection or quantification of markers of parasite infection and detection of blood grouping markers",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "ES",
+   "DE",
+   "SE"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "other"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU In Vitro Diagnostic Regulation (EU) 2017/746",
+   "Implementing Regulation (EU) 2023/2713",
+   "Implementing Regulation (EU) 2022/944"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU implementing regulation correcting the designation of a Spanish consortium as EU reference laboratory and designating new EU reference laboratories under the In Vitro Diagnostic Regulation 2017/746 for parasite infection markers and blood grouping markers. It is unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Corrects SERMAS consortium designation to include associated foundations.",
+   "Designates EU reference laboratories for parasite infection markers and blood grouping markers.",
+   "New designations apply to Article 100(2) tasks from 1 May 2026.",
+   "Performance verification applies only to devices with conformity assessment applications lodged from 1 May 2026.",
+   "Enters into force on the third day after publication."
+  ],
+  "confidence": 0.97
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "doc_id": "D1656",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:52:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.044781800000000004,
+  "in": 2,
+  "out": 1757,
+  "cache_read": 11758,
+  "cache_create": 6508,
+  "api_ms": 12291,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "research_science",
+   "domestic_consumer"
+  ],
+  "authors_or_issuer": "Krarup, B.; Lindner, F.; Krivic, S.; Long, D.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": null,
+  "embodied_categories": [
+   "domestic_household_robots",
+   "care_assistive_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "transparency_explainability",
+   "trust_acceptance",
+   "human_robot_interaction_social_effects"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Formalises moral permissibility of robot plans under ethical principles such as do-no-harm in a planning formalism.",
+   "Generates non-contrastive and contrastive explanations of plan ethics from user questions.",
+   "Uses compilations that constrain planning models to satisfy chosen ethical principles.",
+   "User study finds both explanation types help users understand the robot's moral reasoning; contrastive more effective in some cases."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "domestic_household_robots",
+  "primary_topic": "transparency_explainability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2022,
+  "publication_stage": "preprint",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "mixed",
+  "summary_en": "Technical paper presenting a system that lets users ask contrastive questions about the ethics of a robot's action plans and receive automatically generated explanations based on ethical principles like do-no-harm. A user study shows the explanations improve understanding of the robot's moral reasoning.",
+  "title_clean": "Understanding a Robot's Guiding Ethical Principles via Automatically Generated Explanations",
+  "title_en": "Understanding a Robot's Guiding Ethical Principles via Automatically Generated Explanations",
+  "venue": "arXiv"
+ }
+}

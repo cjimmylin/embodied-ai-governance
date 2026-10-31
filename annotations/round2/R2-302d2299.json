@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-302d2299",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:43:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.044129800000000004,
+  "in": 2,
+  "out": 1829,
+  "cache_read": 11758,
+  "cache_create": 6165,
+  "api_ms": 9001,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Directive 2009/127/EC of the European Parliament and of the Council of 21 October 2009 amending Directive 2006/42/EC with regard to machinery for pesticide application",
+  "title_en": "Directive 2009/127/EC of the European Parliament and of the Council of 21 October 2009 amending Directive 2006/42/EC with regard to machinery for pesticide application",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2009,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 310/29",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "agricultural_robots"
+  ],
+  "primary_embodied_category": "other_embodied",
+  "application_sectors": [
+   "agriculture_food",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Regulation"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EU directive amending the 2006 Machinery Directive to add essential environmental protection requirements for the design and construction of pesticide application machinery, including leakage prevention, drift control, calibration, testing and instructions. It is not AI-specific; it concerns conventional machinery, including self-propelled and airborne equipment.",
+  "key_provisions_or_claims": [
+   "Adds environment to the 'essential health and safety requirements' definition in Directive 2006/42/EC",
+   "New Annex I section 2.4 sets requirements for pesticide application machinery",
+   "Manufacturers must assess risks of unintended environmental exposure and test for distribution and drift",
+   "Instructions must give information on use, maintenance and inspection",
+   "Member States must transpose by 15 June 2011 and apply from 15 December 2011"
+  ],
+  "confidence": 0.85
+ }
+}

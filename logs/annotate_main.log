@@ -1,0 +1,54 @@
+model=claude-sonnet-5-5 prompt_hash=8d4d83e909f0 docs=1683 out=/home/user/embodied-ai-governance/annotations/main
+[25/1683] D0020 ok cost_so_far=$1.46 elapsed=51s
+[50/1683] D0043 ok cost_so_far=$2.62 elapsed=90s
+[75/1683] D0078 ok cost_so_far=$3.82 elapsed=130s
+[100/1683] D0103 ok cost_so_far=$5.05 elapsed=174s
+[125/1683] D0119 ok cost_so_far=$6.28 elapsed=210s
+[150/1683] D0152 ok cost_so_far=$7.45 elapsed=252s
+[175/1683] D0175 ok cost_so_far=$8.64 elapsed=288s
+[200/1683] D0200 ok cost_so_far=$10.07 elapsed=336s
+[225/1683] D0226 ok cost_so_far=$11.32 elapsed=375s
+[250/1683] D0244 ok cost_so_far=$12.55 elapsed=417s
+[275/1683] D0275 ok cost_so_far=$13.71 elapsed=460s
+[300/1683] D0300 ok cost_so_far=$15.14 elapsed=500s
+Traceback (most recent call last):
+  File "/home/user/embodied-ai-governance/scripts/04_annotate.py", line 73, in <module>
+    if so:
+    
+  File "/usr/lib/python3.13/concurrent/futures/_base.py", line 453, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/concurrent/futures/_base.py", line 402, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.13/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/user/embodied-ai-governance/scripts/04_annotate.py", line 57, in work
+    except Exception: return None,{"error":"non-json stdout","stdout":r.stdout[:500],"stderr":r.stderr[:500]}
+                    ^^^^^^^^^
+  File "/home/user/embodied-ai-governance/scripts/04_annotate.py", line 41, in call
+    f=feat.loc[d.file_rel] if d.file_rel in feat.index else None
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/subprocess.py", line 555, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/subprocess.py", line 1040, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        pass_fds, cwd, env,
+                        ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                        gid, gids, uid, umask,
+                        ^^^^^^^^^^^^^^^^^^^^^^
+                        start_new_session, process_group)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/subprocess.py", line 1922, in _execute_child
+    self.pid = _fork_exec(
+               ~~~~~~~~~~^
+            args, executable_list,
+            ^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+            process_group, gid, gids, uid, umask,
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            preexec_fn, _USE_VFORK)
+            ^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: embedded null byte

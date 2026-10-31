@@ -1,0 +1,98 @@
+{
+ "doc_id": "D0055",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:36:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0330178,
+  "in": 2,
+  "out": 1823,
+  "cache_read": 11758,
+  "cache_create": 3402,
+  "api_ms": 9330,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "PL n. 5938/2023 - Altera a Lei 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para prever que provedores de redes sociais adotem medidas para identificar e sinalizar conteúdos realizados com uso de inteligência artificial",
+  "title_en": "Bill No. 5938/2023 - Amends Law 12.965 of 23 April 2014 (Brazilian Internet Civil Framework) to require social network providers to identify and label content produced using artificial intelligence",
+  "language": "pt",
+  "authors_or_issuer": "Dep. Lídice da Mata (PSB/BA), Câmara dos Deputados",
+  "issuer_type": "legislature",
+  "pub_year": 2023,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Câmara dos Deputados (Brazil)",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "consumer_protection",
+   "children_vulnerable_groups",
+   "ethics_principles"
+  ],
+  "primary_topic": "transparency_explainability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "Marco Civil da Internet (Lei 12.965/2014)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Brazilian bill amending the Marco Civil da Internet by adding Article 21-A, requiring social networks and private messaging providers to identify and label images, videos and content made with AI, e.g. via an \"IA\" watermark. Motivated by deepfake nude images targeting women and minors.",
+  "key_provisions_or_claims": [
+   "Adds Art. 21-A to Lei 12.965/2014 (Marco Civil da Internet).",
+   "Social networks and private messaging providers must identify and label AI-generated content within technical limits of their service.",
+   "Labelling may use a watermark with the initials 'IA'.",
+   "Justified by deepfake abuses against women and minors and by the need to counter disinformation.",
+   "Law enters into force on the date of publication."
+  ],
+  "confidence": 0.95
+ }
+}

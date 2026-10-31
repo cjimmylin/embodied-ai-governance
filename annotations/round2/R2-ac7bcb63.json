@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-ac7bcb63",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:43:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.053084599999999996,
+  "in": 4,
+  "out": 3509,
+  "cache_read": 26216,
+  "cache_create": 4526,
+  "api_ms": 16521,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "로봇윤리헌장 제정으로, 1가구 1로봇시대 앞당겨질 듯",
+  "title_en": "With the Establishment of a Robot Ethics Charter, the Era of One Robot per Household Is Likely to Arrive Sooner",
+  "language": "ko",
+  "authors_or_issuer": "산업자원부 (Ministry of Commerce, Industry and Energy), via Korea Policy Briefing",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2007,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "대한민국 정책브리핑 (korea.kr)",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "domestic_household_robots",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "domestic_household_robots",
+  "application_sectors": [
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "safety_physical_harm",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "March 2007 press release from Korea's Ministry of Commerce, Industry and Energy announcing the drafting of a Robot Ethics Charter providing safety and ethical guidelines for robots, intended to create mass demand and prepare for a future robot society. Only the headline and subtitle are available; the body is in an attached HWP file.",
+  "key_provisions_or_claims": [
+   "Government is pursuing establishment of a Robot Ethics Charter",
+   "Charter to present robot safety and ethical guidelines",
+   "Aims to create large-scale demand and prepare for a future robot society",
+   "Framed as accelerating the 'one robot per household' era"
+  ],
+  "confidence": 0.7
+ }
+}

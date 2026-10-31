@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-25518040",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:32:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0421278,
+  "in": 2,
+  "out": 1740,
+  "cache_read": 11758,
+  "cache_create": 5887,
+  "api_ms": 8844,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "人力资源社会保障部 国家发展改革委 工业和信息化部 农业农村部关于实施创业模式引领行动的通知",
+  "title_en": "Notice of the Ministry of Human Resources and Social Security, NDRC, MIIT and Ministry of Agriculture and Rural Affairs on Implementing the Entrepreneurship Model Leading Action",
+  "language": "zh",
+  "authors_or_issuer": "人力资源社会保障部; 国家发展改革委; 工业和信息化部; 农业农村部",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "labor_employment",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese four-ministry notice (No. 30 of 2026) launching an entrepreneurship model leading action. It promotes four models (science and technology achievements, industrial development, vocational skills, and livelihood needs plus entrepreneurship) through talent support, incubation, training and coordination by 2028. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Targets by 2028 a stronger policy system for four entrepreneurship models",
+   "Supports scientist entrepreneurship and technology transfer",
+   "Integrates skills training with entrepreneurship training",
+   "Builds incubation services for industry and livelihood projects",
+   "Requires local coordination, policy support, publicity and supervision"
+  ],
+  "confidence": 0.93
+ }
+}

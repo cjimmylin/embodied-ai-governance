@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-04d67cda",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:43:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0328358,
+  "in": 2,
+  "out": 1718,
+  "cache_read": 11758,
+  "cache_create": 3619,
+  "api_ms": 10888,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Mobilisation of the European Globalisation Adjustment Fund: application EGF/2010/017 DK/Midtjylland Machinery/Denmark",
+  "title_en": "Mobilisation of the European Globalisation Adjustment Fund: application EGF/2010/017 DK/Midtjylland Machinery/Denmark",
+  "language": "en",
+  "authors_or_issuer": "European Parliament",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2011,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, C 56 E",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "DK",
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Parliament resolution of 28 September 2011 approving mobilisation of the European Globalisation Adjustment Fund for 325 workers made redundant in machinery manufacturing in Midtjylland, Denmark. Unrelated to AI or robotics; concerns labour market reintegration funding.",
+  "key_provisions_or_claims": [
+   "Approves EGF mobilisation for Danish machinery manufacturing redundancies (813 redundancies, 325 targeted)",
+   "Calls for faster, more transparent EGF procedures",
+   "EGF may co-finance only active labour market measures leading to long-term employment",
+   "EGF assistance must not replace company responsibilities under national law or collective agreements",
+   "Welcomes dedicated 2011 EGF budget line and EUR 50 million reinforcement"
+  ],
+  "confidence": 0.9
+ }
+}

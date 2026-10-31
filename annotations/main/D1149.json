@@ -1,0 +1,105 @@
+{
+ "doc_id": "D1149",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:37:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0322818,
+  "in": 2,
+  "out": 1773,
+  "cache_read": 11758,
+  "cache_create": 3343,
+  "api_ms": 9157,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "datos.gob.es (Spanish Ministry for Digital Transformation and Public Administration)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.7,
+  "countries_discussed": [
+   "ES"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "data_governance_requirements",
+   "education_training_programs",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "cybersecurity",
+   "standards_interoperability",
+   "transparency_explainability",
+   "sustainability_environment",
+   "education_training"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Strategy built around three axes and eight levers to expand AI in Spain over two years",
+   "Develop ALIA family of foundational language models in Spanish and co-official languages",
+   "Common data and corpus governance model for security, quality, interoperability and re-use in public sector",
+   "Draft a cybersecurity law and support AI cybersecurity ecosystem",
+   "Strengthen AESIA's monitoring and sanctioning capacity for responsible AI deployment"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "EU Energy Efficiency Directive"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Blog/infographic page from Spain's open data portal summarising the Spanish Artificial Intelligence Strategy 2024: three objectives, three axes and eight levers covering supercomputing, language models (ALIA), public and private sector adoption, cybersecurity and AESIA's supervisory role. No robotics content.",
+  "title_clean": "Data reuse and data governance in the new AI 2024 strategy",
+  "title_en": "Data reuse and data governance in the new AI 2024 strategy",
+  "venue": "datos.gob.es",
+  "methodology": "not_applicable"
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0567",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:22:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0320478,
+  "in": 2,
+  "out": 1764,
+  "cache_read": 11758,
+  "cache_create": 3307,
+  "api_ms": 11273,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Agile Governance and Robot/AI Ethics",
+  "title_en": "Agile Governance and Robot/AI Ethics",
+  "language": "en",
+  "authors_or_issuer": "Kukita, M.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Journal of the Robotics Society of Japan",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP",
+   "EU"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "care_assistive_robots",
+   "educational_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "domestic_consumer",
+   "healthcare",
+   "education"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "children_vulnerable_groups",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Japanese-journal article by Kukita on agile governance and ethics of robots and AI. It reviews ELSI approaches, Japan's agile governance policy and the EU AI Act, then discusses ethical issues of social and companion robots, especially for children, attachment and trust. The text is extracted in garbled form, so details are limited.",
+  "key_provisions_or_claims": [
+   "Reviews agile governance as Japan's approach to AI and robot regulation, contrasted with the EU AI Act.",
+   "Discusses ethical issues of social robots such as Pepper, LOVOT and aibo.",
+   "Raises concerns about children's attachment to companion robots, citing Turkle and Bryson.",
+   "Draws on reflective equilibrium and ELSI-based ethical deliberation."
+  ],
+  "confidence": 0.5
+ }
+}

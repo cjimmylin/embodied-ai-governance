@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1289",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:41:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028239800000000002,
+  "in": 2,
+  "out": 1728,
+  "cache_read": 11758,
+  "cache_create": 2445,
+  "api_ms": 8363,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "OSH and the Future of Work: benefits and risks of artificial intelligence tools in workplaces",
+  "title_en": "OSH and the Future of Work: benefits and risks of artificial intelligence tools in workplaces",
+  "language": "en",
+  "authors_or_issuer": "European Agency for Safety and Health at Work (EU-OSHA)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2019,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "EU-OSHA website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "collaborative_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "labor_employment",
+   "human_robot_interaction_social_effects",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EU-OSHA publication page for a 2019 discussion paper on how AI and big data affect occupational safety and health. It gives workplace examples, including people analytics, AI-augmented robotics, chatbots and wearables, and discusses the consequences of poor implementation and the conditions for good implementation. Only the abstract is shown.",
+  "key_provisions_or_claims": [
+   "Digital developments such as AI and big data will significantly change work and affect wellbeing, safety and health.",
+   "Examples of workplace AI: people analytics, recruitment, AI-augmented robotics, chatbots, wearables on assembly lines.",
+   "Poor implementation of AI technology can have negative OSH consequences.",
+   "Good implementation depends on specific conditions."
+  ],
+  "confidence": 0.8
+ }
+}

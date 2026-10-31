@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-69068222",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:15:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06701140000000001,
+  "in": 4,
+  "out": 3651,
+  "cache_read": 29164,
+  "cache_create": 7642,
+  "api_ms": 17588,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "SB226 Enrolled: An Act relating to motor vehicles; requirements for the authorization and use of motor vehicles equipped with an automated driving system",
+  "title_en": "Alabama SB226 Enrolled Act: Automated Driving System-Equipped Motor Vehicles",
+  "language": "en",
+  "authors_or_issuer": "Alabama Legislature (Senator Allen)",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Alabama Legislature",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "safety_physical_harm",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "insurance_requirement",
+   "liability_regime",
+   "incident_reporting",
+   "licensing_registration",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Enrolled Alabama act authorizing operation of automated driving system-equipped vehicles on public roads, including driverless operation if a minimal risk condition is achievable. It sets insurance minimums, crash-response duties, treats the ADS as operator, preempts local regulation, and permits on-demand autonomous vehicle networks. Effective October 1, 2024.",
+  "key_provisions_or_claims": [
+   "Driverless ADS vehicles may operate if they comply with traffic laws and FMVSS and can achieve a minimal risk condition",
+   "Fully autonomous vehicles require proof of at least $100,000 liability coverage; commercial driverless operators must carry $1,000,000 per accident",
+   "ADS is deemed the operator when engaged and solely responsible for driving",
+   "State preempts local entities from regulating or taxing ADS vehicle operation",
+   "On-demand autonomous vehicle networks allowed under TNC laws; effective October 1, 2024"
+  ],
+  "confidence": 0.93
+ }
+}

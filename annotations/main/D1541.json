@@ -1,0 +1,102 @@
+{
+ "doc_id": "D1541",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:48:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0684928,
+  "in": 4,
+  "out": 3556,
+  "cache_read": 29843,
+  "cache_create": 8180,
+  "api_ms": 25907,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "authors_or_issuer": "Fauquet-Alekhine, P.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "FR",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.9734/air/2023/v24i5967",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "biohybrid_or_cyborg",
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "other"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2023,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Journal article examining, under French law, when a robot granted \"electronic person\" status is born or dies. Applies the analysis to a real smart android and a fictional biodroid, proposing that birth equals first activation and that non-autonomous modification of its thought system creates a new entity.",
+  "key_provisions_or_claims": [
+   "Birth of a smart android corresponds to its first activation, by analogy with humans.",
+   "Modification of the AI/thought system not resulting from autonomous development creates a new entity and ends the prior one.",
+   "Electronic person status is lost by the prior version and must be reassessed for the new one.",
+   "Software updates differ from hardware repairs, which do not change identity.",
+   "Introduces the biodroid, an artificial bio-cybernetic hybrid, as a legal personhood case."
+  ],
+  "title_clean": "Legal Personhood and Robotics: Birth of the Smart Android and of the Biodroid",
+  "title_en": "Legal Personhood and Robotics: Birth of the Smart Android and of the Biodroid",
+  "venue": "Advances in Research"
+ }
+}

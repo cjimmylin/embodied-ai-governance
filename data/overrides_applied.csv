@@ -1,0 +1,80 @@
+doc_id,field,old,new,reason,source
+D0915,instrument_status,superseded_or_repealed,superseded_or_repealed,Executive Order 14110 was revoked on 20 January 2025 by Executive Order 14148 (Initial Rescissions of Harmful Executive Orders and Actions),"Federal Register, EO 14148, 20 Jan 2025"
+D0218,doc_type,technical_standard,web_page_informational,ISO catalogue landing page captured in place of a standard; not itself a standard,capture inspection
+D0218,doc_class,governance_instrument_soft,communication_or_news,as above,capture inspection
+D0218,is_governance_document,True,False,as above,capture inspection
+D0218,binding_nature,technical_standard_voluntary,not_applicable,as above,capture inspection
+D0218,instrument_status,published_current,not_applicable,as above,capture inspection
+D0218,page_quality,landing_or_index_page,landing_or_index_page,as above,capture inspection
+D0398,doc_type,technical_standard,web_page_informational,ISO Store landing page captured in place of a standard,capture inspection
+D0398,doc_class,governance_instrument_soft,communication_or_news,as above,capture inspection
+D0398,is_governance_document,False,False,as above,capture inspection
+D0398,binding_nature,not_applicable,not_applicable,as above,capture inspection
+D0398,instrument_status,not_applicable,not_applicable,as above,capture inspection
+D0398,page_quality,landing_or_index_page,landing_or_index_page,as above,capture inspection
+D1382,doc_type,technical_standard,web_page_informational,ISO Store landing page captured in place of a standard,capture inspection
+D1382,doc_class,governance_instrument_soft,communication_or_news,as above,capture inspection
+D1382,is_governance_document,False,False,as above,capture inspection
+D1382,binding_nature,not_applicable,not_applicable,as above,capture inspection
+D1382,instrument_status,not_applicable,not_applicable,as above,capture inspection
+D1382,page_quality,landing_or_index_page,landing_or_index_page,as above,capture inspection
+D0045,doc_type,technical_standard,web_page_informational,"ISO/TC 299 technical-committee page, not a standard",capture inspection
+D0045,doc_class,governance_instrument_soft,communication_or_news,as above,capture inspection
+D0045,is_governance_document,True,False,as above,capture inspection
+D0045,binding_nature,technical_standard_voluntary,not_applicable,as above,capture inspection
+D0045,instrument_status,published_current,not_applicable,as above,capture inspection
+D0045,page_quality,landing_or_index_page,landing_or_index_page,as above,capture inspection
+D1446,doc_class,communication_or_news,unusable,Capture is the full text of Shakespeare's The Rape of Lucrece (1594); the collector's intended source (a paper on sex robots and consent) was not captured. Not an AI document,capture inspection
+D1446,page_quality,substantive_document,error_or_blocked_page,Wrong document captured; treated as a failed capture,capture inspection
+D1446,year_final,1594.0,,"Year 1594 belongs to the mis-captured poem, not to the intended source",capture inspection
+D1462,year_final,2027.0,2026.0,Annotated as 2027 (forthcoming issue date); capped at the collection year 2026 and flagged as forthcoming,annotation inspection
+D0756,doc_class,governance_instrument_binding,unusable,"Japan's 1947 Antimonopoly Act captured in full; not an AI document (ai_scope not_ai, relevance 0). Excluded as off-topic capture",capture inspection
+D0756,page_quality,substantive_document,error_or_blocked_page,Off-topic capture; treated as a failed capture so it does not enter the usable set,capture inspection
+D0480,page_quality,substantive_document,error_or_blocked_page,"Capture is a 204-word stub of the Ministry of Justice law-database page (login/navigation text); the instrument exists but its content could not be read, so it is excluded from content analyses and recorded in the coverage audit",capture inspection; confidence 0.40; year from PDF metadata
+D0480,doc_class,communication_or_news,unusable,as above,capture inspection
+D0480,year_final,2025.0,2018.0,"Taiwan MOJ law database: promulgated 19 Jan 1987, last amended 14 Feb 2018; the 2025 date came from PDF metadata of a login stub",governance expert review; MOJ history page (pcode N0060025)
+D0944,instrument_status,superseded_or_repealed,in_force,EO 13859 (2019) was not revoked by EO 14179; coded as repealed in error,governance expert review
+D1022,doc_type,statute_or_act,web_page_informational,AI Act Service Desk page reproducing Article 62 of Regulation (EU) 2024/1689; not a separate instrument,governance expert review
+D1022,doc_class,governance_instrument_binding,communication_or_news,as above,governance expert review
+D1022,is_governance_document,True,False,as above,governance expert review
+D1022,binding_nature,legally_binding,not_applicable,as above,governance expert review
+D1022,instrument_status,in_force,not_applicable,as above,governance expert review
+D1022,year_final,2026.0,2024.0,article of the 2024 regulation,governance expert review
+D1023,doc_type,statute_or_act,web_page_informational,AI Act Service Desk page reproducing Article 26 of Regulation (EU) 2024/1689; not a separate instrument,governance expert review
+D1023,doc_class,governance_instrument_binding,communication_or_news,as above,governance expert review
+D1023,is_governance_document,True,False,as above,governance expert review
+D1023,binding_nature,legally_binding,not_applicable,as above,governance expert review
+D1023,instrument_status,in_force,not_applicable,as above,governance expert review
+D1023,year_final,2026.0,2024.0,article of the 2024 regulation,governance expert review
+D1103,instrument_status,draft_or_bill_under_consideration,superseded_or_repealed,2021 Commission proposal annexes; enacted as Regulation (EU) 2024/1689,governance expert review
+D1290,instrument_status,draft_or_bill_under_consideration,superseded_or_repealed,2021 Commission proposal COM(2021) 206; enacted as Regulation (EU) 2024/1689,governance expert review
+D1142,instrument_status,draft_or_bill_under_consideration,superseded_or_repealed,Negotiating text of the AI Act; enacted as Regulation (EU) 2024/1689,governance expert review
+D1064,instrument_status,draft_or_bill_under_consideration,superseded_or_repealed,Draft compromise amendments on the AI Act; enacted as Regulation (EU) 2024/1689,governance expert review
+D0079,instrument_status,in_force,in_force,Regulation of Law 31814 approved by Supreme Decree 115-2025-PCM,governance expert review
+D0460,instrument_status,in_force,published_current,Shanghai implementation plan coded in_force with voluntary soft-law nature; scheme requires published_current for soft instruments,governance expert review
+D0511,is_governance_document,True,False,"JST Moonshot programme-director policy (funding-call appendix), not a governance instrument",governance expert review
+D0511,doc_class,governance_instrument_soft,grey_literature,as above,governance expert review
+D0511,doc_type,policy_guideline_or_code_of_practice,industry_or_ngo_report,as above,governance expert review
+D0511,instrument_status,published_current,not_applicable,as above,governance expert review
+D0511,binding_nature,voluntary_soft_law,not_applicable,as above,governance expert review
+D1436,is_governance_document,True,False,"H2020 MARIO project deliverable D1.2 (research ethics framework), not a governance instrument",governance expert review
+D1436,doc_class,governance_instrument_soft,grey_literature,as above,governance expert review
+D1436,doc_type,ethical_framework_or_principles,industry_or_ngo_report,as above,governance expert review
+D1436,instrument_status,published_current,not_applicable,as above,governance expert review
+D1436,binding_nature,voluntary_soft_law,not_applicable,as above,governance expert review
+D0945,is_governance_document,True,False,"CPSC staff report not reviewed by the Commission; a government report, not an instrument",governance expert review
+D0945,instrument_status,proposal_or_concept,not_applicable,as above,governance expert review
+D0713,year_final,2021.0,2026.0,Taiwan AI Basic Act passed December 2025 and promulgated January 2026; the capture is a 205-word login stub,governance expert review
+D0713,page_quality,substantive_document,error_or_blocked_page,205-word login stub (confidence 0.35); instrument exists but its content could not be read; excluded from content analyses and listed in the coverage audit,governance expert review
+D0713,doc_class,communication_or_news,unusable,as above,governance expert review
+D0699,instrument_status,in_force,superseded_or_repealed,Japanese bill enacted as Act No. 53 of 2025 (captured as D0712),governance expert review
+D1677,doc_type,international_treaty_or_convention,statute_or_act,"Charter of Fundamental Rights is EU primary law, not an international treaty",governance expert review
+D1677,year_final,2010.0,2000.0,Proclaimed 2000; legally binding since 2009,governance expert review
+D1299,doc_type,intergovernmental_recommendation_or_resolution,parliamentary_material,European Parliament legislative-initiative resolution (Art. 225 TFEU),governance expert review
+D1299,issuer_type,intergovernmental_org,legislature,European Parliament is a supranational legislature,governance expert review
+D0368,study_region,International,Africa,African Commission on Human and Peoples' Rights is an African Union organ; assigned to Africa for parity with EU bodies assigned to Europe,governance expert review
+D0503,is_governance_document,True,True,White paper by a national standards body (Singapore Standards Council with ASTM) acting as a standards roadmap,governance expert review
+D0503,doc_class,governance_proposal_or_draft,governance_instrument_soft,as above,governance expert review
+D0503,doc_type,consultation_or_white_paper,consultation_or_white_paper,as above,governance expert review
+D0503,instrument_status,proposal_or_concept,published_current,as above,governance expert review
+D0503,binding_nature,voluntary_soft_law,voluntary_soft_law,as above,governance expert review

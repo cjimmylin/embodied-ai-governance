@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-baba510e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:17:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0252478,
+  "in": 2,
+  "out": 1634,
+  "cache_read": 11758,
+  "cache_create": 1932,
+  "api_ms": 9959,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "46-5-109 Limitations on unmanned aerial vehicles",
+  "title_en": "46-5-109 Limitations on unmanned aerial vehicles",
+  "language": "en",
+  "authors_or_issuer": "Montana Legislature",
+  "issuer_type": "subnational_government",
+  "pub_year": 2019,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Montana Code Annotated 2025",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "public_administration_justice",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "other"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Montana statute limiting the admissibility of evidence obtained from unmanned aerial vehicles to cases with a search warrant, recognised warrant exceptions, or motor vehicle crash investigations on public roads. It also restricts use of such information in probable cause affidavits and defines UAVs.",
+  "key_provisions_or_claims": [
+   "UAV-derived information is inadmissible unless obtained under a warrant, a recognised exception, or at a public roadway crash scene.",
+   "UAV information cannot support a probable cause affidavit unless obtained under those circumstances.",
+   "Defines UAV as an aircraft operated without direct human intervention on or within it, excluding satellites.",
+   "Enacted 2013, amended 2019."
+  ],
+  "confidence": 0.93
+ }
+}

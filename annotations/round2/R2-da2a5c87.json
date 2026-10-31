@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-da2a5c87",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:29:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.043401800000000004,
+  "in": 2,
+  "out": 1795,
+  "cache_read": 11758,
+  "cache_create": 6068,
+  "api_ms": 9561,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院办公厅转发住房城乡建设部《关于进一步加强城市建筑垃圾治理的意见》的通知",
+  "title_en": "Notice of the General Office of the State Council Forwarding the Ministry of Housing and Urban-Rural Development's Opinions on Further Strengthening Urban Construction Waste Management",
+  "language": "zh",
+  "authors_or_issuer": "国务院办公厅 (General Office of the State Council); 住房城乡建设部",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中国政府网",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "construction",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "State Council General Office notice (Guobanhan [2025] No. 57, 6 June 2025) forwarding the Housing Ministry's opinions on urban construction waste governance. It sets a 50% resource-utilisation target by 2027 and covers source reduction, transport supervision, disposal facilities, recycling and whole-process digital oversight. It is unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Target of over 50% average construction waste recycling in prefecture-level cities by 2027",
+   "Classified treatment of construction waste and source-reduction duties on builders",
+   "Transport vehicle technical requirements, including BeiDou positioning, and a blacklist/exit mechanism",
+   "National information platform using IoT, satellite and big data with electronic manifests",
+   "Joint enforcement and local legislation; support for equipment R&D"
+  ],
+  "confidence": 0.93
+ }
+}

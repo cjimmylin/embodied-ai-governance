@@ -1,0 +1,105 @@
+{
+ "doc_id": "D0747",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:41:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0664071,
+  "in": 4,
+  "out": 3827,
+  "cache_read": 28591,
+  "cache_create": 7063,
+  "api_ms": 23561,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Timbalan Perdana Menteri Malaysia (Deputy Prime Minister's Office), Government of Malaysia",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "MY"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "press_release_or_government_news",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "cybersecurity",
+   "industrial_policy_innovation",
+   "education_training",
+   "trust_acceptance"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "MY",
+  "jurisdiction_scope": "national",
+  "language": "ms",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Malaysia National AI Governance and Ethics Guidelines (AIGE)",
+   "Malaysia Cyber Security Act 2024",
+   "Malaysia Personal Data Protection Act 2010",
+   "National Artificial Intelligence Roadmap 2021-2025"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Speech by Malaysia's Deputy Prime Minister at the launch of the National AI Governance and Ethics Guidelines (AIGE), 20 Sept 2024. It stresses AI's economic benefits, adoption, AI literacy, and how AIGE complements the Cyber Security Act, PDPA, the forthcoming data-sharing bill and the National AI Office, aligned with ASEAN efforts.",
+  "key_provisions_or_claims": [
+   "AIGE guidelines launched to strengthen digital ecosystem trust and complement existing laws",
+   "National AI Office (NAIO) to begin operating November 2024 under MyDIGITAL Corporation",
+   "Data Sharing Bill draft and proposed Malaysia Data Commission announced",
+   "AIGE aligned with ASEAN AI governance and ethics guidance; Malaysia ASEAN Chair 2025",
+   "AI literacy programme 'AI Untuk Rakyat' reached over one million people"
+  ],
+  "title_clean": "Peluncuran Garis Panduan Tadbir Urus dan Etika Kecerdasan Buatan Negara",
+  "title_en": "Launch of the National Guidelines on Artificial Intelligence Governance and Ethics",
+  "venue": "Government of Malaysia official website (.gov.my)"
+ }
+}

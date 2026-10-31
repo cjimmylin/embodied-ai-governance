@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0927",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:00:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0298238,
+  "in": 2,
+  "out": 1664,
+  "cache_read": 11758,
+  "cache_create": 3001,
+  "api_ms": 8308,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence",
+  "title_en": "Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence",
+  "language": "en",
+  "authors_or_issuer": "The White House",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "whitehouse.gov",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "research_science",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "White House fact sheet describing an executive order replacing the term \"Artificial Intelligence\" with \"Super Intelligence\" across the executive branch, tasking the science adviser with proposing a federal definition, and touting US AI leadership, the Genesis Mission funding, and the AI Action Plan.",
+  "key_provisions_or_claims": [
+   "Executive order replaces 'AI' with 'Super Intelligence' (SI) in executive branch communications and non-statutory documents",
+   "APST to propose a Federal definition of SI and identify further executive action",
+   "Cites over $5 billion for the Genesis Mission",
+   "References July 2025 America's AI Action Plan with 90+ federal actions",
+   "References March 2026 National Super Intelligence Policy Framework with legislative recommendations"
+  ],
+  "confidence": 0.8
+ }
+}

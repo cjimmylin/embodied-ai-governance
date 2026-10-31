@@ -1,0 +1,94 @@
+{
+ "doc_id": "D0757",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:27:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0471678,
+  "in": 2,
+  "out": 1672,
+  "cache_read": 11758,
+  "cache_create": 7317,
+  "api_ms": 10239,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "公共政策網路參與實施要點",
+  "title_en": "Implementation Guidelines for Online Public Policy Participation (Taiwan)",
+  "language": "zh",
+  "authors_or_issuer": "行政院 (Executive Yuan, Taiwan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2018,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "join.gov.tw 公共政策網路參與平臺",
+  "jurisdiction_country": "TW",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "TW"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "other",
+   "transparency_explainability"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Taiwan Executive Yuan's implementation guidelines for the Public Policy Online Participation Platform (join.gov.tw), covering proposals, 5,000-endorsement threshold, agency responses, policy and draft regulation consultations, and open data. The collected page was meant to be a generative AI guidance draft consultation, but the text is this unrelated procedural document.",
+  "key_provisions_or_claims": [
+   "Citizens or residents can propose policies; proposals need 5,000 endorsements within 60 days.",
+   "Agencies must respond to qualifying proposals within two months, extendable by up to two more.",
+   "Agencies may consult publicly on major policies and must publish draft laws and regulations for comment.",
+   "National Development Council administers the platform; agencies assign supervising officials.",
+   "Proposal and consultation data are open, with personal contact data withheld."
+  ],
+  "confidence": 0.7
+ }
+}

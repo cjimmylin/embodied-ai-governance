@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1408",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:16:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0964698,
+  "in": 2,
+  "out": 1797,
+  "cache_read": 11758,
+  "cache_create": 19330,
+  "api_ms": 11860,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Autonomous Surgical Robots: The Malpractice-Product Liability Boundary",
+  "title_en": "Autonomous Surgical Robots: The Malpractice-Product Liability Boundary",
+  "language": "en",
+  "authors_or_issuer": "Dönder, B.Ş.; Oğurlu, A.B.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": "10.5281/zenodo.23233237",
+  "venue": "Romaya Journal",
+  "jurisdiction_country": "TR",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "EU",
+   "TR",
+   "US"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "human_oversight_control",
+   "safety_physical_harm",
+   "transparency_explainability"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "EU Product Liability Directive"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Journal article proposing the Autonomy-Control-Risk Attribution (ACRA) framework to decide when harm from autonomous surgical robots falls under medical malpractice, product liability, or concurrent liability, aiming to avoid making surgeons a moral crumple zone. Only abstract and references are available.",
+  "key_provisions_or_claims": [
+   "Malpractice should remain primary where clinicians retain effective control over the relevant clinical risk.",
+   "Product-side liability should gain weight where harm stems from hardware, software, algorithms, warnings or autonomous behavior clinicians cannot detect or control.",
+   "Where control is distributed, concurrent liability is preferable to forcing a single doctrinal category.",
+   "ACRA examines the autonomous function, meaningful human control, risk provenance, informational control and interaction failures.",
+   "Surgeons should not become a moral crumple zone for machine-generated decisions."
+  ],
+  "confidence": 0.85
+ }
+}

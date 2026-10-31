@@ -1,0 +1,110 @@
+{
+ "doc_id": "D0389",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:12:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1481695,
+  "in": 4,
+  "out": 3922,
+  "cache_read": 48255,
+  "cache_create": 26803,
+  "api_ms": 20645,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Kistnasamy, C.; Baldavoo, K.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "ZA",
+   "KR",
+   "EU",
+   "US",
+   "ID"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "review_or_survey_article",
+  "doi": "10.14254/jems.2026.11-1.10",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "professional_service_robots"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "taxation_economic_policy",
+   "labor_employment",
+   "legal_personhood_robot_rights",
+   "industrial_policy_innovation",
+   "education_training"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "ZA",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "A robot tax could offset income tax revenue lost to automation-driven job displacement.",
+   "Revenue could fund retraining, reskilling, unemployment benefits and social protection.",
+   "Current tax law (e.g. South African Income Tax Act s11D, s12C, s12E, s12BA) favours capital over labour; a robot tax would restore neutrality.",
+   "Pigouvian theory frames job displacement and inequality as negative externalities of automation.",
+   "Definition of 'robot', double taxation, innovation effects and legal personhood remain unresolved; international coordination is needed."
+  ],
+  "language": "en",
+  "methodology": "systematic_or_scoping_review",
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017",
+   "ISO 8373"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "taxation_economic_policy",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2026,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Scoping review (Arksey and O'Malley framework, 15 studies) on robot taxation as a fiscal instrument. It argues a robot tax could offset income tax losses from automation, fund worker retraining, correct capital-over-labour tax bias and reduce inequality, with implications for South Africa and developing economies, while noting definitional and evidence gaps.",
+  "title_clean": "Robot taxation as a fiscal policy instrument for sustainable employment: A scoping review with implications for developing economies",
+  "title_en": "Robot taxation as a fiscal policy instrument for sustainable employment: A scoping review with implications for developing economies",
+  "venue": "Economics, Management and Sustainability"
+ }
+}

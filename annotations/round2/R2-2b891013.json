@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-2b891013",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:49:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0824798,
+  "in": 2,
+  "out": 1874,
+  "cache_read": 11758,
+  "cache_create": 15640,
+  "api_ms": 11971,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Delegated Regulation (EU) 2021/1341 of 23 April 2021 supplementing Regulation (EU) 2019/2144 ... type-approval of motor vehicles with regard to their driver drowsiness and attention warning systems",
+  "title_en": "Commission Delegated Regulation (EU) 2021/1341 on type-approval of motor vehicles with regard to driver drowsiness and attention warning systems",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 292/4",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "privacy_data_protection",
+   "human_robot_interaction_social_effects",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "data_governance_requirements",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "EU delegated regulation setting technical requirements and test procedures for type-approval of driver drowsiness and attention warning systems in M and N category vehicles above 70 km/h. It sets validation with human participants, KSS-based thresholds, sensitivity acceptance criteria, privacy constraints and technical service assessment. Applies from 6 July 2022.",
+  "key_provisions_or_claims": [
+   "DDAW systems required for M and N vehicles with design speed above 70 km/h, applying from 6 July 2022",
+   "System must warn at KSS level 8 or above and cannot be manually deactivated",
+   "Must operate without biometric information or facial recognition; data processing must follow Union data protection law",
+   "Manufacturers must validate with at least 10 human participants; average sensitivity above 40% or lower confidence bound above 20%",
+   "Technical services assess documentation and run verification test protocol for type-approval"
+  ],
+  "confidence": 0.9
+ }
+}

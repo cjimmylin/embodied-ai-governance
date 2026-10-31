@@ -1,0 +1,87 @@
+{
+ "doc_id": "D0642",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:24:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.022723800000000002,
+  "in": 2,
+  "out": 1520,
+  "cache_read": 11758,
+  "cache_create": 1586,
+  "api_ms": 12498,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "finance"
+  ],
+  "authors_or_issuer": "Unknown (IGI Global book chapter)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.3,
+  "countries_discussed": [],
+  "date_basis": "inferred_from_content",
+  "doc_class": "research_output",
+  "doc_type": "book_or_chapter",
+  "doi": "10.4018/979-8-3373-3571-1.ch010",
+  "embodied_categories": [],
+  "embodiment_status": "software_agent_called_robot",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "labor_employment"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "XX",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Text unavailable; annotated from title and metadata only."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "error_or_blocked_page",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2025,
+  "publication_stage": "book",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Book chapter, apparently from IGI Global, on challenges and ethical considerations of robotic process automation (software bots) in accounting and finance. The text was blocked, so the annotation rests on the title and metadata only.",
+  "title_clean": "Challenges and Ethical Considerations of Robotic Process Automation in Accounting and Finance",
+  "title_en": "Challenges and Ethical Considerations of Robotic Process Automation in Accounting and Finance",
+  "venue": "IGI Global"
+ }
+}

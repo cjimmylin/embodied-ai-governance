@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-0054fdc5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:38:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0246806,
+  "in": 2,
+  "out": 1661,
+  "cache_read": 80666,
+  "cache_create": 0,
+  "api_ms": 9038,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国土交通省組織規則",
+  "title_en": "Organizational Rules of the Ministry of Land, Infrastructure, Transport and Tourism",
+  "language": "ja",
+  "authors_or_issuer": "国土交通省 (Ministry of Land, Infrastructure, Transport and Tourism, Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2001,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search (Japan)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "logistics_transport",
+   "construction"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japan's ministerial ordinance on the internal organization of the Ministry of Land, Infrastructure, Transport and Tourism (current revision effective Oct 2026), defining bureaus, divisions and official posts. Only incidental AI-related posts appear (an AI utilization planning officer, an automated-driving technology examiner, and a construction automation planning officer).",
+  "key_provisions_or_claims": [
+   "Defines the internal bureaus, divisions and posts of MLIT",
+   "Creates an AI utilization promotion planning officer in the Information Policy Division",
+   "Creates an automated driving technology examiner for vehicle type approval in the Logistics and Automobile Bureau",
+   "Creates a construction automation planning officer for construction machinery",
+   "Contains a cybersecurity office and a personal information protection function"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-7115e06c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1980878,
+  "in": 2,
+  "out": 1856,
+  "cache_read": 11758,
+  "cache_create": 44587,
+  "api_ms": 11202,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Avis sur l'intégration de l'autonomie dans les systèmes d'armes létaux",
+  "title_en": "Opinion on the Integration of Autonomy into Lethal Weapon Systems",
+  "language": "fr",
+  "authors_or_issuer": "Comité d'éthique de la défense (Ministère des Armées, France)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministère des Armées",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "FR",
+   "US"
+  ],
+  "doc_type": "ethical_framework_or_principles",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "ethics_principles",
+   "criminal_liability",
+   "risk_management_risk_tiers",
+   "education_training",
+   "cybersecurity",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "conformity_assessment_certification",
+   "education_training_programs",
+   "international_cooperation",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "opposes",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Opinion of France's Defence Ethics Committee distinguishing fully autonomous lethal weapon systems (SALA), which France should refuse to use, manufacture or export, from lethal systems integrating autonomy under human command (SALIA), which are permissible under conditions. It sets six principles and 25 recommendations on command, risk control, legal review, training and trust.",
+  "key_provisions_or_claims": [
+   "Rejects use, manufacture and export of fully autonomous lethal weapons (SALA).",
+   "Permits SALIA only if the human chain of command keeps situation assessment and accountability.",
+   "Human responsibility is non-derogable; a machine cannot bear responsibility.",
+   "'5C' safeguards: command, risk control, conformity (legal review), knowledge, confidence.",
+   "Continue defence AI research; require lifecycle legality review, validation and emergency deactivation."
+  ],
+  "confidence": 0.93
+ }
+}

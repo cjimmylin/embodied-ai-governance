@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-1f94ead5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:04:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.10709379999999999,
+  "in": 2,
+  "out": 2005,
+  "cache_read": 11758,
+  "cache_create": 21466,
+  "api_ms": 10544,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Report adopted pursuant to Article 112(1) of Regulation (EU) 2024/1689 on the need to review the list of prohibited AI practices and of high-risk AI systems listed in Annex III",
+  "title_en": "Report adopted pursuant to Article 112(1) of Regulation (EU) 2024/1689 on the need to review the list of prohibited AI practices and of high-risk AI systems listed in Annex III",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2026) 234 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "human_dignity_autonomy",
+   "children_vulnerable_groups",
+   "ethics_principles"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "audits_impact_assessment",
+   "incident_reporting",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "The Commission's first annual review under Article 112(1) of the EU AI Act assesses whether to amend Article 5 prohibitions and Annex III high-risk use cases. Drawing on Member State input, a 547-response consultation and AI incident database analysis, it finds no immediate need to amend, but flags a possible gap on CSAM and non-consensual deepfakes and several areas for monitoring.",
+  "key_provisions_or_claims": [
+   "No immediate need to amend Article 5 or Annex III given limited application time and lack of enforcement experience.",
+   "Potential regulatory gap identified: AI systems generating CSAM and non-consensual intimate deepfakes are not covered by Article 5.",
+   "Areas flagged for monitoring: AI companions and therapy chatbots, emotion recognition, dark patterns, point 5 of Annex III, debt collection, critical infrastructure.",
+   "Annex I product-based high-risk systems (e.g. medical devices, self-driving vehicles) are out of scope of the report.",
+   "Next Article 112 assessment due in 2026, coordinated with the AI Board and national authorities."
+  ],
+  "confidence": 0.93
+ }
+}

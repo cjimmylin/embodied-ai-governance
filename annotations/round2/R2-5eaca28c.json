@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-5eaca28c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0423298,
+  "in": 2,
+  "out": 1881,
+  "cache_read": 11758,
+  "cache_create": 5585,
+  "api_ms": 9942,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Council of the European Union",
+  "binding_nature": "legally_binding",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "international_cooperation",
+   "risk_based_tiering",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "human_dignity_autonomy",
+   "risk_management_risk_tiers",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Authorises the Commission to open negotiations for a Council of Europe AI convention on matters of exclusive EU competence.",
+   "Negotiations follow Council negotiating directives set out in an addendum.",
+   "Working Party on Telecommunications and Information Society designated as special committee under Art. 218(4) TFEU.",
+   "Commission must report regularly and cooperate closely with Member States for unified external representation.",
+   "Notes the convention overlaps with the proposed EU AI Act and aims to keep Union and international law consistent."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Council of Europe Framework Convention on AI",
+   "EU AI Act",
+   "GDPR",
+   "EU Product Liability Directive",
+   "EU Machinery Regulation"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 11,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Council Decision (EU) 2022/2349 authorises the European Commission to open negotiations, for matters within exclusive EU competence, on a Council of Europe convention on AI, human rights, democracy and the rule of law. It sets procedure and coordination and stresses consistency with the proposed EU AI Act.",
+  "title_clean": "Council Decision (EU) 2022/2349 of 21 November 2022 authorising the opening of negotiations on behalf of the European Union for a Council of Europe convention on artificial intelligence, human rights, democracy and the rule of law",
+  "title_en": "Council Decision (EU) 2022/2349 of 21 November 2022 authorising the opening of negotiations on behalf of the European Union for a Council of Europe convention on artificial intelligence, human rights, democracy and the rule of law",
+  "venue": "Official Journal of the European Union, L 311"
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0472",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045455800000000005,
+  "in": 2,
+  "out": 1800,
+  "cache_read": 11758,
+  "cache_create": 6569,
+  "api_ms": 8762,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Perspective Chapter: AI in Robotic Surgical Education – Expanding Horizons and Ethical Implications",
+  "title_en": "Perspective Chapter: AI in Robotic Surgical Education – Expanding Horizons and Ethical Implications",
+  "language": "en",
+  "authors_or_issuer": "Macias, C.A.; Goyal, A.; Qureshi, W.; Oviedo, R.J.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.5772/intechopen.1015597",
+  "venue": "IntechOpen – Artificial Intelligence Ethics, Law, and Policy",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "book",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare",
+   "education"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "civil_liability",
+   "transparency_explainability",
+   "education_training",
+   "safety_physical_harm",
+   "standards_interoperability"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "international_cooperation",
+   "audits_impact_assessment",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Perspective book chapter on AI-driven training in robotic surgery, discussing benefits of VR simulation and personalized feedback and ethical concerns: equitable global access, data privacy, transparency, and liability for AI errors. It calls for a regulatory framework and a global committee on surgical AI.",
+  "key_provisions_or_claims": [
+   "Calls for a global committee on surgical AI usage",
+   "Medical technology policy should establish a robust regulatory framework for AI in surgical training",
+   "Ensure equitable access to AI training tools in low-resource settings",
+   "Institutional validation of AI simulators for technical safety and data security before clinical use",
+   "Address data privacy and legal liability for AI errors"
+  ],
+  "confidence": 0.85
+ }
+}

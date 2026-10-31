@@ -1,0 +1,95 @@
+{
+ "doc_id": "D1610",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0453778,
+  "in": 2,
+  "out": 1725,
+  "cache_read": 11758,
+  "cache_create": 6737,
+  "api_ms": 9325,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Socially assistive robots in child healthcare: evaluating internal and external emotion regulation interventions",
+  "title_en": "Socially assistive robots in child healthcare: evaluating internal and external emotion regulation interventions",
+  "language": "en",
+  "authors_or_issuer": "Neerincx, A.; Plat, J.; De Graaf, M.M.A.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": "10.3389/frobt.2025.1628795",
+  "venue": "Frontiers in Robotics and AI",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "human_robot_interaction_social_effects",
+   "children_vulnerable_groups",
+   "trust_acceptance"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Field study of 225 children aged 8–12 during vaccination days comparing a socially assistive robot's guided breathing versus motivational speech and hugging, and active versus passive participation. Active participation, especially hugging, reduced fear and anxiety and increased trust, with stronger effects in girls. It contains no governance content.",
+  "key_provisions_or_claims": [
+   "Active participation in robot interventions reduced fear and anxiety more than passive exposure.",
+   "Physical comfort (hugging) increased engagement and trust, especially among girls.",
+   "Participation mattered more than the type of intervention (breathing vs hugging).",
+   "Girls reported higher baseline fear and anxiety than boys.",
+   "SAR behaviours should be tailored to individual needs."
+  ],
+  "confidence": 0.93
+ }
+}

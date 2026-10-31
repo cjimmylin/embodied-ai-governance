@@ -1,0 +1,105 @@
+{
+ "doc_id": "D0092",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:09:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1328076,
+  "in": 2,
+  "out": 1858,
+  "cache_read": 11758,
+  "cache_create": 11661,
+  "api_ms": 13025,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Projeto regulamenta uso da inteligência artificial no Brasil",
+  "title_en": "Bill regulates the use of artificial intelligence in Brazil",
+  "language": "pt",
+  "authors_or_issuer": "Agência Câmara de Notícias (Câmara dos Deputados)",
+  "issuer_type": "legislature",
+  "pub_year": 2025,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Agência Câmara de Notícias",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "cross_sector",
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "military_use_ihl",
+   "privacy_data_protection",
+   "intellectual_property",
+   "children_vulnerable_groups",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "Brazil PL 2338/2023"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Chamber of Deputies news item (May 2025) on Senate-approved Bill PL 2338/2023, now before the Chamber, which regulates AI in Brazil through risk classification. It bans excessive-risk systems, including autonomous weapons, and restricts facial recognition in public spaces. It also covers copyright remuneration for AI training data.",
+  "key_provisions_or_claims": [
+   "AI systems classified by risk to life and fundamental rights; generative and general-purpose AI require preliminary risk assessment",
+   "Excessive-risk systems banned, including autonomous weapons that select and attack targets without human intervention",
+   "Bans on CSAM-generating systems and predictive crime profiling based on personality traits",
+   "Real-time facial recognition in public spaces allowed only in limited cases with judicial authorisation",
+   "Copyrighted works used for commercial AI training entitle rights holders to remuneration; non-commercial research exceptions"
+  ],
+  "confidence": 0.85
+ }
+}

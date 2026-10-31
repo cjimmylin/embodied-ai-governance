@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0791",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:30:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030623800000000003,
+  "in": 2,
+  "out": 1726,
+  "cache_read": 11758,
+  "cache_create": 3046,
+  "api_ms": 8772,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "인공지능(AI) 기본법 시행 전 보완을 위한 입법 과제",
+  "title_en": "Legislative Tasks for Supplementing the AI Framework Act Before Its Entry into Force",
+  "language": "ko",
+  "authors_or_issuer": "국회입법조사처 (National Assembly Research Service); 정준화",
+  "issuer_type": "legislature",
+  "pub_year": 2025,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "NARS 이슈와논점 (Issues and Perspectives) No. 2327",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "ethics_principles"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "oversight_body_creation",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "Korea AI Basic Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "National Assembly Research Service issue brief reviewing Korea's AI Framework (Basic) Act before implementation. It recommends supplementary legislation: stronger AI governance coordination, clearer definition of high-impact AI, differentiated obligations by AI operator type, and support for GPUs, talent, data centres and AI adoption in manufacturing.",
+  "key_provisions_or_claims": [
+   "Strengthen policy coordination and enforcement capacity of AI governance (National AI Committee)",
+   "Clarify the concept and requirements of high-impact AI",
+   "Differentiate obligations by type of AI business operator",
+   "Expand GPUs, talent, data centres and support AI adoption in manufacturing"
+  ],
+  "confidence": 0.85
+ }
+}

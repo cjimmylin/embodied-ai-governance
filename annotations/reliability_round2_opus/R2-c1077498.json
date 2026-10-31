@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-c1077498",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:06:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0556436,
+  "in": 2,
+  "out": 1815,
+  "cache_read": 11758,
+  "cache_create": 2123,
+  "api_ms": 12634,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "交通运输部 工业和信息化部 国家能源局关于印发《内河新能源船舶推广应用行动方案（2026—2030年）》的通知",
+  "title_en": "Notice of the Ministry of Transport, Ministry of Industry and Information Technology and National Energy Administration on Issuing the Action Plan for Promoting the Application of New-Energy Inland Waterway Vessels (2026–2030)",
+  "language": "zh",
+  "authors_or_issuer": "Ministry of Transport; Ministry of Industry and Information Technology; National Energy Administration (China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese ministerial notice issuing a 2026–2030 action plan to promote new-energy inland waterway vessels (electric, methanol, hydrogen). It sets targets for 2028 and 2030 covering fleet size, charging and fuelling infrastructure, and zero-carbon waterway corridors. It does not address AI or robotics.",
+  "key_provisions_or_claims": [
+   "By 2028 new-energy inland vessel fleet doubles vs 2025; over 1000 electric and 100 methanol-powered ships",
+   "3000 km of zero-carbon waterway transport corridors by 2028",
+   "Promote electric vessels for routes under 300 km and under 3000 DWT",
+   "Promote methanol-powered vessels for long-distance, large-tonnage freight",
+   "Encourage hydrogen, biodiesel and green methanol exploration"
+  ],
+  "confidence": 0.9
+ }
+}

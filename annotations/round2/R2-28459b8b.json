@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-28459b8b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0487138,
+  "in": 2,
+  "out": 1827,
+  "cache_read": 11758,
+  "cache_create": 7316,
+  "api_ms": 9428,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "CAR-UAR Unmanned Aircraft (UA) Recreational Flights, Issue 04",
+  "title_en": "CAR-UAR Unmanned Aircraft (UA) Recreational Flights, Issue 04",
+  "language": "en",
+  "authors_or_issuer": "General Civil Aviation Authority (GCAA), United Arab Emirates",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GCAA website",
+  "jurisdiction_country": "AE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AE"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "domestic_consumer",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "education_training",
+   "other"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "prohibitions_bans",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "education_training_programs",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "UAE Federal Decree-Law No. 26 of 2022",
+   "Chicago Convention"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "UAE General Civil Aviation Authority regulation (Issue 04, September 2025) governing recreational drone flights: pilot registration and training, drone product approval and registration, remote identification, operating limits, prohibited activities, and enforcement and appeal procedures.",
+  "key_provisions_or_claims": [
+   "Pilots must be 18+, UAE residents, registered on UAE Drones platform, and hold ATO training certificate",
+   "Drones need MOIAT Product Status Statement and remote identification",
+   "Operate within VLOS, daylight, max 5 kg, max 400 ft, flight approval required",
+   "Prohibited: modifications, cameras/recording devices, restricted areas, carrying goods",
+   "Enforcement from warnings to revocation and confiscation; appeal within 30 days"
+  ],
+  "confidence": 0.93
+ }
+}

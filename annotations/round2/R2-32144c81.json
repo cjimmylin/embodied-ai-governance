@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-32144c81",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06775980000000001,
+  "in": 2,
+  "out": 1754,
+  "cache_read": 11758,
+  "cache_create": 12260,
+  "api_ms": 15599,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "14 CFR Part 375—Navigation of Foreign Civil Aircraft Within the United States",
+  "title_en": "14 CFR Part 375—Navigation of Foreign Civil Aircraft Within the United States",
+  "language": "en",
+  "authors_or_issuer": "U.S. Department of Transportation, Office of the Secretary",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 4,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Electronic Code of Federal Regulations",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "US Department of Transportation regulation governing admission and navigation of foreign civil aircraft in the United States, including permits for commercial operations, airworthiness and airman certificates, and penalties. Unmanned aircraft appear only incidentally, including registration of foreign model aircraft.",
+  "key_provisions_or_claims": [
+   "Foreign civil aircraft may be navigated in the US only as authorized by this part or by a Department permit.",
+   "Foreign aircraft must carry valid registration and airworthiness certificates and comply with FAA flight rules (14 CFR chapter I).",
+   "Foreign unmanned aircraft need Department authorization and FAA airworthiness compliance (§375.11).",
+   "Foreign small unmanned model aircraft must register and be marked under 14 CFR part 48 (§375.38).",
+   "Violations bring civil penalties, permit revocation, and criminal penalties for unauthorized air transportation."
+  ],
+  "confidence": 0.85
+ }
+}

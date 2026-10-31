@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-18066a4a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.058623800000000004,
+  "in": 2,
+  "out": 1944,
+  "cache_read": 11758,
+  "cache_create": 9501,
+  "api_ms": 12575,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Bekendtgørelse om supplerende bestemmelser til EU-forordning 2019/947 om regler og procedurer for operation af ubemandede luftfartøjer",
+  "title_en": "Executive Order on supplementary provisions to EU Regulation 2019/947 on rules and procedures for the operation of unmanned aircraft",
+  "language": "da",
+  "authors_or_issuer": "Trafik-, Bygge- og Boligstyrelsen (Danish Transport, Construction and Housing Authority)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2020,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Lovtidende (Bekendtgørelse nr. 2253)",
+  "jurisdiction_country": "DK",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "DK"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "civil_liability",
+   "certification_conformity_assessment",
+   "criminal_liability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "insurance_requirement",
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "EU Regulation 2019/947 (UAS operations)",
+   "EU Delegated Regulation 2019/945",
+   "EU Regulation 785/2004 (insurance)",
+   "Danish Aviation Act (lov om luftfart)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Danish executive order of 29 December 2020 supplementing EU drone Regulation 2019/947. It sets mandatory liability insurance, remote pilot age limits, no-fly distances around airfields, military and security sites, infrastructure and homes, geographic drone zones, transitional rules and fines, effective 1 January 2021.",
+  "key_provisions_or_claims": [
+   "Drone flights require liability insurance of at least 0.75 million SDR, with exemptions such as C0 drones.",
+   "Remote pilots must be at least 15 in the open and specific categories.",
+   "Minimum distances apply to helicopter sites, airfields, military areas, royal residences, railways, roads and power lines.",
+   "Flying over homes and gardens requires owner consent, which protects privacy.",
+   "Violations are punishable by fines, including corporate criminal liability; effective 1 January 2021."
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0101",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:09:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0541798,
+  "in": 2,
+  "out": 1708,
+  "cache_read": 11758,
+  "cache_create": 8980,
+  "api_ms": 14010,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Ministério da Ciência, Tecnologia e Inovação (MCTI)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "BR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "press_release_or_government_news",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "education_training",
+   "labor_employment"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Strategy published in the Diário Oficial da União on 9 April 2021",
+   "Aims to contribute to ethical principles for responsible AI development and use",
+   "Promotes sustained R&D investment and removal of barriers to innovation",
+   "Covers workforce training and public-private-research cooperation",
+   "Built from expert survey and public consultation with about 1,000 contributions"
+  ],
+  "language": "pt",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Government news item from Brazil's Ministry of Science, Technology and Innovation announcing the publication of the Brazilian Artificial Intelligence Strategy (EBIA) in the Official Gazette on 9 April 2021. It outlines the strategy's objectives: ethical AI principles, R&D investment, innovation, workforce training and cooperation. It does not reproduce the strategy text.",
+  "title_clean": "Estratégia Brasileira de Inteligência Artificial é publicada no DOU",
+  "title_en": "Brazilian Artificial Intelligence Strategy is published in the Official Gazette",
+  "venue": "gov.br/mcti"
+ }
+}

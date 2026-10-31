@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1500",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:47:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.048397800000000005,
+  "in": 2,
+  "out": 1885,
+  "cache_read": 11758,
+  "cache_create": 7092,
+  "api_ms": 10780,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "domestic_consumer",
+   "healthcare",
+   "research_science"
+  ],
+  "authors_or_issuer": "Morgan, P.; Herath, D.; Caleb-Solly, P.; Studley, M.; Williams, E.; Hu, A.A.; et al.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.1145/3776734.3788837",
+  "embodied_categories": [
+   "social_companion_robots",
+   "domestic_household_robots",
+   "care_assistive_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "safety_physical_harm",
+   "trust_acceptance",
+   "human_robot_interaction_social_effects",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Security is the foundation for both trust and safety in social robots.",
+   "Defines 'Secure Robotics' as unified trust, safety and security design requirements.",
+   "Cyber breaches threaten physical safety and erode user trust.",
+   "Users need interfaces and awareness to oversee how their robots are secured.",
+   "Workshop uses scenario planning to explore breach impacts and mitigation."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "social_companion_robots",
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2026,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Extended abstract for an HRI 2026 half-day workshop on secure robotics, treating trust, safety and security of domestic social robots as interdependent. It outlines keynotes, scenario planning and lightning talks to develop recommendations helping users understand and decide how their robots are secured and to raise awareness of cyber attack impacts.",
+  "title_clean": "Exploring the Safety, Trust, Psychosocial, Legal, and Economic Impact of Cyber Attacks on Social Robots: What Should People Know and How Can We Mitigate Risks?",
+  "title_en": "Exploring the Safety, Trust, Psychosocial, Legal, and Economic Impact of Cyber Attacks on Social Robots: What Should People Know and How Can We Mitigate Risks?",
+  "venue": "HRI Companion '26: Companion Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction",
+  "methodology": "conceptual_or_normative"
+ }
+}

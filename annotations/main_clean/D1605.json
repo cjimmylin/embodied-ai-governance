@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1605",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:06:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026761800000000002,
+  "in": 2,
+  "out": 1709,
+  "cache_read": 11758,
+  "cache_create": 2123,
+  "api_ms": 8928,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Social Robots Through the Lens of Care Ethics",
+  "title_en": "Social Robots Through the Lens of Care Ethics",
+  "language": "en",
+  "authors_or_issuer": "van Wynsberghe, A.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.3233/FAIA200893",
+  "venue": "Frontiers in Artificial Intelligence and Applications, Vol. 335 (IOS Press)",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "labor_employment",
+   "human_dignity_autonomy",
+   "trust_acceptance"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Book chapter by van Wynsberghe analysing social robots through care ethics, centred on relationality and reciprocity. It argues robots' apparent responsiveness deceives humans into granting reciprocity, and that social robots risk redirecting resources from humans and weakening incentives to give back to care workers.",
+  "key_provisions_or_claims": [
+   "Social robots analysed through a care ethics lens focused on relationality and reciprocity.",
+   "Robot appearance of responsiveness creates a specific deception about deserving reciprocity.",
+   "Risk of redirecting resources from humans to robots.",
+   "Social robots may weaken incentives to reciprocate to care workers."
+  ],
+  "confidence": 0.7
+ }
+}

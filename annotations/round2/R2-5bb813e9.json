@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-5bb813e9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:46:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1588298,
+  "in": 2,
+  "out": 1803,
+  "cache_read": 11758,
+  "cache_create": 34905,
+  "api_ms": 13412,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Regulation on a reinforced role for the European Medicines Agency in crisis preparedness and management for medicinal products and medical devices",
+  "title_en": "Proposal for a Regulation on a reinforced role for the European Medicines Agency in crisis preparedness and management for medicinal products and medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2020,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "EUR-Lex COM(2020) 725 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "privacy_data_protection",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "incident_reporting",
+   "data_governance_requirements",
+   "international_cooperation",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission legislative proposal (COM(2020) 725) giving the European Medicines Agency a permanent role in public health crisis preparedness. It creates steering groups on medicine and medical device shortages, an Emergency Task Force for scientific advice on treatments and vaccines, and secretariat support for medical device expert panels. It contains no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Establishes Medicines Steering Group and Medical Devices Steering Group within EMA to monitor shortages of critical products",
+   "Creates Emergency Task Force giving free accelerated scientific advice within 20 days on clinical trials and treatments",
+   "Obliges marketing authorisation holders, manufacturers and Member States to submit shortage information to EMA",
+   "EMA to provide secretariat for medical device expert panels from 1 March 2022",
+   "Integrates EMA into European Health Data Space with data processing under GDPR"
+  ],
+  "confidence": 0.93
+ }
+}

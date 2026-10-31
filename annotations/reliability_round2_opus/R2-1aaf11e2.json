@@ -1,0 +1,112 @@
+{
+ "doc_id": "R2-1aaf11e2",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:05:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1368916,
+  "in": 2,
+  "out": 2275,
+  "cache_read": 11758,
+  "cache_create": 11129,
+  "api_ms": 16591,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Economic and Social Committee on the Communication from the Commission – Quality Jobs Roadmap (COM(2025) 944 final)",
+  "title_en": "Opinion of the European Economic and Social Committee on the Communication from the Commission – Quality Jobs Roadmap (COM(2025) 944 final)",
+  "language": "en",
+  "authors_or_issuer": "European Economic and Social Committee (EESC)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (C/2026/5101)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "education_training",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 2,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "education_training_programs",
+   "oversight_body_creation",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU AI Act",
+   "European Pillar of Social Rights",
+   "Framework Directive 89/391/EEC on OSH",
+   "Directive 2002/14/EC on informing and consulting employees",
+   "Letta Report",
+   "Draghi Report"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EESC opinion on the Commission's Quality Jobs Roadmap, stressing social dialogue, occupational health and safety, lifelong learning, fair mobility and enforcement. On AI and algorithmic management, it calls for safeguards against surveillance, work intensification and deskilling. It wants full implementation and, where necessary, strengthening of the GDPR, AI Act and employee consultation rules, and possible new legislative instruments.",
+  "key_provisions_or_claims": [
+   "Job quality and competitiveness are mutually reinforcing; common job-quality indicators should draw on OECD, ILO and Eurofound work.",
+   "Health and safety at work, including psycho-social, climatic and digital risks, must be a key pillar of job quality.",
+   "AI and algorithmic systems in the workplace must not lead to disproportionate surveillance, work intensification or deskilling; GDPR, AI Act and consultation rules should be enforced and strengthened.",
+   "Commission should consider legislative instruments on algorithmic management, psycho-social risks and the right to disconnect.",
+   "More resources for labour inspectorates and use of social clauses in public procurement."
+  ],
+  "confidence": 0.8
+ }
+}

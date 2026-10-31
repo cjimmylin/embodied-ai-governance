@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-0f657e6d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:58:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0278358,
+  "in": 2,
+  "out": 1790,
+  "cache_read": 11758,
+  "cache_create": 2189,
+  "api_ms": 10018,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Decision of the EEA Joint Committee No 218/2025 of 19 September 2025 amending Annex XIII (Transport) to the EEA Agreement",
+  "title_en": "Decision of the EEA Joint Committee No 218/2025 of 19 September 2025 amending Annex XIII (Transport) to the EEA Agreement",
+  "language": "en",
+  "authors_or_issuer": "EEA Joint Committee",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (EEA Supplement)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "IS",
+   "NO"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "Commission Delegated Regulation (EU) 2019/945",
+   "Commission Delegated Regulation (EU) 2025/1130",
+   "EEA Agreement"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EEA Joint Committee decision incorporating Commission Delegated Regulation (EU) 2025/1130, which corrects the Dutch version of Delegated Regulation 2019/945 on unmanned aircraft systems, into Annex XIII (Transport) of the EEA Agreement. It is a purely procedural, linguistic correction with no substantive new rules.",
+  "key_provisions_or_claims": [
+   "Adds Delegated Regulation (EU) 2025/1130 to point 66zbb of Annex XIII of the EEA Agreement",
+   "Icelandic and Norwegian texts of the regulation are authentic",
+   "Enters into force 20 September 2025 subject to Article 103(1) notifications",
+   "Concerns a correction to the Dutch language version of the UAS regulation 2019/945"
+  ],
+  "confidence": 0.9
+ }
+}

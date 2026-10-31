@@ -1,0 +1,107 @@
+{
+ "doc_id": "D0676",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:25:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0431738,
+  "in": 2,
+  "out": 1931,
+  "cache_read": 11758,
+  "cache_create": 5671,
+  "api_ms": 10104,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "AI Safety Institute (Japan)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "incident_reporting",
+   "transparency_disclosure_labelling",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "human_oversight_requirement"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "cybersecurity",
+   "transparency_explainability",
+   "human_oversight_control",
+   "civil_liability"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Premise that AI incidents are inevitable; strengthen detective as well as preventive controls.",
+   "Introduces observability and controllability as evaluation criteria for AI incident response.",
+   "Extends NIST SP 800-61 style incident response to RAG and AI agents.",
+   "Relies on SBOM for AI (G7 shared vision) and NIST Cyber AI Profile for supply-chain transparency and traceability.",
+   "Addresses contractual actions by AI agents (UNCITRAL Model Law on Automated Contracting) and strategic investment in response."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "NIST AI RMF",
+   "UNCITRAL Model Law on Automated Contracting",
+   "NIST SP 800-61",
+   "NIST Cyber AI Profile",
+   "G7 Shared Vision on SBOM for AI",
+   "NIST CSF 2.0"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Japan AI Safety Institute's conceptual approach book proposing the AI Incident Response System (AI-IRS), extending conventional incident response (NIST SP 800-61) to AI via observability and controllability, with analysis of RAG and AI agents, SBOM for AI, and supply-chain transparency. Voluntary guidance for organizations.",
+  "title_clean": "Approach Book for AI Incident Response: A Foundation for Trustworthy AI (AI-IRS)",
+  "title_en": "Approach Book for AI Incident Response: A Foundation for Trustworthy AI (AI-IRS)",
+  "venue": "AI Safety Institute, Japan (aisi.go.jp)",
+  "issuer_type": "regulator_or_agency",
+  "methodology": "not_applicable"
+ }
+}

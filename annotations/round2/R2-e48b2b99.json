@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-e48b2b99",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:41:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029301800000000003,
+  "in": 2,
+  "out": 1719,
+  "cache_read": 11758,
+  "cache_create": 2733,
+  "api_ms": 9883,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "机器人与机器人装备 协作机器人",
+  "title_en": "Robots and robotic devices—Collaborative robots (GB/T 36008-2018)",
+  "language": "zh",
+  "authors_or_issuer": "全国机器人标准化技术委员会 (TC591); 国家市场监督管理总局 / 国家标准化管理委员会",
+  "issuer_type": "standards_body",
+  "pub_year": 2018,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "collaborative_robots",
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "collaborative_robots",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO/TS 15066"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Catalogue page for Chinese national recommended standard GB/T 36008-2018 on collaborative robots, identically adopting ISO/TS 15066:2016. Published 2018-03-15, effective 2018-10-01, reviewed 2025-05-30 and still valid. Only metadata is shown, with no standard text.",
+  "key_provisions_or_claims": [
+   "GB/T 36008-2018 is a recommended national standard, currently in force",
+   "Identically adopts ISO/TS 15066:2016 on collaborative robots",
+   "Administered by TC591, the national robot standardization committee",
+   "Last reviewed 2025-05-30 with the conclusion to continue",
+   "Related standards cover personal assistant robot safety and industrial robot safety"
+  ],
+  "confidence": 0.9
+ }
+}

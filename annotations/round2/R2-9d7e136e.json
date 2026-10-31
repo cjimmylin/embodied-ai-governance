@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-9d7e136e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:44:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0697618,
+  "in": 2,
+  "out": 1945,
+  "cache_read": 11758,
+  "cache_create": 12283,
+  "api_ms": 9830,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "manufacturing",
+   "agriculture_food",
+   "construction",
+   "domestic_consumer",
+   "energy_environment"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "legally_binding",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "industrial_manipulators",
+   "domestic_household_robots",
+   "agricultural_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Publishes references of harmonised machinery standards (Annex I) in the Official Journal, conferring presumption of conformity with Directive 2006/42/EC.",
+   "Publishes EN 474-1:2006+A5:2018 and EN 13241:2003+A2:2016 with restrictions (Annex II).",
+   "Withdraws superseded standards, including EN 1037, EN 61496-1 and EN ISO 12100:2010, on dates in Annex III.",
+   "Includes safety standard EN 50636-2-107 for robotic battery-powered lawnmowers.",
+   "Enters into force on the day of publication."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "Directive 2006/42/EC (Machinery Directive)",
+   "Regulation (EU) No 1025/2012",
+   "Directive 2014/35/EU"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2019,
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Commission Implementing Decision (EU) 2019/436 publishes, restricts and withdraws references of harmonised machinery standards under the Machinery Directive 2006/42/EC, determining which CEN/Cenelec standards confer presumption of conformity. It covers general machinery, with only incidental robotic content such as robotic lawnmowers.",
+  "title_clean": "Commission Implementing Decision (EU) 2019/436 of 18 March 2019 on the harmonised standards for machinery drafted in support of Directive 2006/42/EC of the European Parliament and of the Council",
+  "title_en": "Commission Implementing Decision (EU) 2019/436 of 18 March 2019 on the harmonised standards for machinery drafted in support of Directive 2006/42/EC of the European Parliament and of the Council",
+  "venue": "Official Journal of the European Union, L 75/108",
+  "publication_stage": "not_applicable",
+  "methodology": "not_applicable"
+ }
+}

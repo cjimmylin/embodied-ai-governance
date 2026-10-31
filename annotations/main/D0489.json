@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0489",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.047375799999999996,
+  "in": 2,
+  "out": 1826,
+  "cache_read": 11758,
+  "cache_create": 6984,
+  "api_ms": 11403,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Enhancing emotion regulation with an in situ socially assistive robot among LGBTQ+ youth with self-harm ideation: protocol for a randomised controlled trial",
+  "title_en": "Enhancing emotion regulation with an in situ socially assistive robot among LGBTQ+ youth with self-harm ideation: protocol for a randomised controlled trial",
+  "language": "en",
+  "authors_or_issuer": "Williams, A.J.; Cleare, S.; Borschmann, R.; Tench, C.R.; Gross, J.; Hollis, C. et al.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.1136/bmjopen-2023-079801",
+  "venue": "BMJ Open",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "research_ethics",
+   "children_vulnerable_groups",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "research_ethics",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Protocol for a UK single-blind randomised controlled trial testing Purrble, a socially assistive robot, against waitlist control for emotion regulation among 168 LGBTQ+ youth aged 16–25 with self-harm ideation. It includes safeguarding procedures, ethics approval and follow-up interviews. It contains no robot governance provisions.",
+  "key_provisions_or_claims": [
+   "Single-blind RCT with 168 LGBTQ+ youth, waitlist control, 13 weekly assessments",
+   "Primary outcome: emotion dysregulation (DERS-8); secondary: self-harm, anxiety, depression",
+   "Purrble robot was codesigned with children and youth; participants keep it after the study",
+   "Detailed safeguarding procedure and King's College London ethical approval",
+   "Post-deployment interviews explore engagement and appropriation"
+  ],
+  "confidence": 0.9
+ }
+}

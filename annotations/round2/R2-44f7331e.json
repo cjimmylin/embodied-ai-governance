@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-44f7331e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:44:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0593958,
+  "in": 2,
+  "out": 1934,
+  "cache_read": 11758,
+  "cache_create": 9719,
+  "api_ms": 10854,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2022/621 of 7 April 2022 amending Implementing Decision (EU) 2019/436 as regards harmonised standards for truck mixers, cranes and other machinery drafted in support of Directive 2006/42/EC",
+  "title_en": "Commission Implementing Decision (EU) 2022/621 of 7 April 2022 amending Implementing Decision (EU) 2019/436 as regards harmonised standards for truck mixers, cranes and other machinery drafted in support of Directive 2006/42/EC",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 115/75",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "construction",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Regulation"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EU Commission implementing decision updating the list of harmonised standards under the Machinery Directive 2006/42/EC, adding or replacing references for cranes, truck mixers, refuse vehicles and other machinery, restricting EN 474-1 for earth-moving machinery, and including EN 50636-2-107 on robotic lawnmowers. It confers presumption of conformity.",
+  "key_provisions_or_claims": [
+   "Amends Implementing Decision (EU) 2019/436 harmonised standards list under Directive 2006/42/EC.",
+   "Publishes new references for cranes, truck mixers, refuse collection vehicles, woodworking machines and functional safety EN IEC 62061:2021.",
+   "Splits restrictions on EN 474-1:2006+A6:2019 into visibility and quick-coupler shortcomings.",
+   "Temporarily republishes EN 474-1:2006+A5:2018 until 11 October 2022.",
+   "Includes EN 50636-2-107 for robotic battery-powered lawnmowers; withdrawals deferred to 11 October 2023."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1063",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:01:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0273638,
+  "in": 2,
+  "out": 1738,
+  "cache_read": 11758,
+  "cache_create": 2201,
+  "api_ms": 12522,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "EU study calls for strategic AI adoption to transform public sector services",
+  "title_en": "EU study calls for strategic AI adoption to transform public sector services",
+  "language": "en",
+  "authors_or_issuer": "European Commission (Shaping Europe's digital future)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Shaping Europe's digital future",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "public_administration_justice",
+   "healthcare",
+   "logistics_transport",
+   "education"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "trust_acceptance",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission web page summarising a commissioned study on AI in public sector services. It identifies adoption barriers such as procurement, data management, regulatory clarity and bias, and recommends funding, transparency, cross-border data sharing and a clear regulatory framework. Notes the study predates the AI Act.",
+  "key_provisions_or_claims": [
+   "AI can improve public services in healthcare, mobility, e-Government and education",
+   "Barriers: procurement complexity, data management, regulatory uncertainty, bias concerns",
+   "Recommends more funding and resources for public-sector AI",
+   "Recommends transparency, accountability and cross-border data sharing",
+   "Commission advised to create a clear regulatory framework and foster trustworthy human-centric AI"
+  ],
+  "confidence": 0.85
+ }
+}

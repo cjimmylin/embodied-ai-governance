@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-0488701b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.057347300000000004,
+  "in": 4,
+  "out": 3661,
+  "cache_read": 26788,
+  "cache_create": 5257,
+  "api_ms": 20233,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Standard for Evaluation of Autonomous Products (UL 4600)",
+  "title_en": "Standard for Evaluation of Autonomous Products (UL 4600)",
+  "language": "en",
+  "authors_or_issuer": "UL Standards & Engagement",
+  "issuer_type": "standards_body",
+  "pub_year": 2023,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UL Standards & Engagement (shopulstandards.com)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "cybersecurity"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Product page for ANSI/UL 4600 Edition 3 (March 2023), a voluntary safety standard for building and evaluating safety cases for autonomous vehicles operating without human supervision. The new edition adds autonomous trucking content, a more precise Safety Performance Indicator definition, and post-incident behavior requirements.",
+  "key_provisions_or_claims": [
+   "Covers safety principles, risk mitigation and lifecycle processes for building and evaluating safety cases for autonomous-mode vehicles.",
+   "Assumes operation without human supervision; human driver responsibilities and handover are out of scope.",
+   "Requires a Security Plan; foreseeable misuse and physical attacks are in scope.",
+   "Edition 3 revises the framework for autonomous trucking and defines Safety Performance Indicators more precisely.",
+   "Adds post-incident behavior requirements (Sections 10.6.6 and 10.6.7)."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1184",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:03:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027643800000000003,
+  "in": 2,
+  "out": 1698,
+  "cache_read": 11758,
+  "cache_create": 2371,
+  "api_ms": 10134,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The AI Security Institute (AISI)",
+  "title_en": "The AI Security Institute (AISI)",
+  "language": "en",
+  "authors_or_issuer": "AI Security Institute, Department for Science, Innovation and Technology",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "aisi.gov.uk",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "research_science",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "research_ethics",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "international_cooperation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Homepage of the UK AI Security Institute, a state-backed research body within DSIT. It describes its mission to give governments a scientific understanding of advanced AI risks, via technical evaluation research, safeguards work, and collaboration with developers and allies. It features cyber capability and persuasion studies. No embodied AI content.",
+  "key_provisions_or_claims": [
+   "AISI is the first state-backed organisation dedicated to advanced AI safety and security.",
+   "Mission: equip governments with scientific understanding of advanced AI risks.",
+   "Conducts technical research on evaluations, safeguards, alignment and control.",
+   "Works with AI developers and allied governments to shape global policymaking.",
+   "Featured work on open-weight model cyber capabilities and AI persuasion."
+  ],
+  "confidence": 0.85
+ }
+}

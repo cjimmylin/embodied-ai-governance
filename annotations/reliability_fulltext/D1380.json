@@ -1,0 +1,110 @@
+{
+ "doc_id": "D1380",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:16:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1090078,
+  "in": 2,
+  "out": 1906,
+  "cache_read": 11758,
+  "cache_create": 22192,
+  "api_ms": 12223,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Prioritizing People and Planet as the Metrics for Responsible AI",
+  "title_en": "Prioritizing People and Planet as the Metrics for Responsible AI",
+  "language": "en",
+  "authors_or_issuer": "IEEE Standards Association (IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems, Ethically Aligned Design for Business Committee)",
+  "issuer_type": "standards_body",
+  "pub_year": 2022,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "IEEE SA",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "US",
+   "EU"
+  ],
+  "doc_type": "industry_or_ngo_report",
+  "doc_class": "grey_literature",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "sustainability_environment",
+   "risk_management_risk_tiers",
+   "human_dignity_autonomy",
+   "industrial_policy_innovation",
+   "education_training",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "self_regulation_codes",
+   "education_training_programs",
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "UNESCO Recommendation on the Ethics of AI",
+   "OECD AI Principles",
+   "NIST AI RMF",
+   "IEEE 7000 series"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "IEEE SA business-oriented paper arguing that responsible AI should be measured by human well-being and planetary metrics (UN SDGs, ESG, IEEE 7010) rather than financial KPIs alone. It offers Assess/Apply/Amplify recommendations and a readiness framework. It contains no robotics-specific content.",
+  "key_provisions_or_claims": [
+   "Define responsible AI through expanded KPIs including well-being, UN SDGs and ESG metrics across the AIS life cycle.",
+   "Use IEEE Std 7010 well-being impact assessment and IEEE 7000 for value-based design.",
+   "Adopt Well-being by Design and a Well-being Metrics Readiness Framework.",
+   "Appoint Responsible AI champions and leverage DPO-like roles and ESG reporting.",
+   "Use ethical conformity assessment such as IEEE CertifAIEd."
+  ],
+  "confidence": 0.8
+ }
+}

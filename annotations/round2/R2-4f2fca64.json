@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-4f2fca64",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:18:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.11440209999999999,
+  "in": 4,
+  "out": 3838,
+  "cache_read": 40216,
+  "cache_create": 18777,
+  "api_ms": 23639,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Chapter 837 — Aircraft Operation (Oregon Revised Statutes, 2025 Edition)",
+  "title_en": "Chapter 837 — Aircraft Operation (Oregon Revised Statutes, 2025 Edition)",
+  "language": "en",
+  "authors_or_issuer": "Oregon Legislative Assembly (Oregon Revised Statutes)",
+  "issuer_type": "legislature",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Oregon Revised Statutes",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "public_administration_justice",
+   "defense_security",
+   "logistics_transport",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "criminal_liability",
+   "civil_liability",
+   "military_use_ihl"
+  ],
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "licensing_registration",
+   "insurance_requirement",
+   "data_governance_requirements",
+   "transparency_disclosure_labelling",
+   "liability_regime",
+   "oversight_body_creation",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Oregon Revised Statutes chapter 837 (2025) governing aircraft registration and operation, with a substantial section on unmanned aircraft systems (drones): limits on law enforcement use, public body registration and data policies, weaponized drone bans, privacy and trespass remedies, critical infrastructure protections, and state preemption of local rules.",
+  "key_provisions_or_claims": [
+   "Law enforcement may not operate drones without a warrant, consent, or listed exceptions; unlawfully gathered evidence is inadmissible.",
+   "Public bodies must register drones with the Oregon Department of Aviation, file annual reports and publish data policies.",
+   "Operating weaponized drones is a misdemeanor or felony, with exceptions requiring FAA authorization, notice and $1 million insurance.",
+   "Drone flights over critical infrastructure, harassment of private premises and interference with aircraft are penalized.",
+   "State preempts local regulation of drones except in local government parks; property owners can sue for treble damages."
+  ],
+  "confidence": 0.9
+ }
+}

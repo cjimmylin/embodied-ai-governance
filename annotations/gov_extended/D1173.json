@@ -1,0 +1,118 @@
+{
+ "doc_id": "D1173",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:48:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.15474380000000001,
+  "in": 2,
+  "out": 1976,
+  "cache_read": 11758,
+  "cache_create": 33451,
+  "api_ms": 11610,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ethical AI use in the energy sector (version 2)",
+  "title_en": "Ethical AI use in the energy sector (version 2)",
+  "language": "en",
+  "authors_or_issuer": "Ofgem (Office of Gas and Electricity Markets)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ofgem website (www.ofgem.gov.uk)",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "drones_uas",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "cybersecurity",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "sustainability_environment",
+   "consumer_protection",
+   "safety_physical_harm",
+   "education_training"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "education_training_programs",
+   "self_regulation_codes",
+   "data_governance_requirements",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [
+   "ISO/IEC 23894",
+   "ISO/IEC 42001",
+   "NIST AI RMF",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Ofgem's second-edition good-practice guidance on ethical AI adoption in Great Britain's energy sector, built around safety, security, fairness and sustainability. It covers governance, risk, competencies and sector examples, including a brief cyber-physical systems section on drones and autonomous control. It stresses proportionate, outcomes-based oversight within existing law and strengthens transparency expectations.",
+  "key_provisions_or_claims": [
+   "Four outcomes: safety, security, fairness and environmental sustainability.",
+   "Existing regulatory framework is considered adequate; guidance is voluntary good practice that complements licence conditions.",
+   "Governance practices: board accountability, strategy, leadership, and proportionate transparency and explainability.",
+   "Risk practices: life-cycle risk assessment, failure-mode analysis, testing, human oversight, monitoring.",
+   "Cyber-physical section covers drones and autonomous control, recommending functional safety and guardrails; AI Reg Lab and a proposed technical sandbox."
+  ],
+  "confidence": 0.92
+ }
+}

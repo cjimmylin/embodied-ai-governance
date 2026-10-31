@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-c47d3176",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:43:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0908265,
+  "in": 4,
+  "out": 3868,
+  "cache_read": 34375,
+  "cache_create": 12965,
+  "api_ms": 20438,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2026/481 of 3 March 2026 amending Implementing Regulation (EU) 2022/1426 as regards type-approval of the automated driving system of fully automated vehicles",
+  "title_en": "Commission Implementing Regulation (EU) 2026/481 of 3 March 2026 amending Implementing Regulation (EU) 2022/1426 as regards type-approval of the automated driving system of fully automated vehicles",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "Regulation (EU) 2019/2144",
+   "Implementing Regulation (EU) 2022/1426",
+   "UN Regulation No 79",
+   "UN Regulation No 13/13-H"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "EU Commission implementing regulation amending 2022/1426 to lift the small-series cap for automated valet parking vehicles. It adds Annex V with technical specifications (30 km/h limit, collision avoidance, minimal-risk condition, manufacturer responsibility) and test scenarios for type-approval of AVP automated driving system features.",
+  "key_provisions_or_claims": [
+   "Extends type-approval of fully automated vehicles to AVP use case beyond the 1,500 small-series limit",
+   "AVP speed capped at 30 km/h and must avoid collisions with road users and obstacles",
+   "Manufacturer remains solely responsible for compliance regardless of third parties",
+   "Annex V sets test scenarios: obstacles, sensor occlusion, wireless and infrastructure failure, override",
+   "Dual-mode vehicles must comply with UN Regulations 79 and 13/13-H"
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "doc_id": "D1378",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:43:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0437178,
+  "in": 2,
+  "out": 1695,
+  "cache_read": 11758,
+  "cache_create": 6397,
+  "api_ms": 9824,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Generative AI and jobs: A 2025 update",
+  "title_en": "Generative AI and jobs: A 2025 update",
+  "language": "en",
+  "authors_or_issuer": "Gmyrek, P.; Berg, J.; Kamiński, K.; Konopczyński, F.; Ładna, A.; Nafradi, B. et al.",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "International Labour Organization (ILO Research Brief)",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "PL"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "human_oversight_control",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "ILO research brief updating its 2023 estimates of occupational exposure to generative AI, using a refined task-level methodology combining worker surveys, expert review and AI scoring. It finds one in four workers are in exposed occupations, with most jobs transformed rather than eliminated, and calls for social dialogue to manage the transition.",
+  "key_provisions_or_claims": [
+   "One in four workers globally are in occupations with some GenAI exposure.",
+   "Four exposure gradients defined by mean task score and task variability.",
+   "Mean automation score is 0.29 in 2025 versus 0.30 in 2023, with lower variability.",
+   "Most jobs will be transformed rather than made redundant; clerical roles remain most exposed.",
+   "Social dialogue and workplace consultation are needed to manage the transition."
+  ],
+  "confidence": 0.9
+ }
+}

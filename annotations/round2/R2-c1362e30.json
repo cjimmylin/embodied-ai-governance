@@ -1,0 +1,92 @@
+{
+ "doc_id": "R2-c1362e30",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026033800000000003,
+  "in": 2,
+  "out": 1603,
+  "cache_read": 11758,
+  "cache_create": 2206,
+  "api_ms": 8199,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 23629-7:2021 UAS traffic management (UTM) — Part 7: Data model for spatial data",
+  "title_en": "ISO 23629-7:2021 UAS traffic management (UTM) — Part 7: Data model for spatial data",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 20/SC 16",
+  "issuer_type": "standards_body",
+  "pub_year": 2021,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO 23629-7:2021, a standard specifying a data model for spatial information shared between UAS service providers and operation-control systems such as UTM. It is currently under systematic review. Only metadata and lifecycle stages are shown.",
+  "key_provisions_or_claims": [
+   "Specifies item names for a spatial data model for UAS traffic management",
+   "Excludes communication architecture and actor responsibilities",
+   "Published September 2021 by ISO/TC 20/SC 16",
+   "Under systematic review (stage 90.20)"
+  ],
+  "confidence": 0.85
+ }
+}

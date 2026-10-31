@@ -1,0 +1,93 @@
+{
+ "doc_id": "D1412",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:44:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04770580000000001,
+  "in": 2,
+  "out": 1829,
+  "cache_read": 11758,
+  "cache_create": 7059,
+  "api_ms": 13473,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "research_science",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Nissen, A.; Jahn, K.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": null,
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "trust_acceptance",
+   "human_robot_interaction_social_effects"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Experiment with 227 participants and four anthropomorphism levels supports an uncanny valley of perceived trustworthiness.",
+   "Medium anthropomorphism lowers use intention via reduced intuitive and deliberate perceived trustworthiness.",
+   "At high (human-indistinguishable) anthropomorphism, only intuitive perceived trustworthiness determined use intention.",
+   "Anthropomorphic design has both advantages and pitfalls for social robot acceptance."
+  ],
+  "language": "en",
+  "methodology": "empirical_quantitative",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "social_companion_robots",
+  "primary_topic": "trust_acceptance",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2021,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Conference paper reporting an experiment (227 participants, four anthropomorphism levels) testing an uncanny valley of perceived trustworthiness for social robots through dual-processing theory. Medium anthropomorphism reduces use intention via both intuitive and deliberate trust; at near-human levels only intuitive trust matters. No governance content; design implications for acceptance.",
+  "title_clean": "Between Anthropomorphism, Trust, and the Uncanny Valley: a Dual-Processing Perspective on Perceived Trustworthiness and Its Mediating Effects on Use Intentions of Social Robots",
+  "title_en": "Between Anthropomorphism, Trust, and the Uncanny Valley: a Dual-Processing Perspective on Perceived Trustworthiness and Its Mediating Effects on Use Intentions of Social Robots",
+  "venue": "Proceedings of the 54th Hawaii International Conference on System Sciences (HICSS)"
+ }
+}

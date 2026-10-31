@@ -1,0 +1,112 @@
+{
+ "doc_id": "D1283",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:44:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0620109,
+  "in": 4,
+  "out": 3556,
+  "cache_read": 28284,
+  "cache_create": 6585,
+  "api_ms": 23533,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector",
+   "education",
+   "healthcare",
+   "agriculture_food",
+   "energy_environment",
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "European Commission, AI Watch (Joint Research Centre)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "LV",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "data_governance_requirements"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "ethics_principles",
+   "privacy_data_protection",
+   "civil_liability",
+   "consumer_protection"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Latvia's February 2020 national AI strategy aims to promote AI uptake across the economy, especially in public administration.",
+   "Education reforms and an online AI course to raise competencies.",
+   "Relies on existing product safety and liability Directives while planning a new legal framework for AI.",
+   "Plans regulatory sandboxes for testing AI concepts.",
+   "Open data governance and HPC infrastructure support AI development."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Directive 2001/95/EC (General Product Safety)",
+   "Directive 85/374/EEC (Product Liability)"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "European Commission AI Watch summary of Latvia's February 2020 national AI strategy. It covers education, research, public-sector adoption, networking, regulation (existing product safety and liability directives, planned sandboxes), open data infrastructure, and climate applications. Robotics and drones appear only in passing.",
+  "title_clean": "Latvia AI Strategy Report",
+  "title_en": "Latvia AI Strategy Report",
+  "venue": "AI Watch - European Commission"
+ }
+}

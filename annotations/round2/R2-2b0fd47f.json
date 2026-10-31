@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-2b0fd47f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1974078,
+  "in": 2,
+  "out": 1828,
+  "cache_read": 11758,
+  "cache_create": 44487,
+  "api_ms": 14910,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Part 774—The Commerce Control List (15 CFR Part 774, including Supplement No. 1)",
+  "title_en": "Part 774—The Commerce Control List (15 CFR Part 774, including Supplement No. 1)",
+  "language": "en",
+  "authors_or_issuer": "Bureau of Industry and Security, U.S. Department of Commerce",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Electronic Code of Federal Regulations",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US",
+   "CN",
+   "RU",
+   "VE"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "defense_security",
+   "cross_sector",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "Wassenaar Arrangement"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "US Export Administration Regulations' Commerce Control List, listing dual-use and military-related items (firearms, ammunition, military vehicles, software, technology, semiconductor equipment) by ECCN with licence requirements and exceptions. Not AI-specific; robots mentioned only as a cross-reference to ECCNs 0A606 and 2B007.",
+  "key_provisions_or_claims": [
+   "BIS maintains the CCL listing items by ECCN with reasons for control and country-chart licence requirements.",
+   "Category 0 controls firearms, ammunition, and military ground vehicles, including unmanned ones, with licence exceptions limits.",
+   "600-series items face de minimis and foreign direct product reach under ECCN 0A919.",
+   "Robots and robot controllers are cross-referenced to USML Category VII and ECCNs 0A606 and 2B007.",
+   "Supplement 7 lists very sensitive items drawn from the Wassenaar Arrangement."
+  ],
+  "confidence": 0.8
+ }
+}

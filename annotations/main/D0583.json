@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0583",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:22:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0455598,
+  "in": 2,
+  "out": 1706,
+  "cache_read": 11758,
+  "cache_create": 6830,
+  "api_ms": 8852,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robots on Sale: The effect of tax policy on robot adoption and employment",
+  "title_en": "Robots on Sale: The effect of tax policy on robot adoption and employment",
+  "language": "en",
+  "authors_or_issuer": "Adachi, D.; Kawaguchi, D.; Saito, Y.U.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "RIETI Discussion Paper Series 24-E-047",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "taxation_economic_policy",
+   "labor_employment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "taxation_economic_policy",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "RIETI discussion paper using Japan's Tax Credit for Promoting Productivity-Enhancing Equipment Investment and a new firm-level survey of industrial robot ownership to estimate causal effects of robot adoption. Tax-eligible firms adopted more robots, and adoption did not reduce employment, instead raising it after 1-3 years.",
+  "key_provisions_or_claims": [
+   "Tax-credit-eligible firms significantly increased industrial robot investment.",
+   "Robot adoption did not reduce total or production worker employment.",
+   "Employment and sales rose 1-3 years after adoption.",
+   "Firms reallocate workers to non-robot tasks when adopting robots.",
+   "Careful organizational design allows efficiency gains without labor market disruption."
+  ],
+  "confidence": 0.9
+ }
+}

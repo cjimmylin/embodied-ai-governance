@@ -1,0 +1,91 @@
+{
+ "doc_id": "R2-4d6d12e8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:03:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.031621800000000005,
+  "in": 2,
+  "out": 1669,
+  "cache_read": 11758,
+  "cache_create": 3438,
+  "api_ms": 8527,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "European Parliament texts adopted 4 October 2001: amendments on sanctions regulation, general product safety resolution, extraordinary European Council resolution",
+  "title_en": "European Parliament texts adopted 4 October 2001: amendments on sanctions regulation, general product safety resolution, extraordinary European Council resolution",
+  "language": "en",
+  "authors_or_issuer": "European Parliament",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2002,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities C 87 E",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Excerpt from the Official Journal (C 87 E, 11 April 2002) recording European Parliament texts of 4 October 2001: amendments to a terrorist-funds freezing regulation, approval of the joint text on the general product safety directive, and a resolution on the post-9/11 extraordinary European Council. No AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Parliament amends the asset-freezing regulation, changing 'expectation' to 'suspicion' and adding a review and expiry date of 31 December 2003.",
+   "Parliament approves the Conciliation Committee joint text on the general product safety directive.",
+   "Resolution on the extraordinary European Council of 21 September 2001 responding to the 11 September attacks."
+  ],
+  "confidence": 0.9
+ }
+}

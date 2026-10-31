@@ -1,0 +1,93 @@
+{
+ "doc_id": "D1226",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:39:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0524278,
+  "in": 2,
+  "out": 1574,
+  "cache_read": 11758,
+  "cache_create": 8877,
+  "api_ms": 9879,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial intelligence-related health research: ethics review and oversight",
+  "title_en": "Artificial intelligence-related health research: ethics review and oversight",
+  "language": "en",
+  "authors_or_issuer": "World Health Organization",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "WHO publications",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare",
+   "research_science"
+  ],
+  "governance_topics": [
+   "research_ethics",
+   "ethics_principles",
+   "privacy_data_protection",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "research_ethics",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "WHO report page examining ethics review and oversight of three categories of AI-related health research: health data science using AI, research using AI tools, and related research. It notes AI may challenge ethical principles and human rights and create novel risks that existing oversight systems do not fully address.",
+  "key_provisions_or_claims": [
+   "AI in health research may challenge established ethical principles and human rights protections.",
+   "Existing research oversight systems do not fully address novel AI risks.",
+   "Report covers three categories of AI-related health research."
+  ],
+  "confidence": 0.6
+ }
+}

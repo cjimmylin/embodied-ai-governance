@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-0f2220b7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:37:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0658215,
+  "in": 4,
+  "out": 3704,
+  "cache_read": 28775,
+  "cache_create": 7203,
+  "api_ms": 18002,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "内閣府 (Cabinet Office, Japan)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.6,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "incident_reporting",
+   "licensing_registration"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "superseded_or_repealed",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Applies exceptions to Road Traffic Act Enforcement Regulations for small electric vehicles rented under certified new business activity plans.",
+   "Plans must provide for recording speed and driving status of rented vehicles.",
+   "Plans must provide for reporting traffic accidents to the National Public Safety Commission.",
+   "Operating area must not include roads with markedly heavy traffic.",
+   "Repealed effective 1 July 2023 by Cabinet Office Ordinance No. 17 of 2023."
+  ],
+  "language": "ja",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "primary_embodied_category": "none",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Japanese Cabinet Office ordinance (2021, amended, repealed 1 July 2023) creating regulatory exceptions to Road Traffic Act enforcement rules for small electric vehicles rented under certified new business plans, conditional on driving records, accident reporting and low-traffic operating areas. Not AI-specific; a regulatory sandbox for micromobility.",
+  "title_clean": "国家公安委員会関係産業競争力強化法第十二条の規定に基づく内閣府令の特例に関する措置を定める内閣府令",
+  "title_en": "Cabinet Office Ordinance Establishing Special Measures to Cabinet Office Ordinances under Article 12 of the Industrial Competitiveness Enhancement Act (National Public Safety Commission)",
+  "venue": "e-Gov Law Search",
+  "page_quality": "substantive_document"
+ }
+}

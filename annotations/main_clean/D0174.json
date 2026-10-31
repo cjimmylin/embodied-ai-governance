@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0174",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:46:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027255800000000004,
+  "in": 2,
+  "out": 1724,
+  "cache_read": 11758,
+  "cache_create": 2209,
+  "api_ms": 8290,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulação da inteligência artificial: experiências internacionais e desafios para o Brasil",
+  "title_en": "Regulation of artificial intelligence: international experiences and challenges for Brazil",
+  "language": "pt",
+  "authors_or_issuer": "Câmara dos Deputados, Consultoria Legislativa",
+  "issuer_type": "legislature",
+  "pub_year": 2023,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Câmara dos Deputados - Estudos das Consultorias Legislativa e de Orçamento e Fiscalização Financeira",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR",
+   "US",
+   "CN",
+   "JP",
+   "RU",
+   "EU",
+   "GB"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "civil_liability",
+   "privacy_data_protection",
+   "ethics_principles"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI",
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Repository record for a Brazilian Chamber of Deputies legislative consultancy study on AI regulation. It surveys international approaches (UNESCO, US, China, Japan, Russia, EU, UK) and discusses challenges in designing a balanced regulatory model for safe AI development in Brazil. Only the abstract is available.",
+  "key_provisions_or_claims": [
+   "Surveys recent AI regulation in UNESCO, US, China, Japan, Russia, EU and UK",
+   "Discusses difficulties of a balanced regulatory model for Brazil",
+   "Aims to enable safe AI development in Brazil",
+   "Subjects include civil liability and personal data protection"
+  ],
+  "confidence": 0.6
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-4a538d60",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:57:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0319618,
+  "in": 2,
+  "out": 1813,
+  "cache_read": 11758,
+  "cache_create": 3163,
+  "api_ms": 8945,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Position Paper of the People's Republic of China on Regulating Military Applications of Artificial Intelligence (AI)",
+  "title_en": "Position Paper of the People's Republic of China on Regulating Military Applications of Artificial Intelligence (AI)",
+  "language": "en",
+  "authors_or_issuer": "Permanent Mission of the People's Republic of China to the UN Office at Geneva (Ministry of Foreign Affairs of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Permanent Mission of China to the UN Office at Geneva website",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "ethics_principles",
+   "civil_liability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "human_oversight_requirement",
+   "international_cooperation",
+   "education_training_programs",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "China's 2021 position paper on regulating military AI applications. It urges prudent, responsible development, compliance with international humanitarian law, human control of weapon systems, accountability, tiered regulation, multilateral rule-making and international cooperation, while opposing hegemony and ideological barriers to technology access.",
+  "key_provisions_or_claims": [
+   "Weapon systems must remain under human control, with human suspension possible at any time",
+   "Humans are the final subject of responsibility; establish accountability mechanisms and operator training",
+   "New weapons must comply with international humanitarian law",
+   "Implement tiered and categorized regulation of military AI and avoid premature use",
+   "Multilateral, inclusive rule-making toward a universal international regime; developed countries assist developing ones"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0793",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:28:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0423278,
+  "in": 2,
+  "out": 1712,
+  "cache_read": 11758,
+  "cache_create": 6007,
+  "api_ms": 9699,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "全国网络安全标准化技术委员会 (TC260); 国家标准化管理委员会 (SAC)",
+  "binding_nature": "technical_standard_voluntary",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Recommended national standard GB/T 45654-2025 on basic security requirements for generative AI services",
+   "Published 2025-04-25; effective 2025-11-01",
+   "Administered by TC260 under SAC; ICS 35.030 IT security",
+   "Drafted by a large consortium of firms (Baidu, Alibaba, Huawei, DeepSeek) and universities",
+   "Page shows only metadata; related standards on training data security and data labelling listed"
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [
+   "China Generative AI Measures"
+  ],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "none",
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Catalogue page for Chinese recommended national standard GB/T 45654-2025, Cybersecurity technology—Basic security requirements for generative AI services, issued by TC260, in force from 1 November 2025. The page shows only metadata, drafters and related standards, not the standard's text.",
+  "title_clean": "网络安全技术 生成式人工智能服务安全基本要求",
+  "title_en": "Cybersecurity technology—Basic security requirements for generative artificial intelligence service",
+  "venue": "全国标准信息公共服务平台 (National Standards Public Service Platform)",
+  "methodology": "not_applicable"
+ }
+}

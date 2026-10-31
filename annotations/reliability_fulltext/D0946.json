@@ -1,0 +1,94 @@
+{
+ "doc_id": "D0946",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:14:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.031441800000000006,
+  "in": 2,
+  "out": 1703,
+  "cache_read": 11758,
+  "cache_create": 3308,
+  "api_ms": 11283,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "HOUSE LAUNCHES BIPARTISAN TASK FORCE ON ARTIFICIAL INTELLIGENCE",
+  "title_en": "House Launches Bipartisan Task Force on Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "Office of Rep. Ted Lieu / U.S. House of Representatives (Speaker Johnson and Leader Jeffries announcement)",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 2,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Office of Rep. Ted Lieu website",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Press release announcing the bipartisan House Task Force on AI, led by Reps. Obernolte and Lieu with twelve members appointed by each party leader. It will produce a report with guiding principles and policy proposals balancing US AI leadership and innovation with appropriate guardrails.",
+  "key_provisions_or_claims": [
+   "Establishes a bipartisan House Task Force on AI with 24 members",
+   "Chair Obernolte and Co-Chair Lieu lead the effort",
+   "Task Force to produce a comprehensive report with guiding principles and bipartisan policy proposals",
+   "Aims to maintain US AI leadership while considering guardrails against threats",
+   "Consults committees of jurisdiction"
+  ],
+  "confidence": 0.85
+ }
+}

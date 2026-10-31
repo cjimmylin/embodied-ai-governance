@@ -1,0 +1,122 @@
+{
+ "doc_id": "R2-ad9d16fd",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1770274,
+  "in": 4,
+  "out": 3906,
+  "cache_read": 55374,
+  "cache_create": 33854,
+  "api_ms": 20186,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector",
+   "logistics_transport",
+   "domestic_consumer",
+   "manufacturing"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU",
+   "DE",
+   "SE",
+   "GB",
+   "US",
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas",
+   "autonomous_road_vehicles",
+   "professional_service_robots",
+   "domestic_household_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "liability_regime",
+   "insurance_requirement",
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "safety_physical_harm",
+   "cybersecurity",
+   "consumer_protection",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "trust_acceptance"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Product Liability Directive is technology-neutral and remains broadly adequate, but concepts of product, producer, defect and burden of proof need review for software and AI.",
+   "Autonomy, complexity, data dependence and openness to updates complicate attribution of liability.",
+   "Case studies on autonomous drones, cars, smart homes and cyber-attacks show how existing strict and fault-based regimes apply.",
+   "Questions raised: strict liability for AI, reversal of burden of proof, damage types and caps, value-chain redress, mandatory insurance.",
+   "An Expert Group on Liability and New Technologies will examine adaptations; the views are not political commitments."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU Product Liability Directive",
+   "EU Machinery Regulation",
+   "GDPR",
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2018,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Commission staff working document mapping liability challenges from emerging digital technologies (IoT, AI, robotics, autonomous systems). It reviews EU safety and liability rules, uses case studies (drones, cars, smart homes, cyber-attacks), and poses questions on strict liability, burden of proof, insurance and redress to feed an expert group.",
+  "title_clean": "Liability for emerging digital technologies",
+  "title_en": "Liability for emerging digital technologies",
+  "venue": "European Commission, SWD(2018) 137 final"
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "doc_id": "R2-292e90b8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:34:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.049383800000000005,
+  "in": 2,
+  "out": 1910,
+  "cache_read": 11758,
+  "cache_create": 7276,
+  "api_ms": 9719,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "交通运输部关于加快智慧港口和智慧航道建设的意见",
+  "title_en": "Opinions of the Ministry of Transport on Accelerating the Construction of Smart Ports and Smart Waterways",
+  "language": "zh",
+  "authors_or_issuer": "中华人民共和国交通运输部 (Ministry of Transport of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Transport of the PRC (交交水发〔2023〕164号)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics",
+   "drones_uas",
+   "autonomous_maritime_or_rail",
+   "autonomous_road_vehicles",
+   "space_or_extreme_environment"
+  ],
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "application_sectors": [
+   "logistics_transport",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "privacy_data_protection",
+   "standards_interoperability",
+   "sustainability_environment",
+   "safety_physical_harm",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "education_training_programs",
+   "international_cooperation",
+   "data_governance_requirements",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "China's Ministry of Transport issues opinions promoting smart ports and waterways by 2027, covering digital infrastructure, automated container and bulk terminals (AGVs, unmanned trucks), drones and unmanned vessels for waterway patrol, data and cybersecurity, standards, pilots including autonomous port trucking, and policy support.",
+  "key_provisions_or_claims": [
+   "By 2027 build world-class smart ports and waterways with intelligent sensing networks and automated terminals.",
+   "Scale up AGVs and unmanned container trucks; promote autonomous driving pilots in ports.",
+   "Promote drones, unmanned vessels and underwater robots for waterway inspection and surveying.",
+   "Strengthen cybersecurity, data classification and security for critical port infrastructure.",
+   "Establish smart port standards system, pilots, funding support and international standard engagement."
+  ],
+  "confidence": 0.9
+ }
+}

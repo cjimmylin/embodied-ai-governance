@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-225e097d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:15:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.037685800000000005,
+  "in": 2,
+  "out": 1709,
+  "cache_read": 11758,
+  "cache_create": 4854,
+  "api_ms": 8505,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robotically-Assisted Surgical Devices",
+  "title_en": "Robotically-Assisted Surgical Devices",
+  "language": "en",
+  "authors_or_issuer": "U.S. Food and Drug Administration (FDA)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2019,
+  "pub_month": 2,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "FDA website",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "education_training",
+   "certification_conformity_assessment",
+   "consumer_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "incident_reporting",
+   "education_training_programs",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "FDA informational page on robotically-assisted surgical devices, explaining their uses, FDA clearance scope, and recommendations for patients and providers. It stresses that no RAS device is authorized for cancer prevention or treatment, that training is the responsibility of manufacturers and facilities, and that adverse events should be reported via MedWatch.",
+  "key_provisions_or_claims": [
+   "FDA has cleared RAS devices for specific laparoscopic procedures but not for cancer prevention or treatment.",
+   "Training and credentialing are the responsibility of manufacturers, physicians and facilities, not the FDA.",
+   "Adverse events should be reported via MedWatch or user-facility reporting.",
+   "FDA encourages patient registries; cancer-related studies of unapproved uses require an IDE.",
+   "FDA monitors medical device reports and postmarket performance."
+  ],
+  "confidence": 0.85
+ }
+}

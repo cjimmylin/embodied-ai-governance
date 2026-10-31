@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-6e2931b9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0375158,
+  "in": 2,
+  "out": 1966,
+  "cache_read": 11758,
+  "cache_create": 4169,
+  "api_ms": 10664,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Considerations for the report of the Group of Governmental Experts of the High Contracting Parties to the Convention on Certain Conventional Weapons on emerging technologies in the area of Lethal Autonomous Weapons Systems on the outcomes of the work undertaken in 2017-2021",
+  "title_en": "Considerations for the report of the Group of Governmental Experts of the High Contracting Parties to the Convention on Certain Conventional Weapons on emerging technologies in the area of Lethal Autonomous Weapons Systems on the outcomes of the work undertaken in 2017-2021",
+  "language": "en",
+  "authors_or_issuer": "Russian Federation (submission to CCW GGE on LAWS)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN CCW Group of Governmental Experts on LAWS (CCW/GGE.1/2021/WP.1)",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "RU"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "civil_liability",
+   "criminal_liability",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE",
+   "Geneva Conventions Additional Protocol I",
+   "CCW"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Russian Federation working paper for the 2021 CCW GGE on lethal autonomous weapons systems. It argues existing international humanitarian law suffices, opposes a new binding instrument or moratorium, rejects 'meaningful human control' language, and favours state discretion over forms of human control and national Article 36 reviews.",
+  "key_provisions_or_claims": [
+   "International humanitarian law fully applies to LAWS and needs no modernization; existing regulation is sufficient.",
+   "Opposes a legally binding instrument or moratorium on LAWS; negotiations are premature.",
+   "Human control must be maintained, but its forms are left to States; rejects 'meaningful human control'.",
+   "Responsibility lies with States and individuals, including developers, producers and commanding officials.",
+   "No universal mandatory Article 36 legal review mechanism; CCW is the only appropriate forum."
+  ],
+  "confidence": 0.9
+ }
+}

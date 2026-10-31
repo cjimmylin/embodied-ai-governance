@@ -1,0 +1,94 @@
+{
+ "doc_id": "D0912",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:59:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.025321800000000002,
+  "in": 2,
+  "out": 1609,
+  "cache_read": 11758,
+  "cache_create": 2013,
+  "api_ms": 9474,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "IOS Press",
+  "binding_nature": "not_applicable",
+  "confidence": 0.55,
+  "countries_discussed": [],
+  "date_basis": "inferred_from_content",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": null,
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "human_robot_interaction_social_effects",
+   "ethics_principles",
+   "trust_acceptance"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "XX",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Moves robot rights debate from theory to practice for social robots",
+   "Asks what rights a social robot would need for responsible integration",
+   "Aims at practical guidance for culturally sustainable social robotics"
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "social_companion_robots",
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2020,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Abstract page of a paper in Frontiers in AI and Applications vol. 335 (Culturally Sustainable Social Robotics). It examines what rights a social robot would need for responsible integration, aiming to move robot-rights debate from theory to practical guidance.",
+  "title_clean": "The Rights of (Social) Robots",
+  "title_en": "The Rights of (Social) Robots",
+  "venue": "Frontiers in Artificial Intelligence and Applications (IOS Press)"
+ }
+}

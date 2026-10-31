@@ -1,0 +1,98 @@
+{
+ "doc_id": "D0369",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:41:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0619138,
+  "in": 2,
+  "out": 1747,
+  "cache_read": 11758,
+  "cache_create": 10816,
+  "api_ms": 10119,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "National Institute for Artificial Intelligence and Robotic Studies (Establishment) Bill, 2023",
+  "title_en": "National Institute for Artificial Intelligence and Robotic Studies (Establishment) Bill, 2023",
+  "language": "en",
+  "authors_or_issuer": "National Assembly of Nigeria (sponsored by Hon. Ademorin A. Kuye)",
+  "issuer_type": "legislature",
+  "pub_year": 2023,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "National Assembly of the Federal Republic of Nigeria (HB. 143)",
+  "jurisdiction_country": "NG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "NG"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education",
+   "research_science"
+  ],
+  "governance_topics": [
+   "education_training",
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "education_training_programs",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Nigerian House bill establishing the National Institute for Artificial Intelligence and Robotic Studies in Somolu, Lagos. It sets out the institute's objects, governing board, academic board, officers, finances and student discipline. It is an institutional and education-focused measure with no regulation of AI or robot systems.",
+  "key_provisions_or_claims": [
+   "Establishes the Institute as a body corporate to provide higher education and training in AI and robotics",
+   "Creates a Governing Board appointed by the Minister of Communications and Digital Economy",
+   "Sets up the Academic Board, Director-General and principal officers with fixed terms",
+   "Establishes a fund financed by federal grants through NBTE, fees and donations, with annual audit and reporting",
+   "Aligns the Institute with the National Digital Economy Policy and Strategy"
+  ],
+  "confidence": 0.9
+ }
+}

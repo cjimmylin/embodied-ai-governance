@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0020",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:07:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07320280000000001,
+  "in": 4,
+  "out": 3624,
+  "cache_read": 30868,
+  "cache_create": 9136,
+  "api_ms": 19786,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice",
+   "education",
+   "healthcare",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "fAIr LAC (Inter-American Development Bank)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.7,
+  "countries_discussed": [
+   "CO",
+   "CR",
+   "MX"
+  ],
+  "date_basis": "unknown",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "education_training_programs",
+   "self_regulation_codes"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "education_training",
+   "children_vulnerable_groups"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Offers five tools ('fAIr LAC in a box') for applying ethical AI principles across project phases",
+   "Lists IDB publications on responsible AI in public policy, including a data science manual developed with the OECD",
+   "Includes an ethical self-assessment tool and an algorithmic audit guide",
+   "Covers case studies such as AI for diabetic retinopathy in Jalisco and the Robot Laura audit (a software system)",
+   "Mentions the GuIA initiative on AI ethics research in Latin America and the Caribbean"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": null,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Resources page of the IDB's fAIr LAC initiative listing tools and publications for responsible AI in Latin America and the Caribbean, including ethical self-assessment, algorithmic audit, public-sector manuals, a MOOC, and case studies. It is a general AI ethics resource index with no embodied or robotics content.",
+  "title_clean": "Resources fAIrLAC",
+  "title_en": "Resources fAIrLAC",
+  "venue": "fAIr LAC website"
+ }
+}

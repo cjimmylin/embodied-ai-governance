@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-badc8c38",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:01:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.037601800000000005,
+  "in": 2,
+  "out": 1797,
+  "cache_read": 11758,
+  "cache_create": 4613,
+  "api_ms": 9459,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Committee of the Regions on 'Artificial Intelligence for Europe'",
+  "title_en": "Opinion of the European Committee of the Regions on 'Artificial Intelligence for Europe'",
+  "language": "en",
+  "authors_or_issuer": "European Committee of the Regions",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2019,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, C 168",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "education_training",
+   "labor_employment",
+   "privacy_data_protection",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "education_training_programs",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Opinion of the EU Committee of the Regions on the Commission's 'Artificial Intelligence for Europe' communication. It supports a common European approach, more investment, ethical guidelines and urgent legislative proposals, and stresses the role of local and regional authorities, digital skills and retraining. Robotics is mentioned only in passing.",
+  "key_provisions_or_claims": [
+   "Supports the Commission's AI strategy and calls for urgent European-level legislative proposals",
+   "Regrets the strategy is not binding on Member States and that the proposed funding is insufficient",
+   "Calls for local and regional authorities to be involved in AI investment and ecosystems",
+   "Calls for retraining and digital skills programmes to avoid inequality",
+   "Insists privacy and individual rights be guaranteed as AI develops"
+  ],
+  "confidence": 0.9
+ }
+}

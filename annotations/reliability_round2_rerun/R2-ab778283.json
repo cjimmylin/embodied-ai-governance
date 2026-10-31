@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-ab778283",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:08:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0504758,
+  "in": 2,
+  "out": 1876,
+  "cache_read": 11758,
+  "cache_create": 7634,
+  "api_ms": 9775,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "O. Reg. 306/15: PILOT PROJECT - AUTOMATED VEHICLES",
+  "title_en": "O. Reg. 306/15: Pilot Project - Automated Vehicles",
+  "language": "en",
+  "authors_or_issuer": "Government of Ontario (under Highway Traffic Act, R.S.O. 1990, c. H.8)",
+  "issuer_type": "subnational_government",
+  "pub_year": 2025,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ontario e-Laws",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "insurance_requirement",
+   "incident_reporting",
+   "human_oversight_requirement",
+   "technical_standards_reference",
+   "liability_regime",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "Ontario Highway Traffic Act",
+   "SAE J3016"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Ontario regulation establishing a pilot project for testing automated vehicles (SAE Levels 3-5 and truck platooning) on public highways. It sets Registrar approval for testers, safety mechanisms, driver duties, collision reporting, $5M minimum insurance, and liability provisions. Consolidated to November 2025; revoked October 13, 2027.",
+  "key_provisions_or_claims": [
+   "Automated vehicles may be operated on highways only by owners approved by the Registrar for testing.",
+   "Defines automated vehicles by SAE J3016 Levels 3, 4, 5 and co-operative truck platooning.",
+   "Requires engage/disengage, failure alert and driver takeover or safe-stop mechanisms.",
+   "Owners must carry minimum $5M liability insurance ($8M for vehicles seating eight or more).",
+   "Owners must report collisions within 10 days and retain records; regulation revoked October 13, 2027."
+  ],
+  "confidence": 0.95
+ }
+}

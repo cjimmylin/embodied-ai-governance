@@ -1,0 +1,102 @@
+{
+ "doc_id": "D1386",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:44:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0456818,
+  "in": 2,
+  "out": 1853,
+  "cache_read": 11758,
+  "cache_create": 6493,
+  "api_ms": 9652,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "1st Czecho-Slovak Symposium on Challenges of AI for Administrative Law: \"What We Don't Let Robots Decide?\" (Praha, 7 March 2025)",
+  "title_en": "1st Czecho-Slovak Symposium on Challenges of AI for Administrative Law: \"What We Don't Let Robots Decide?\" (Prague, 7 March 2025)",
+  "language": "en",
+  "authors_or_issuer": "Serhiichuk, L.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": "10.46282/blr.2025.9.1.991",
+  "venue": "Bratislava Law Review",
+  "jurisdiction_country": "CZ",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CZ",
+   "SK"
+  ],
+  "doc_type": "editorial_or_commentary",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "software_agent_called_robot",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "education_training",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "Czech National Strategy for Artificial Intelligence 2030",
+   "Czech Code of Administrative Procedure amendment (§ 15a)",
+   "Council of Europe, The administration and you - A handbook"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Conference report on a Prague symposium about limits of AI in administrative decision-making, prompted by a proposed Czech Code of Administrative Procedure amendment (§ 15a) permitting automated acts but excluding discretion and appeals. Covers human control, judicial review, transparency, and chatbots in public administration. No physical robotics content.",
+  "key_provisions_or_claims": [
+   "Proposed § 15a would allow automated acts without an official, excluding discretionary decisions and appeals.",
+   "Amendment influenced by German and Spanish law and Council of Europe recommendations.",
+   "Human control and judicial review are essential limits on AI in administrative decisions.",
+   "Transparency and understanding of AI decisions remain problems, especially for administrative sanctions.",
+   "Civil servants need AI training; data protection concerns arise."
+  ],
+  "confidence": 0.9
+ }
+}

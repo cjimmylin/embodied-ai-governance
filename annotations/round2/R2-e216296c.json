@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-e216296c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:33:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0358018,
+  "in": 2,
+  "out": 1781,
+  "cache_read": 11758,
+  "cache_create": 4203,
+  "api_ms": 9079,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "民政部 人力资源社会保障部关于印发《养老服务师职业资格制度暂行规定》的通知",
+  "title_en": "Notice of the Ministry of Civil Affairs and Ministry of Human Resources and Social Security on Issuing the Interim Provisions on the Professional Qualification System for Elderly Care Service Professionals",
+  "language": "zh",
+  "authors_or_issuer": "民政部; 人力资源社会保障部 (Ministry of Civil Affairs; Ministry of Human Resources and Social Security, China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "education_training",
+   "labor_employment",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "education_training_programs",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese ministerial notice issuing interim provisions that establish a three-level professional qualification for elderly care service professionals, covering exams, eligibility, competencies, certificate registration and continuing education. It mentions use of elderly care technology devices only in passing; it is not about AI or robotics.",
+  "key_provisions_or_claims": [
+   "Creates junior, intermediate and senior Elderly Care Service Professional qualifications listed in the National Professional Qualification Catalogue",
+   "National unified exams for junior and intermediate levels with a 60% pass mark",
+   "Defines competencies, including use of rehabilitation aids and elderly care technology products",
+   "Certificate registration run by the Ministry of Civil Affairs Social Welfare Center, with deregistration for misconduct",
+   "Effective on issuance; ends separate junior and intermediate professional title assessment in elderly care"
+  ],
+  "confidence": 0.93
+ }
+}

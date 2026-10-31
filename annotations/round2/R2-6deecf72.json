@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-6deecf72",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04989830000000001,
+  "in": 4,
+  "out": 3396,
+  "cache_read": 25748,
+  "cache_create": 4003,
+  "api_ms": 19825,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "ISO/TC 299",
+  "binding_nature": "technical_standard_voluntary",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "professional_service_robots",
+   "mobile_industrial_logistics"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "testing_sandboxes"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Specifies methods for specifying and evaluating locomotion performance of wheeled service robots indoors",
+   "Edition 1 published September 2016; confirmed in 2021 systematic review",
+   "Developed by ISO/TC 299 Robotics"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "professional_service_robots",
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2016,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "ISO catalogue page for ISO 18646-1:2016, which describes methods for specifying and evaluating the locomotion performance of wheeled service robots in indoor environments. Edition 1, confirmed in 2021 and still current; developed by ISO/TC 299.",
+  "title_clean": "ISO 18646-1:2016 Robotics — Performance criteria and related test methods for service robots — Part 1: Locomotion for wheeled robots",
+  "title_en": "ISO 18646-1:2016 Robotics — Performance criteria and related test methods for service robots — Part 1: Locomotion for wheeled robots",
+  "venue": "ISO",
+  "methodology": "not_applicable"
+ }
+}

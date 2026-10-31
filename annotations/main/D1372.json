@@ -1,0 +1,112 @@
+{
+ "doc_id": "D1372",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:43:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0463638,
+  "in": 2,
+  "out": 1856,
+  "cache_read": 11758,
+  "cache_create": 6656,
+  "api_ms": 9023,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Building trust in AI through a cyber risk-based approach",
+  "title_en": "Building trust in AI through a cyber risk-based approach",
+  "language": "en",
+  "authors_or_issuer": "ANSSI (French National Cybersecurity Authority), co-signed by international cybersecurity agencies",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ANSSI (cyber.gouv.fr)",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "FR",
+   "CA",
+   "DE",
+   "GB",
+   "SG",
+   "KR",
+   "IN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "trust_acceptance",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "transparency_explainability"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "international_cooperation",
+   "conformity_assessment_certification",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "NIST AI RMF",
+   "ISO/IEC 22989",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Joint high-level cyber risk analysis of AI systems published by France's ANSSI and co-signed by agencies from about 18 countries for the Paris AI Action Summit. It outlines AI-specific attacks (poisoning, extraction, evasion), supply-chain risks and security recommendations, and offers guidance to policy-makers.",
+  "key_provisions_or_claims": [
+   "Advocates a risk-based approach and secure-by-design AI systems, building on the Secure AI Systems Development Guidelines.",
+   "Categorises AI-specific attacks as poisoning, extraction and evasion.",
+   "Identifies key risk scenarios: infrastructure compromise, supply chain attacks, lateralization via interconnections (including industrial systems acting on the physical world), and human failures.",
+   "Recommends policy-makers support security evaluation and certification based on shared standards.",
+   "Calls for continued international dialogue between cybersecurity agencies and AI Safety Institutes."
+  ],
+  "confidence": 0.9
+ }
+}

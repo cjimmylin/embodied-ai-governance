@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0222",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:12:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.20688810000000002,
+  "in": 4,
+  "out": 3834,
+  "cache_read": 62776,
+  "cache_create": 41349,
+  "api_ms": 20225,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "امکان‌سنجی اعطای شخصیت حقوقی به ربات‌های هوشمند با تکیه بر مصوبه اتحادیه اروپا (شخص الکترونیک ۲۰۱۷)",
+  "title_en": "Feasibility Study of Granting Legal Personality to Smart Robots Based on European Union Resolution (Electronic Person - 2017)",
+  "language": "fa",
+  "authors_or_issuer": "Assistant Professor of Law, Payame Noor University, Iran",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Majlis va Rahbord (Quarterly), Vol. 27, No. 103",
+  "jurisdiction_country": "IR",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "IR",
+   "KR"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "autonomous_road_vehicles",
+   "care_assistive_robots",
+   "domestic_household_robots"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "ethics_principles"
+  ],
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "insurance_requirement"
+  ],
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017",
+   "Korea Intelligent Robots Act",
+   "Asimov's Laws of Robotics"
+  ],
+  "robot_legal_personhood_position": "opposes",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Iranian peer-reviewed legal article assessing whether smart robots can be granted legal personality, based on the EU Parliament's 2017 'electronic person' proposal. It concludes personality is currently unjustified given limited autonomy, and recommends treating robots as products with joint liability of producers, designers, developers, importers and sellers.",
+  "key_provisions_or_claims": [
+   "Granting legal personality to robots is currently not feasible or necessary given their level of autonomy.",
+   "Electronic personality could shield manufacturers and owners from liability and enable criminal misuse.",
+   "Compulsory insurance and compensation funds can work without conferring personhood.",
+   "Robots should be treated as products, with joint liability across the production chain.",
+   "Personality might be possible if robots attain full autonomy, perception and will."
+  ],
+  "confidence": 0.85
+ }
+}

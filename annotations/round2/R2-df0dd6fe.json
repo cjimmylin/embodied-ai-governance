@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-df0dd6fe",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1784218,
+  "in": 2,
+  "out": 1733,
+  "cache_read": 11758,
+  "cache_create": 39978,
+  "api_ms": 13900,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "14 CFR Part 61—Certification: Pilots, Flight Instructors, and Ground Instructors",
+  "title_en": "14 CFR Part 61—Certification: Pilots, Flight Instructors, and Ground Instructors",
+  "language": "en",
+  "authors_or_issuer": "Federal Aviation Administration (FAA), U.S. Department of Transportation",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Electronic Code of Federal Regulations",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "education_training"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "education_training_programs",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "US federal regulation (14 CFR Part 61) setting requirements for certifying pilots, flight instructors and ground instructors, including ratings, medical certificates, training, endorsements and the Robinson R-22/R-44 SFAR. It explicitly excludes unmanned aircraft operations (Part 107) and contains no AI or robotics provisions.",
+  "key_provisions_or_claims": [
+   "Defines certificates and ratings for pilots, flight instructors and ground instructors",
+   "Medical certificate requirements and durations by certificate class and age",
+   "SFAR 73 imposes special training and experience requirements for Robinson R-22/R-44 helicopters until 2029",
+   "Student pilot solo flight limitations and instructor endorsement rules",
+   "Section 61.8: unmanned aircraft operations under Part 107 cannot count toward Part 61 requirements"
+  ],
+  "confidence": 0.9
+ }
+}

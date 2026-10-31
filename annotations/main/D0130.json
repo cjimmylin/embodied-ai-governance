@@ -1,0 +1,91 @@
+{
+ "doc_id": "D0130",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:10:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0368438,
+  "in": 2,
+  "out": 1642,
+  "cache_read": 11758,
+  "cache_create": 4811,
+  "api_ms": 10125,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "CTIA - Comissão Temporária Interna sobre Inteligência Artificial no Brasil",
+  "title_en": "CTIA - Temporary Internal Committee on Artificial Intelligence in Brazil",
+  "language": "pt",
+  "authors_or_issuer": "Senado Federal do Brasil",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 12,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Senado Federal - Atividade Legislativa",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Brazilian Senate portal page for the closed Temporary Internal Committee on AI (CTIA), which examined PL 2338/2023 and the jurists' commission report. It lists meetings, an amendment deadline notice (2 Dec 2024), and the rapporteur's report and preliminary text by Senator Eduardo Gomes.",
+  "key_provisions_or_claims": [
+   "CTIA was created via RQS 722/2023 to examine AI bills based on the jurists' commission report.",
+   "Amendments to PL 2338/2023 allowed until 2 December 2024.",
+   "Documents include Senator Eduardo Gomes's report and preliminary text on PL 2338/2023.",
+   "Committee installed 16/08/2023; deadline extended several times; status closed."
+  ],
+  "confidence": 0.85
+ }
+}

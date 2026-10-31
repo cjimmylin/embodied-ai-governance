@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-91cc950c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:35:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1155017,
+  "in": 4,
+  "out": 3469,
+  "cache_read": 41572,
+  "cache_create": 19825,
+  "api_ms": 17292,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "交通运输部 (Ministry of Transport of the PRC)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "incident_reporting",
+   "education_training_programs",
+   "transparency_disclosure_labelling"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "education_training",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Civil aviation information service providers must establish quality management systems with continuous monitoring and periodic review.",
+   "Raw data providers must ensure accuracy, resolution, integrity, timeliness, traceability and format.",
+   "NOTAMs required for conflict zones affecting air navigation.",
+   "Runway surface condition reports and snow notices valid for at most 8 hours.",
+   "Penalties: warnings and fines up to 30,000 yuan for non-compliance."
+  ],
+  "language": "zh",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 11,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Ministry of Transport Order No. 35 (2022) amending China's Civil Aviation Aeronautical Information Rules, effective 1 January 2023, with the full consolidated rules. It strengthens quality management of aeronautical information, source data verification, runway condition and snow notices, and NOTAM triggers. It has no AI or robotics content.",
+  "title_clean": "交通运输部关于修改《民用航空情报工作规则》的决定",
+  "title_en": "Ministry of Transport Decision on Amending the Civil Aviation Aeronautical Information Work Rules",
+  "venue": "Ministry of Transport of the PRC website"
+ }
+}

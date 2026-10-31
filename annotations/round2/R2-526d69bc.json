@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-526d69bc",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06263579999999999,
+  "in": 2,
+  "out": 1722,
+  "cache_read": 11758,
+  "cache_create": 11059,
+  "api_ms": 9579,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Product Regulation and Metrology Act 2025",
+  "title_en": "Product Regulation and Metrology Act 2025",
+  "language": "en",
+  "authors_or_issuer": "UK Parliament (legislation.gov.uk)",
+  "issuer_type": "legislature",
+  "pub_year": 2025,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "legislation.gov.uk",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "EU"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "consumer_protection",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "licensing_registration",
+   "oversight_body_creation",
+   "prohibitions_bans",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UK Act empowering the Secretary of State to make product regulations on risks, efficiency and environmental impact of products marketed or used in the UK, and metrology regulations on units and quantities. Covers enforcement powers, standards, online marketplaces and sanctions. Excludes aircraft, military equipment and medical devices. Not AI-specific.",
+  "key_provisions_or_claims": [
+   "Secretary of State may make regulations to reduce product risks to health, safety, property.",
+   "Product requirements may cover software components, online marketplaces and technical standards with presumption of compliance.",
+   "Relevant authorities may inspect, seize, recall, prohibit products and impose sanctions.",
+   "Excludes food, aircraft, military equipment, medicines and medical devices.",
+   "Regulations may treat EU law compliance as meeting UK requirements."
+  ],
+  "confidence": 0.9
+ }
+}

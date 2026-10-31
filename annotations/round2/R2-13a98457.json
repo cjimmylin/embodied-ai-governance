@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-13a98457",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0443858,
+  "in": 2,
+  "out": 1799,
+  "cache_read": 11758,
+  "cache_create": 6304,
+  "api_ms": 9478,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "legally_binding",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "international_cooperation",
+   "testing_sandboxes",
+   "self_regulation_codes",
+   "technical_standards_reference",
+   "risk_based_tiering",
+   "funding_or_incentives"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "ethics_principles",
+   "transparency_explainability"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Establishes the European AI Office within DG CONNECT of the Commission",
+   "Tasks include implementing and enforcing the forthcoming AI Act, especially rules on general-purpose AI models",
+   "Develops tools, benchmarks and evaluation methods for GPAI models with systemic risks",
+   "Provides secretariat to the AI Board, supports sandboxes, codes of practice and standardisation requests",
+   "Promotes trustworthy AI, innovation and international cooperation; funded via Digital Europe Programme"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "Hiroshima Process"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Commission Decision establishing the European AI Office within DG CONNECT, tasked with implementing and enforcing the forthcoming AI Act (notably general-purpose AI models), coordinating governance structures, supporting codes of practice and sandboxes, and advancing international cooperation and trustworthy AI innovation.",
+  "title_clean": "Commission Decision of 24 January 2024 establishing the European Artificial Intelligence Office",
+  "title_en": "Commission Decision of 24 January 2024 establishing the European Artificial Intelligence Office",
+  "venue": "Official Journal of the European Union (C series)",
+  "methodology": "not_applicable"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0848",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:29:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0466018,
+  "in": 2,
+  "out": 1815,
+  "cache_read": 11758,
+  "cache_create": 6818,
+  "api_ms": 9341,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "education"
+  ],
+  "authors_or_issuer": "Dong, J.; Mitchell, J.J.; Yu, S.; Harmon, M.; Holstein, A.; Shim, J.H. et al.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.1145/3610978.3641110",
+  "embodied_categories": [
+   "educational_robots",
+   "social_companion_robots",
+   "humanoid_general_purpose"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "children_vulnerable_groups",
+   "education_training",
+   "human_robot_interaction_social_effects",
+   "trust_acceptance"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "language": "en",
+  "methodology": "empirical_qualitative",
+  "named_instruments_referenced": [],
+  "primary_embodied_category": "educational_robots",
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2024,
+  "publication_stage": "peer_reviewed",
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "HRI '24 companion paper describing a nine-week robot theater afterschool program at a low-income US elementary school using social robots and AI tools for STEAM education. It explores children's views on AI/robot ethics; children showed excitement and empathy toward robots and thought developers should be responsible for harms like bullying.",
+  "key_provisions_or_claims": [
+   "Nine-week afterschool program with 30 children used robots such as Pepper, NAO, Milo, Moxie and Aibo.",
+   "Children's interest in STEAM and learning increased based on observations.",
+   "Children expressed empathy and emotional attachment toward robots.",
+   "Children thought developers should be responsible for negative situations like bullying.",
+   "Program expands knowledge of AI/robot ethics in early education."
+  ],
+  "title_clean": "Promoting STEAM Education and AI/Robot Ethics in a Child-Robot Theater Afterschool Program",
+  "title_en": "Promoting STEAM Education and AI/Robot Ethics in a Child-Robot Theater Afterschool Program",
+  "venue": "HRI '24 Companion (ACM/IEEE International Conference on Human-Robot Interaction)"
+ }
+}

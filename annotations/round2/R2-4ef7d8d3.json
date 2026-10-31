@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-4ef7d8d3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:55:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2000718,
+  "in": 4,
+  "out": 3539,
+  "cache_read": 61933,
+  "cache_create": 40342,
+  "api_ms": 24635,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Air Traffic Management and Unmanned Aircraft Act 2021",
+  "title_en": "Air Traffic Management and Unmanned Aircraft Act 2021",
+  "language": "en",
+  "authors_or_issuer": "UK Parliament (legislation.gov.uk)",
+  "issuer_type": "legislature",
+  "pub_year": 2021,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "legislation.gov.uk",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "criminal_liability",
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "UK Act (2021) covering airspace change proposals, air traffic services licensing and enforcement, airport slot allocation, and police powers and fixed penalties for unmanned aircraft offences. Version shown is consolidated to March 2026. Drone-specific provisions are confined to Part 3 and Schedules 8–11; the rest is air traffic regulation.",
+  "key_provisions_or_claims": [
+   "Secretary of State may direct airspace change proposals; CAA enforces with penalties up to 10% of turnover",
+   "Reforms licensing, modification and appeals for air traffic services under the Transport Act 2000",
+   "Schedules 8–10 give police and prison authorities powers over unmanned aircraft",
+   "Schedule 10 provides fixed penalties for unmanned aircraft offences",
+   "Temporary power to amend airport slot allocation rules due to COVID-19"
+  ],
+  "confidence": 0.9
+ }
+}

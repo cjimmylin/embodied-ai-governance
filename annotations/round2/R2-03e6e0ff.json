@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-03e6e0ff",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:38:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0361038,
+  "in": 2,
+  "out": 1758,
+  "cache_read": 11758,
+  "cache_create": 4336,
+  "api_ms": 8890,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国家戦略特別区域法第二十五条の二の内閣府令で定める実証事業等を定める内閣府令",
+  "title_en": "Cabinet Office Ordinance Specifying Demonstration Projects etc. under Article 25-2 of the National Strategic Special Zones Act",
+  "language": "ja",
+  "authors_or_issuer": "Cabinet Office (Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japanese Cabinet Office ordinance (Reiwa 2 No. 57, 2020) defining demonstration projects eligible under the National Strategic Special Zones Act Article 25-2, including autonomous driving of automobiles and remote or autonomous operation of unmanned aircraft, and prescribing the certificate form.",
+  "key_provisions_or_claims": [
+   "Eligible demonstration projects must strengthen industrial international competitiveness and form hubs of international economic activity.",
+   "Covered demonstrations include automated driving of automobiles and remote/automatic operation of unmanned aircraft.",
+   "Also covers specified radio technologies for special-specification vehicles and unmanned aircraft applications.",
+   "Prescribes the form of the written certificate issued to demonstration operators.",
+   "In force from 1 September 2020."
+  ],
+  "confidence": 0.9
+ }
+}

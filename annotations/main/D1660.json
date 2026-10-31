@@ -1,0 +1,107 @@
+{
+ "doc_id": "D1660",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:52:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0437478,
+  "in": 2,
+  "out": 1840,
+  "cache_read": 11758,
+  "cache_create": 6042,
+  "api_ms": 11212,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "European Parliamentary Research Service (Pillath, S.)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "EU",
+   "DE"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": "10.64628/ab.mp3safcpt",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "international_cooperation",
+   "funding_or_incentives"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "privacy_data_protection",
+   "cybersecurity",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "ethics_principles",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Human error causes over 90% of road accidents, motivating vehicle automation.",
+   "SAE J3016 six levels of automation underpin shared regulatory terminology.",
+   "Vienna Convention on Road Traffic remains largely incompatible with driverless vehicles despite the 2014 amendment.",
+   "Technical requirements and type-approval are harmonised via UNECE 1958 and 1998 Agreements, in which the EU participates.",
+   "Open issues include data protection, cybersecurity, liability allocation and ethical algorithmic decisions."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "ISO 13482"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2016,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "European Parliamentary Research Service briefing (January 2016) on automated vehicles in the EU. It covers potential and challenges, SAE automation levels, technologies, and the regulatory framework (Vienna Convention, UNECE type-approval, EU work), highlighting open issues of safety, data protection, cybersecurity and liability. The collector title refers to a different article.",
+  "title_clean": "Automated vehicles in the EU",
+  "title_en": "Automated vehicles in the EU",
+  "venue": "European Parliamentary Research Service"
+ }
+}

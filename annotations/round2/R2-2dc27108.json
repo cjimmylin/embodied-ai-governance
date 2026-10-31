@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-2dc27108",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0283218,
+  "in": 2,
+  "out": 1801,
+  "cache_read": 11758,
+  "cache_create": 2283,
+  "api_ms": 13072,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/TC 299 Robotics — catalogue of standards and projects under development",
+  "title_en": "ISO/TC 299 Robotics — catalogue of standards and projects under development",
+  "language": "en",
+  "authors_or_issuer": "ISO (TC 299 Robotics) via Latvian Standards (LVS)",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "LVS (Latvian Standards) committee project list",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "LV"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "professional_service_robots",
+   "surgical_medical_robots",
+   "collaborative_robots"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing",
+   "healthcare",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 10218",
+   "ISO 13482"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Catalogue page mirroring ISO/TC 299 Robotics work programme via Latvian standards body LVS, listing ten standards and reports, mostly in force, on industrial and service robot safety, including ISO 10218-1/-2:2025, ISO 13482 application reports and one draft technical report under development.",
+  "key_provisions_or_claims": [
+   "Lists ISO 10218-1 and -2:2025 safety requirements for industrial robots and robot cells",
+   "Lists ISO/TR 23482-1 and -2 on applying ISO 13482 to personal care robots",
+   "ISO/DTR 21382 safety test methods for ISO 13482 still under development",
+   "Includes IEC/TR 60601-4-1 on autonomy in medical electrical equipment",
+   "Includes ISO 22166-1 service robot modularity and ISO 18646-3 performance criteria"
+  ],
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-dc05cba9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:30:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0675158,
+  "in": 2,
+  "out": 1610,
+  "cache_read": 11758,
+  "cache_create": 12559,
+  "api_ms": 8193,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院关于取消和下放一批行政许可事项的决定",
+  "title_en": "Decision of the State Council on Cancelling and Delegating a Batch of Administrative Licensing Items",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "国发〔2020〕13号",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "State Council decision of 13 September 2020 cancelling 29 administrative licensing items and delegating approval of 4 others, with post-approval supervision measures for each. It has no AI or robotics content; only a passing item on non-commercial general aviation registration becoming filing.",
+  "key_provisions_or_claims": [
+   "Cancels 29 administrative licences; many replaced by filing/registration",
+   "Delegates approval level of 4 licences to lower authorities",
+   "Requires departments to publish post-approval supervision rules within 20 working days",
+   "Strengthens 'double random, one open' inspections and credit supervision",
+   "Non-commercial general aviation approval changed to filing, with airworthiness and flight monitoring"
+  ],
+  "confidence": 0.93
+ }
+}

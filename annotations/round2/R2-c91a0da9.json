@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-c91a0da9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:30:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0328458,
+  "in": 2,
+  "out": 1699,
+  "cache_read": 11758,
+  "cache_create": 3669,
+  "api_ms": 8638,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院办公厅转发商务部《关于支持国际消费中心城市培育建设的若干措施》的通知",
+  "title_en": "General Office of the State Council forwards the Ministry of Commerce's Measures to Support the Cultivation and Construction of International Consumption Center Cities",
+  "language": "zh",
+  "authors_or_issuer": "国务院办公厅; 商务部",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中国政府网",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "retail_hospitality",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "General Office of the State Council circular forwarding Ministry of Commerce measures to support Shanghai, Beijing, Guangzhou, Tianjin and Chongqing in building international consumption center cities. Covers debut economy, inbound policy, tax-free shopping, events, retail and services. AI and low-altitude logistics are mentioned only in passing.",
+  "key_provisions_or_claims": [
+   "Promote debut economy with customs facilitation for imported new products",
+   "Expand visa-free entry and improve inbound payment services",
+   "Optimize duty-free shops and departure tax refund",
+   "Pilot reforms in retail, wholesale and auto circulation",
+   "Promote 'AI+consumption' scenarios and explore low-altitude logistics routes"
+  ],
+  "confidence": 0.9
+ }
+}

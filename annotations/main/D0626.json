@@ -1,0 +1,111 @@
+{
+ "doc_id": "D0626",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:23:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0429678,
+  "in": 2,
+  "out": 1762,
+  "cache_read": 11758,
+  "cache_create": 6042,
+  "api_ms": 9309,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "defense_security",
+   "manufacturing",
+   "healthcare",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Li, L.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "US",
+   "JP",
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.26549/met.v4i2.4299",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas",
+   "autonomous_road_vehicles",
+   "surgical_medical_robots",
+   "industrial_manipulators",
+   "delivery_robots",
+   "humanoid_general_purpose"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "military_use_ihl",
+   "civil_liability",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "human_dignity_autonomy"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "not_applicable",
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "pub_month": 10,
+  "pub_year": 2020,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Short Chinese-authored journal article surveying robot generations, military and civil robot applications, and the ethical problems they raise, including threats to human subjectivity, accident liability, privacy, and lethal military robots. It calls for ethical design and ethical regulation of robot application.",
+  "key_provisions_or_claims": [
+   "Robots are divided into three generations, the third being AI robots that reason autonomously.",
+   "Military robots drive robot development and raise the most discussed ethical problems.",
+   "Accidents with driverless cars and robots raise unresolved liability questions between designer and machine.",
+   "Robot data collection creates tensions between privacy and data sharing.",
+   "Calls for ethical design and reasonable ethical regulation of robot application."
+  ],
+  "title_clean": "Trends of Robot Application——Ethical Response",
+  "title_en": "Trends of Robot Application——Ethical Response",
+  "venue": "Modern Electronic Technology"
+ }
+}

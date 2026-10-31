@@ -1,0 +1,93 @@
+{
+ "doc_id": "D0990",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:33:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0426218,
+  "in": 2,
+  "out": 1695,
+  "cache_read": 11758,
+  "cache_create": 6123,
+  "api_ms": 13110,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "IEEE 2863-2026 - IEEE Approved Draft Recommended Practice for Organizational Governance of Artificial Intelligence",
+  "title_en": "IEEE 2863-2026 - IEEE Approved Draft Recommended Practice for Organizational Governance of Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "IEEE Standards Association (C/AISC Artificial Intelligence Standards Committee)",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "IEEE SA website",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "transparency_explainability"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "IEEE SA catalogue page for IEEE 2863-2026, a Recommended Practice on organizational governance of AI. It sets governance principles and processes for governing bodies of organizations developing or using AI, with case studies on resolving tensions between principles. General AI, no robotics-specific content.",
+  "key_provisions_or_claims": [
+   "Sets governance Principles for the governing body of organizations developing or using AI",
+   "Provides Processes to implement the Principles",
+   "Includes case studies showing how to resolve tensions between Principles",
+   "Board approval 2026-06-04; developed by C/AISC, chaired by Gary Marchant"
+  ],
+  "confidence": 0.85
+ }
+}

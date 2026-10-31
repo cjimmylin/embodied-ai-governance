@@ -1,0 +1,121 @@
+{
+ "doc_id": "R2-0855b2d9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:31:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0696696,
+  "in": 4,
+  "out": 4083,
+  "cache_read": 28566,
+  "cache_create": 7360,
+  "api_ms": 19763,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "domestic_consumer",
+   "elder_care_social_care",
+   "retail_hospitality",
+   "education",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "商务部、中央网信办、国家发展改革委、教育部、工业和信息化部、民政部、住房城乡建设部、文化和旅游部",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "care_assistive_robots",
+   "social_companion_robots",
+   "domestic_household_robots",
+   "professional_service_robots",
+   "delivery_robots",
+   "drones_uas",
+   "autonomous_road_vehicles",
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "data_governance_requirements"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "cybersecurity",
+   "privacy_data_protection",
+   "consumer_protection",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Support humanoid, quadruped, elder-care and companion robots through application demonstrations",
+   "Pilot elder-care and rehabilitation robots in homes, communities and care institutions",
+   "Cautiously develop unmanned delivery with low-speed vehicles and drones in designated areas",
+   "Build AI terminal standards system including intelligence grading and evaluation",
+   "Strengthen cybersecurity, data security and consumer information protection; subsidies and investment fund support"
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [
+   "国家人工智能产业综合标准化体系建设指南",
+   "国务院关于深入实施“人工智能+”行动的意见",
+   "提振消费专项行动方案"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Implementation opinion by eight Chinese ministries (MOFCOM-led) to accelerate 'AI+consumption', promoting AI consumer products including humanoid, elder-care and companion robots, service and delivery robots, with subsidies, pilot scenarios, standards and security safeguards.",
+  "title_clean": "商务部等8部门关于加快“人工智能+消费”发展的实施意见",
+  "title_en": "Implementation Opinions of the Ministry of Commerce and Seven Other Departments on Accelerating the Development of 'AI + Consumption'",
+  "venue": "商务部 (Ministry of Commerce, PRC)",
+  "issuer_type": "national_government_executive",
+  "methodology": "not_applicable"
+ }
+}

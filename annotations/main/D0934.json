@@ -1,0 +1,108 @@
+{
+ "doc_id": "D0934",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:32:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06167,
+  "in": 4,
+  "out": 3642,
+  "cache_read": 27885,
+  "cache_create": 6360,
+  "api_ms": 24388,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "NIST AI RMF Playbook",
+  "title_en": "NIST AI RMF Playbook",
+  "language": "en",
+  "authors_or_issuer": "National Institute of Standards and Technology (NIST)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2023,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "NIST AI Resource Center (AIRC)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "human_oversight_control",
+   "privacy_data_protection",
+   "cybersecurity"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "NIST AI RMF",
+   "ISO/IEC 22989",
+   "OECD AI Principles",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "The NIST AI RMF Playbook gives voluntary suggested actions, transparency and documentation guidance, and references for implementing the AI Risk Management Framework's Govern, Map, Measure and Manage functions. It is general-purpose AI risk guidance with no robot-specific provisions.",
+  "key_provisions_or_claims": [
+   "Organizes voluntary suggested actions under the Govern, Map, Measure and Manage functions",
+   "Recommends documenting system purpose, context of use, dependencies and negative impacts",
+   "Advises go/no-go deployment and decommissioning decisions based on risk thresholds",
+   "Encourages stakeholder engagement and appropriate human involvement in AI-augmented decisions",
+   "Provides references and resources for transparency, fairness and impact assessment"
+  ],
+  "confidence": 0.85
+ }
+}

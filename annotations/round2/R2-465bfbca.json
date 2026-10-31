@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-465bfbca",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.060585,
+  "in": 4,
+  "out": 3662,
+  "cache_read": 27560,
+  "cache_create": 6054,
+  "api_ms": 21924,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Use of Small Unmanned Aircraft in the Cayman Islands",
+  "title_en": "Use of Small Unmanned Aircraft in the Cayman Islands",
+  "language": "en",
+  "authors_or_issuer": "Civil Aviation Authority of the Cayman Islands",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2017,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Civil Aviation Authority of the Cayman Islands",
+  "jurisdiction_country": "KY",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KY"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "civil_liability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "insurance_requirement",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "Air Navigation (Overseas Territories) Order 2013"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Cayman Islands Civil Aviation Authority guidance on small unmanned aircraft (drones) under the Air Navigation (Overseas Territories) Order 2013. It sets airport and prison exclusion zones, height and weight limits, permission and insurance for commercial aerial work, surveillance drone separation distances, and a code of conduct.",
+  "key_provisions_or_claims": [
+   "Commercial aerial work with any SUA requires a CAACI Permission, medical fitness and third-party liability insurance.",
+   "SUA banned within 3 nm of the three airports and 1 nm of HM Prison Northward.",
+   "Maximum height 400 ft; no flights beyond visual line of sight; SUA over 20 kg not allowed.",
+   "Surveillance-capable SUA must keep 150 m from congested areas and 50 m from persons and vessels.",
+   "Unpermitted aerial work is an offence with a fine up to £2,500."
+  ],
+  "confidence": 0.9
+ }
+}

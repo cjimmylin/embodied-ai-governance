@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1549",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:46:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0666809,
+  "in": 4,
+  "out": 3665,
+  "cache_read": 29459,
+  "cache_create": 7265,
+  "api_ms": 19902,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "A Review of - Humans and Robots: Ethics, Agency, and Anthropomorphism",
+  "title_en": "A Review of - Humans and Robots: Ethics, Agency, and Anthropomorphism",
+  "language": "en",
+  "authors_or_issuer": "Morales, D.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2023,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": "10.55613/jeet.v33i1.12",
+  "venue": "Journal of Ethics and Emerging Technologies",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "editorial_or_commentary",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "autonomous_road_vehicles",
+   "military_autonomous_weapons",
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "civil_liability",
+   "legal_personhood_robot_rights",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Book review of Sven Nyholm's Humans and Robots (2020). It outlines the book's framework for the ethics of human-robot interaction, treating robots as agents with a distinct kind of agency, and discusses anthropomorphism, responsibility and legal notions of agency. The reviewer critiques the unclear human/robot distinction and recommends the book.",
+  "key_provisions_or_claims": [
+   "Ethics of human-robot interaction treats both humans and robots as agents whose conduct toward each other warrants normative consideration.",
+   "Robot agency is a kind in its own right and should not be judged by human-agency standards.",
+   "Humans are psychologically and institutionally ill-prepared for robots, leading to anthropomorphism and gaps in legal notions of agency.",
+   "The human/robot distinction is underspecified, especially for humanoid robots, which limits how far the book's claims generalise.",
+   "Robot agency language should be used for concrete robot types rather than seeking universal conditions."
+  ],
+  "confidence": 0.85
+ }
+}

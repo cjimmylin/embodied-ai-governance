@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-afbe7be4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0828438,
+  "in": 2,
+  "out": 1822,
+  "cache_read": 11758,
+  "cache_create": 15861,
+  "api_ms": 10810,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "other"
+  ],
+  "authors_or_issuer": "European Parliament",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "liability_regime",
+   "oversight_body_creation",
+   "self_regulation_codes",
+   "data_governance_requirements",
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "international_cooperation",
+   "prohibitions_bans"
+  ],
+  "governance_topics": [
+   "intellectual_property",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "consumer_protection",
+   "civil_liability",
+   "industrial_policy_innovation",
+   "fairness_bias_discrimination"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Calls for an additional legal framework on licensing of copyright works for GenAI training.",
+   "Proposes EUIPO as trusted intermediary for machine-readable opt-outs and transparency.",
+   "Calls for itemised transparency of training content and a rebuttable presumption of use where transparency is lacking.",
+   "Asserts EU copyright applies to GenAI placed on the EU market regardless of where training occurs.",
+   "Calls for labelling of AI-generated content and protection against deepfakes."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "intellectual_property",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "European Parliament own-initiative resolution of 10 March 2026 on copyright and generative AI. It calls for a new licensing framework, EUIPO-managed opt-out and transparency mechanisms, itemised disclosure of training content, a rebuttable presumption of use, extraterritorial application of EU copyright, remuneration for past uses, and labelling of AI content.",
+  "title_clean": "Copyright and generative artificial intelligence – opportunities and challenges",
+  "title_en": "Copyright and generative artificial intelligence – opportunities and challenges",
+  "venue": "Official Journal of the European Union (C series)"
+ }
+}

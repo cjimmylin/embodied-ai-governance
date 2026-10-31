@@ -1,0 +1,111 @@
+{
+ "doc_id": "D0311",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:15:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0709748,
+  "in": 4,
+  "out": 3731,
+  "cache_read": 29913,
+  "cache_create": 8428,
+  "api_ms": 18158,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robots in public spaces: implications for policy design",
+  "title_en": "Robots in public spaces: implications for policy design",
+  "language": "en",
+  "authors_or_issuer": "Mintrom, M.; Sumartojo, S.; Kulić, D.; Tian, L.; Carreno-Medrano, P.; Allen, A.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.1080/25741292.2021.1905342",
+  "venue": "Policy Design and Practice",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "SG",
+   "AU",
+   "US"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots",
+   "professional_service_robots",
+   "security_policing_robots",
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "retail_hospitality",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "industrial_policy_innovation",
+   "fairness_bias_discrimination",
+   "trust_acceptance"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "funding_or_incentives",
+   "audits_impact_assessment",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Journal article reviewing public policy approaches to disruptive technology to guide governance of robots in public spaces. It proposes a seven-question policy design checklist covering safety, privacy and ethics, productivity, aesthetics, co-creation, equitable access and systemic innovation, using examples such as delivery and security robots.",
+  "key_provisions_or_claims": [
+   "Proposes a policy design checklist for robots in public spaces with seven questions.",
+   "Safety must come first: human safety, then property and robots themselves.",
+   "Regulation could prescribe robot features and require operator licences.",
+   "Privacy concerns addressed via rules on use of collected data and monitoring.",
+   "Incentives, subsidies and co-design can promote equitable access and systemic innovation."
+  ],
+  "confidence": 0.9
+ }
+}

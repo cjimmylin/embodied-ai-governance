@@ -1,0 +1,114 @@
+{
+ "doc_id": "R2-ddd7d9c2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:42:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1377418,
+  "in": 2,
+  "out": 1951,
+  "cache_read": 11758,
+  "cache_create": 29263,
+  "api_ms": 10598,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2019/947 of 24 May 2019 on the rules and procedures for the operation of unmanned aircraft",
+  "title_en": "Commission Implementing Regulation (EU) 2019/947 of 24 May 2019 on the rules and procedures for the operation of unmanned aircraft",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2019,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 152/45",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "education_training",
+   "standards_interoperability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "education_training_programs",
+   "insurance_requirement"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "EU Commission Implementing Regulation setting harmonised rules for operating unmanned aircraft systems. It establishes risk-proportionate 'open', 'specific' and 'certified' categories, operator registration, remote pilot competency and minimum age, operational authorisation and risk assessment, geographical zones, model aircraft clubs, and competent authority oversight across Member States.",
+  "key_provisions_or_claims": [
+   "Three operation categories (open, specific, certified) scaled to risk.",
+   "Operators must register if aircraft is 250 g or more, over 80 J impact energy, or carries a personal-data sensor.",
+   "Specific category requires operational risk assessment and authorisation, or declaration under standard scenarios.",
+   "Remote pilots need competency training and exams; minimum age 16, adjustable by Member States.",
+   "Member States set UAS geographical zones and designate competent authorities for oversight and incident reporting."
+  ],
+  "confidence": 0.96
+ }
+}

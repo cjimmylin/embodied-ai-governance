@@ -1,0 +1,112 @@
+{
+ "doc_id": "D0735",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:26:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0449798,
+  "in": 2,
+  "out": 1912,
+  "cache_read": 11758,
+  "cache_create": 6170,
+  "api_ms": 13852,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Myanmar's repressive use of AI to counter \"terrorism\"",
+  "title_en": "Myanmar's repressive use of AI to counter \"terrorism\"",
+  "language": "en",
+  "authors_or_issuer": "Civil society organisations (submission to UN Special Rapporteur on counter-terrorism and human rights)",
+  "issuer_type": "ngo_or_civil_society",
+  "pub_year": 2025,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "OHCHR call for input submissions",
+  "jurisdiction_country": "MM",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "MM",
+   "CN",
+   "IN",
+   "IL"
+  ],
+  "doc_type": "industry_or_ngo_report",
+  "doc_class": "grey_literature",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas",
+   "security_policing_robots"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "military_use_ihl",
+   "fairness_bias_discrimination",
+   "human_dignity_autonomy",
+   "civil_liability",
+   "human_oversight_control",
+   "transparency_explainability"
+  ],
+  "primary_topic": "human_dignity_autonomy",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "audits_impact_assessment",
+   "international_cooperation",
+   "licensing_registration",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "case_study",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "NGO submission to the UN Special Rapporteur on counter-terrorism describing how Myanmar's military uses AI for biometric databases, facial recognition, censorship and targeting, trending toward autonomous weapons and drones. It recommends AI regulation, mandatory human rights due diligence, stronger export controls on dual-use technology, and international justice.",
+  "key_provisions_or_claims": [
+   "Myanmar military uses AI for biometric profiling, facial recognition and censorship under a counter-terrorism pretext.",
+   "AI pipeline facilitates arbitrary arrest, torture and attacks; trend toward semi-autonomous lethal drones.",
+   "Calls for mandatory human rights due diligence laws for tech companies.",
+   "Expand dual-use export controls to surveillance software and autonomous weapons components, with sanctions on corporate intermediaries.",
+   "Prioritise international accountability via ICC and universal jurisdiction."
+  ],
+  "confidence": 0.85
+ }
+}

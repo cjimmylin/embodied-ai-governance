@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-f13c76d2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:41:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030421800000000006,
+  "in": 2,
+  "out": 1791,
+  "cache_read": 11758,
+  "cache_create": 2833,
+  "api_ms": 9343,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "domestic_consumer",
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "authors_or_issuer": "全国机器人标准化技术委员会 (TC591); 国家市场监督管理总局 / 国家标准化管理委员会",
+  "binding_nature": "technical_standard_voluntary",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "domestic_household_robots",
+   "care_assistive_robots",
+   "professional_service_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "human_robot_interaction_social_effects"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "GB/T 36530-2018 is a recommended national standard on safety requirements for personal care robots",
+   "Published 2018-07-13, effective 2019-02-01; reviewed 2025-05-30 and remains valid",
+   "Identical adoption of ISO 13482:2014",
+   "Administered by TC591 under the China Machinery Industry Federation",
+   "Lists related standards including humanoid robot safety and service robot functional safety plans"
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [
+   "ISO 13482"
+  ],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2018,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "National Standard Information Public Service Platform metadata page for GB/T 36530-2018, the Chinese recommended standard on safety requirements for personal care robots, identical to ISO 13482:2014. Shows status, dates, drafters, TC591 responsibility, and related robot standards; the standard text itself is not shown.",
+  "title_clean": "机器人与机器人装备 个人助理机器人的安全要求",
+  "title_en": "Robots and robotic devices—Safety requirements for personal care robots (GB/T 36530-2018)",
+  "venue": "全国标准信息公共服务平台",
+  "methodology": "not_applicable"
+ }
+}

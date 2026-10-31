@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1606",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0306598,
+  "in": 2,
+  "out": 1804,
+  "cache_read": 11758,
+  "cache_create": 2860,
+  "api_ms": 9273,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "authors_or_issuer": "Remmers, P.; Fischer, N.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [],
+  "date_basis": "inferred_from_content",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.3233/FAIA220602",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "labor_employment",
+   "research_ethics"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Techno-political visions cast social robots as a fix for the care crisis caused by demographic change.",
+   "Robots doing genuine care is neither technologically feasible nor aligned with good care practice.",
+   "Professional discourse has largely abandoned the substitution vision, but the expectation that robots will solve the care crisis persists.",
+   "This discrepancy creates special problems for embedded ethicists.",
+   "Interviews and workshops with care workers suggest social human-robot interaction is being reduced to an instrumental role."
+  ],
+  "language": "en",
+  "methodology": "empirical_qualitative",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2022,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Robophilosophy 2022 conference paper (abstract) arguing that the vision of social robots as a technological fix for the care crisis is unfeasible and misaligned with good care. Based on interviews and workshops with care workers, it finds this limits social human-robot interaction to an instrumental role and poses problems for embedded ethicists.",
+  "title_clean": "Social Robots in Care Facilities: Reflections on Current Research and the Potential of Ethical Visions",
+  "title_en": "Social Robots in Care Facilities: Reflections on Current Research and the Potential of Ethical Visions",
+  "venue": "Frontiers in Artificial Intelligence and Applications, Vol. 366 (Robophilosophy 2022), IOS Press"
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-565fbea5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:47:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0805278,
+  "in": 2,
+  "out": 1936,
+  "cache_read": 11758,
+  "cache_create": 14997,
+  "api_ms": 9718,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2022/944 of 17 June 2022 laying down rules for the application of Regulation (EU) 2017/746 as regards the tasks of and criteria for European Union reference laboratories in the field of in vitro diagnostic medical devices",
+  "title_en": "Commission Implementing Regulation (EU) 2022/944 of 17 June 2022 laying down rules for the application of Regulation (EU) 2017/746 as regards the tasks of and criteria for European Union reference laboratories in the field of in vitro diagnostic medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 164/7",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "transparency_explainability",
+   "other"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "Regulation (EU) 2017/746 (IVDR)",
+   "Regulation (EU, Euratom) 2018/1046",
+   "Directive (EU) 2016/943",
+   "Regulation (EC) No 765/2008",
+   "EN ISO/IEC 17025"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU implementing regulation setting criteria (staff, equipment, confidentiality, independence) and tasks for EU reference laboratories under the In Vitro Diagnostic Regulation 2017/746, including contracts with notified bodies, performance verification, sample testing, networks and rules of procedure. Not about AI or robotics.",
+  "key_provisions_or_claims": [
+   "EU reference laboratories must document staff qualifications, equipment, standards and organisational structure.",
+   "Confidentiality and conflict-of-interest policies are required; labs cannot be manufacturers or notified bodies.",
+   "Accreditation under EN ISO/IEC 17025 gives presumption of conformity with several requirements.",
+   "Opinions on device performance must be delivered within 60 days with reasons.",
+   "Sub-networks, proficiency tests and common rules of procedure ensure harmonised work."
+  ],
+  "confidence": 0.95
+ }
+}

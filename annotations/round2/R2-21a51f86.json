@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-21a51f86",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:53:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1647018,
+  "in": 2,
+  "out": 1867,
+  "cache_read": 11758,
+  "cache_create": 36213,
+  "api_ms": 11969,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Directive of the European Parliament and of the Council on the harmonisation of the laws of the Member States relating to making available on the market of lifts and safety components for lifts (Recast)",
+  "title_en": "Proposal for a Directive of the European Parliament and of the Council on the harmonisation of the laws of the Member States relating to making available on the market of lifts and safety components for lifts (Recast)",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2011,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2011) 770 final, 2011/0354 (COD)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "construction"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "consumer_protection",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "licensing_registration",
+   "oversight_body_creation",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "Directive 95/16/EC",
+   "Decision 768/2008/EC",
+   "Regulation (EC) 765/2008",
+   "Directive 2006/42/EC"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission 2011 proposal recasting the Lifts Directive 95/16/EC to align it with the New Legislative Framework. It sets obligations for installers, manufacturers, importers and distributors, CE marking, notified body requirements and market surveillance safeguards. It is unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Recasts and repeals Directive 95/16/EC, aligning it with Decision 768/2008/EC",
+   "Defines obligations of installers, manufacturers, importers, distributors and traceability duties",
+   "Strengthens notified body criteria and notifying authority requirements",
+   "Revises the safeguard clause and market surveillance procedure",
+   "Keeps scope and essential health and safety requirements unchanged"
+  ],
+  "confidence": 0.95
+ }
+}

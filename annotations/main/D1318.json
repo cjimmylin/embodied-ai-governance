@@ -1,0 +1,92 @@
+{
+ "doc_id": "D1318",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:42:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0265598,
+  "in": 2,
+  "out": 1608,
+  "cache_read": 11758,
+  "cache_create": 2325,
+  "api_ms": 8031,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Council - GOV.UK",
+  "title_en": "AI Council - GOV.UK",
+  "language": "en",
+  "authors_or_issuer": "UK Government (Office for Artificial Intelligence / AI Council)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 6,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "GOV.UK page for the UK AI Council describing how its work was refocused on the Covid-19 crisis response in 2020, pausing working groups and holding crisis meetings. Focus areas include AI start-up needs, synthetic environments and digital twins with the Robotics Growth Partnership, access to finance, and post-crisis recovery.",
+  "key_provisions_or_claims": [
+   "AI Council paused Data, Narratives and Skills working groups during Covid-19",
+   "Weekly crisis meetings, later bi-weekly and then quarterly",
+   "Explored synthetic environments and digital twins with the Robotics Growth Partnership",
+   "Advised on access to finance for AI start-ups",
+   "Advised on AI and data in post-crisis recovery"
+  ],
+  "confidence": 0.8
+ }
+}

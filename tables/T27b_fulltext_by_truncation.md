@@ -1,0 +1,6 @@
+**T27b_fulltext_by_truncation. Excerpt vs full-text agreement by whether the v1 excerpt truncated the document**
+
+| subset                         |   n |   median_principle_kappa |   doc_class_agreement |   exact_category_set_agreement |   governance_flag_agreement |
+|:-------------------------------|----:|-------------------------:|----------------------:|-------------------------------:|----------------------------:|
+| truncated by the excerpt       |  97 |                    0.749 |                 0.979 |                          0.722 |                       0.99  |
+| fully contained in the excerpt |  63 |                    0.838 |                 0.937 |                          0.889 |                       0.937 |

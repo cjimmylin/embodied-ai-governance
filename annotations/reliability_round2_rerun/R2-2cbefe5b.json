@@ -1,0 +1,117 @@
+{
+ "doc_id": "R2-2cbefe5b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:07:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1298638,
+  "in": 2,
+  "out": 1910,
+  "cache_read": 11758,
+  "cache_create": 27396,
+  "api_ms": 10206,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Mobilités routières automatisées et connectées : mise à jour de la stratégie nationale - Bilan et propositions de mise à jour",
+  "title_en": "Automated and Connected Road Mobility: Update of the National Strategy - Review and Update Proposals",
+  "language": "fr",
+  "authors_or_issuer": "Anne-Marie Idrac, Haute représentante pour le développement de la mobilité routière automatisée et connectée (France)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "FR",
+   "EU",
+   "US",
+   "CN",
+   "NO"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "proposal_or_concept",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "delivery_robots",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "trust_acceptance",
+   "education_training",
+   "risk_management_risk_tiers",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "French report updating the national strategy for automated and connected road mobility for 2025-2027. It reviews the existing regulatory framework built on safety demonstration, and proposes moving from experimentation to scaled deployment through innovation funding, a European coalition, safety-validation references including AI components, data exchange, and skills.",
+  "key_provisions_or_claims": [
+   "Shift 2025-27 from experimentation to scaled deployment of automated road transport services",
+   "Refine safety demonstration and homologation, including validation of AI components, aligned with EU ADS regulation and UNECE work",
+   "Build a European coalition of mobility authorities and propose European projects for automated shared transport and freight",
+   "Adapt the experimental framework and fund via France 2030 and CORAM calls",
+   "Develop skills and data-exchange architecture under the ITS directive"
+  ],
+  "confidence": 0.9
+ }
+}

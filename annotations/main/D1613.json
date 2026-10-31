@@ -1,0 +1,109 @@
+{
+ "doc_id": "D1613",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:51:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0633538,
+  "in": 4,
+  "out": 3629,
+  "cache_read": 28328,
+  "cache_create": 6802,
+  "api_ms": 18037,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Special issue on Responsible Robotics: Introduction",
+  "title_en": "Special issue on Responsible Robotics: Introduction",
+  "language": "en",
+  "authors_or_issuer": "van Wynsberghe, A.; Sharkey, N.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s10676-020-09562-y",
+  "venue": "Ethics and Information Technology",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "editorial_or_commentary",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "autonomous_road_vehicles",
+   "agricultural_robots",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "agriculture_food",
+   "retail_hospitality",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "civil_liability",
+   "labor_employment",
+   "privacy_data_protection",
+   "trust_acceptance",
+   "children_vulnerable_groups",
+   "sustainability_environment",
+   "legal_personhood_robot_rights",
+   "research_ethics"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "robot_legal_personhood_position": "opposes",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Editorial introducing a special issue on responsible robotics. It defines the field as responsible design, development, use, implementation and regulation of robotics, and argues that responsibility and accountability always rest with humans, not robots. It surveys the issue's papers and mentions a Quality Mark for robotics and AI.",
+  "key_provisions_or_claims": [
+   "Responsible robotics = responsible design, development, use, implementation and regulation of robotics.",
+   "Robots cannot be responsible; accountability lies with the humans involved.",
+   "Public trust in designers, developers and regulators is essential.",
+   "Every application domain raises novel ethical and societal issues.",
+   "Foundation for Responsible Robotics has developed a Quality Mark for robotics and AI."
+  ],
+  "confidence": 0.85
+ }
+}

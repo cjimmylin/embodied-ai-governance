@@ -1,0 +1,113 @@
+{
+ "doc_id": "D0915",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:31:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.09834709999999999,
+  "in": 4,
+  "out": 3794,
+  "cache_read": 36466,
+  "cache_create": 14931,
+  "api_ms": 31002,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence",
+  "title_en": "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "The White House (President Biden)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Biden White House Archives",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "labor_employment",
+   "transparency_explainability",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "consumer_protection"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "testing_sandboxes",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "NIST AI RMF"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Executive Order 14110 (October 2023) sets US federal policy on safe, secure, trustworthy AI: safety testing and reporting for dual-use foundation models, standards development via NIST, content authentication, privacy, equity, workforce, innovation and international engagement. Archived Biden White House page; general AI with no robot-specific provisions.",
+  "key_provisions_or_claims": [
+   "Requires developers of powerful dual-use foundation models to report safety testing results to the government",
+   "Directs NIST to develop standards, red-teaming guidance and AI safety frameworks",
+   "Directs Commerce to guide content authentication and watermarking of AI-generated content",
+   "Solicits public input on dual-use foundation models with widely available weights",
+   "Addresses equity, civil rights, privacy, workforce impacts and promotes AI innovation and international cooperation"
+  ],
+  "confidence": 0.8
+ }
+}

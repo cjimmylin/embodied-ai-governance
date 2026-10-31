@@ -1,0 +1,111 @@
+{
+ "doc_id": "D1322",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:48:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0198669,
+  "in": 2,
+  "out": 1805,
+  "cache_read": 18129,
+  "cache_create": 0,
+  "api_ms": 12428,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial Intelligence Playbook for the UK Government",
+  "title_en": "Artificial Intelligence Playbook for the UK Government",
+  "language": "en",
+  "authors_or_issuer": "Government Digital Service (UK)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "cybersecurity",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "civil_liability",
+   "education_training",
+   "trust_acceptance"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "education_training_programs",
+   "oversight_body_creation",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UK Government Digital Service guidance (Feb 2025) setting ten principles for safe, lawful and responsible AI use in public bodies. It covers building and buying AI, ethics, security, legal considerations, data protection, governance and case studies. It is general AI guidance with no robotics content.",
+  "key_provisions_or_claims": [
+   "Ten principles for public sector AI use, including meaningful human control at the right stages",
+   "Engage legal professionals at the outset of AI projects (data protection, public law, human rights)",
+   "Guidance on ethics, transparency, fairness, accountability, contestability and redress",
+   "Security risk guidance and recommended governance structures such as AI boards and inventories",
+   "Updates and extends the 2024 Generative AI Framework for HMG to wider AI technologies"
+  ],
+  "confidence": 0.9
+ }
+}

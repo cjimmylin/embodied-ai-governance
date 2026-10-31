@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-9a4d3138",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0566318,
+  "in": 2,
+  "out": 1892,
+  "cache_read": 11758,
+  "cache_create": 9133,
+  "api_ms": 9977,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Code of Practice for testing automated vehicles in Belgium",
+  "title_en": "Code of Practice for testing automated vehicles in Belgium",
+  "language": "en",
+  "authors_or_issuer": "FPS Mobility and Transport (Belgium)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2016,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "FPS Mobility and Transport",
+  "jurisdiction_country": "BE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BE",
+   "GB"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "privacy_data_protection",
+   "cybersecurity",
+   "civil_liability",
+   "education_training",
+   "transparency_explainability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "human_oversight_requirement",
+   "testing_sandboxes",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "insurance_requirement",
+   "data_governance_requirements",
+   "technical_standards_reference",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Belgian federal non-binding Code of Practice (September 2016), based on the UK 2015 code, for testing driver-assistance and automated vehicles on public roads. It sets minimum conditions on testing organisations, test drivers and operators, vehicle requirements, data recording, cybersecurity and transitions between manual and automated modes.",
+  "key_provisions_or_claims": [
+   "Testing organisation bears full responsibility; a test driver is required on public roads, or an operator at up to 30 km/h in other public places.",
+   "Prior risk analysis, closed-track testing and authority engagement required before public testing.",
+   "Vehicles must carry data recorders logging mode, speed, steering, braking and sensor data, available to authorities after incidents.",
+   "Training, alertness and licensing requirements for test drivers and operators; manual override must always be possible.",
+   "Existing insurance, traffic law and data protection rules still apply; the code itself is not law."
+  ],
+  "confidence": 0.93
+ }
+}

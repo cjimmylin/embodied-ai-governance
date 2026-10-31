@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1012",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:34:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0357498,
+  "in": 2,
+  "out": 1695,
+  "cache_read": 11758,
+  "cache_create": 4405,
+  "api_ms": 11606,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Act Single Information Platform",
+  "title_en": "AI Act Single Information Platform",
+  "language": "en",
+  "authors_or_issuer": "European Commission, AI Office (AI Act Service Desk)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "AI Act Service Desk (European Commission)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Landing page of the European Commission's AI Act Single Information Platform and Service Desk, presenting the AI Act Explorer, Compliance Checker, helpdesk, FAQs and news to help stakeholders, especially SMEs and startups, understand and comply with the EU AI Act. No robotics-specific content.",
+  "key_provisions_or_claims": [
+   "Single Information Platform is foreseen in the AI Act to help stakeholders determine obligations.",
+   "AI Act Explorer lets users browse chapters, annexes and recitals.",
+   "Compliance Checker helps assess AI systems and GPAI models against AI Act requirements.",
+   "Service Desk answers stakeholder questions with the EU AI Office.",
+   "AI Act entered into force 1 August 2024."
+  ],
+  "confidence": 0.85
+ }
+}

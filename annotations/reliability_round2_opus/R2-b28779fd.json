@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-b28779fd",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:13:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06843560000000001,
+  "in": 2,
+  "out": 2235,
+  "cache_read": 11758,
+  "cache_create": 2672,
+  "api_ms": 16416,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Report of the Global Forum for Road Traffic Safety on its seventy-seventh session — Annex 1: Global Forum for Road Traffic Safety (WP.1) resolution on the deployment of highly and fully automated vehicles in road traffic",
+  "title_en": "Report of the Global Forum for Road Traffic Safety on its seventy-seventh session — Annex 1: Resolution on the deployment of highly and fully automated vehicles in road traffic",
+  "language": "en",
+  "authors_or_issuer": "UNECE Global Forum for Road Traffic Safety (WP.1)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2018,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "United Nations Economic Commission for Europe (ECE/TRANS/WP.1/165)",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "standards_interoperability",
+   "education_training",
+   "other"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "1968 Vienna Convention on Road Traffic",
+   "1949 Geneva Convention on Road Traffic",
+   "1968 Convention on Road Signs and Signals",
+   "UN Regulations of WP.29",
+   "Consolidated Resolution on Road Traffic (R.E.1)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Report of UNECE WP.1's 77th session (September 2018). Its Annex 1 is a non-binding resolution on deploying highly and fully automated vehicles in road traffic. The resolution gives recommendations for automated driving systems and for their users. It aims to put road safety first and keep these vehicles in line with traffic rules under the 1949 and 1968 road traffic conventions.",
+  "key_provisions_or_claims": [
+   "Adopts a non-binding WP.1 resolution on highly and fully automated vehicles in road traffic.",
+   "Sets recommendations for automated driving systems in highly and fully automated vehicles, including putting road safety first and complying with traffic rules.",
+   "Sets recommendations for users of automated driving systems.",
+   "Discusses whether the 1968 Convention on Road Traffic is consistent with vehicle technical regulations (WP.29).",
+   "Also covers driving permits, road signs, safety at level crossings and the definition of a serious injury."
+  ],
+  "confidence": 0.72
+ }
+}

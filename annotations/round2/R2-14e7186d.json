@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-14e7186d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:52:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.15204379999999998,
+  "in": 2,
+  "out": 1794,
+  "cache_read": 11758,
+  "cache_create": 33231,
+  "api_ms": 10503,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 on in vitro diagnostic medical devices",
+  "title_en": "Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 on in vitro diagnostic medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 1998,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities L 331",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "standards_interoperability",
+   "consumer_protection",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "incident_reporting",
+   "licensing_registration",
+   "oversight_body_creation",
+   "risk_based_tiering",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Directive 98/79/EC harmonises rules for in vitro diagnostic medical devices: essential safety and performance requirements, conformity assessment with notified bodies for high-risk lists, CE marking, manufacturer registration, a vigilance system and a European databank. It has no AI or robotics content and was later replaced by Regulation (EU) 2017/746.",
+  "key_provisions_or_claims": [
+   "Devices must meet Annex I essential requirements to be placed on the market",
+   "Tiered conformity assessment: manufacturer self-declaration, with notified body involvement for Annex II List A and B devices",
+   "CE marking required; free movement of conforming devices",
+   "Vigilance procedure and European databank for incident reporting and registrations",
+   "Notified bodies designated by Member States under Annex IX criteria"
+  ],
+  "confidence": 0.85
+ }
+}

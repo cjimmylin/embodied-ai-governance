@@ -1,0 +1,114 @@
+{
+ "doc_id": "D1252",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:40:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.044143800000000004,
+  "in": 2,
+  "out": 1894,
+  "cache_read": 11758,
+  "cache_create": 6006,
+  "api_ms": 9552,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial Intelligence ante portas: Legal & ethical reflections",
+  "title_en": "Artificial Intelligence ante portas: Legal & ethical reflections",
+  "language": "en",
+  "authors_or_issuer": "European Parliamentary Research Service (STOA); Kritikos, M.",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2019,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Parliament STOA",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "care_assistive_robots",
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "finance",
+   "public_administration_justice",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "civil_liability",
+   "legal_personhood_robot_rights",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "human_oversight_control",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "robot_legal_personhood_position": "opposes",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "European Parliament STOA briefing outlining legal and ethical challenges of AI: definition, legal personhood for robots, transparency and explainability, liability, bias, and human oversight. It argues for a guiding ethical framework based on the Charter of Fundamental Rights and flexible regulatory tools such as sandboxes and sunset clauses.",
+  "key_provisions_or_claims": [
+   "No agreed AI definition; technology-neutral definition based on autonomy and function suggested",
+   "Flexible instruments (delegated acts, sunset clauses, sandboxes) address the pacing problem",
+   "Robot personhood is criticised as overvaluing robot capabilities",
+   "Advanced robots should have a 'black box' recording decisions; right to explanation needed",
+   "Ethical framework based on Charter of Fundamental Rights should safeguard human oversight"
+  ],
+  "confidence": 0.85
+ }
+}

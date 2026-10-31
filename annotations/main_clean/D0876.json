@@ -1,0 +1,98 @@
+{
+ "doc_id": "D0876",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:59:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0312338,
+  "in": 2,
+  "out": 1723,
+  "cache_read": 11758,
+  "cache_create": 3206,
+  "api_ms": 8889,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "retail_hospitality",
+   "domestic_consumer"
+  ],
+  "authors_or_issuer": "Sachdev, R.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "US",
+   "GB",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.69554/DYQE6780",
+  "embodied_categories": [
+   "domestic_household_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "cybersecurity",
+   "consumer_protection"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "EU, UK and US law require appropriate or reasonable measures to protect consumers' personal data, including for smart robot marketers.",
+   "Law lags technology and lacks clear rules in some cases.",
+   "AI complexity and consumer tracking for personalisation complicate compliance.",
+   "Marketers should adopt an interdisciplinary strategy combining marketing, technical and legal measures."
+  ],
+  "language": "en",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "domestic_household_robots",
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2023,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "summary_en": "Journal article abstract on privacy and security law obligations for marketers of consumer smart robots using AI. It notes EU, UK and US law require reasonable measures to protect personal data despite regulatory gaps, and recommends an interdisciplinary marketing, technical and legal strategy.",
+  "title_clean": "Smart robots and AI: Strategic approaches to data privacy and security law for digital marketers",
+  "title_en": "Smart robots and AI: Strategic approaches to data privacy and security law for digital marketers",
+  "venue": "Journal of AI, Robotics & Workplace Automation"
+ }
+}

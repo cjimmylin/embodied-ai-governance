@@ -1,0 +1,96 @@
+{
+ "doc_id": "D1000",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:33:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.040265800000000004,
+  "in": 2,
+  "out": 1603,
+  "cache_read": 11758,
+  "cache_create": 5764,
+  "api_ms": 11944,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ethical Considerations in Artificial Intelligence (DDN243)",
+  "title_en": "Ethical Considerations in Artificial Intelligence (DDN243)",
+  "language": "en",
+  "authors_or_issuer": "Canada School of Public Service",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Canada School of Public Service course catalogue",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "education"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "education_training",
+   "fairness_bias_discrimination",
+   "transparency_explainability",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Course catalogue page for a 1.5-hour online self-paced Canada School of Public Service course on AI ethics for federal employees, covering ethical principles, public-sector AI applications, risk mitigation, and emerging standards and governance frameworks. No robotics content.",
+  "key_provisions_or_claims": [
+   "Course covers fairness, transparency, accountability, privacy and security in AI",
+   "Targets public service employees; 1.5 hours online",
+   "Reviews emerging AI standards, regulations and governance frameworks",
+   "Certificate requires registration via learning platform"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "doc_id": "D0133",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:10:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.050367800000000004,
+  "in": 2,
+  "out": 1916,
+  "cache_read": 11758,
+  "cache_create": 7507,
+  "api_ms": 12011,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Lineamientos recomendados para el uso de herramientas de inteligencia artificial en el sector público (Oficio conjunto MinSegpres–MinCiencia)",
+  "title_en": "Recommended Guidelines for the Use of Artificial Intelligence Tools in the Public Sector",
+  "language": "es",
+  "authors_or_issuer": "Ministerio Secretaría General de la Presidencia; Ministerio de Ciencia, Tecnología, Conocimiento e Innovación (Chile)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CL"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "cybersecurity",
+   "education_training",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "education_training_programs",
+   "self_regulation_codes",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "Chile National AI Policy 2021",
+   "Ley 19.628 sobre protección de la vida privada",
+   "Decreto N° 7 de 2023 (Norma Técnica de Seguridad de la Información y Ciberseguridad)",
+   "Decreto N° 11 de 2023"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chilean joint official letter recommending non-binding guidelines to State administration bodies on using AI tools in the public sector: people-centred AI, non-discrimination, transparency and explainability, privacy and data use, cybersecurity compliance, and staff training. It is a first step toward a common framework, with monitoring by the Data Directorate.",
+  "key_provisions_or_claims": [
+   "Assess whether AI is the most suitable solution and avoid arbitrary discrimination",
+   "Inform citizens of AI tools used, including chatbots, in clear language",
+   "Comply with Law 19.628 and avoid entering personal data into non-contracted generative AI",
+   "Comply with cybersecurity technical norms (Decrees 7 and 11 of 2023)",
+   "Data Directorate may request information to monitor compliance; staff training encouraged"
+  ],
+  "confidence": 0.85
+ }
+}

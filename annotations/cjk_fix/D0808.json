@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0808",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:30:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0482038,
+  "in": 2,
+  "out": 1810,
+  "cache_read": 11758,
+  "cache_create": 7231,
+  "api_ms": 10125,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "인공지능 기본법의 입법 연혁과 과제",
+  "title_en": "Legislative History and Challenges of the Framework Act on the Promotion and Trust of Artificial Intelligence",
+  "language": "ko",
+  "authors_or_issuer": "라기원",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.22851/kjlr.2025..69.004",
+  "venue": "법제연구 (Korean Journal of Legislative Research)",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "transparency_explainability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "oversight_body_creation",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "Korea AI Basic Act",
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Korean journal article tracing the legislative history of the Framework Act on the Promotion and Trust of AI (promulgated Jan 2025, effective Jan 2026). It analyses how promotion and trust/safety policy tracks merged, key controversies (AI definition, high-impact AI, governance bodies), and recommends refining high-impact AI and tiered regulation.",
+  "key_provisions_or_claims": [
+   "Industrial promotion and trust/safety policy tracks converged into a single framework statute.",
+   "Statutes and bills referencing AI have proliferated, making AI regulation cross-cutting.",
+   "Key controversies: AI definition, 'high-impact AI' scope, presidential-level AI governance body.",
+   "Need to clarify the relationship between 'high-impact' and 'high-risk' concepts.",
+   "Recommends proportional, tiered regulatory and enforcement tools for predictability and adaptability."
+  ],
+  "confidence": 0.9
+ }
+}

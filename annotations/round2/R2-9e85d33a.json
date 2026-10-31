@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-9e85d33a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.05174,
+  "in": 4,
+  "out": 3510,
+  "cache_read": 25835,
+  "cache_create": 4228,
+  "api_ms": 16973,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 24355:2023 Flight control system for civil small and light multicopter unmanned aircraft system (UAS) — General requirements",
+  "title_en": "ISO 24355:2023 Flight control system for civil small and light multicopter unmanned aircraft system (UAS) — General requirements",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 20/SC 16",
+  "issuer_type": "standards_body",
+  "pub_year": 2023,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 21895"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO 24355:2023, an international standard specifying composition, functional and performance requirements for flight control systems of civil multicopter UAS up to 25 kg MTOM (levels I–IV per ISO 21895), excluding fully autonomous flight. Published May 2023.",
+  "key_provisions_or_claims": [
+   "Specifies composition and functional/performance requirements for multicopter UAS flight controls",
+   "Applies to civil UAs with MTOM ≤ 25 kg, levels I–IV per ISO 21895",
+   "Excludes fully autonomous flights",
+   "Flight control system includes control unit, navigation, fault diagnosis, flight planning, flight recorder",
+   "Published May 2023 by ISO/TC 20/SC 16"
+  ],
+  "confidence": 0.9
+ }
+}

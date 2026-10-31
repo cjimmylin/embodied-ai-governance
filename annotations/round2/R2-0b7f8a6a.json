@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-0b7f8a6a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:36:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0180159,
+  "in": 2,
+  "out": 1668,
+  "cache_read": 13319,
+  "cache_create": 0,
+  "api_ms": 8096,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Radiocommunications (Exemption – Remotely Piloted Aircraft Disruption) Determination 2022",
+  "title_en": "Radiocommunications (Exemption – Remotely Piloted Aircraft Disruption) Determination 2022",
+  "language": "en",
+  "authors_or_issuer": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts (Australia)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Federal Register of Legislation",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "security_policing_robots"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Australian determination under the Radiocommunications Act 1992 that exempts certain persons or devices from radiocommunications prohibitions so remotely piloted aircraft (drones) can be disrupted. This is a compilation page dated 1 October 2025; only the title and metadata are visible, not the operative text.",
+  "key_provisions_or_claims": [
+   "Made under the Radiocommunications Act 1992.",
+   "Provides an exemption relating to disruption of remotely piloted aircraft.",
+   "Compilation F2025C00945 current from 1 October 2025.",
+   "Operative text not shown in the excerpt."
+  ],
+  "confidence": 0.6
+ }
+}

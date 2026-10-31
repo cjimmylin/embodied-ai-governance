@@ -1,0 +1,120 @@
+{
+ "doc_id": "R2-8991668e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2117638,
+  "in": 2,
+  "out": 2058,
+  "cache_read": 11758,
+  "cache_create": 47501,
+  "api_ms": 12859,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "NORMA Oficial Mexicana NOM-107-SCT3-2019, Que establece los requerimientos para operar un sistema de aeronave pilotada a distancia (RPAS) en el espacio aéreo mexicano",
+  "title_en": "Official Mexican Standard NOM-107-SCT3-2019, establishing requirements to operate a remotely piloted aircraft system (RPAS) in Mexican airspace",
+  "language": "es",
+  "authors_or_issuer": "Secretaría de Comunicaciones y Transportes (SCT), México",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Diario Oficial de la Federación",
+  "jurisdiction_country": "MX",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "MX"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector",
+   "research_science",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "civil_liability",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "consumer_protection",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "insurance_requirement",
+   "liability_regime",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "prohibitions_bans",
+   "technical_standards_reference",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "Ley de Aviación Civil",
+   "Convenio sobre Aviación Civil Internacional (Chicago)",
+   "NOM-064-SCT3-2012",
+   "FAA FAR 107",
+   "ICAO Doc 10019"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Mexico's binding standard NOM-107-SCT3-2019 sets requirements for operating remotely piloted aircraft systems (drones) in Mexican airspace. It classifies RPAS by weight and use, and sets operating limits, registration, authorisations, pilot licensing, insurance, type approval and conformity assessment. It also covers manufacturers, importers and sellers.",
+  "key_provisions_or_claims": [
+   "RPAS classified as micro, small and large by maximum take-off weight and use (recreational, private non-commercial, commercial).",
+   "Operating limits: 122 m maximum height, visual line of sight, minimum distances from aerodromes and people.",
+   "Registration and operating authorisation required; mandatory third-party liability insurance for non-recreational use.",
+   "Special authorisations for night, BVLOS, over-people and controlled-airspace operations, with risk studies.",
+   "Obligations for manufacturers, importers and sellers; operator or pilot is responsible for damages; 5-day damage reporting."
+  ],
+  "confidence": 0.93
+ }
+}

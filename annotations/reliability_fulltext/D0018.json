@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0018",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:11:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.075412,
+  "in": 2,
+  "out": 1746,
+  "cache_read": 0,
+  "cache_create": 14487,
+  "api_ms": 11586,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare",
+   "retail_hospitality",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "International Organization for Standardization (ISO)",
+  "binding_nature": "technical_standard_voluntary",
+  "confidence": 0.85,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "professional_service_robots",
+   "delivery_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "conformity_assessment_certification"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "human_robot_interaction_social_effects"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Specifies requirements for safety management systems for application services provided by service robots (ASSMS).",
+   "Covers safety of users and third parties in unstructured human spaces with trained and untrained persons.",
+   "Examples: airport guidance, hospital goods transport, restaurant delivery.",
+   "Can be integrated with other organizational management systems.",
+   "Not a product safety standard; applicable to organizations demonstrating conformity."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "professional_service_robots",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2023,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "ISO catalogue page for ISO 31101:2023, which specifies safety management system requirements for application services provided by service robots in unstructured human spaces such as airports, hospitals and restaurants. It is an organizational service-safety standard, not a product safety standard.",
+  "title_clean": "ISO 31101:2023 - Robotics — Application services provided by service robots — Safety management systems requirements",
+  "title_en": "ISO 31101:2023 - Robotics — Application services provided by service robots — Safety management systems requirements",
+  "venue": "ISO.org",
+  "methodology": "not_applicable"
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-a09ee7be",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:30:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.057449799999999995,
+  "in": 2,
+  "out": 1671,
+  "cache_read": 11758,
+  "cache_create": 9890,
+  "api_ms": 8512,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院关于加快推进政务服务标准化规范化便利化的指导意见",
+  "title_en": "State Council Guiding Opinions on Accelerating the Standardization, Normalization and Convenience of Government Services",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the People's Republic of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中国政府网",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "privacy_data_protection",
+   "cybersecurity",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "China State Council guidance (Guofa [2022] No. 5) on standardizing, normalizing and making government services more convenient, centred on the national integrated online platform, unified service catalogues, data sharing and electronic licences. AI is mentioned only in passing as an enabling technology. Not about robotics.",
+  "key_provisions_or_claims": [
+   "Unified national catalogue and implementation lists for government service items",
+   "Standardized service centres, windows and online services with offline parity",
+   "Mutual recognition of electronic licences and cross-province service",
+   "Data sharing via the national integrated government service platform with security and privacy protection",
+   "Targets for 2022 and 2025"
+  ],
+  "confidence": 0.93
+ }
+}

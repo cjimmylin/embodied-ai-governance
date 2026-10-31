@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-ec130a98",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:33:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0398418,
+  "in": 2,
+  "out": 1767,
+  "cache_read": 11758,
+  "cache_create": 5248,
+  "api_ms": 9224,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "住房城乡建设部 国家数据局关于全面建立房屋建筑统一代码制度的通知",
+  "title_en": "Notice of the Ministry of Housing and Urban-Rural Development and the National Data Administration on Comprehensively Establishing a Unified Building Code System",
+  "language": "zh",
+  "authors_or_issuer": "住房城乡建设部; 国家数据局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Housing and Urban-Rural Development (建办〔2026〕32号)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "construction",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "privacy_data_protection",
+   "industrial_policy_innovation",
+   "cybersecurity"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "technical_standards_reference",
+   "data_governance_requirements",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese Ministry of Housing and Urban-Rural Development and National Data Administration notice establishing a unified building code system, assigning unique IDs to buildings across their lifecycle, with data governance and security measures. Only passing mentions of AI, low-altitude economy and intelligent driving as application scenarios.",
+  "key_provisions_or_claims": [
+   "Full coverage of unified codes for new buildings by end-2027; high-quality lifecycle dataset by 2030",
+   "Codes assigned before construction permits and linked to CIM platform with CGCS2000 coordinates",
+   "National, provincial and municipal building information databases to be built and interconnected",
+   "Codes mapped to credit codes, ID numbers and property units for cross-department services",
+   "Data quality control, encryption, desensitisation and security measures required"
+  ],
+  "confidence": 0.85
+ }
+}

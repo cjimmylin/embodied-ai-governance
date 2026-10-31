@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0691",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:29:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1705738,
+  "in": 2,
+  "out": 1755,
+  "cache_read": 11758,
+  "cache_create": 37961,
+  "api_ms": 10133,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AIの利用・開発に関する契約チェックリスト",
+  "title_en": "Contract Checklist for the Use and Development of AI",
+  "language": "ja",
+  "authors_or_issuer": "経済産業省 (Ministry of Economy, Trade and Industry, Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "経済産業省",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "intellectual_property",
+   "cybersecurity",
+   "civil_liability",
+   "consumer_protection",
+   "transparency_explainability"
+  ],
+  "primary_topic": "intellectual_property",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "data_governance_requirements",
+   "audits_impact_assessment",
+   "self_regulation_codes",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "ISO/IEC 27001"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Japan's METI contract checklist (February 2025) helping businesses review contract clauses for using or developing AI services. It covers input and output handling, use, third-party provision, IP attribution, and notes on AI training use, personal data law (APPI Articles 27/28), security, and terms revisions. It is not specific to robotics.",
+  "key_provisions_or_claims": [
+   "Checkpoints for input and output clauses: definition, provision, use, third-party provision, retention/deletion, rights attribution",
+   "Three contract types: general AI service use, customization, new development",
+   "Warns about inputs used for general AI training: personal data, trade secrets, confidentiality and IP infringement risks",
+   "Explains APPI Articles 27 and 28 on third-party and cross-border transfer of personal data",
+   "Recommends security review, audit clauses, log retention and monitoring of terms-of-service changes"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-e84802d0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:02:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.17140580000000002,
+  "in": 2,
+  "out": 1635,
+  "cache_read": 11758,
+  "cache_create": 38469,
+  "api_ms": 9201,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "FAR Part 52—Solicitation Provisions and Contract Clauses",
+  "title_en": "FAR Part 52—Solicitation Provisions and Contract Clauses",
+  "language": "en",
+  "authors_or_issuer": "Federal Acquisition Regulatory Council (GSA, DoD, NASA), United States",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Code of Federal Regulations, Title 48 (eCFR)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Part 52 of the US Federal Acquisition Regulation, setting out instructions and full text of standard solicitation provisions and contract clauses for federal procurement (ethics, kickbacks, lobbying, SAM registration, Buy American, etc.). It contains no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Prescribes how provisions and clauses are numbered, incorporated by reference, modified and dated",
+   "Sets text of anti-kickback, gratuities, contractor ethics and whistleblower clauses",
+   "Requires SAM registration and annual representations and certifications",
+   "Includes Buy American clauses for supplies and construction materials",
+   "Matrix of provisions by contract type is hosted at acquisition.gov"
+  ],
+  "confidence": 0.9
+ }
+}

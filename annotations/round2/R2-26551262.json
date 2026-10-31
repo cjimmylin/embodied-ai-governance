@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-26551262",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0327518,
+  "in": 2,
+  "out": 1892,
+  "cache_read": 11758,
+  "cache_create": 3163,
+  "api_ms": 12009,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Joint Factsheet by the Land Transport Authority (LTA) & SSC - Enhanced National Standards for the Safe Deployment of Autonomous Vehicles in Singapore",
+  "title_en": "Joint Factsheet by the Land Transport Authority (LTA) & SSC - Enhanced National Standards for the Safe Deployment of Autonomous Vehicles in Singapore",
+  "language": "en",
+  "authors_or_issuer": "Land Transport Authority (LTA); Singapore Standards Council (SSC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2021,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Land Transport Authority (Singapore)",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "ISO 37181"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Joint LTA and Singapore Standards Council factsheet announcing the revised Technical Reference 68, Singapore's provisional national standard for safe deployment of SAE Level 4/5 autonomous vehicles. Revisions add machine learning, software updates, cybersecurity assessment and data formats, and align with ISO work.",
+  "key_provisions_or_claims": [
+   "TR 68 revised March 2020–July 2021 by four industry-led working groups under the Singapore Standards Council.",
+   "Part 2 adds guidance for AI/ML use in AV systems and fault-response rules.",
+   "Part 3 strengthens security-by-design and requires independent third-party cybersecurity assessment.",
+   "Part 1 updates AV behaviour toward other road users, manoeuvres and special situations.",
+   "TR 68 informs ISO 37181 and is a voluntary provisional standard accessed by over 200 enterprises."
+  ],
+  "confidence": 0.88
+ }
+}

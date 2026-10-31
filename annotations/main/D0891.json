@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0891",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:30:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0657005,
+  "in": 4,
+  "out": 3355,
+  "cache_read": 29990,
+  "cache_create": 7773,
+  "api_ms": 25700,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Value Alignment, Fair Play, and the Rights of Service Robots",
+  "title_en": "Value Alignment, Fair Play, and the Rights of Service Robots",
+  "language": "en",
+  "authors_or_issuer": "Estrada, D.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2018,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "arXiv (cs.CY)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "supports",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Philosophical paper reading Turing's \"fair play for machines\" as an early contribution to AI value alignment, reinterpreting the imitation game as an alignment test, and arguing that extending rights to service robots in public spaces is fair because it aligns human and machine interests.",
+  "key_provisions_or_claims": [
+   "Turing's fair play principle is an overlooked early contribution to value alignment.",
+   "The imitation game is reinterpreted as a condition of alignment rather than intelligence.",
+   "The Fair Play Turing Test is distinguished from the Moral Turing Test, which depends on imitation.",
+   "Extending rights to service robots in public spaces encourages alignment of human and machine interests.",
+   "Human behavior may need correcting to accommodate machines."
+  ],
+  "confidence": 0.8
+ }
+}

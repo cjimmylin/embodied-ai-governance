@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-ba61c30e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:47:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.037977800000000006,
+  "in": 2,
+  "out": 1729,
+  "cache_read": 11758,
+  "cache_create": 4877,
+  "api_ms": 10442,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Regulation (EU) 2023/2482 of 13 November 2023 amending Regulation (EC) No 1907/2006 as regards the substance bis(2-ethylhexyl) phthalate (DEHP) in medical devices",
+  "title_en": "Commission Regulation (EU) 2023/2482 of 13 November 2023 amending Regulation (EC) No 1907/2006 as regards the substance bis(2-ethylhexyl) phthalate (DEHP) in medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission Regulation amending REACH Annex XIV to postpone the latest application date (to 1 January 2029) and sunset date (to 1 July 2030) for authorisation of DEHP use in medical devices, aligning with MDR/IVDR transitional periods. Not related to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Latest application date for DEHP in medical devices moved to 1 January 2029",
+   "Sunset date for DEHP in medical devices moved to 1 July 2030",
+   "Aligned with transitional periods of Regulations (EU) 2017/745 and 2017/746",
+   "Motivated by notified body capacity limits and avoiding device shortages",
+   "Enters into force the day after publication in the OJ"
+  ],
+  "confidence": 0.97
+ }
+}

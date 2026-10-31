@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-694bc2ff",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0276618,
+  "in": 2,
+  "out": 1795,
+  "cache_read": 11758,
+  "cache_create": 2133,
+  "api_ms": 8621,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/TR 23482-2:2019 Robotics — Application of ISO 13482 — Part 2: Application guidelines",
+  "title_en": "ISO/TR 23482-2:2019 Robotics — Application of ISO 13482 — Part 2: Application guidelines",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 299",
+  "issuer_type": "standards_body",
+  "pub_year": 2019,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Online Browsing Platform / ISO store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "professional_service_robots",
+   "domestic_household_robots",
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care",
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "human_robot_interaction_social_effects",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "ISO 13482"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "ISO catalogue page for ISO/TR 23482-2:2019, a technical report giving application guidelines for ISO 13482 safety requirements for personal care robots, including mobile servant, physical assistant and person carrier robots, with guidance on risk assessment and close human-robot contact.",
+  "key_provisions_or_claims": [
+   "Guidance on applying ISO 13482 to design personal care robots",
+   "Extra guidance on risk assessment and risk reduction for inexperienced users",
+   "Clarifies terms and safety requirements for close human-robot interaction and contact",
+   "Covers mobile servant, physical assistant and person carrier robots",
+   "Considers application of ISO 13482 to all service robots with examples"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0330",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:51:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.033701800000000004,
+  "in": 2,
+  "out": 1833,
+  "cache_read": 11758,
+  "cache_create": 3548,
+  "api_ms": 11938,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Report 510: Inquiry into the use and governance of artificial intelligence systems by public sector entities - 'Proceed with Caution'",
+  "title_en": "Report 510: Inquiry into the use and governance of artificial intelligence systems by public sector entities - 'Proceed with Caution'",
+  "language": "en",
+  "authors_or_issuer": "Joint Committee of Public Accounts and Audit, Parliament of Australia",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Parliament of Australia",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "fairness_bias_discrimination",
+   "education_training",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "labor_employment"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "education_training_programs",
+   "international_cooperation",
+   "audits_impact_assessment",
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [
+   "Archives Act 1983"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Landing page for the Australian Joint Committee of Public Accounts and Audit's Report 510 on AI use in the public sector, reproducing its recommendations: an APS census on AI use, a whole-of-government working group on standalone AI legislation and mandatory rules, a statutory parliamentary AI committee, and clearer AI definitions in guidance.",
+  "key_provisions_or_claims": [
+   "Add AI-use and understanding questions to the annual APS Employee Census",
+   "Convene a whole-of-government working group within 12 months to consider standalone AI legislation and mandatory public sector rules",
+   "AI systems must not be used for surveillance of public sector staff; set thresholds for AI involvement in decisions",
+   "Establish a statutory Joint Committee on AI and Emerging Technologies with approval powers over related legislation and rules",
+   "DTA guidance should clearly define AI systems, with separate guidance for each technology"
+  ],
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-2ccae4d0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:16:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06398290000000001,
+  "in": 4,
+  "out": 3885,
+  "cache_read": 27779,
+  "cache_create": 6381,
+  "api_ms": 22078,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Act 468 of 2019 (HB 1561): An Act to Authorize the Operation of Autonomous Vehicles or Fully Autonomous Vehicles on the Streets and Highways of this State Under an Autonomous Vehicle Pilot Program",
+  "title_en": "Act 468 of 2019 (HB 1561): An Act to Authorize the Operation of Autonomous Vehicles or Fully Autonomous Vehicles on the Streets and Highways of this State Under an Autonomous Vehicle Pilot Program",
+  "language": "en",
+  "authors_or_issuer": "Arkansas General Assembly (92nd General Assembly)",
+  "issuer_type": "legislature",
+  "pub_year": 2019,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Arkansas General Assembly",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "insurance_requirement",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "SAE J3016",
+   "Arkansas Motor Vehicle Safety Responsibility Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Arkansas Act 468 of 2019 (HB 1561) authorizes autonomous and fully autonomous vehicles on state roads under a pilot program approved by the State Highway Commission, defining key terms using SAE levels, setting program content requirements, and declaring an emergency to foster innovation.",
+  "key_provisions_or_claims": [
+   "Autonomous vehicles may operate under a pilot program approved by the State Highway Commission, auto-approved after 60 days.",
+   "Pilot programs must state commercial purpose, insurance requirements, and acknowledge compliance with traffic laws.",
+   "Fully autonomous vehicles must achieve a minimal risk condition upon system failure.",
+   "Vehicles without seat belts, steering wheel or rearview mirror may be operated; max three vehicles simultaneously.",
+   "Commission must adopt implementing rules; emergency clause justified by innovation."
+  ],
+  "confidence": 0.93
+ }
+}

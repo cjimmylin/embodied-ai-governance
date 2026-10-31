@@ -1,0 +1,107 @@
+{
+ "doc_id": "D1212",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:04:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0321998,
+  "in": 2,
+  "out": 1734,
+  "cache_read": 11758,
+  "cache_create": 3420,
+  "api_ms": 8504,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Approvata in via definitiva la legge italiana sull'Intelligenza Artificiale",
+  "title_en": "Italian law on Artificial Intelligence definitively approved",
+  "language": "it",
+  "authors_or_issuer": "Dipartimento per la trasformazione digitale, Presidenza del Consiglio dei Ministri",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "innovazione.gov.it",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IT",
+   "EU"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare",
+   "public_administration_justice",
+   "education",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "human_oversight_control",
+   "transparency_explainability",
+   "cybersecurity",
+   "privacy_data_protection",
+   "labor_employment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Government press release announcing the Italian Senate's final approval of the national AI law, aligned with the EU AI Act. It designates ACN and AgID as competent authorities, sets a biennial national AI strategy with annual reporting to Parliament, and allocates €1 billion for AI startups and SMEs.",
+  "key_provisions_or_claims": [
+   "ACN and AgID designated as national competent authorities",
+   "Human-centric, transparent, secure AI use with final human decision",
+   "Sectoral rules for health, work, public administration, justice, education, sport",
+   "National AI Strategy updated every two years with annual report to Parliament",
+   "€1 billion investment programme for startups and SMEs"
+  ],
+  "confidence": 0.88
+ }
+}

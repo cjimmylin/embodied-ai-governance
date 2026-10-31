@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-58bf7e20",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026525800000000002,
+  "in": 2,
+  "out": 1797,
+  "cache_read": 11758,
+  "cache_create": 1844,
+  "api_ms": 8905,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "FDA Center for Devices and Radiological Health",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_proposal_or_draft",
+  "doc_type": "consultation_or_white_paper",
+  "doi": null,
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "transparency_disclosure_labelling",
+   "testing_sandboxes"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "transparency_explainability",
+   "human_oversight_control"
+  ],
+  "instrument_status": "consultation_open",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Recommends non-clinical testing, clinical data and labeling content for premarket submissions of robotically-assisted surgical devices",
+   "Defines RASDs as teleoperated, software-controlled systems assisting practitioners with surgical instruments",
+   "Draft guidance open for public comment under docket FDA-2026-N-9505",
+   "Reflects FDA's current thinking and aims at consistent, efficient review"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "surgical_medical_robots",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "FDA CDRH draft guidance page giving recommendations on non-clinical testing, clinical data and labeling for premarket submissions of robotically-assisted surgical devices (teleoperated, software-controlled systems). Open for public comment under docket FDA-2026-N-9505; reflects FDA's current thinking to promote consistent, efficient review.",
+  "title_clean": "Robotically-Assisted Surgical Devices: Premarket Submission Recommendations (Draft Guidance)",
+  "title_en": "Robotically-Assisted Surgical Devices: Premarket Submission Recommendations (Draft Guidance)",
+  "venue": "FDA.gov",
+  "methodology": "not_applicable"
+ }
+}

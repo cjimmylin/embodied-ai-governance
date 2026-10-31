@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-186004e6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0911418,
+  "in": 2,
+  "out": 1817,
+  "cache_read": 11758,
+  "cache_create": 17948,
+  "api_ms": 9729,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "European Judicial Training Strategy 2025 - 2030: Creating a supportive environment for DigitalJustice@2030",
+  "title_en": "European Judicial Training Strategy 2025 - 2030: Creating a supportive environment for DigitalJustice@2030",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2025) 801 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "UA"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "education"
+  ],
+  "governance_topics": [
+   "education_training",
+   "transparency_explainability",
+   "human_oversight_control",
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "ethics_principles"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs",
+   "funding_or_incentives",
+   "audits_impact_assessment",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "EU Product Liability Directive"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission Communication setting a 2025-2030 judicial training strategy supporting DigitalJustice@2030. It sets 15 actions to build IT and AI literacy of justice professionals, train them on digital-economy law and fundamental rights, and coordinate EU and national funding. No robotics or physical AI content.",
+  "key_provisions_or_claims": [
+   "Action 1: make IT and AI literacy training available to all justice professionals.",
+   "Technology should support, not replace, human judgment; training should address AI and judicial independence.",
+   "Member States must meet AI literacy obligations under Article 4 of the AI Act when using AI in justice.",
+   "Training on digital-economy law including AI Act, GDPR, Product Liability Directive.",
+   "Justice Programme and next MFF funding, plus a Judicial Training Dashboard for monitoring."
+  ],
+  "confidence": 0.93
+ }
+}

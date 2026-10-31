@@ -1,0 +1,94 @@
+{
+ "doc_id": "D1611",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:18:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08885960000000001,
+  "in": 2,
+  "out": 1863,
+  "cache_read": 11758,
+  "cache_create": 6155,
+  "api_ms": 13150,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Socially interactive industrial robots: a PAD model of flow for emotional co-regulation",
+  "title_en": "Socially interactive industrial robots: a PAD model of flow for emotional co-regulation",
+  "language": "en",
+  "authors_or_issuer": "Nunnari, F.; Tsovaltzi, D.; Lavit Nicora, M.; Beyrodt, S.; Prajod, P.; Chehayeb, L.; et al.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.3389/frobt.2024.1418677",
+  "venue": "Frontiers in Robotics and AI",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "collaborative_robots"
+  ],
+  "primary_embodied_category": "collaborative_robots",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "human_robot_interaction_social_effects",
+   "labor_employment",
+   "transparency_explainability"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "mixed",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Peer-reviewed article from the EU MindBot project. It presents a \"covatar\", a cobot paired with a virtual avatar, and the explainable BASSF emotional model, which uses PAD signals from facial analysis to co-regulate workers' emotions on assembly lines. Two empirical studies support using socially interactive industrial robots to improve worker wellbeing and flow. The paper does not address governance directly.",
+  "key_provisions_or_claims": [
+   "The BASSF model (Boredom, Anxiety, Self-efficacy, Self-compassion, Flow) gives a transparent, theory-based way to drive interventions by the cobot and its avatar",
+   "The Dominance dimension of PAD predicts workers' self-efficacy and flow",
+   "Noisy PAD signals from facial analysis need pre-filtering and calibration for each user",
+   "Socially interactive industrial robots may improve worker wellbeing, job satisfaction and involvement",
+   "The paper argues for moving factories toward value-driven, worker-centred 'Industry 5.0' settings"
+  ],
+  "confidence": 0.85
+ }
+}

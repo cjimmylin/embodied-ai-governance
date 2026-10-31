@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-dd7f8d70",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:37:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2691158,
+  "in": 2,
+  "out": 1704,
+  "cache_read": 11758,
+  "cache_create": 62724,
+  "api_ms": 9835,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "道路標識、区画線及び道路標示に関する命令",
+  "title_en": "Order on Road Signs, Lane Markings and Road Markings",
+  "language": "ja",
+  "authors_or_issuer": "内閣府・国土交通省 (Cabinet Office and Ministry of Land, Infrastructure, Transport and Tourism, Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search (Japan)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japan's ministerial ordinance fixing the classification, types, placement, design and installers of road signs, lane lines and road markings, as revised effective 1 September 2026. Its schedules include a sign category for remotely operated small vehicles (遠隔操作型小型車, i.e., delivery robots), a tangential embodied-AI link.",
+  "key_provisions_or_claims": [
+   "Classifies road signs into main and auxiliary signs, and markings into regulatory and instructional",
+   "Allocates installation duty between road administrators and prefectural public safety commissions",
+   "Schedules set the types, placement and designs of signs, lines and markings",
+   "Auxiliary sign (503-2) shows whether rules apply to remotely operated small vehicles",
+   "Amendment effective 2026-09-01"
+  ],
+  "confidence": 0.6
+ }
+}

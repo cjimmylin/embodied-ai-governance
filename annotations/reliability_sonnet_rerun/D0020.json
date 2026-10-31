@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0020",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:39:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0419775,
+  "in": 4,
+  "out": 3355,
+  "cache_read": 38220,
+  "cache_create": 1839,
+  "api_ms": 20267,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Resources fAIrLAC",
+  "title_en": "Resources fAIrLAC",
+  "language": "en",
+  "authors_or_issuer": "fAIr LAC (Inter-American Development Bank)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 6,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "fAIr LAC website",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "CO",
+   "CR",
+   "MX"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "education",
+   "healthcare",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "education_training"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Resource listing page of the IDB's fAIr LAC initiative, cataloguing tools and publications for responsible AI in Latin America and the Caribbean, including ethical self-assessment tools, algorithmic audit guides, a MOOC and case studies. No robotics content; 'Robot Laura' is a software system.",
+  "key_provisions_or_claims": [
+   "Five tools 'fAIr LAC in a box' apply ethical AI principles across project phases",
+   "Ethical self-assessment tool for mitigating AI ethical risks",
+   "Algorithmic audit guidance for decision-support systems",
+   "Manuals on responsible AI for public policy and data science, with OECD",
+   "GuIA initiative supports regional AI ethics research"
+  ],
+  "confidence": 0.8
+ }
+}

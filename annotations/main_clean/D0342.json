@@ -1,0 +1,98 @@
+{
+ "doc_id": "D0342",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:52:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0257998,
+  "in": 2,
+  "out": 1638,
+  "cache_read": 11758,
+  "cache_create": 2060,
+  "api_ms": 9067,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Generative AI: basic guidance",
+  "title_en": "Generative AI: basic guidance",
+  "language": "en",
+  "authors_or_issuer": "Digital NSW (NSW Government) / Cyber Security NSW",
+  "issuer_type": "subnational_government",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "Digital NSW",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "cybersecurity",
+   "human_oversight_control",
+   "intellectual_property",
+   "transparency_explainability"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "data_governance_requirements",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "NSW Government basic guidance for staff using public generative AI tools. It lists dos and don'ts: fact-check outputs, avoid entering sensitive or personal data, do not let AI make government decisions, respect copyright, use security settings, and consult IT Security or privacy teams when unsure.",
+  "key_provisions_or_claims": [
+   "Fact check and verify AI outputs before official use",
+   "Do not allow generative AI to make decisions for NSW Government",
+   "Do not disclose or input personal, sensitive, classified or health information",
+   "Do not ingest government datasets unless approved and declassified",
+   "Follow entity internal policies and consult IT Security or CISO if in doubt"
+  ],
+  "confidence": 0.8
+ }
+}

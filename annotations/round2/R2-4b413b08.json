@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-4b413b08",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:43:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.05088380000000001,
+  "in": 4,
+  "out": 3536,
+  "cache_read": 25628,
+  "cache_create": 3914,
+  "api_ms": 17337,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "警察庁 (National Police Agency of Japan)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.7,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "delivery_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "industrial_policy_innovation",
+   "certification_conformity_assessment",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Road Traffic Act amendment (promulgated April 2022, effective April 2023) created a permit system for Level 4 specified automated operation without a driver",
+   "Guidelines for public-road automated driving trials (May 2016) clarify which trials need no special road use permit",
+   "Road use permit criteria (revised April 2023) for remote-type automated driving and vehicles with special controls",
+   "Road use permit criteria (April 2023) for sidewalk-travelling robot trials not covered by remote-operated small vehicle notification",
+   "Police support early practical deployment of automated driving suited to Japanese roads"
+  ],
+  "language": "ja",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2023,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Japan's National Police Agency slide summarising its approach to automated driving: it supports early practical deployment, lists automation levels 1-5, and outlines the amended Road Traffic Act's Level 4 permit system, public-road trial guidelines, and road use permit criteria for remote-type vehicles and sidewalk delivery robots.",
+  "title_clean": "自動運転に係る対応",
+  "title_en": "Police Response to Automated Driving",
+  "venue": "警察庁"
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-c6877f13",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:11:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026065800000000004,
+  "in": 2,
+  "out": 1657,
+  "cache_read": 11758,
+  "cache_create": 2079,
+  "api_ms": 8486,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Article 10B. Peer-to-Peer Vehicle Sharing (N.C. Gen. Stat. §§ 20-280.15 to 20-280.17)",
+  "title_en": "Article 10B. Peer-to-Peer Vehicle Sharing (N.C. Gen. Stat. §§ 20-280.15 to 20-280.17)",
+  "language": "en",
+  "authors_or_issuer": "North Carolina General Assembly",
+  "issuer_type": "legislature",
+  "pub_year": 2019,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "North Carolina General Statutes",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "consumer_protection"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "North Carolina statute defining peer-to-peer vehicle sharing terms and authorizing airport operators to charge fees, require decals, mandate monitoring and auditing mechanisms and data from sharing programs, and designate staging locations. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Defines peer-to-peer vehicle sharing, program, shared vehicle, owner and provider.",
+   "Airport operators may charge reasonable fees to sharing programs.",
+   "Airport operators may require identifying decals on shared vehicles.",
+   "Operators may require monitoring equipment and compliance data.",
+   "Operators may designate staging locations for shared vehicles."
+  ],
+  "confidence": 0.93
+ }
+}

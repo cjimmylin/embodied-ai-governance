@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-dddcec43",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:14:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.055299600000000004,
+  "in": 2,
+  "out": 1739,
+  "cache_read": 11758,
+  "cache_create": 2270,
+  "api_ms": 11930,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Nebraska Revised Statute 60-3301: Terms, defined",
+  "title_en": "Nebraska Revised Statute 60-3301: Terms, defined",
+  "language": "en",
+  "authors_or_issuer": "Nebraska Legislature",
+  "issuer_type": "subnational_government",
+  "pub_year": 2018,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Nebraska Legislature official website",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "Nebraska LB989 (2018)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "This is the definitions section of Nebraska's 2018 statute on automated-driving-system-equipped vehicles (LB989), Neb. Rev. Stat. 60-3301. It defines the terms used in sections 60-3301 to 60-3311. These include automated driving system, driverless-capable vehicle, dynamic driving task, minimal risk condition, operational design domain and on-demand driverless-capable vehicle networks.",
+  "key_provisions_or_claims": [
+   "Defines an automated driving system as hardware and software able to perform the entire dynamic driving task on a sustained basis",
+   "Defines a driverless-capable vehicle as one that operates without any intervention or supervision by a conventional human driver",
+   "Defines a minimal risk condition as a reasonably safe fallback state, such as stopping and turning on the hazard lamps",
+   "Defines an on-demand driverless-capable vehicle network for transporting people and goods",
+   "Defines the operational design domain (road types, speed range, weather, time of day)"
+  ],
+  "confidence": 0.88
+ }
+}

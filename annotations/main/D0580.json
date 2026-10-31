@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0580",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:22:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0459538,
+  "in": 2,
+  "out": 1739,
+  "cache_read": 11758,
+  "cache_create": 6846,
+  "api_ms": 10261,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Legal regulation of artificial intelligence and robotic systems: review of key approaches",
+  "title_en": "Legal regulation of artificial intelligence and robotic systems: review of key approaches",
+  "language": "en",
+  "authors_or_issuer": "Kuteynikov, D.; Izhaev, O.; Lebedev, V.; Zenin, S.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.46398/cuestpol.4072.40",
+  "venue": "Cuestiones Políticas",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "EU",
+   "US",
+   "CN"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "human_dignity_autonomy",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "US Executive Order 14110"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Journal article comparing legal regulation of AI and robotic systems in the EU (risk-based draft AI Act), the US (fragmented, ad hoc, sectoral) and China (New Generation AI Development Plan). It concludes AI policies protect citizens' rights across fields, noting trade-offs between regulatory burden and innovation.",
+  "key_provisions_or_claims": [
+   "EU draft AI Act uses a risk-based, person-centred approach but may slow industry growth.",
+   "US has no cross-cutting AI law; ad hoc sectoral regulation favours economic growth but risks incidents.",
+   "China relies on the New Generation AI Development Plan, with associated political risks.",
+   "US 2020 OMB memorandum sets principles favouring non-regulatory approaches."
+  ],
+  "confidence": 0.75
+ }
+}

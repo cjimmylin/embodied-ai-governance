@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-7d7c7ac1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:35:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.041325799999999996,
+  "in": 2,
+  "out": 1773,
+  "cache_read": 11758,
+  "cache_create": 5604,
+  "api_ms": 9019,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "市场监管总局关于进一步贯彻实施《中华人民共和国反不正当竞争法》的通知",
+  "title_en": "Notice of the State Administration for Market Regulation on Further Implementing the Anti-Unfair Competition Law of the PRC",
+  "language": "zh",
+  "authors_or_issuer": "国家市场监督管理总局 (State Administration for Market Regulation)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "SAMR",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "industrial_policy_innovation",
+   "intellectual_property",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "international_cooperation",
+   "self_regulation_codes",
+   "education_training_programs",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "SAMR notice (No. 40, 25 March 2026) directing local regulators on implementing the revised Anti-Unfair Competition Law effective 15 Oct 2025. It covers involution-style competition, platform algorithm abuses, late payments to SMEs, data and trade secret protection, extraterritorial enforcement and compliance guidance. AI is mentioned only in passing.",
+  "key_provisions_or_claims": [
+   "Curb 'involution' competition in platforms, photovoltaics, lithium batteries and new-energy vehicles",
+   "Penalise platforms forcing below-cost sales via algorithms and search ranking",
+   "Address large firms' late payments to SMEs",
+   "Strengthen data-rights and trade secret protection, including for emerging industries like AI",
+   "Explore extraterritorial enforcement and draft Regulations on Prohibiting Online Unfair Competition"
+  ],
+  "confidence": 0.9
+ }
+}

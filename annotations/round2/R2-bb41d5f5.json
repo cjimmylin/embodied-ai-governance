@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-bb41d5f5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:14:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030065800000000004,
+  "in": 2,
+  "out": 1735,
+  "cache_read": 11758,
+  "cache_create": 2884,
+  "api_ms": 8458,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ASTM F3201-16 Standard Practice for Ensuring Dependability of Software Used in Unmanned Aircraft Systems (UAS)",
+  "title_en": "ASTM F3201-16 Standard Practice for Ensuring Dependability of Software Used in Unmanned Aircraft Systems (UAS)",
+  "language": "en",
+  "authors_or_issuer": "ASTM International (Committee F38)",
+  "issuer_type": "standards_body",
+  "pub_year": 2016,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.1520/F3201-16",
+  "venue": "ASTM International Book of Standards Vol. 15.09",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ASTM store page for F3201-16, a voluntary standard practice for ensuring the dependability (safety and security) of software in unmanned aircraft systems, aimed at small UAS and as a possible alternate means of compliance for civil aviation authorities. Includes scope text and shipping fees.",
+  "key_provisions_or_claims": [
+   "Aims to ensure dependability (safety and security) of UAS software",
+   "Covers organizational controls, software architecture, metrics and design analysis, code review, and testing",
+   "Intended to support small UAS operations as an alternate means of compliance",
+   "Application to other UAS operations at the discretion of the civil aviation authority",
+   "User responsible for determining regulatory applicability"
+  ],
+  "confidence": 0.85
+ }
+}

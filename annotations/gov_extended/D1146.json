@@ -1,0 +1,112 @@
+{
+ "doc_id": "D1146",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:48:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.16770380000000001,
+  "in": 2,
+  "out": 1820,
+  "cache_read": 11758,
+  "cache_create": 37081,
+  "api_ms": 14275,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "2024 Artificial Intelligence Strategy",
+  "title_en": "2024 Artificial Intelligence Strategy",
+  "language": "en",
+  "authors_or_issuer": "Ministry for Digital Transformation and Public Service (Spain)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Government of Spain",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ES",
+   "EU"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "research_science",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "sustainability_environment",
+   "cybersecurity",
+   "transparency_explainability",
+   "education_training",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "education_training_programs",
+   "transparency_disclosure_labelling",
+   "conformity_assessment_certification",
+   "international_cooperation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Spain's reinforced 2024 national AI strategy in three pillars: supercomputing, data centres, Spanish-language foundation models (ALIA) and talent; AI adoption in the public sector and SMEs plus cybersecurity; and responsible AI via the AESIA supervisory agency, aligned with the EU AI Act. No robotics content.",
+  "key_provisions_or_claims": [
+   "Upgrade MareNostrum 5 with an AI cluster (€55-90M) and open supercomputing to industry",
+   "Develop ALIA open, transparent foundation models in Spanish and co-official languages, assessed by AESIA",
+   "Voluntary sustainable AI seal and sustainable data centre framework",
+   "AESIA to oversee compliance, run an AI regulatory sandbox and act as Think & Do Tank",
+   "Draft a cybersecurity law; boost AI adoption in public sector and SMEs"
+  ],
+  "confidence": 0.9
+ }
+}

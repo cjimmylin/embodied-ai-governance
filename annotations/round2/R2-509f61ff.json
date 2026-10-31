@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-509f61ff",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:28:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0583018,
+  "in": 2,
+  "out": 1735,
+  "cache_read": 11758,
+  "cache_create": 9943,
+  "api_ms": 8949,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院关于印发《美丽中国建设“十五五”规划》的通知",
+  "title_en": "State Council Notice on Issuing the 15th Five-Year Plan for Building a Beautiful China",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the People's Republic of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "audits_impact_assessment",
+   "international_cooperation",
+   "oversight_body_creation",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "China's State Council notice issuing the 15th Five-Year Plan for building a Beautiful China, setting 2030 and 2035 environmental targets across air, water, soil, waste, ecosystems, climate and carbon markets. AI is mentioned only in passing for environmental monitoring; no robotics governance content.",
+  "key_provisions_or_claims": [
+   "Targets PM2.5 below 25 µg/m³ and 7–10% net GHG reduction from peak by 2035",
+   "Strengthens carbon market, dual control of emissions and green transition",
+   "Implements ecological environment code and updates environmental standards",
+   "Calls for digital/intelligent monitoring and applying AI in environmental governance",
+   "Central-provincial responsibility with Ministry of Ecology and Environment evaluating implementation"
+  ],
+  "confidence": 0.9
+ }
+}

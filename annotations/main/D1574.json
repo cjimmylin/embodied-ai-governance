@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1574",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:49:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04583380000000001,
+  "in": 2,
+  "out": 1819,
+  "cache_read": 11758,
+  "cache_create": 6616,
+  "api_ms": 13715,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Birhane, A.; van Dijk, J.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.1145/3375627.3375855",
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "ethics_principles",
+   "human_dignity_autonomy",
+   "fairness_bias_discrimination",
+   "labor_employment",
+   "privacy_data_protection",
+   "civil_liability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "IE",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Robots are mediators of human being, not the kind of entity that can be granted or denied rights.",
+   "Rejects the 'robots as slaves' framing because it implicitly humanizes robots.",
+   "Robot rights debate is a first-world distraction rooted in techno-optimism.",
+   "Urgent AI ethics concerns are machine bias, exploitative human micro-labour and privacy erosion.",
+   "Developers and deployers must take responsibility for harms from AI systems."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 2,
+  "pub_year": 2020,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "opposes",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Conference paper arguing from a post-Cartesian, phenomenological view that robots are mediators of human being and cannot be granted rights, nor treated as slaves. It contends the robot rights debate distracts from pressing harms to disadvantaged people, such as bias, exploitative micro-labour and privacy erosion, and from developers' responsibility.",
+  "title_clean": "Robot Rights? Let's Talk about Human Welfare Instead",
+  "title_en": "Robot Rights? Let's Talk about Human Welfare Instead",
+  "venue": "AAAI/ACM Conference on AI, Ethics, and Society (AIES '20)"
+ }
+}

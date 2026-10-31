@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0482",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.053198300000000004,
+  "in": 4,
+  "out": 3597,
+  "cache_read": 25948,
+  "cache_create": 4391,
+  "api_ms": 16787,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Too familiar to ignore, but too different to tolerate: The role of the law in regulating emotional expression by robots to mitigate the harmful effects of robot deception",
+  "title_en": "Too familiar to ignore, but too different to tolerate: The role of the law in regulating emotional expression by robots to mitigate the harmful effects of robot deception",
+  "language": "en",
+  "authors_or_issuer": "Gunawardena, N.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Proceedings of the Annual Research Symposium 2025, University of Colombo",
+  "jurisdiction_country": "LK",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "human_robot_interaction_social_effects",
+   "transparency_explainability",
+   "human_dignity_autonomy",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Conference abstract analysing how law should regulate emotional expression by robots to mitigate harms of robot deception. Combines conceptual analysis with doctrinal review of the EU AI Act, finding harm from expressive robots underestimated, and proposes broader harm definitions, classification by deceptive capability, and design limits keeping robots in the uncanny valley.",
+  "key_provisions_or_claims": [
+   "Robot deception through emotional expression is a distinct ethical and regulatory challenge",
+   "The EU AI Act underestimates harm from expressive robots",
+   "Expand the definition of harm to include long-term structural harm",
+   "Classify robots by their differing deceptive capabilities",
+   "Consider design restrictions that trap expressive robots in the uncanny valley"
+  ],
+  "confidence": 0.85
+ }
+}

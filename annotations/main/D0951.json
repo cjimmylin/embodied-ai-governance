@@ -1,0 +1,94 @@
+{
+ "doc_id": "D0951",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:32:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0356078,
+  "in": 2,
+  "out": 1770,
+  "cache_read": 11758,
+  "cache_create": 4182,
+  "api_ms": 8923,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Request for Comments on a Draft Memorandum to the Heads of Executive Departments and Agencies, \"Guidance for Regulation of Artificial Intelligence Applications\"",
+  "title_en": "Request for Comments on a Draft Memorandum to the Heads of Executive Departments and Agencies, \"Guidance for Regulation of Artificial Intelligence Applications\"",
+  "language": "en",
+  "authors_or_issuer": "Office of Management and Budget, Executive Office of the President",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Register, Vol. 85, No. 8",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "consultation_open",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Federal Register notice in which OMB requests comments by March 13, 2020 on a draft memorandum guiding US agencies on regulating AI applications, pursuant to Executive Order 13859. It stresses reducing barriers to AI adoption and innovation while protecting security, privacy, civil liberties and American values. Page also contains unrelated notices.",
+  "key_provisions_or_claims": [
+   "OMB seeks public comment on draft guidance for agency regulation of AI applications, due March 13, 2020.",
+   "Guidance implements Executive Order 13859 'Maintaining American Leadership in AI'.",
+   "Agencies should promote innovation and reduce barriers to AI development and adoption.",
+   "Regulatory and non-regulatory approaches should protect security, privacy, civil liberties and American values.",
+   "Comments submitted via regulations.gov."
+  ],
+  "confidence": 0.85
+ }
+}

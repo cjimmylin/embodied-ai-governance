@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-746c4ab1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:48:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1696898,
+  "in": 2,
+  "out": 1987,
+  "cache_read": 11758,
+  "cache_create": 37160,
+  "api_ms": 13925,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "EFTA Surveillance Authority Decision No 447/14/COL adopting guidelines for the management of the Rapid Information System 'RAPEX' under Articles 11 and 12 of Directive 2001/95/EC (General Product Safety Directive)",
+  "title_en": "EFTA Surveillance Authority Decision No 447/14/COL adopting guidelines for the management of the Rapid Information System 'RAPEX' under Articles 11 and 12 of Directive 2001/95/EC (General Product Safety Directive)",
+  "language": "en",
+  "authors_or_issuer": "EFTA Surveillance Authority",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2014,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (EEA Section), L 92/1, 7.4.2016",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "consumer_protection",
+   "risk_management_risk_tiers",
+   "transparency_explainability"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "incident_reporting",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "General Product Safety Directive 2001/95/EC",
+   "Regulation (EC) No 765/2008",
+   "EEA Agreement",
+   "Commission Decision 2010/15/EU",
+   "Commission Decision 2004/418/EC",
+   "REACH"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EFTA Surveillance Authority decision adopting guidelines for operating the RAPEX rapid alert system and Article 11 notification procedure under the General Product Safety Directive in EFTA EEA states, covering notification criteria, deadlines, confidentiality, follow-up, and a consumer product risk assessment method. Contains no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "EFTA States must notify ESA of preventive/restrictive measures on consumer products posing serious cross-border risks.",
+   "Defines notification types, forms, and deadlines (3 days emergency, 10 days standard).",
+   "Sets confidentiality and professional secrecy rules for notifications and reactions.",
+   "ESA examines notifications for correctness and completeness before forwarding to the Commission.",
+   "Annexes a risk assessment method combining injury severity and probability."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1565",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:49:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0615541,
+  "in": 4,
+  "out": 3419,
+  "cache_read": 28811,
+  "cache_create": 6613,
+  "api_ms": 20954,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Reporting Robot Ethics for Children-Robot Studies in Contemporary Peer Reviewed Papers",
+  "title_en": "Reporting Robot Ethics for Children-Robot Studies in Contemporary Peer Reviewed Papers",
+  "language": "en",
+  "authors_or_issuer": "Kyriakidou, M.; Padda, K.; Parry, L.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2017,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/978-3-319-46667-5_8",
+  "venue": "A World with Robots (Springer)",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "book",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "educational_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "research_science",
+   "education"
+  ],
+  "governance_topics": [
+   "research_ethics",
+   "children_vulnerable_groups",
+   "human_robot_interaction_social_effects",
+   "transparency_explainability"
+  ],
+  "primary_topic": "research_ethics",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "systematic_or_scoping_review",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Book chapter reviewing 27 peer-reviewed children-robot interaction studies for reporting of ethical procedures such as child assent, robot description, exposure phase and disclosure of semi-autonomy. It finds 63% reported no ethics procedures and urges publishers to take stricter action.",
+  "key_provisions_or_claims": [
+   "27 child-robot studies analysed for reported ethical procedures",
+   "63% of studies stated no ethical procedures",
+   "Only eight studies obtained children's assent",
+   "Only one study told children the robot is operated by a person",
+   "Publishers should adopt stricter ethics reporting requirements"
+  ],
+  "confidence": 0.85
+ }
+}

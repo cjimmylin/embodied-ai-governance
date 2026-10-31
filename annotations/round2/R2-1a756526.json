@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-1a756526",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:31:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0422758,
+  "in": 2,
+  "out": 1776,
+  "cache_read": 11758,
+  "cache_create": 5834,
+  "api_ms": 8933,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院办公厅关于加强重度残疾人托养照护服务的意见",
+  "title_en": "Opinions of the General Office of the State Council on Strengthening Care and Nursing Services for Persons with Severe Disabilities",
+  "language": "zh",
+  "authors_or_issuer": "国务院办公厅 (General Office of the State Council of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中国政府网",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "children_vulnerable_groups",
+   "industrial_policy_innovation",
+   "education_training",
+   "labor_employment",
+   "safety_physical_harm",
+   "consumer_protection"
+  ],
+  "primary_topic": "children_vulnerable_groups",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "insurance_requirement",
+   "education_training_programs",
+   "technical_standards_reference",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Chinese State Council General Office opinion (July 2025) on strengthening care services for persons with severe disabilities, covering home, day and institutional care, funding, long-term care insurance, workforce and supervision. Only a passing mention encourages R&D of care robots and AI rehabilitation aids.",
+  "key_provisions_or_claims": [
+   "Builds a care system based on home care, day care and institutional care for severely disabled persons",
+   "Integrates eligible persons into long-term care insurance and subsidises low-income participants",
+   "Promotes R&D and application of care robots and AI-based rehabilitation aids",
+   "Civil affairs departments lead; standards, supervision and an information platform are to be established",
+   "Encourages liability and accident insurance for care institutions"
+  ],
+  "confidence": 0.9
+ }
+}

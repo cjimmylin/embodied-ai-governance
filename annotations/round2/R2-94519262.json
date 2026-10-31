@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-94519262",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028385800000000003,
+  "in": 2,
+  "out": 1755,
+  "cache_read": 11758,
+  "cache_create": 2414,
+  "api_ms": 8603,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Guidelines for the Development of a National Strategy on AI in Security and Defence",
+  "title_en": "Guidelines for the Development of a National Strategy on AI in Security and Defence",
+  "language": "en",
+  "authors_or_issuer": "UNIDIR (UN Institute for Disarmament Research), Centre of Excellence on AI, Peace and Security",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": "10.37559/SECTEC/2026/AI/08",
+  "venue": "UNIDIR",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "risk_management_risk_tiers",
+   "ethics_principles",
+   "human_oversight_control",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "oversight_body_creation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "UNIDIR guidelines helping States develop, adopt, implement and review national strategies on AI in security and defence. They combine procedural guidance on the strategy cycle with substantive technical, legal and political considerations. The page shown is a publication landing summary of an 81-page document.",
+  "key_provisions_or_claims": [
+   "Procedural guidelines set out the institutional course of action for actors across the national strategy cycle",
+   "Substantive guidelines give an overview of technical, legal and political considerations for security and defence AI strategies",
+   "Revised from a 2024 draft using government and civil society feedback and a literature review",
+   "National AI strategies have proliferated, notably in 2024–2026"
+  ],
+  "confidence": 0.6
+ }
+}

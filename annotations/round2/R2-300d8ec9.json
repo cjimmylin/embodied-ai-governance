@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-300d8ec9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:43:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0326598,
+  "in": 2,
+  "out": 1814,
+  "cache_read": 11758,
+  "cache_create": 3335,
+  "api_ms": 10045,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "European Parliament resolution of 27 February 2014 on the use of armed drones (2014/2567(RSP))",
+  "title_en": "European Parliament resolution of 27 February 2014 on the use of armed drones (2014/2567(RSP))",
+  "language": "en",
+  "authors_or_issuer": "European Parliament",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2014,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, C 285/110 (29.8.2017)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "transparency_explainability",
+   "civil_liability",
+   "ethics_principles"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "international_cooperation",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "European Parliament resolution expressing grave concern over armed drone use outside the international legal framework. It urges an EU common position, a ban on extrajudicial targeted killings and on fully autonomous weapons, inclusion of armed drones in arms control regimes, greater transparency and accountability, and human rights impact assessments for drone R&D.",
+  "key_provisions_or_claims": [
+   "Calls for a ban on development, production and use of fully autonomous weapons operating without human intervention",
+   "Urges Council to adopt an EU common position on armed drones",
+   "Calls to ban extrajudicial targeted killings and include armed drones in arms control regimes",
+   "Demands transparency, judicial review and remedies for victims of unlawful drone strikes",
+   "Requests human rights impact assessments and reporting on EU funds for drone R&D"
+  ],
+  "confidence": 0.93
+ }
+}

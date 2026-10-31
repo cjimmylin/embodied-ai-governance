@@ -1,0 +1,94 @@
+{
+ "doc_id": "D0619",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:55:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0258198,
+  "in": 2,
+  "out": 1620,
+  "cache_read": 11758,
+  "cache_create": 2110,
+  "api_ms": 12090,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ethics for Robotics of Today",
+  "title_en": "Ethics for Robotics of Today",
+  "language": "en",
+  "authors_or_issuer": "Robotics Society of Japan (JRSJ)",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2021,
+  "pub_month": 1,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Journal of the Robotics Society of Japan, Vol. 39 No. 1",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "research_ethics",
+   "trust_acceptance",
+   "sustainability_environment"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Short article in the Journal of the Robotics Society of Japan on ethics for present-day robotics. Only keywords and references survive. It points to ethical acceptability versus social acceptance, SDGs, inclusiveness, technofix, well-being and Responsible Research and Innovation.",
+  "key_provisions_or_claims": [
+   "Keywords: ethical acceptability, SDGs, inclusiveness, technofix, well-being",
+   "Draws on Responsible Research and Innovation (RRI)",
+   "Cites Taebi on bridging social acceptance and ethical acceptability",
+   "Cites IEEE Ethically Aligned Design"
+  ],
+  "confidence": 0.4
+ }
+}

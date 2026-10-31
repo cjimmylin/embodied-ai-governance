@@ -1,0 +1,116 @@
+{
+ "doc_id": "D1428",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:45:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0462978,
+  "in": 2,
+  "out": 1941,
+  "cache_read": 11758,
+  "cache_create": 6427,
+  "api_ms": 9843,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Cloud Robotics Law and Regulation: Challenges in the Governance of Complex and Dynamic Cyber-Physical Ecosystems",
+  "title_en": "Cloud Robotics Law and Regulation: Challenges in the Governance of Complex and Dynamic Cyber-Physical Ecosystems",
+  "language": "en",
+  "authors_or_issuer": "Fosch-Villaronga, E.; Millard, C.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2018,
+  "pub_month": 12,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "QMUL Cloud Legal Project / SSRN working paper",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "domestic_household_robots",
+   "care_assistive_robots",
+   "social_companion_robots",
+   "industrial_manipulators",
+   "toys_entertainment_robots",
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "manufacturing",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "privacy_data_protection",
+   "safety_physical_harm",
+   "standards_interoperability",
+   "consumer_protection",
+   "transparency_explainability",
+   "cybersecurity"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "liability_regime",
+   "data_governance_requirements",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU Product Liability Directive",
+   "EU Machinery Regulation"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Working paper analysing legal and regulatory challenges of cloud robotics, where physical robots depend on cloud services. It finds a fragmented EU framework (product safety, liability, GDPR), difficulty attributing responsibility among multiple parties, unclear data controller roles, and a need to balance private standards with public law-making.",
+  "key_provisions_or_claims": [
+   "Regulation of cloud robotics is fragmented, pieced together from product safety, machinery, medical device, toy and GDPR rules.",
+   "EU product liability distinguishes products from services, which sits poorly with hybrid robot-cloud ecosystems.",
+   "Attributing liability among multiple parties in cloud robotics ecosystems is difficult.",
+   "Identifying data controllers and processors, transparency and data portability are unclear in cloud robotics.",
+   "Balance needed between private standard-setting and public law-making."
+  ],
+  "confidence": 0.85
+ }
+}

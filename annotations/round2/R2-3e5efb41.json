@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-3e5efb41",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0524298,
+  "in": 2,
+  "out": 1865,
+  "cache_read": 11758,
+  "cache_create": 8150,
+  "api_ms": 12102,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Economic and Social Committee on the Communication 'An EU initiative on Web 4.0 and virtual worlds: a head start in the next technological transition'",
+  "title_en": "Opinion of the European Economic and Social Committee on the Communication 'An EU initiative on Web 4.0 and virtual worlds: a head start in the next technological transition'",
+  "language": "en",
+  "authors_or_issuer": "European Economic and Social Committee (EESC)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (C series)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "ethics_principles",
+   "privacy_data_protection",
+   "standards_interoperability",
+   "industrial_policy_innovation",
+   "sustainability_environment",
+   "taxation_economic_policy",
+   "education_training",
+   "legal_personhood_robot_rights",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "technical_standards_reference",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "self_regulation_codes",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EESC opinion supporting the Commission's Web 4.0 and virtual worlds initiative. It stresses the social dimension, worker protection, standards and interoperability, sandboxes, sustainability, taxation, and a Charter of Values, and asks whether existing law suffices or new legislation is needed. It does not address physical robots.",
+  "key_provisions_or_claims": [
+   "Assess whether existing legislation suffices for virtual worlds or new legislation is needed",
+   "Design a Charter of Values with social partners and civil society",
+   "Promote global standards, interoperability and regulatory sandboxes embedding precaution",
+   "Address working conditions, health and safety, and law-shopping risks for meta-workers",
+   "Clarify the legal status of avatars globally; consider carbon neutrality criteria and taxation"
+  ],
+  "confidence": 0.9
+ }
+}

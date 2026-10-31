@@ -1,0 +1,115 @@
+{
+ "doc_id": "D1263",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:40:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0365778,
+  "in": 2,
+  "out": 1907,
+  "cache_read": 11758,
+  "cache_create": 4082,
+  "api_ms": 9337,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "EU AI Act: first regulation on artificial intelligence",
+  "title_en": "EU AI Act: first regulation on artificial intelligence",
+  "language": "en",
+  "authors_or_issuer": "European Parliament, Directorate General for Communication",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Parliament Topics",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "surgical_medical_robots",
+   "toys_entertainment_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "human_oversight_control",
+   "industrial_policy_innovation",
+   "children_vulnerable_groups",
+   "intellectual_property"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "conformity_assessment_certification",
+   "transparency_disclosure_labelling",
+   "testing_sandboxes",
+   "incident_reporting",
+   "oversight_body_creation",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Parliament explainer on the EU AI Act, describing its risk-based tiers, banned practices, high-risk categories including AI in regulated products such as cars, medical devices and toys, transparency duties for generative AI, sandboxes, and the phased compliance timeline.",
+  "key_provisions_or_claims": [
+   "Risk-based classification: unacceptable, high, limited/minimal risk.",
+   "Bans on social scoring, cognitive manipulation and real-time remote biometric identification, with law-enforcement exceptions.",
+   "High-risk includes AI in products under EU product safety law (cars, medical devices, lifts, toys, aviation).",
+   "Generative AI must disclose AI-generated content and publish training-data copyright summaries.",
+   "Phased application: bans from Feb 2025, GPAI rules after 12 months, high-risk after 36 months."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "doc_id": "D1035",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:34:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.053891800000000004,
+  "in": 2,
+  "out": 1976,
+  "cache_read": 11758,
+  "cache_create": 8238,
+  "api_ms": 14446,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Strategie der Bundesregierung für Künstliche Intelligenz – Annex: Artificial Intelligence Mission Austria 2030 (AIM AT 2030)",
+  "title_en": "Federal Government Strategy for Artificial Intelligence – Annex: Artificial Intelligence Mission Austria 2030 (AIM AT 2030)",
+  "language": "de",
+  "authors_or_issuer": "Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Digital Skills and Jobs Platform (BMK, Vienna)",
+  "jurisdiction_country": "AT",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AT"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "industrial_manipulators",
+   "agricultural_robots",
+   "space_or_extreme_environment"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment",
+   "logistics_transport",
+   "manufacturing",
+   "agriculture_food",
+   "construction",
+   "healthcare",
+   "education",
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "sustainability_environment",
+   "ethics_principles",
+   "education_training",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Annex to Austria's 2021 national AI strategy (AIM AT 2030) outlining sectoral AI application fields: climate, energy, mobility, manufacturing, agriculture, space, smart cities, construction, health, culture and education. It commits the federal government to funding, research programmes, test environments and EU cooperation, emphasising climate protection and human-centred, rights-respecting AI.",
+  "key_provisions_or_claims": [
+   "Government will draft a master plan for AI applications against climate change for the next strategy version.",
+   "AI-specific priorities in energy research programmes, innovation labs and model regions.",
+   "Funding for AI projects in agriculture with mandatory collaboration between competence centres.",
+   "Examine participation in EU AI testing and experimentation facilities (TEFs) under Digital Europe.",
+   "All applications must be human-centred and respect fundamental rights."
+  ],
+  "confidence": 0.8
+ }
+}

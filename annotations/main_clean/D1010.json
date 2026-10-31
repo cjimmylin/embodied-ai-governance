@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1010",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:00:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0286738,
+  "in": 2,
+  "out": 1711,
+  "cache_read": 11758,
+  "cache_create": 2596,
+  "api_ms": 8656,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Act Regulation (EU) 2024/1689",
+  "title_en": "AI Act Regulation (EU) 2024/1689",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the EU (record page: Publications Office of the EU)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": "10.2804/4225375",
+  "venue": "Publications Office of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "ethics_principles",
+   "safety_physical_harm",
+   "transparency_explainability",
+   "human_oversight_control",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Publications Office of the EU catalogue record for Regulation (EU) 2024/1689, the Artificial Intelligence Act of 13 June 2024. Only metadata and the purpose statement appear: harmonised AI rules, trustworthy human-centric AI, protection of health, safety and fundamental rights, and support for innovation. The full text is not shown.",
+  "key_provisions_or_claims": [
+   "Lays down harmonised rules on AI in the EU internal market",
+   "Promotes human-centric and trustworthy AI",
+   "Protects health, safety and fundamental rights against harmful AI effects",
+   "Supports innovation",
+   "Amends several EU regulations and directives, including on vehicles and civil aviation"
+  ],
+  "confidence": 0.7
+ }
+}

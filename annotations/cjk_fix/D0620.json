@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0620",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:28:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0332198,
+  "in": 2,
+  "out": 1790,
+  "cache_read": 11758,
+  "cache_create": 3535,
+  "api_ms": 9219,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robot Ethics (Japanese-language article, Nagoya University; text largely stripped)",
+  "title_en": "Robot Ethics",
+  "language": "ja",
+  "authors_or_issuer": "Graduate School of Informatics, Nagoya University",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2019,
+  "pub_month": 7,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Journal of the Robotics Society of Japan (probable)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "social_companion_robots",
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "legal_personhood_robot_rights",
+   "military_use_ihl",
+   "labor_employment",
+   "civil_liability",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "IEEE 7000 series",
+   "Asimov's Laws of Robotics"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japanese-language scholarly article from Nagoya University on robot ethics, apparently covering lethal autonomous weapons, robots and employment, machine ethics, moral agency, responsibility and robot rights. Japanese body text was mostly lost in extraction, leaving citations such as Moor, Sparrow, Gunkel, Coeckelbergh and IEEE Ethically Aligned Design.",
+  "key_provisions_or_claims": [
+   "Surveys ethical issues of robots including lethal autonomous weapons (LAWS).",
+   "Discusses automation and job loss (Frey and Osborne 47%).",
+   "Considers machine ethics and moral agency of artificial agents.",
+   "Discusses robot rights and legal personhood debates (Bryson, Gunkel, Coeckelbergh).",
+   "Cites IEEE Ethically Aligned Design."
+  ],
+  "confidence": 0.4
+ }
+}

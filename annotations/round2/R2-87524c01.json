@@ -1,0 +1,115 @@
+{
+ "doc_id": "R2-87524c01",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:56:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.10694039999999999,
+  "in": 4,
+  "out": 3800,
+  "cache_read": 38554,
+  "cache_create": 17008,
+  "api_ms": 26540,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "authors_or_issuer": "Group of Governmental Experts of the High Contracting Parties to the CCW",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "IN",
+   "US",
+   "RU",
+   "CN",
+   "FR",
+   "DE",
+   "GB",
+   "NL",
+   "CH",
+   "BE"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "international_cooperation",
+   "oversight_body_creation",
+   "prohibitions_bans",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "civil_liability",
+   "ethics_principles",
+   "legal_personhood_robot_rights",
+   "standards_interoperability",
+   "cybersecurity"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "language": "en",
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "pub_month": 12,
+  "pub_year": 2017,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Report of the first 2017 CCW Group of Governmental Experts on lethal autonomous weapons systems. It affirms that IHL applies fully, States remain responsible, and human control needs further study. It recommends continuing the GGE in 2018, focusing on characterization of LAWS and human-machine interaction. The Chair's summary records divergent views on definitions, a ban, a moratorium and weapons reviews.",
+  "key_provisions_or_claims": [
+   "IHL continues to apply fully to all weapons systems, including LAWS",
+   "Responsibility and accountability for weapons deployment remain with States",
+   "Next stage to focus on characterization of LAWS and human-machine interaction",
+   "GGE to meet ten days in 2018, working by consensus",
+   "Chair's summary notes divergent views on a legally binding ban, moratorium, political declaration and Article 36 weapons reviews"
+  ],
+  "title_clean": "Report of the 2017 Group of Governmental Experts on Lethal Autonomous Weapons Systems (LAWS)",
+  "title_en": "Report of the 2017 Group of Governmental Experts on Lethal Autonomous Weapons Systems (LAWS)",
+  "venue": "UN CCW (CCW/GGE.1/2017/3)",
+  "methodology": "not_applicable"
+ }
+}

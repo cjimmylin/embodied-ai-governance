@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0918",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:45:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030491800000000006,
+  "in": 2,
+  "out": 1628,
+  "cache_read": 11758,
+  "cache_create": 3258,
+  "api_ms": 8117,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Removing Barriers to American Leadership in Artificial Intelligence",
+  "title_en": "Removing Barriers to American Leadership in Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "The White House (President of the United States)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "whitehouse.gov",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "US Executive Order 14110"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "US executive order of 23 January 2025 revoking Biden's Executive Order 14110 and setting a policy of sustaining US global AI dominance. It directs development of an AI Action Plan within 180 days and review and rescission of inconsistent agency actions. It has no robotics-specific provisions.",
+  "key_provisions_or_claims": [
+   "Policy: sustain and enhance US global AI dominance for human flourishing, competitiveness and national security.",
+   "Revokes EO 14110 and requires review, suspension or rescission of actions taken under it.",
+   "AI Action Plan to be developed within 180 days.",
+   "OMB to revise memoranda M-24-10 and M-24-18 within 60 days.",
+   "Creates no enforceable private rights."
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-f8e2b73d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:40:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0363778,
+  "in": 2,
+  "out": 1769,
+  "cache_read": 11758,
+  "cache_create": 4377,
+  "api_ms": 8857,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "智能网联汽车 自动驾驶数据记录系统 (GB 44497-2024)",
+  "title_en": "Intelligent and connected vehicle—Data storage system for automated driving (GB 44497-2024)",
+  "language": "zh",
+  "authors_or_issuer": "工业和信息化部 / 全国汽车标准化技术委员会智能网联汽车分会 (TC114/SC34); 国家标准化管理委员会",
+  "issuer_type": "standards_body",
+  "pub_year": 2024,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "technical_standard_mandated",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "civil_liability",
+   "transparency_explainability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Catalogue page for China's mandatory national standard GB 44497-2024 on data storage (event data recording) systems for automated driving in intelligent connected vehicles, published 2024-08-23 and effective 2026-01-01. Only metadata and drafters are shown; no technical requirements text.",
+  "key_provisions_or_claims": [
+   "Mandatory national standard GB 44497-2024 for automated driving data recording systems",
+   "Published 2024-08-23; effective 2026-01-01",
+   "Administered by MIIT and TC114/SC34",
+   "Drafted by automakers, testing institutes, Baidu, Huawei and public security research bodies",
+   "Related standards on ADS safety requirements and operating design conditions listed"
+  ],
+  "confidence": 0.85
+ }
+}

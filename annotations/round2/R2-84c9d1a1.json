@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-84c9d1a1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:52:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030305800000000004,
+  "in": 2,
+  "out": 1791,
+  "cache_read": 11758,
+  "cache_create": 2804,
+  "api_ms": 9514,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Directive 2003/12/EC of 3 February 2003 on the reclassification of breast implants in the framework of Directive 93/42/EEC concerning medical devices",
+  "title_en": "Commission Directive 2003/12/EC of 3 February 2003 on the reclassification of breast implants in the framework of Directive 93/42/EEC concerning medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2003,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "FR",
+   "GB"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "consumer_protection"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "Directive 93/42/EEC (Medical Devices Directive)",
+   "Directive 90/385/EEC",
+   "Directive 2001/104/EC"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission Directive 2003/12/EC reclassifies breast implants from Class IIb to Class III medical devices under Directive 93/42/EEC, requiring design dossier examination by notified bodies. It sets transitional reassessment rules and Member State transposition deadlines. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Breast implants reclassified as Class III medical devices, derogating from Annex IX of Directive 93/42/EEC.",
+   "Implants already on the market must undergo conformity reassessment as Class III before 1 March 2004.",
+   "Notified body decisions under Article 11(3)(a) taken before 1 September 2003 may not be extended.",
+   "Member States must transpose by 1 August 2003 and apply from 1 September 2003."
+  ],
+  "confidence": 0.95
+ }
+}

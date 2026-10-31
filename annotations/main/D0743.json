@@ -1,0 +1,105 @@
+{
+ "doc_id": "D0743",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:26:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0451038,
+  "in": 2,
+  "out": 1774,
+  "cache_read": 11758,
+  "cache_create": 6546,
+  "api_ms": 8967,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial Intelligence in the Malaysian Financial Sector",
+  "title_en": "Artificial Intelligence in the Malaysian Financial Sector",
+  "language": "en",
+  "authors_or_issuer": "Bank Negara Malaysia",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Bank Negara Malaysia",
+  "jurisdiction_country": "MY",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "MY"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "consultation_open",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "finance"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "consumer_protection",
+   "cybersecurity",
+   "industrial_policy_innovation",
+   "human_oversight_control"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "self_regulation_codes",
+   "testing_sandboxes",
+   "international_cooperation",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "NIST AI RMF",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Bank Negara Malaysia's non-binding August 2025 discussion paper on AI in the financial sector. It reports adoption trends from the 2024 BNM AI Survey, outlines benefits and risks, and proposes a proportionate regulatory approach, industry guidelines on responsible use, and development priorities, inviting feedback by 17 October 2025.",
+  "key_provisions_or_claims": [
+   "Non-binding discussion paper seeking stakeholder feedback by 17 October 2025",
+   "71% of banks/DFIs and 77% of insurers/takaful operators had deployed at least one AI application in 2024",
+   "Regulatory approach follows parity, proportionality and neutrality principles",
+   "Asks whether a formal sector-specific AI definition is needed",
+   "Covers risks such as explainability, bias, accountability, cybersecurity and model validation"
+  ],
+  "confidence": 0.9
+ }
+}

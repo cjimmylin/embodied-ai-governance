@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-e6873a09",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:57:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0575036,
+  "in": 4,
+  "out": 3896,
+  "cache_read": 26231,
+  "cache_create": 4736,
+  "api_ms": 24913,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "EEA Joint Committee",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU",
+   "IS",
+   "NO",
+   "LI"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "international_cooperation",
+   "licensing_registration"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "standards_interoperability"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Incorporates Delegated Regulation (EU) 2024/1108 on UAS initial airworthiness into EEA Annex XIII.",
+   "Incorporates Implementing Regulation (EU) 2024/1110 on UAS operation rules into the EEA Agreement.",
+   "Amends points 66p, 66zbb and 66zbc of Annex XIII (Transport).",
+   "Enters into force 9 May 2025 subject to Article 103(1) notifications.",
+   "Icelandic and Norwegian texts are authentic."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU Regulation 748/2012",
+   "EU Delegated Regulation 2019/945",
+   "EU Implementing Regulation 2019/947",
+   "EU Delegated Regulation 2024/1108",
+   "EU Implementing Regulation 2024/1110",
+   "EEA Agreement"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Decision of the EEA Joint Committee No 103/2025 amends Annex XIII (Transport) of the EEA Agreement to incorporate EU Delegated Regulation 2024/1108 and Implementing Regulation 2024/1110 on initial airworthiness certification and operation of unmanned aircraft systems, extending EU drone rules to EEA EFTA states.",
+  "title_clean": "Decision of the EEA Joint Committee No 103/2025 of 8 May 2025 amending Annex XIII (Transport) to the EEA Agreement",
+  "title_en": "Decision of the EEA Joint Committee No 103/2025 of 8 May 2025 amending Annex XIII (Transport) to the EEA Agreement",
+  "venue": "Official Journal of the European Union (EEA Supplement)"
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0090",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:08:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.039515800000000004,
+  "in": 2,
+  "out": 1870,
+  "cache_read": 11758,
+  "cache_create": 4909,
+  "api_ms": 10227,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proyecto de Ley: Información y Responsabilidad de Proveedores en el Uso de la Inteligencia Artificial",
+  "title_en": "Bill: Information and Liability of Providers in the Use of Artificial Intelligence",
+  "language": "es",
+  "authors_or_issuer": "Pamela Calletti, Diputada Nacional (Honorable Cámara de Diputados de la Nación, Argentina)",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Honorable Cámara de Diputados de la Nación Argentina",
+  "jurisdiction_country": "AR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AR"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "civil_liability"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "Argentina Ley 24.240 (Consumer Protection Law)",
+   "Argentina Constitution art. 42 and 75(23)",
+   "Resolución 270/2020 Secretaría de Comercio Interior",
+   "MERCOSUR Resolution GMC 37/2019"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Argentine bill amending the Consumer Protection Law 24.240 to require providers to disclose AI use to consumers, explain how systems work, avoid discriminatory bias, and bear aggravated liability for harm from automated decisions, with administrative sanctions. It is general AI consumer protection with no robotics content.",
+  "key_provisions_or_claims": [
+   "Amends Art. 4 and 8 of Ley 24.240 to require disclosure of AI use in products, services, images, audio and video",
+   "Defines AI and automated decisions",
+   "Providers must be transparent, explain how the system works and what data it uses",
+   "Providers must ensure AI does not perpetuate discriminatory bias",
+   "Providers liable for harm from automated decisions, with sanctions under art. 47 including fines and suspension"
+  ],
+  "confidence": 0.93
+ }
+}

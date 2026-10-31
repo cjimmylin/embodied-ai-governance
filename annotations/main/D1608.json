@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1608",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0440598,
+  "in": 2,
+  "out": 1784,
+  "cache_read": 11758,
+  "cache_create": 6260,
+  "api_ms": 10073,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "domestic_consumer",
+   "healthcare",
+   "elder_care_social_care",
+   "research_science"
+  ],
+  "authors_or_issuer": "Nagy, E.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.12700/aph.22.1.2025.1.14",
+  "embodied_categories": [
+   "sex_robots",
+   "social_companion_robots",
+   "care_assistive_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_dignity_autonomy",
+   "human_robot_interaction_social_effects",
+   "trust_acceptance",
+   "privacy_data_protection",
+   "children_vulnerable_groups"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "HU",
+  "jurisdiction_scope": "national",
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "sex_robots",
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2025,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "summary_en": "Journal article overviewing technological development, social acceptance and ethical challenges of sexual and social robots, focusing on Japan. It discusses human dignity, social isolation, psychological effects and cultural variation in acceptance, calling for social dialogue and further research rather than proposing specific regulation.",
+  "key_provisions_or_claims": [
+   "Japan is at the forefront of developing sexual and social robots.",
+   "Sex robots raise concerns about human dignity, objectification and social isolation.",
+   "Acceptance varies by culture and is evolving.",
+   "Potential benefits include aid for lonely people, the disabled and elderly.",
+   "Calls for social dialogue and further research on psychological and social impacts."
+  ],
+  "title_clean": "Social and Sexual Robots: Technological Development, Social Acceptance and Ethical Challenges",
+  "title_en": "Social and Sexual Robots: Technological Development, Social Acceptance and Ethical Challenges",
+  "venue": "Acta Polytechnica Hungarica"
+ }
+}

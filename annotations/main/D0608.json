@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0608",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:23:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06610390000000001,
+  "in": 4,
+  "out": 3445,
+  "cache_read": 29864,
+  "cache_create": 7655,
+  "api_ms": 18069,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Towards Ethical Framework for Personal Care Robots: Review and Reflection",
+  "title_en": "Towards Ethical Framework for Personal Care Robots: Review and Reflection",
+  "language": "en",
+  "authors_or_issuer": "Mansouri, N.; Goher, K.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2016,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": "10.5539/ass.v12n10p152",
+  "venue": "Asian Social Science",
+  "jurisdiction_country": "MY",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "review_or_survey_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "privacy_data_protection",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Review of deontology, virtue and consequentialism ethics and existing robot ethics frameworks, applied to personal care robots for elderly and disabled people. The authors recommend adopting consequentialism in robot ethics frameworks for care robots.",
+  "key_provisions_or_claims": [
+   "Reviews deontology, virtue and consequentialism ethics theories for robot design",
+   "Identifies ethical issues of care robots: privacy loss, deception, social isolation, reduced autonomy",
+   "Surveys existing robot ethics and assistive technology frameworks",
+   "Recommends consequentialism as basis for personal care robot ethics frameworks",
+   "Notes lack of ISO standards addressing ethics in assistive robot design"
+  ],
+  "confidence": 0.85
+ }
+}

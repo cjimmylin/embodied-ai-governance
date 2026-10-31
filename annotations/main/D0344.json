@@ -1,0 +1,107 @@
+{
+ "doc_id": "D0344",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:16:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06748470000000001,
+  "in": 4,
+  "out": 3749,
+  "cache_read": 29102,
+  "cache_create": 7479,
+  "api_ms": 18211,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Public Record Office Victoria (PROV)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.6,
+  "countries_discussed": [
+   "AU",
+   "EU",
+   "US",
+   "NZ"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "conformity_assessment_certification",
+   "risk_based_tiering",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "risk_management_risk_tiers",
+   "trust_acceptance",
+   "ethics_principles",
+   "certification_conformity_assessment"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "subnational",
+  "key_provisions_or_claims": [
+   "PROV should develop a general AI topic page covering AI technologies and recordkeeping considerations",
+   "New policy advice on generative AI/LLMs should focus on record accuracy",
+   "Existing Approval Processes Policy covers decision-making AI with a transparency focus",
+   "Link external tools (NIST AI RMF Playbook, capAI, Algorithmic Impact Assessment, NSW AI Assurance Framework) as resources",
+   "Review advice once the Victorian AI Hub/CoE approach is available"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "NIST AI RMF",
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "transparency_explainability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2023,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Public Record Office Victoria research paper recommending an approach to managing records created by or using AI. It reviews the EU AI Act, US AI Bill of Rights/NIST AI RMF and Australasian approaches, and recommends AI topic guidance, generative AI recordkeeping advice, and links to external assessment tools. The metadata title suggests a VLRC page, but the content is a PROV paper.",
+  "title_clean": "Artificial Intelligence and Recordkeeping: research paper on managing records created by or through AI technologies",
+  "title_en": "Artificial Intelligence and Recordkeeping: research paper on managing records created by or through AI technologies",
+  "venue": "Public Record Office Victoria / Victorian Law Reform Commission website"
+ }
+}

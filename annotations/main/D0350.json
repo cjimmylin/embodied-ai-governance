@@ -1,0 +1,101 @@
+{
+ "doc_id": "D0350",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:16:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0460118,
+  "in": 2,
+  "out": 1852,
+  "cache_read": 11758,
+  "cache_create": 6578,
+  "api_ms": 14572,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Guidelines for Use of Generative Artificial Intelligence in Courts and Tribunals (Judges, Judicial Officers, Tribunal Members and Judicial Support Staff)",
+  "title_en": "Guidelines for Use of Generative Artificial Intelligence in Courts and Tribunals (Judges, Judicial Officers, Tribunal Members and Judicial Support Staff)",
+  "language": "en",
+  "authors_or_issuer": "Courts of New Zealand (Judiciary of New Zealand)",
+  "issuer_type": "court_or_judiciary",
+  "pub_year": 2023,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Courts of New Zealand website",
+  "jurisdiction_country": "NZ",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "NZ"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "software_agent_called_robot",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "cybersecurity",
+   "human_oversight_control",
+   "ethics_principles",
+   "intellectual_property"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "incident_reporting",
+   "human_oversight_requirement",
+   "data_governance_requirements",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "New Zealand judiciary guidelines (7 December 2023) for judges, tribunal members and support staff using generative AI chatbots. They cover understanding limitations, confidentiality and suppression, accuracy checks, bias, security, disclosure, and spotting GenAI use by others. They are non-physical and have no robotics content.",
+  "key_provisions_or_claims": [
+   "Do not enter private, confidential, suppressed or privileged information into public GenAI chatbots",
+   "Verify the accuracy of all GenAI output before relying on it; chatbots can fabricate cases and citations",
+   "Judges need not disclose GenAI use; support staff should discuss their use with supervising judges",
+   "Use work devices and accounts, disable chat history, and report security or disclosure incidents",
+   "Check submissions from lawyers and lay litigants for signs of GenAI use and fabricated content"
+  ],
+  "confidence": 0.93
+ }
+}

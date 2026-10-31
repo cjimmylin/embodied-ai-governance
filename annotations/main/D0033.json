@@ -1,0 +1,93 @@
+{
+ "doc_id": "D0033",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:07:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0428598,
+  "in": 2,
+  "out": 1670,
+  "cache_read": 11758,
+  "cache_create": 6245,
+  "api_ms": 9931,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "From pandemics to artificial intelligence, robots, and transhumanism: New challenges for ethics",
+  "title_en": "From pandemics to artificial intelligence, robots, and transhumanism: New challenges for ethics",
+  "language": "en",
+  "authors_or_issuer": "Velázquez, L.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": "10.24875/BUP.M22000010",
+  "venue": "BIOETHICS UPdate",
+  "jurisdiction_country": "MX",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "mixed",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare",
+   "research_science"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_dignity_autonomy",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Bioethics article arguing for a critical but positive view of technoscience, examining the ethics of artificiality, AI, robotics, technostress and virtual isolation, and criticizing transhumanism and post-humanism. It argues technological progress must be guided by human values that technoscience itself cannot supply.",
+  "key_provisions_or_claims": [
+   "Takes an intermediate position between scientism and anti-science regarding technoscience.",
+   "Argues the artificial is an expression of human nature, not opposed to it.",
+   "Criticizes transhumanism and post-humanism for placing machines above humans.",
+   "Holds that technological progress must be steered by values technoscience cannot provide.",
+   "Highlights technostress and isolation from digital technology as harms."
+  ],
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-ccf22b6b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:14:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0341558,
+  "in": 2,
+  "out": 1814,
+  "cache_read": 11758,
+  "cache_create": 3709,
+  "api_ms": 15679,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "ASTM International (Committee F38)",
+  "binding_nature": "technical_standard_voluntary",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": "10.1520/F3298-19",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "risk_based_tiering"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Sets airworthiness design, construction and verification requirements for lightweight fixed-wing UAS.",
+   "Defines a UAS to include aircraft, control station, C2 links, launch/recovery equipment and crew.",
+   "Intended to support CAA, self- or third-party airworthiness determinations and risk-based operational approvals.",
+   "Covers flight, performance, structure, command and control, documentation and verification requirements.",
+   "Developed under WTO TBT principles for international standards."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2019,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "ASTM F3298-19 store page for a voluntary standard specifying airworthiness design, construction and verification requirements for lightweight fixed-wing unmanned aircraft systems, supporting civil aviation authority approvals or self/third-party airworthiness determinations using risk-based categories.",
+  "title_clean": "ASTM F3298-19 Standard Specification for Design, Construction, and Verification of Lightweight Unmanned Aircraft Systems (UAS)",
+  "title_en": "ASTM F3298-19 Standard Specification for Design, Construction, and Verification of Lightweight Unmanned Aircraft Systems (UAS)",
+  "venue": "ASTM International",
+  "methodology": "not_applicable"
+ }
+}

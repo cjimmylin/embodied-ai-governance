@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-b28779fd",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:10:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029973800000000002,
+  "in": 2,
+  "out": 1823,
+  "cache_read": 11758,
+  "cache_create": 2641,
+  "api_ms": 9129,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Report of the Global Forum for Road Traffic Safety on its seventy-seventh session — Annex 1: Resolution on the deployment of highly and fully automated vehicles in road traffic",
+  "title_en": "Report of the Global Forum for Road Traffic Safety on its seventy-seventh session — Annex 1: Resolution on the deployment of highly and fully automated vehicles in road traffic",
+  "language": "en",
+  "authors_or_issuer": "UNECE Global Forum for Road Traffic Safety (WP.1)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2018,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UNECE ECE/TRANS/WP.1/165",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "standards_interoperability",
+   "other"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "UNECE WP.1 session report with Annex 1, a non-binding resolution adopted 3 October 2018 on deploying highly and fully automated vehicles in road traffic. It gives recommendations for automated driving systems and their users, consistent with the 1949 and 1968 Road Traffic Conventions. Only the table of contents and clause headings are available.",
+  "key_provisions_or_claims": [
+   "Non-binding resolution on deployment of highly and fully automated vehicles adopted by WP.1 in September 2018",
+   "Includes recommendations for automated driving systems",
+   "Includes recommendations for users of automated driving systems",
+   "Aims at consistency with the 1949 Geneva and 1968 Vienna Road Traffic Conventions",
+   "Report also covers the automated driving agenda item under the 1968 Convention"
+  ],
+  "confidence": 0.6
+ }
+}

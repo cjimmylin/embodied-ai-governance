@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1341",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:42:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0499058,
+  "in": 2,
+  "out": 1709,
+  "cache_read": 11758,
+  "cache_create": 7909,
+  "api_ms": 10416,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Minister of State (Minister for Artificial Intelligence)",
+  "title_en": "Minister of State (Minister for Artificial Intelligence)",
+  "language": "en",
+  "authors_or_issuer": "GOV.UK (Cabinet Office; Department for Business, Innovation, Science and Trade)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "drones_uas",
+   "surgical_medical_robots",
+   "agricultural_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "GOV.UK ministerial role page for the UK Minister for Artificial Intelligence, listing responsibilities across BIST and the Cabinet Office (AI policy, robotics, AI Security Institute, AI Growth Zones), the current holder Kanishka Narayan, and recent announcements including robotics backing and AI drone swarm data.",
+  "key_provisions_or_claims": [
+   "Minister's portfolio includes AI policy, robotics, semiconductors and Sovereign AI.",
+   "Cabinet Office portfolio covers AI Strategy, AI Taskforce, AI Security Institute and public sector adoption.",
+   "Recent announcements include new backing for robotics and access to Ukraine data for AI drone swarms.",
+   "Kanishka Narayan appointed Minister on 20 July 2026."
+  ],
+  "confidence": 0.8
+ }
+}

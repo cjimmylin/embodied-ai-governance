@@ -1,0 +1,103 @@
+{
+ "doc_id": "D1136",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:37:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.046247800000000006,
+  "in": 2,
+  "out": 1748,
+  "cache_read": 11758,
+  "cache_create": 6897,
+  "api_ms": 9160,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The enforcement framework of the AI Act",
+  "title_en": "The enforcement framework of the AI Act",
+  "language": "en",
+  "authors_or_issuer": "European Commission (DG CONNECT, AI Office)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Shaping Europe's digital future (European Commission)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "safety_physical_harm",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "incident_reporting",
+   "prohibitions_bans",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "Digital Services Act",
+   "GPAI Code of Practice"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission web page explaining who enforces the EU AI Act (AI Office, national authorities, EDPS), the AI Office's investigative and sanctioning powers, penalty ceilings, complaint and whistleblower tools, and the enforcement timeline. General AI content with no robotics-specific provisions.",
+  "key_provisions_or_claims": [
+   "AI Office enforces rules for GPAI model providers and certain AI systems; national authorities enforce other AI systems; EDPS covers EU institutions.",
+   "AI Office can issue requests for information, evaluate models, request access, and conduct inspections and interviews.",
+   "Fines up to €35M or 7% turnover for prohibited practices; €15M or 3% for other breaches.",
+   "Complaints tool, whistleblower tool, and downstream-provider complaints channel support monitoring.",
+   "Enforcement powers apply from 2 August 2026."
+  ],
+  "confidence": 0.85
+ }
+}

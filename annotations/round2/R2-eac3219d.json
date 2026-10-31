@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-eac3219d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:58:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0297858,
+  "in": 2,
+  "out": 1817,
+  "cache_read": 11758,
+  "cache_create": 2609,
+  "api_ms": 9297,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "§ 21a Verfahren und zuständige Behörden in der Betriebskategorie „offen\" nach der Durchführungsverordnung (EU) 2019/947",
+  "title_en": "§ 21a Procedures and competent authorities in the \"open\" operational category under Implementing Regulation (EU) 2019/947",
+  "language": "de",
+  "authors_or_issuer": "Germany (Bundesrepublik Deutschland), Luftverkehrs-Ordnung (LuftVO) legislator/ministry",
+  "issuer_type": "national_government_executive",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "Gesetze im Internet",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "DE"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "human_oversight_control",
+   "children_vulnerable_groups",
+   "transparency_explainability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation",
+   "human_oversight_requirement",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "EU Implementing Regulation 2019/947"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "German provision (§ 21a) designating the Federal Aviation Office as competent authority for remote pilot competence exams and certificates in the EU \"open\" drone category, assigning operational oversight to state aviation authorities, and permitting fully automated administrative acts with safeguards for hearing and human decision.",
+  "key_provisions_or_claims": [
+   "Luftfahrt-Bundesamt is competent for remote pilot exams and certificates in the open category under Reg. 2019/947.",
+   "Exam candidates must present valid ID and, if minors, guardian consent.",
+   "Local state aviation authorities supervise open-category UAS operations.",
+   "LBA may issue certificates and fee notices fully automatically.",
+   "Remote pilots keep the right to be heard and to a decision by an official."
+  ],
+  "confidence": 0.8
+ }
+}

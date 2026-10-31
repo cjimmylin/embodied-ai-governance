@@ -1,0 +1,112 @@
+{
+ "doc_id": "D1013",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:34:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0472438,
+  "in": 2,
+  "out": 2068,
+  "cache_read": 11758,
+  "cache_create": 6346,
+  "api_ms": 10526,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Interplay between the Medical Devices Regulation (MDR) & In vitro Diagnostic Medical Devices Regulation (IVDR) and the Artificial Intelligence Act (AIA)",
+  "title_en": "Interplay between the Medical Devices Regulation (MDR) & In vitro Diagnostic Medical Devices Regulation (IVDR) and the Artificial Intelligence Act (AIA)",
+  "language": "en",
+  "authors_or_issuer": "Artificial Intelligence Board (AIB) and Medical Device Coordination Group (MDCG)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Shaping Europe's digital future (European Commission)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "human_oversight_control",
+   "privacy_data_protection",
+   "cybersecurity",
+   "safety_physical_harm",
+   "education_training"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "audits_impact_assessment",
+   "incident_reporting",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Joint AI Board and MDCG FAQ guidance (June 2025) explaining how the EU AI Act applies alongside the MDR and IVDR to AI-enabled medical devices. It covers high-risk classification, data governance, transparency, human oversight, robustness, conformity assessment, substantial modification and post-market monitoring, and encourages integrating procedures. It is non-binding.",
+  "key_provisions_or_claims": [
+   "Medical device AI is high-risk under AIA Art. 6(1) if it is a safety component or a device and needs third-party notified body assessment under MDR/IVDR.",
+   "MDR/IVDR and AIA apply simultaneously and complementarily; manufacturers are 'providers'.",
+   "Manufacturers are encouraged to integrate AIA testing, documentation and reporting into existing MDR/IVDR procedures under AIA Art. 8(2).",
+   "Transparency, human oversight, data governance, accuracy, robustness and cybersecurity requirements are mapped to MDR/IVDR obligations.",
+   "Document is non-binding and not an official Commission position; further horizontal guidelines are forthcoming."
+  ],
+  "confidence": 0.9
+ }
+}

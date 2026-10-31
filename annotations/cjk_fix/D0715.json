@@ -1,0 +1,92 @@
+{
+ "doc_id": "D0715",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:29:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0410038,
+  "in": 2,
+  "out": 1540,
+  "cache_read": 11758,
+  "cache_create": 6106,
+  "api_ms": 7978,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "主管法規共用系統使用者操作手冊",
+  "title_en": "User Operation Manual of the Shared Competent-Authority Regulations System",
+  "language": "zh",
+  "authors_or_issuer": "法務部 (Ministry of Justice, Taiwan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "法務部 主管法規共用系統",
+  "jurisdiction_country": "TW",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "TW"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "User manual for Taiwan's Ministry of Justice shared regulations database system. It explains the categories of legal materials (laws, regulatory orders, administrative rules, drafts, English translations) and search functions. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "System lets agencies share a standard regulation database and avoid duplicate development",
+   "Defines categories of laws, regulatory orders, administrative rules and local regulations",
+   "Provides draft regulation pre-announcement forum for public comment",
+   "Provides English-translated regulation search and integrated search"
+  ],
+  "confidence": 0.9
+ }
+}

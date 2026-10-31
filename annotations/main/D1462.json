@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1462",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:46:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0694441,
+  "in": 4,
+  "out": 3862,
+  "cache_read": 29636,
+  "cache_create": 7469,
+  "api_ms": 25352,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ergonomics, Values and Robot Ethics",
+  "title_en": "Ergonomics, Values and Robot Ethics",
+  "language": "en",
+  "authors_or_issuer": "Remmers, P.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2027,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/978-3-032-19374-2_23",
+  "venue": "Ergonomics in Robotics: Advances and Innovations, Springer Tracts in Advanced Robotics 162",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "book",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "research_ethics",
+   "human_dignity_autonomy",
+   "safety_physical_harm",
+   "trust_acceptance"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Book chapter on robot ethics and ergonomics, arguing technologies are not value-neutral. It presents Value Sensitive Design and Care-Centered VSD, illustrated by the RoMi nursing-home robot project, and briefly notes the contested idea of robots as moral agents.",
+  "key_provisions_or_claims": [
+   "Technological artifacts, especially robots, are not ethically neutral.",
+   "Ergonomics embodies values such as well-being, safety, accessibility and trust.",
+   "Value Sensitive Design is the main framework for embedding values in robot development.",
+   "Care-Centered VSD, applied in the RoMi project, suits healthcare robots.",
+   "Calling a robot 'ethical' or proposing ethics certification is problematic."
+  ],
+  "confidence": 0.85
+ }
+}

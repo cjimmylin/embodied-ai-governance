@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-46d2a2e2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0838818,
+  "in": 2,
+  "out": 1963,
+  "cache_read": 11758,
+  "cache_create": 15768,
+  "api_ms": 11487,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Directive amending Council Directive 98/58/EC and Directive 2009/128/EC as regards the simplification and strengthening of food and feed safety requirements, and repealing Council Directives 82/711/EEC and 85/572/EEC",
+  "title_en": "Proposal for a Directive amending Council Directive 98/58/EC and Directive 2009/128/EC as regards the simplification and strengthening of food and feed safety requirements, and repealing Council Directives 82/711/EEC and 85/572/EEC",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "EUR-Lex COM(2025) 1021 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "agricultural_robots"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "sustainability_environment",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "European Commission omnibus proposal (December 2025) simplifying food and feed safety law. It amends the Sustainable Use of Pesticides Directive to let Member States exempt certain risk-assessed drones from the aerial spraying ban, subject to delegated acts and pesticide authorisation. It also removes duplicate animal record-keeping and repeals two obsolete plastics directives.",
+  "key_provisions_or_claims": [
+   "New Article 9a lets Member States exempt specified unmanned aircraft systems from the aerial spraying ban for professional users.",
+   "Commission must adopt a delegated act within 4 years identifying drone types with risks equal to or lower than land-based equipment.",
+   "Pesticides must be explicitly authorised for drone application under Regulation 1107/2009; EFSA to develop risk assessment guidance.",
+   "Drone use remains subject to EU drone rules on remote pilot competence and operational limits.",
+   "Deletes duplicate record-keeping in Directive 98/58/EC and repeals Directives 82/711/EEC and 85/572/EEC."
+  ],
+  "confidence": 0.9
+ }
+}

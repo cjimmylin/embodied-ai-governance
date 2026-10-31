@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-fc42b2b1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027805800000000002,
+  "in": 2,
+  "out": 1755,
+  "cache_read": 11758,
+  "cache_create": 2269,
+  "api_ms": 9469,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Autonomous weapon systems (New Zealand policy position and international approach)",
+  "title_en": "Autonomous weapon systems (New Zealand policy position and international approach)",
+  "language": "en",
+  "authors_or_issuer": "New Zealand Ministry of Foreign Affairs and Trade (MFAT)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "MFAT website",
+  "jurisdiction_country": "NZ",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "NZ",
+   "US"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "ethics_principles"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "New Zealand MFAT web page describing the country's policy on autonomous weapon systems, set by Cabinet in 2021 and reaffirmed in 2024. It outlines support for legally binding international rules, CCW GGE engagement, the 2023 UNGA co-sponsorship, endorsement of the US political declaration, and domestic survey and working group activity.",
+  "key_provisions_or_claims": [
+   "NZ seeks binding international prohibitions and regulation of autonomous weapon systems",
+   "Active participation in the CCW Group of Governmental Experts on LAWS",
+   "Co-sponsored 2023 UNGA resolution requesting a UN Secretary-General report on AWS",
+   "Endorsed US-led Political Declaration on Responsible Military Use of AI and Autonomy as an interim measure",
+   "Domestic public survey (2021) and an AWS Working Group (2022, currently paused)"
+  ],
+  "confidence": 0.85
+ }
+}

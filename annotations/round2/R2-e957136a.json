@@ -1,0 +1,116 @@
+{
+ "doc_id": "R2-e957136a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2023838,
+  "in": 2,
+  "out": 2010,
+  "cache_read": 11758,
+  "cache_create": 45276,
+  "api_ms": 11335,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Real Decreto 1036/2017, de 15 de diciembre, por el que se regula la utilización civil de las aeronaves pilotadas por control remoto",
+  "title_en": "Royal Decree 1036/2017 of 15 December regulating the civil use of remotely piloted aircraft",
+  "language": "es",
+  "authors_or_issuer": "Ministerio de la Presidencia y para las Administraciones Territoriales (Spain), published in BOE",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2017,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Boletín Oficial del Estado (BOE-A-2017-15721)",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ES"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "agriculture_food",
+   "public_administration_justice",
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "civil_liability",
+   "privacy_data_protection",
+   "cybersecurity",
+   "human_oversight_control",
+   "education_training",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "insurance_requirement",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "prohibitions_bans",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Spanish Royal Decree 1036/2017 sets the legal regime for civil remotely piloted aircraft (drones) outside EU rules: identification, airworthiness, airspace conditions, operator duties, insurance, pilot qualifications, and prior notification or authorisation by AESA. Autonomous aircraft are not permitted. Consolidated page notes it was repealed from 25 June 2024 by RD 517/2024.",
+  "key_provisions_or_claims": [
+   "Pilot must be able to intervene in flight at all times; autonomous aircraft are not permitted in Spanish airspace",
+   "Operators need aeronautical safety study, third-party liability insurance, and data-protection compliance",
+   "Prior notification to AESA for RPA up to 25 kg; authorisation for heavier, BVLOS, controlled airspace or night flights",
+   "Remote pilots must be 18+, hold medical certificate and theoretical and practical training",
+   "Restrictions on overflight of critical infrastructure and urban areas; repealed from 25 June 2024 by RD 517/2024"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "doc_id": "D0294",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:51:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1283938,
+  "in": 2,
+  "out": 1729,
+  "cache_read": 11758,
+  "cache_create": 27481,
+  "api_ms": 10669,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "دليل أدوات الذكاء الاصطناعي (النسخة الأولى 2026)",
+  "title_en": "Guide to Artificial Intelligence Tools (First Edition 2026)",
+  "language": "ar",
+  "authors_or_issuer": "Information & eGovernment Authority (iGA), Kingdom of Bahrain",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "bahrain.bh",
+  "jurisdiction_country": "BH",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BH"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "human_oversight_control",
+   "education_training",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "education_training_programs",
+   "human_oversight_requirement",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Bahrain's iGA practical guide cataloguing generative AI tools by use case (text, video, software engineering, design, accounting, HR, etc.) for government and professionals. It closes with voluntary guiding principles for responsible use: governance, verification, transparency, training, and keeping humans as decision-makers. No embodied AI content.",
+  "key_provisions_or_claims": [
+   "Catalogues AI tools by domain to help entities select and adopt them",
+   "Avoid entering personal or sensitive data into open AI tools",
+   "Always verify AI outputs; beware hallucinations",
+   "Disclose AI's assisting role in official reports and decisions",
+   "Humans must remain the primary decision-makers; AI augments rather than replaces"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0678",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:56:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029761800000000005,
+  "in": 2,
+  "out": 1667,
+  "cache_read": 11758,
+  "cache_create": 2978,
+  "api_ms": 12114,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Guidelines and Companion Guide on Securing AI Systems",
+  "title_en": "Guidelines and Companion Guide on Securing AI Systems",
+  "language": "en",
+  "authors_or_issuer": "Cyber Security Agency of Singapore",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Cyber Security Agency of Singapore website",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Singapore Cyber Security Agency landing page presenting its Guidelines on Securing AI Systems and a community-driven, non-prescriptive Companion Guide. They promote secure-by-design and secure-by-default AI across its lifecycle, addressing classical and adversarial machine learning risks, and are maintained as living resources.",
+  "key_provisions_or_claims": [
+   "AI systems should be secure by design and secure by default.",
+   "Guidelines help system owners secure AI throughout its lifecycle.",
+   "Covers classical risks such as supply chain attacks and novel risks such as adversarial machine learning.",
+   "Companion Guide is community-driven and non-prescriptive, referencing MITRE ATLAS and OWASP Top 10.",
+   "Documents will be updated as living resources."
+  ],
+  "confidence": 0.85
+ }
+}

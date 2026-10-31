@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-1cc83318",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.060207800000000006,
+  "in": 2,
+  "out": 2002,
+  "cache_read": 11758,
+  "cache_create": 9752,
+  "api_ms": 12266,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Arrêté numéro 2018-16 du ministre des Transports, de la Mobilité durable et de l'Électrification des transports — Projet-pilote relatif aux autobus et aux minibus autonomes",
+  "title_en": "Order No. 2018-16 of the Minister of Transport — Pilot Project on Autonomous Buses and Minibuses",
+  "language": "fr",
+  "authors_or_issuer": "Ministre des Transports, de la Mobilité durable et de l'Électrification des transports (Québec)",
+  "issuer_type": "subnational_government",
+  "pub_year": 2018,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Gazette officielle du Québec",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "industrial_policy_innovation",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "insurance_requirement",
+   "liability_regime",
+   "incident_reporting",
+   "human_oversight_requirement",
+   "education_training_programs",
+   "oversight_body_creation",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Quebec ministerial order establishing a five-year pilot project allowing experimentation with autonomous buses and minibuses (SAE J3016 level 3-5) on public roads. It sets eligibility, registration, driver training, incident reporting, $1M minimum liability insurance, manufacturer reimbursement of insurer indemnities, and authorizes a Keolis/Navya shuttle trial in Candiac.",
+  "key_provisions_or_claims": [
+   "Pilot project authorizes testing autonomous buses/minibuses (SAE J3016 level 4-5, or 3 if not sold in Canada) for up to five years.",
+   "Promoters must submit project applications, register vehicles, and train drivers who must be able to take over immediately.",
+   "Mandatory immediate reporting of accidents, safety events and defects; annual experimentation reports including disengagements.",
+   "Minimum liability insurance of $1,000,000; manufacturer/distributor must reimburse the Société de l'assurance automobile and post a bond.",
+   "Authorizes Keolis Canada Innovation to operate a Navya Autonom Shuttle in Candiac, with no passengers for the first two weeks."
+  ],
+  "confidence": 0.9
+ }
+}

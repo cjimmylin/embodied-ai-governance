@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0617",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:12:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.05991160000000001,
+  "in": 2,
+  "out": 1906,
+  "cache_read": 11758,
+  "cache_create": 2429,
+  "api_ms": 13992,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ロボット事故における刑事責任 (Criminal Liability in the Case of Robotics Accident)",
+  "title_en": "Criminal Liability in the Case of Robotics Accident",
+  "language": "ja",
+  "authors_or_issuer": "Inatani, T.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.7210/jrsj.38.37",
+  "venue": "Journal of the Robotics Society of Japan (JRSJ), Vol. 38 No. 1, pp. 37-40",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "safety_physical_harm",
+   "human_oversight_control"
+  ],
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "Japan Penal Code Article 211 (professional negligence causing death or injury)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Short Japanese-language article by Tatsuhiko Inatani (Kyoto University) in the Journal of the Robotics Society of Japan (2020). It looks at criminal liability, mainly professional negligence under Penal Code Art. 211, when robotics accidents cause injury or death. It considers how negligence doctrine applies to developers and users of autonomous robots. Only fragments of the extracted text survive.",
+  "key_provisions_or_claims": [
+   "Analyses how Japanese criminal negligence law (Penal Code Art. 211) applies to accidents involving robots",
+   "Discusses who among developers, manufacturers and operators may be criminally liable when an autonomous system causes harm",
+   "Considers foreseeability and the human sense of agency in assigning blame",
+   "Treats overly broad criminal liability as a possible barrier to robotics innovation"
+  ],
+  "confidence": 0.5
+ }
+}

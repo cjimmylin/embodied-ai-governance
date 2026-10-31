@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-daced64f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0270338,
+  "in": 2,
+  "out": 1699,
+  "cache_read": 11758,
+  "cache_create": 2216,
+  "api_ms": 8176,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Maritime UK launches Version 7 of the Industry Code of Practice for Maritime Autonomous Ship Systems",
+  "title_en": "Maritime UK launches Version 7 of the Industry Code of Practice for Maritime Autonomous Ship Systems",
+  "language": "en",
+  "authors_or_issuer": "Maritime UK",
+  "issuer_type": "industry_association",
+  "pub_year": 2023,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Maritime UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_maritime_or_rail"
+  ],
+  "primary_embodied_category": "autonomous_maritime_or_rail",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "News release announcing Version 7 of Maritime UK's voluntary Industry Code of Practice for Maritime Autonomous Ship Systems, adding guidance on inland waterways and operator standards. The non-legal Code guides certification, assurance and safety ahead of anticipated international and national regulation.",
+  "key_provisions_or_claims": [
+   "Version 7 of the MASS Code of Practice released in November 2023",
+   "New guidance on inland waterways and operator standards",
+   "The Code is not a legal text but is often required contractually",
+   "Provides guidance on certification, assurance and safety",
+   "Supports industry ahead of anticipated regulatory frameworks"
+  ],
+  "confidence": 0.9
+ }
+}

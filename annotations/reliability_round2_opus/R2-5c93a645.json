@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-5c93a645",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:13:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.058199600000000004,
+  "in": 2,
+  "out": 1816,
+  "cache_read": 11758,
+  "cache_create": 2440,
+  "api_ms": 12722,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Taxonomy and Definitions for Terms Related to Cooperative Driving Automation for On-Road Motor Vehicles (SAE J3216_202107)",
+  "title_en": "Taxonomy and Definitions for Terms Related to Cooperative Driving Automation for On-Road Motor Vehicles (SAE J3216_202107)",
+  "language": "en",
+  "authors_or_issuer": "SAE International",
+  "issuer_type": "standards_body",
+  "pub_year": 2021,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": "10.4271/J3216_202107",
+  "venue": "SAE Mobilus",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "cybersecurity"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "SAE J3016"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "SAE J3216 (July 2021 revision) is an information report that sets out a taxonomy and definitions for cooperative driving automation. It covers machine-to-machine communication among automated vehicles, other road users and road operators to support the dynamic driving task. Its stated aims are better traffic safety and flow and a common vocabulary for designing and validating CDA. It was superseded by the 2025 revision.",
+  "key_provisions_or_claims": [
+   "Defines cooperative driving automation (CDA) as M2M communication supporting the dynamic driving task for vehicles with automation features engaged",
+   "Participants include automated vehicles, shared road users and road operators",
+   "Information shared can include state, intent, or agreement on a plan such as a coordinated merge",
+   "States that driving automation does not require cooperation to be performed safely",
+   "Technology-neutral and focused on applications rather than communication protocols; strategic functions like trip scheduling are out of scope"
+  ],
+  "confidence": 0.8
+ }
+}

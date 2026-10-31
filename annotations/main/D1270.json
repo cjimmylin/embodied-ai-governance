@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1270",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:41:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0622269,
+  "in": 4,
+  "out": 3436,
+  "cache_read": 28669,
+  "cache_create": 6905,
+  "api_ms": 21994,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "healthcare",
+   "research_science"
+  ],
+  "authors_or_issuer": "European Commission, DG CONNECT",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "data_governance_requirements",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "trust_acceptance",
+   "ethics_principles"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Builds a federated European infrastructure (Cancer Image Europe platform via EUCAIM) for cancer imaging data",
+   "Supports development, benchmarking and clinical validation of AI tools",
+   "Aligns with European Health Data Space and data protection rules",
+   "Platform connects 83 datasets and 50 AI tools as of September 2025",
+   "Links to TEF-Health testing facility and Apply AI Strategy"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 11,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "European Commission web page describing the European Cancer Imaging Initiative, a flagship of Europe's Beating Cancer Plan. It builds a federated cancer imaging data infrastructure (Cancer Image Europe/EUCAIM) to support AI development and clinical validation, aligned with the European Health Data Space and data protection rules.",
+  "title_clean": "European Cancer Imaging Initiative | Shaping Europe's digital future",
+  "title_en": "European Cancer Imaging Initiative | Shaping Europe's digital future",
+  "venue": "Shaping Europe's digital future (European Commission)"
+ }
+}

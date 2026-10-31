@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0511",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:39:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.043179800000000004,
+  "in": 2,
+  "out": 1820,
+  "cache_read": 11758,
+  "cache_create": 5950,
+  "api_ms": 8859,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Moonshot Goal 3 Call for Proposals: Recruitment and Selection Policy (general-purpose autonomous humanoid AI robots)",
+  "title_en": "Moonshot Goal 3 Call for Proposals: Recruitment and Selection Policy (general-purpose autonomous humanoid AI robots)",
+  "language": "en",
+  "authors_or_issuer": "Moonshot R&D Program, Goal 3 Program Director (Japan)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Moonshot R&D Program (JST)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "procurement_or_internal_policy",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "research_science",
+   "cross_sector",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "research_ethics",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japan's Moonshot Goal 3 call for proposals seeking R&D on general-purpose autonomous humanoid AI robots by 2050. It defines three research categories (Integrated, Specialized, Elemental) with budgets, selection criteria, 2030 prototype targets, ELSI inclusion, industry-academia collaboration and security considerations in international cooperation.",
+  "key_provisions_or_claims": [
+   "Goal: AI robots that autonomously learn, adapt and act alongside humans by 2050",
+   "Three categories: Integrated (3bn yen), Specialized (1bn yen), Elemental (100m yen)",
+   "Integrated research must address ELSI and industry-academia collaboration",
+   "2030 target: prototype humanoid suitable for private investment",
+   "International collaboration proposals must consider security"
+  ],
+  "confidence": 0.7
+ }
+}

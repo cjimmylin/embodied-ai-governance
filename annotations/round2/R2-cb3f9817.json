@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-cb3f9817",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:54:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028205800000000003,
+  "in": 2,
+  "out": 1789,
+  "cache_read": 11758,
+  "cache_create": 2284,
+  "api_ms": 12511,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "King's Printer of Acts of Parliament (UK Secretary of State)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "data_governance_requirements",
+   "licensing_registration"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "criminal_liability",
+   "consumer_protection",
+   "privacy_data_protection"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "First commencement regulations under the Automated Vehicles Act 2024, made 15 December 2025.",
+   "Sections 55 and 56 in force 1 January 2026: tampering and unsuitable-parts offences extended to software.",
+   "Section 78 commenced for making regulations: restricts terms to authorised automated vehicles.",
+   "Sections 88 and 89 commenced for making regulations: information sharing and permit administration."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "Road Traffic Act 1988"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2025,
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "UK statutory instrument (SI 2025/1339) commencing parts of the Automated Vehicles Act 2024. From 1 January 2026 it brings into force the software-inclusive tampering and unsuitable-parts offences, and enables regulation-making powers on restricted terms for automated vehicles, information sharing and permit administration.",
+  "title_clean": "The Automated Vehicles Act 2024 (Commencement No. 1) Regulations 2025",
+  "title_en": "The Automated Vehicles Act 2024 (Commencement No. 1) Regulations 2025",
+  "venue": "legislation.gov.uk",
+  "methodology": "not_applicable",
+  "publication_stage": "not_applicable"
+ }
+}

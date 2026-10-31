@@ -1,0 +1,101 @@
+{
+ "doc_id": "D0273",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:40:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028325800000000005,
+  "in": 2,
+  "out": 1709,
+  "cache_read": 11758,
+  "cache_create": 2514,
+  "api_ms": 8352,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "سياسة أمن المعلومات - وزارة الاقتصاد الرقمي والريادة",
+  "title_en": "Information Security Policy - Ministry of Digital Economy and Entrepreneurship",
+  "language": "ar",
+  "authors_or_issuer": "Ministry of Digital Economy and Entrepreneurship (Jordan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "Ministry of Digital Economy and Entrepreneurship website",
+  "jurisdiction_country": "JO",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JO"
+  ],
+  "doc_type": "procurement_or_internal_policy",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "trust_acceptance",
+   "education_training"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "ISO/IEC 27001"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Internal information security policy of Jordan's Ministry of Digital Economy and Entrepreneurship. It commits to confidentiality, availability and integrity of information assets, applies ISO 27001 through a steering committee, applies to staff and contractors, and bases controls on risk assessment. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Ministry adopts ISO 27001 information security management system",
+   "Steering committee chaired by the Secretary General oversees information security",
+   "Policy binds permanent and temporary staff, contractors and partners",
+   "Controls based on risk assessment, business impact and cost-benefit comparison",
+   "Promotes security culture through professional training"
+  ],
+  "confidence": 0.85
+ }
+}

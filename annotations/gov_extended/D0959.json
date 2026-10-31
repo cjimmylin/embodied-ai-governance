@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0959",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:46:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0351258,
+  "in": 2,
+  "out": 1689,
+  "cache_read": 11758,
+  "cache_create": 4264,
+  "api_ms": 14173,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Notice to the Parties and the Profession: The Use of Artificial Intelligence in Court Proceedings",
+  "title_en": "Notice to the Parties and the Profession: The Use of Artificial Intelligence in Court Proceedings",
+  "language": "en",
+  "authors_or_issuer": "Federal Court of Canada",
+  "issuer_type": "court_or_judiciary",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Court of Canada",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "court_decision_or_judicial_notice",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "human_oversight_control",
+   "fairness_bias_discrimination",
+   "civil_liability",
+   "ethics_principles"
+  ],
+  "primary_topic": "transparency_explainability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Federal Court of Canada notice requiring parties and counsel to declare in the first paragraph when filed litigation documents contain AI-generated content. It sets principles of caution, human-in-the-loop verification and neutrality, and notes the Court will not use automated decision-making without public consultation.",
+  "key_provisions_or_claims": [
+   "Mandatory Declaration in first paragraph when filings contain AI-generated content",
+   "Not required where AI only suggests edits or critiques human-written text",
+   "Principles: caution, human in the loop verification, neutrality (no adverse inference)",
+   "Signing party remains responsible for accuracy of submissions",
+   "Court will not use AI for decisions without public consultation"
+  ],
+  "confidence": 0.92
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-8049b5dc",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:57:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.047043800000000004,
+  "in": 2,
+  "out": 1880,
+  "cache_read": 11758,
+  "cache_create": 6766,
+  "api_ms": 11532,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Possible outcome of 2019 Group of Governmental Experts and future actions of international community on Lethal Autonomous Weapons Systems",
+  "title_en": "Possible outcome of 2019 Group of Governmental Experts and future actions of international community on Lethal Autonomous Weapons Systems",
+  "language": "en",
+  "authors_or_issuer": "Government of Japan (submitted to CCW GGE on LAWS)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN CCW Group of Governmental Experts on LAWS (CCW/GGE.1/2019/WP.3)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "proposal_or_concept",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "civil_liability",
+   "transparency_explainability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Japan's working paper to the CCW GGE on LAWS argues rules should target lethal, fully autonomous weapons lacking meaningful human control, without restricting civilian autonomous-technology R&D. It stresses IHL compliance and State/individual responsibility, proposes Article 36 weapons-review reporting for confidence building, and favours a political outcome document over a binding instrument.",
+  "key_provisions_or_claims": [
+   "Scope of rules should be limited to lethal, fully autonomous weapons without meaningful human control",
+   "Meaningful human control is indispensable and underpins responsibility attribution",
+   "R&D on autonomous technologies should not be restricted merely due to potential diversion to weapons",
+   "IHL violations by autonomous systems attributable to States or individuals",
+   "Binding instrument premature; propose outcome document and Article 36 reporting via CCW annual reports"
+  ],
+  "confidence": 0.9
+ }
+}

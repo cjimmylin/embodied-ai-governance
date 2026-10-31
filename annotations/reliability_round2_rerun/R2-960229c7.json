@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-960229c7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:03:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1775558,
+  "in": 2,
+  "out": 1862,
+  "cache_read": 11758,
+  "cache_create": 39439,
+  "api_ms": 10049,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Regulation on type-approval of motor vehicles and engines with respect to their emissions and battery durability (Euro 7)",
+  "title_en": "Proposal for a Regulation on type-approval of motor vehicles and engines with respect to their emissions and battery durability (Euro 7)",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2022) 586 final; 2022/0365(COD)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "consumer_protection",
+   "standards_interoperability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "prohibitions_bans",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission proposal for the Euro 7 Regulation, replacing Regulations 715/2007 and 595/2009. It sets tighter tailpipe and non-exhaust emission limits, battery durability minimums, on-board monitoring, anti-tampering and cybersecurity requirements for cars, vans, lorries and buses. It is conventional vehicle type-approval, with no AI or autonomy provisions.",
+  "key_provisions_or_claims": [
+   "Single Euro 7 regulation merges light- and heavy-duty emission type-approval",
+   "Stricter limits for tailpipe, brake, tyre and evaporative emissions, with extended durability",
+   "Mandatory on-board monitoring (OBM), OBFCM and battery state-of-health monitors",
+   "Anti-tampering and cybersecurity requirements referencing UN Regulation 155",
+   "Application from July 2025 for cars/vans and July 2027 for heavy vehicles"
+  ],
+  "confidence": 0.93
+ }
+}

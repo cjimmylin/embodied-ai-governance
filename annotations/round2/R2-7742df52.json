@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-7742df52",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1767158,
+  "in": 2,
+  "out": 1792,
+  "cache_read": 11758,
+  "cache_create": 39404,
+  "api_ms": 10033,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Interim Evaluation of the Digital Europe Programme",
+  "title_en": "Interim Evaluation of the Digital Europe Programme",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Commission SWD(2025) 420 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "healthcare",
+   "research_science"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "education_training",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "education_training_programs",
+   "audits_impact_assessment",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "mixed",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Commission staff working document evaluating the Digital Europe Programme (2021–2024) on effectiveness, efficiency, relevance, coherence and EU added value across six objectives (HPC, AI, cybersecurity, skills, digital deployment, semiconductors). Finds the programme on track with funding leverage but burdensome administratively. Robotics and AI testing facilities appear only incidentally.",
+  "key_provisions_or_claims": [
+   "Programme committed EUR 3.0bn of EUR 8.16bn budget by end-2024 and is on track for milestones.",
+   "AI Testing and Experimentation Facilities support AI Act compliance, including health AI and robotics.",
+   "Barriers: security restrictions, ownership control checks, 50% co-funding rate and national funding misalignment.",
+   "Administrative costs are 4.9% of programme costs; applicant burden higher than Horizon Europe.",
+   "Recommends simplification such as lump sums, vouchers and digital tools for the next phase."
+  ],
+  "confidence": 0.9
+ }
+}

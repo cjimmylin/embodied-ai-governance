@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-0ad9c6c9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:34:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0448898,
+  "in": 2,
+  "out": 1983,
+  "cache_read": 11758,
+  "cache_create": 5970,
+  "api_ms": 10183,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "市场监管总局等七部门关于印发《以标准提升牵引设备更新和消费品以旧换新行动方案》的通知",
+  "title_en": "Notice by SAMR and Six Other Departments on Issuing the Action Plan for Standards Improvement to Drive Equipment Renewal and Consumer Goods Trade-in",
+  "language": "zh",
+  "authors_or_issuer": "国家市场监督管理总局 (SAMR) et al. (NDRC, MIIT, MEE, MOHURD, MOFCOM, MEM)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "State Council / SAMR official portal",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "drones_uas",
+   "agricultural_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "manufacturing",
+   "domestic_consumer",
+   "energy_environment",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "industrial_policy_innovation",
+   "sustainability_environment",
+   "safety_physical_harm",
+   "consumer_protection",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "conformity_assessment_certification",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Chinese seven-ministry action plan, approved by the State Council, to accelerate revision of 294 national standards by 2025 supporting equipment renewal and consumer trade-ins. Covers energy efficiency, emissions, safety, recycling. Embodied-AI content is minor: autonomous driving and lidar standards, drone airworthiness standards, and a regulatory sandbox for intelligent driving.",
+  "key_provisions_or_claims": [
+   "Complete 294 key national standards by 2025 (129 in 2024, 165 in 2025)",
+   "Strengthen standards for autonomous driving, lidar and intelligent connected vehicle cybersecurity and data security",
+   "Develop standards for drone flight testing, logistics drones and airworthiness to support the low-altitude economy",
+   "Explore a product-safety 'sandbox regulation' system for intelligent driving",
+   "Raise consistency of consumer-goods standards with international standards to over 96%"
+  ],
+  "confidence": 0.9
+ }
+}

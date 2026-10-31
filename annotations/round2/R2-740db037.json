@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-740db037",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026729800000000005,
+  "in": 2,
+  "out": 1683,
+  "cache_read": 11758,
+  "cache_create": 2180,
+  "api_ms": 9566,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/TR 23049:2018 Road Vehicles — Ergonomic aspects of external visual communication from automated vehicles to other road users",
+  "title_en": "ISO/TR 23049:2018 Road Vehicles — Ergonomic aspects of external visual communication from automated vehicles to other road users",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 22/SC 39",
+  "issuer_type": "standards_body",
+  "pub_year": 2018,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "human_robot_interaction_social_effects",
+   "safety_physical_harm",
+   "trust_acceptance"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO/TR 23049:2018, a technical report giving guidance for developers of external visual communication systems on automated driving system-dedicated vehicles, proposing how such vehicles communicate with other road users so messages can be understood by society.",
+  "key_provisions_or_claims": [
+   "Guidance for developers of external visual communication on ADS-dedicated vehicles (SAE J3016)",
+   "Recommends types of external visual messaging with methodological rationale",
+   "Does not address functional elements of the communication system itself",
+   "Published September 2018 by ISO/TC 22/SC 39"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-bdb78b20",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:35:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0364718,
+  "in": 2,
+  "out": 1840,
+  "cache_read": 11758,
+  "cache_create": 4223,
+  "api_ms": 9433,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "商务部等7部门关于提质增效实施2026年消费品以旧换新政策的通知",
+  "title_en": "Notice of the Ministry of Commerce and 6 Other Departments on Improving Quality and Efficiency in Implementing the 2026 Consumer Goods Trade-In Policy",
+  "language": "zh",
+  "authors_or_issuer": "商务部; 国家发展改革委; 工业和信息化部; 公安部; 财政部; 税务总局; 市场监管总局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "domestic_consumer",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "consumer_protection",
+   "sustainability_environment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "audits_impact_assessment",
+   "licensing_registration",
+   "transparency_disclosure_labelling",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Chinese multi-ministry notice on implementing the 2026 consumer goods trade-in subsidy programme. It sets national subsidy standards for cars and appliances, gives localities autonomy, encourages subsidies for new-generation AI smart terminals under the 'AI+' initiative, and strengthens fraud prevention and oversight.",
+  "key_provisions_or_claims": [
+   "Unified national subsidy standards for four areas: car scrappage, car replacement, six appliance types, four digital/smart products.",
+   "Localities may use matching funds for AI smart terminals aligned with the State Council 'AI+' action.",
+   "Subsidy categories to follow AI terminal intelligence grading standards.",
+   "Price filing, merchant list management, and real-name verification to prevent subsidy fraud.",
+   "Cross-department data sharing and complaint channels for supervision."
+  ],
+  "confidence": 0.9
+ }
+}

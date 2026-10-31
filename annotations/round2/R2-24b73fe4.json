@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-24b73fe4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:13:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028503800000000003,
+  "in": 2,
+  "out": 1778,
+  "cache_read": 11758,
+  "cache_create": 2386,
+  "api_ms": 10735,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "IEEE 7007-2021 IEEE Ontological Standard for Ethically Driven Robotics and Automation Systems",
+  "title_en": "IEEE 7007-2021 IEEE Ontological Standard for Ethically Driven Robotics and Automation Systems",
+  "language": "en",
+  "authors_or_issuer": "IEEE Robotics and Automation Society, RAS/SC Standing Committee for Standards (IEEE SA)",
+  "issuer_type": "standards_body",
+  "pub_year": 2021,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "IEEE Standards Association",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "other_embodied"
+  ],
+  "primary_embodied_category": "other_embodied",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "IEEE 7000 series"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "IEEE catalogue page for IEEE 7007-2021, an ontological standard establishing ontologies of concepts, definitions and axioms to support ethically driven design of robotics and automation systems and common terminology across communities. Also mentions the in-development P7007.1 on classifying AI risks in robots.",
+  "key_provisions_or_claims": [
+   "Establishes ontologies at different abstraction levels with concepts, definitions, axioms and use cases for ethically driven robotics and automation.",
+   "Serves as a guideline or reference taxonomy for communication among robotics, ethics and related communities.",
+   "Axiomatization expressed in Common Logic Interchange Format.",
+   "Published 12 Nov 2021 by IEEE RAS Standing Committee for Standards.",
+   "P7007.1 under development to define and classify AI risks for robots, based on 7007-2021."
+  ],
+  "confidence": 0.85
+ }
+}

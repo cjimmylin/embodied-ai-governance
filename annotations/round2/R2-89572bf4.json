@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-89572bf4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0283638,
+  "in": 2,
+  "out": 1696,
+  "cache_read": 11758,
+  "cache_create": 2556,
+  "api_ms": 9148,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "CEN-CENELEC JTC 21 – Artificial Intelligence",
+  "title_en": "CEN-CENELEC JTC 21 – Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "CEN and CENELEC",
+  "issuer_type": "standards_body",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "CEN-CENELEC website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "cybersecurity",
+   "transparency_explainability",
+   "human_oversight_control"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Web page describing CEN-CENELEC Joint Technical Committee 21, established June 2021, which develops European AI standards, including harmonized standards supporting the EU AI Act, to give a presumption of conformity. It outlines working groups, key standards, ISO/IEC collaboration, stakeholder inclusiveness and membership.",
+  "key_provisions_or_claims": [
+   "JTC 21 develops harmonized AI standards supporting the EU AI Act",
+   "Harmonized standards published in OJEU give presumption of conformity",
+   "Five working groups cover strategy, implementation, design, ethics and security",
+   "Adopts ISO/IEC standards and develops European ones where needed",
+   "Inclusiveness task group engages SMEs, NGOs and trade unions"
+  ],
+  "confidence": 0.85
+ }
+}

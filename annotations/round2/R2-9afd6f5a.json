@@ -1,0 +1,114 @@
+{
+ "doc_id": "R2-9afd6f5a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06680509999999999,
+  "in": 4,
+  "out": 3840,
+  "cache_read": 28646,
+  "cache_create": 7135,
+  "api_ms": 19506,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "De Novo Classification Order for ReWalk Powered Exoskeleton (K131798)",
+  "title_en": "De Novo Classification Order for ReWalk Powered Exoskeleton (K131798)",
+  "language": "en",
+  "authors_or_issuer": "U.S. Food and Drug Administration, Center for Devices and Radiological Health (CDRH)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2014,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "FDA CDRH",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "primary_embodied_category": "rehabilitation_exoskeleton_prosthetic",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "consumer_protection",
+   "education_training",
+   "transparency_explainability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "incident_reporting",
+   "education_training_programs",
+   "licensing_registration",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "FD&C Act",
+   "FDASIA",
+   "21 CFR Part 820",
+   "21 CFR Part 801",
+   "21 CFR Part 807",
+   "21 CFR Part 803"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "FDA de novo order classifying the Argo ReWalk powered exoskeleton, and substantially equivalent devices, as class II. It sets special controls: biocompatibility, electrical and mechanical safety, software validation, performance and clinical testing, user and companion training, and labeling. 510(k) premarket notification is still required.",
+  "key_provisions_or_claims": [
+   "Powered exoskeletons are classified into class II under the generic name 'Powered Exoskeleton'.",
+   "Special controls cover biocompatibility, EMC/EMI, electrical, thermal and mechanical safety, and battery testing.",
+   "Software verification, validation and hazard analysis are required.",
+   "Clinical testing must address level of supervision and environment of use.",
+   "Training program, detailed labeling and 510(k) premarket notification are mandatory."
+  ],
+  "confidence": 0.9
+ }
+}

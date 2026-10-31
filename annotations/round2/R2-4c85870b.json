@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-4c85870b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:17:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0366058,
+  "in": 2,
+  "out": 1823,
+  "cache_read": 11758,
+  "cache_create": 4299,
+  "api_ms": 11218,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Maine Revised Statutes Title 25 §4501. Regulation of unmanned aerial vehicles",
+  "title_en": "Maine Revised Statutes Title 25 §4501. Regulation of unmanned aerial vehicles",
+  "language": "en",
+  "authors_or_issuer": "Maine Legislature (Office of the Revisor of Statutes)",
+  "issuer_type": "subnational_government",
+  "pub_year": 2015,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Maine Revised Statutes (legislature.maine.gov)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "security_policing_robots"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "public_administration_justice",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "human_oversight_control",
+   "safety_physical_harm",
+   "civil_liability",
+   "education_training",
+   "military_use_ihl",
+   "transparency_explainability"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "human_oversight_requirement",
+   "data_governance_requirements",
+   "incident_reporting",
+   "education_training_programs",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Maine statute regulating law enforcement use of unmanned aerial vehicles. It requires governing-body approval for acquisition, FAA compliance, warrants for criminal investigations, and bans weaponized drones. It also requires minimum policy standards on privacy, training, data destruction and accountability, plus annual reporting to the Legislature.",
+  "key_provisions_or_claims": [
+   "Law enforcement UAV acquisition requires approval by governing body or agency commissioner",
+   "Warrant required for criminal investigation use, subject to constitutional exceptions",
+   "Weaponized UAVs prohibited for state and local law enforcement",
+   "Maine Criminal Justice Academy must set minimum standards on training, privacy, data destruction, tracking and accountability",
+   "Commissioner of Public Safety reports annually to the Legislature on UAV deployments"
+  ],
+  "confidence": 0.95
+ }
+}

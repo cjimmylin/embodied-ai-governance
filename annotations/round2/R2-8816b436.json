@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-8816b436",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:56:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07386780000000001,
+  "in": 2,
+  "out": 1820,
+  "cache_read": 11758,
+  "cache_create": 13622,
+  "api_ms": 11106,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Final Document of the 2019 Meeting of the High Contracting Parties to the CCW (CCW/MSP/2019/9)",
+  "title_en": "Final Document of the 2019 Meeting of the High Contracting Parties to the CCW (CCW/MSP/2019/9)",
+  "language": "en",
+  "authors_or_issuer": "Meeting of the High Contracting Parties to the Convention on Certain Conventional Weapons (UN Geneva)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2019,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN CCW",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "cybersecurity"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "oversight_body_creation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Final report of the 2019 CCW Meeting of High Contracting Parties. It endorses the eleven guiding principles on lethal autonomous weapons systems affirmed by the Group of Governmental Experts and renews the GGE mandate for 2020–2021. It also covers CCW finances, a Working Capital Fund, and meeting schedules.",
+  "key_provisions_or_claims": [
+   "Endorses the GGE's guiding principles on LAWS (Annex III)",
+   "IHL applies fully to all weapons systems including LAWS",
+   "Human responsibility and accountability cannot be transferred to machines",
+   "GGE renewed: ten days in 2020, ten to twenty days in 2021, chaired by Latvia in 2020",
+   "Establishes a voluntary Working Capital Fund and adopts 2020–2021 budgets"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-79cc2219",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:39:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.3124318,
+  "in": 2,
+  "out": 1662,
+  "cache_read": 11758,
+  "cache_create": 73658,
+  "api_ms": 9637,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律",
+  "title_en": "Act on Special Temporary Measures for National Tax Laws concerning Victims of the Great East Japan Earthquake",
+  "language": "ja",
+  "authors_or_issuer": "National Diet of Japan (Government of Japan)",
+  "issuer_type": "legislature",
+  "pub_year": 2011,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "taxation_economic_policy",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Japanese tax statute (2011, revised to April 2026) providing temporary special tax measures for victims of the Great East Japan Earthquake, covering income, corporate, inheritance, registration, and consumption taxes. Unrelated to AI or robotics, apart from a passing mention of robotics as an eligible industry for Fukushima investment incentives.",
+  "key_provisions_or_claims": [
+   "Casualty-loss deductions and loss carry-forwards extended to five years for quake victims",
+   "Special depreciation and tax credits for equipment in Fukushima revitalization zones",
+   "Tax credits for hiring evacuee employees",
+   "Consumption-tax and vehicle-weight-tax relief for affected businesses",
+   "Passing reference to robotics among new-industry fields receiving higher incentives"
+  ],
+  "confidence": 0.95
+ }
+}

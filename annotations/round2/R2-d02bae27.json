@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-d02bae27",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.031177800000000006,
+  "in": 2,
+  "out": 1717,
+  "cache_read": 11758,
+  "cache_create": 3207,
+  "api_ms": 11447,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "First Committee (Disarmament and International Security Committee), 80th Session: Side Events and Documents",
+  "title_en": "First Committee (Disarmament and International Security Committee), 80th Session: Side Events and Documents",
+  "language": "en",
+  "authors_or_issuer": "UN Office for Disarmament Affairs",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "UN Office for Disarmament Affairs website",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "fairness_bias_discrimination",
+   "standards_interoperability"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UNODA page for the UN General Assembly First Committee's 80th session (8 Oct–7 Nov 2025), listing side events and documents. Events include military AI bias and multilateral policy on autonomous weapon systems; documents include the report A/80/78 on AI in the military domain.",
+  "key_provisions_or_claims": [
+   "First Committee 80th session runs 8 October to 7 November 2025",
+   "Side events include 'Legal and Humanitarian Implications of Bias in Military AI'",
+   "Side event 'Towards Multilateral Policy on Autonomous Weapon Systems' by SIPRI and Germany",
+   "Document A/80/78 addresses AI in the military domain and international peace and security",
+   "Document A/80/237 covers science and technology developments affecting disarmament"
+  ],
+  "confidence": 0.85
+ }
+}

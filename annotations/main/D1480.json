@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1480",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:46:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0298238,
+  "in": 2,
+  "out": 1748,
+  "cache_read": 11758,
+  "cache_create": 2791,
+  "api_ms": 14840,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ethical guide to development and deployment of robots",
+  "title_en": "Ethical guide to development and deployment of robots",
+  "language": "en",
+  "authors_or_issuer": "Tokhi, M.O.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": "10.13180/icres.2022.18-19.07.028",
+  "venue": "ICRES 2022: 7th International Conference on Robot Ethics and Standards, Seoul",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "privacy_data_protection",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "IEEE 7000 series"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Short conference abstract describing BS 8611:2016, the first ethical standard for robots, and its ongoing revision. The revision adds ethical risk assessment based on ISO 12100, design-oriented ethical guidelines, and verification and validation. It stresses that standards are voluntary but advantageous to adopt.",
+  "key_provisions_or_claims": [
+   "BS 8611:2016 was the first ethical robot design standard worldwide.",
+   "The revision adopts the ISO 12100 risk assessment approach for ethical risks (societal, application, commercial, environmental).",
+   "Ethical hazards such as privacy, dignity, human rights and cultural diversity are translated into design parameters.",
+   "Verification and validation will cover testing and formal methods.",
+   "Standards are voluntary, but compliance benefits manufacturers."
+  ],
+  "confidence": 0.85
+ }
+}

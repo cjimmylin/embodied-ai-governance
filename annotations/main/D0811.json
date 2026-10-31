@@ -1,0 +1,92 @@
+{
+ "doc_id": "D0811",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:28:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0585998,
+  "in": 2,
+  "out": 1602,
+  "cache_read": 11758,
+  "cache_create": 10350,
+  "api_ms": 8180,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "인공지능(AI) 국가전략 발표 - 보도자료",
+  "title_en": "Announcement of the National Strategy for Artificial Intelligence (AI) - Press Release",
+  "language": "ko",
+  "authors_or_issuer": "과학기술정보통신부 (Ministry of Science and ICT, Korea)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 12,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Ministry of Science and ICT (msit.go.kr)",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Ministry of Science and ICT press release page announcing Korea's National Strategy for AI (Dec 2019). The excerpt is mostly site navigation; the body text is not shown, only attachments (strategy PDF). The strategy is a general AI industrial and talent policy.",
+  "key_provisions_or_claims": [
+   "Press release announces Korea's national AI strategy (17 Dec 2019, per attachment filename)",
+   "Strategy PDF attached; the excerpt shows no body text",
+   "Page is mainly site navigation"
+  ],
+  "confidence": 0.55
+ }
+}

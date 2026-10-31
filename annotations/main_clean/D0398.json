@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0398",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:53:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.034645800000000004,
+  "in": 2,
+  "out": 1739,
+  "cache_read": 11758,
+  "cache_create": 4019,
+  "api_ms": 9327,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO Store",
+  "title_en": "ISO Store",
+  "language": "en",
+  "authors_or_issuer": "International Organization for Standardization (ISO)",
+  "issuer_type": "standards_body",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "ISO Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "autonomous_road_vehicles",
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "cybersecurity"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 10218",
+   "ISO/IEC 42001",
+   "ISO/IEC 27001",
+   "ISO 26262",
+   "ISO 31000",
+   "ISO 14971"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "ISO Store landing page listing top standards and bundles, including AI management (ISO/IEC 42001), AI data quality (ISO/IEC 5259), AI impact assessment (42005), industrial robot safety (ISO 10218-1/-2:2025), and road vehicle functional safety (ISO 26262). A catalogue page with little substantive content.",
+  "key_provisions_or_claims": [
+   "Offers ISO 10218-1 and -2:2025 industrial robot safety bundle",
+   "Offers ISO/IEC 42001 AI management system standard and 42005 impact assessment",
+   "Offers ISO 26262 road vehicle functional safety bundle",
+   "Prohibits use of ISO content for AI/ML training without permission"
+  ],
+  "confidence": 0.7
+ }
+}

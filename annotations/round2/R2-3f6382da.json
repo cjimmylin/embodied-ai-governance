@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-3f6382da",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:32:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1058476,
+  "in": 4,
+  "out": 3647,
+  "cache_read": 38646,
+  "cache_create": 17124,
+  "api_ms": 17837,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "铁路科技创新“十五五”规划",
+  "title_en": "Railway Science and Technology Innovation 15th Five-Year Plan",
+  "language": "zh",
+  "authors_or_issuer": "国家铁路局",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "国家铁路局",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_maritime_or_rail",
+   "drones_uas",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "autonomous_maritime_or_rail",
+  "application_sectors": [
+   "logistics_transport",
+   "construction",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "safety_physical_harm",
+   "cybersecurity",
+   "standards_interoperability",
+   "sustainability_environment",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "funding_or_incentives",
+   "education_training_programs",
+   "audits_impact_assessment",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "China's National Railway Administration 15th Five-Year plan for railway science and technology innovation (2026-2030). It prioritises self-reliant technology, AI and large models, autonomous train driving, drones and low-altitude coordination, embodied-intelligence construction robots, safety assurance, green transition, and AI safety evaluation and standards.",
+  "key_provisions_or_claims": [
+   "Build railway AI large models, 20+ high-quality datasets and 20+ AI application scenarios by 2030",
+   "Advance higher-level automatic train driving and unmanned-driving safety verification frameworks",
+   "Develop drone inspection, drone-rail intermodal delivery and anti-drone protection for rail corridors",
+   "Develop embodied-intelligence construction robots and unmanned/low-staff construction equipment",
+   "Establish national AI+railway safety evaluation and risk assessment system and full-chain AI security rules"
+  ],
+  "confidence": 0.85
+ }
+}

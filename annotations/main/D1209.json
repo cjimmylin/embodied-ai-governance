@@ -1,0 +1,105 @@
+{
+ "doc_id": "D1209",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:39:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0451938,
+  "in": 2,
+  "out": 1811,
+  "cache_read": 11758,
+  "cache_create": 6476,
+  "api_ms": 9626,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "agriculture_food",
+   "public_administration_justice",
+   "education",
+   "finance"
+  ],
+  "authors_or_issuer": "OECD",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "LU",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "ethics_principles",
+   "privacy_data_protection"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Luxembourg's 2019 AI strategy has seven pillars, including ethics, data and international cooperation.",
+   "The strategy was reviewed from 2024, and a new national AI strategy was launched in May 2025.",
+   "Luxembourg is investing in HPC through LuxConnect, LuxProvide and the MeluXina supercomputer.",
+   "Funding for AI comes from sectoral budgets and has no dedicated AI budget line.",
+   "Sector focus areas are the public sector, health data governance and agriculture."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2025,
+  "page_quality": "partial_or_excerpt",
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "OECD country note on Luxembourg's implementation of the EU Coordinated Plan on AI. It describes the 2019 national AI strategy and its review, HPC and data infrastructure, talent and start-up support, and sector initiatives in health, the public sector and agriculture. It has no robotics-specific governance content.",
+  "title_clean": "Luxembourg (Progress in Implementing the EU Coordinated Plan on AI, Vol. 1: Country Notes)",
+  "title_en": "Luxembourg (Progress in Implementing the EU Coordinated Plan on AI, Vol. 1: Country Notes)",
+  "venue": "OECD Publishing",
+  "methodology": "not_applicable"
+ }
+}

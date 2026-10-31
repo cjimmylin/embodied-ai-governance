@@ -1,0 +1,111 @@
+{
+ "doc_id": "D0474",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0748098,
+  "in": 2,
+  "out": 1873,
+  "cache_read": 11758,
+  "cache_create": 13725,
+  "api_ms": 13345,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI事業者ガイドライン（第1.1版）",
+  "title_en": "Guidelines for AI Business Operators (Version 1.1)",
+  "language": "ja",
+  "authors_or_issuer": "総務省 (MIC); 経済産業省 (METI)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "METI website",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "cybersecurity",
+   "human_oversight_control",
+   "safety_physical_harm",
+   "industrial_policy_innovation",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 2,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "self_regulation_codes",
+   "international_cooperation",
+   "human_oversight_requirement",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "Hiroshima Process",
+   "NIST AI RMF",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japan's MIC/METI non-binding soft-law Guidelines for AI Business Operators (v1.1, March 2025), integrating three earlier guidelines. They set a risk-based, goal-based framework with common principles and role-specific duties for AI developers, providers and users, plus AI governance and advanced-AI-system guidance. Cyber-physical Society 5.0 is mentioned, but no robot-specific provisions.",
+  "key_provisions_or_claims": [
+   "Non-binding, goal-based soft law to promote voluntary action and balance innovation with risk mitigation",
+   "Defines three actors: AI developers, providers and business users, with role-specific duties",
+   "Common guidelines: human-centricity, safety, fairness, privacy, security, transparency, accountability",
+   "Adopts a risk-based approach and a living-document, agile governance update model",
+   "Additional common guidance for actors handling advanced AI systems, aligned with the Hiroshima AI Process"
+  ],
+  "confidence": 0.9
+ }
+}

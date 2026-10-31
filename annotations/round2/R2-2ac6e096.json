@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-2ac6e096",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:29:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0506998,
+  "in": 2,
+  "out": 1748,
+  "cache_read": 11758,
+  "cache_create": 8010,
+  "api_ms": 9301,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "energy_environment"
+  ],
+  "authors_or_issuer": "国务院 (State Council of the People's Republic of China)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "data_governance_requirements",
+   "transparency_disclosure_labelling",
+   "funding_or_incentives",
+   "international_cooperation",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "transparency_explainability",
+   "standards_interoperability",
+   "other"
+  ],
+  "instrument_status": "adopted_not_yet_in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Applies to public monitoring by governments and self-monitoring by enterprises across China and its maritime areas.",
+   "Requires monitoring to follow national norms and standards, with networked automatic monitoring equipment and video surveillance at key points.",
+   "Technical service institutions must register with environmental authorities and keep traceable records.",
+   "Prohibits data falsification, with fines of up to RMB 2 million, bans on operating, and criminal liability.",
+   "Establishes a credit evaluation system and tiered supervision; effective 1 January 2026."
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "State Council Decree No. 820 promulgating the Ecological and Environmental Monitoring Regulations, effective 1 January 2026. It governs public and self-monitoring of the environment, technical service institutions, data authenticity, supervision and penalties. It is not about AI or robotics.",
+  "title_clean": "生态环境监测条例",
+  "title_en": "Regulations on Ecological and Environmental Monitoring",
+  "venue": null,
+  "methodology": "not_applicable"
+ }
+}

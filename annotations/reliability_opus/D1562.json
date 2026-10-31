@@ -1,0 +1,111 @@
+{
+ "doc_id": "D1562",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:18:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0957156,
+  "in": 2,
+  "out": 1921,
+  "cache_read": 11758,
+  "cache_create": 6867,
+  "api_ms": 13631,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulating sidewalk delivery robots as a disruptive new urban technology",
+  "title_en": "Regulating sidewalk delivery robots as a disruptive new urban technology",
+  "language": "en",
+  "authors_or_issuer": "Kovacic, M.; Marvin, S.; While, A.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2023,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": "10.1080/02723638.2023.2275426",
+  "venue": "Urban Geography",
+  "jurisdiction_country": "HK",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport",
+   "retail_hospitality",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "human_robot_interaction_social_effects",
+   "privacy_data_protection",
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "trust_acceptance"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "insurance_requirement",
+   "liability_regime",
+   "testing_sandboxes",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [
+   "Palo Alto Resolution to Regulate Operation of Personal Delivery Devices",
+   "San Francisco sidewalk robot permit legislation",
+   "California personal delivery device legislation"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "mixed",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Peer-reviewed article examining how California municipalities (e.g., San Francisco, Palo Alto, Berkeley campus) regulated sidewalk delivery robots through prohibitive, permissive and collaborative approaches, using policy analysis and interviews, and showing how first-mover firms shaped permitting, liability, insurance and testing rules for this disruptive urban technology.",
+  "key_provisions_or_claims": [
+   "California municipalities experimented with prohibitive, permissive and collaborative sidewalk robot regulation",
+   "First-mover firms like Starship Technologies heavily shaped state and city permitting rules",
+   "Palo Alto requires encroachment permits, operator liability, $2-4 million insurance and 24-hour incident reporting",
+   "San Francisco restricted testing to industrial zones",
+   "Sidewalk robots challenge established rules for pedestrian space and human-robot interaction"
+  ],
+  "confidence": 0.85
+ }
+}

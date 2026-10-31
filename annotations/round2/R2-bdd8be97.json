@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-bdd8be97",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:42:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0887018,
+  "in": 2,
+  "out": 1911,
+  "cache_read": 11758,
+  "cache_create": 17103,
+  "api_ms": 10145,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "特定自動運行許可に係る申請書等の記載要領",
+  "title_en": "Guidelines for Completing Applications etc. for Specified Automated Operation Permits",
+  "language": "ja",
+  "authors_or_issuer": "警察庁交通局 (National Police Agency, Traffic Bureau)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "警察庁",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "education_training",
+   "civil_liability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "human_oversight_requirement",
+   "education_training_programs",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "Japan Road Traffic Act (specified automated operation permit)",
+   "Road Traffic Act Enforcement Regulations",
+   "Basic Act on Cybersecurity"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Japan National Police Agency's March 2026 guidance on completing applications for specified automated operation (Level 4 driverless vehicle) permits under the Road Traffic Act. It sets required plan contents, remote monitoring requirements, personnel training, accident and stoppage response, and the points prefectural public safety commissions examine.",
+  "key_provisions_or_claims": [
+   "Applications go to the prefectural public safety commission with the operation plan covering route, hours, weather, road conditions and traffic impact.",
+   "Remote monitoring equipment must provide continuous video, audio, location, communication alerts, recording and cybersecurity measures.",
+   "Specified automated operation chief officers and on-site response staff must be trained, designated and meet qualification requirements.",
+   "Plans must set procedures for ending operation, accidents, railway crossings and main carriageway stoppages.",
+   "Vehicles must display an 'automated driving' indicator linked to system status; disqualification applies after permit revocation within five years."
+  ],
+  "confidence": 0.9
+ }
+}

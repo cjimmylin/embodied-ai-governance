@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-8efd11e6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027145800000000005,
+  "in": 2,
+  "out": 1673,
+  "cache_read": 11758,
+  "cache_create": 2309,
+  "api_ms": 8157,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 9946:1999 Manipulating industrial robots — Presentation of characteristics",
+  "title_en": "ISO 9946:1999 Manipulating industrial robots — Presentation of characteristics",
+  "language": "en",
+  "authors_or_issuer": "ISO (International Organization for Standardization), ISO/TC 299",
+  "issuer_type": "standards_body",
+  "pub_year": 1999,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Standards Catalogue",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "transparency_explainability"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO 9946:1999 (Edition 2), which specifies how manufacturers present characteristics of manipulating industrial robots. Developed by ISO/TC 299, last reviewed and confirmed in 2021, and still current. Only metadata and lifecycle stage history are shown.",
+  "key_provisions_or_claims": [
+   "Specifies how manufacturers shall present characteristics of manipulating industrial robots",
+   "Edition 2, published April 1999, replacing ISO 9946:1991",
+   "Reviewed and confirmed 2021; remains current (stage 90.60)",
+   "Maintained by ISO/TC 299 (ICS 25.040.30)"
+  ],
+  "confidence": 0.9
+ }
+}

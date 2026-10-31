@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-a64727f8",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:03:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.4026996,
+  "in": 2,
+  "out": 2069,
+  "cache_read": 11758,
+  "cache_create": 44870,
+  "api_ms": 14481,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Delegated Regulation (EU) 2018/989 of 18 May 2018 amending and correcting Delegated Regulation (EU) 2017/654 supplementing Regulation (EU) 2016/1628 with regard to technical and general requirements relating to emission limits and type-approval for internal combustion engines for non-road mobile machinery",
+  "title_en": "Commission Delegated Regulation (EU) 2018/989 of 18 May 2018 amending and correcting Delegated Regulation (EU) 2017/654 supplementing Regulation (EU) 2016/1628 with regard to technical and general requirements relating to emission limits and type-approval for internal combustion engines for non-road mobile machinery",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2018,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 182/61, 18.7.2018",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "Regulation (EU) 2016/1628",
+   "Delegated Regulation (EU) 2017/654",
+   "Implementing Regulation (EU) 2017/656",
+   "Directive 98/70/EC",
+   "Regulation (EC) No 595/2009",
+   "UNECE Regulation No 96",
+   "UNECE Regulation No 49",
+   "Global technical regulation No 11"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Delegated Regulation amending and correcting Delegated Regulation 2017/654 on emission limits and type-approval technical requirements for internal combustion engines in non-road mobile machinery (fuel specs, deterioration factors, emission control strategies, test procedures). It contains no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Raises permitted FAME content of reference non-road diesel from 7.0% to 8.0% v/v",
+   "Transitional provision: type-approvals under the previous version allowed until 31 Dec 2018, market placement until 30 June 2019",
+   "Adds deterioration factor rules for engines without after-treatment and regeneration provisions for testing",
+   "Requires demonstration reports in the manufacturer's information folder",
+   "Corrects numerous technical test procedure and calculation provisions"
+  ],
+  "confidence": 0.95
+ }
+}

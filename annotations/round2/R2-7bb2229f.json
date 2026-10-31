@@ -1,0 +1,120 @@
+{
+ "doc_id": "R2-7bb2229f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:44:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1539538,
+  "in": 2,
+  "out": 2059,
+  "cache_read": 11758,
+  "cache_create": 33046,
+  "api_ms": 15140,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC and Council Directive 73/361/EEC",
+  "title_en": "Regulation (EU) 2023/1230 on machinery and repealing Directive 2006/42/EC and Council Directive 73/361/EEC",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 165/1",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots",
+   "mobile_industrial_logistics",
+   "professional_service_robots",
+   "other_embodied"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing",
+   "construction",
+   "agriculture_food",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "cybersecurity",
+   "consumer_protection",
+   "human_oversight_control",
+   "transparency_explainability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "incident_reporting",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "EU Machinery Regulation",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "EU Machinery Regulation 2023/1230 replaces the Machinery Directive 2006/42/EC. It sets essential health and safety requirements for machinery, related products and partly completed machinery. It extends coverage to digital safety risks, including self-evolving behaviour, autonomy and cybersecurity. It requires third-party conformity assessment for machine-learning safety systems and sets out economic operators' obligations and market surveillance.",
+  "key_provisions_or_claims": [
+   "Replaces Directive 2006/42/EC with a directly applicable regulation covering machinery, related products and partly completed machinery.",
+   "Safety components include software; systems with self-evolving behaviour ensuring safety functions require third-party conformity assessment (Annex I).",
+   "Risk assessment must cover evolving behaviour and varying levels of autonomy, plus interactions in coordinated machinery.",
+   "Manufacturers must protect against malicious third-party corruption affecting safety and make source code available to authorities on request.",
+   "Substantial modification by physical or digital means triggers a new conformity assessment; Member States must set penalties."
+  ],
+  "confidence": 0.9
+ }
+}

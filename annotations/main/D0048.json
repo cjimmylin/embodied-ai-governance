@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0048",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:07:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.047315800000000005,
+  "in": 2,
+  "out": 1748,
+  "cache_read": 11758,
+  "cache_create": 7164,
+  "api_ms": 9122,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "research_science"
+  ],
+  "authors_or_issuer": "Comisión Desafíos del Futuro, Ciencia, Tecnología e Innovación, Senado de Chile",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "CL",
+   "FR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_proposal_or_draft",
+  "doc_type": "consultation_or_white_paper",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "privacy_data_protection",
+   "labor_employment",
+   "education_training",
+   "fairness_bias_discrimination"
+  ],
+  "instrument_status": "proposal_or_concept",
+  "is_governance_document": true,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "CL",
+  "jurisdiction_scope": "national",
+  "language": "es",
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2019,
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Chilean Senate commission proposal laying the foundations for a national AI strategy. It reviews international AI strategies, national initiatives and research capacity, discusses ethics, data protection, and labour impacts, and proposes a 34-week process, including a national consultation, to design Chile's AI strategy.",
+  "key_provisions_or_claims": [
+   "Chile needs a national AI strategy to become a regional technology leader",
+   "Three pillars: science and technique, applications, and societal impact",
+   "Ethics, data protection and democratised access are key challenges",
+   "Reviews AI strategies of other countries such as France",
+   "Proposes a 34-week process with a national consultation to design the strategy"
+  ],
+  "title_clean": "Hacia una Estrategia de Inteligencia Artificial para Chile",
+  "title_en": "Towards an Artificial Intelligence Strategy for Chile",
+  "venue": "Senado de Chile",
+  "publication_stage": "not_applicable",
+  "methodology": "not_applicable"
+ }
+}

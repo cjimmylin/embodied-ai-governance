@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-f57251ed",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:37:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.3226374000000001,
+  "in": 4,
+  "out": 3855,
+  "cache_read": 90974,
+  "cache_create": 69518,
+  "api_ms": 20775,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "manufacturing",
+   "construction",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Ministry of Health, Labour and Welfare (formerly Ministry of Labour), Japan",
+  "confidence": 0.7,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "industrial_manipulators",
+   "mobile_industrial_logistics",
+   "collaborative_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "incident_reporting",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "labor_employment",
+   "certification_conformity_assessment",
+   "education_training",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Employers must appoint safety managers, health managers, industrial physicians and chemical substance managers by workplace size and industry.",
+   "Part 2 Chapter 1 Section 9 (Arts. 150-3 to 151) sets safety standards for industrial robots, including protective measures and teaching/operation work.",
+   "Rules on vehicle-type cargo-handling machines, forklifts and conveyors, plus periodic voluntary inspections.",
+   "Risk assessment of hazards, safety and health education, work restrictions and licensing/skill training are required.",
+   "Amended through 2026 (effective 1 Oct 2026) to implement the amended Industrial Safety and Health Act."
+  ],
+  "language": "ja",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "industrial_manipulators",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Japan's Ordinance on Industrial Safety and Health (Ministry of Labour Ordinance No. 32 of 1972), current revision effective 1 October 2026. It sets employer duties on safety management, inspections, training, licensing and machine safety standards, including a section on industrial robots, cargo-handling vehicles and construction machinery.",
+  "title_clean": "労働安全衛生規則",
+  "title_en": "Ordinance on Industrial Safety and Health",
+  "venue": "e-Gov Law Search",
+  "binding_nature": "legally_binding",
+  "methodology": "not_applicable"
+ }
+}

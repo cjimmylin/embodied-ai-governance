@@ -1,0 +1,92 @@
+{
+ "doc_id": "R2-4d6d12e8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:53:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.03165180000000001,
+  "in": 2,
+  "out": 1672,
+  "cache_read": 11758,
+  "cache_create": 3438,
+  "api_ms": 8126,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Official Journal of the European Communities C 87 E – European Parliament texts adopted 4 October 2001 (terrorist asset-freezing amendments, general product safety, extraordinary European Council)",
+  "title_en": "Official Journal of the European Communities C 87 E – European Parliament texts adopted 4 October 2001 (terrorist asset-freezing amendments, general product safety, extraordinary European Council)",
+  "language": "en",
+  "authors_or_issuer": "European Parliament",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2002,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "other"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Excerpt from the 2002 Official Journal (C 87 E) with European Parliament texts of 4 October 2001: amendments to a terrorist asset-freezing regulation, approval of the joint text on general product safety, and a resolution on the post-9/11 extraordinary European Council. No AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Parliament amendments to asset-freezing regulation: 'reasonable suspicion' standard, sunset 31 December 2003",
+   "Parliament approves Conciliation Committee joint text on general product safety directive",
+   "Resolution on extraordinary European Council of 21 September 2001 following 9/11 attacks"
+  ],
+  "confidence": 0.9
+ }
+}

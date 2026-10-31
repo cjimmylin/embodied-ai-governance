@@ -1,0 +1,105 @@
+{
+ "doc_id": "D1211",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:43:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.043907800000000004,
+  "in": 2,
+  "out": 1768,
+  "cache_read": 11758,
+  "cache_create": 6262,
+  "api_ms": 9390,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Progress in Implementing the EU Coordinated Plan on AI (Vol. 1): Finland",
+  "title_en": "Progress in Implementing the EU Coordinated Plan on AI (Vol. 1): Finland",
+  "language": "en",
+  "authors_or_issuer": "OECD",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "OECD",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "FI",
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "research_science",
+   "education"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "education_training_programs",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_qualitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "OECD country note on Finland's implementation of the EU Coordinated Plan on AI, based on a 2024 survey and interviews. It reviews Finland's Digital Compass, cloud-first policy, HPC and quantum investment, AI testbeds, skills funding and sector initiatives. It is descriptive and has no robotics content.",
+  "key_provisions_or_claims": [
+   "Finland's Digital Compass to 2030 fosters AI uptake, though AI is not specifically featured.",
+   "Cloud-first policy and expanded compute via LUMI and a national quantum environment.",
+   "EUR 20 million for AI testing, experimentation and research for SMEs under the Sustainable Growth Programme.",
+   "Skills and talent measures, including EUR 255 million for education (2024-27).",
+   "AI measures are embedded in sector strategies such as health, mobility and bioeconomy."
+  ],
+  "confidence": 0.9
+ }
+}

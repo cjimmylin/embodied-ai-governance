@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-d738b91f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:52:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1822378,
+  "in": 2,
+  "out": 1839,
+  "cache_read": 11758,
+  "cache_create": 40667,
+  "api_ms": 11882,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Council Directive concerning medical devices (COM(91) 287 final - SYN 353)",
+  "title_en": "Proposal for a Council Directive concerning medical devices (COM(91) 287 final - SYN 353)",
+  "language": "en",
+  "authors_or_issuer": "Commission of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 1991,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Commission of the European Communities, COM documents",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "incident_reporting",
+   "licensing_registration",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "Directive 90/385/EEC",
+   "Directive 83/189/EEC",
+   "Council Decision 90/683/EEC",
+   "Directive 89/336/EEC",
+   "Directive 65/65/EEC"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "1991 European Commission proposal for a Council Directive harmonising medical device regulation under the New Approach. It sets essential requirements, four risk classes, notified-body conformity assessment, CE marking, vigilance on incidents and clinical investigation rules. It predates AI and robotics, and became Directive 93/42/EEC.",
+  "key_provisions_or_claims": [
+   "Four device classes (I, IIa, IIb, III) set conformity assessment routes by risk",
+   "Essential requirements in Annex 1, with presumed compliance via harmonized standards",
+   "Notified bodies assess conformity and CE marking is mandatory for market access",
+   "Incident vigilance system requires manufacturers to report serious incidents",
+   "Clinical investigation rules and safeguard clause allow Member States to restrict risky devices"
+  ],
+  "confidence": 0.85
+ }
+}

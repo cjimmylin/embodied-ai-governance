@@ -1,0 +1,16 @@
+**S09b_reliability_variants. Reliability variants: quadratic-weighted and unweighted kappa for ordinal fields, and agreement/kappa on the level-2 (treated in depth) threshold for principles, per comparison (round-1 and round-2 samples)**
+
+| comparison                       |   n | field                       |   kappa_quadratic |   kappa_unweighted |   agreement_level2 |   kappa_level2 |
+|:---------------------------------|----:|:----------------------------|------------------:|-------------------:|-------------------:|---------------:|
+| Opus, round-1 sample             | 160 | relevance (0-3)             |             0.903 |              0.726 |            nan     |        nan     |
+| Opus, round-1 sample             | 160 | principles (median over 20) |             0.846 |              0.747 |              0.956 |          0.688 |
+| Sonnet re-run, round-1 sample    | 160 | relevance (0-3)             |             0.956 |              0.871 |            nan     |        nan     |
+| Sonnet re-run, round-1 sample    | 160 | principles (median over 20) |             0.887 |              0.829 |              0.966 |          0.837 |
+| Sonnet full text, round-1 sample | 160 | relevance (0-3)             |             0.94  |              0.819 |            nan     |        nan     |
+| Sonnet full text, round-1 sample | 160 | principles (median over 20) |             0.877 |              0.795 |              0.969 |          0.832 |
+| Sonnet blind, round-1 sample     | 160 | relevance (0-3)             |             0.939 |              0.838 |            nan     |        nan     |
+| Sonnet blind, round-1 sample     | 160 | principles (median over 20) |             0.905 |              0.84  |              0.975 |          0.847 |
+| Opus, round-2 sample             | 160 | relevance (0-3)             |             0.932 |              0.755 |            nan     |        nan     |
+| Opus, round-2 sample             | 160 | principles (median over 20) |             0.864 |              0.791 |              0.988 |          0.812 |
+| Sonnet re-run, round-2 sample    | 160 | relevance (0-3)             |             0.952 |              0.856 |            nan     |        nan     |
+| Sonnet re-run, round-2 sample    | 160 | principles (median over 20) |             0.914 |              0.867 |              0.991 |          0.888 |

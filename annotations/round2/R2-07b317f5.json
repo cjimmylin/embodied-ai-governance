@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-07b317f5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:01:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0256678,
+  "in": 2,
+  "out": 1772,
+  "cache_read": 11758,
+  "cache_create": 1692,
+  "api_ms": 9529,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Vehicle Standard (Australian Design Rule 98/00 – Advanced Emergency Braking for Passenger Vehicles and Light Goods Vehicles) 2021",
+  "title_en": "Vehicle Standard (Australian Design Rule 98/00 – Advanced Emergency Braking for Passenger Vehicles and Light Goods Vehicles) 2021",
+  "language": "en",
+  "authors_or_issuer": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts (Australia)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Register of Legislation (Australia)",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Australian vehicle standard (ADR 98/00) made under the Road Vehicle Standards Act 2018, setting advanced emergency braking requirements for passenger vehicles and light goods vehicles. Only the table of contents and metadata are visible: function, applicability, definitions, requirements, exemptions, alternative standards and an appendix.",
+  "key_provisions_or_claims": [
+   "Made under the Road Vehicle Standards Act 2018 (F2021L01518, 5 Nov 2021)",
+   "Sets advanced emergency braking requirements for passenger and light goods vehicles",
+   "Includes sections on applicability, definitions, requirements, exemptions and alternative standards"
+  ],
+  "confidence": 0.7
+ }
+}

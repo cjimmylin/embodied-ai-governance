@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-cc8bbb94",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:04:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1025356,
+  "in": 2,
+  "out": 2214,
+  "cache_read": 11758,
+  "cache_create": 6987,
+  "api_ms": 15272,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Regulation (EU) No 523/2012 of 20 June 2012 amending Regulation (EC) No 661/2009 of the European Parliament and of the Council as regards the inclusion of certain Regulations of the United Nations Economic Commission for Europe on the type-approval of motor vehicles, their trailers and systems, components and separate technical units intended therefor",
+  "title_en": "Commission Regulation (EU) No 523/2012 of 20 June 2012 amending Regulation (EC) No 661/2009 as regards the inclusion of certain UNECE Regulations on the type-approval of motor vehicles, their trailers and systems, components and separate technical units",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2012,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 160/8",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "prohibitions_bans",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "Regulation (EC) No 661/2009",
+   "Directive 2007/46/EC",
+   "UNECE Revised 1958 Agreement",
+   "UNECE Regulations No 13, 13-H, 30, 34, 54, 55, 64, 117",
+   "Commission Regulation (EU) No 407/2011"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission implementing regulation amending Annex IV of Regulation (EC) No 661/2009 on motor-vehicle general safety type-approval to make UNECE Regulations on tyres (30, 54, 117) and tyre pressure monitoring systems (64) compulsory, with phased dates, and clarifying braking, fuel tank and coupling entries. It has nothing to do with AI or robotics.",
+  "key_provisions_or_claims": [
+   "Adds UNECE Regulations 30, 54, 64 and 117 to the list of UNECE Regulations that are compulsory for EC type-approval",
+   "Phases in tyre rolling sound, wet grip and rolling resistance requirements from 2012 to 2020",
+   "From 2012, new M1 vehicle types without a compliant tyre pressure monitoring system are refused type-approval; from 2014, their registration and sale are banned",
+   "Clarifies how UNECE Regulations 13, 13-H, 34 and 55 apply, including electronic stability control",
+   "Allows non-compliant tyres made before the deadlines to be sold for up to 30 more months"
+  ],
+  "confidence": 0.9
+ }
+}

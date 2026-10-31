@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-132b0ef8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0518777,
+  "in": 4,
+  "out": 3548,
+  "cache_read": 25757,
+  "cache_create": 4181,
+  "api_ms": 25010,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Drone legislation: use, restrictions and enforcement",
+  "title_en": "Drone legislation: use, restrictions and enforcement",
+  "language": "en",
+  "authors_or_issuer": "Department for Business, Energy & Industrial Strategy (UK)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2018,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "criminal_liability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "oversight_body_creation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "Air Navigation (Amendment) Order 2018",
+   "Drones and Other Unmanned Aircraft Bill"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "UK government consultation page on drone policy, with the January 2019 outcome. It proposed minimum operator age, wider airport exclusion zones, a flight notification system, police enforcement powers including fixed penalty notices, and counter-drone measures. The response commits to legislating police powers and extending airport restrictions.",
+  "key_provisions_or_claims": [
+   "Legislate to give police greater powers, including on-the-spot fines for drone misuse",
+   "Extend the drone ban area around airports and runways beyond the 1km restriction",
+   "Consultation covered minimum operator age and a Flight Information and Notification System",
+   "Consultation received 5,061 responses",
+   "Builds on the Air Navigation (Amendment) Order 2018 and the Drones and Other Unmanned Aircraft Bill"
+  ],
+  "confidence": 0.85
+ }
+}

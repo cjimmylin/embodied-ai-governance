@@ -1,0 +1,111 @@
+{
+ "doc_id": "D1471",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.020960299999999998,
+  "in": 2,
+  "out": 1914,
+  "cache_read": 18163,
+  "cache_create": 0,
+  "api_ms": 13704,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "Nechita, R.-M.; Nechita, M.-I.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": null,
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "incident_reporting",
+   "education_training_programs",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "civil_liability",
+   "safety_physical_harm",
+   "fairness_bias_discrimination",
+   "standards_interoperability",
+   "research_ethics"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "RO",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Ethics should be integrated into medical AI robot design from the concept stage ('ethics by design'), not added afterwards.",
+   "Meaningful human control must be kept in telesurgery and other autonomous medical robotics.",
+   "Traceability and explainability are needed so clinicians can audit AI decisions and so liability can be assigned.",
+   "The 'moral crumple zone' problem shifts blame onto human surgeons, so liability rules and surgeon training are needed.",
+   "Unified standards and a systematic ethical infrastructure are needed, with multidisciplinary collaboration."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [
+   "OECD AI Principles",
+   "EU AI Act",
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "surgical_medical_robots",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2025,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Conceptual paper arguing that ethical principles should be built into AI-enabled medical and surgical robots from the design stage. It reviews European ethics-by-design guidance, recurring dilemmas (transparency, privacy, accountability, human control) and implementation challenges. It calls for proactive, enforceable regulation and unified standards.",
+  "title_clean": "Ethical Design in Medical AI Robotics: Between Innovation and Responsibility",
+  "title_en": "Ethical Design in Medical AI Robotics: Between Innovation and Responsibility",
+  "venue": "Robotica & Management"
+ }
+}

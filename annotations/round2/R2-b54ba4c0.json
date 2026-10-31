@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-b54ba4c0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0900358,
+  "in": 2,
+  "out": 2000,
+  "cache_read": 11758,
+  "cache_create": 17214,
+  "api_ms": 10966,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulation (EU) 2025/2653 of the European Parliament and of the Council of 19 December 2025 amending Regulations (EU) 2021/694, (EU) 2021/695, (EU) 2021/697, (EU) 2021/1153 and (EU) 2024/795, as regards incentivising defence-related investment in the EU budget to implement the ReArm Europe Plan",
+  "title_en": "Regulation (EU) 2025/2653 amending Regulations (EU) 2021/694, 2021/695, 2021/697, 2021/1153 and 2024/795 as regards incentivising defence-related investment in the EU budget to implement the ReArm Europe Plan",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "UA"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas",
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "defense_security",
+   "research_science",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "military_use_ihl",
+   "cybersecurity",
+   "other"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EU regulation amending five funding regulations (Digital Europe, Horizon Europe, European Defence Fund, Connecting Europe Facility, STEP) to boost defence and dual-use investment under ReArm Europe. It adds a defence strategic sector to STEP, funds AI Gigafactories, and sets eligibility restrictions. It has only incidental embodied-AI content.",
+  "key_provisions_or_claims": [
+   "Adds a fourth STEP strategic sector for defence technologies.",
+   "Opens the EIC Accelerator to dual-use and critical defence technologies, derogating from Horizon Europe's civil-only focus.",
+   "Restricts participation to entities in the EU, Ukraine or EEA associated states, excluding third-country-controlled entities unless guarantees are given.",
+   "Associates Ukraine with the European Defence Fund and allows voluntary contributions and transfers.",
+   "Extends Digital Europe and CEF to AI Factories and AI Gigafactories and to military-mobility dual-use infrastructure."
+  ],
+  "confidence": 0.9
+ }
+}

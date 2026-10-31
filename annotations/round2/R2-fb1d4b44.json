@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-fb1d4b44",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:13:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04141980000000001,
+  "in": 2,
+  "out": 1794,
+  "cache_read": 11758,
+  "cache_create": 5575,
+  "api_ms": 11791,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "49 U.S. Code § 44809 - Exception for limited recreational operations of unmanned aircraft",
+  "title_en": "49 U.S. Code § 44809 - Exception for limited recreational operations of unmanned aircraft",
+  "language": "en",
+  "authors_or_issuer": "United States Congress (Office of the Law Revision Counsel, U.S. Code)",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Cornell Legal Information Institute / U.S. Code",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "domestic_consumer",
+   "education",
+   "research_science"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "education_training",
+   "human_oversight_control",
+   "other"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "oversight_body_creation",
+   "education_training_programs",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "US statute creating an exception allowing recreational drone flights without FAA certification if conditions are met: visual line of sight, 400 ft ceiling, community-based organization safety guidelines, registration, and a knowledge test. It also covers fixed sites and educational use, as amended in 2024.",
+  "key_provisions_or_claims": [
+   "Recreational drones exempt from certification if flown within visual line of sight, below 400 ft in Class G airspace, and giving way to manned aircraft",
+   "Operators must pass an aeronautical knowledge and safety test and register and mark the aircraft",
+   "Controlled airspace flights require prior FAA authorization",
+   "Fixed-site operations are approved by the FAA, and aircraft of 55 lb or more must meet community-based organization standards",
+   "2024 amendments extend recreational status to educational and research use and preserve FAA enforcement authority"
+  ],
+  "confidence": 0.9
+ }
+}

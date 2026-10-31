@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-f779295b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:43:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0309898,
+  "in": 2,
+  "out": 1859,
+  "cache_read": 11758,
+  "cache_create": 2805,
+  "api_ms": 9237,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Council Directive of 20 May 1975 on the approximation of the laws of the Member States relating to the power connection fitted on wheeled agricultural or forestry tractors for lighting and light-signalling devices on tools, machinery or trailers intended for agriculture or forestry (75/323/EEC)",
+  "title_en": "Council Directive of 20 May 1975 on the approximation of the laws of the Member States relating to the power connection fitted on wheeled agricultural or forestry tractors for lighting and light-signalling devices on tools, machinery or trailers intended for agriculture or forestry (75/323/EEC)",
+  "language": "en",
+  "authors_or_issuer": "Council of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 1975,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities L 147/38",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "Directive 74/150/EEC",
+   "ISO R/1724"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "1975 EEC Council Directive harmonising Member State requirements for the lighting power connection on wheeled agricultural or forestry tractors, requiring a seven-contact 12V socket per ISO R/1724 so type approval, registration and sale cannot be refused on those grounds. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Defines agricultural/forestry tractors in scope (pneumatic tyres, two axles, 6–25 km/h).",
+   "Member States may not refuse type approval, registration or sale of tractors meeting the Annex.",
+   "Annex requires a fixed seven-contact socket per ISO R/1724 supplying 12V.",
+   "Technical-progress amendments follow Article 13 of Directive 74/150/EEC.",
+   "Member States must transpose within 18 months of notification."
+  ],
+  "confidence": 0.95
+ }
+}

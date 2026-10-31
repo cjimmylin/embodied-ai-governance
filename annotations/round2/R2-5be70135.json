@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-5be70135",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:39:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.3116286,
+  "in": 4,
+  "out": 3388,
+  "cache_read": 89631,
+  "cache_create": 67842,
+  "api_ms": 18121,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "manufacturing",
+   "defense_security"
+  ],
+  "authors_or_issuer": "Ministry of Economy, Trade and Industry (METI), Japan",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "other",
+   "standards_interoperability"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Specifies chemicals (e.g., precursors, fentanyl analogues) falling under Export Trade Control Order Appendix 2-3 item 1-2(a).",
+   "Lists chemical processing equipment, containment and biological equipment subject to export controls.",
+   "Lists electronics, semiconductor manufacturing equipment and CNC machine tools by technical thresholds.",
+   "Amended through 2026 with latest enforcement 16 Oct 2026."
+  ],
+  "language": "ja",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "pub_month": 3,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Japanese METI ministerial ordinance (2022, as amended to Oct 2026) specifying goods under Export Trade Control Order Appendix 2-3 (catch-all export controls): chemicals, chemical and bio equipment, electronics, semiconductor manufacturing equipment, machine tools. No AI or robotics content.",
+  "title_clean": "輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令",
+  "title_en": "Ministerial Ordinance Specifying Goods Pursuant to Appendix 2-3 of the Export Trade Control Order",
+  "venue": "e-Gov Law Search"
+ }
+}

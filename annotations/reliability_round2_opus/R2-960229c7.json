@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-960229c7",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:04:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.36431959999999997,
+  "in": 2,
+  "out": 2310,
+  "cache_read": 11758,
+  "cache_create": 39470,
+  "api_ms": 17288,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Regulation of the European Parliament and of the Council on type-approval of motor vehicles and engines and of systems, components and separate technical units intended for such vehicles, with respect to their emissions and battery durability (Euro 7) and repealing Regulations (EC) No 715/2007 and (EC) No 595/2009",
+  "title_en": "Proposal for a Regulation on type-approval of motor vehicles and engines with respect to their emissions and battery durability (Euro 7)",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "EUR-Lex, COM(2022) 586 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "consumer_protection",
+   "standards_interoperability"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "prohibitions_bans",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "Regulation (EU) 2018/858",
+   "Regulation (EC) No 715/2007",
+   "Regulation (EC) No 595/2009",
+   "UN Regulation No 155",
+   "UN GTR No 22",
+   "Ambient Air Quality Directive"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission legislative proposal (COM(2022) 586) for the Euro 7 Regulation. It merges the light- and heavy-duty vehicle emission type-approval rules, sets updated exhaust and non-exhaust (brake, tyre) limits, battery durability requirements, on-board monitoring, anti-tampering and cybersecurity measures, and an environmental vehicle passport. It does not deal with AI or autonomous vehicles.",
+  "key_provisions_or_claims": [
+   "Single regulation replacing Euro 6/VI Regulations 715/2007 and 595/2009 for cars, vans, lorries and buses",
+   "New emission limits including brake particle and tyre abrasion, with lifetime durability requirements",
+   "Mandatory on-board monitoring, OBD, OBFCM and battery state-of-health monitors",
+   "Anti-tampering and cybersecurity obligations per UN Regulation 155",
+   "Environmental vehicle passport; application from 2025 for light-duty and 2027 for heavy-duty vehicles"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-4b67cd64",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:57:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0276698,
+  "in": 2,
+  "out": 1785,
+  "cache_read": 11758,
+  "cache_create": 2160,
+  "api_ms": 8719,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "§ 1d Kraftfahrzeuge mit autonomer Fahrfunktion in festgelegten Betriebsbereichen (StVG)",
+  "title_en": "Section 1d Motor vehicles with autonomous driving function in defined operating areas (Road Traffic Act)",
+  "language": "de",
+  "authors_or_issuer": "Bundesrepublik Deutschland (Gesetzgeber, Straßenverkehrsgesetz)",
+  "issuer_type": "legislature",
+  "pub_year": 2021,
+  "pub_month": 7,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Straßenverkehrsgesetz (StVG)",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "DE"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Section 1d of the German Road Traffic Act (StVG) defines motor vehicles with autonomous driving function operating in defined operating areas, and sets out the definitions of operating area, technical supervision (a natural person able to deactivate the vehicle and release manoeuvres) and minimal risk condition.",
+  "key_provisions_or_claims": [
+   "Defines autonomous-driving-function vehicles as performing the driving task without a driver in a defined operating area.",
+   "Requires technical equipment under § 1e(2).",
+   "Defines 'festgelegter Betriebsbereich' as a spatially determined public road area.",
+   "Defines Technische Aufsicht as a natural person who can deactivate the vehicle and release manoeuvres.",
+   "Defines minimal risk condition: safe stop with hazard lights activated."
+  ],
+  "confidence": 0.85
+ }
+}

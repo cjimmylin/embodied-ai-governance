@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-b75cac58",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0495504,
+  "in": 4,
+  "out": 3441,
+  "cache_read": 25479,
+  "cache_create": 3856,
+  "api_ms": 18436,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/WD 25926 Ships and marine technology — Autonomous Navigation System Architecture with Centralized Status Management Function for MASS",
+  "title_en": "ISO/WD 25926 Ships and marine technology — Autonomous Navigation System Architecture with Centralized Status Management Function for MASS",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 8/SC 26",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "under_development",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_maritime_or_rail"
+  ],
+  "primary_embodied_category": "autonomous_maritime_or_rail",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO working draft 25926 under ISO/TC 8/SC 26 specifying requirements and architecture guidance for a distributed Autonomous Navigation System for Maritime Autonomous Surface Ships, with a CIM handling centralized status management. Catalogue page showing scope, exclusions and stage 20.20.",
+  "key_provisions_or_claims": [
+   "Specifies requirements for a distributed autonomous navigation system with a CIM for centralized status management",
+   "Provides architecture guidance for MASS",
+   "Excludes algorithms, ship design, engine monitoring and onshore systems detail",
+   "Only communication interfaces to onshore support systems are in scope",
+   "Currently at stage 20.20 working draft study"
+  ],
+  "confidence": 0.85
+ }
+}

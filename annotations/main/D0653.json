@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0653",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:24:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0484318,
+  "in": 2,
+  "out": 1876,
+  "cache_read": 11758,
+  "cache_create": 7123,
+  "api_ms": 12152,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Правовые аспекты гражданско-правовой ответственности за причинение вреда действиями робота как квазисубъекта гражданско-правовых отношений",
+  "title_en": "Legal Aspects of Civil Liability for Damages in Tort as a Result of Actions of a Robot as a Quasi-Subject of Civil Law Relations",
+  "language": "ru",
+  "authors_or_issuer": "Ирискина, Е.Н.; Беляков, К.О.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2016,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.17223/23046082/10/7",
+  "venue": "Гуманитарная информатика (Tomsk State University)",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "RU",
+   "US",
+   "DE"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "industrial_manipulators",
+   "space_or_extreme_environment",
+   "domestic_household_robots",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "cross_sector",
+   "logistics_transport",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "legal_personhood_robot_rights",
+   "safety_physical_harm",
+   "consumer_protection"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "insurance_requirement"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "supports",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Russian journal article on civil tort liability for harm caused by autonomous AI robots. It distinguishes AI-enabled \"Robots\" from mechanical machines, proposes treating the Robot as a quasi-subject of civil law, and a classifier of tort categories, and discusses liability of inventor, programmer, manufacturer, user and third parties.",
+  "key_provisions_or_claims": [
+   "Divide robots into AI-enabled autonomous 'Robots' and mechanical machines.",
+   "Introduce the Robot as a quasi-party of civil law relations in the Civil Code.",
+   "Autonomous Robot is neither a source of heightened danger nor a defective product under current Russian law.",
+   "Candidate liable persons: inventor, programmer, manufacturer, owner/user, third party.",
+   "Propose a classifier of tort categories, damage levels and responsible persons to reduce court costs."
+  ],
+  "confidence": 0.9
+ }
+}

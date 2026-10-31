@@ -1,0 +1,96 @@
+{
+ "doc_id": "D1510",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:47:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0657727,
+  "in": 4,
+  "out": 3478,
+  "cache_read": 29707,
+  "cache_create": 7491,
+  "api_ms": 20470,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Gender Bias and Conversational Agents: an ethical perspective on Social Robotics",
+  "title_en": "Gender Bias and Conversational Agents: an ethical perspective on Social Robotics",
+  "language": "en",
+  "authors_or_issuer": "Fossa, F.; Sucameli, I.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s11948-022-00376-3",
+  "venue": "Science and Engineering Ethics",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "cross_sector",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "human_robot_interaction_social_effects",
+   "trust_acceptance"
+  ],
+  "primary_topic": "fairness_bias_discrimination",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Ethics paper assessing whether it is permissible to design virtually embodied conversational agents (social robots) to exploit gender biases for better interaction. It evaluates four approaches and favors using gender cues proactively to reduce discriminatory bias, given a hypothesized feedback effect on human social biases.",
+  "key_provisions_or_claims": [
+   "Bias alignment in ECA design exploits social biases to improve interaction quality.",
+   "Feedback hypothesis: biases triggered by agents may reinforce biases in human relations.",
+   "Four answers evaluated: exploit biases, prohibit gender cues, allow non-discriminatory cues, proactively use cues to counter bias.",
+   "Authors favor design that proactively limits discriminatory gender stereotypes.",
+   "Argument is claimed to extend to social robotics and other biases."
+  ],
+  "confidence": 0.85
+ }
+}

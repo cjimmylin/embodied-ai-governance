@@ -1,0 +1,105 @@
+{
+ "doc_id": "D0052",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:08:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0662438,
+  "in": 4,
+  "out": 3721,
+  "cache_read": 28903,
+  "cache_create": 7222,
+  "api_ms": 19271,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Ministerio de Justicia, Presidencia de la Nación (Argentina) – Derecho Fácil",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "AR"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "incident_reporting",
+   "education_training_programs",
+   "transparency_disclosure_labelling"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_oversight_control",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "risk_management_risk_tiers",
+   "civil_liability",
+   "education_training"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "AR",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Public-sector AI projects should follow UNESCO ethical principles: proportionality, safety, fairness, human oversight, transparency, awareness.",
+   "Multidisciplinary teams should be formed before designing or deploying AI systems.",
+   "Decisions, actions and changes must be logged across the lifecycle to enable audits.",
+   "Responsible persons must act immediately on harm, with incident procedures and records.",
+   "Public bodies must offer a human, in-person service alternative."
+  ],
+  "language": "es",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2023,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Argentine government plain-language web page summarising Disposición 2/2023 of the Chief of Cabinet, which gives recommendations for public-sector use of AI. It stresses UNESCO-based ethical principles, multidisciplinary teams, traceability, incident response, human oversight and a human service alternative.",
+  "title_clean": "Recomendaciones para el uso de Inteligencia Artificial",
+  "title_en": "Recommendations for the use of Artificial Intelligence",
+  "venue": "argentina.gob.ar – Derecho Fácil / Ley simple"
+ }
+}

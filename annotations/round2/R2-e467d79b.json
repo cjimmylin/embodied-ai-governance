@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-e467d79b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:45:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0847368,
+  "in": 4,
+  "out": 3684,
+  "cache_read": 33408,
+  "cache_create": 11884,
+  "api_ms": 19377,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Recommendation of 5 April 2013 on a common framework for a unique device identification system of medical devices in the Union (2013/172/EU)",
+  "title_en": "Commission Recommendation of 5 April 2013 on a common framework for a unique device identification system of medical devices in the Union (2013/172/EU)",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2013,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 99/17",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "technical_standards_reference",
+   "incident_reporting",
+   "international_cooperation",
+   "data_governance_requirements",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "2013 European Commission Recommendation urging Member States to adopt compatible, risk-based unique device identification (UDI) systems for medical devices, aligned with the GHTF/IMDRF approach. It sets UDI structure, obligations for economic operators and health institutions, and national database data elements. It contains no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "UDI comprises a device identifier and production identifier, in both human-readable and AIDC formats",
+   "Risk-based, gradual implementation starting with the highest risk class devices",
+   "Manufacturers, importers, distributors and health institutions should keep electronic UDI records",
+   "Member States should build national UDI databases using XML, to feed a future European UDI system in Eudamed",
+   "Aligned with international GHTF/IMDRF UDI guidance to avoid divergent systems"
+  ],
+  "confidence": 0.95
+ }
+}

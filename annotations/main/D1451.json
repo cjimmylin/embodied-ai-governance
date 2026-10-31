@@ -1,0 +1,95 @@
+{
+ "doc_id": "D1451",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:46:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0357378,
+  "in": 2,
+  "out": 1757,
+  "cache_read": 11758,
+  "cache_create": 4247,
+  "api_ms": 12613,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "research_science",
+   "healthcare"
+  ],
+  "authors_or_issuer": "Kyriakidou, M.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.6,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.1142/9789813149137_0074",
+  "embodied_categories": [
+   "biohybrid_or_cyborg",
+   "humanoid_general_purpose"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_dignity_autonomy",
+   "other"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "biohybrid_or_cyborg",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2016,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Conference paper (CLAWAR 2016) addressing ethical concerns arising from Auto-Catastrophic Theory's suggestions on how humanity might survive via and from robots, including cyborgs. Only the abstract is available. It frames living systems as subject to self-destructive and self-preserving processes.",
+  "key_provisions_or_claims": [
+   "Auto-Catastrophic Theory holds 'alive' systems are both auto-catastrophic and auto-survival via protogenic and deuterogenic procedures.",
+   "Humans are exposed to autocatastrophes such as natural death and murder.",
+   "Raises ethical concerns about humanity surviving via and from robots and cyborgs.",
+   "Full text unavailable; only the abstract is available."
+  ],
+  "title_clean": "Ethical Concerns Of Surviving Via And From Robots: Cyborgs And Expiry Dates",
+  "title_en": "Ethical Concerns Of Surviving Via And From Robots: Cyborgs And Expiry Dates",
+  "venue": "19th International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR 2016)"
+ }
+}

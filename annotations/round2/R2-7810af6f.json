@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-7810af6f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:44:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.039007799999999995,
+  "in": 2,
+  "out": 1758,
+  "cache_read": 11758,
+  "cache_create": 5062,
+  "api_ms": 9720,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2023/2090 laying down rules for the application of Regulation (EU) 2023/1231 as regards the content and the model form of the plant health label for plants for planting other than seed potatoes, and for machinery and vehicles which have been operated for agricultural or forestry purposes, entering into Northern Ireland from other parts of the United Kingdom",
+  "title_en": "Commission Implementing Regulation (EU) 2023/2090 on the plant health label for plants for planting and used agricultural/forestry machinery and vehicles entering Northern Ireland",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (L 241/106)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "GB"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU implementing regulation setting the content and model form of the 'NI plant health label' for plants for planting and used agricultural or forestry machinery and vehicles entering Northern Ireland from the rest of the UK. It is a plant-health and trade measure with no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Defines mandatory label elements: 'NI plant health label', object name, operator registration number, traceability code, QR code or compliance statement.",
+   "Label must state 'for use in the United Kingdom only'.",
+   "Applies from 1 October 2023 under Regulation (EU) 2023/1231 Article 10.",
+   "Based on UK written guarantees and a Commission control of Northern Ireland SPS inspection facilities."
+  ],
+  "confidence": 0.97
+ }
+}

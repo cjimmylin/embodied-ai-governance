@@ -1,0 +1,98 @@
+{
+ "doc_id": "D0897",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:59:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.03477380000000001,
+  "in": 2,
+  "out": 1953,
+  "cache_read": 11758,
+  "cache_create": 3516,
+  "api_ms": 9538,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Radar-Based Ego-Motion Estimation Using RadarScenes, Simulation, and Real-World Robot Data; Ego-Motion Estimation via Millimeter-Wave Radar SLAM Reconstructing Perception: Radar SLAM and the Ethics of Artificial Intelligence in Autonomous Navigation",
+  "title_en": "Radar-Based Ego-Motion Estimation Using RadarScenes, Simulation, and Real-World Robot Data; Ego-Motion Estimation via Millimeter-Wave Radar SLAM Reconstructing Perception: Radar SLAM and the Ethics of Artificial Intelligence in Autonomous Navigation",
+  "language": "en",
+  "authors_or_issuer": "Lei, N.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": "10.18130/yjsm-3n41",
+  "venue": "University of Virginia Libra (Online Archive of University of Virginia Scholarship)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "thesis_or_dissertation",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "thesis",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "research_science"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "civil_liability",
+   "trust_acceptance",
+   "safety_physical_harm",
+   "ethics_principles"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "mixed",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Undergraduate portfolio from the University of Virginia combining a technical radar SLAM ego-motion estimation project with an STS paper on accountability and trust in opaque machine perception for autonomous vehicles. Only the abstract is available. It argues for greater transparency, clearer accountability and cautious deployment.",
+  "key_provisions_or_claims": [
+   "Radar SLAM pipeline using Kabsch algorithm and RANSAC estimates platform ego-motion from noisy, sparse radar data.",
+   "Machine perception is treated as objective despite design choices, creating a gap between perceived and actual reliability.",
+   "Responsibility becomes distributed and obscured across designers, organizations and technology when failures occur.",
+   "Algorithmic governance and technological momentum frameworks explain entrenchment of opaque systems.",
+   "Calls for transparency, clearer accountability structures and more cautious deployment."
+  ],
+  "confidence": 0.85
+ }
+}

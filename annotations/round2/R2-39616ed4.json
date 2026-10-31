@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-39616ed4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:45:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0280978,
+  "in": 2,
+  "out": 1763,
+  "cache_read": 11758,
+  "cache_create": 2322,
+  "api_ms": 8868,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "全国标准信息公共服务平台 标准检索结果：GB/T 48317.3-2026 人形机器人技术要求 第3部分：决策规划",
+  "title_en": "National Standards Information Public Service Platform – Search result: GB/T 48317.3-2026 Technical Requirements for Humanoid Robots, Part 3: Decision Planning",
+  "language": "zh",
+  "authors_or_issuer": "国家市场监督管理总局 国家标准化管理委员会 (SAMR / SAC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台 (std.samr.gov.cn)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Search-result page on China's national standards platform listing one recommended national standard, GB/T 48317.3-2026, Technical requirements for humanoid robots Part 3: Decision planning. Published 2026-09-28, effective 2027-04-01, status upcoming. Only catalogue metadata is shown, not the standard's text.",
+  "key_provisions_or_claims": [
+   "GB/T 48317.3-2026 covers humanoid robot decision planning (Part 3)",
+   "Recommended (voluntary) national standard, adopted-standard flag shown",
+   "Published 2026-09-28; takes effect 2027-04-01",
+   "Classified under ICS 25 (mechanical manufacturing)"
+  ],
+  "confidence": 0.85
+ }
+}

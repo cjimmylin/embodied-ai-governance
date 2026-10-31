@@ -1,0 +1,93 @@
+{
+ "doc_id": "D1125",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:37:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026299799999999998,
+  "in": 2,
+  "out": 1578,
+  "cache_read": 11758,
+  "cache_create": 2335,
+  "api_ms": 19153,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Should we fear artificial intelligence?",
+  "title_en": "Should we fear artificial intelligence?",
+  "language": "en",
+  "authors_or_issuer": "European Parliament, Panel for the Future of Science and Technology (STOA)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2018,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Parliament STOA website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "labor_employment",
+   "trust_acceptance"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Parliament STOA web page for a March 2018 In-Depth Analysis presenting four opinion pieces from different disciplines on whether society should fear AI and how its development should proceed. Only the abstract and metadata are shown; no embodied-AI content is visible.",
+  "key_provisions_or_claims": [
+   "Presents four opinion pieces answering 'should we fear AI?'",
+   "Authors come from different disciplines and hold diverging perspectives",
+   "AI is predicted to have a huge impact on humanity",
+   "Policy areas listed include consumer protection, employment and research policy"
+  ],
+  "confidence": 0.8
+ }
+}

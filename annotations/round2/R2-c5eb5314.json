@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-c5eb5314",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:01:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2155197,
+  "in": 4,
+  "out": 3682,
+  "cache_read": 65302,
+  "cache_create": 43793,
+  "api_ms": 24409,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Civil Aviation Safety Regulations 1998",
+  "title_en": "Civil Aviation Safety Regulations 1998",
+  "language": "en",
+  "authors_or_issuer": "Civil Aviation Safety Authority (CASA); Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts (Australia)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Register of Legislation (Australia)",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Compilation of Australia's Civil Aviation Safety Regulations 1998 (as at 29 September 2026), made under the Civil Aviation Act 1988. The excerpt is mainly the table of contents covering aircraft certification, airworthiness, registration, licensing and operations. Remotely piloted aircraft (drones) are covered via Part 101 and RPA registration provisions in Part 47.",
+  "key_provisions_or_claims": [
+   "Part 21 sets type certification, production and airworthiness certification requirements for aircraft and parts",
+   "Part 47 requires aircraft registration, with a separate division for medium, small, very small and micro RPA",
+   "Part 101 regulates unmanned aircraft and rockets, including accreditation and model aircraft rules",
+   "Parts 61, 65 and 66 establish licensing for pilots, air traffic controllers and engineers",
+   "Part 11 sets CASA's authorisation, exemption and direction procedures"
+  ],
+  "confidence": 0.7
+ }
+}

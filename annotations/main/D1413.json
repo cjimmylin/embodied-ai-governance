@@ -1,0 +1,96 @@
+{
+ "doc_id": "D1413",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:44:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030945800000000002,
+  "in": 2,
+  "out": 1739,
+  "cache_read": 11758,
+  "cache_create": 3094,
+  "api_ms": 11405,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "authors_or_issuer": "Malbois, E.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "book_or_chapter",
+  "doi": "10.3233/FAIA241514",
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "research_ethics",
+   "human_robot_interaction_social_effects"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "CH",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Value-based design is essential but faces application challenges.",
+   "Risks from unintended use of social robots are likely overlooked.",
+   "Some risk mitigation strategies are inaccessible to robot designers.",
+   "Current system lacks support and incentives for time-consuming ethical design.",
+   "Measures can be introduced to support responsible robot development."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "social_companion_robots",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 2,
+  "pub_year": 2025,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Proceedings chapter (abstract page) arguing that value-based design is necessary for ethical social robots but insufficient: unintended-use risks are overlooked, some mitigation strategies are inaccessible to designers, and the system lacks support and incentives for ethical design. It proposes measures for responsible development.",
+  "title_clean": "Beyond Value-Based Design: For a More Comprehensive and Supportive System of Ethical Robot Development",
+  "title_en": "Beyond Value-Based Design: For a More Comprehensive and Supportive System of Ethical Robot Development",
+  "venue": "Social Robots with AI: Prospects, Risks, and Responsible Methods (Frontiers in Artificial Intelligence and Applications 397), IOS Press"
+ }
+}

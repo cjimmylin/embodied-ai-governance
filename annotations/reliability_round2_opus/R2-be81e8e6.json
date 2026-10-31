@@ -1,0 +1,116 @@
+{
+ "doc_id": "R2-be81e8e6",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:07:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.3602396,
+  "in": 2,
+  "out": 2232,
+  "cache_read": 11758,
+  "cache_create": 39155,
+  "api_ms": 16448,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Supply of Machinery (Safety) Regulations 1992",
+  "title_en": "The Supply of Machinery (Safety) Regulations 1992",
+  "language": "en",
+  "authors_or_issuer": "Department of Trade and Industry (Secretary of State), United Kingdom",
+  "issuer_type": "national_government_executive",
+  "pub_year": 1992,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "legislation.gov.uk",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing",
+   "construction",
+   "agriculture_food",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "criminal_liability",
+   "consumer_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "licensing_registration",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Directive 89/392/EEC",
+   "Council Directive 91/368/EEC",
+   "Low Voltage Directive 73/23/EEC",
+   "Consumer Protection Act 1987",
+   "Health and Safety at Work etc. Act 1974",
+   "European Communities Act 1972",
+   "Supply of Machinery (Safety) Regulations 2008"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UK statutory instrument implementing the EC Machinery Directive 89/392/EEC. It prohibits supplying machinery unless it meets essential health and safety requirements, has gone through conformity assessment and carries the CE mark, and it sets offences and penalties. Robots are mentioned only in passing. Later amended, then revoked and replaced by the 2008 Regulations.",
+  "key_provisions_or_claims": [
+   "No person may supply relevant machinery unless it meets the essential health and safety requirements, is in fact safe, and has an EC declaration of conformity and CE marking",
+   "Responsible persons must compile technical files; Schedule 4 high-hazard machinery requires approved-body involvement or EC type-examination",
+   "The Secretary of State appoints UK approved bodies for conformity assessment",
+   "Essential requirements cover control system safety and reliability, emergency stops, guards, and instructions, including controls for robot training",
+   "Breaches are criminal offences, with a due diligence defence and liability for company officers"
+  ],
+  "confidence": 0.82
+ }
+}

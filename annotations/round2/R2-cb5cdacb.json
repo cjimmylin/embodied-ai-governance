@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-cb5cdacb",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028859799999999998,
+  "in": 2,
+  "out": 1774,
+  "cache_read": 11758,
+  "cache_create": 2485,
+  "api_ms": 8427,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 21717:2018 Intelligent transport systems — Partially Automated In-Lane Driving Systems (PADS) — Performance requirements and test procedures",
+  "title_en": "ISO 21717:2018 Intelligent transport systems — Partially Automated In-Lane Driving Systems (PADS) — Performance requirements and test procedures",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 204 (International Organization for Standardization)",
+  "issuer_type": "standards_body",
+  "pub_year": 2018,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Standards Catalogue",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "human_oversight_control"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "SAE J3016"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO 21717:2018, specifying control strategy, minimum functionality, driver interface, failure diagnostics and performance test procedures for Partially Automated In-Lane Driving Systems in cars, commercial vehicles and buses (below SAE level 3). The standard is flagged for revision as ISO/DIS 21717.",
+  "key_provisions_or_claims": [
+   "Defines basic control strategy and minimum functionality for PADS",
+   "Sets driver interface and failure reaction/diagnostic requirements",
+   "Provides performance test procedures",
+   "Applies to passenger cars, commercial vehicles, buses; excludes SAE level 3+",
+   "Status 90.92: to be revised, replacement ISO/DIS 21717 expected"
+  ],
+  "confidence": 0.85
+ }
+}

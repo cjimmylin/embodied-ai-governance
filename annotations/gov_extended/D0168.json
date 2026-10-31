@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0168",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:38:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2549398,
+  "in": 2,
+  "out": 1886,
+  "cache_read": 11758,
+  "cache_create": 58725,
+  "api_ms": 13209,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Projeto de Lei n° 2338, de 2023 - Marco Legal da Inteligência Artificial (página de atividade legislativa)",
+  "title_en": "Bill No. 2338 of 2023 - Legal Framework for Artificial Intelligence (legislative activity page)",
+  "language": "pt",
+  "authors_or_issuer": "Senado Federal do Brasil",
+  "issuer_type": "legislature",
+  "pub_year": 2025,
+  "pub_month": 3,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Senado Federal - Atividade Legislativa",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "intellectual_property",
+   "fairness_bias_discrimination",
+   "transparency_explainability",
+   "human_oversight_control",
+   "labor_employment",
+   "children_vulnerable_groups",
+   "civil_liability",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Senate legislative-tracking page for Brazil's PL 2338/2023, the AI legal framework bill. It lists the bill's procedural history, committee reports, over 240 amendments, requests and stakeholder submissions. The Senate passed the substitute text in December 2024 and sent it to the Chamber of Deputies in March 2025. The page does not reproduce the bill text.",
+  "key_provisions_or_claims": [
+   "Bill PL 2338/2023 by Senator Rodrigo Pacheco regulates the use of AI in Brazil.",
+   "Temporary Committee on AI (CTIA) approved the substitute text on 5 Dec 2024, with Senator Eduardo Gomes as rapporteur.",
+   "Over 240 amendments were filed, on topics including copyright, labour protection, children, human oversight and burden of proof.",
+   "Bill sent to the Chamber of Deputies for review on 17 Mar 2025.",
+   "Bill was processed jointly with PL 21/2020, 5051/2019, 872/2021 and others."
+  ],
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-11e49e8d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0243038,
+  "in": 2,
+  "out": 1584,
+  "cache_read": 11758,
+  "cache_create": 1821,
+  "api_ms": 8969,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "IFR Position Papers",
+  "title_en": "IFR Position Papers",
+  "language": "en",
+  "authors_or_issuer": "International Federation of Robotics (IFR)",
+  "issuer_type": "industry_association",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "International Federation of Robotics website",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "collaborative_robots",
+   "humanoid_general_purpose",
+   "professional_service_robots",
+   "mobile_industrial_logistics",
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "industrial_policy_innovation",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Landing page of the International Federation of Robotics listing its position papers on robots and automation, including service robots, employment and competitiveness, humanoids, cobots and connected robots. Only titles and contact details appear; the papers themselves require registration to download.",
+  "key_provisions_or_claims": [
+   "IFR issues positioning papers giving its opinion on topical robotics issues",
+   "Papers cover employment, productivity, humanoids, cobots, service robots and daily life",
+   "Downloads require registration"
+  ],
+  "confidence": 0.6
+ }
+}

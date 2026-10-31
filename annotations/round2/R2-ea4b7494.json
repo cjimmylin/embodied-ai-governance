@@ -1,0 +1,114 @@
+{
+ "doc_id": "R2-ea4b7494",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1096618,
+  "in": 2,
+  "out": 1905,
+  "cache_read": 11758,
+  "cache_create": 22358,
+  "api_ms": 9643,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Canada's Safety Framework for Connected and Automated Vehicles 2.0",
+  "title_en": "Canada's Safety Framework for Connected and Automated Vehicles 2.0",
+  "language": "en",
+  "authors_or_issuer": "Transport Canada",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Transport Canada (Canada.ca)",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA",
+   "US"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "industrial_policy_innovation",
+   "trust_acceptance",
+   "privacy_data_protection",
+   "human_robot_interaction_social_effects",
+   "consumer_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "international_cooperation",
+   "audits_impact_assessment",
+   "licensing_registration",
+   "education_training_programs",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "ISO/IEC 22989"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Transport Canada's updated framework describes the federal approach to connected and automated vehicle safety. It covers the Motor Vehicle Safety Act self-certification regime, exemptions for innovation, non-binding testing, safety assessment and cybersecurity guidance, public awareness work, international harmonization (UNECE WP.29/WP.1), research and funding programs.",
+  "key_provisions_or_claims": [
+   "Self-certification regime under the Motor Vehicle Safety Act with Canada Motor Vehicle Safety Standards and oversight program",
+   "Ministerial exemption authority (up to five years) to enable testing and innovation",
+   "Non-binding guidance: Testing ADS Guidelines v2.0, Safety Assessment for ADS, Vehicle Cyber Security Guidance",
+   "Alignment with the US and UNECE WP.29/WP.1 for harmonized regulations",
+   "Research on simulation and scenario-based validation toward future regulation; funding programs"
+  ],
+  "confidence": 0.85
+ }
+}

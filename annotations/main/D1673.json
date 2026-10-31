@@ -1,0 +1,105 @@
+{
+ "doc_id": "D1673",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:53:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0447878,
+  "in": 2,
+  "out": 1798,
+  "cache_read": 11758,
+  "cache_create": 6407,
+  "api_ms": 29157,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "“Oh, Dignity too?” Said the Robot: Human Dignity as the Basis for the Governance of Robotics",
+  "title_en": "“Oh, Dignity too?” Said the Robot: Human Dignity as the Basis for the Governance of Robotics",
+  "language": "en",
+  "authors_or_issuer": "Zardiashvili, L.; Fosch-Villaronga, E.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s11023-019-09514-6",
+  "venue": "Minds and Machines",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "rehabilitation_exoskeleton_prosthetic",
+   "surgical_medical_robots",
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "human_dignity_autonomy",
+   "human_robot_interaction_social_effects",
+   "ethics_principles",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "children_vulnerable_groups"
+  ],
+  "primary_topic": "human_dignity_autonomy",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Journal article examining how healthcare robots (care, guiding, exoskeleton robots) both support and threaten human dignity. It argues safety rules and data protection are inflexible while technology ethics is unenforceable, and proposes human dignity as the overarching, binding yet flexible governance concept for robotics.",
+  "key_provisions_or_claims": [
+   "Healthcare robots can both promote and pressure human dignity.",
+   "Risks of objectification, dehumanisation of care and dependency.",
+   "Safety and data-protection rules lack flexibility; ethics lacks enforceability.",
+   "Human dignity proposed as overarching legal concept for robot governance.",
+   "Dignity has a minimum core usable as a legal basis."
+  ],
+  "confidence": 0.9
+ }
+}

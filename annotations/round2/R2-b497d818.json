@@ -1,0 +1,119 @@
+{
+ "doc_id": "R2-b497d818",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1773778,
+  "in": 2,
+  "out": 2067,
+  "cache_read": 11758,
+  "cache_create": 38882,
+  "api_ms": 13036,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI): Amendments adopted by the European Parliament on 26 March 2026",
+  "title_en": "Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI): Amendments adopted by the European Parliament on 26 March 2026",
+  "language": "en",
+  "authors_or_issuer": "European Parliament",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (C series)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "surgical_medical_robots",
+   "other_embodied"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "cybersecurity",
+   "fairness_bias_discrimination",
+   "safety_physical_harm",
+   "education_training"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "prohibitions_bans",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "funding_or_incentives",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "EU Machinery Regulation"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "European Parliament's first-reading amendments to the Commission's Digital Omnibus on AI, amending the EU AI Act. They adjust high-risk application dates, SME/SMC relief, AI literacy, bias-data processing, sandboxes, AI Office powers, and the interface with product-safety legislation such as the Machinery Regulation. They also add a nudification-app ban.",
+  "key_provisions_or_claims": [
+   "Delays high-risk AI obligations to 2 December 2027 (Annex III) and 2 August 2028 (Annex I products).",
+   "Adds a prohibition on AI nudification systems generating non-consensual sexually explicit imagery.",
+   "Narrows the 'safety component' notion in Article 6(1) to functions necessary for compliance with safety requirements.",
+   "Amends the Machinery Regulation and other sectoral laws so AI Act Chapter III Section 2 requirements count as essential safety requirements.",
+   "Extends real-world testing and sandboxes, including an EU-level sandbox run by the AI Office; strengthens AI Office resources."
+  ],
+  "confidence": 0.85
+ }
+}

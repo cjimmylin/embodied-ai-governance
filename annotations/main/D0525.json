@@ -1,0 +1,94 @@
+{
+ "doc_id": "D0525",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:20:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0417818,
+  "in": 2,
+  "out": 1625,
+  "cache_read": 11758,
+  "cache_create": 6088,
+  "api_ms": 8428,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "public_administration_justice",
+   "defense_security"
+  ],
+  "authors_or_issuer": "Feng, Z.; Wang, Z.; Hu, L.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "software_agent_called_robot",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "other",
+   "transparency_explainability",
+   "cybersecurity"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Social bots shape media agendas and online public opinion, with foreign bots seen as threatening China's opinion environment.",
+   "Recommends AI screening of public social accounts and regulations standardizing media behavior.",
+   "Proposes technical identification of hostile social bots on domestic platforms.",
+   "Advocates deploying Chinese social bots overseas to shape foreign public sentiment and divide opinion camps."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2024,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Chinese journal article on social bots (software accounts) shaping online media agendas. It proposes a national defense system—AI screening of accounts, regulation of media behavior, blocking foreign bots—and an offensive strategy of deploying Chinese social bots overseas to influence foreign public opinion.",
+  "title_clean": "Social Robots and Internet Opinion Rights",
+  "title_en": "Social Robots and Internet Opinion Rights",
+  "venue": "Journal of New Media and Economics"
+ }
+}

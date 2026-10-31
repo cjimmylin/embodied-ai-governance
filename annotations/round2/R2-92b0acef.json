@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-92b0acef",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:46:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1773178,
+  "in": 2,
+  "out": 2109,
+  "cache_read": 11758,
+  "cache_create": 38762,
+  "api_ms": 12188,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Regulation amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards simplifying and reducing the burden of the rules on medical devices and in vitro diagnostic medical devices, and amending Regulation (EU) 2022/123 and Regulation (EU) 2024/1689",
+  "title_en": "Proposal for a Regulation amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards simplifying and reducing the burden of the rules on medical devices and in vitro diagnostic medical devices, and amending Regulation (EU) 2022/123 and Regulation (EU) 2024/1689",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2025) 1023 final, 2025/0404(COD)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "transparency_explainability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "incident_reporting",
+   "oversight_body_creation",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "international_cooperation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "ISO/IEC 42001"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "European Commission proposal (December 2025) to simplify the Medical Devices and IVD Regulations, reducing administrative burden and notified-body involvement. It also moves the MDR and IVDR from Section A to Section B of Annex I of the EU AI Act, limiting AI Act application to AI-enabled medical devices, and adds cybersecurity incident reporting and regulatory sandboxes.",
+  "key_provisions_or_claims": [
+   "Moves MDR and IVDR from Annex I Section A to Section B of the AI Act, limiting its application to AI-enabled medical devices.",
+   "Commission may set AI-specific requirements via delegated and implementing acts, taking account of AI Act Chapter III Section 2.",
+   "Notified bodies assessing high-risk AI medical devices must meet AI Act Article 31 requirements.",
+   "Reduces notified-body involvement for lower-risk devices and removes the maximum certificate validity period.",
+   "Introduces regulatory sandboxes and cybersecurity incident reporting to CSIRTs and ENISA through Eudamed."
+  ],
+  "confidence": 0.9
+ }
+}

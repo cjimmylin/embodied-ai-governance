@@ -1,0 +1,105 @@
+{
+ "doc_id": "D0396",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:42:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0201026,
+  "in": 2,
+  "out": 1823,
+  "cache_read": 18686,
+  "cache_create": 0,
+  "api_ms": 11060,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Autonomous delivery robots: a legal framework for infliction of game-theoretic small penalties on pedestrians",
+  "title_en": "Autonomous delivery robots: a legal framework for infliction of game-theoretic small penalties on pedestrians",
+  "language": "en",
+  "authors_or_issuer": "Basu, S.; Omotubora, A.; Fox, C.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": "10.1080/17579961.2024.2392940",
+  "venue": "Law, Innovation and Technology",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots",
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "criminal_liability",
+   "privacy_data_protection",
+   "safety_physical_harm",
+   "human_robot_interaction_social_effects",
+   "legal_personhood_robot_rights",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Legal analysis of how autonomous delivery robots, which game theory says must credibly threaten small harms to avoid the 'freezing robot' problem, could lawfully operate. It proposes treating ADRs as pedestrians, using robot self-defence and property rights as justification, and examines liability and privacy/data protection issues.",
+  "key_provisions_or_claims": [
+   "Game theory requires ADRs to keep a small non-zero collision probability as a credible threat, which needs legal justification.",
+   "ADRs could be treated as pedestrians under existing law.",
+   "Robot self-defence and defence of property proposed as the legal basis for small penalties.",
+   "Liability analysed for deliberate and accidental collisions.",
+   "Data collection to model interactions raises privacy and data protection challenges; legal reform and consultation may be needed."
+  ],
+  "confidence": 0.9
+ }
+}

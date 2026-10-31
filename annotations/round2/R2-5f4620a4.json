@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-5f4620a4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.061201500000000006,
+  "in": 4,
+  "out": 4075,
+  "cache_read": 26675,
+  "cache_create": 5215,
+  "api_ms": 20347,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "authors_or_issuer": "Argentina, Austria, Belgium, Chile, Costa Rica, Ecuador, Guatemala, Ireland, Kazakhstan, Liechtenstein, Luxembourg, Malta, Mexico, New Zealand, Nigeria, Panama, Peru, Philippines, Sierra Leone, Sri Lanka, State of Palestine, Switzerland, Uruguay",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.85,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_proposal_or_draft",
+  "doc_type": "consultation_or_white_paper",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "human_dignity_autonomy",
+   "ethics_principles",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "proposal_or_concept",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Humans must make use-of-force decisions, retain control and remain accountable under IHL.",
+   "Autonomous weapons that cannot comply with IHL must not be developed, deployed or used.",
+   "Prohibit systems not sufficiently predictable or controllable; regulate others via limits on targets, duration, scope and scale.",
+   "Require human-machine interaction ensuring oversight, timely intervention and deactivation.",
+   "Strengthen Article 36 weapon reviews; voluntary measures complement but do not replace binding rules."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE",
+   "Geneva Conventions Additional Protocol I Article 36",
+   "CCW 11 Guiding Principles on LAWS"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "pub_month": null,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Joint working paper by 23 states to the 2022 CCW GGE chair on lethal autonomous weapons systems. It urges the GGE to affirm human control and accountability over use of force, prohibit unpredictable or uncontrollable systems, and set limits and human-control requirements for others, supported by strengthened Article 36 weapon reviews.",
+  "title_clean": "Working Paper submitted to the 2022 Chair of the Group of Governmental Experts on emerging technologies in the area of lethal autonomous weapons systems",
+  "title_en": "Working Paper submitted to the 2022 Chair of the Group of Governmental Experts on emerging technologies in the area of lethal autonomous weapons systems",
+  "venue": "UN CCW Group of Governmental Experts on LAWS"
+ }
+}

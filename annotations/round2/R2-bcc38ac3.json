@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-bcc38ac3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:49:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1524918,
+  "in": 2,
+  "out": 1764,
+  "cache_read": 11758,
+  "cache_create": 33418,
+  "api_ms": 12088,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Directive 2004/104/EC adapting to technical progress Council Directive 72/245/EEC relating to the radio interference (electromagnetic compatibility) of vehicles and amending Directive 70/156/EEC",
+  "title_en": "Commission Directive 2004/104/EC adapting to technical progress Council Directive 72/245/EEC relating to the radio interference (electromagnetic compatibility) of vehicles and amending Directive 70/156/EEC",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2004,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union L 337/13",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "2004 Commission Directive updating EU electromagnetic compatibility type-approval requirements for motor vehicles and electrical/electronic subassemblies, with emission and immunity limits, test methods, marking and conformity-of-production rules. It contains no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Replaces annexes of Directive 72/245/EEC with updated EMC requirements",
+   "Sets radiated emission limits and immunity test levels for vehicles and ESAs",
+   "Aftermarket non-safety components need only a Declaration of Conformity",
+   "Phased application dates from 2006 to 2009 for type-approval and registration",
+   "Member States must transpose by 31 December 2005"
+  ],
+  "confidence": 0.95
+ }
+}

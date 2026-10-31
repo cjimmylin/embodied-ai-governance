@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0894",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:30:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0589349,
+  "in": 4,
+  "out": 3416,
+  "cache_read": 27924,
+  "cache_create": 6145,
+  "api_ms": 17749,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "research_science"
+  ],
+  "authors_or_issuer": "Zhu, Q.; Williams, T.; Wen, R.",
+  "issuer_type": "academic_or_research",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.25884/5qbh-m581",
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "research_ethics"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "social_companion_robots",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2019,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Conference paper proposing a non-Western, role-based Confucian approach to robot ethics and artificial moral agents, as an alternative to deontological and utilitarian frameworks. It outlines preliminary ideas and empirical studies, arguing morally competent robots should foster human teammates' virtue development in human-robot interaction.",
+  "key_provisions_or_claims": [
+   "Western rule-based ethics (deontological, utilitarian) face philosophical and computational challenges for artificial moral agents.",
+   "A Confucian role-based ethics offers an alternative approach to robot ethics.",
+   "Morally competent robots should support reliable, efficient human-robot interaction.",
+   "Robots should create environments where human teammates can cultivate their own virtues.",
+   "Research group's empirical studies incorporate Confucian insights into robot design."
+  ],
+  "title_clean": "Confucian Robot Ethics",
+  "title_en": "Confucian Robot Ethics",
+  "venue": "Computer Ethics - Philosophical Enquiry (CEPE) Proceedings"
+ }
+}

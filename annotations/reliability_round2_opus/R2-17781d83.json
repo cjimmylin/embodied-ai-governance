@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-17781d83",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:02:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.36830359999999995,
+  "in": 2,
+  "out": 2024,
+  "cache_read": 11758,
+  "cache_create": 40683,
+  "api_ms": 15328,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "14 CFR Part 91—General Operating and Flight Rules",
+  "title_en": "14 CFR Part 91—General Operating and Flight Rules",
+  "language": "en",
+  "authors_or_issuer": "Federal Aviation Administration (FAA), U.S. Department of Transportation",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Electronic Code of Federal Regulations (eCFR)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "incident_reporting",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [
+   "Convention on International Civil Aviation",
+   "14 CFR Part 107",
+   "Federal Aviation Act of 1958"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "US FAA regulation (14 CFR Part 91) setting general operating and flight rules for civil aircraft in US airspace: pilot-in-command responsibility, airworthiness, right-of-way, airspace classes, flight restrictions, equipment and flight recorders, and RVSM. It concerns crewed aviation, not AI, and says Part 91 generally does not apply to small drones covered by Part 107.",
+  "key_provisions_or_claims": [
+   "Pilot in command is directly responsible for and final authority on aircraft operation",
+   "No person may operate a civil aircraft unless airworthy",
+   "Right-of-way, minimum altitude and airspace-class operating rules",
+   "Equipment requirements including transponders, ADS-B Out and cockpit voice/flight data recorders",
+   "Part 91 generally does not apply to aircraft governed by Part 107 (small UAS)"
+  ],
+  "confidence": 0.8
+ }
+}

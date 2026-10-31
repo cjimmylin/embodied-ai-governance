@@ -1,0 +1,101 @@
+{
+ "doc_id": "D0547",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:39:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0465198,
+  "in": 2,
+  "out": 1784,
+  "cache_read": 11758,
+  "cache_create": 6875,
+  "api_ms": 10082,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Begishev, I.R.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "RU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.33693/2223-0092-2021-11-4-82-91",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "other_embodied"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "cybersecurity",
+   "safety_physical_harm",
+   "legal_personhood_robot_rights",
+   "civil_liability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Survey of 305 Russian legal professionals and students on criminal law regulation of robotics.",
+   "Most respondents see robot circulation as a distinct sphere of social relations, at least for some robot types.",
+   "60.9% are unaware of legal acts regulating robots.",
+   "97% consider unauthorized access to robot software a real risk; 83.6% say it constitutes a crime.",
+   "Respondents support supplementing Criminal Code Articles 272-273 for robot-related offences."
+  ],
+  "language": "ru",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "other_embodied",
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "pub_month": 12,
+  "pub_year": 2021,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "empirical_quantitative",
+  "summary_en": "Journal article reporting an online survey of 305 Russian legal scholars, practitioners, students and officials on criminal law regulation of robotics: definition of robot, awareness of regulation, criminal liability for harm by autonomous robots, and unauthorized access to robot software. Respondents largely support criminal-law adaptation.",
+  "title_clean": "Уголовно-правовое регулирование робототехники: результаты социологического исследования",
+  "title_en": "Criminal Law Regulation of Robotics: Results of a Sociological Study",
+  "venue": "Nauchnye issledovaniya / Humanities and Social Sciences journal (ISSN 2223-0092), Vol 11, No 4"
+ }
+}

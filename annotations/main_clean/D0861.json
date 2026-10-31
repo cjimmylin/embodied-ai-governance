@@ -1,0 +1,108 @@
+{
+ "doc_id": "D0861",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:59:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.03918580000000001,
+  "in": 2,
+  "out": 1829,
+  "cache_read": 11758,
+  "cache_create": 4929,
+  "api_ms": 9482,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "domestic_consumer",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Shen, F.X. (The Conversation)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "blog_or_opinion",
+  "doi": null,
+  "embodied_categories": [
+   "sex_robots",
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "cybersecurity",
+   "children_vulnerable_groups",
+   "human_robot_interaction_social_effects",
+   "criminal_liability",
+   "research_ethics"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "news_media",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "No universally accepted definition of sex robot complicates regulation or bans.",
+   "Bans on sex toys/robots may fall under Lawrence v. Texas sexual privacy; childlike robot bans (CREEPER Act) face uncertain constitutional challenge.",
+   "Consumer Product Safety Commission should consider regulating physical hazards of sex robots.",
+   "Intimate data privacy and hacking risks are unaddressed by regulation.",
+   "Empirical research needed to avoid reactionary governance based on fear."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "CREEPER Act",
+   "Lawrence v. Texas",
+   "Child Pornography Prevention Act of 1996",
+   "Houston robot brothel ordinance"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "sex_robots",
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 2,
+  "pub_year": 2019,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Op-ed by a law professor in The Conversation on legal and policy questions raised by sex robots in the US: definitional problems, constitutional limits on bans (Lawrence v. Texas, CREEPER Act), product safety under the CPSC, data privacy and hacking, and the need for empirical research before governing.",
+  "title_clean": "Sex robots are here, but laws aren't keeping up with the ethical and privacy issues they raise",
+  "title_en": "Sex robots are here, but laws aren't keeping up with the ethical and privacy issues they raise",
+  "venue": "The Conversation"
+ }
+}

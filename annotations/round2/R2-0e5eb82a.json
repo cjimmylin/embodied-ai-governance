@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-0e5eb82a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:51:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1728458,
+  "in": 2,
+  "out": 1817,
+  "cache_read": 11758,
+  "cache_create": 38374,
+  "api_ms": 10218,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Directive 2002/88/EC of the European Parliament and of the Council of 9 December 2002 amending Directive 97/68/EC on measures against the emission of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery",
+  "title_en": "Directive 2002/88/EC amending Directive 97/68/EC on emissions of gaseous and particulate pollutants from internal combustion engines installed in non-road mobile machinery",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2002,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union L 35",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU directive of 2002 extending emission limits to small spark-ignition (petrol) engines in non-road mobile machinery such as lawn mowers and chainsaws. It sets two-stage limit values, type-approval timetables, test procedures and annexes. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Extends Directive 97/68/EC to small spark-ignition engines up to 19 kW.",
+   "Sets Stage I and Stage II CO, HC and NOx limit values by engine class.",
+   "Member States must refuse type-approval and market placement of non-compliant engines after staged dates from 2004 to 2008.",
+   "Adds test procedures (Annex IV) and recognition of alternative type-approvals (Annex XII).",
+   "Commission to report by 2004 on particulate emissions and other engine categories."
+  ],
+  "confidence": 0.95
+ }
+}

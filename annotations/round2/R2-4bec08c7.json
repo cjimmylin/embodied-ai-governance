@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-4bec08c7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:40:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0540502,
+  "in": 4,
+  "out": 3567,
+  "cache_read": 26307,
+  "cache_create": 4622,
+  "api_ms": 17648,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "国家市场监督管理总局; 国家标准化管理委员会; 中国民用航空局 (归口)",
+  "binding_nature": "technical_standard_mandated",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "licensing_registration"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "instrument_status": "adopted_not_yet_in_force",
+  "is_governance_document": true,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Mandatory national standard GB 46750-2025 on operational identification of civil unmanned aircraft systems",
+   "Published 2025-10-31; takes effect 2026-05-01",
+   "Drafted by CAAC, CAAC Second Research Institute, Huawei, ZTE and others",
+   "Related standards cover UAS identity recognition, unique product identifiers, and obstacle avoidance"
+  ],
+  "language": "zh",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Catalogue page for China's mandatory national standard GB 46750-2025, Specification for civil unmanned aircraft system operational identification, issued 2025-10-31 and effective 2026-05-01. It lists drafting bodies (CAAC, Huawei, ZTE and others), classification data and related drone identification standards, but not the standard text.",
+  "title_clean": "民用无人驾驶航空器系统运行识别规范 (GB 46750-2025)",
+  "title_en": "Specification for civil unmanned aircraft system operational identification (GB 46750-2025)",
+  "venue": "全国标准信息公共服务平台"
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0968",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:42:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.034091800000000005,
+  "in": 2,
+  "out": 1746,
+  "cache_read": 11758,
+  "cache_create": 3863,
+  "api_ms": 8805,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "We Robot 2025: Connecting Global Robotics and AI",
+  "title_en": "We Robot 2025: Connecting Global Robotics and AI",
+  "language": "en",
+  "authors_or_issuer": "Thomasen, K.; Dunn, S.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Canadian Journal of Law and Technology",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "editorial_or_commentary",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "delivery_robots",
+   "agricultural_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "research_science",
+   "agriculture_food",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "human_robot_interaction_social_effects",
+   "privacy_data_protection",
+   "labor_employment",
+   "fairness_bias_discrimination",
+   "standards_interoperability"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Editorial introducing the Canadian Journal of Law and Technology special issue from the 2025 We Robot conference at Windsor Law. It describes the conference's interdisciplinary format and summarizes seven papers on robotic agriculture, expressive delivery robots, AI interoperability, generated personal data, contract law and generative AI, and facial recognition.",
+  "key_provisions_or_claims": [
+   "We Robot 2025 was held at the University of Windsor, its first in-person Canadian edition.",
+   "The conference is interdisciplinary and brings together law, robotics and AI regulation scholars.",
+   "The issue includes papers on robotic agriculture and labour control, and on expressive delivery robots and public perception.",
+   "Other papers address AI interoperability, generated personal data under the GDPR, GenAI in contract formation, and NFL facial recognition."
+  ],
+  "confidence": 0.85
+ }
+}

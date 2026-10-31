@@ -1,0 +1,109 @@
+{
+ "doc_id": "D0506",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:20:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0473878,
+  "in": 2,
+  "out": 1940,
+  "cache_read": 11758,
+  "cache_create": 6702,
+  "api_ms": 17355,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "authors_or_issuer": "Shimpo, F.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "JP",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.52882/2434-1738-0603",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "professional_service_robots",
+   "other_embodied"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "privacy_data_protection",
+   "cybersecurity",
+   "legal_personhood_robot_rights",
+   "trust_acceptance",
+   "standards_interoperability",
+   "other"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Cybernetic avatars need operator authentication, CA authentication and CA notarisation to be trustworthy.",
+   "Continuous authentication is needed to link operator and avatar.",
+   "Unidentified fabricated avatars (UFO avatars) risk enabling crime, so legislation analogous to Japan's mobile phone misuse law is needed.",
+   "A new field of 'AI, Robot, and Avatar Law' and an ELSI research platform are proposed.",
+   "Certification of tangible CAs via inspection-like procedures and of intangible CAs via anti-fake technology, referencing EU AI and machinery rules."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "EU Machinery Regulation"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "other_embodied",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2024,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Article by Fumio Shimpo on authentication infrastructure for cybernetic avatars (robots and virtual avatars). It proposes operator authentication, CA authentication and notarisation, and calls for a new field of 'AI, Robot, and Avatar Law' with an ELSI platform, plus certification and legislation against unidentified avatars.",
+  "title_clean": "Authentication of Cybernetic Avatars and Legal System Challenges; With a View to the Trial Concept of New Dimensional Domain Jurisprudence (AI, Robot, and Avatar Law)",
+  "title_en": "Authentication of Cybernetic Avatars and Legal System Challenges; With a View to the Trial Concept of New Dimensional Domain Jurisprudence (AI, Robot, and Avatar Law)",
+  "venue": "Japanese Society and Culture"
+ }
+}

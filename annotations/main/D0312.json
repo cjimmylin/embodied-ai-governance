@@ -1,0 +1,93 @@
+{
+ "doc_id": "D0312",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:15:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.044929800000000006,
+  "in": 2,
+  "out": 1709,
+  "cache_read": 11758,
+  "cache_create": 6665,
+  "api_ms": 10294,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Using Fitts' Law to Benchmark Assisted Human-Robot Performance",
+  "title_en": "Using Fitts' Law to Benchmark Assisted Human-Robot Performance",
+  "language": "en",
+  "authors_or_issuer": "Pan, J.; Eden, J.; Oetomo, D.; Johal, W.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "arXiv",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "research_science"
+  ],
+  "governance_topics": [
+   "human_robot_interaction_social_effects",
+   "trust_acceptance",
+   "human_oversight_control"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Technical human-robot collaboration paper proposing a Fitts' Law-based benchmark for shared-control teleoperation. A user study (N=24) shows task difficulty and robot autonomy level affect performance, cognitive load and trust. It has no governance content, though the benchmark could support assessing shared-control quality.",
+  "key_provisions_or_claims": [
+   "Proposes an adapted Fitts' Law as a benchmark for shared-control reaching tasks.",
+   "Task difficulty and robot autonomy both affect movement time, with higher autonomy reducing the difficulty effect.",
+   "Perceived cognitive load (NASA-TLX) and trust (MDMT) are influenced by difficulty and autonomy.",
+   "Task difficulty could serve as a proxy for real-time cognitive load estimation."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "doc_id": "D0651",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:13:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0900716,
+  "in": 2,
+  "out": 1962,
+  "cache_read": 11758,
+  "cache_create": 6059,
+  "api_ms": 14133,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The typification of infringement issues of humanoid robots: with special reference to the governance of infringement caused by learning algorithms",
+  "title_en": "The typification of infringement issues of humanoid robots: with special reference to the governance of infringement caused by learning algorithms",
+  "language": "en",
+  "authors_or_issuer": "An, X.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": "10.54254/2753-7102/2025.24455",
+  "venue": "Advances in Social Behavior Research",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN",
+   "EU",
+   "US"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector",
+   "domestic_consumer",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "transparency_explainability",
+   "safety_physical_harm",
+   "human_robot_interaction_social_effects",
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "consumer_protection"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "MIIT Guiding Opinions on the Innovative Development of Humanoid Robots",
+   "China Generative AI Measures",
+   "EU Product Liability Directive"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "A Chinese legal article that sorts tort harms caused by humanoid robots into types: passive harms and active harms, each with subtypes. It focuses on harms caused by learning algorithms. Using law-and-economics reasoning, including the Hand Formula, it proposes how liability should be split among manufacturers, users and providers of general AI models.",
+  "key_provisions_or_claims": [
+   "Humanoid robots' human-like appearance, intelligence and hybrid human-machine control create an 'anthropomorphic trap', widen the risk of harm and make liability harder to assign.",
+   "Tort harms can be split into passive and active types; harms from learning algorithms are the most distinctive because they arise autonomously and are hard to explain.",
+   "Manufacturers should follow national rules that change with their development stage and application scenario, guided by the Hand Formula.",
+   "Users are liable for negligence when they fail to take reasonable care.",
+   "Providers of general AI models may be jointly liable with humanoid robot product providers if they fail to meet transparency duties."
+  ],
+  "confidence": 0.85
+ }
+}

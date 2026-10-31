@@ -1,0 +1,119 @@
+{
+ "doc_id": "D1400",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:44:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0463938,
+  "in": 2,
+  "out": 1933,
+  "cache_read": 11758,
+  "cache_create": 6471,
+  "api_ms": 14555,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "An Introduction to Ethics in Robotics and AI",
+  "title_en": "An Introduction to Ethics in Robotics and AI",
+  "language": "en",
+  "authors_or_issuer": "Bartneck, C.; Lütge, C.; Wagner, A.; Welsh, S.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2021,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/978-3-030-51110-4",
+  "venue": "SpringerBriefs in Ethics (Springer)",
+  "jurisdiction_country": "NZ",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "book",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "military_autonomous_weapons",
+   "sex_robots",
+   "care_assistive_robots",
+   "social_companion_robots",
+   "surgical_medical_robots",
+   "educational_robots",
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "education",
+   "defense_security",
+   "logistics_transport",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "civil_liability",
+   "trust_acceptance",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "human_robot_interaction_social_effects",
+   "military_use_ihl",
+   "risk_management_risk_tiers",
+   "labor_employment",
+   "transparency_explainability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 2,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Open-access SpringerBrief introducing ethics of AI and robotics, written in a book sprint. It covers AI and ethics basics, trust and fairness, responsibility and liability, business risk, psychology, privacy, application areas (healthcare, sex robots), autonomous vehicles and autonomous weapons, concluding on ethics as a strategic challenge and international cooperation.",
+  "key_provisions_or_claims": [
+   "Ethical principles for trustworthy AI: non-maleficence, beneficence, autonomy, justice, explicability",
+   "Distinguishes moral responsibility from liability; discusses strict liability and the problem of many hands",
+   "Examines ethical issues of autonomous vehicles, including unavoidable accidents and accountability",
+   "Discusses autonomous weapons: discrimination, proportionality, responsibility",
+   "Concludes with ethics as a strategic challenge requiring international cooperation"
+  ],
+  "confidence": 0.8
+ }
+}

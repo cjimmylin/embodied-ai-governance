@@ -1,0 +1,108 @@
+{
+ "doc_id": "D0302",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:40:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1004118,
+  "in": 2,
+  "out": 1850,
+  "cache_read": 11758,
+  "cache_create": 20183,
+  "api_ms": 9551,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Guidance on the use of AI in regulatory practice (Version 1.1)",
+  "title_en": "Guidance on the use of AI in regulatory practice (Version 1.1)",
+  "language": "en",
+  "authors_or_issuer": "Ministry for Regulation (New Zealand)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry for Regulation (regulation.govt.nz)",
+  "jurisdiction_country": "NZ",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "NZ"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "ethics_principles",
+   "education_training",
+   "risk_management_risk_tiers",
+   "trust_acceptance"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "education_training_programs",
+   "oversight_body_creation",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "New Zealand Ministry for Regulation guidance for regulatory leaders on adopting AI (predictive and generative) in regulatory practice. Covers governance, vendor procurement, workforce readiness, human-in-the-loop oversight, iterative low-risk piloting, ethics, Te Tiriti o Waitangi and Māori data, with a checklist. Accountability stays with human decision-makers.",
+  "key_provisions_or_claims": [
+   "Accountability remains with legally authorised decision-makers, not AI tools or vendors.",
+   "Human-in-the-loop required at points of consequence, with guarding against automation bias and a right to appeal to a human.",
+   "Start with small, reversible, low-risk pilots, possibly via regulatory sandboxes.",
+   "Vendor contracts should include audit rights, data portability, exit plans and bias/performance commitments.",
+   "Treat Māori data as taonga and consider Te Tiriti obligations early."
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "doc_id": "D1061",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:35:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0461578,
+  "in": 2,
+  "out": 1959,
+  "cache_read": 11758,
+  "cache_create": 6347,
+  "api_ms": 10962,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for standard contractual clauses for the procurement of Artificial Intelligence (AI) by public organisations – High Risk version (draft)",
+  "title_en": "Proposal for standard contractual clauses for the procurement of Artificial Intelligence (AI) by public organisations – High Risk version (draft)",
+  "language": "en",
+  "authors_or_issuer": "Procurement of AI Community, European Commission Public Buyers Community (drafted by Naves, J., Pels Rijcken)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Public Buyers Community (European Commission)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "NL"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "human_oversight_control",
+   "cybersecurity",
+   "certification_conformity_assessment",
+   "privacy_data_protection",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Draft (September 2023) voluntary model contractual clauses for public bodies procuring high-risk AI systems, drawing on the proposed EU AI Act and Amsterdam's algorithm clauses. Imposes supplier duties on risk management, data governance, documentation, transparency, human oversight, accuracy, robustness, cybersecurity, quality management, conformity assessment and explanation. Not an official EU position.",
+  "key_provisions_or_claims": [
+   "Supplier must establish a continuous risk management system covering health, safety and fundamental rights risks and foreseeable misuse.",
+   "Clauses mirror AI Act Title III high-risk requirements; voluntary and to be aligned with final regulation.",
+   "Supplier must support explanation of individual decisions, including key factors and input changes.",
+   "Optional conformity assessment, quality management system, corrective actions and serious incident reporting.",
+   "Annexes require specified accuracy levels and robustness, safety and cybersecurity measures against data poisoning and adversarial attacks."
+  ],
+  "confidence": 0.85
+ }
+}

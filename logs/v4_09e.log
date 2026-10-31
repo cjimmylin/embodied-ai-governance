@@ -1,0 +1,58 @@
+overlap docs: 351
+                                            field         type    n  percent_agreement  kappa
+0                                     issuer_type       single  351              0.972  0.961
+1                                      date_basis       single  351              0.903  0.694
+2                            jurisdiction_country       single  351              0.997  0.997
+3                              jurisdiction_scope       single  351              0.997  0.993
+4                                        doc_type       single  351              0.920  0.905
+5                                       doc_class       single  351              0.949  0.896
+6                          is_governance_document       single  351              0.977 -0.005
+7                               instrument_status       single  351              0.900  0.823
+8                                  binding_nature       single  351              0.917  0.831
+9                               publication_stage       single  351              0.989  0.494
+10                                       ai_scope       single  351              0.906  0.763
+11                              embodiment_status       single  351              0.912  0.735
+12                      primary_embodied_category       single  351              0.937  0.658
+13                                  primary_topic       single  351              0.912  0.892
+14                robot_legal_personhood_position       single  351              0.989  0.760
+15                                   risk_framing       single  351              0.866  0.826
+16                       stance_toward_regulation       single  351              0.892  0.548
+17                                    methodology       single  351              1.000  1.000
+18                 faith_or_religious_perspective       single  351              1.000  1.000
+19                                   page_quality       single  351              0.915  0.671
+20                                       language       single  351              0.994  0.989
+21                   pub_year (exact, both known)      numeric  344              0.974    NaN
+22                       pub_year (within 1 year)      numeric  344              0.991    NaN
+23                       pub_year (known in both)      numeric  351              0.980    NaN
+24            relevance_to_embodied_ai_governance      ordinal  351              0.869  0.882
+25                            embodied_categories  multi-label  351              0.888  0.600
+26                            application_sectors  multi-label  351              0.838  0.750
+27                              governance_topics  multi-label  351              0.758  0.719
+28                          governance_mechanisms  multi-label  351              0.745  0.693
+29                         principle:transparency  ordinal 0-2  351              0.846  0.872
+30                     principle:justice_fairness  ordinal 0-2  351              0.852  0.880
+31                      principle:non_maleficence  ordinal 0-2  351              0.852  0.797
+32        principle:responsibility_accountability  ordinal 0-2  351              0.826  0.843
+33                              principle:privacy  ordinal 0-2  351              0.843  0.871
+34                          principle:beneficence  ordinal 0-2  351              0.883  0.886
+35                     principle:freedom_autonomy  ordinal 0-2  351              0.866  0.813
+36                                principle:trust  ordinal 0-2  351              0.803  0.818
+37                       principle:sustainability  ordinal 0-2  351              0.877  0.871
+38                              principle:dignity  ordinal 0-2  351              0.872  0.828
+39                           principle:solidarity  ordinal 0-2  351              0.877  0.815
+40                      principle:human_oversight  ordinal 0-2  351              0.815  0.848
+41                  principle:robustness_security  ordinal 0-2  351              0.835  0.836
+42                     principle:inclusive_growth  ordinal 0-2  351              0.917  0.942
+43                      principle:physical_safety  ordinal 0-2  351              0.937  0.871
+44                principle:human_robot_proximity  ordinal 0-2  351              0.969  0.872
+45        principle:liability_for_physical_damage  ordinal 0-2  351              0.972  0.786
+46               principle:autonomy_level_control  ordinal 0-2  351              0.897  0.667
+47  principle:conformity_assessment_certification  ordinal 0-2  351              0.863  0.764
+48                    principle:dual_use_military  ordinal 0-2  351              0.943  0.819
+                                                                                                                                    check     n  agreement  kappa
+0  Europe collector 'Robot focus' (Robotics/Humanoid/Embodied vs General AI) vs annotated ai_scope (embodied incl. provisions vs general)   684      0.817  0.612
+1                                         Europe collector 'Robot focus' vs annotated embodiment_status (physical/mixed vs none/software)   684      0.823  0.628
+2                                                                  Europe collector 'Type' vs annotated issuer_type (4 collapsed classes)   646      0.967  0.949
+3                                    Collector 2-letter country vs annotated jurisdiction_country (research papers, first-author country)  1594      0.977    NaN
+4                                                        Collector set (sprint=robotics vs database=general AI) vs annotated relevance>=2  3295      0.633  0.215
+5                                                                                 Collector tier Core vs annotated is_governance_document  1250      0.777  0.320

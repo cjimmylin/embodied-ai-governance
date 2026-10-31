@@ -1,0 +1,92 @@
+{
+ "doc_id": "R2-f7aaa2a7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:29:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0514298,
+  "in": 2,
+  "out": 1647,
+  "cache_read": 11758,
+  "cache_create": 8445,
+  "api_ms": 8176,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "中华人民共和国国务院令第814号：国务院关于修改《中华人民共和国外国人入境出境管理条例》的决定（附修订后条例全文）",
+  "title_en": "State Council Order No. 814: Decision on Amending the Regulations on the Entry and Exit of Foreigners (with revised full text)",
+  "language": "zh",
+  "authors_or_issuer": "中华人民共和国国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "China State Council Order No. 814 amends the Regulations on Entry and Exit of Foreigners, adding a K visa for young foreign science and technology talent, effective 1 October 2025. It republishes the full regulations on visas, residence permits, investigation and repatriation. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Adds K visa category for foreign young science and technology talent (Art. 6).",
+   "K visa applicants must meet conditions set by competent Chinese authorities and submit supporting documents (Art. 7).",
+   "Amendment takes effect 1 October 2025.",
+   "Republished regulations cover visa categories, residence permits, detention and repatriation procedures."
+  ],
+  "confidence": 0.95
+ }
+}

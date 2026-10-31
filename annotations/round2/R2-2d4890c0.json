@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-2d4890c0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:17:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0250718,
+  "in": 2,
+  "out": 1666,
+  "cache_read": 11758,
+  "cache_create": 1808,
+  "api_ms": 8282,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "LD 1724, HP 1204 (Maine legislative tracking page; Chapter 46, amending Title 29-A §2093)",
+  "title_en": "LD 1724, HP 1204 (Maine legislative tracking page; Chapter 46, amending Title 29-A §2093)",
+  "language": "en",
+  "authors_or_issuer": "Maine State Legislature",
+  "issuer_type": "legislature",
+  "pub_year": 2018,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Maine Legislature website",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Maine Legislature bill-status page for LD 1724 (HP 1204), finally passed April 10, 2018 as Chapter 46, unsigned by the governor. It amends Title 29-A §2093 and was handled by the Transportation committee. The page shows only procedural history, not the text; subject inferred as probably autonomous vehicle testing.",
+  "key_provisions_or_claims": [
+   "LD 1724 finally passed Apr 10, 2018 and became Chapter 46 without governor's signature",
+   "Committee reported Ought To Pass As Amended on Mar 15, 2018",
+   "Amends Title 29-A (Motor Vehicles) section 2093",
+   "Considered by the Joint Committee on Transportation"
+  ],
+  "confidence": 0.4
+ }
+}

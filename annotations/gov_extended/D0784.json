@@ -1,0 +1,112 @@
+{
+ "doc_id": "D0784",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:45:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1553898,
+  "in": 2,
+  "out": 1873,
+  "cache_read": 11758,
+  "cache_create": 33870,
+  "api_ms": 10580,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial Intelligence Model Risk Management: Observations from a Thematic Review",
+  "title_en": "Artificial Intelligence Model Risk Management: Observations from a Thematic Review",
+  "language": "en",
+  "authors_or_issuer": "Monetary Authority of Singapore (MAS)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Monetary Authority of Singapore",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG",
+   "HK",
+   "NL",
+   "US"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "finance"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "human_oversight_control",
+   "ethics_principles",
+   "cybersecurity",
+   "privacy_data_protection",
+   "education_training"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "incident_reporting",
+   "testing_sandboxes",
+   "data_governance_requirements",
+   "education_training_programs",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "MAS information paper presenting good practices in AI and generative AI model risk management observed in a mid-2024 thematic review of Singapore banks, covering governance, AI inventories, risk materiality, development, validation, deployment, monitoring, generative AI and third-party AI. Applicable to other financial institutions; supervisory guidance is under consideration.",
+  "key_provisions_or_claims": [
+   "Banks set up cross-functional AI oversight forums and update policies and principles on fair, ethical, accountable and transparent AI use.",
+   "AI inventories and risk materiality assessments (impact, complexity, reliance) calibrate proportionate controls.",
+   "Independent validation for higher-materiality AI; peer review for lower-materiality AI.",
+   "Pre-deployment checks, monitoring with thresholds, change management, and kill switches for critical AI.",
+   "Generative AI is limited to human-augmenting uses with human-in-the-loop, guardrails and third-party AI controls; MAS considering supervisory guidance."
+  ],
+  "confidence": 0.93
+ }
+}

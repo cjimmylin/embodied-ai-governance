@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-f6bb35bb",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027947800000000002,
+  "in": 2,
+  "out": 1720,
+  "cache_read": 11758,
+  "cache_create": 2392,
+  "api_ms": 13336,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AHAC – Drones/RPAS: reglas, certificación y aviso sobre operadores no certificados",
+  "title_en": "AHAC – Drones/RPAS: rules, certification and notice on uncertified operators",
+  "language": "es",
+  "authors_or_issuer": "Agencia Hondureña de Aeronáutica Civil (AHAC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "AHAC website",
+  "jurisdiction_country": "HN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "HN"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "civil_liability",
+   "consumer_protection"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "liability_regime",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Honduran civil aviation authority (AHAC) web page on drone/RPAS operations, with a notice that uncertified aerial-work drone operators pose safety risks. It reminds contracting firms to verify operators' valid Operating Certificate, and says violators will be reported to the competition authority.",
+  "key_provisions_or_claims": [
+   "Drone aerial work requires a valid AHAC Operating Certificate",
+   "Contracting companies must verify providers' certification before signing contracts",
+   "Hiring uncertified operators may create legal liability for third-party damages",
+   "AHAC will report uncertified operators and their clients to the CDPC",
+   "References Mandatory Circular COC-ATL-002-2018 on RPAS classification and registration statistics"
+  ],
+  "confidence": 0.8
+ }
+}

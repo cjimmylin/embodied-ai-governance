@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-91873cc7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:31:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0637558,
+  "in": 2,
+  "out": 1642,
+  "cache_read": 11758,
+  "cache_create": 11539,
+  "api_ms": 8264,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "中华人民共和国行政复议法实施条例",
+  "title_en": "Regulations for the Implementation of the Administrative Reconsideration Law of the People's Republic of China",
+  "language": "zh",
+  "authors_or_issuer": "中华人民共和国国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "State Council Order No. 836",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "State Council Order No. 836 promulgating the revised Regulations implementing China's Administrative Reconsideration Law, effective 1 July 2026. It details scope, applicants, filing, jurisdiction, acceptance, hearing, evidence, decisions and supervision of administrative reconsideration. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Revised regulation takes effect 1 July 2026, replacing the 2007 version.",
+   "Reconsideration organs review legality and appropriateness of administrative acts.",
+   "Online reconsideration filings have equal legal effect to offline ones.",
+   "Defines scope, standing, time limits, jurisdiction and acceptance rules.",
+   "Sets decision types, administrative agreement and compensation cases, and supervision."
+  ],
+  "confidence": 0.95
+ }
+}

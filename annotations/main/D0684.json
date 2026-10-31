@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0684",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:25:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045137800000000006,
+  "in": 2,
+  "out": 1873,
+  "cache_read": 11758,
+  "cache_create": 6307,
+  "api_ms": 9196,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Guidelines on Assessment of AI Reliability in the Field of Plant Safety, Second Edition",
+  "title_en": "Guidelines on Assessment of AI Reliability in the Field of Plant Safety, Second Edition",
+  "language": "en",
+  "authors_or_issuer": "Liaison Council of Three Ministries on Disaster Prevention of Petroleum Complexes (METI; Fire and Disaster Management Agency; MHLW)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Fire and Disaster Management Agency (FDMA), Japan",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "audits_impact_assessment",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japanese three-ministry guidelines (2nd ed., March 2021) for assessing machine-learning reliability in petroleum and chemical plant safety. They adapt AIST's Machine Learning Quality Management Guideline into quality-in-use, external and internal quality levels, with use-case examples. It is software-focused AI for plant monitoring, not robotics.",
+  "key_provisions_or_claims": [
+   "Three-tier quality hierarchy: quality in use, external quality, internal quality.",
+   "Risk avoidance levels 0, 0.1, 0.2, 1 and performance levels 0, 1, 2 determine the required internal quality.",
+   "Internal quality levels 1-3 set requirements for data, model and operation methods.",
+   "Applies AIST Machine Learning Quality Management Guideline and QA4AI guideline to plant safety.",
+   "Use cases include early-sign abnormality detection and equipment deterioration diagnosis."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-31cfb229",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:51:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1368758,
+  "in": 2,
+  "out": 2062,
+  "cache_read": 11758,
+  "cache_create": 28769,
+  "api_ms": 26418,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Council Directive 93/68/EEC of 22 July 1993 amending Directives 87/404/EEC (simple pressure vessels), 88/378/EEC (safety of toys), 89/106/EEC (construction products), 89/336/EEC (electromagnetic compatibility), 89/392/EEC (machinery), 89/686/EEC (personal protective equipment), 90/384/EEC, 90/385/EEC, 90/396/EEC, 91/263/EEC, 92/42/EEC and 73/23/EEC",
+  "title_en": "Council Directive 93/68/EEC of 22 July 1993 amending Directives 87/404/EEC (simple pressure vessels), 88/378/EEC (safety of toys), 89/106/EEC (construction products), 89/336/EEC (electromagnetic compatibility), 89/392/EEC (machinery), 89/686/EEC (personal protective equipment), 90/384/EEC, 90/385/EEC, 90/396/EEC, 91/263/EEC, 92/42/EEC and 73/23/EEC",
+  "language": "en",
+  "authors_or_issuer": "Council of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 1993,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities L 220",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "standards_interoperability",
+   "consumer_protection"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "licensing_registration",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Regulation"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Council Directive 93/68/EEC harmonises the CE marking across twelve New Approach product directives, including machinery, toys, medical devices and electrical equipment. It standardises the marking's form, notified-body notification, and procedures against improper CE marking. Relevant to robotics only indirectly, through the machinery directive.",
+  "key_provisions_or_claims": [
+   "Replaces 'EC mark' with a uniform 'CE marking' across twelve directives",
+   "Presumption of conformity for CE-marked products and products complying with harmonised standards",
+   "Member States notify bodies; Commission publishes list with identification numbers",
+   "Misleading markings prohibited; improperly affixed CE marking must be corrected or product restricted or withdrawn",
+   "Transposition by 1 July 1994, application from 1 January 1995"
+  ],
+  "confidence": 0.9
+ }
+}

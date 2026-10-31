@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0866",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:29:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0435738,
+  "in": 2,
+  "out": 1713,
+  "cache_read": 11758,
+  "cache_create": 6316,
+  "api_ms": 9124,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The impact of different ethical frameworks underlying a robot's advice on charitable donations",
+  "title_en": "The impact of different ethical frameworks underlying a robot's advice on charitable donations",
+  "language": "en",
+  "authors_or_issuer": "Kim, B.; Wen, R.; Zhu, Q.; Williams, T.; Phillips, E.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2023,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Conference paper (HRI/RO-MAN-type conference), via ResearchGate/UMBC ScholarWorks",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "research_science",
+   "education"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "trust_acceptance",
+   "research_ethics"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Laboratory HRI experiment in which a Pepper robot gave moral advice on donating lottery tickets to charity, grounded in either deontological or Confucian role ethics. Confucian role-based advice produced more donations. It is a behavioral study of robot persuasion, not a governance document.",
+  "key_provisions_or_claims": [
+   "Confucian role ethics advice from a robot induced more donations than deontological advice.",
+   "Participants who felt closer to other students donated less after deontological advice.",
+   "Framing a robot's moral messages with Confucian role ethics may promote prosocial behavior.",
+   "Study used a physically co-located Pepper robot in a lab with university students."
+  ],
+  "confidence": 0.85
+ }
+}

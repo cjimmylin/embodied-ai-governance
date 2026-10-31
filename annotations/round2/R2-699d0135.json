@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-699d0135",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:47:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0346018,
+  "in": 2,
+  "out": 1795,
+  "cache_read": 11758,
+  "cache_create": 3868,
+  "api_ms": 8804,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "legally_binding",
+  "confidence": 0.97,
+  "countries_discussed": [
+   "PL"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Poland may extend until 13 March 2025 its permission for Biobor JF use in aircraft fuel tanks.",
+   "Decision addressed to the Polish Office for Registration of Medicinal Products, Medical Devices and Biocidal Products.",
+   "Applies retroactively from 10 September 2023.",
+   "Justified by air transport safety and lack of alternative products.",
+   "Active substances still require approval under Regulation (EU) No 528/2012."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "Regulation (EU) No 528/2012",
+   "Commission Delegated Regulation (EU) No 1062/2014"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 11,
+  "pub_year": 2023,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Commission Implementing Decision allowing Poland to extend until 13 March 2025 its temporary permission for the biocidal product Biobor JF, used to treat microbiological contamination of aircraft fuel tanks, under the Biocidal Products Regulation. It is unrelated to AI or robotics.",
+  "title_clean": "Commission Implementing Decision (EU) 2023/2634 concerning the extension of the action taken by the Polish Office for Registration of Medicinal Products, Medical Devices and Biocidal Products permitting the making available on the market and use of the biocidal product Biobor JF",
+  "title_en": "Commission Implementing Decision (EU) 2023/2634 concerning the extension of the action taken by the Polish Office for Registration of Medicinal Products, Medical Devices and Biocidal Products permitting the making available on the market and use of the biocidal product Biobor JF",
+  "venue": "Official Journal of the European Union",
+  "methodology": "not_applicable"
+ }
+}

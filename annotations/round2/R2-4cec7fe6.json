@@ -1,0 +1,92 @@
+{
+ "doc_id": "R2-4cec7fe6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:15:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026721800000000004,
+  "in": 2,
+  "out": 1827,
+  "cache_read": 11758,
+  "cache_create": 1818,
+  "api_ms": 9861,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "GB/T 41527-2022 (国家标准全文公开系统 页面)",
+  "title_en": "GB/T 41527-2022 (National Standards Full-Text Disclosure System page)",
+  "language": "zh",
+  "authors_or_issuer": "国家市场监督管理总局、国家标准化管理委员会 (SAMR / SAC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2022,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "National Public Service Platform for Standards Information (China)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "standards_interoperability"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Catalogue page from China's national standards portal for GB/T 41527-2022, a current recommended national standard (ICS 97, household and commercial equipment, entertainment, sports), dated 2022-07-11. Only metadata is shown; the standard's title and content are not visible, so its subject cannot be determined.",
+  "key_provisions_or_claims": [
+   "GB/T 41527-2022 is listed as a current recommended national standard",
+   "Classified under ICS 97 (household and commercial equipment, entertainment, sports)",
+   "Issued and implemented 2022-07-11",
+   "Page shows no standard title or text"
+  ],
+  "confidence": 0.4
+ }
+}

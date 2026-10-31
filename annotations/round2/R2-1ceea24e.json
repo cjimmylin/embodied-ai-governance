@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-1ceea24e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:35:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0362958,
+  "in": 2,
+  "out": 1700,
+  "cache_read": 11758,
+  "cache_create": 4529,
+  "api_ms": 8834,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "finance",
+   "retail_hospitality"
+  ],
+  "authors_or_issuer": "商务部办公厅; 中国人民银行办公厅; 金融监管总局办公厅",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "consumer_protection",
+   "taxation_economic_policy"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Establish coordination mechanisms between commerce and financial authorities at local level",
+   "Financial institutions to expand consumer finance for goods, services and new consumption",
+   "Use digital RMB smart-contract red envelopes, loan interest subsidies, guarantees and risk compensation",
+   "Expand government-finance-enterprise matching and information sharing",
+   "Strengthen financial consumer protection and rational borrowing"
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Notice from China's Ministry of Commerce, PBOC and financial regulator offices on strengthening commerce-finance coordination to boost consumption. It directs financial support for goods, services and new consumption (including 'AI+consumption'), digital RMB red envelopes, information sharing, and consumer protection. Not about robotics.",
+  "title_clean": "关于加强商务和金融协同 更大力度提振消费的通知",
+  "title_en": "Notice on Strengthening Commerce and Finance Coordination to Boost Consumption More Forcefully",
+  "venue": null,
+  "methodology": "not_applicable"
+ }
+}

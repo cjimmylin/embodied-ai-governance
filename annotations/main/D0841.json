@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0841",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:29:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0451458,
+  "in": 2,
+  "out": 1835,
+  "cache_read": 11758,
+  "cache_create": 6404,
+  "api_ms": 12450,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "research_science"
+  ],
+  "authors_or_issuer": "Fiesler, C.; Beard, N.; Keegan, B.C.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "software_agent_called_robot",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "research_ethics",
+   "intellectual_property",
+   "privacy_data_protection",
+   "transparency_explainability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Prohibitions on scraping, bots and spiders are very common in social media TOS (analysis of 116 sites).",
+   "TOS provisions are ambiguous, inconsistent and lack context, and do not distinguish tools like robots, crawlers and spiders.",
+   "Legal status of TOS violations under the CFAA is unsettled, though recent cases (hiQ v. LinkedIn) suggest public data scraping may not violate it.",
+   "Ethical decision-making for data collection should go beyond TOS and consider contextual factors of the data source and research."
+  ],
+  "language": "en",
+  "methodology": "empirical_qualitative",
+  "named_instruments_referenced": [
+   "Computer Fraud and Abuse Act"
+  ],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "none",
+  "primary_topic": "research_ethics",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2020,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Conference paper analysing data-collection (scraping, bot, spider) prohibitions in the terms of service of 116 social media sites, alongside US legal context (CFAA) and research ethics. Finds provisions common but ambiguous and inconsistent; argues researchers' ethical decisions should look beyond TOS to contextual factors.",
+  "title_clean": "No Robots, Spiders, or Scrapers: Legal and Ethical Regulation of Data Collection Methods in Social Media Terms of Service",
+  "title_en": "No Robots, Spiders, or Scrapers: Legal and Ethical Regulation of Data Collection Methods in Social Media Terms of Service",
+  "venue": "Proceedings of the Fourteenth International AAAI Conference on Web and Social Media (ICWSM 2020)"
+ }
+}

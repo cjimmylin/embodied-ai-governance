@@ -1,0 +1,110 @@
+{
+ "doc_id": "D0180",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:36:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.042499800000000004,
+  "in": 2,
+  "out": 1834,
+  "cache_read": 11758,
+  "cache_create": 5745,
+  "api_ms": 11712,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Responsible Innovation: Israel's Policy on Artificial Intelligence Regulation and Ethics",
+  "title_en": "Responsible Innovation: Israel's Policy on Artificial Intelligence Regulation and Ethics",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Innovation, Science and Technology (Israel)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "gov.il",
+  "jurisdiction_country": "IL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IL"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "human_oversight_control",
+   "transparency_explainability",
+   "safety_physical_harm",
+   "civil_liability",
+   "privacy_data_protection",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "technical_standards_reference",
+   "international_cooperation",
+   "self_regulation_codes",
+   "audits_impact_assessment",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "English summary of Israel's December 2023 Ministry of Innovation, Science and Technology policy on AI regulation and ethics for the private sector. It favours soft, sector-specific regulation, consistent with OECD principles, and addresses seven challenges: discrimination, oversight, explainability, disclosure, safety, accountability and privacy.",
+  "key_provisions_or_claims": [
+   "Empower sector-specific regulators to assess and regulate AI using soft, incremental tools",
+   "Responsible innovation concept balances innovation with accountability and ethics",
+   "Seven challenges: discrimination, human oversight, explainability, AI disclosure, safety, accountability, privacy",
+   "Establish an inter-agency forum and a multistakeholder forum for coordination",
+   "Develop a government AI risk management framework and engage in international standard-setting"
+  ],
+  "confidence": 0.9
+ }
+}

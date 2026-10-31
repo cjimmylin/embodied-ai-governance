@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1422",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:45:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045127799999999996,
+  "in": 2,
+  "out": 1852,
+  "cache_read": 11758,
+  "cache_create": 6357,
+  "api_ms": 9917,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Challenges of the Fourth Industrial Revolution (4IR), transformation of modern armed forces and the ethical dilemma of robotic automation",
+  "title_en": "Challenges of the Fourth Industrial Revolution (4IR), transformation of modern armed forces and the ethical dilemma of robotic automation",
+  "language": "en",
+  "authors_or_issuer": "Miloradović, N.M.; Vukadinović, G.M.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2023,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.5937/vojtehg71-44825",
+  "venue": "Vojnotehnički glasnik / Military Technical Courier",
+  "jurisdiction_country": "RS",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "review_or_survey_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "rehabilitation_exoskeleton_prosthetic",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "industrial_policy_innovation",
+   "human_dignity_autonomy",
+   "ethics_principles"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Review paper by Serbian Ministry of Defence authors on how Fourth Industrial Revolution technologies, especially unmanned and robotized combat platforms, require coordinated transformation of armed forces' doctrine, organization and procurement. It discusses growing autonomy, moral dilemmas, AI-enabled command systems and human augmentation, without proposing formal regulation.",
+  "key_provisions_or_claims": [
+   "Robotic and unmanned platforms are major force multipliers requiring parallel development of doctrine and force structure.",
+   "Military procurement bureaucracy must adapt to the fast pace of commercial innovation.",
+   "Speed of combat will push robotic systems toward greater autonomy, raising moral dilemmas and misuse risks.",
+   "Erroneous AI recommendations in command information systems pose serious risk.",
+   "Human augmentation raises ethical dilemmas, with military applications likely first."
+  ],
+  "confidence": 0.85
+ }
+}

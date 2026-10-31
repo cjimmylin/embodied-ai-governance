@@ -1,0 +1,94 @@
+{
+ "doc_id": "D1027",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:34:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0506466,
+  "in": 4,
+  "out": 3249,
+  "cache_read": 26361,
+  "cache_create": 4498,
+  "api_ms": 16863,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "European Commission, Joint Research Centre (AI Watch, Knowledge4Policy)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers",
+   "transparency_explainability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "First structured mapping of AI use and impact in EU public services",
+   "Growing Member State interest in AI to redesign internal processes and improve services",
+   "Responsible use of large data and machine learning can enable proactive public service delivery",
+   "Proposes a methodological framework for impact assessment based on public value",
+   "Discusses governance 'with and of' AI"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Knowledge4Policy (AI Watch) landing page describing a JRC report that maps AI use in EU public services, summarising Member State adoption efforts and proposing a public-value-based impact assessment framework. It has no robotics or embodied content.",
+  "title_clean": "Artificial Intelligence in public services",
+  "title_en": "Artificial Intelligence in public services",
+  "venue": "Knowledge4Policy (K4P), European Commission"
+ }
+}

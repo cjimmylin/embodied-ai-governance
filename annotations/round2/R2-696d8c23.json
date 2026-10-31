@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-696d8c23",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0493506,
+  "in": 4,
+  "out": 3411,
+  "cache_read": 25576,
+  "cache_create": 3834,
+  "api_ms": 25556,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "authors_or_issuer": "UN Office for Disarmament Affairs (CCW Group of Governmental Experts on LAWS)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.55,
+  "countries_discussed": [
+   "IL",
+   "EU",
+   "PK",
+   "CH",
+   "NL",
+   "DE",
+   "AT",
+   "JP",
+   "US",
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Lists state and NGO statements delivered at the 2nd session (May 2023)",
+   "Includes a joint statement by Germany on behalf of 52 States",
+   "Lists first-session statements by Japan, Philippines and the UK on topics 2-7 (March 2023)",
+   "Contains no statement text, only titles and dates"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "pub_month": 5,
+  "pub_year": 2023,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Index page listing statements delivered by states, the EU and NGOs at the first and second 2023 sessions of a UN expert group, apparently on lethal autonomous weapons systems. It gives only titles and dates, with no statement text.",
+  "title_clean": "Statements – 2nd session (May 2023) and 1st session (March 2023)",
+  "title_en": "Statements – 2nd session (May 2023) and 1st session (March 2023)",
+  "venue": "UN Office for Disarmament Affairs / CCW meetings",
+  "methodology": "not_applicable"
+ }
+}

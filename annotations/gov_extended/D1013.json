@@ -1,0 +1,116 @@
+{
+ "doc_id": "D1013",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:47:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.15398689999999998,
+  "in": 4,
+  "out": 4307,
+  "cache_read": 48669,
+  "cache_create": 27325,
+  "api_ms": 24136,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "Artificial Intelligence Board (AIB) and Medical Device Coordination Group (MDCG)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "testing_sandboxes",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "human_oversight_control",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "cybersecurity",
+   "privacy_data_protection",
+   "safety_physical_harm",
+   "education_training"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "MDR/IVDR and AI Act apply simultaneously and complementarily to medical devices containing high-risk AI systems.",
+   "An AI medical device is high-risk under Art. 6(1) if it is a safety component or product subject to notified-body conformity assessment under MDR/IVDR.",
+   "Providers may integrate AI Act QMS, risk management, documentation and post-market monitoring into existing MDR/IVDR processes (Art. 8(2)).",
+   "Pre-determined changes assessed at initial conformity assessment are not a substantial modification; Annex I obligations apply from 2 August 2027.",
+   "Human oversight must be commensurate with risk and autonomy; highly autonomous surgical devices should not permit harmful human intervention."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "ISO/IEC 42001"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "surgical_medical_robots",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Joint AI Board and MDCG FAQ guidance (June 2025) on how the EU Medical Devices Regulation and IVDR interact with the AI Act for AI-enabled medical devices. It covers high-risk classification, QMS, data governance, human oversight, conformity assessment, substantial modification and post-market monitoring, encouraging integrated compliance procedures. Non-binding.",
+  "title_clean": "Interplay between the Medical Devices Regulation (MDR) & In vitro Diagnostic Medical Devices Regulation (IVDR) and the Artificial Intelligence Act (AIA)",
+  "title_en": "Interplay between the Medical Devices Regulation (MDR) & In vitro Diagnostic Medical Devices Regulation (IVDR) and the Artificial Intelligence Act (AIA)",
+  "venue": "Medical Device Coordination Group / European Commission (MDCG 2025-6; AIB 2025-1)"
+ }
+}

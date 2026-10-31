@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-e09b2ee1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:55:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1713038,
+  "in": 2,
+  "out": 2118,
+  "cache_read": 11758,
+  "cache_create": 37236,
+  "api_ms": 14750,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Regulation amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
+  "title_en": "Proposal for a Regulation amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2025) 836 final, 2025/0359 (COD)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "standards_interoperability",
+   "education_training",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "data_governance_requirements",
+   "audits_impact_assessment",
+   "funding_or_incentives",
+   "education_training_programs",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "EU Machinery Regulation"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "European Commission proposal (Digital Omnibus on AI) amending the EU AI Act and the Civil Aviation Regulation 2018/1139. It delays high-risk obligations until standards are available (latest Dec 2027 for Annex III and Aug 2028 for Annex I products), extends SME relief to small mid-caps, centralises oversight in the AI Office, and expands sandboxes and real-world testing, including for product-embedded AI.",
+  "key_provisions_or_claims": [
+   "Links the application of high-risk rules to the availability of standards, with long-stop dates of 2 Dec 2027 (Annex III) and 2 Aug 2028 (Annex I).",
+   "Extends SME privileges on documentation, quality management and penalties to small mid-caps.",
+   "Gives the AI Office exclusive supervision of AI systems built on GPAI models by the same provider and of AI in very large online platforms and search engines, excluding Annex I products.",
+   "Extends real-world testing to AI in Annex I products, with a new Article 60a voluntary testing agreement for Section B products, and creates an EU-level sandbox.",
+   "Turns the AI literacy obligation into a duty on the Commission and Member States, and adds a legal basis for processing special-category data for bias detection."
+  ],
+  "confidence": 0.9
+ }
+}

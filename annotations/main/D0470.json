@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0470",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0717991,
+  "in": 4,
+  "out": 3646,
+  "cache_read": 30386,
+  "cache_create": 8795,
+  "api_ms": 22416,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "Vijayanath, V.; Joel, V.; Priyadharsan, S.; Bharathi, K.R.K.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "IN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.18231/j.ijfcm.2024.018",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "education_training_programs",
+   "liability_regime",
+   "transparency_disclosure_labelling"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "safety_physical_harm",
+   "transparency_explainability",
+   "education_training",
+   "human_dignity_autonomy"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "IN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Patient consent specific to robotic use is mandatory, including robot role, risks, alternatives and surgeon experience.",
+   "Liability is shared among surgeon, hospital and manufacturer; laws are still evolving.",
+   "MAUDE data show deaths, injuries and malfunctions, showing safety risks.",
+   "Lack of defined training standards contributes to malpractice suits.",
+   "Calls for comprehensive guidelines, regulations and training programs; each country should frame its own law."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "surgical_medical_robots",
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2024,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Short review article on robotic surgery's medico-legal issues: informed consent content, shared liability among surgeon, hospital and manufacturer, malfunction data from the MAUDE database, malpractice case examples and training gaps. It calls for comprehensive guidelines, regulations and training programs.",
+  "title_clean": "Robotic surgery: Consent and medico-legal aspect",
+  "title_en": "Robotic surgery: Consent and medico-legal aspect",
+  "venue": "Indian Journal of Forensic and Community Medicine"
+ }
+}

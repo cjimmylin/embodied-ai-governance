@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-1d696723",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0330958,
+  "in": 2,
+  "out": 1792,
+  "cache_read": 11758,
+  "cache_create": 3499,
+  "api_ms": 9054,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "RPA- Drone Registration – Civil Aviation Authority of Botswana",
+  "title_en": "RPA- Drone Registration – Civil Aviation Authority of Botswana",
+  "language": "en",
+  "authors_or_issuer": "Civil Aviation Authority of Botswana",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Civil Aviation Authority of Botswana website",
+  "jurisdiction_country": "BW",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BW"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "criminal_liability",
+   "certification_conformity_assessment",
+   "human_oversight_control"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "incident_reporting",
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Civil Aviation Authority of Botswana web page setting out remotely piloted aircraft (drone) regulations: registration with security vetting, VLOS operation limits, altitude cap, age limit, incident reporting, payload and night-flying bans, and penalties up to BWP 50,000 or imprisonment.",
+  "key_provisions_or_claims": [
+   "RPA up to 20kg MAUW must be registered with a numbered certificate; operators must be Botswana citizens or residents with police and security vetting",
+   "Flights limited to VLOS, below 400 ft AGL and within 500m; BVLOS only by special approval",
+   "Operator must be 18+; no night flights, dangerous goods or releasing objects without approval",
+   "Accidents involving injury or third-party damage must be reported within 10 days",
+   "Penalties up to BWP 5,000 and/or confiscation; up to BWP 50,000 and/or 2 years if used in crime"
+  ],
+  "confidence": 0.8
+ }
+}

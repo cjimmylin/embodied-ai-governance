@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0636",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:55:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0348098,
+  "in": 2,
+  "out": 1627,
+  "cache_read": 11758,
+  "cache_create": 4340,
+  "api_ms": 8221,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Permilovskiy, M.S.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "RU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.18572/1813-1247-2026-5-16-20",
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "civil_liability",
+   "human_dignity_autonomy",
+   "other"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "AI creates elevated risk of harm because humans cannot fully control it.",
+   "Cites Bostrom and Asimov's first law on AI harm uncertainty.",
+   "Raises the need to legally regulate robot ethics (roboethics).",
+   "Proposes treating AI as a threat and risk to traditional values."
+  ],
+  "language": "ru",
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2026,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Russian law journal article examining risks of harm caused by AI and the state of legal regulation, and raising the need to regulate roboethics and to classify AI as a threat to traditional values. Only the introduction and bibliography are available.",
+  "title_clean": "Новые маршруты права: ИИ, робоэтика, традиционные ценности",
+  "title_en": "New Routes of Law: AI, Roboethics, Traditional Values",
+  "venue": "Государственная власть и местное самоуправление",
+  "methodology": "conceptual_or_normative"
+ }
+}

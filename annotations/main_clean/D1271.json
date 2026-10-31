@@ -1,0 +1,108 @@
+{
+ "doc_id": "D1271",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:04:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06758639999999999,
+  "in": 4,
+  "out": 3633,
+  "cache_read": 29439,
+  "cache_create": 7768,
+  "api_ms": 18793,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "European Commission Representation in Luxembourg",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "press_release_or_government_news",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "self_regulation_codes",
+   "technical_standards_reference",
+   "data_governance_requirements"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "human_oversight_control",
+   "industrial_policy_innovation",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "cybersecurity"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "language": "de",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Commission press release announcing the entry into force of the EU AI Act on 1 August 2024. It outlines the four risk tiers, general-purpose AI rules, governance bodies (AI Office, AI Board), penalties up to 7% of turnover, the application timeline and the AI Pact. Autonomous robots are mentioned only as an example of high-risk AI.",
+  "key_provisions_or_claims": [
+   "AI Act entered into force 1 August 2024 as first comprehensive AI law",
+   "Risk tiers: minimal, transparency, high, unacceptable (banned)",
+   "High-risk examples include AI operating autonomous robots",
+   "Fines up to 7% of global turnover for prohibited practices",
+   "Most rules apply from 2 August 2026; bans after six months, GPAI after 12 months"
+  ],
+  "title_clean": "Europäische Verordnung über künstliche Intelligenz tritt in Kraft",
+  "title_en": "European Artificial Intelligence Act comes into force",
+  "venue": "European Commission Representation in Luxembourg"
+ }
+}

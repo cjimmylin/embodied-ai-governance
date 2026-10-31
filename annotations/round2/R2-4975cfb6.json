@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-4975cfb6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:50:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0743958,
+  "in": 2,
+  "out": 1778,
+  "cache_read": 11758,
+  "cache_create": 13859,
+  "api_ms": 8887,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Directive of the European Parliament and of the Council on machinery for pesticide application, amending Directive 2006/42/EC of 17 May 2006",
+  "title_en": "Proposal for a Directive on machinery for pesticide application, amending Directive 2006/42/EC",
+  "language": "en",
+  "authors_or_issuer": "Commission of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2008,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2008) 535 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "agricultural_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "agriculture_food",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Directive 2006/42/EC",
+   "Directive 98/37/EC",
+   "Thematic Strategy on the Sustainable Use of Pesticides"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "2008 Commission proposal amending the Machinery Directive 2006/42/EC to add essential environmental protection requirements for new pesticide application machinery (sprayers), with conformity assessment, CE marking and harmonised standards. It concerns conventional machinery, not AI or robotics.",
+  "key_provisions_or_claims": [
+   "Extends 'essential health and safety requirements' to include environmental protection",
+   "Adds new Section 2.4 to Annex I with design requirements for pesticide application machinery",
+   "Requires manufacturers to assess environmental damage risks in risk assessment",
+   "Harmonised standards via CEN give presumption of conformity",
+   "Member States must transpose and communicate national measures"
+  ],
+  "confidence": 0.85
+ }
+}

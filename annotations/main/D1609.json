@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1609",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.043379799999999996,
+  "in": 2,
+  "out": 1748,
+  "cache_read": 11758,
+  "cache_create": 6180,
+  "api_ms": 10712,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Müller, M.R.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.1007/s11614-023-00534-2",
+  "embodied_categories": [
+   "social_companion_robots",
+   "professional_service_robots",
+   "autonomous_road_vehicles",
+   "domestic_household_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "human_robot_interaction_social_effects",
+   "transparency_explainability",
+   "trust_acceptance"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Introduces 'social display' concept (from Goffman) to analyse how machine design communicates role and expected behaviour.",
+   "Non-trivial, indeterminable machines require humans to develop pragmatic understanding of their institutional accountability.",
+   "Design elements (appearance, behaviour, language) answer problems of categorisation, situation interpretation and handling disruptions.",
+   "Case study of the robot 'Alice' analyses pictorial, behavioural and linguistic displays.",
+   "Aims toward a typology of displays for social robots and autonomous machines."
+  ],
+  "language": "en",
+  "methodology": "case_study",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "social_companion_robots",
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2023,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Sociological article introducing 'social displays' (after Goffman) to explain how appearance, behaviour and language of social robots and autonomous machines create social accountability for human counterparts. Uses a case study of the robot Alice to lay groundwork for a typology of displays. It has no direct regulatory content.",
+  "title_clean": "Social displays—creating accountability in robotics",
+  "title_en": "Social displays—creating accountability in robotics",
+  "venue": "Österreichische Zeitschrift für Soziologie"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0505",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:20:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.047543800000000004,
+  "in": 2,
+  "out": 1760,
+  "cache_read": 11758,
+  "cache_create": 7191,
+  "api_ms": 8554,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robotics, environmental regulation, and agricultural carbon emissions: an examination of the environmental Kuznets curve theory and moderating effects",
+  "title_en": "Robotics, environmental regulation, and agricultural carbon emissions: an examination of the environmental Kuznets curve theory and moderating effects",
+  "language": "en",
+  "authors_or_issuer": "Li, Y.; Chen, Y.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": "10.3389/fsufs.2024.1336877",
+  "venue": "Frontiers in Sustainable Food Systems",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "agricultural_robots"
+  ],
+  "primary_embodied_category": "agricultural_robots",
+  "application_sectors": [
+   "agriculture_food",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Empirical study using 2006–2019 panel data from 30 Chinese provinces to test an environmental Kuznets curve between agricultural robot application and agricultural carbon emissions, with formal and informal environmental regulation as moderators. Finds an inverted U-shape; informal regulation is more effective than formal regulation at reducing emissions at present.",
+  "key_provisions_or_claims": [
+   "Inverted U-shaped relationship between agricultural robot application and agricultural carbon emissions in Chinese provinces.",
+   "Higher formal environmental regulation raises the curve's peak and delays the inflection point.",
+   "Higher informal environmental regulation lowers the peak and delays the inflection point.",
+   "Informal regulation is currently more effective than formal regulation at cutting agricultural emissions.",
+   "Effects differ across eastern, central and western regions."
+  ],
+  "confidence": 0.9
+ }
+}

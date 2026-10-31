@@ -1,0 +1,112 @@
+{
+ "doc_id": "D0518",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:20:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0451958,
+  "in": 2,
+  "out": 1874,
+  "cache_read": 11758,
+  "cache_create": 6319,
+  "api_ms": 11277,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "manufacturing"
+  ],
+  "authors_or_issuer": "Yang, J.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "CN",
+   "US",
+   "GB",
+   "KR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.56397/LE.2024.04.08",
+  "embodied_categories": [
+   "surgical_medical_robots",
+   "industrial_manipulators",
+   "autonomous_road_vehicles",
+   "professional_service_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "liability_regime",
+   "conformity_assessment_certification",
+   "audits_impact_assessment",
+   "human_oversight_requirement"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Intelligent robot crimes fall into three types: program malfunction, use by natural persons, and external malicious interference.",
+   "Out-of-control robot programs blur the identification of criminal liability subjects and complicate causation and culpability.",
+   "For design, clarify the relationship between harmful, criminal and implementation behaviour.",
+   "For testing and certification, apply conditional (but-for) and objective attribution theories to assign responsibility.",
+   "Strengthen foresight and safe-use obligations for users and regulators, and improve criminal liability rules for testers and certifiers."
+  ],
+  "language": "en",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2024,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Journal article on criminal law regulation of crimes caused by out-of-control intelligent robot programs. It analyses blurred liability subjects and proposes criminal-law measures across design, testing and certification, and use and regulation, applying conditional and objective attribution theories and foresight obligations.",
+  "title_clean": "Research on the Criminal Law Regulation of Crimes Caused by Out-of-Control Intelligent Robot Programs",
+  "title_en": "Research on the Criminal Law Regulation of Crimes Caused by Out-of-Control Intelligent Robot Programs",
+  "venue": "Law and Economy (Paradigm Academic Press)"
+ }
+}

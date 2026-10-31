@@ -1,0 +1,94 @@
+{
+ "doc_id": "D0979",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:46:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0535364,
+  "in": 4,
+  "out": 3437,
+  "cache_read": 26464,
+  "cache_create": 4836,
+  "api_ms": 16168,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Use of AI in proceedings before the Trademarks Opposition Board",
+  "title_en": "Use of AI in proceedings before the Trademarks Opposition Board",
+  "language": "en",
+  "authors_or_issuer": "Canadian Intellectual Property Office (Trademarks Opposition Board)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Canadian Intellectual Property Office website",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "intellectual_property"
+  ],
+  "primary_topic": "transparency_explainability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Practice notice from Canada's Trademarks Opposition Board requiring parties to declare in the first paragraph when generative AI was used to create content in filed documents, confirming human verification of content and authorities. Failure or false declaration may lead to costs awards.",
+  "key_provisions_or_claims": [
+   "Parties must declare use of generative AI in the first paragraph of documents filed in s. 11.13, 38 and 45 proceedings.",
+   "Declaration must confirm AI content and cited authorities were reviewed and verified by the party or agent.",
+   "Failure to declare or a false declaration may be unreasonable conduct leading to costs.",
+   "AI-provided legal authorities or state-of-register evidence chosen on subjective criteria count as AI-generated content.",
+   "Objective database searches, editing software and speech-to-text do not require a declaration."
+  ],
+  "confidence": 0.9
+ }
+}

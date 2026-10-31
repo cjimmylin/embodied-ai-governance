@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0628",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:23:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.055789,
+  "in": 4,
+  "out": 3408,
+  "cache_read": 27425,
+  "cache_create": 5238,
+  "api_ms": 22982,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Should Robotics Need Ethical Codes? Robotics and ERP",
+  "title_en": "Should Robotics Need Ethical Codes? Robotics and ERP",
+  "language": "en",
+  "authors_or_issuer": "Yu-Cheng, T.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2017,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": "10.36959/673/352",
+  "venue": "Journal of Robotics and Automation",
+  "jurisdiction_country": "TW",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "editorial_or_commentary",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "trust_acceptance",
+   "education_training"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Short commentary asking how robots can automate ERP processes and whether ethical or moral codes should be built into robotic business decision-making. It draws on Asimov's Three Laws and concludes that ethical codes should be integrated within ERP systems, alongside education and standardization.",
+  "key_provisions_or_claims": [
+   "Robots may automate transactional ERP processes and take on judgement-like decisions.",
+   "Ethical codes need to be built into and integrated within ERP systems.",
+   "Business ethics and local customs vary, complicating robot moral decision-making.",
+   "Asimov's Three Laws remain a reference point for robot design ethics.",
+   "Enterprises should invest in education programs and standardization."
+  ],
+  "confidence": 0.7
+ }
+}

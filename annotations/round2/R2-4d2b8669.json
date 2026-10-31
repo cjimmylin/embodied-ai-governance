@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-4d2b8669",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.055060200000000004,
+  "in": 4,
+  "out": 3533,
+  "cache_read": 26657,
+  "cache_create": 4938,
+  "api_ms": 16939,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "authors_or_issuer": "INRS (Institut national de recherche et de sécurité)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.6,
+  "countries_discussed": [
+   "FR"
+  ],
+  "date_basis": "unknown",
+  "doc_class": "communication_or_news",
+  "doc_type": "press_release_or_government_news",
+  "doi": null,
+  "embodied_categories": [
+   "collaborative_robots",
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "education_training_programs",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "labor_employment",
+   "human_robot_interaction_social_effects",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Brochure ED 6540 gives a five-step integration approach: needs analysis, functional design, detailed design, realisation, follow-up.",
+   "Cobots pose risks of impact, burns, vibration, musculoskeletal disorders and psychosocial risks.",
+   "Technical safeguards include power and force limiting, speed and zone monitoring, fixed or mobile guards.",
+   "Organisational measures include training, information, familiarisation and testing.",
+   "Integrator and user must maintain continuous dialogue."
+  ],
+  "language": "fr",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "collaborative_robots",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": null,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "INRS news item announcing brochure ED 6540 on integrating collaborative robots in companies. It outlines occupational health and safety risks and a five-step integration approach, with technical safeguards (power and force limiting, zone and speed monitoring) and organisational measures such as training. It also lists related INRS guides.",
+  "title_clean": "Robots collaboratifs : une nouvelle brochure de l'INRS pour réussir leur intégration",
+  "title_en": "Collaborative robots: a new INRS brochure for successful integration",
+  "venue": "INRS website"
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "doc_id": "D1191",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:43:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0416098,
+  "in": 2,
+  "out": 1729,
+  "cache_read": 11758,
+  "cache_create": 5785,
+  "api_ms": 8557,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Sweden's AI Strategy",
+  "title_en": "Sweden's AI Strategy",
+  "language": "en",
+  "authors_or_issuer": "Government Offices of Sweden",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Government Offices of Sweden (government.se)",
+  "jurisdiction_country": "SE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SE"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "healthcare",
+   "education"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "labor_employment",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "ethics_principles",
+   "trust_acceptance",
+   "sustainability_environment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Swedish Government's 2026 AI Strategy, replacing the 2018 approach. It aims to place Sweden among the world's top ten AI nations through regulatory simplification, regulatory sandboxes, public-sector AI use, computing infrastructure, skills and research. It favours EU-level simplification and has no robotics-specific provisions.",
+  "key_provisions_or_claims": [
+   "Goal: Sweden among world's top ten AI nations",
+   "Rules should be simple, predictable, technology-neutral; push for EU regulatory simplification",
+   "Government supports regulatory sandboxes",
+   "AI workshop for public administration to be set up from 2026, operational by 2030",
+   "Annual review; Agency for Digital Government and PTS tasked with implementation"
+  ],
+  "confidence": 0.88
+ }
+}

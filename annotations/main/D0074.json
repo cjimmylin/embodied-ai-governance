@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0074",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:08:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0341818,
+  "in": 2,
+  "out": 1831,
+  "cache_read": 11758,
+  "cache_create": 3673,
+  "api_ms": 9355,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Projeto de Lei nº 842/2024 - Altera a Lei nº 12.965/2014 (Marco Civil da Internet) para obrigar sinalização de conteúdos audiovisuais gerados por inteligência artificial",
+  "title_en": "Bill No. 842/2024 - Amends Law No. 12,965/2014 (Internet Civil Framework) to require labelling of AI-generated audiovisual content",
+  "language": "pt",
+  "authors_or_issuer": "Câmara dos Deputados (Dep. Ruy Carneiro)",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Câmara dos Deputados do Brasil",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "consumer_protection",
+   "fairness_bias_discrimination",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "transparency_explainability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "Marco Civil da Internet (Lei 12.965/2014)",
+   "Código de Defesa do Consumidor (Lei 8.078/1990)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Brazilian bill PL 842/2024 amends the Marco Civil da Internet to require internet applications using AI to generate audio or audiovisual content to display clear, continuous labelling that content is AI-generated, with consumer-protection penalties for non-compliance. Motivated by deepfake scams and fraud.",
+  "key_provisions_or_claims": [
+   "New Art. 29-A requires clear labelling throughout AI-generated audio/audiovisual content",
+   "New user right (Art. 7 XIV) to be informed content is AI-generated",
+   "Non-compliance treated as consumer-protection infringement under Lei 8.078/1990, plus civil and criminal liability",
+   "Labelling may be by watermark or caption present for the full duration",
+   "Enters into force 90 days after publication"
+  ],
+  "confidence": 0.93
+ }
+}

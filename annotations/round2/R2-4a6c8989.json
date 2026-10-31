@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-4a6c8989",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:46:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.044323800000000003,
+  "in": 2,
+  "out": 1860,
+  "cache_read": 11758,
+  "cache_create": 6136,
+  "api_ms": 11631,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2021/610 of 14 April 2021 amending Implementing Decision (EU) 2020/437 as regards harmonised standards on medical vehicles and their equipment, anaesthetic and respiratory equipment, biological evaluation of medical devices, and other medical device standards",
+  "title_en": "Commission Implementing Decision (EU) 2021/610 of 14 April 2021 amending Implementing Decision (EU) 2020/437 as regards harmonised standards on medical vehicles and their equipment, anaesthetic and respiratory equipment, biological evaluation of medical devices, and other medical device standards",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 129/153",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "Council Directive 93/42/EEC",
+   "Regulation (EU) No 1025/2012",
+   "Implementing Decision (EU) 2020/437"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Implementing Decision amending Decision 2020/437 to update the list of harmonised standards for medical devices under Directive 93/42/EEC, replacing revised references and adding four new ones. It confers presumption of conformity. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Amends Annex I of Implementing Decision (EU) 2020/437 by replacing references to revised harmonised standards.",
+   "Adds entries 265-268 (tracheal tubes, hearing aids, home light therapy, respiratory gas monitors).",
+   "Compliance with listed standards confers presumption of conformity with Directive 93/42/EEC.",
+   "Enters into force on the day of publication in the Official Journal."
+  ],
+  "confidence": 0.95
+ }
+}

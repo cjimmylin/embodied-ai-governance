@@ -1,0 +1,123 @@
+{
+ "doc_id": "R2-675a9e05",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1832298,
+  "in": 2,
+  "out": 1935,
+  "cache_read": 11758,
+  "cache_create": 40675,
+  "api_ms": 11469,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "15 CFR Part 742—Control Policy—CCL Based Controls",
+  "title_en": "15 CFR Part 742—Control Policy—CCL Based Controls",
+  "language": "en",
+  "authors_or_issuer": "Bureau of Industry and Security (BIS), U.S. Department of Commerce",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Electronic Code of Federal Regulations",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US",
+   "CN",
+   "RU",
+   "BY",
+   "IR",
+   "SY",
+   "KP",
+   "IN",
+   "PK",
+   "AE"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "drones_uas",
+   "military_autonomous_weapons",
+   "space_or_extreme_environment"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "defense_security",
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "risk_based_tiering",
+   "international_cooperation",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "Wassenaar Arrangement",
+   "Missile Technology Control Regime",
+   "Australia Group",
+   "Nuclear Suppliers Group",
+   "Chemical Weapons Convention",
+   "Export Control Reform Act of 2018"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "US Export Administration Regulations Part 742 setting license requirements and policies for Commerce Control List items by control reason: chemical/biological, nuclear, national security, missile technology, regional stability, crime control and anti-terrorism. Includes controls on advanced AI chips, semiconductor equipment and AI model weights (ECCN 4E091); UAV missile-range thresholds are marginal to embodied AI.",
+  "key_provisions_or_claims": [
+   "License required for CCL items by reason for control, with case-by-case or denial policies by destination",
+   "Section 742.6(a)(13) requires licenses for AI model weights (ECCN 4E091) worldwide, with presumption of denial for end users outside listed countries",
+   "Advanced computing chips subject to country TPP allocations and presumption of denial to D:5/Macau",
+   "Missile technology controls cover UAVs capable of 500 kg payload over 300 km",
+   "Heightened controls and denial policy for China, Russia, Belarus, and terrorism-supporting states"
+  ],
+  "confidence": 0.85
+ }
+}

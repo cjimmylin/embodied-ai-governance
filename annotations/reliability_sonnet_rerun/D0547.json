@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0547",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:43:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.018769700000000004,
+  "in": 2,
+  "out": 1690,
+  "cache_read": 18657,
+  "cache_create": 0,
+  "api_ms": 8793,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Begishev, I.R.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "RU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.33693/2223-0092-2021-11-4-82-91",
+  "embodied_categories": [],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "safety_physical_harm",
+   "legal_personhood_robot_rights",
+   "trust_acceptance",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "92.8% of respondents believe robots can be used to commit crimes.",
+   "52.7% support criminalising the creation of a robot designed for crime as a standalone offence; 44.6% would treat it as preparation.",
+   "Respondents favour legally binding rules for creating, operating and repairing robots.",
+   "Calls for a model of criminal-law regulation of robotics in Russia."
+  ],
+  "language": "en",
+  "methodology": "empirical_quantitative",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "pub_month": 12,
+  "pub_year": 2021,
+  "primary_embodied_category": "none",
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Journal article presenting results of a sociological survey in Russia on criminal-law regulation of robotics. It examines the definition of robots, robots as instruments of crime, and criminal liability. Respondents largely support legally binding rules and criminalising the creation of robots intended for crime.",
+  "title_clean": "Criminal Law Regulation of Robotics: Results of a Sociological Study",
+  "title_en": "Criminal Law Regulation of Robotics: Results of a Sociological Study",
+  "venue": "Sociopolitical Sciences"
+ }
+}

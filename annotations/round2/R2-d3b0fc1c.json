@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-d3b0fc1c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:38:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.33534210000000003,
+  "in": 4,
+  "out": 3615,
+  "cache_read": 94791,
+  "cache_create": 73117,
+  "api_ms": 20615,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "energy_environment",
+   "research_science",
+   "agriculture_food",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Government of Japan (Diet / Reconstruction Agency)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [
+   "space_or_extreme_environment"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "research_ethics",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Establishes Fukushima reconstruction basic policy and Prime Minister-certified Fukushima Reconstruction and Revitalization Plans.",
+   "Special measures for evacuation-lifted zones, specified reconstruction hub zones and return/residence zones.",
+   "Regulatory exceptions for industry revival and new-industry projects in the Fukushima International Research Industrial City zone.",
+   "Plans may include robot R&D hubs and robot product/technology test projects.",
+   "Creates the Fukushima Institute for Research, Education and Innovation (F-REI) covering robotics, decommissioning and agriculture R&D."
+  ],
+  "language": "ja",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2012,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Japan's Act on Special Measures for the Reconstruction and Revitalization of Fukushima (2012, current revision 2026) sets the reconstruction basic policy, plan certification, special measures for evacuation-lifted areas and industry, and the F-REI research institute. Robotics appears only as a designated R&D and industrial-cluster field, with no robot-specific safety or liability rules.",
+  "title_clean": "福島復興再生特別措置法",
+  "title_en": "Act on Special Measures for the Reconstruction and Revitalization of Fukushima",
+  "venue": "e-Gov Law Search"
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-728fa615",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:03:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04622180000000001,
+  "in": 2,
+  "out": 1777,
+  "cache_read": 11758,
+  "cache_create": 6818,
+  "api_ms": 9289,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "other"
+  ],
+  "authors_or_issuer": "Council of the European Union",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "education_training_programs",
+   "funding_or_incentives",
+   "international_cooperation",
+   "transparency_disclosure_labelling"
+  ],
+  "governance_topics": [
+   "education_training",
+   "children_vulnerable_groups",
+   "consumer_protection",
+   "transparency_explainability",
+   "ethics_principles",
+   "other"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Invites Member States to ensure influencers understand applicable national and EU legislation.",
+   "Calls for media literacy training and responsible behaviour initiatives for influencers.",
+   "Encourages self-regulatory bodies and a possible ethical code for influencers.",
+   "Asks Commission to keep Influencer Legal Hub updated and examine kidfluencer wellbeing under BIK+.",
+   "Suggests reflecting on influencers' increased AI use and AI Act labelling requirements."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Council of the EU conclusions inviting Member States and the Commission to support influencers as online content creators through legal awareness, media literacy, self-regulation and attention to kidfluencers' wellbeing. It reviews applicable EU law (AVMSD, DSA, AI Act, GDPR, consumer law) and briefly notes AI labelling duties.",
+  "title_clean": "Council conclusions on support for influencers as online content creators",
+  "title_en": "Council conclusions on support for influencers as online content creators",
+  "venue": "Official Journal of the European Union (C series)"
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "doc_id": "D1477",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:46:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0471418,
+  "in": 2,
+  "out": 1901,
+  "cache_read": 11758,
+  "cache_create": 6738,
+  "api_ms": 11352,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial Intelligence and Civil Liability",
+  "title_en": "Artificial Intelligence and Civil Liability",
+  "language": "en",
+  "authors_or_issuer": "Bertolini, A.",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2020,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": "10.2861/220466",
+  "venue": "European Parliament Policy Department for Citizens' Rights and Constitutional Affairs (JURI study)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "autonomous_road_vehicles",
+   "surgical_medical_robots",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "logistics_transport",
+   "healthcare",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "legal_personhood_robot_rights",
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "consumer_protection",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "insurance_requirement",
+   "technical_standards_reference",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "EU Product Liability Directive",
+   "EU Civil Law Rules on Robotics 2017",
+   "EU AI Liability Directive (proposal)",
+   "OECD AI Principles",
+   "EU Machinery Regulation",
+   "ISO 10218"
+  ],
+  "robot_legal_personhood_position": "opposes",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "European Parliament JURI study by Bertolini on AI and civil liability. It argues regulation must be technology-specific, rejects electronic personhood, critiques the Product Liability Directive and the Expert Group report, and proposes a Risk-Management Approach imposing strict liability on the best risk controller, applied to industrial robots, connected driving, medical robots and drones.",
+  "key_provisions_or_claims": [
+   "AI regulation should be technology-specific, not unitary, given AI's heterogeneity.",
+   "Proposes a Risk-Management Approach: strict liability on the party best able to control the risk.",
+   "Electronic personhood is rejected or assessed only functionally, class-by-class.",
+   "The Product Liability Directive needs reform on software, defect, development risk and damages.",
+   "Applies the approach to industrial robots, connected and automated driving, medical robots and drones."
+  ],
+  "confidence": 0.85
+ }
+}

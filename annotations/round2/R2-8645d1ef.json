@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-8645d1ef",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:47:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.14328180000000001,
+  "in": 2,
+  "out": 1895,
+  "cache_read": 11758,
+  "cache_create": 30788,
+  "api_ms": 12291,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2022/2346 laying down common specifications for the groups of products without an intended medical purpose listed in Annex XVI to Regulation (EU) 2017/745 on medical devices",
+  "title_en": "Commission Implementing Regulation (EU) 2022/2346 laying down common specifications for the groups of products without an intended medical purpose listed in Annex XVI to Regulation (EU) 2017/745 on medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 311/60",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "consumer_protection",
+   "transparency_explainability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "education_training_programs",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [
+   "EU Medical Devices Regulation 2017/745",
+   "Council Directive 93/42/EEC",
+   "ISO 14971"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Implementing Regulation setting common specifications for risk management, labelling and instructions for products without medical purpose (contact lenses, implants, fillers, fat-reduction equipment, lasers/IPL, transcranial brain stimulation) under the Medical Devices Regulation, with transitional arrangements. Not AI-related.",
+  "key_provisions_or_claims": [
+   "Common specifications cover risk management for Annex XVI products under MDR 2017/745.",
+   "Annex I sets general risk management process, labelling and instructions-for-use requirements.",
+   "Annexes II-VII add product-specific risks and controls (lenses, implants, fillers, fat reduction, lasers/IPL, brain stimulation).",
+   "Transitional arrangements allow marketed products until 2025-2028 subject to conditions.",
+   "Applies from 22 June 2023."
+  ],
+  "confidence": 0.95
+ }
+}

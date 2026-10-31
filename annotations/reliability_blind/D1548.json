@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1548",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:46:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0440918,
+  "in": 2,
+  "out": 1796,
+  "cache_read": 11758,
+  "cache_create": 6238,
+  "api_ms": 10050,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare"
+  ],
+  "authors_or_issuer": "Puzio, A.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.1007/s13347-024-00730-2",
+  "embodied_categories": [
+   "social_companion_robots",
+   "surgical_medical_robots",
+   "humanoid_general_purpose"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "legal_personhood_robot_rights",
+   "human_dignity_autonomy"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Robot ethics' properties approach and modestly relational approaches presuppose human-only properties such as consciousness and intelligence.",
+   "Proposes an 'eco-relational' approach embedding relationality with animals and technology in ethical concepts from the start.",
+   "Anchors properties in contexts, bodies and actions, allowing recognition of non-human agency.",
+   "Introduces hybrid actions and co-being/co-actions, e.g. robot-assisted surgery.",
+   "Technology relationships disrupt traditional ethical concepts like autonomy, agency and responsibility."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "social_companion_robots",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2024,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Philosophical article arguing robot ethics is not relational enough. Critiques the properties approach and modestly relational approaches, proposing an 'eco-relational' phenomenological approach that integrates relationships with animals and robots into concepts like autonomy, agency and responsibility, leading to hybrid actions and non-human agency.",
+  "title_clean": "Not Relational Enough? Towards an Eco-Relational Approach in Robot Ethics",
+  "title_en": "Not Relational Enough? Towards an Eco-Relational Approach in Robot Ethics",
+  "venue": "Philosophy & Technology"
+ }
+}

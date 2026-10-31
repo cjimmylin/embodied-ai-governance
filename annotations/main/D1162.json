@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1162",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:38:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0402298,
+  "in": 2,
+  "out": 1787,
+  "cache_read": 11758,
+  "cache_create": 5295,
+  "api_ms": 11737,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Government of Spain approves the Artificial Intelligence Strategy 2024",
+  "title_en": "The Government of Spain approves the Artificial Intelligence Strategy 2024",
+  "language": "en",
+  "authors_or_issuer": "Government of Spain, La Moncloa (Council of Ministers)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "La Moncloa",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ES"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "sustainability_environment",
+   "cybersecurity",
+   "education_training",
+   "transparency_explainability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "data_governance_requirements",
+   "education_training_programs",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Government press page on the Council of Ministers' 14 May 2024 approval of Spain's AI Strategy 2024. It describes €1.5bn funding, supercomputing, the ALIA Spanish-language model, talent, public-administration pilots, and cybersecurity. It also covers ethical and transparent AI aligned with the EU AI Act and AESIA. It has no robotics content.",
+  "key_provisions_or_claims": [
+   "Strategy 2024-2025 funded with €1.5bn from the Recovery Plan, on top of €600m already mobilised",
+   "ALIA foundation language models in Spanish and co-official languages, with transparency and openness",
+   "€90m investment in MareNostrum supercomputing; sustainable data centres under environmental standards",
+   "€160m for AI scholarships and training; pilots and common data governance in public administration",
+   "AESIA to supervise AI and promote ethical, humanistic AI in line with the EU AI Act"
+  ],
+  "confidence": 0.9
+ }
+}

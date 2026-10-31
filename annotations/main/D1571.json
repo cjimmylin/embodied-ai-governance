@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1571",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:49:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0457018,
+  "in": 2,
+  "out": 1813,
+  "cache_read": 11758,
+  "cache_create": 6598,
+  "api_ms": 10660,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "authors_or_issuer": "Pirni, A.; Balistreri, M.; Capasso, M.; Umbrello, S.; Merenda, F.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.93,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.3389/frobt.2021.654298",
+  "embodied_categories": [
+   "care_assistive_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_dignity_autonomy",
+   "human_robot_interaction_social_effects",
+   "children_vulnerable_groups"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Critiques van Wynsberghe's non-principled care-ethics approach to care robot design based on Tronto.",
+   "Proposes hybrid approach with two orientative principles: autonomy and vulnerability.",
+   "Argues orientative principles can guide and limit robot behaviour while allowing learning from interaction.",
+   "Top-down (Asimov-style) rules are too generic; bottom-up learning is error-prone.",
+   "Provides conceptual framework, not concrete design requirements."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2021,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Philosophical paper critiquing van Wynsberghe's Tronto-based approach to ethical design of elderly care robots and proposing a hybrid care-ethics framework built on two orientative principles, autonomy and vulnerability, as a conceptual basis for future design requirements.",
+  "title_clean": "Robot Care Ethics Between Autonomy and Vulnerability: Coupling Principles and Practices in Autonomous Systems for Care",
+  "title_en": "Robot Care Ethics Between Autonomy and Vulnerability: Coupling Principles and Practices in Autonomous Systems for Care",
+  "venue": "Frontiers in Robotics and AI"
+ }
+}

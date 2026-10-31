@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-ce8b8aa5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0524892,
+  "in": 4,
+  "out": 3571,
+  "cache_read": 25897,
+  "cache_create": 4244,
+  "api_ms": 20647,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 18646-2:2024 Robotics — Performance criteria and related test methods for service robots — Part 2: Navigation",
+  "title_en": "ISO 18646-2:2024 Robotics — Performance criteria and related test methods for service robots — Part 2: Navigation",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 299 (International Organization for Standardization)",
+  "issuer_type": "standards_body",
+  "pub_year": 2024,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 18646-2:2019"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO store catalogue page for ISO 18646-2:2024 (edition 2), which specifies performance criteria and test methods for navigation of mobile service robots, covering pose accuracy, obstacle avoidance, path deviation, narrow passages and mapping accuracy. It excludes safety verification and shows the publication stage history.",
+  "key_provisions_or_claims": [
+   "Specifies methods to evaluate navigation performance of mobile service robots",
+   "Metrics: pose accuracy and repeatability, obstacle detection and avoidance, path deviation, narrow passage, mapping accuracy",
+   "Applies to ground-contact mobile platforms indoors; outdoor in Annex A",
+   "Not applicable to verification of safety requirements",
+   "Replaces ISO 18646-2:2019; developed by ISO/TC 299"
+  ],
+  "confidence": 0.85
+ }
+}

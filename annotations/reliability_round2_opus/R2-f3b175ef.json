@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-f3b175ef",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:02:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.10287960000000002,
+  "in": 2,
+  "out": 2124,
+  "cache_read": 11758,
+  "cache_create": 7255,
+  "api_ms": 15822,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "14 CFR Part 48—Registration and Marking Requirements for Small Unmanned Aircraft",
+  "title_en": "14 CFR Part 48—Registration and Marking Requirements for Small Unmanned Aircraft",
+  "language": "en",
+  "authors_or_issuer": "Federal Aviation Administration (FAA), U.S. Department of Transportation",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2015,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Code of Federal Regulations (eCFR)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "transparency_explainability",
+   "children_vulnerable_groups",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "49 U.S.C. 44101-44103",
+   "49 U.S.C. 44809",
+   "14 CFR Part 47",
+   "14 CFR Part 45",
+   "14 CFR Part 89 (Remote Identification)",
+   "Convention on the International Recognition of Rights in Aircraft"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "US FAA regulation (14 CFR Part 48, adopted 2015, amended 2019 and 2021) setting out registration and marking requirements for small unmanned aircraft. It covers who is eligible, what applicants must submit (including Remote ID serial numbers), the $5 fee, three-year certificate validity, keeping information up to date, and displaying a unique identifier on the aircraft's exterior.",
+  "key_provisions_or_claims": [
+   "No one may operate a registrable small UAS unless it is registered and marked, except recreational aircraft of 0.55 lb or less and Armed Forces aircraft.",
+   "Registration is available to US citizens, permanent residents and qualifying US-based corporations; owners under 13 must have someone aged 13 or older register for them.",
+   "Certificates cost $5 and expire after 3 years; recreational flyers can hold a single certificate covering all their aircraft.",
+   "Applicants must give contact details and manufacturer serial numbers for standard Remote ID aircraft or broadcast modules, and must report changes within 14 days.",
+   "A unique identifier must be legibly displayed on an external surface of the aircraft."
+  ],
+  "confidence": 0.85
+ }
+}

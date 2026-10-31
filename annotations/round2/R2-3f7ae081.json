@@ -1,0 +1,119 @@
+{
+ "doc_id": "R2-3f7ae081",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:56:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0722998,
+  "in": 2,
+  "out": 1936,
+  "cache_read": 11758,
+  "cache_create": 12940,
+  "api_ms": 17591,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Autonomous driving in European transport",
+  "title_en": "Autonomous driving in European transport",
+  "language": "en",
+  "authors_or_issuer": "European Parliament",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2019,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, C 411",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "drones_uas",
+   "autonomous_maritime_or_rail"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "cybersecurity",
+   "standards_interoperability",
+   "ethics_principles",
+   "labor_employment",
+   "industrial_policy_innovation",
+   "consumer_protection",
+   "trust_acceptance",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "insurance_requirement",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "international_cooperation",
+   "data_governance_requirements",
+   "education_training_programs",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "EU Product Liability Directive",
+   "GDPR",
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "European Parliament resolution of 15 January 2019 on autonomous driving across road, air, sea, inland waterway and rail transport. It urges the Commission to adapt liability and insurance rules, secure data access and cybersecurity, harmonise standards via UNECE, set ethical guidelines, support testing sites and research funding, and address jobs and skills.",
+  "key_provisions_or_claims": [
+   "Calls on the Commission to assess and adapt EU liability rules, possibly shifting liability to manufacturers, with a no-fault insurance option.",
+   "Calls for mandatory event data recorders and standardised market surveillance for automated vehicles.",
+   "Calls for ethical guidelines for AI and prior ethical assessment of self-driving vehicles.",
+   "Urges fair, secure access to in-vehicle data and strong data protection and cybersecurity.",
+   "Calls for detailed rules for automated aircraft and drones, autonomous ships and trains, and for Member States to designate real-life testing areas by 2020."
+  ],
+  "confidence": 0.95
+ }
+}

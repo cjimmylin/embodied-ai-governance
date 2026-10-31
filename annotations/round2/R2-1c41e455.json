@@ -1,0 +1,112 @@
+{
+ "doc_id": "R2-1c41e455",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:58:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0902378,
+  "in": 4,
+  "out": 3866,
+  "cache_read": 34318,
+  "cache_create": 12774,
+  "api_ms": 21768,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "logistics_transport",
+   "defense_security"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU",
+   "US",
+   "SG",
+   "RS",
+   "IL",
+   "JP",
+   "CH"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "international_cooperation",
+   "testing_sandboxes",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Commission inspections show compliance rate stable at about 80% since 2010.",
+   "18 initial airport inspections and 2 appropriate authority inspections in 2022; no Article 15 cases or infringement proceedings.",
+   "Cybersecurity, access control and cabin baggage screening flagged as weak implementation areas.",
+   "Drone threats to airports addressed via Drone Strategy 2.0 and counter-UAS risk assessment.",
+   "Trials of automatic prohibited item detection; international cooperation with ICAO, US and CASE II."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Regulation (EC) 300/2008",
+   "Regulation (EU) 72/2010",
+   "Implementing Regulation (EU) 2015/1998",
+   "NIS Directive 2016/1148",
+   "Drone Strategy 2.0"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Commission's annual report on implementing Regulation (EC) 300/2008 on civil aviation security in 2022. It covers inspections, compliance rates, legislative updates, trials, cybersecurity, threat outlook including unlawful drone use, and international dialogue. Only passing reference to drones; not about AI.",
+  "title_clean": "Report from the Commission to the European Parliament and the Council: 2022 Annual Report on the Implementation of Regulation (EC) No 300/2008 on Common Rules in the Field of Civil Aviation Security",
+  "title_en": "Report from the Commission to the European Parliament and the Council: 2022 Annual Report on the Implementation of Regulation (EC) No 300/2008 on Common Rules in the Field of Civil Aviation Security",
+  "venue": "European Commission COM(2024) 107 final",
+  "issuer_type": "intergovernmental_org"
+ }
+}

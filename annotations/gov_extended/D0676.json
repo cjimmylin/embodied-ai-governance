@@ -1,0 +1,111 @@
+{
+ "doc_id": "D0676",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:44:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1144878,
+  "in": 2,
+  "out": 1888,
+  "cache_read": 11758,
+  "cache_create": 23607,
+  "api_ms": 10920,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI-IRS: A Foundation for Trustworthy AI",
+  "title_en": "AI-IRS: A Foundation for Trustworthy AI",
+  "language": "en",
+  "authors_or_issuer": "Unknown (Japan-based issuer; AI Incident Response System concept paper)",
+  "issuer_type": "unknown",
+  "pub_year": 2026,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP",
+   "US"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "proposal_or_concept",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "human_oversight_control",
+   "transparency_explainability",
+   "risk_management_risk_tiers",
+   "civil_liability",
+   "standards_interoperability"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "incident_reporting",
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "international_cooperation",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "NIST AI RMF",
+   "ISO/IEC 22989",
+   "NIST SP 800-61r3",
+   "NIST Cyber AI Profile",
+   "G7 Shared Vision on SBOM for AI",
+   "UNCITRAL Model Law on Automated Contracting"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Conceptual framework for an AI Incident Response System (AI-IRS) extending NIST SP 800-61r3 with two criteria, observability and controllability. It addresses RAG and AI agents, proposes SBOM for AI, localized containment and an early warning network, and urges executive responsibility. Physical robots are mentioned only in passing.",
+  "key_provisions_or_claims": [
+   "Treat AI incidents as inevitable and strengthen detective controls alongside preventive ones.",
+   "Use observability and controllability as two evaluation criteria in a four-quadrant model.",
+   "Contain incidents at the smallest unit, such as a module, API or data source, rather than shutting down the whole system.",
+   "Use SBOM for AI and provenance metadata for supply-chain traceability.",
+   "Establish common incident response protocols and an early warning network, with executives (CAIO/CISO) leading and funding."
+  ],
+  "confidence": 0.6
+ }
+}

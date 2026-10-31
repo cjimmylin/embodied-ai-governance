@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-1b45cb58",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027413800000000002,
+  "in": 2,
+  "out": 1655,
+  "cache_read": 11758,
+  "cache_create": 2421,
+  "api_ms": 10265,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "ISO/TC 299",
+  "binding_nature": "technical_standard_voluntary",
+  "confidence": 0.85,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "professional_service_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Specifies information models for software modules in service robots.",
+   "Covers interfaces (variables and methods), properties, composition and execution information.",
+   "Relates to the nine principles of ISO 22166-1.",
+   "Not a safety standard but specifies safety-related information for modules.",
+   "Applicable across design, development, operation and maintenance lifecycle stages."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "ISO 22166-1"
+  ],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "professional_service_robots",
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "ISO catalogue page for ISO 22166-202:2025, an international standard specifying information models for software modules in modular service robots, covering interfaces, properties and composition. It is not a safety standard but includes safety-related information. Published March 2025 by ISO/TC 299.",
+  "title_clean": "ISO 22166-202:2025 Robotics — Modularity for service robots — Part 202: Information model for software modules",
+  "title_en": "ISO 22166-202:2025 Robotics — Modularity for service robots — Part 202: Information model for software modules",
+  "venue": "ISO"
+ }
+}

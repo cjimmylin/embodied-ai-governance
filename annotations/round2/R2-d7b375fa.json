@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-d7b375fa",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:34:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06367149999999999,
+  "in": 4,
+  "out": 3593,
+  "cache_read": 28600,
+  "cache_create": 6899,
+  "api_ms": 18029,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "logistics_transport",
+   "retail_hospitality",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "文化和旅游部; 中国民航局",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "national_strategy_or_action_plan",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "international_cooperation",
+   "licensing_registration"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "consumer_protection",
+   "safety_physical_harm",
+   "other"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Aims by 2027 to deepen integration of culture-tourism and civil aviation, with more routes and products.",
+   "Improves accessibility and services for elderly, student study-tour, family, ice-and-snow and inbound travellers.",
+   "Promotes regulated low-altitude tourism with joint industry-local supervision, safety first and qualified operators.",
+   "Plans study of air sightseeing market management measures.",
+   "Establishes coordination mechanism between the ministry and CAAC, with data sharing and policy support."
+  ],
+  "language": "zh",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 11,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Joint action plan by China's Ministry of Culture and Tourism and the CAAC (notice 文旅产业发〔2025〕90号, 28 Nov 2025) to integrate tourism and civil aviation by 2027. It mostly covers service, routes and products; a minor section promotes regulated low-altitude tourism with joint supervision.",
+  "title_clean": "关于印发《文化和旅游与民航业融合发展行动方案》的通知",
+  "title_en": "Notice on Issuing the Action Plan for the Integrated Development of Culture and Tourism and Civil Aviation",
+  "venue": null
+ }
+}

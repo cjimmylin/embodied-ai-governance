@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-947216cb",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:18:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0245058,
+  "in": 2,
+  "out": 1679,
+  "cache_read": 11758,
+  "cache_create": 1634,
+  "api_ms": 9587,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Act No. 106 of 2020 - Vehicle Code (75 Pa.C.S.) - Personal Delivery Devices and Making Editorial Changes",
+  "title_en": "Act No. 106 of 2020 - Vehicle Code (75 Pa.C.S.) - Personal Delivery Devices and Making Editorial Changes",
+  "language": "en",
+  "authors_or_issuer": "Pennsylvania General Assembly",
+  "issuer_type": "legislature",
+  "pub_year": 2020,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Pennsylvania General Assembly website",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Pennsylvania Act 106 of 2020 (SB 1199) amends the state Vehicle Code to address personal delivery devices, i.e., sidewalk delivery robots, and makes editorial changes. The excerpt is only the legislative portal page with metadata; the substantive provisions are not shown.",
+  "key_provisions_or_claims": [
+   "Amends Title 75 (Vehicle Code) to provide for personal delivery devices",
+   "Enacted from SB 1199, effective 90 days after enactment",
+   "Includes editorial changes to the Vehicle Code",
+   "No later legislation amending this act was found"
+  ],
+  "confidence": 0.6
+ }
+}

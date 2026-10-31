@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-f49c1638",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:43:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.055197800000000005,
+  "in": 2,
+  "out": 1847,
+  "cache_read": 11758,
+  "cache_create": 8887,
+  "api_ms": 11233,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2018/988 amending and correcting Implementing Regulation (EU) 2017/656 on administrative requirements for emission limits and type-approval of internal combustion engines for non-road mobile machinery",
+  "title_en": "Commission Implementing Regulation (EU) 2018/988 amending and correcting Implementing Regulation (EU) 2017/656 on administrative requirements for emission limits and type-approval of internal combustion engines for non-road mobile machinery",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2018,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 182",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "construction",
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "sustainability_environment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission implementing regulation amending and correcting templates and administrative requirements for emission type-approval of internal combustion engines in non-road mobile machinery under Regulation 2016/1628. It harmonises terminology, adds test-report and certificate fields, and sets transitional provisions. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Inserts Article 12a transitional rules: type-approvals under old version allowed until 31 Dec 2018, placing on market until 30 June 2019",
+   "Requires copies of demonstration reports in the engine information folder",
+   "Adds in-service monitoring reference work and CO2 mass to type-approval certificate addendum and test report",
+   "Replaces 'displacement' terms with 'swept volume per cylinder' and 'engine total swept volume'",
+   "Corrects errors in templates and engine family criteria"
+  ],
+  "confidence": 0.95
+ }
+}

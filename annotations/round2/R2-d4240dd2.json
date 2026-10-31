@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-d4240dd2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:52:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030001800000000002,
+  "in": 2,
+  "out": 1757,
+  "cache_read": 11758,
+  "cache_create": 2813,
+  "api_ms": 10434,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Directive of the European Parliament and of the Council amending Council Directive 93/42/EEC, as amended by Directive 2000/70/EC, as regards medical devices incorporating stable derivates of human blood or human plasma",
+  "title_en": "Proposal for a Directive of the European Parliament and of the Council amending Council Directive 93/42/EEC, as amended by Directive 2000/70/EC, as regards medical devices incorporating stable derivates of human blood or human plasma",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2001,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities C 304 E/334",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "2001 Commission proposal to amend the EU Medical Devices Directive 93/42/EEC so that its scope covers only devices incorporating stable derivatives of human blood or plasma as an integral part. It sets transposition deadlines and transitional rules. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Amends Article 1(5) of Directive 93/42/EEC on blood-derived substances",
+   "Member States must transpose before 13 December 2001 and apply from 13 June 2002",
+   "Notified bodies must take account of existing test results in conformity assessment",
+   "Five-year transition for placing on the market, then two further years for putting into service",
+   "Aims to safeguard public health and ensure free movement of devices"
+  ],
+  "confidence": 0.9
+ }
+}

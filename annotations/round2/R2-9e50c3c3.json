@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-9e50c3c3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:58:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.024411800000000004,
+  "in": 2,
+  "out": 1628,
+  "cache_read": 11758,
+  "cache_create": 1738,
+  "api_ms": 8520,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Draft National Strategy on Robotics",
+  "title_en": "Draft National Strategy on Robotics",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Electronics and Information Technology (MeitY), India",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "MeitY website",
+  "jurisdiction_country": "IN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IN"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "consultation_open",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "MeitY web notice inviting public comments (4 Sept–31 Oct 2023) on India's Draft National Strategy on Robotics, which aims to make India a global robotics leader by 2030, building on Make in India 2.0 with a whole-of-ecosystem approach and an institutional framework for implementation.",
+  "key_provisions_or_claims": [
+   "Aims to position India as a global robotics leader by 2030",
+   "Builds on Make in India 2.0, which lists robotics among 27 sub-sectors",
+   "Strengthens all pillars of the robotics innovation cycle",
+   "Provides an institutional framework for implementation",
+   "Public consultation open 4 Sept–31 Oct 2023"
+  ],
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-81f8c544",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.09081990000000001,
+  "in": 4,
+  "out": 3657,
+  "cache_read": 34949,
+  "cache_create": 13439,
+  "api_ms": 21645,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Pre-market guidance for machine learning-enabled medical devices",
+  "title_en": "Pre-market guidance for machine learning-enabled medical devices",
+  "language": "en",
+  "authors_or_issuer": "Health Canada",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Health Canada (Government of Canada)",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "human_oversight_control"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "audits_impact_assessment",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [
+   "ISO 14971"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Health Canada guidance on pre-market licence applications for Class II-IV machine learning-enabled medical devices (software). It covers good ML practice, predetermined change control plans, risk management, dataset representativeness, SGBA Plus, performance and clinical evidence, transparency labelling, and terms and conditions on licences.",
+  "key_provisions_or_claims": [
+   "Manufacturers should state in the cover letter that the device uses ML and whether it includes a PCCP.",
+   "A PCCP (change description, change protocol, impact assessment) pre-authorizes planned ML changes without a licence amendment.",
+   "Data must be justified as representative of the Canadian population; SGBA Plus and subgroup performance evidence expected.",
+   "Labelling should disclose ML use, training data, performance, limitations, and model-card style summaries.",
+   "The Minister may impose terms and conditions on licences to manage ML uncertainties."
+  ],
+  "confidence": 0.85
+ }
+}

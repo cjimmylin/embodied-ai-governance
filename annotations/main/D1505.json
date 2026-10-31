@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1505",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:47:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.044317800000000004,
+  "in": 2,
+  "out": 1795,
+  "cache_read": 11758,
+  "cache_create": 6297,
+  "api_ms": 9065,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "authors_or_issuer": "Gonçalves, P.J.S.; Santos, S.; Lourenço, B.; Pereira, C.; Pinheira, V.; Moreira, M.J.G.; et al.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "PT"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.13180/icres.2019.29-30.07.007",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "human_dignity_autonomy",
+   "children_vulnerable_groups",
+   "research_ethics"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "PT",
+  "jurisdiction_scope": "not_applicable",
+  "language": "en",
+  "methodology": "case_study",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2019,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Conference paper describing four cognitive games for nursing-home elders, the last using a tele-operated car-like robot, and discussing the ethical issues addressed in design and trials with 50 elders in two Portuguese nursing homes, including beneficence/non-maleficence, deception and infantilisation.",
+  "title_clean": "From traditional games to robotic games: ethical issues with elders",
+  "title_en": "From traditional games to robotic games: ethical issues with elders",
+  "venue": "ICRES 2019: International Conference on Robot Ethics and Standards, London",
+  "key_provisions_or_claims": [
+   "Four incrementally harder cognitive games adapted from nursing-home games; the fourth uses a tele-operated robot.",
+   "Ethical issues drawn from literature (Sharkey & Sharkey) and handled during design and trials.",
+   "Concerns include beneficence/do no harm, deception and infantilisation of elders.",
+   "Tested with 50 elders in two Portuguese nursing homes.",
+   "Authors conclude the system is ethically proper."
+  ]
+ }
+}

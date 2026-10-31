@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-088d971e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:38:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2767678,
+  "in": 2,
+  "out": 1736,
+  "cache_read": 11758,
+  "cache_create": 64557,
+  "api_ms": 10399,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則",
+  "title_en": "Ordinance for Enforcement of the Act on Securing Quality, Efficacy and Safety of Products Including Pharmaceuticals and Medical Devices",
+  "language": "ja",
+  "authors_or_issuer": "Ministry of Health, Labour and Welfare (Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 1961,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "consumer_protection"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "incident_reporting",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Japan's Ministerial Ordinance implementing the Pharmaceuticals and Medical Devices Act, specifying procedures, forms and standards for pharmacies, manufacturers/marketing authorisation holders of drugs, medical devices and regenerative products, registered certification bodies, safety measures, recalls and supervision. It contains no AI or robotics-specific provisions.",
+  "key_provisions_or_claims": [
+   "Sets licensing and application procedures for pharmacies and marketing/manufacturing businesses",
+   "Defines standards for regional-cooperation and specialised pharmacies",
+   "Establishes registered certification body requirements for medical devices",
+   "Requires adverse-reaction reporting and recall reporting to the Minister",
+   "Includes supervision, designated substances and orphan product designation rules"
+  ],
+  "confidence": 0.9
+ }
+}

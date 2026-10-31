@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-62206d02",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0502755,
+  "in": 4,
+  "out": 3490,
+  "cache_read": 25915,
+  "cache_create": 3671,
+  "api_ms": 16597,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Framework of Responsible Industry Behaviour for AI in the Military Domain",
+  "title_en": "Framework of Responsible Industry Behaviour for AI in the Military Domain",
+  "language": "en",
+  "authors_or_issuer": "UNIDIR (United Nations Institute for Disarmament Research) in partnership with OHCHR",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "UNIDIR",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "trust_acceptance"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "UN Guiding Principles on Business and Human Rights",
+   "REAIM"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UNIDIR programme page, with OHCHR, describing a developing voluntary Framework of Responsible Industry Behaviour for AI in the Military Domain. It aims to give industry a common baseline of principles and practical guidelines, built through multistakeholder co-development and grounded in international law, without binding commitments.",
+  "key_provisions_or_claims": [
+   "Framework will be voluntary principles and practical guidelines for industry in military AI",
+   "Developed through cross-regional multistakeholder co-development",
+   "Grounded in international law and builds on REAIM and UN Guiding Principles on Business and Human Rights",
+   "Contributors include Microsoft, Hitachi America and Japan Defense Technology Foundation",
+   "Participation implies no endorsement or binding commitment"
+  ],
+  "confidence": 0.75
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "doc_id": "D0222",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:10:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.20300040000000003,
+  "in": 4,
+  "out": 4312,
+  "cache_read": 35682,
+  "cache_create": 14622,
+  "api_ms": 30004,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "امکان‌سنجی اعطای شخصیت حقوقی به ربات‌های هوشمند با تکیه بر مصوبه اتحادیه اروپا (شخص الکترونیک - 2017)",
+  "title_en": "Feasibility Study of Granting Legal Personality to Smart Robots Based on the European Union Resolution (Electronic Person - 2017)",
+  "language": "fa",
+  "authors_or_issuer": "Vaseghi, M.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Majlis and Rahbord (Parliament and Strategy Quarterly), Vol. 27, No. 103",
+  "jurisdiction_country": "IR",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "KR",
+   "IR",
+   "US"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "autonomous_road_vehicles",
+   "care_assistive_robots",
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "ethics_principles",
+   "human_oversight_control"
+  ],
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017",
+   "Korea Intelligent Robots Act",
+   "EN ISO 8373"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Persian peer-reviewed article from Iran's Parliament research journal assessing the feasibility of granting legal personality (\"electronic person\") to smart robots, based on the 2017 EU Parliament resolution. Using a descriptive-analytical method, it concludes that personhood is not currently feasible given robots' autonomy levels, but would face no obstacle if robots reached full autonomy, perception and will.",
+  "key_provisions_or_claims": [
+   "Self-learning autonomous robots create a liability gap because victims struggle to attribute defects to manufacturer, owner or user.",
+   "The EU proposed electronic personhood to close the responsibility gap and protect victims.",
+   "Granting legal personality to smart robots is currently not feasible given their level of autonomy.",
+   "If robots attain full autonomy, perception and will, there would be no barrier to granting legal personality.",
+   "Robots are classified by autonomy level (weak, semi-autonomous, fully autonomous); cites Korea's Intelligent Robots Act definition."
+  ],
+  "confidence": 0.85
+ }
+}

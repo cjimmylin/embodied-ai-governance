@@ -1,0 +1,118 @@
+{
+ "doc_id": "R2-1efba801",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1257358,
+  "in": 2,
+  "out": 1940,
+  "cache_read": 11758,
+  "cache_create": 26289,
+  "api_ms": 12377,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Transport Canada",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "CA",
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "incident_reporting",
+   "data_governance_requirements",
+   "education_training_programs",
+   "international_cooperation",
+   "self_regulation_codes",
+   "funding_or_incentives"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "education_training",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Technology-neutral, non-prescriptive, risk-based principles for vehicle cyber security across the whole vehicle lifecycle",
+   "Four principles: identify/manage risks, protect the vehicle ecosystem, detect/monitor/respond, recover safely and quickly",
+   "Supply chain security, secure updates, vulnerability disclosure and independent security audits recommended",
+   "Privacy protection tied to PIPEDA, with a planned industry code of practice for CAVs",
+   "Aligned with NIST CSF, UNECE WP.29 work and ISO/SAE 21434; not a technical standard"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "NIST Cybersecurity Framework",
+   "ISO/SAE 21434",
+   "ISO 26262",
+   "PIPEDA",
+   "Motor Vehicle Safety Act (Canada)",
+   "ISO/IEC 29147",
+   "ISO/IEC 30111"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2020,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Transport Canada's 2020 voluntary, technology-neutral guidance sets risk-based principles for cyber security of connected and automated vehicles across their lifecycle. It covers risk governance, supply chain security, layered defences, privacy under PIPEDA, monitoring, incident response and recovery, and aligns with NIST CSF, UNECE and ISO/SAE 21434.",
+  "title_clean": "Canada's Vehicle Cyber Security Guidance",
+  "title_en": "Canada's Vehicle Cyber Security Guidance",
+  "venue": "Transport Canada",
+  "methodology": "not_applicable"
+ }
+}

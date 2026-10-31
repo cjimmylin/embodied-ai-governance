@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-c05a984c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:29:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.061279799999999995,
+  "in": 2,
+  "out": 2054,
+  "cache_read": 11758,
+  "cache_create": 9890,
+  "api_ms": 10573,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院关于印发《全面对接国际高标准经贸规则推进中国（上海）自由贸易试验区高水平制度型开放总体方案》的通知",
+  "title_en": "State Council Notice on Issuing the Overall Plan for Fully Aligning with International High-Standard Economic and Trade Rules and Advancing High-Level Institutional Opening-up in the China (Shanghai) Pilot Free Trade Zone",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the People's Republic of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "国发〔2023〕23号",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "cross_sector",
+   "finance",
+   "healthcare",
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "ethics_principles",
+   "intellectual_property",
+   "labor_employment",
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "international_cooperation",
+   "data_governance_requirements",
+   "audits_impact_assessment",
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "State Council plan (Guofa [2023] No. 23) for Shanghai Pilot Free Trade Zone institutional opening-up, aligning with high-standard trade rules across services, goods, digital trade, IP, procurement and labour. AI provisions include an ethics framework, faster review of AI medical devices, and pilot testing of highly automated vehicles and a dedicated autonomous-driving test lane.",
+  "key_provisions_or_claims": [
+   "Study an AI ethics and governance framework, set up an AI ethics expert advisory body, and issue AI ethics guidelines (item 31).",
+   "Accelerate review and approval of AI-assisted diagnostic medical devices (item 32).",
+   "Pilot highly automated vehicle testing on expressways and elevated roads, and promote commercialisation of intelligent connected vehicles (item 32).",
+   "Pilot a dedicated autonomous-driving test lane at Yangshan Port and innovate last-mile delivery (item 20).",
+   "Allow cross-border data flows under a data classification regime with important-data catalogue and security certification."
+  ],
+  "confidence": 0.85
+ }
+}

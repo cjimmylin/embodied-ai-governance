@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0601",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:23:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0661284,
+  "in": 4,
+  "out": 3706,
+  "cache_read": 28809,
+  "cache_create": 7296,
+  "api_ms": 21182,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "domestic_consumer",
+   "defense_security"
+  ],
+  "authors_or_issuer": "Annamalai, C.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "inferred_from_content",
+  "doc_class": "research_output",
+  "doc_type": "preprint_or_working_paper",
+  "doi": "10.33774/coe-2026-df537",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "security_policing_robots",
+   "domestic_household_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "liability_regime",
+   "conformity_assessment_certification",
+   "human_oversight_requirement"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "cybersecurity",
+   "ethics_principles",
+   "trust_acceptance",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "IN",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Robots are technically capable of harm if control software is compromised by malicious code.",
+   "Four-level safety architecture: legal liability, software ethics rules, e-stops/sensors, hardware control.",
+   "Strict product liability places responsibility on developers, manufacturers or operators.",
+   "Viral robot aggression videos are mostly teleoperation, balance recalibration or staged media.",
+   "Security robots are configured for non-lethal, passive interventions."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2026,
+  "publication_stage": "preprint",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Short non-peer-reviewed preprint arguing that although humanoid and smart robots have the physical capability to harm, a layered safety architecture of legal liability, software ethics rules, emergency stops and hardware control keeps them safe. It attributes viral robot aggression to teleoperation, balance recalibration or staged media.",
+  "title_clean": "The Dual Nature of AI Smart Robots: Technical Capabilities vs. Ethical Safety Frameworks",
+  "title_en": "The Dual Nature of AI Smart Robots: Technical Capabilities vs. Ethical Safety Frameworks",
+  "venue": "Cambridge Open Engage (Preprint)"
+ }
+}

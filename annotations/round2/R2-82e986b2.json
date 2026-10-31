@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-82e986b2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:44:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1730418,
+  "in": 2,
+  "out": 1959,
+  "cache_read": 11758,
+  "cache_create": 38068,
+  "api_ms": 10562,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulation (EU) 2023/1231 of the European Parliament and of the Council of 14 June 2023 on specific rules relating to the entry into Northern Ireland from other parts of the United Kingdom of certain consignments of retail goods, plants for planting, seed potatoes, machinery and certain vehicles operated for agricultural or forestry purposes, as well as non-commercial movements of certain pet animals into Northern Ireland",
+  "title_en": "Regulation (EU) 2023/1231 on specific rules relating to the entry into Northern Ireland from other parts of the United Kingdom of certain consignments of retail goods, plants for planting, seed potatoes, machinery and certain vehicles operated for agricultural or forestry purposes, and non-commercial movements of pet animals (Windsor Framework)",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 165/103",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "GB",
+   "EU",
+   "IE"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "agriculture_food",
+   "retail_hospitality",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU regulation setting special SPS and consumer-protection rules for retail goods, plants, seed potatoes, used agricultural machinery and pets entering Northern Ireland from the rest of the UK, conditional on UK written guarantees, marking ('Not for EU'), and Commission monitoring and suspension powers. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Special reduced official-control rates and a general certificate for retail goods entering Northern Ireland from Great Britain, conditional on UK written guarantees.",
+   "'Not for EU' marking requirements phased in from October 2023 to July 2025.",
+   "Plant health labels and registered professional operators for plants, seed potatoes and used agricultural machinery.",
+   "Goods and pets covered may not be moved to EU Member States; Member States must apply penalties.",
+   "Commission may suspend the rules through delegated acts after a systemic UK failure."
+  ],
+  "confidence": 0.97
+ }
+}

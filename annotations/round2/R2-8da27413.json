@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-8da27413",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.13140380000000002,
+  "in": 2,
+  "out": 1714,
+  "cache_read": 11758,
+  "cache_create": 28271,
+  "api_ms": 11288,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "FAR Part 13—Simplified Acquisition Procedures",
+  "title_en": "FAR Part 13—Simplified Acquisition Procedures",
+  "language": "en",
+  "authors_or_issuer": "Federal Acquisition Regulatory Council (US)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 8,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Federal Acquisition Regulation (48 CFR Part 13)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "audits_impact_assessment",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Part 13 of the US Federal Acquisition Regulation prescribes simplified acquisition procedures for purchases up to the simplified acquisition threshold, and up to $9–15 million for commercial items. It covers micro-purchases, purchase orders, blanket purchase agreements, fast payment and documentation. It has no AI or robotics content beyond a passing drone-procurement prohibition.",
+  "key_provisions_or_claims": [
+   "Agencies must use simplified acquisition procedures for purchases up to the simplified acquisition threshold.",
+   "Purchases above the micro-purchase threshold up to the simplified acquisition threshold are set aside for small businesses.",
+   "Subpart 13.5 allows simplified procedures for commercial items up to $9 million ($15 million in special cases).",
+   "Micro-purchases remain subject to bans on Kaspersky, covered telecoms, TikTok and drone prohibitions.",
+   "Sole-source justifications and file documentation are required."
+  ],
+  "confidence": 0.93
+ }
+}

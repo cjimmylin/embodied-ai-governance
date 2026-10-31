@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0458",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.066751,
+  "in": 4,
+  "out": 3589,
+  "cache_read": 29270,
+  "cache_create": 7718,
+  "api_ms": 20116,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Principle-Code for Protection of intellectual property and transparency for the appropriate use of generative AI (provisional title) (draft)",
+  "title_en": "Principle-Code for Protection of intellectual property and transparency for the appropriate use of generative AI (provisional title) (draft)",
+  "language": "en",
+  "authors_or_issuer": "Cabinet Office, Intellectual Property Strategy Headquarters (Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Cabinet Office Japan, AI Study Group reference materials",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP",
+   "EU"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "intellectual_property",
+   "transparency_explainability"
+  ],
+  "primary_topic": "intellectual_property",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "self_regulation_codes",
+   "data_governance_requirements",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "Japan AI Promotion Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Draft Japanese Cabinet Office code setting comply-or-explain principles for generative AI developers and providers on transparency and intellectual property protection, including disclosure of models, training data and crawlers, and disclosure on request to rights holders. Voluntary, with annual updates and government incentives.",
+  "key_provisions_or_claims": [
+   "Applies to generative AI developers and providers, including foreign firms serving Japan",
+   "Comply-or-explain approach; no forced disclosure of trade secrets",
+   "Principle 1: public disclosure of model, training data, crawler and accountability information",
+   "Respect paywalls and robots.txt; do not infringe others' IP",
+   "Principle 2: disclosure on request to rights holders pursuing legal action"
+  ],
+  "confidence": 0.85
+ }
+}

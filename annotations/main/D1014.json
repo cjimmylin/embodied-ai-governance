@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1014",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:34:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.047967800000000005,
+  "in": 2,
+  "out": 1726,
+  "cache_read": 11758,
+  "cache_create": 7382,
+  "api_ms": 9167,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Pact | Shaping Europe's digital future",
+  "title_en": "AI Pact | Shaping Europe's digital future",
+  "language": "en",
+  "authors_or_issuer": "European Commission, DG CONNECT (AI Office)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 8,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Shaping Europe's digital future (European Commission)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "human_oversight_control",
+   "education_training",
+   "ethics_principles"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "transparency_disclosure_labelling",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission web page describing the AI Pact, a voluntary initiative helping organisations prepare for EU AI Act implementation through a stakeholder network (Pillar I) and company pledges (Pillar II), with a list of signatories. Pledges are non-binding.",
+  "key_provisions_or_claims": [
+   "Pillar I: collaborative AI Pact network with AI Office webinars and best-practice sharing",
+   "Pillar II: voluntary, non-binding company pledges with timelines for early AI Act compliance",
+   "Core pledges: AI governance strategy, mapping likely high-risk AI systems, AI literacy promotion",
+   "Additional pledges include human oversight, risk mitigation and labelling deep fakes",
+   "Large list of signatories across sectors including IT, healthcare, automotive and aeronautics"
+  ],
+  "confidence": 0.85
+ }
+}

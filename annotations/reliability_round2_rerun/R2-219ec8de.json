@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-219ec8de",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:05:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04944110000000001,
+  "in": 4,
+  "out": 3398,
+  "cache_read": 25656,
+  "cache_create": 3871,
+  "api_ms": 17429,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "healthcare",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "国家卫生健康委员会 (National Health Commission)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.6,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation",
+   "incident_reporting"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Provincial health authorities organise centralized procurement of Class B large medical equipment for all public institutions, completing at least one round by end of 2026.",
+   "Each province must pilot city-level centralized procurement in at least one city by June 2027.",
+   "Health authorities designate one non-profit implementing agency to run procurement under entrustment agreements.",
+   "Provinces file work plans with the NHC by June 2026 and report annually in December.",
+   "Supersedes the 2007 notice; prevails over inconsistent 2012 and 2013 procurement rules."
+  ],
+  "language": "zh",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Chinese National Health Commission notice (2026) on centralized procurement of public-sector medical equipment, requiring provincial centralized procurement of Class B large equipment and city-level pilots, designating implementing agencies, setting reporting duties, and replacing earlier 2007 procurement rules. Not AI-related.",
+  "title_clean": "国卫财务函〔2026〕131号 医用设备集中采购通知(节选)",
+  "title_en": "NHC Notice No. 131 (2026) on Centralized Procurement of Medical Equipment (excerpt)",
+  "venue": null
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-cedd7000",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:31:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0505178,
+  "in": 2,
+  "out": 1691,
+  "cache_read": 11758,
+  "cache_create": 8107,
+  "api_ms": 8857,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "电力安全事故应急处置和调查处理条例",
+  "title_en": "Regulations on Emergency Response and Investigation of Electric Power Safety Accidents",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the People's Republic of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "criminal_liability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "incident_reporting",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "State Council Decree No. 845 revising China's regulations on emergency response to and investigation of electric power safety accidents, effective 1 January 2027. It sets accident tiers, reporting duties, emergency handling, investigation procedures and penalties. It contains no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Accidents are graded as especially major, major, large and general, with grading criteria in an annex.",
+   "Strict, prompt reporting duties; late or false reporting is penalized.",
+   "Power companies must prepare emergency plans and drills; dispatch bodies direct emergency measures.",
+   "Investigation groups and deadlines are set by accident grade (60 or 45 days).",
+   "Fines on entities and responsible individuals, with sanctions and criminal liability."
+  ],
+  "confidence": 0.93
+ }
+}

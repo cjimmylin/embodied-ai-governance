@@ -1,0 +1,108 @@
+{
+ "doc_id": "D0585",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:22:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0474058,
+  "in": 2,
+  "out": 1885,
+  "cache_read": 11758,
+  "cache_create": 6844,
+  "api_ms": 9515,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare",
+   "defense_security"
+  ],
+  "authors_or_issuer": "Kumar B, S.; Kamaraj, R.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "review_or_survey_article",
+  "doi": "10.63001/tbs.2025.v20.i03.S.I(3).pp277-285",
+  "embodied_categories": [
+   "surgical_medical_robots",
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "incident_reporting",
+   "conformity_assessment_certification"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "human_oversight_control",
+   "transparency_explainability",
+   "ethics_principles",
+   "certification_conformity_assessment",
+   "trust_acceptance",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "cybersecurity"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "IN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Reviews history of surgical robots from PUMA and ROBODOC to da Vinci and Mako.",
+   "Analyses FDA MAUDE adverse event reports and recalls from 2015-2025.",
+   "Discusses regulatory classification of surgical autonomy levels.",
+   "Argues for human-in-the-loop controls, layered fallbacks and explainable algorithmic reporting.",
+   "Highlights liability, malpractice, bias, security and cost challenges of autonomous surgery."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "surgical_medical_robots",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 1
+  },
+  "pub_month": 8,
+  "pub_year": 2025,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "mixed",
+  "summary_en": "Review of AI-guided and autonomous robotic surgery, tracing its history, benefits and challenges, and analysing FDA MAUDE adverse-event and recall data from 2015-2025. It discusses autonomy-level classification and argues for regulatory, ethical and liability frameworks with human-in-the-loop controls, explainability and accountability.",
+  "title_clean": "Artificial Intelligence and Autonomous Robotic Surgery: Innovations, Challenges, and Regulatory Pathways",
+  "title_en": "Artificial Intelligence and Autonomous Robotic Surgery: Innovations, Challenges, and Regulatory Pathways",
+  "venue": "Bioscan"
+ }
+}

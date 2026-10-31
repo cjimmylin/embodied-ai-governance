@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-4300b76f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.042487800000000006,
+  "in": 2,
+  "out": 1850,
+  "cache_read": 11758,
+  "cache_create": 5702,
+  "api_ms": 9994,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Lov om ændring af færdselsloven (Revision af forsøgsordninger for selvkørende motorkøretøjer og selvkørende enheder og obligatorisk digital selvbetjening ved ...)",
+  "title_en": "Act amending the Road Traffic Act (Revision of trial schemes for self-driving motor vehicles and self-driving units and mandatory digital self-service)",
+  "language": "da",
+  "authors_or_issuer": "Folketinget / Transportministeriet (Denmark)",
+  "issuer_type": "legislature",
+  "pub_year": 2025,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Lovtidende",
+  "jurisdiction_country": "DK",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "DK"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "criminal_liability",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "human_oversight_control"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Danish Act No. 566 of 27 May 2025 amending the Road Traffic Act, revising trial schemes for self-driving motor vehicles and self-driving units. It empowers the Transport Minister to set trial rules, derogate from traffic law, supervise trials, charge fees, designate municipal test zones, and impose no-fault fines on permit holders. Effective 1 July 2025.",
+  "key_provisions_or_claims": [
+   "Transport Minister may set rules for self-driving vehicle trials and derogate from several Road Traffic Act chapters",
+   "Permit holders may be subject to strict-liability fines even without intent or negligence",
+   "Municipal road authorities may designate test zones for self-driving units; testing permitted alongside trials",
+   "Minister supervises trials, may require information, charge fees and revoke permits at any time",
+   "Entry into force 1 July 2025"
+  ],
+  "confidence": 0.9
+ }
+}

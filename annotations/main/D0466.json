@@ -1,0 +1,101 @@
+{
+ "doc_id": "D0466",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.09490100000000001,
+  "in": 6,
+  "out": 5546,
+  "cache_read": 49750,
+  "cache_create": 9833,
+  "api_ms": 29189,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Harnessing Embodied Agents: Runtime Governance for Policy-Constrained Execution",
+  "title_en": "Harnessing Embodied Agents: Runtime Governance for Policy-Constrained Execution",
+  "language": "en",
+  "authors_or_issuer": "Qin, X.; Luan, S.; See, J.; Boukhers, Z.; Yang, C.; Li, Z.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": "10.48550/arXiv.2604.07833",
+  "venue": "arXiv",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "transparency_explainability",
+   "risk_management_risk_tiers",
+   "cybersecurity"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "technical_or_engineering",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Technical preprint proposing an externalized Runtime Governance Layer for embodied agents, performing capability admission, policy checking, execution monitoring, rollback and human override. Simulation trials show 96.2% interception of unauthorized actions and 90.7% recovery success, outperforming guardrail baselines in continuous runtime detection.",
+  "key_provisions_or_claims": [
+   "Separate agent cognition from execution oversight via a dedicated runtime governance layer",
+   "Pipeline: capability admission, policy guard, execution watcher, recovery/rollback, human override",
+   "96.2% interception of unauthorized actions over 1000 randomized trials",
+   "Unsafe continuation reduced from 100% to 22.2% under runtime drift",
+   "Pre-execution filtering alone lacks continuous runtime detection (RVDR 61.3% vs 0%)"
+  ],
+  "confidence": 0.85
+ }
+}

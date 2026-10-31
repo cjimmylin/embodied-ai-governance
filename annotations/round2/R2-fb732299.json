@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-fb732299",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:44:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0581218,
+  "in": 2,
+  "out": 1863,
+  "cache_read": 11758,
+  "cache_create": 9578,
+  "api_ms": 12398,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2021/377 of 2 March 2021 amending Implementing Decision (EU) 2019/436 on harmonised standards for machinery drafted in support of Directive 2006/42/EC",
+  "title_en": "Commission Implementing Decision (EU) 2021/377 of 2 March 2021 amending Implementing Decision (EU) 2019/436 on harmonised standards for machinery drafted in support of Directive 2006/42/EC",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 72/12",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics",
+   "domestic_household_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "agriculture_food",
+   "construction",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "ISO 3691-4"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EU Commission Implementing Decision updating the list of harmonised machinery standards giving presumption of conformity under the Machinery Directive 2006/42/EC. It adds, amends and withdraws standard references, including industrial trucks and robotic lawnmowers, with withdrawals deferred to 3 September 2022. No AI content.",
+  "key_provisions_or_claims": [
+   "Amends Annex I of Implementing Decision 2019/436 by adding new harmonised machinery standard references",
+   "Adds withdrawn superseded standards to Annex III with withdrawal date 3 September 2022",
+   "Includes standards for industrial trucks and robotic battery-powered lawnmowers (EN 50636-2-107)",
+   "Compliance with listed standards gives presumption of conformity with Directive 2006/42/EC",
+   "Enters into force on publication, 3 March 2021"
+  ],
+  "confidence": 0.9
+ }
+}

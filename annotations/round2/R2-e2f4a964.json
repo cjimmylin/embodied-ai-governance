@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-e2f4a964",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0398858,
+  "in": 2,
+  "out": 1919,
+  "cache_read": 11758,
+  "cache_create": 4879,
+  "api_ms": 12585,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Autonomous Vehicles (LTA Singapore)",
+  "title_en": "Autonomous Vehicles (LTA Singapore)",
+  "language": "en",
+  "authors_or_issuer": "Land Transport Authority (LTA), Singapore",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "LTA website",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "professional_service_robots",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "civil_liability",
+   "human_oversight_control",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "insurance_requirement",
+   "testing_sandboxes",
+   "human_oversight_requirement",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "Road Traffic (Autonomous Motor Vehicles) Rules 2017",
+   "Active Mobility Act 2017"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Singapore LTA web page explaining the AV framework: benefits, mandatory CETRAN safety assessments, insurance and black-box requirements, trial application steps, two assessment tracks (deployable and developmental), treatment of autonomous robots on public paths under the Active Mobility Act, and current AV trials.",
+  "key_provisions_or_claims": [
+   "All AVs must pass safety assessments at the CETRAN AV Test Centre before deployment.",
+   "Third-party liability and property damage insurance is a prerequisite; AVs need a black-box data recorder.",
+   "Two assessment tracks: Deployable and Developmental, with M1/M2 tests, remote operations assessment and Deployment Readiness Assessment.",
+   "Under the Active Mobility Act, autonomous mobile robots and AVs count as motor vehicles and are barred from public paths without ministerial exemption.",
+   "Road Traffic (Autonomous Motor Vehicles) Rules 2017 regulate AV trials."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0095",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:09:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.036645800000000006,
+  "in": 2,
+  "out": 1789,
+  "cache_read": 11758,
+  "cache_create": 4394,
+  "api_ms": 10058,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ministerio de Ciencia impulsa diálogo transversal para una Ley de Inteligencia Artificial con amplio respaldo",
+  "title_en": "Ministry of Science promotes cross-sector dialogue for an Artificial Intelligence Law with broad support",
+  "language": "es",
+  "authors_or_issuer": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación (MinCiencia), Chile",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "MinCiencia website (minciencia.gob.cl)",
+  "jurisdiction_country": "CL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CL"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "transparency_explainability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Chilean Ministry of Science press release (5 Aug 2025) on the Chamber of Deputies' general approval of the AI regulation bill, which moves to the Future Commission. It stresses multi-stakeholder dialogue with industry, academia and civil society, and alignment with UNESCO and OECD principles.",
+  "key_provisions_or_claims": [
+   "Chamber of Deputies approved the AI bill in general; it proceeds to the Future, Science and Technology Commission, then the Senate.",
+   "Bill introduced 7 May 2024 under President Boric and merged with a parliamentary proposal.",
+   "Ministry convenes an industry dialogue table and an expert working group.",
+   "Bill draws on UNESCO and OECD principles and sets rules for AI developers, deployers and sellers.",
+   "2023-24 consultations with UNESCO to update the National AI Policy involved over 300 participants."
+  ],
+  "confidence": 0.9
+ }
+}

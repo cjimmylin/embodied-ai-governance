@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-1ecd5f95",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1068878,
+  "in": 2,
+  "out": 1974,
+  "cache_read": 11758,
+  "cache_create": 21492,
+  "api_ms": 10498,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Civil Aviation Authority of Singapore (CAAS)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "SG"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "human_oversight_requirement",
+   "incident_reporting"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "standards_interoperability",
+   "cybersecurity"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "BVLOS operations categorised into Low, Medium and High risk, each with tiered Basic and Level 1-3 requirements.",
+   "Operators need a UA Operator Permit and Class 1 Activity Permit from CAAS.",
+   "Applicants must submit system safety assessments (FHA, FMECA, FTA), an operations manual and a compliance checklist.",
+   "Catastrophic failure probability must not exceed 1x10-6 per flight hour for medium risk and 1x10-7 for high risk.",
+   "Detect-and-avoid, command-and-control link, software assurance and emergency recovery requirements scale with risk, up to no human intervention for high risk."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "Singapore Air Navigation Act",
+   "Singapore Air Navigation (101 – Unmanned Aircraft Operations) Regulations 2019",
+   "ICAO Doc 10019",
+   "JARUS CS-LUAS",
+   "RTCA DO-178C"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2019,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Singapore CAAS Advisory Circular setting out its risk-based assessment methodology for beyond visual line-of-sight drone operations. It sorts operations into low, medium and high risk, with tiered technical and operational requirements. It also covers permit applications and safety-assessment evidence.",
+  "title_clean": "AC 101-2-2(0) Beyond Visual Line-of-Sight Operations for Unmanned Aircraft",
+  "title_en": "AC 101-2-2(0) Beyond Visual Line-of-Sight Operations for Unmanned Aircraft",
+  "venue": "Civil Aviation Authority of Singapore",
+  "methodology": "not_applicable"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-022998ee",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0390938,
+  "in": 2,
+  "out": 1851,
+  "cache_read": 11758,
+  "cache_create": 4851,
+  "api_ms": 10484,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "FAR Part 40—Information Security and Supply Chain Security (Subpart 40.2 Security Prohibitions and Exclusions)",
+  "title_en": "FAR Part 40—Information Security and Supply Chain Security (Subpart 40.2 Security Prohibitions and Exclusions)",
+  "language": "en",
+  "authors_or_issuer": "Federal Acquisition Regulatory Council (GSA, DoD, NASA), United States",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Acquisition Regulation (eCFR / acquisition.gov)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "public_administration_justice",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "safety_physical_harm",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "audits_impact_assessment",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Federal Acquisition Regulation Part 40 text implementing the American Security Drone Act of 2023. It bars federal agencies from procuring or operating unmanned aircraft systems made by covered foreign entities, with exemptions, exceptions, waivers, contracting procedures and a mandatory contract clause. Authorities expire December 22, 2028.",
+  "key_provisions_or_claims": [
+   "Prohibits executive agencies from procuring UAS made or assembled by FASC-listed covered foreign entities.",
+   "From Dec 22, 2025, also bans procuring operation services and using federal funds for operating prohibited UAS.",
+   "Exemptions for DHS, DoD, State, DOJ, DOT, NTSB and NOAA for specified purposes.",
+   "Exceptions for wildfire, search and rescue, intelligence, and Tribal law enforcement; waivers need OMB approval.",
+   "Requires clause 52.240-1 in all solicitations and contracts; authorities expire Dec 22, 2028."
+  ],
+  "confidence": 0.92
+ }
+}

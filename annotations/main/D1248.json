@@ -1,0 +1,114 @@
+{
+ "doc_id": "D1248",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:40:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07827550000000001,
+  "in": 4,
+  "out": 3753,
+  "cache_read": 31690,
+  "cache_create": 10123,
+  "api_ms": 19779,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "European Commission, Directorate-General CONNECT",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "conformity_assessment_certification",
+   "transparency_disclosure_labelling",
+   "oversight_body_creation",
+   "international_cooperation",
+   "self_regulation_codes",
+   "audits_impact_assessment",
+   "human_oversight_requirement"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "cybersecurity",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Four risk tiers: unacceptable, high, limited, minimal risk",
+   "Nine prohibited practices, eight in force since February 2025",
+   "High-risk includes AI safety components of products such as robot-assisted surgery",
+   "High-risk obligations delayed to Dec 2027 (Annex III) and Aug 2028 (Annex I) under the Digital Omnibus",
+   "GPAI governance rules apply from August 2025; AI Pact and Service Desk support implementation"
+  ],
+  "language": "hr",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2026,
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "European Commission policy page (machine-translated into Croatian) presenting the EU AI Act, Regulation 2024/1689: its risk-based tiers, prohibited practices, high-risk use cases including robot-assisted surgery, the application timeline, the Digital Omnibus delays, and support tools such as the AI Pact and Service Desk.",
+  "title_clean": "Akt o umjetnoj inteligenciji",
+  "title_en": "The Artificial Intelligence Act",
+  "venue": "Shaping Europe's digital future (European Commission)",
+  "methodology": "not_applicable",
+  "publication_stage": "not_applicable"
+ }
+}

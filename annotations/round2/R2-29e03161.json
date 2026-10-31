@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-29e03161",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:50:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.17922380000000002,
+  "in": 2,
+  "out": 1912,
+  "cache_read": 11758,
+  "cache_create": 39731,
+  "api_ms": 15464,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulation (EU) 2024/1257 on type-approval of motor vehicles and engines with respect to their emissions and battery durability (Euro 7)",
+  "title_en": "Regulation (EU) 2024/1257 on type-approval of motor vehicles and engines with respect to their emissions and battery durability (Euro 7)",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "consumer_protection",
+   "standards_interoperability"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "prohibitions_bans",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "oversight_body_creation",
+   "international_cooperation",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Euro 7 Regulation setting type-approval requirements for cars, vans, trucks, buses and trailers on exhaust and non-exhaust emissions, battery durability, on-board monitoring, anti-tampering and cybersecurity. It bans manipulation devices, sets phased application dates, and delegates technical detail to Commission implementing and delegated acts. It contains no AI or robotics provisions.",
+  "key_provisions_or_claims": [
+   "Establishes Euro 7 emission limits for exhaust, brake and tyre particles across M and N vehicle categories",
+   "Requires minimum battery durability performance and state-of-health monitors for traction batteries",
+   "Prohibits manipulation devices and strategies and requires anti-tampering and cybersecurity (UN R155) measures",
+   "Mandates OBD, OBM and OBFCM systems and an Environmental Vehicle Passport",
+   "Phased application from 29 Nov 2026 (light-duty) and 29 May 2028 (heavy-duty), with repeal of Euro 5/6/VI regulations"
+  ],
+  "confidence": 0.93
+ }
+}

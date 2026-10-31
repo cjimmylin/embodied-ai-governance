@@ -1,0 +1,107 @@
+{
+ "doc_id": "D1490",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:47:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0694376,
+  "in": 4,
+  "out": 3589,
+  "cache_read": 29971,
+  "cache_create": 8344,
+  "api_ms": 29584,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "defense_security",
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Tzafestas, S.G.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.15406/iratj.2018.04.00127",
+  "embodied_categories": [
+   "social_companion_robots",
+   "care_assistive_robots",
+   "autonomous_road_vehicles",
+   "military_autonomous_weapons",
+   "humanoid_general_purpose"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "self_regulation_codes"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "military_use_ihl",
+   "human_robot_interaction_social_effects",
+   "labor_employment",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "GR",
+  "jurisdiction_scope": "not_applicable",
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "pub_month": 6,
+  "pub_year": 2018,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Mini review of robotics and automation ethics (roboethics): fundamental ethical questions, levels of autonomy and morality, key literature, and application areas such as social, assistive, autonomous car and military robots. It argues that robotics needs a specific ethical and legal framework.",
+  "key_provisions_or_claims": [
+   "General ethics principles are insufficient; a specific ethics framework for robotics and automation is needed.",
+   "Distinguishes operational, functional and full morality tied to levels of robot autonomy.",
+   "Raises questions of responsibility for harm, robot rights and legal status.",
+   "Surveys roboethics in social, assistive, autonomous car and military robots.",
+   "Notes debate over prohibiting lethal autonomous weapons."
+  ],
+  "title_clean": "Ethics in robotics and automation: a general view",
+  "title_en": "Ethics in robotics and automation: a general view",
+  "venue": "International Robotics & Automation Journal"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0197",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:39:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1268438,
+  "in": 2,
+  "out": 1796,
+  "cache_read": 11758,
+  "cache_create": 26926,
+  "api_ms": 10391,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "מפמ\"כ 395 - תחנת עבודה של רובוט תעשייתי: דרישות בטיחות",
+  "title_en": "Standard 395 - Industrial Robot Work Station: Safety Requirements (Standards Institution of Israel)",
+  "language": "he",
+  "authors_or_issuer": "מכון התקנים הישראלי (Standards Institution of Israel)",
+  "issuer_type": "standards_body",
+  "pub_year": 1993,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Standards Institution of Israel",
+  "jurisdiction_country": "IL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IL",
+   "AU"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "human_oversight_control"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Israeli Standard 395 (November 1993) sets safety requirements for industrial robot work stations, based on the Australian standard AS 2939. It specifies fencing and guards, interlocks, presence-sensing devices, trapped-key systems, limit switches, and multi-station layouts to keep people out of the robot's restricted zone.",
+  "key_provisions_or_claims": [
+   "Robot work stations must be protected by safety fencing, presence-sensing devices, or other approved means.",
+   "Fixed and interlocked guards must meet specified opening sizes and safety distances (Table 1, Figure 1).",
+   "Presence sensing must detect entry into the restricted zone and stop automatic operation, with fail-safe control.",
+   "Interlock switching methods and trapped-key systems prevent restart while a guard is open.",
+   "Multi-station and multi-robot cells need separate restricted zones and emergency stops; components are to be approved by an authorised laboratory."
+  ],
+  "confidence": 0.85
+ }
+}

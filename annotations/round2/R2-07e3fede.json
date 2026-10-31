@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-07e3fede",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:36:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0340158,
+  "in": 2,
+  "out": 1720,
+  "cache_read": 11758,
+  "cache_create": 3909,
+  "api_ms": 8852,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "关于“十五五”期间支持科普事业发展进口税收优惠政策管理办法的通知",
+  "title_en": "Notice on the Administrative Measures for the Import Tax Preferential Policy Supporting the Development of Science Popularization during the 15th Five-Year Plan Period",
+  "language": "zh",
+  "authors_or_issuer": "财政部; 中央宣传部; 科技部; 工业和信息化部; 海关总署; 税务总局; 广电总局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education",
+   "research_science"
+  ],
+  "governance_topics": [
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "taxation_economic_policy",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "audits_impact_assessment",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese multi-ministry notice (Cai Guan Shui [2026] No. 13) setting administrative measures for import tax exemptions for science popularization venues during 2026–2030, covering eligibility lists, duty-free imports, refunds, annual review and enforcement. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Science and technology authorities approve lists of eligible science popularization venues.",
+   "Duty-free imports include self-use science films and equipment not producible domestically.",
+   "First batch of lists applies retroactively from 1 January 2026, with refunds of duties already paid.",
+   "Eligibility is reviewed annually; ineligible entities lose the exemption.",
+   "Policy runs from 1 January 2026 to 31 December 2030."
+  ],
+  "confidence": 0.95
+ }
+}

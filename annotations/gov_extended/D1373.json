@@ -1,0 +1,122 @@
+{
+ "doc_id": "D1373",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:51:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.10245779999999999,
+  "in": 2,
+  "out": 1933,
+  "cache_read": 11758,
+  "cache_create": 20487,
+  "api_ms": 14473,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Strategia Nazionale per l'Intelligenza Artificiale",
+  "title_en": "National Strategy for Artificial Intelligence",
+  "language": "it",
+  "authors_or_issuer": "Ministero dello Sviluppo Economico (Italy)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministero dello Sviluppo Economico",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IT"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "industrial_manipulators",
+   "surgical_medical_robots",
+   "agricultural_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "agriculture_food",
+   "energy_environment",
+   "healthcare",
+   "public_administration_justice",
+   "logistics_transport",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "education_training",
+   "labor_employment",
+   "cybersecurity",
+   "certification_conformity_assessment",
+   "trust_acceptance",
+   "privacy_data_protection",
+   "consumer_protection",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "conformity_assessment_certification",
+   "oversight_body_creation",
+   "international_cooperation",
+   "education_training_programs",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Italy's July 2019 national AI strategy sets nine objectives: boosting investment, research, adoption, education, data economy, ethical and regulatory framework, public trust, public administration and international cooperation. It prioritises seven sectors. Embodied AI appears only briefly (autonomous vehicles sandbox, update of the Machinery Directive, robotics in industry, agriculture and surgery).",
+  "key_provisions_or_claims": [
+   "Public AI investment of about €1bn by 2025, aiming to leverage €2bn total",
+   "Seven priority sectors including industry, agrifood, smart mobility and health",
+   "Italy to push for a new European directive on intelligent machines, updating the Machinery Directive",
+   "Considering regulatory sandboxes for autonomous driving experimentation",
+   "Possible certification schemes aligned with EU Ethics Guidelines for trustworthy AI; inter-ministerial steering committee"
+  ],
+  "confidence": 0.9
+ }
+}

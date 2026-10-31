@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-a93a7d32",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:35:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0332418,
+  "in": 2,
+  "out": 1819,
+  "cache_read": 11758,
+  "cache_create": 3468,
+  "api_ms": 9198,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "关于进一步加强工业等污水污染风险防范 保障农业灌溉用水安全的通知",
+  "title_en": "Notice on Further Strengthening Pollution Risk Prevention of Industrial and Other Wastewater to Safeguard Agricultural Irrigation Water Safety",
+  "language": "zh",
+  "authors_or_issuer": "生态环境部办公厅; 工业和信息化部办公厅; 公安部办公厅; 自然资源部办公厅; 水利部办公厅; 农业农村部办公厅; 最高人民法院办公厅; 最高人民检察院办公厅",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "agriculture_food",
+   "energy_environment",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "criminal_liability",
+   "other"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "licensing_registration",
+   "incident_reporting",
+   "education_training_programs",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Joint notice from Chinese ministries, the Supreme People's Court and Procuratorate on preventing industrial and livestock wastewater pollution to protect agricultural irrigation water. It covers spatial planning, discharge controls, irrigation water monitoring and enforcement, and mentions drones and AI only as monitoring tools.",
+  "key_provisions_or_claims": [
+   "Strengthen land-use planning and environmental impact assessment near farmland and irrigation channels",
+   "Ban industrial wastewater discharge into irrigation channels; complete problem rectification plans by end-2026",
+   "Monitor irrigation water at least twice per irrigation season near industrial parks",
+   "Build an integrated space-air-ground monitoring network using satellites, drones and AI",
+   "Link administrative enforcement with criminal justice and public interest litigation"
+  ],
+  "confidence": 0.9
+ }
+}

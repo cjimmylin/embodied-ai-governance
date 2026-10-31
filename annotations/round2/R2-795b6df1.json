@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-795b6df1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027379800000000003,
+  "in": 2,
+  "out": 1716,
+  "cache_read": 11758,
+  "cache_create": 2260,
+  "api_ms": 10443,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/WD 25874.2",
+  "title_en": "ISO/WD 25874.2 – Safety requirements common to service and industrial robotics (working draft)",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 299",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "under_development",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "professional_service_robots",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 10218",
+   "ISO 13482"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "ISO catalogue page for working draft ISO/WD 25874.2, a Type B1 standard on safety requirements common to service and industrial robots, developed by ISO/TC 299. It sets scope, exclusions (medical, military, airborne, ISO 10218 and ISO 13482 applications) and shows the project stage timeline.",
+  "key_provisions_or_claims": [
+   "Type B1 standard on safety requirements common to service and industrial robotics",
+   "Excludes medical, military, airborne, floor-cleaning robots and person transport/lifting",
+   "Excludes applications covered by ISO 10218 and ISO 13482",
+   "Hazards such as extreme environments, explosive atmospheres, radiation, nuclear are not covered",
+   "Currently at working draft stage (20.60) under ISO/TC 299"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0923",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:14:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0912636,
+  "in": 2,
+  "out": 1938,
+  "cache_read": 11758,
+  "cache_create": 6268,
+  "api_ms": 13776,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Secure Software Development Practices for Generative AI and Dual-Use Foundation Models: An SSDF Community Profile (NIST SP 800-218A)",
+  "title_en": "Secure Software Development Practices for Generative AI and Dual-Use Foundation Models: An SSDF Community Profile (NIST SP 800-218A)",
+  "language": "en",
+  "authors_or_issuer": "National Institute of Standards and Technology (NIST); Booth, H.; Souppaya, M.; Vassilev, A.; Ogata, M.; Stanley, M.; Scarfone, K.",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": "10.6028/NIST.SP.800-218A",
+  "venue": "NIST Special Publication 800-218A",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "human_oversight_control",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "data_governance_requirements",
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [
+   "US Executive Order 14110",
+   "NIST AI RMF",
+   "NIST SP 800-218 SSDF 1.1",
+   "FISMA 2014",
+   "OWASP Top 10 for LLM Applications"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "NIST SP 800-218A (July 2024) is a community profile of the Secure Software Development Framework (SSDF). It adds security practices, tasks and recommendations specific to developing generative AI and dual-use foundation models, as required by EO 14110. It is aimed at AI model producers, AI system producers and acquirers. It does not cover robotics or physical AI.",
+  "key_provisions_or_claims": [
+   "Augments SSDF 1.1 with AI-model-specific practices across the software development life cycle",
+   "Recommends protecting training pipelines, model registries and environments with least privilege",
+   "Calls for securing the integrity and provenance of training data and model weights",
+   "Suggests human-in-the-loop review for security checks beyond risk thresholds",
+   "Maps practices to the NIST AI RMF and the OWASP Top 10 for LLM Applications as informative references"
+  ],
+  "confidence": 0.9
+ }
+}

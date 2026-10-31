@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-0956a120",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0279178,
+  "in": 2,
+  "out": 1751,
+  "cache_read": 11758,
+  "cache_create": 2307,
+  "api_ms": 8453,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "National Robotics Roadmap (NRR) 2021-2030",
+  "title_en": "National Robotics Roadmap (NRR) 2021-2030",
+  "language": "en",
+  "authors_or_issuer": "Academy of Sciences Malaysia (ASM), mandated by MOSTI",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2022,
+  "pub_month": 5,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Academy of Sciences Malaysia website",
+  "jurisdiction_country": "MY",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "MY"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "agricultural_robots",
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "agriculture_food",
+   "other"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "labor_employment",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Web page introducing Malaysia's National Robotics Roadmap 2021-2030, developed by the Academy of Sciences Malaysia for MOSTI. It frames robotics as a response to low productivity, reliance on foreign labour and ageing, aiming to make Malaysia a regional robotics hub via 19 strategies and 24 initiatives.",
+  "key_provisions_or_claims": [
+   "NRR 2021-2030 mandated by MOSTI and developed by ASM Task Force on Robotics",
+   "Aims to make Malaysia a robotics user and developer",
+   "Target: regional robotics hub in services, agriculture and manufacturing by 2030",
+   "19 strategies and 24 initiatives",
+   "Robotics addresses low productivity, foreign labour dependence and ageing population"
+  ],
+  "confidence": 0.8
+ }
+}

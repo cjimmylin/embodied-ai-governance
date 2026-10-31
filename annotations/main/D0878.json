@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0878",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:30:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0445998,
+  "in": 2,
+  "out": 1786,
+  "cache_read": 11758,
+  "cache_create": 6390,
+  "api_ms": 10429,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulating Highly Automated Robot Ecologies: Insights from Three User Studies",
+  "title_en": "Regulating Highly Automated Robot Ecologies: Insights from Three User Studies",
+  "language": "en",
+  "authors_or_issuer": "Shen, W.; Al Khemeiri, A.; Almehrzi, A.; Al Enezi, W.; Rahwan, I.; Crandall, J.W.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2017,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "arXiv preprint (HAI 2017, Bielefeld)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "other_embodied"
+  ],
+  "primary_embodied_category": "other_embodied",
+  "application_sectors": [
+   "energy_environment",
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Preprint reporting three user studies in which people act as regulators of highly automated robot ecologies (autonomous agents sharing constrained resources such as water or electricity). It finds that regulator power, decision support and adaptive robot autonomy can each reduce social welfare, and suggests design implications.",
+  "key_provisions_or_claims": [
+   "Defines highly automated robot ecologies (HARE) as independent autonomous robots sharing constrained resources.",
+   "Regulators can influence HARE only by changing the environment, not by overriding robot decisions.",
+   "Greater regulator power can diminish social welfare.",
+   "Decision support and adaptive robot autonomy can also reduce social welfare in some conditions.",
+   "Findings are limited to simple simulated HARE and are not general."
+  ],
+  "confidence": 0.85
+ }
+}

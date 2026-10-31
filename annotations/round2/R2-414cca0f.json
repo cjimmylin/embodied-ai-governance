@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-414cca0f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:40:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0294798,
+  "in": 2,
+  "out": 1722,
+  "cache_read": 11758,
+  "cache_create": 2770,
+  "api_ms": 8789,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "民用轻小型无人机系统安全性通用要求 (GB/T 38931-2020)",
+  "title_en": "General requirements for safety of civil small and light unmanned aircraft system",
+  "language": "zh",
+  "authors_or_issuer": "国家标准化管理委员会 (SAC); TC435/SC1 全国航空器标准化技术委员会无人驾驶航空器系统分会",
+  "issuer_type": "standards_body",
+  "pub_year": 2020,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Catalogue page for Chinese recommended national standard GB/T 38931-2020, general safety requirements for civil small and light unmanned aircraft systems, published 2020-07-21 and effective 2021-02-01. Shows only metadata: drafting bodies, committee TC435/SC1, classification and related aviation-industry (HB) drone standards.",
+  "key_provisions_or_claims": [
+   "GB/T 38931-2020 is a recommended national standard, currently in force",
+   "Published 2020-07-21; effective 2021-02-01",
+   "Administered by TC435/SC1 (UAS subcommittee) under SAC",
+   "Related HB standards cover safety design, payload interfaces and ground control units",
+   "Page shows metadata only, not the standard's technical text"
+  ],
+  "confidence": 0.9
+ }
+}

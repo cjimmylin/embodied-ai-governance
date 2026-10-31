@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-af48d018",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:45:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.055083799999999995,
+  "in": 2,
+  "out": 2070,
+  "cache_read": 11758,
+  "cache_create": 8301,
+  "api_ms": 11400,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2026/546 of 12 March 2026 amending Implementing Decision (EU) 2023/1586 as regards harmonised standards for packaging machines, rough-terrain trucks, food processing machinery, cranes, cableway installations, agricultural and forestry machinery, lifts, rescue tools, hand-held tools, equipment in railway applications, aircraft ground support equipment, earth-moving machinery and refuse collection vehicles and correcting that Decision",
+  "title_en": "Commission Implementing Decision (EU) 2026/546 of 12 March 2026 amending Implementing Decision (EU) 2023/1586 as regards harmonised standards for machinery (packaging machines, rough-terrain trucks, cranes, lifts, earth-moving machinery, refuse collection vehicles, etc.)",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (L series)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "construction",
+   "agriculture_food",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Regulation"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Commission Implementing Decision updating the list of harmonised standards giving presumption of conformity with the Machinery Directive 2006/42/EC. It adds new and revised EN standards for cranes, trucks, lifts and other machinery, defers withdrawal of old ones, restricts EN 474-1 and EN 1501-5, and corrects a restriction wording.",
+  "key_provisions_or_claims": [
+   "Adds references of new/revised EN harmonised standards to Annex I of Decision 2023/1586 under Directive 2006/42/EC.",
+   "Withdraws superseded standards such as EN 81-43:2009 and EN 1459-1:2017, with deferred effect from 20 January 2027.",
+   "EN 1501-5:2021 for refuse collection vehicle lifting devices maintained only with a restriction: no presumption of conformity for EHSR 1.1.7, 1.2.1, 1.5.11.",
+   "EN 474-1:2022 for earth-moving machinery maintained with a restriction on load test values.",
+   "Corrects 'tall trees' to 'tall branches' in row 622a restriction, applying from 13 January 2026."
+  ],
+  "confidence": 0.9
+ }
+}

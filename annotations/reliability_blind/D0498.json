@@ -1,0 +1,98 @@
+{
+ "doc_id": "D0498",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:39:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.05630020000000001,
+  "in": 4,
+  "out": 3625,
+  "cache_read": 26632,
+  "cache_create": 5082,
+  "api_ms": 22873,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Evaluating productivity and accountability in IoT-enabled robotic systems with citizenship-like responsibilities",
+  "title_en": "Evaluating productivity and accountability in IoT-enabled robotic systems with citizenship-like responsibilities",
+  "language": "en",
+  "authors_or_issuer": "Kanade, T.M.; Y, H.; Pulekar, D.; Savale, T.K.; Kamble, S.M.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.53894/ijirss.v8i1.4906",
+  "venue": "International Journal of Innovative Research and Scientific Studies",
+  "jurisdiction_country": "IN",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics",
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "application_sectors": [
+   "manufacturing",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "ethics_principles",
+   "transparency_explainability",
+   "labor_employment"
+  ],
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "mixed",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Mixed-method study of IoT-enabled industrial and logistics robots given citizenship-like responsibilities, measuring productivity and accountability. Robots outperform humans in consistency, scalability and energy efficiency, but more autonomy does not always improve performance. It calls for multidisciplinary ethical and accountability frameworks.",
+  "key_provisions_or_claims": [
+   "IoT-enabled robots excel in consistency, scalability and energy efficiency versus humans",
+   "Higher autonomy does not necessarily improve performance",
+   "Accountability mechanisms support transparency but have limited impact on efficiency",
+   "Citizenship-like responsibilities raise ethical, legal and societal challenges to traditional responsibility frameworks",
+   "Calls for multidisciplinary effort integrating ethics and accountability into design"
+  ],
+  "confidence": 0.8
+ }
+}

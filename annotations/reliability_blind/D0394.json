@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0394",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:38:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030009800000000003,
+  "in": 2,
+  "out": 1763,
+  "cache_read": 11758,
+  "cache_create": 2800,
+  "api_ms": 10658,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Stakeholder Consultation on UNESCO AI Readiness Assessment Held Today",
+  "title_en": "Stakeholder Consultation on UNESCO AI Readiness Assessment Held Today",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Communication, Digital Technology and Innovations, Ghana",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Communication, Digital Technology and Innovations (Ghana) website",
+  "jurisdiction_country": "GH",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GH"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "agriculture_food",
+   "finance",
+   "education",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Ghana's communications ministry news item on a 11 March 2026 stakeholder consultation validating the UNESCO AI Readiness Assessment Methodology. Findings note Ghana lacks binding AI-specific regulation and comprehensive data governance frameworks. Input will feed the national AI readiness report and governance recommendations.",
+  "key_provisions_or_claims": [
+   "Consultation validated Ghana's UNESCO AI-RAM draft report with academia.",
+   "Assessment covers policy, institutional capacity, digital infrastructure, data governance and ethical safeguards.",
+   "Ghana currently lacks binding AI-specific regulations and comprehensive data governance frameworks.",
+   "Inputs will shape national AI readiness report and governance recommendations."
+  ],
+  "confidence": 0.9
+ }
+}

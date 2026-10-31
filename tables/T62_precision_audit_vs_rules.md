@@ -1,0 +1,7 @@
+**T62_precision_audit_vs_rules. Independent precision audit of 100 randomly sampled v3 binding embodied instruments versus the v4 rule-based counting unit, on the same documents (Wilson 95% intervals)**
+
+| criterion                                                | audit_share    | rule_share     |   agreement |   kappa |   rule_passes_audit_fails |   audit_passes_rule_fails |
+|:---------------------------------------------------------|:---------------|:---------------|------------:|--------:|--------------------------:|--------------------------:|
+| distinct instrument (audit a)                            | 67% (57 to 75) | 74% (65 to 82) |        0.79 |    0.5  |                        14 |                         7 |
+| distinct, binding and embodied-substantive (audit a+b+c) | 54% (44 to 63) | 61% (51 to 70) |        0.77 |    0.53 |                        15 |                         8 |
+| a+b+c and autonomy/AI provision (audit a+b+c+d)          | 53% (43 to 62) | 46% (37 to 56) |        0.71 |    0.42 |                        11 |                        18 |

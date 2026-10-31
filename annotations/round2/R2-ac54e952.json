@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-ac54e952",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:57:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0540818,
+  "in": 2,
+  "out": 1865,
+  "cache_read": 11758,
+  "cache_create": 8563,
+  "api_ms": 10145,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Implementing International Humanitarian Law in the Use of Autonomy in Weapon Systems",
+  "title_en": "Implementing International Humanitarian Law in the Use of Autonomy in Weapon Systems",
+  "language": "en",
+  "authors_or_issuer": "United States of America (submitted to CCW Group of Governmental Experts on LAWS)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN CCW Group of Governmental Experts on LAWS (CCW/GGE.1/2019/WP.5)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "civil_liability"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "US working paper to the CCW Group of Governmental Experts arguing that existing international humanitarian law (distinction, proportionality, precaution) adequately governs autonomy in weapon systems. It stresses testing, doctrine and training, and legal weapons reviews, and claims emerging LAWS technologies can strengthen IHL implementation.",
+  "key_provisions_or_claims": [
+   "Existing IHL provides a comprehensive framework for autonomy in weapon systems.",
+   "IHL duties fall on combatants and parties to conflict, not on machines.",
+   "Three usage scenarios for autonomous functions are analysed against distinction, proportionality and precaution.",
+   "Rigorous testing, doctrine and training, and legal weapons review are essential practical measures.",
+   "Emerging technologies could reduce civilian casualties and improve accountability through logs, incident reporting and tracking of unexploded ordnance."
+  ],
+  "confidence": 0.85
+ }
+}

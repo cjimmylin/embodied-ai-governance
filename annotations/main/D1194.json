@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1194",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:38:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045177800000000004,
+  "in": 2,
+  "out": 1769,
+  "cache_read": 11758,
+  "cache_create": 6577,
+  "api_ms": 9171,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "authors_or_issuer": "Ministerstwo Cyfryzacji (Ministry of Digital Affairs, Poland)",
+  "application_sectors": [
+   "cross_sector",
+   "education",
+   "research_science",
+   "public_administration_justice"
+  ],
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "PL"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "press_release_or_government_news",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "education_training",
+   "human_dignity_autonomy",
+   "labor_employment"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "PL",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Committee of the Council of Ministers for Digitalisation adopted the AI Development Policy on 14 Sept 2020.",
+   "Six areas: society, innovative firms, science, education, international cooperation, public sector.",
+   "Short (2023), medium (2027) and long-term (after 2027) goals.",
+   "Coordination centre under the Minister of Digital Affairs to monitor implementation and align funding.",
+   "Includes ethical dimension and protection of human dignity."
+  ],
+  "language": "pl",
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2020,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Ministry of Digital Affairs news item announcing adoption of Poland's AI Development Policy by the Committee of the Council of Ministers for Digitalisation. It outlines six action areas, timelines to 2027 and beyond, a coordination centre, and consultation history, emphasising innovation, skills and ethical dimensions.",
+  "title_clean": "Rozwój sztucznej inteligencji w Polsce – ważna decyzja",
+  "title_en": "Development of Artificial Intelligence in Poland – an Important Decision",
+  "venue": "Gov.pl – Ministerstwo Cyfryzacji",
+  "methodology": "not_applicable"
+ }
+}

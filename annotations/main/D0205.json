@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0205",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:12:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.09021280000000001,
+  "in": 4,
+  "out": 3775,
+  "cache_read": 34543,
+  "cache_create": 12984,
+  "api_ms": 18675,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "Daakour, M.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "LB",
+   "FR"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": null,
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "liability_regime"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "LB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Attributing criminal fault for medical robot harm is difficult among programming error, maintenance failure and human misuse.",
+   "Criminal liability of AI entities depends on recognition of legal personality, which is contested and unlegislated.",
+   "Robots lack free will and consciousness required for criminal responsibility under Lebanese Penal Code art. 210.",
+   "Human agent theory distributes criminal liability among manufacturer, programmer and user (physician).",
+   "Comparative analysis of Lebanese and French law, with the Da Vinci system as example."
+  ],
+  "language": "ar",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "surgical_medical_robots",
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2025,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Lebanese legal journal article examining criminal liability for harm caused by AI and medical robots (Da Vinci) and the difficulty of attributing fault. Compares Lebanese and French law, debates robot legal personality, and endorses the human agent theory distributing liability among manufacturer, programmer and physician-user.",
+  "title_clean": "ARTIFICIAL INTELLIGENCE BETWEEN CRIMINAL ACCOUNTABILITY AND THE DIFFICULTY OF ATTRIBUTION (MEDICAL ROBOT AS A CASE STUDY)",
+  "title_en": "Artificial Intelligence between Criminal Accountability and the Difficulty of Attribution (Medical Robot as a Case Study)",
+  "venue": "BAU Journal - Journal of Legal Studies"
+ }
+}

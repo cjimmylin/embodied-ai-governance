@@ -1,0 +1,112 @@
+{
+ "doc_id": "R2-9c6e8103",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:57:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.14642380000000002,
+  "in": 2,
+  "out": 2012,
+  "cache_read": 11758,
+  "cache_create": 31281,
+  "api_ms": 11922,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2020/639 of 12 May 2020 amending Implementing Regulation (EU) 2019/947 as regards standard scenarios for operations executed in or beyond the visual line of sight",
+  "title_en": "Commission Implementing Regulation (EU) 2020/639 of 12 May 2020 amending Implementing Regulation (EU) 2019/947 as regards standard scenarios for operations executed in or beyond the visual line of sight",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2020,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 150/1",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "education_training",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "human_oversight_control"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "human_oversight_requirement",
+   "data_governance_requirements",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "insurance_requirement",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "EU Commission Implementing Regulation amending the UAS operations rules (2019/947) to add standard scenarios STS-01 (VLOS) and STS-02 (BVLOS with airspace observers), with operator declarations, remote pilot theoretical and practical training, night lighting, LUC provisions, and a revised Annex for the open and specific categories.",
+  "key_provisions_or_claims": [
+   "Adds standard scenarios STS-01 (VLOS, controlled ground area, C5 UAS) and STS-02 (BVLOS up to 2 km, C6 UAS) supported by operator declaration.",
+   "Requires remote pilot theory certificate (75% pass mark) and practical skill accreditation from recognised entities.",
+   "Requires a green flashing light for night operations and remote identification.",
+   "Sets rules for light UAS operator certificates, including cross-border notification to the Member State of operation.",
+   "Applies from 1 July 2020, with transitional rules for national scenarios and non-compliant open category UAS."
+  ],
+  "confidence": 0.95
+ }
+}

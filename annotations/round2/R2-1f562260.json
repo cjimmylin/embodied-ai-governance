@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-1f562260",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:17:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.025207800000000002,
+  "in": 2,
+  "out": 1678,
+  "cache_read": 11758,
+  "cache_create": 1812,
+  "api_ms": 8590,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "GB 47955-2026 (国家标准信息公开页面，道路车辆工程)",
+  "title_en": "GB 47955-2026 (National standard catalogue page, road vehicle engineering)",
+  "language": "zh",
+  "authors_or_issuer": "国家市场监督管理总局、国家标准化管理委员会 (SAMR / SAC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台 (National Standards Public Service Platform)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "technical_standard_mandated",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Catalogue page on China's national standards platform for mandatory standard GB 47955-2026 (ICS 43, road vehicle engineering), published 2026-06-27 and effective 2027-01-01. Only metadata is shown; the standard's subject and content are not visible.",
+  "key_provisions_or_claims": [
+   "GB 47955-2026 is a mandatory (GB) national standard in ICS 43 road vehicles",
+   "Published 2026-06-27, to take effect 2027-01-01",
+   "Page shows only metadata; no standard text or title is visible"
+  ],
+  "confidence": 0.4
+ }
+}

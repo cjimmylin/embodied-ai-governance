@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-98d55e2b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:12:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.03584180000000001,
+  "in": 2,
+  "out": 1701,
+  "cache_read": 11758,
+  "cache_create": 4413,
+  "api_ms": 9829,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "FAA Reauthorization Act of 2024 (Public Law 118-63)",
+  "title_en": "FAA Reauthorization Act of 2024 (Public Law 118-63)",
+  "language": "en",
+  "authors_or_issuer": "United States Congress",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "U.S. Statutes at Large (138 Stat. 1025)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "industrial_policy_innovation",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Public Law 118-63, the FAA Reauthorization Act of 2024 (H.R. 3935), enacted May 16, 2024. The excerpt shows only the slip-law header, statutory citations and legislative history. The Act reauthorizes the FAA and civil aviation programs; the cited 49 U.S.C. 44801-44810 provisions indicate content on unmanned aircraft systems.",
+  "key_provisions_or_claims": [
+   "Reauthorizes and improves the FAA and civil aviation programs",
+   "Amends title 49 U.S.C., including sections 44801-44810 on unmanned aircraft systems",
+   "Enacted May 16, 2024 after House and Senate passage",
+   "Excerpt contains only citations and legislative history, not the operative text"
+  ],
+  "confidence": 0.6
+ }
+}

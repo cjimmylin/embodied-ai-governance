@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-98aa0eab",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:45:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.18910700000000003,
+  "in": 4,
+  "out": 3884,
+  "cache_read": 58305,
+  "cache_create": 36898,
+  "api_ms": 23032,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulation (EU) 2025/14 of the European Parliament and of the Council of 19 December 2024 on the approval and market surveillance of non-road mobile machinery circulating on public roads and amending Regulation (EU) 2019/1020",
+  "title_en": "Regulation (EU) 2025/14 on the approval and market surveillance of non-road mobile machinery circulating on public roads",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "other_embodied"
+  ],
+  "primary_embodied_category": "other_embodied",
+  "application_sectors": [
+   "construction",
+   "logistics_transport",
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "technical_standards_reference",
+   "incident_reporting",
+   "oversight_body_creation",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Regulation"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "EU Regulation establishing harmonised EU type-approval, individual approval and market surveillance for self-propelled non-road mobile machinery (category U, 6–40 km/h) circulating on public roads. It sets economic operator duties, technical requirements via delegated acts, and safeguard procedures, and lets Member States restrict fully automated or remotely operated machinery under national traffic law.",
+  "key_provisions_or_claims": [
+   "Introduces EU type-approval and individual approval for category U non-road mobile machinery on public roads",
+   "Excludes machinery under 6 km/h or over 40 km/h, with more than three seats, or placed on the market before 29 January 2028",
+   "Commission may adopt delegated acts on technical requirements, including driver assistance and automated or remotely operated driving",
+   "Member States may restrict circulation of fully automated or remotely operated machinery under national traffic law",
+   "Defines obligations of manufacturers, importers and distributors, with safeguard and recall procedures and Union-level corrective measures"
+  ],
+  "confidence": 0.85
+ }
+}

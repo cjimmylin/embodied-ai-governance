@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-02dac633",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:41:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06220780000000001,
+  "in": 2,
+  "out": 1900,
+  "cache_read": 11758,
+  "cache_create": 10507,
+  "api_ms": 9678,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "自動運転車の安全技術ガイドライン",
+  "title_en": "Safety Technology Guidelines for Automated Driving Vehicles",
+  "language": "ja",
+  "authors_or_issuer": "国土交通省自動車局 (Ministry of Land, Infrastructure, Transport and Tourism, Japan, Road Transport Bureau)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2018,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "MLIT Japan",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "testing_sandboxes",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "international_cooperation",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "ISO/IEC Guide 51"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Japan's MLIT guideline setting safety requirements for Level 3 and 4 automated passenger cars, trucks and buses during early deployment. It defines safety as absence of unacceptable risk and sets requirements on ODD, system safety, HMI, data recording, cybersecurity, driverless mobility services, safety evaluation, in-use safety and user information.",
+  "key_provisions_or_claims": [
+   "Goal: zero injury accidents caused by automated driving systems; safety defined per ISO/IEC Guide 51 as no unacceptable risk",
+   "Manufacturers must define an ODD and ensure the system operates only within it",
+   "Level 3 needs takeover warnings, fallback and driver monitoring; Level 3/4 need minimal risk maneuver",
+   "Requires data recording devices and cybersecurity aligned with UN WP.29 including OTA updates",
+   "Safety verification via simulation, test course and road tests; extra requirements for driverless mobility services"
+  ],
+  "confidence": 0.93
+ }
+}

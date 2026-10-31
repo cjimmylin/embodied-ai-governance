@@ -1,0 +1,93 @@
+{
+ "doc_id": "D0132",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:10:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.031153800000000002,
+  "in": 2,
+  "out": 1645,
+  "cache_read": 11758,
+  "cache_create": 3381,
+  "api_ms": 10174,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "RFC 2350 Profile of the Computer Security Incident Response Center (CSIRT-CR)",
+  "title_en": "RFC 2350 Profile of the Computer Security Incident Response Center (CSIRT-CR)",
+  "language": "en",
+  "authors_or_issuer": "CSIRT-CR, Ministry of Science, Innovation, Technology and Telecommunications (MICITT), Costa Rica",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "MICITT",
+  "jurisdiction_country": "CR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CR"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "cybersecurity"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "incident_reporting",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "RFC 2350 profile of Costa Rica's national CSIRT (CSIRT-CR) under MICITT, describing its contact details, mission, constituency (public sector and critical infrastructure), policies, and incident response and prevention services. The filename suggests an AI strategy, but the content is unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "CSIRT-CR created by Decree No. 37052-MICIT in 2012",
+   "Serves public sector systems and critical infrastructure",
+   "Offers 24/7 incident classification, coordination and resolution",
+   "Handles information confidentially using TLP",
+   "Provides proactive alerts and technical advice"
+  ],
+  "confidence": 0.9
+ }
+}

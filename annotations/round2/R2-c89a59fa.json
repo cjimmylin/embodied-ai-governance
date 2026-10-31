@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-c89a59fa",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:44:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.3197078,
+  "in": 2,
+  "out": 1890,
+  "cache_read": 11758,
+  "cache_create": 74907,
+  "api_ms": 11803,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ロボット介護機器開発ガイドブック",
+  "title_en": "Robotic Care Device Development Guidebook",
+  "language": "ja",
+  "authors_or_issuer": "AMED ロボット介護機器開発・導入促進事業 基準策定評価コンソーシアム",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2018,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "AMED",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "research_ethics",
+   "human_robot_interaction_social_effects",
+   "civil_liability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "conformity_assessment_certification",
+   "insurance_requirement"
+  ],
+  "named_instruments_referenced": [
+   "ISO 13482"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Japanese AMED guidebook for developers of robotic care devices, structured along a V-model development process: concept sheet, human-centred design, risk assessment templates (ISO 12100/JIS B 9700), safety requirements mapped to ISO 13482, safety testing, field trials with ethics review, standardisation status, and deployment guidelines.",
+  "key_provisions_or_claims": [
+   "Robotic care devices should be developed as tools for 'improving care', assessing positive and negative impacts on care receivers using ICF.",
+   "Development follows a V-model with a development concept sheet covering indications, contraindications and foreseeable negatives.",
+   "Risk assessment templates use a three-step method (inherent safe design, safeguarding, information for use) with risk score R=S×(F+Ps+A).",
+   "Safety requirements per device type are mapped to ISO 13482 hazard list and JIS/ISO standards.",
+   "Field trials require safety verification and ethics review application; developers and users should agree on liability sharing, insurance and training."
+  ],
+  "confidence": 0.85
+ }
+}

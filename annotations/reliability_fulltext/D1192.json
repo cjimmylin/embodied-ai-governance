@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1192",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:15:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0501679,
+  "in": 4,
+  "out": 3298,
+  "cache_read": 26104,
+  "cache_create": 4275,
+  "api_ms": 23613,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Personal Data Protection Office (UODO), Poland",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "PL",
+   "EU"
+  ],
+  "date_basis": "unknown",
+  "doc_class": "communication_or_news",
+  "doc_type": "press_release_or_government_news",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "education_training"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "PL",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Much of the AI Act's content concerns personal data processing, since AI must be trained on data.",
+   "Data protection is a fundamental right embedded in the AI Act.",
+   "Ensuring GDPR principles in practice will be a major challenge for data protection authorities.",
+   "Data Protection Officers need preparation for AI-related challenges.",
+   "UODO will offer expertise for future AI legislative work."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": null,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "News item from Poland's data protection authority (UODO) reporting its President's remarks to a Sejm subcommittee on AI: the EU AI Act relies heavily on personal data processing, GDPR safeguards must be ensured in practice, and UODO is preparing for AI supervision and offering expertise.",
+  "title_clean": "Data protection safeguards are important for the safe implementation of the AI Act",
+  "title_en": "Data protection safeguards are important for the safe implementation of the AI Act",
+  "venue": "UODO (Personal Data Protection Office) website"
+ }
+}

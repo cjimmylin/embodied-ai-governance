@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-434be625",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:14:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0767156,
+  "in": 2,
+  "out": 2019,
+  "cache_read": 11758,
+  "cache_create": 4247,
+  "api_ms": 15372,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "182.6526 Warehouse Distribution Worker Safety",
+  "title_en": "Minnesota Statutes Section 182.6526 – Warehouse Distribution Worker Safety",
+  "language": "en",
+  "authors_or_issuer": "Minnesota Legislature (Office of the Revisor of Statutes)",
+  "issuer_type": "legislature",
+  "pub_year": 2023,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Minnesota Statutes 2026 (Official Publication of the State of Minnesota)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "safety_physical_harm",
+   "transparency_explainability",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "incident_reporting",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "Minnesota Statutes Chapter 182 (Occupational Safety and Health)",
+   "Minnesota Rules chapter 5205",
+   "NAICS"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "This Minnesota statute (enacted 2023, amended 2024) regulates productivity quotas at large warehouse distribution centres. Employers must disclose quotas in writing and give workers access to their work speed data. Quotas cannot interfere with breaks or safety standards. Sites with high injury rates trigger investigations, and workers can sue. The law does not mention AI or robotics.",
+  "key_provisions_or_claims": [
+   "Employers with 250+ warehouse employees at one site (or 1,000+ statewide) must give workers a written, plain-language description of each quota",
+   "Quotas may not prevent meal, rest or prayer breaks, restroom use, or compliance with safety standards",
+   "Employees can request up to 90 days of their own and aggregated work speed data, up to four times a year",
+   "An injury rate 30% above the industry average triggers a state investigation and monthly safety committee meetings",
+   "Workers have a private right of action with damages, reinstatement and attorney fees"
+  ],
+  "confidence": 0.85
+ }
+}

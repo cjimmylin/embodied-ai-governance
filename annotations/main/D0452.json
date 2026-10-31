@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0452",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:18:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04415380000000001,
+  "in": 2,
+  "out": 1813,
+  "cache_read": 11758,
+  "cache_create": 6211,
+  "api_ms": 10647,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Readiness and Maturity Framework for Rwanda",
+  "title_en": "AI Readiness and Maturity Framework for Rwanda",
+  "language": "en",
+  "authors_or_issuer": "Rwanda Ministry of ICT and Innovation (MINICT); Centre for the Fourth Industrial Revolution Rwanda (C4IR); GIZ FAIR Forward; GFA Consulting Group",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "MINICT / GIZ FAIR Forward",
+  "jurisdiction_country": "RW",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "RW"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "finance",
+   "healthcare",
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "ethics_principles",
+   "privacy_data_protection",
+   "trust_acceptance"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "data_governance_requirements",
+   "oversight_body_creation",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "mixed",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Report presenting Rwanda's data-driven AI Readiness and Maturity Assessment Framework and dashboard for monitoring implementation of the National AI Policy, with first-round findings on skills, infrastructure, data strategy, public and private sector adoption, and ethics, plus recommendations. No robotics content.",
+  "key_provisions_or_claims": [
+   "Framework with dashboard of about 50 indicators benchmarks Rwanda against Oxford, Stanford and Tortoise AI indexes",
+   "Rwanda ranks 10th in Africa on the Oxford AI Index",
+   "Recommends data stewardship training and better data access and partnerships",
+   "Recommends building AI capacity in government and increasing AI skills and cloud compute access",
+   "Framework can be scaled to other African countries under the AI for Africa blueprint"
+  ],
+  "confidence": 0.85
+ }
+}

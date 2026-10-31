@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-c9daada0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:47:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0397758,
+  "in": 2,
+  "out": 1872,
+  "cache_read": 11758,
+  "cache_create": 4969,
+  "api_ms": 12329,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2026/193 of 28 January 2026 amending Implementing Decision (EU) 2021/1182 as regards harmonised standards for neurosurgical implants, biological evaluation of medical devices, clinical investigation, non-active surgical implants, sterilization, biocompatibility of breathing gas pathways and small-bore connectors",
+  "title_en": "Commission Implementing Decision (EU) 2026/193 of 28 January 2026 amending Implementing Decision (EU) 2021/1182 as regards harmonised standards for neurosurgical implants, biological evaluation of medical devices, clinical investigation, non-active surgical implants, sterilization, biocompatibility of breathing gas pathways and small-bore connectors",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Implementing Decision amending Decision 2021/1182 to add references of newly revised harmonised standards (implants, biocompatibility, sterilization, clinical investigation, connectors) supporting the Medical Devices Regulation 2017/745, conferring presumption of conformity from publication. No AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Adds entries 37–48 of harmonised standards to the Annex of Implementing Decision (EU) 2021/1182",
+   "Compliance with listed standards gives presumption of conformity with Regulation (EU) 2017/745",
+   "Covers neurosurgical implants, hip and knee implants, sterilization, breathing gas pathway biocompatibility, small-bore connectors",
+   "Enters into force on the day of publication in the Official Journal"
+  ],
+  "confidence": 0.95
+ }
+}

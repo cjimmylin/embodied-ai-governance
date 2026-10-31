@@ -1,0 +1,103 @@
+{
+ "doc_id": "D1533",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:18:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0898636,
+  "in": 2,
+  "out": 1880,
+  "cache_read": 11758,
+  "cache_create": 6238,
+  "api_ms": 13740,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Industrial robot ethics: facing the challenges of human-robot collaboration in future manufacturing systems",
+  "title_en": "Industrial robot ethics: facing the challenges of human-robot collaboration in future manufacturing systems",
+  "language": "en",
+  "authors_or_issuer": "Fletcher, S.R.; Webb, P.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2017,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/978-3-319-46667-5_12",
+  "venue": "A World with Robots: International Conference on Robot Ethics (ICRE 2015), Springer",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "collaborative_robots",
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "collaborative_robots",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "safety_physical_harm",
+   "labor_employment",
+   "human_robot_interaction_social_effects",
+   "privacy_data_protection",
+   "trust_acceptance",
+   "education_training",
+   "standards_interoperability"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Cranfield University conference paper (ICRE 2015, Springer 2017) on the ethical issues raised by closer human-robot collaboration in Industrie 4.0 manufacturing. It argues that as robots stop being segregated from workers, the ethics of psychological harm, worker acceptance and trust, data capture and training must be addressed alongside physical safety standards.",
+  "key_provisions_or_claims": [
+   "Industrie 4.0 will move industrial robots from caged segregation to shared workspaces with human operators.",
+   "Force/torque-limited robots allow 'acceptable' collisions, but workers' views on these risk levels are unknown.",
+   "Ethics should cover psychological harm, not only physical harm, when workers are asked to accept prescribed risk levels.",
+   "More data capture for performance monitoring raises ethical concerns for workers.",
+   "Organisations should build ethical protection of operators into training and support interventions."
+  ],
+  "confidence": 0.85
+ }
+}

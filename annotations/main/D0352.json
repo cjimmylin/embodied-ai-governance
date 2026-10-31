@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0352",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:16:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0433278,
+  "in": 2,
+  "out": 1780,
+  "cache_read": 11758,
+  "cache_create": 6087,
+  "api_ms": 8734,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Use of publicly available Generative AI tools in the Victorian public sector",
+  "title_en": "Use of publicly available Generative AI tools in the Victorian public sector",
+  "language": "en",
+  "authors_or_issuer": "Office of the Victorian Information Commissioner (OVIC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "OVIC website",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "cybersecurity",
+   "fairness_bias_discrimination",
+   "risk_management_risk_tiers",
+   "transparency_explainability"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "Victorian Privacy and Data Protection Act 2014",
+   "Victorian Health Records Act 2001",
+   "Victorian Protective Data Security Standards",
+   "Public Records Act 1973 (Vic)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "OVIC guidance (version 2.1, June 2026) on Victorian public sector organisations' use of publicly available generative AI tools. It advises against entering personal information, limits public sector information to publicly releasable content, explains risks under the Information Privacy Principles, and sets minimum expectations such as risk assessments and monitoring.",
+  "key_provisions_or_claims": [
+   "Do not enter personal information into publicly available generative AI tools; likely contravenes the Information Privacy Principles.",
+   "Outputs containing personal information are treated as a new collection of personal information.",
+   "Only enter public sector information that is already public or approved for release.",
+   "Do not use public tools for decisions or assessments affecting individuals.",
+   "Minimum expectations: security risk assessments, ongoing monitoring, review of terms and conditions."
+  ],
+  "confidence": 0.9
+ }
+}

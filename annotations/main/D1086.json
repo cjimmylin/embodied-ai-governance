@@ -1,0 +1,103 @@
+{
+ "doc_id": "D1086",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:36:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0437178,
+  "in": 2,
+  "out": 1879,
+  "cache_read": 11758,
+  "cache_create": 5937,
+  "api_ms": 10469,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Role of Artificial Intelligence in Scientific Research: A Science for Policy, European Perspective",
+  "title_en": "The Role of Artificial Intelligence in Scientific Research: A Science for Policy, European Perspective",
+  "language": "en",
+  "authors_or_issuer": "Purificato, E.; Bili, D.; Jungnickel, R.; Ruiz Serra, V.; Fabiani, J.; Abendroth Dias, K. et al.",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.2760/7217497",
+  "venue": "Publications Office of the European Union (JRC Science for Policy Report, EUR 40448)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "US",
+   "CN"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "research_science"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "fairness_bias_discrimination",
+   "transparency_explainability",
+   "education_training",
+   "research_ethics"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "mixed",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "JRC science-for-policy report providing the evidence base for the European Strategy for AI in Science. It reviews AI use across the scientific process and in protein structure prediction, materials discovery and computational humanities, and discusses challenges such as bias, hallucinations, skills, infrastructure and ethics. It does not address robotics or embodied AI.",
+  "key_provisions_or_claims": [
+   "AI is transforming all stages of the scientific process, from hypothesis generation to peer review.",
+   "Deep dives on protein structure prediction, materials discovery and ancient site discovery show accelerated discovery.",
+   "Risks include algorithmic bias, hallucinations, fabricated data and erosion of critical thinking.",
+   "AI adoption is uneven across scientific domains; governance, transparency and open science are needed.",
+   "Supports investment in computing and open-science infrastructure to strengthen EU competitiveness."
+  ],
+  "confidence": 0.9
+ }
+}

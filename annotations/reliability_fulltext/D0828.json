@@ -1,0 +1,110 @@
+{
+ "doc_id": "D0828",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:14:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0782515,
+  "in": 4,
+  "out": 3837,
+  "cache_read": 31475,
+  "cache_create": 9915,
+  "api_ms": 25109,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "manufacturing",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Schirn, A. (ANSI Blog, American National Standards Institute)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "blog_or_opinion",
+  "doi": null,
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots",
+   "mobile_industrial_logistics"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "cybersecurity",
+   "human_robot_interaction_social_effects",
+   "risk_management_risk_tiers",
+   "labor_employment"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "ANSI/A3 R15.06-2025 replaces ANSI/RIA R15.06-2012, harmonized with ISO 10218-1:2025 and -2:2025, published Oct 29, 2025.",
+   "Functional safety requirements made explicit rather than implied.",
+   "Shifts from 'collaborative robot' to 'collaborative application' (hand-guiding, SSM, PFL).",
+   "Cybersecurity is incorporated into safety risk planning.",
+   "Three parts: robots, applications/cells, and users of robot cells; new guidance on end-effectors and manual load/unload."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "ISO 10218",
+   "ISO/TS 15066",
+   "ISO 3691-4",
+   "ANSI/A3 R15.06"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "industrial_manipulators",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "ANSI blog post explaining the new ANSI/A3 R15.06-2025 industrial robot safety standard (Parts 1-3), which replaces the 2012 version and harmonizes with ISO 10218:2025. It covers key changes: explicit functional safety, collaborative applications, cybersecurity as safety, and end-effector guidance, plus intended users.",
+  "title_clean": "What Is ANSI/A3 R15.06-2025 / ANSI/A3 R15.06-3-2025?",
+  "title_en": "What Is ANSI/A3 R15.06-2025 / ANSI/A3 R15.06-3-2025?",
+  "venue": "The ANSI Blog"
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-c9358c2d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:43:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.11211779999999999,
+  "in": 2,
+  "out": 1915,
+  "cache_read": 11758,
+  "cache_create": 22947,
+  "api_ms": 9761,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Delegated Regulation (EU) 2017/655 of 19 December 2016 supplementing Regulation (EU) 2016/1628 with regard to monitoring of gaseous pollutant emissions from in-service internal combustion engines installed in non-road mobile machinery",
+  "title_en": "Commission Delegated Regulation (EU) 2017/655 on monitoring of gaseous pollutant emissions from in-service internal combustion engines installed in non-road mobile machinery",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2016,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 102",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "construction",
+   "agriculture_food",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "other"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "Regulation (EU) 2016/1628",
+   "Delegated Regulation (EU) 2017/654",
+   "Implementing Regulation (EU) 2017/656",
+   "UNECE Regulation 96"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU delegated regulation setting detailed rules for in-service monitoring of gaseous pollutant emissions from Stage V internal combustion engines in non-road mobile machinery, using portable emission measurement systems. It covers engine selection, testing schemes, procedures, data handling and reporting. It is unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Engine manufacturers must monitor in-service Stage V NRE-v-5 and NRE-v-6 engines using PEMS.",
+   "Manufacturers submit monitoring plans for approval authority sign-off before testing.",
+   "Two testing schemes: Emission Durability Period-based or 4-year period, with reduced numbers for small-volume manufacturers.",
+   "Test data must be retained for 10 years and reported per Appendix 8.",
+   "ECU data access must follow ISO 27145 or SAE J1939-73."
+  ],
+  "confidence": 0.95
+ }
+}

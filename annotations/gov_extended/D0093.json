@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0093",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:38:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0479778,
+  "in": 2,
+  "out": 1703,
+  "cache_read": 11758,
+  "cache_create": 7442,
+  "api_ms": 9009,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Protocolo ante Contingencias de Indisponibilidad de los Servicios Informáticos del Poder Judicial de Santa Fe",
+  "title_en": "Protocol for Contingencies of Unavailability of IT Services of the Judiciary of Santa Fe",
+  "language": "es",
+  "authors_or_issuer": "Corte Suprema de Justicia de la Provincia de Santa Fe",
+  "issuer_type": "court_or_judiciary",
+  "pub_year": 2022,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Corte Suprema de Justicia de Santa Fe (Acuerdo, Acta N° 31)",
+  "jurisdiction_country": "AR",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "AR"
+  ],
+  "doc_type": "court_decision_or_judicial_notice",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "other"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Resolution of the Santa Fe (Argentina) Supreme Court approving a protocol for continuity of judicial services during IT outages such as cyberattacks. It sets paper-based filing, manual registration, device shutdown and disconnection, and gradual restoration under Court authority. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Paper filings with handwritten signatures replace electronic submissions during outages",
+   "Courts manually register filings and later digitize them into SISFE",
+   "Users must power off and disconnect equipment from the network until the Court authorizes restart",
+   "Official email and website outages are handled via alternative channels",
+   "Supreme Court decides activation, duration and gradual restoration; training to be provided"
+  ],
+  "confidence": 0.93
+ }
+}

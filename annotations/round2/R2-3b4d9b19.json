@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-3b4d9b19",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:57:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1204278,
+  "in": 2,
+  "out": 1992,
+  "cache_read": 11758,
+  "cache_create": 24832,
+  "api_ms": 11680,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Joint report of the Special Rapporteur on the rights to freedom of peaceful assembly and of association and the Special Rapporteur on extrajudicial, summary or arbitrary executions on the proper management of assemblies",
+  "title_en": "Joint report of the Special Rapporteur on the rights to freedom of peaceful assembly and of association and the Special Rapporteur on extrajudicial, summary or arbitrary executions on the proper management of assemblies",
+  "language": "en",
+  "authors_or_issuer": "United Nations Human Rights Council; Special Rapporteurs Maina Kiai and Christof Heyns",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2016,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN Human Rights Council, A/HRC/31/66",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "security_policing_robots",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "security_policing_robots",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "human_dignity_autonomy",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "military_use_ihl",
+   "civil_liability",
+   "criminal_liability",
+   "transparency_explainability"
+  ],
+  "primary_topic": "human_dignity_autonomy",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 2,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling",
+   "education_training_programs",
+   "international_cooperation",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UN Human Rights Council joint report by two Special Rapporteurs compiling practical recommendations on managing assemblies under international human rights law. It is mostly about policing, force, privacy and accountability, with brief provisions on autonomous weapons, remotely controlled force, drones filming assemblies, and biometric surveillance.",
+  "key_provisions_or_claims": [
+   "Autonomous weapons systems requiring no meaningful human control should be prohibited in policing assemblies.",
+   "Remotely controlled force must be used with great caution, and officials must stay personally in control of its release.",
+   "The public should be notified when they are recorded, including by drones, and privacy protections should precede biometric or facial recognition use.",
+   "The High Commissioner should convene an expert group on less-lethal weapons and unmanned systems for law enforcement.",
+   "The trade in crowd-control and surveillance equipment should be controlled where a serious risk of rights violations exists."
+  ],
+  "confidence": 0.9
+ }
+}

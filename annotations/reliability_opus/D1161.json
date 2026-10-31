@@ -1,0 +1,102 @@
+{
+ "doc_id": "D1161",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:15:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0653316,
+  "in": 2,
+  "out": 1823,
+  "cache_read": 11758,
+  "cache_create": 3314,
+  "api_ms": 12721,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "El Reglamento Europeo de Inteligencia Artificial: aproximación general",
+  "title_en": "The European Artificial Intelligence Regulation: General Overview",
+  "language": "es",
+  "authors_or_issuer": "Agencia Española de Supervisión de la Inteligencia Artificial (AESIA)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "AESIA website (aesia.digital.gob.es)",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "EU",
+   "ES"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "industrial_policy_innovation",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "transparency_disclosure_labelling",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "EU Charter of Fundamental Rights"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Informational web page from Spain's AI supervisory agency (AESIA) summarising the EU AI Act (Regulation 2024/1689): its risk-based classification (prohibited, high, limited, minimal risk, general-purpose AI), governance bodies, sanctions and innovation support. Autonomous driving is cited only as an example of high-risk AI.",
+  "key_provisions_or_claims": [
+   "EU AI Act entered into force 1 August 2024, described as the world's first AI law",
+   "Four risk tiers plus general-purpose AI models, with autonomous driving given as a high-risk example",
+   "Governance bodies: AI Office, scientific panel, AI Board, advisory forum, national market surveillance authorities",
+   "Fines set as a percentage of turnover or a fixed amount, proportionate for SMEs and start-ups",
+   "Regulation also promotes investment and innovation in a single AI market"
+  ],
+  "confidence": 0.85
+ }
+}

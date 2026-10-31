@@ -1,0 +1,91 @@
+{
+ "doc_id": "R2-c1b789fe",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:13:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.051561800000000005,
+  "in": 2,
+  "out": 1593,
+  "cache_read": 11758,
+  "cache_create": 8613,
+  "api_ms": 8868,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Public Law 115-232: John S. McCain National Defense Authorization Act for Fiscal Year 2019 (H.R. 5515)",
+  "title_en": "Public Law 115-232: National Defense Authorization Act for Fiscal Year 2019 (H.R. 5515)",
+  "language": "en",
+  "authors_or_issuer": "United States Congress",
+  "issuer_type": "legislature",
+  "pub_year": 2018,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "U.S. Statutes at Large / Government Publishing Office",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Front matter and Statutes at Large citation table for US Public Law 115-232, the FY2019 National Defense Authorization Act (H.R. 5515), enacted 13 August 2018. The excerpt has only the title, citations and legislative history, with no substantive provisions on AI or robotics.",
+  "key_provisions_or_claims": [
+   "Authorizes FY2019 appropriations for Department of Defense military activities and construction",
+   "Authorizes Department of Energy defense activities and military personnel strengths",
+   "Excerpt lists only statutory citations and legislative history; no AI or robotics provisions are visible"
+  ],
+  "confidence": 0.6
+ }
+}

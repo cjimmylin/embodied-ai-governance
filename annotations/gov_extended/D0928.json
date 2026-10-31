@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0928",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:45:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0386058,
+  "in": 2,
+  "out": 1783,
+  "cache_read": 11758,
+  "cache_create": 4899,
+  "api_ms": 10180,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Executive Order 14365: Ensuring a National Policy Framework for Artificial Intelligence",
+  "title_en": "Executive Order 14365: Ensuring a National Policy Framework for Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "President of the United States (The White House)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Register, Vol. 90, No. 239",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "children_vulnerable_groups"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "Colorado AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "US Executive Order of 11 December 2025 establishing a policy of minimally burdensome national AI regulation and countering state AI laws. It creates a DOJ AI Litigation Task Force, orders a Commerce evaluation of state laws, conditions BEAD and grant funding, and directs FCC and FTC actions and a preemption legislative recommendation.",
+  "key_provisions_or_claims": [
+   "DOJ AI Litigation Task Force to challenge state AI laws within 30 days",
+   "Commerce to publish evaluation of onerous state AI laws within 90 days",
+   "BEAD non-deployment funds and discretionary grants conditioned on states not enforcing conflicting AI laws",
+   "FCC to consider federal AI reporting and disclosure standard preempting state laws; FTC to issue policy statement on preemption",
+   "Legislative recommendation for uniform federal framework, excluding child safety, data center infrastructure and state procurement"
+  ],
+  "confidence": 0.95
+ }
+}

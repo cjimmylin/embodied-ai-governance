@@ -1,0 +1,102 @@
+{
+ "doc_id": "D1496",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:47:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.046821800000000004,
+  "in": 2,
+  "out": 1753,
+  "cache_read": 11758,
+  "cache_create": 7028,
+  "api_ms": 8851,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Examining the issues of legal personhood of Artificial Intelligence and robots",
+  "title_en": "Examining the issues of legal personhood of Artificial Intelligence and robots",
+  "language": "en",
+  "authors_or_issuer": "Stefán, I.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2019,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.32978/sjp.2020.026",
+  "venue": "Publicationes Universitatis Miskolcinensis, Sectio Juridica et Politica",
+  "jurisdiction_country": "HU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "DE",
+   "HU"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "transparency_explainability",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Legal-doctrinal article examining whether AI and advanced robots could be granted legal personhood. It sets out conceptual definitions (EU HLEG, European Parliament 2017, IEEE), surveys major theories and viewpoints, discusses civil-law legal entity issues including black-box unpredictability, and closes with transhumanism.",
+  "key_provisions_or_claims": [
+   "Reviews proposals to grant AI and smart robots legal personhood, including the 2017 European Parliament resolution.",
+   "Treats AI and robots together while noting they are not the same.",
+   "Black-box unpredictability complicates attributing decisions and responsibility.",
+   "Examines whether civil law can accommodate a new legal entity category.",
+   "Briefly addresses transhumanism."
+  ],
+  "confidence": 0.8
+ }
+}

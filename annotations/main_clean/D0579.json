@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0579",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:55:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0313918,
+  "in": 2,
+  "out": 1756,
+  "cache_read": 11758,
+  "cache_create": 3163,
+  "api_ms": 11859,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "王雪琳",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "CN",
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": null,
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "trust_acceptance",
+   "ethics_principles",
+   "human_robot_interaction_social_effects"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "not_applicable",
+  "language": "en",
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI",
+   "ISO 13482"
+  ],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "social_companion_robots",
+  "primary_topic": "trust_acceptance",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2025,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Journal article proposing a TLE model (Trust, Language and communication, Ethics) to explain social robot technology acceptance across cultures. It argues cross-cultural trust must be calibrated with ethical values and language localisation must address symbolic systems and cultural pragmatics, offering a framework for culturally embedded AI products.",
+  "title_clean": "A Study of Social Robot Technology Acceptance from the Perspective of Cultural Suitability—Construction of a TLE Model Based on Trust, Language and Ethics",
+  "title_en": "A Study of Social Robot Technology Acceptance from the Perspective of Cultural Suitability—Construction of a TLE Model Based on Trust, Language and Ethics",
+  "venue": "Advances in Philosophy 哲学进展",
+  "methodology": "conceptual_or_normative",
+  "key_provisions_or_claims": [
+   "Proposes TLE model: trust, language and communication, ethical alignment",
+   "Developer-culture-based robot design causes cognitive bias and user resistance",
+   "Cross-cultural technological trust must be calibrated with ethical values",
+   "Language localisation must address symbolic systems and cultural pragmatic rules"
+  ]
+ }
+}

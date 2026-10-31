@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0125",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:09:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0430678,
+  "in": 2,
+  "out": 1804,
+  "cache_read": 11758,
+  "cache_create": 5962,
+  "api_ms": 8942,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ABNT NBR 17225:2025 – Acessibilidade em conteúdo e aplicações web — Requisitos",
+  "title_en": "ABNT NBR 17225:2025 – Accessibility in web content and applications — Requirements",
+  "language": "pt",
+  "authors_or_issuer": "Associação Brasileira de Normas Técnicas (ABNT)",
+  "issuer_type": "standards_body",
+  "pub_year": 2025,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ABNT",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "children_vulnerable_groups",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei 13.146/2015)",
+   "Lei da Acessibilidade (Lei 10.098/2000)",
+   "Decreto 5.296/2004",
+   "WCAG 2.2",
+   "ETSI EN 301 549"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Brazilian national standard ABNT NBR 17225:2025 setting web content and application accessibility requirements and recommendations (keyboard, images, headings, forms, authentication, presentation), aligned with WCAG conformance levels A/AA/AAA. It is unrelated to AI or robotics, despite the collector's filename referencing the Brazilian AI Strategy.",
+  "key_provisions_or_claims": [
+   "Defines web accessibility guidelines labelled as Requirement or Recommendation",
+   "Maps each guideline to WCAG success criteria and conformance levels A/AA/AAA",
+   "Covers keyboard interaction, images, headings, tables, links, forms, authentication and presentation",
+   "Supports Brazilian accessibility law (LBI, Lei 10.098)",
+   "Filename mismatch: document is not the Brazilian AI Strategy"
+  ],
+  "confidence": 0.93
+ }
+}

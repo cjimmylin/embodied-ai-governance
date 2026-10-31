@@ -1,0 +1,111 @@
+{
+ "doc_id": "D0631",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:13:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0716738,
+  "in": 2,
+  "out": 1873,
+  "cache_read": 11758,
+  "cache_create": 12941,
+  "api_ms": 16105,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Tarumanagara University authors (Atlantis Press)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "ID",
+   "US",
+   "JP",
+   "SA",
+   "GB",
+   "IN",
+   "SG",
+   "SE"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": null,
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "autonomous_road_vehicles",
+   "industrial_manipulators"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "liability_regime",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "criminal_liability",
+   "ethics_principles",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "ID",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "AI robots' treatment has shifted from legal object toward possible legal subject, leaving a regulatory grey area.",
+   "Fiction theory could support treating AI like a corporation as a legal person, but consciousness is hard to prove.",
+   "Vicarious liability and strict (product) liability are proposed for harm caused by AI robots; strict liability for military uses.",
+   "Existing AI regulation is limited and Indonesia lacks rules on AI-caused damage; new regulation is urgently needed.",
+   "Asilomar AI Principles could be developed into binding regulation, with international collaboration on a unified framework."
+  ],
+  "language": "en",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [
+   "GDPR",
+   "Asilomar AI Principles"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "pub_month": null,
+  "pub_year": 2020,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "supports",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Normative legal conference paper arguing AI robots should be brought into the legal system, possibly as legal persons via fiction theory. It reviews global AI regulation and the Asilomar Principles, discusses vicarious and strict liability for robot-caused harm, and calls for new, internationally coordinated AI regulation.",
+  "title_clean": "Pros and Cons of AI Robot as a Legal Subject",
+  "title_en": "Pros and Cons of AI Robot as a Legal Subject",
+  "venue": "Advances in Social Science, Education and Humanities Research, vol. 439 (Tarumanagara International Conference on the Applications of Social Sciences), Atlantis Press"
+ }
+}

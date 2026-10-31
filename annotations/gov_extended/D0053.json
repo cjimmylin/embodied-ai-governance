@@ -1,0 +1,113 @@
+{
+ "doc_id": "D0053",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:36:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.15856779999999998,
+  "in": 2,
+  "out": 1844,
+  "cache_read": 11758,
+  "cache_create": 34737,
+  "api_ms": 10562,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Política para la Transformación Digital en Cuba",
+  "title_en": "Policy for Digital Transformation in Cuba",
+  "language": "es",
+  "authors_or_issuer": "Gobierno de Cuba (Ministerio de Comunicaciones, MINCOM)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CU"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "education",
+   "healthcare",
+   "agriculture_food",
+   "finance"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "ethics_principles",
+   "education_training",
+   "privacy_data_protection",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "licensing_registration",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Cuba's May 2024 digital transformation policy, with a Digital Agenda of eight strategic axes and an AI Development Strategy. It names the Ministry of Communications as lead body. It sets ethical principles, risk management, and possible limits or bans on some AI systems. It has no robotics-specific provisions.",
+  "key_provisions_or_claims": [
+   "MINCOM is designated lead body for digital transformation, supported by a Permanent Secretariat and a government programme.",
+   "Eight strategic axes: regulatory framework, infrastructure, digital economy, education, digital government, innovation, cybersecurity, digital content.",
+   "AI strategy has six axes, including ethics and regulatory framework, human capital, and public administration.",
+   "AI products must be safe, explainable, transparent, non-discriminatory and protect data and privacy.",
+   "Calls for risk-management protocols and criteria to limit or prohibit certain AI systems and training data."
+  ],
+  "confidence": 0.85
+ }
+}

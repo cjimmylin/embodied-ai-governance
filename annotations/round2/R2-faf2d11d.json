@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-faf2d11d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:37:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1187018,
+  "in": 2,
+  "out": 1777,
+  "cache_read": 11758,
+  "cache_create": 24938,
+  "api_ms": 9324,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "原動機を用いる歩行補助車等の型式認定の手続等に関する規則",
+  "title_en": "Rules on Procedures for Type Approval of Motorized Walking Aid Vehicles, etc.",
+  "language": "ja",
+  "authors_or_issuer": "国家公安委員会 (National Public Safety Commission, Japan)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 1992,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search (Japan)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "primary_embodied_category": "rehabilitation_exoskeleton_prosthetic",
+  "application_sectors": [
+   "logistics_transport",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "consumer_protection"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japanese National Public Safety Commission rule (1992, amended through 2023) setting procedures for type approval of motorized walking-aid vehicles and similar small vehicles under the Road Traffic Act enforcement regulations, including designation of testing bodies, markings, notifications and revocation. Not AI-specific.",
+  "key_provisions_or_claims": [
+   "Commission designates corporate test bodies for type-approval tests meeting knowledge, facility, financial and impartiality requirements",
+   "Test bodies must not be controlled by vehicle manufacturers or sellers",
+   "Commission may recommend dismissal, improvement, or revoke designation",
+   "Approved holders must mark vehicles and may affix a mark; approval numbers are publicly announced",
+   "Approvals may be revoked after notice and a chance to be heard"
+  ],
+  "confidence": 0.8
+ }
+}

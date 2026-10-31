@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0451",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:11:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0888436,
+  "in": 2,
+  "out": 2159,
+  "cache_read": 11758,
+  "cache_create": 5413,
+  "api_ms": 15595,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ghana (country chapter in Insights on Public Policies to Ensure AI's Beneficial Use as a Professional Tool)",
+  "title_en": "Ghana (country chapter in Insights on Public Policies to Ensure AI's Beneficial Use as a Professional Tool)",
+  "language": "en",
+  "authors_or_issuer": "Ahlijah, L. N.",
+  "issuer_type": "professional_body",
+  "pub_year": 2022,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "IBA Alternative and New Law Business Structures Committee",
+  "jurisdiction_country": "GH",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GH"
+  ],
+  "doc_type": "industry_or_ngo_report",
+  "doc_class": "grey_literature",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "intellectual_property",
+   "ethics_principles",
+   "other"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "Constitution of Ghana 1992",
+   "Ghana Data Protection Act 2012 (Act 843)",
+   "Ghana Copyright Act 2005 (Act 690)",
+   "Ghana Legal Profession Act 1960 (Act 32)",
+   "Legal Profession (Professional Conduct and Etiquette) Rules 2020",
+   "National Identification Authority Act 2006 (Act 707)",
+   "National Identity Register Act 2008 (Act 750)",
+   "UNESCO Artificial Intelligence Needs Assessment Survey in Africa"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Ghana country chapter of an IBA committee report on AI in legal services. It notes that Ghana has no statutory definition of AI and no AI regulation, and that AI tools are not used in the legal sector. It discusses how data protection, constitutional privacy rights, copyright law and professional confidentiality rules apply, and calls for future AI legislation.",
+  "key_provisions_or_claims": [
+   "Ghana has no statutory definition of AI and no AI-specific legal or regulatory framework.",
+   "No known AI tools are used in Ghanaian legal services; few firms use practice-management software.",
+   "The Data Protection Act 2012 consent and objection rights, and the Cubagee Supreme Court privacy ruling, constrain the use of personal data in AI systems.",
+   "The Ghana Card biometric database could feed AI systems but needs a legislative regime.",
+   "The Ghana Bar Association has not yet engaged; the government has signalled the need for an ethical and regulatory AI framework."
+  ],
+  "confidence": 0.8
+ }
+}

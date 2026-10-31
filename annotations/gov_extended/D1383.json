@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1383",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:51:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0348478,
+  "in": 2,
+  "out": 1822,
+  "cache_read": 11758,
+  "cache_create": 3862,
+  "api_ms": 11093,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 3691-4:2023 Industrial trucks — Safety requirements and verification — Part 4: Driverless industrial trucks and their systems",
+  "title_en": "ISO 3691-4:2023 Industrial trucks — Safety requirements and verification — Part 4: Driverless industrial trucks and their systems",
+  "language": "en",
+  "authors_or_issuer": "ISO (International Organization for Standardization), ISO/TC 110/SC 2",
+  "issuer_type": "standards_body",
+  "pub_year": 2023,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "application_sectors": [
+   "manufacturing",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 3691-4",
+   "ISO 13482"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "ISO store page for ISO 3691-4:2023 (Edition 2), the international standard setting safety requirements and verification for driverless industrial trucks (AGVs, AMRs) and their systems. Shows abstract, scope exclusions, life cycle (stage 90.92, to be revised) and the forthcoming ISO/DIS 3691-4.",
+  "key_provisions_or_claims": [
+   "Specifies safety requirements and verification means for driverless industrial trucks, including AGVs and AMRs.",
+   "Covers all significant hazards across the truck's life phases, including reasonably foreseeable misuse.",
+   "Excludes public roads, public zones, explosive, nuclear and military environments, and remote-controlled trucks.",
+   "Annex A specifies operating-zone preparation to eliminate hazards.",
+   "Stage 90.92: under revision, to be replaced by ISO/DIS 3691-4."
+  ],
+  "confidence": 0.9
+ }
+}

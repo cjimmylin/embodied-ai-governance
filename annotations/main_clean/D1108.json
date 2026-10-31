@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1108",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:02:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0301278,
+  "in": 2,
+  "out": 1700,
+  "cache_read": 11758,
+  "cache_create": 2987,
+  "api_ms": 15653,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Market Surveillance Authorities under the AI Act",
+  "title_en": "Market Surveillance Authorities under the AI Act",
+  "language": "en",
+  "authors_or_issuer": "European Commission, DG CONNECT",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 8,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Shaping Europe's digital future",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "incident_reporting",
+   "international_cooperation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission web page explaining the role of national market surveillance authorities under the EU AI Act: their enforcement powers, complaint handling, cross-border cooperation via the AI Board, the 2 August 2025 designation deadline, and the EDPS role for EU institutions.",
+  "key_provisions_or_claims": [
+   "Member States must designate one or more market surveillance authorities by 2 August 2025 and a Single Point of Contact.",
+   "Authorities can investigate, access documentation, data sets and source code, request corrective measures and impose penalties.",
+   "Any natural or legal person may lodge complaints about AI Act infringements.",
+   "Authorities cooperate through the European AI Board; the AI Office supervises general-purpose AI models.",
+   "The EDPS is market surveillance authority for EU institutions, bodies and agencies."
+  ],
+  "confidence": 0.85
+ }
+}

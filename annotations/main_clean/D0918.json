@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0918",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:59:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030953800000000004,
+  "in": 2,
+  "out": 1665,
+  "cache_read": 11758,
+  "cache_create": 3281,
+  "api_ms": 9332,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Removing Barriers to American Leadership in Artificial Intelligence",
+  "title_en": "Removing Barriers to American Leadership in Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "The White House (President of the United States)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "whitehouse.gov",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "US Executive Order 14110"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "US Executive Order of January 23, 2025 revoking Biden's EO 14110 on safe, secure and trustworthy AI. It sets a policy of sustaining US AI dominance, orders an AI Action Plan within 180 days, and directs agencies to rescind inconsistent actions and revise OMB memoranda M-24-10 and M-24-18.",
+  "key_provisions_or_claims": [
+   "Policy: sustain and enhance US global AI dominance for human flourishing, competitiveness and national security",
+   "Develop an AI Action Plan within 180 days",
+   "Review and suspend, revise or rescind actions taken under revoked EO 14110",
+   "Revise OMB Memoranda M-24-10 and M-24-18 within 60 days",
+   "AI systems should be free from ideological bias or engineered social agendas"
+  ],
+  "confidence": 0.95
+ }
+}

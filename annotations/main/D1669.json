@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1669",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:52:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0460898,
+  "in": 2,
+  "out": 1847,
+  "cache_read": 11758,
+  "cache_create": 6610,
+  "api_ms": 10913,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "X-HAZOP: A Family of Techniques for Ethical Hazard Analysis of Assistive Robots",
+  "title_en": "X-HAZOP: A Family of Techniques for Ethical Hazard Analysis of Assistive Robots",
+  "language": "en",
+  "authors_or_issuer": "Menon, C.; Rainer, A.; Holthaus, P.; Moros, S.; Lakatos, G.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "IEEE Robotics and Automation Magazine",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "fairness_bias_discrimination",
+   "human_robot_interaction_social_effects",
+   "children_vulnerable_groups",
+   "research_ethics"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "empirical_qualitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Presents X-HAZOP, a toolbox of HAZOP-based participatory workshop techniques (CHAZOP and EHAZOP) for ethical hazard analysis of assistive robots. Workshops with diverse participants, including secondary school students, using ARI and Pepper robots showed improved accessible descriptions and effective identification of ethical hazards.",
+  "key_provisions_or_claims": [
+   "No standardised process for ethical hazard analysis of assistive robots exists; ad hoc methods exclude marginalised groups.",
+   "CHAZOP uses guide words to create accessible narrative descriptions of the robot.",
+   "EHAZOP uses guide words on narratives to identify ethical hazards.",
+   "Workshops with ARI and Pepper robots showed diverse participants identified hazards that would otherwise be missed.",
+   "Inclusive participation of vulnerable demographics is essential to ethical assessment."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-6ed19316",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:06:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.088575,
+  "in": 4,
+  "out": 3440,
+  "cache_read": 35085,
+  "cache_create": 13322,
+  "api_ms": 16920,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "Department of Health and Social Care (UK Secretary of State)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "consumer_protection",
+   "standards_interoperability",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Amends the Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 on orphan and paediatric medicine decision procedures.",
+   "Adds Republic of Korea to list of countries with equivalent active substance manufacturing standards.",
+   "Defines designated standards, including European Pharmacopoeia monographs, for medical devices.",
+   "Requires manufacturers to update registration information with the Secretary of State when it changes.",
+   "Corrects deficiencies of retained EU law after Brexit."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2019,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "UK statutory instrument (SI 2019/1385) amending the 2019 EU Exit regulations on human medicines and medical devices. It fixes post-Brexit deficiencies in orphan and paediatric medicine procedures, designated standards, and device registration updates. It has no AI or robotics content.",
+  "title_clean": "The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019",
+  "title_en": "The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019",
+  "venue": "legislation.gov.uk"
+ }
+}

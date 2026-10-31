@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-43712360",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:28:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.057001800000000005,
+  "in": 2,
+  "out": 1685,
+  "cache_read": 11758,
+  "cache_create": 9743,
+  "api_ms": 8656,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院关于印发《国民健康“十五五”规划》的通知",
+  "title_en": "State Council Notice on Issuing the National Health 15th Five-Year Plan",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the People's Republic of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中国政府网 (State Council)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "cybersecurity",
+   "safety_physical_harm",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "China's State Council issues the National Health 15th Five-Year Plan (2026–2030), setting goals for health services, public health security, healthcare system reform and innovation. AI and brain-computer interface appear only briefly, within digital health and medical technology R&D.",
+  "key_provisions_or_claims": [
+   "Target life expectancy of 80 years by 2030.",
+   "Promote AI application pilot bases in medicine and AI use in assisted diagnosis, health management and elder care.",
+   "Support R&D on medical devices and brain-computer interfaces.",
+   "Strict information security and privacy protection in health data sharing.",
+   "Strengthen health law, standards and comprehensive regulation."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-64203dab",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:15:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0553004,
+  "in": 4,
+  "out": 3663,
+  "cache_read": 26329,
+  "cache_create": 4724,
+  "api_ms": 19656,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robotics in the Workplace: An Overview",
+  "title_en": "Robotics in the Workplace: An Overview",
+  "language": "en",
+  "authors_or_issuer": "National Institute for Occupational Safety and Health (NIOSH)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "NIOSH / CDC website",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots",
+   "professional_service_robots",
+   "rehabilitation_exoskeleton_prosthetic",
+   "drones_uas",
+   "autonomous_road_vehicles",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "collaborative_robots",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector",
+   "healthcare",
+   "agriculture_food",
+   "energy_environment",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "labor_employment",
+   "human_robot_interaction_social_effects",
+   "risk_management_risk_tiers",
+   "research_ethics"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "NIOSH informational page giving an overview of robots in US workplaces, their benefits and hazards, fatality and market statistics, and NIOSH's Center for Occupational Robotics Research. It stresses that safety and health professionals must keep ensuring robots do not create new worker risks, especially for robots working near people.",
+  "key_provisions_or_claims": [
+   "NIOSH identified 41 robot-related worker fatalities in the US from 1992 to 2017.",
+   "Robots can improve worker safety by doing work in high-risk environments.",
+   "Robots working close to people create emerging, not fully understood risks such as unexpected contact.",
+   "Safety and health professionals must continually ensure robot use creates no additional hazards.",
+   "NIOSH's Center for Occupational Robotics Research addresses the safety of workers who use, wear, or work near robots."
+  ],
+  "confidence": 0.9
+ }
+}

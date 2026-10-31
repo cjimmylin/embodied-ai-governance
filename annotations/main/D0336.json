@@ -1,0 +1,94 @@
+{
+ "doc_id": "D0336",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:15:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0438118,
+  "in": 2,
+  "out": 1686,
+  "cache_read": 11758,
+  "cache_create": 6443,
+  "api_ms": 8551,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Australian Privacy Principles Guidelines",
+  "title_en": "Australian Privacy Principles Guidelines",
+  "language": "en",
+  "authors_or_issuer": "Office of the Australian Information Commissioner (OAIC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2019,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "OAIC website",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "transparency_explainability"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "data_governance_requirements",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "The OAIC's Australian Privacy Principles Guidelines (combined, July 2019) explain the Information Commissioner's interpretation of the 13 APPs under the Privacy Act 1988. They are non-binding guidance on collection, use, disclosure, security, access and correction of personal information. The file does not match the AI-products guidance named in its title and has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "APP guidelines are issued under s 28(1) of the Privacy Act and are not legally binding.",
+   "APP 6 allows use or disclosure of personal information only for the primary purpose unless an exception applies.",
+   "APPs are principles-based and technology neutral.",
+   "APP 13 requires a response to correction requests within 30 days and bars charges for correction.",
+   "The guidelines cover APPs 1-13 across the personal information lifecycle."
+  ],
+  "confidence": 0.85
+ }
+}

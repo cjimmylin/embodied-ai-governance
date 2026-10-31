@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0896",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:59:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0323938,
+  "in": 2,
+  "out": 1877,
+  "cache_read": 11758,
+  "cache_create": 3111,
+  "api_ms": 10626,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ASME 2026 Competition: Waste-Sorting Robot; Ethical Modeling for Autonomous Vehicle Decision Making and its Societal Implications",
+  "title_en": "ASME 2026 Competition: Waste-Sorting Robot; Ethical Modeling for Autonomous Vehicle Decision Making and its Societal Implications",
+  "language": "en",
+  "authors_or_issuer": "Milner, O.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": "10.18130/r5dn-q385",
+  "venue": "University of Virginia Libra Online Archive (School of Engineering and Applied Science)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "thesis_or_dissertation",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "thesis",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "energy_environment",
+   "education"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "civil_liability",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "labor_employment",
+   "safety_physical_harm",
+   "trust_acceptance"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "mixed",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Undergraduate thesis portfolio from the University of Virginia combining an ASME student competition waste-collection robot capstone with an STS paper on how autonomous vehicle AI should make ethical decisions in unavoidable accidents. It argues for a law-based rather than utilitarian framework, citing accountability, feasibility and transparency. Only the abstract is available.",
+  "key_provisions_or_claims": [
+   "Argues AVs should use a law-based ethical framework rather than a utilitarian one in unavoidable accidents",
+   "Evaluates frameworks on technical feasibility, ethical fairness and public transparency",
+   "Law-based systems give clearer accountability and are easier to define and implement",
+   "Compares AVs with human drivers using crash data, legal outcomes and labor market impacts",
+   "Capstone designs a waste collection robot complying with ASME competition rules and safety requirements"
+  ],
+  "confidence": 0.8
+ }
+}

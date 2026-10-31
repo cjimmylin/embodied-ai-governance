@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-9f49bf63",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:43:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0299558,
+  "in": 2,
+  "out": 1746,
+  "cache_read": 11758,
+  "cache_create": 2829,
+  "api_ms": 9582,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Decision (EU) 2016/1145 of the European Parliament and of the Council of 6 July 2016 on the mobilisation of the European Globalisation Adjustment Fund (application from Belgium — EGF/2015/012 BE/Hainaut Machinery)",
+  "title_en": "Decision (EU) 2016/1145 of the European Parliament and of the Council of 6 July 2016 on the mobilisation of the European Globalisation Adjustment Fund (application from Belgium — EGF/2015/012 BE/Hainaut Machinery)",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2016,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "BE",
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU decision mobilising EUR 1,824,041 from the European Globalisation Adjustment Fund for Belgium, supporting workers made redundant in machinery manufacturing in Hainaut, including 300 NEETs. Unrelated to AI or robotics; \"machinery\" appears only as an industrial sector name.",
+  "key_provisions_or_claims": [
+   "Mobilises EUR 1,824,041 from the EGF for the 2016 EU budget",
+   "Responds to Belgian application EGF/2015/012 for Hainaut machinery redundancies",
+   "Co-finances personalised services also for 300 young NEETs",
+   "Enters into force on publication and applies from 6 July 2016"
+  ],
+  "confidence": 0.97
+ }
+}

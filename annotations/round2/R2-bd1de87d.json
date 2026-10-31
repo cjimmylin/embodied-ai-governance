@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-bd1de87d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0525118,
+  "in": 4,
+  "out": 3544,
+  "cache_read": 26008,
+  "cache_create": 4290,
+  "api_ms": 20313,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Institute for Global Automotive Regulatory Research",
+  "issuer_type": "industry_company",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "SA"
+  ],
+  "date_basis": "unknown",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "jurisdiction_country": "SA",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Sets basic safety requirements for the automated driving system of fully automated vehicles.",
+   "Defines conformity assessment procedures suppliers must follow.",
+   "Covers passenger cars, buses, goods vehicles and special purpose vehicles (HS 8702-8705).",
+   "References SAE J3016, ISO 26262, ISO/PAS 21448, IEEE 2846 and UN Regulation No 157.",
+   "Assigns responsibilities to the Market Surveillance Authority."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "UN Regulation No 157"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": null,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "News item announcing Saudi Arabia's Technical Regulation of Automated Vehicles, which sets basic safety requirements for automated driving systems of fully automated vehicles and conformity assessment procedures for suppliers. It lists covered product codes, regulation parts and referenced international standards such as SAE J3016, ISO 26262 and UN R157.",
+  "title_clean": "Saudi Arabia: New regulation for automated vehicles",
+  "title_en": "Saudi Arabia: New regulation for automated vehicles",
+  "venue": "Institute for Global Automotive Regulatory Research"
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "doc_id": "D0578",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:43:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.15108180000000002,
+  "in": 2,
+  "out": 1829,
+  "cache_read": 11758,
+  "cache_create": 32903,
+  "api_ms": 10065,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "National Strategy for Artificial Intelligence",
+  "title_en": "National Strategy for Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "Information and Communication Technology Division, Government of the People's Republic of Bangladesh",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "BD",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BD"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "mixed",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "manufacturing",
+   "agriculture_food",
+   "logistics_transport",
+   "education",
+   "finance",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "labor_employment",
+   "education_training",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation",
+   "testing_sandboxes",
+   "data_governance_requirements",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Bangladesh's 2020 national AI strategy (\"AI for Innovative Bangladesh\") sets seven priority sectors and six strategic pillars: R&D, workforce skilling, data infrastructure, ethics/privacy/regulation, start-up funding and industrialization. It includes a 2020–2025 roadmap. Robotics and autonomous vehicles appear only in passing; regulation is mainly deferred to future laws.",
+  "key_provisions_or_claims": [
+   "Six strategic pillars with a 2020–2025 roadmap and lead ministries",
+   "Seven priority sectors: public services, manufacturing, agriculture, mobility, education, finance, health",
+   "Plans to establish a National AI Research Center, AI sandbox and National AI Task Force",
+   "Plans for data ethics and privacy laws and a Right to Explanation guideline for AI algorithms",
+   "Goals to train 50,000 workers and fund 1,000 AI start-ups within five years"
+  ],
+  "confidence": 0.9
+ }
+}

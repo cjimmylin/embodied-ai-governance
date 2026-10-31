@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0942",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:46:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0182945,
+  "in": 2,
+  "out": 1676,
+  "cache_read": 15305,
+  "cache_create": 0,
+  "api_ms": 25822,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AB-489 Health care professions: deceptive terms or letters: artificial intelligence",
+  "title_en": "AB-489 Health care professions: deceptive terms or letters: artificial intelligence",
+  "language": "en",
+  "authors_or_issuer": "California State Legislature (Assembly Bill 489, Bonta)",
+  "issuer_type": "legislature",
+  "pub_year": 2025,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "California Legislative Information (leginfo.legislature.ca.gov)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "transparency_explainability",
+   "criminal_liability"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "California AB 489 (Chapter 615, 2025) extends existing prohibitions on implying health-care licensure to developers and deployers of AI/GenAI systems. It bans AI advertising or functionality implying care or advice comes from a licensed human professional, with enforcement by licensing boards and each use counted as a separate violation.",
+  "key_provisions_or_claims": [
+   "Licensure-impersonation term bans apply to entities developing or deploying AI/GenAI systems.",
+   "AI advertising or functionality implying advice is from a licensed natural person is prohibited.",
+   "Enforced by the appropriate health care licensing board, including injunctions.",
+   "Each use of a prohibited term is a separate violation.",
+   "Adds Chapter 15.5 to the Business and Professions Code."
+  ],
+  "confidence": 0.95
+ }
+}

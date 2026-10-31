@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0752",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:27:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.037245799999999996,
+  "in": 2,
+  "out": 1707,
+  "cache_read": 11758,
+  "cache_create": 4749,
+  "api_ms": 9655,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/IEC 38507:2022 - Information technology — Governance of IT — Governance implications of the use of artificial intelligence by organizations",
+  "title_en": "ISO/IEC 38507:2022 - Information technology — Governance of IT — Governance implications of the use of artificial intelligence by organizations",
+  "language": "en",
+  "authors_or_issuer": "ISO/IEC JTC 1/SC 42",
+  "issuer_type": "standards_body",
+  "pub_year": 2022,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO website (iso.org)",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "ethics_principles",
+   "transparency_explainability"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "ISO/IEC 42001",
+   "ISO/IEC 27001"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "ISO store page for ISO/IEC 38507:2022, an international standard guiding governing bodies on governing organizational use of AI so that it is effective, efficient and acceptable. Applies to any organization. Page shows abstract, lifecycle and price only; no robotics-specific content.",
+  "key_provisions_or_claims": [
+   "Guidance for governing bodies to enable and govern AI use in organizations",
+   "Also addresses executives, policymakers, service providers, assessors and auditors",
+   "Applies to organizations of any type and size, current and future AI uses",
+   "Published April 2022 by ISO/IEC JTC 1/SC 42 (28 pages)"
+  ],
+  "confidence": 0.85
+ }
+}

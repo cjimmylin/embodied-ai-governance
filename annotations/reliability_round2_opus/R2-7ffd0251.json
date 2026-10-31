@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-7ffd0251",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:08:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.05634360000000001,
+  "in": 2,
+  "out": 1920,
+  "cache_read": 11758,
+  "cache_create": 1948,
+  "api_ms": 13763,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "GB/T 45312-2025 智能网联汽车 自动驾驶系统设计运行条件",
+  "title_en": "Intelligent and connected vehicles — Operational design condition for automated driving system (GB/T 45312-2025)",
+  "language": "zh",
+  "authors_or_issuer": "State Administration for Market Regulation; Standardization Administration of China (TC114/SC34)",
+  "issuer_type": "standards_body",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "National Public Service Platform for Standards Information (std.samr.gov.cn)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "GB 44497-2024 Automated driving data recording system",
+   "GB 44721 Automated driving system safety requirements",
+   "DB4403/T 358-2023"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "This is a Chinese national standards catalogue page for GB/T 45312-2025, a voluntary standard on operational design conditions for automated driving systems in intelligent connected vehicles. It was issued on 28 February 2025 under TC114/SC34. The page shows only metadata and lists related automated-driving standards.",
+  "key_provisions_or_claims": [
+   "Recommended national standard GB/T 45312-2025 sets out operational design conditions for automated driving systems",
+   "Issued 2025-02-28; plan number 20230388-T-339; technical committee TC114/SC34 (road vehicles)",
+   "Classified under ICS 43.020 (road vehicles in general)",
+   "Related standards include GB 44497-2024 on data recording systems and GB 44721 on automated driving system safety requirements"
+  ],
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "doc_id": "D0581",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:12:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0943436,
+  "in": 2,
+  "out": 1950,
+  "cache_read": 11758,
+  "cache_create": 6623,
+  "api_ms": 13407,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Blueprint to Action: China's Path to AI-Powered Industry Transformation",
+  "title_en": "Blueprint to Action: China's Path to AI-Powered Industry Transformation",
+  "language": "en",
+  "authors_or_issuer": "World Economic Forum (AI Governance Alliance); Accenture",
+  "issuer_type": "ngo_or_civil_society",
+  "pub_year": 2025,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "World Economic Forum",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "industry_or_ngo_report",
+  "doc_class": "grey_literature",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "manufacturing",
+   "logistics_transport",
+   "retail_hospitality",
+   "finance",
+   "energy_environment",
+   "public_administration_justice",
+   "healthcare",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "sustainability_environment",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "China Generative AI Measures"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "case_study",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "WEF/Accenture white paper (Jan 2025) describing China's AI-powered industry transformation: national strategy, adaptive regulation balancing development and safety, multi-level policy, ecosystem enablers (infrastructure, data, models, energy, talent), and industry use cases incl. manufacturing, autonomous transport, retail and finance, plus key challenges.",
+  "key_provisions_or_claims": [
+   "China's AI core industry exceeds $70 billion with over 4,300 companies, targeting $140 billion by 2030",
+   "Government support, ecosystem enablers and industrial application drive AI transformation",
+   "China uses adaptive regulations balancing development, safety and governance",
+   "Use cases span industrial manufacturing, autonomous transportation, retail, finance, energy and public services",
+   "An open, collaborative ecosystem is needed to address remaining challenges"
+  ],
+  "confidence": 0.7
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-ed1021ff",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07591880000000001,
+  "in": 4,
+  "out": 3757,
+  "cache_read": 31128,
+  "cache_create": 9524,
+  "api_ms": 20075,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "authors_or_issuer": "Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems, CCW (UN Geneva)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "BR",
+   "GB",
+   "US",
+   "CN",
+   "RU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "civil_liability",
+   "ethics_principles"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "GGE mandate continues to elaborate by consensus possible measures on normative and operational framework for LAWS",
+   "Proposals discussed: legally binding instrument, non-binding instrument, clarifying existing IHL, prohibit/regulate on IHL basis, or no new measures",
+   "Methods and means of warfare are not unlimited; UN Charter, IHL and ethical perspectives guide work",
+   "Internationally wrongful acts involving LAWS entail State responsibility; humans must comply with IHL",
+   "Recommends the GGE intensify consideration of proposals and continue its work"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "pub_month": 8,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Report of the 2022 CCW Group of Governmental Experts on lethal autonomous weapons systems. It records the mandate, organisation, participants and proposals discussed (binding, non-binding, IHL clarification, or no new measures), reaffirms IHL and State responsibility, and recommends continuing consensus-based work on possible measures.",
+  "title_clean": "Report of the 2022 session of the Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons",
+  "title_en": "Report of the 2022 session of the Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons",
+  "venue": "UN Convention on Certain Conventional Weapons (CCW/GGE.1/2022/2)"
+ }
+}

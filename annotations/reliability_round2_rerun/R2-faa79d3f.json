@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-faa79d3f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:06:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0263098,
+  "in": 2,
+  "out": 1731,
+  "cache_read": 11758,
+  "cache_create": 1955,
+  "api_ms": 8936,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "智能网联汽车 自动驾驶系统安全要求",
+  "title_en": "Intelligent and connected vehicle—Safety requirements for automated driving system",
+  "language": "zh",
+  "authors_or_issuer": "National Standards of the PRC (TC114/SC34, national standard catalogue page)",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "China national standards information platform",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "technical_standard_mandated",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "GB/T 44721-2024"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Catalogue page for Chinese national standard GB 44721-2026, safety requirements for automated driving systems in intelligent connected vehicles. It upgrades recommended standard GB/T 44721-2024 to a mandatory standard, effective 2027-07-01, and lists related standards on parking, driver assistance, data recording and testing.",
+  "key_provisions_or_claims": [
+   "GB 44721-2026 is a mandatory national standard replacing GB/T 44721-2024",
+   "Dated 2026-07-30; takes effect 2027-07-01",
+   "Covers safety requirements for automated driving systems in intelligent connected vehicles",
+   "Related standards listed: GB 44497-2024 data recording, GB 47955-2026 combined driver assistance",
+   "Under TC114/SC34 (road vehicle standardization)"
+  ],
+  "confidence": 0.75
+ }
+}

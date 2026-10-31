@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-cd1d856d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:28:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0560518,
+  "in": 2,
+  "out": 1722,
+  "cache_read": 11758,
+  "cache_create": 9413,
+  "api_ms": 8942,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院关于《扩大消费“十五五”规划》的批复",
+  "title_en": "State Council Reply on the 15th Five-Year Plan for Expanding Consumption",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "retail_hospitality",
+   "elder_care_social_care",
+   "healthcare",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "consumer_protection",
+   "labor_employment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "State Council reply approving China's 15th Five-Year Plan for Expanding Consumption, with the plan attached. It sets goals to 2030 across services, goods, digital and green consumption, and the consumption environment. AI and embodied elements are marginal: AI+consumption, smart robots as terminals, and pilots for connected-vehicle access and road use.",
+  "key_provisions_or_claims": [
+   "Approves the plan in principle and orders implementation by provinces and State Council departments",
+   "Targets retail sales of about 60 trillion yuan by 2030",
+   "Promotes 'AI+consumption' including smart robots and agent applications",
+   "Pilots admission and road access for intelligent connected vehicles",
+   "Calls for inclusive and prudent regulation of new consumption formats"
+  ],
+  "confidence": 0.85
+ }
+}

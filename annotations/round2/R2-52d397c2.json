@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-52d397c2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1287618,
+  "in": 2,
+  "out": 1951,
+  "cache_read": 11758,
+  "cache_create": 27018,
+  "api_ms": 10933,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Avis sur l'usage des technologies d'intelligence artificielle par les forces armées",
+  "title_en": "Opinion on the Use of Artificial Intelligence Technologies by the Armed Forces",
+  "language": "fr",
+  "authors_or_issuer": "Comité d'éthique de la défense (Ministère des Armées, France)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Ministère des Armées – Comité d'éthique de la défense",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "FR"
+  ],
+  "doc_type": "ethical_framework_or_principles",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "civil_liability",
+   "certification_conformity_assessment",
+   "transparency_explainability",
+   "cybersecurity",
+   "education_training",
+   "ethics_principles",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "human_oversight_requirement",
+   "education_training_programs",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "opposes",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Opinion of France's Defence Ethics Committee on military use of AI, setting out 9 principles and 12 recommendations. It stresses IHL compliance, legality reviews under Article 36 AP I, testing and qualification, data sovereignty, context-dependent human decision-making, training, and human responsibility. It notes the EU AI Act excludes military AI.",
+  "key_provisions_or_claims": [
+   "AI used in military operations is subject to the same legal regime as other means of warfare: IHL, the Constitution and French law.",
+   "Legality (Article 36 AP I) reviews should be adapted to AI and cover the whole lifecycle, especially identification, classification and firing functions.",
+   "AI systems must be tested, verified and validated for defined use cases and qualified in proportion to benefits and risks.",
+   "Human decision must be context-dependent and under command responsibility; the level of automation may vary; responsibility cannot be assigned to an AI system.",
+   "Military personnel need training to detect degraded AI and keep core skills; research must be free but accompanied by ethical reflection."
+  ],
+  "confidence": 0.85
+ }
+}

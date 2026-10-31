@@ -1,0 +1,115 @@
+{
+ "doc_id": "D0003",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:06:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.105959,
+  "in": 4,
+  "out": 4018,
+  "cache_read": 24400,
+  "cache_create": 16618,
+  "api_ms": 19360,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Projeto de Lei nº 391/2026 - Regulamenta a fabricação, comercialização, posse, uso e atualização de robôs humanoides",
+  "title_en": "Bill No. 391/2026 - Regulating the manufacture, sale, possession, use and updating of humanoid robots",
+  "language": "pt",
+  "authors_or_issuer": "Dep. Lincoln Portela (Câmara dos Deputados, Brazil)",
+  "issuer_type": "legislature",
+  "pub_year": 2026,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Câmara dos Deputados",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "criminal_liability",
+   "transparency_explainability",
+   "consumer_protection",
+   "children_vulnerable_groups",
+   "human_oversight_control",
+   "education_training",
+   "certification_conformity_assessment",
+   "cybersecurity"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "licensing_registration",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "human_oversight_requirement",
+   "liability_regime",
+   "incident_reporting",
+   "education_training_programs",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "Brazil Penal Code",
+   "Brazil Consumer Defense Code"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Brazilian bill (PL 391/2026) regulating manufacture, sale, possession, use and software updates of humanoid robots. It requires algorithmic transparency and auditability, emergency shutdown and immutable logs, bans transfers to minors and incapable persons, mandates buyer training, imposes civil and criminal liability, and amends the Penal and Consumer Codes.",
+  "key_provisions_or_claims": [
+   "Manufacturers must give authorities auditable functional programming; hidden functions and unsupervisable self-learning banned.",
+   "Mandatory emergency shutdown, redundant containment, immutable event logs and unique serial number linked to owner.",
+   "Sale or lending to minors, incapable or non-imputable persons prohibited.",
+   "Software updates require prior federal authorization; mandatory buyer ethics and technical training.",
+   "Owner strictly liable; manufacturer liable for defects; new Penal Code art. 132-A with 4–12 years' imprisonment."
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "doc_id": "D1407",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:44:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045637800000000006,
+  "in": 2,
+  "out": 1827,
+  "cache_read": 11758,
+  "cache_create": 6547,
+  "api_ms": 9402,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "Hernigou, P.; Lustig, S.; Caton, J.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "editorial_or_commentary",
+  "doi": "10.1007/s00264-023-05690-4",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "human_robot_interaction_social_effects",
+   "trust_acceptance",
+   "safety_physical_harm",
+   "other"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Robots today are executors of commands; future robots should become autonomous collaborating agents.",
+   "Orthopaedic robots are classified as passive, semi-active (haptic) and active systems.",
+   "AI and robotics should benefit patients rather than surgeons.",
+   "AI subfields (ML, ANN, computer vision, NLP) are surveyed for orthopaedic surgery.",
+   "Despite its title, the excerpt does not substantively analyse legal or moral status."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "surgical_medical_robots",
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2023,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Editorial introducing a special issue of International Orthopaedics on AI and robotics in orthopaedic surgery. It reviews robotic systems for knee, hip and spine surgery and AI subfields, and envisions robots as collaborating agents serving patients. Despite the title, the excerpt contains little on moral or legal status.",
+  "title_clean": "Artificial intelligence and robots like us (surgeons) for people like you (patients): toward a new human–robot-surgery shared experience. What is the moral and legal status of robots and surgeons in the operating room?",
+  "title_en": "Artificial intelligence and robots like us (surgeons) for people like you (patients): toward a new human–robot-surgery shared experience. What is the moral and legal status of robots and surgeons in the operating room?",
+  "venue": "International Orthopaedics"
+ }
+}

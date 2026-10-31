@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-2ab95ce6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.035299800000000006,
+  "in": 2,
+  "out": 1868,
+  "cache_read": 11758,
+  "cache_create": 3860,
+  "api_ms": 9975,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Advisory Circular (AC) No. 903-001 – Remotely Piloted Aircraft Systems Operational Risk Assessment",
+  "title_en": "Advisory Circular (AC) No. 903-001 – Remotely Piloted Aircraft Systems Operational Risk Assessment",
+  "language": "en",
+  "authors_or_issuer": "Transport Canada, Civil Aviation, Remotely Piloted Aircraft Systems Task Force",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Transport Canada",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "cybersecurity"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "audits_impact_assessment",
+   "licensing_registration",
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "JARUS SORA",
+   "Canadian Aviation Regulations Part IX"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Transport Canada advisory circular giving manufacturers and operators guidance on operational risk assessment for remotely piloted aircraft systems, based on JARUS SORA, supporting Special Flight Operations Certificate applications. Covers ground and air risk, SAIL determination, containment, detect-and-avoid, operational safety objectives and standard scenarios.",
+  "key_provisions_or_claims": [
+   "Applies to RPAS operations requiring a risk assessment for an SFOC under CARs Part IX Subpart 3",
+   "Based on JARUS SORA: ground risk, air risk, SAIL determination",
+   "Sets containment, detect-and-avoid and operational safety objectives",
+   "Excludes passenger-carrying, dangerous payloads, air-to-air collision risks and type-certified aircraft",
+   "Includes standard scenarios and reliability targets"
+  ],
+  "confidence": 0.85
+ }
+}

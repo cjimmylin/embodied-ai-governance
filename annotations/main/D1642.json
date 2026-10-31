@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1642",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:51:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0278498,
+  "in": 2,
+  "out": 1689,
+  "cache_read": 11758,
+  "cache_create": 2445,
+  "api_ms": 8830,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The use of robotic animals in dementia care: challenges and ethical dilemmas",
+  "title_en": "The use of robotic animals in dementia care: challenges and ethical dilemmas",
+  "language": "en",
+  "authors_or_issuer": "Chiberska, D",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2018,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": "10.7748/mhp.2018.e1342",
+  "venue": "Mental Health Practice",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "human_dignity_autonomy",
+   "children_vulnerable_groups"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Peer-reviewed nursing article on robotic pets in dementia care. It reviews evidence that robot therapy may benefit some people and discusses ethical dilemmas and challenges. It argues robots should enhance person-centred care rather than replace human contact, and that nurses should promote this therapy. Only the abstract is available.",
+  "key_provisions_or_claims": [
+   "Robot therapy may benefit some people with dementia",
+   "Robotic pets should enhance person-centred care, not replace human contact",
+   "Ethical dilemmas must be considered before deploying robotic pets",
+   "Nurses can play an important role in promoting this therapy",
+   "Increased use of such therapy is inevitable"
+  ],
+  "confidence": 0.8
+ }
+}

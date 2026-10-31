@@ -1,0 +1,109 @@
+{
+ "doc_id": "D0182",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:11:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.046293799999999996,
+  "in": 2,
+  "out": 1937,
+  "cache_read": 11758,
+  "cache_create": 6436,
+  "api_ms": 16238,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care",
+   "education",
+   "retail_hospitality",
+   "domestic_consumer"
+  ],
+  "authors_or_issuer": "Durmus Senyapar, H.N.; Bayindir, R.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": null,
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "social_companion_robots",
+   "care_assistive_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement",
+   "self_regulation_codes"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "trust_acceptance",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "human_robot_interaction_social_effects",
+   "human_oversight_control",
+   "human_dignity_autonomy"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "TR",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Public trust in humanoid robots depends on emotional, symbolic and cultural factors, not only technical performance.",
+   "Ethical principles like transparency and fairness are interpreted through local social contexts.",
+   "Introduces the Human–Robot Integration Ethics Matrix (HR-IEM) linking algorithmic objectives to social trust indicators.",
+   "Identifies overreliance on lab studies and lack of participatory, cross-cultural design.",
+   "Advocates adaptive ethics modules, participatory feedback and co-design."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "trust_acceptance",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2025,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "summary_en": "Qualitative interdisciplinary narrative review on public trust and ethical algorithm design in humanoid robots. Proposes the Human–Robot Integration Ethics Matrix (HR-IEM) linking ethical objectives to social trust indicators, and calls for adaptive, participatory, culturally sensitive ethics design for responsible societal integration.",
+  "title_clean": "Humanoid Robots, Public Trust, and Ethical Algorithm Design: A Multidisciplinary Framework for Societal Integration and Future Adoption",
+  "title_en": "Humanoid Robots, Public Trust, and Ethical Algorithm Design: A Multidisciplinary Framework for Societal Integration and Future Adoption",
+  "venue": "Journal of Computational Systems and Applications"
+ }
+}

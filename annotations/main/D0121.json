@@ -1,0 +1,112 @@
+{
+ "doc_id": "D0121",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:09:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0375538,
+  "in": 2,
+  "out": 1805,
+  "cache_read": 11758,
+  "cache_create": 4581,
+  "api_ms": 11551,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial Intelligence Policy",
+  "title_en": "Artificial Intelligence Policy",
+  "language": "en",
+  "authors_or_issuer": "Videgaray, L. (Sir Winston Scott Memorial Lecture, Central Bank of Barbados)",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Central Bank of Barbados, Sir Winston Scott Memorial Lecture",
+  "jurisdiction_country": "BB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BB",
+   "CN",
+   "EU",
+   "BR",
+   "US",
+   "IN"
+  ],
+  "doc_type": "other",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "labor_employment",
+   "cybersecurity",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "testing_sandboxes",
+   "education_training_programs",
+   "international_cooperation",
+   "audits_impact_assessment",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Lecture slides by Luis Videgaray at the Central Bank of Barbados surveying AI policy: tools, debates, national strategies, AI principles, and approaches in China, the EU, Brazil, the US and India. It offers nine preparedness recommendations for Barbados, including flexible policy, AI expertise, procurement, workforce reskilling and cybersecurity.",
+  "key_provisions_or_claims": [
+   "Adopt a proactive but flexible AI policy stance that preserves policy optionality.",
+   "Build AI expertise in government and develop an AI procurement framework.",
+   "Prepare for workforce disruption through reskilling and possible income transfers.",
+   "Enhance cross-border cooperation and act now on AI-enhanced cybersecurity threats.",
+   "Compares AI laws in the EU, Brazil, China, the US (SB 1047) and India."
+  ],
+  "confidence": 0.85
+ }
+}

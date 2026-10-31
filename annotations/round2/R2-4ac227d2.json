@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-4ac227d2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0765718,
+  "in": 2,
+  "out": 1836,
+  "cache_read": 11758,
+  "cache_create": 14258,
+  "api_ms": 9728,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Council Regulation (EU) 2026/271 of 29 January 2026 amending Regulation (EU) 2023/1529 concerning restrictive measures in view of Iran's military support to Russia's war of aggression against Ukraine and to armed groups and entities in the Middle East and the Red Sea region",
+  "title_en": "Council Regulation (EU) 2026/271 of 29 January 2026 amending Regulation (EU) 2023/1529 concerning restrictive measures in view of Iran's military support to Russia's war of aggression against Ukraine and to armed groups and entities in the Middle East and the Red Sea region",
+  "language": "en",
+  "authors_or_issuer": "Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "IR",
+   "RU",
+   "UA"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "other"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "licensing_registration",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Council Regulation amending the EU's Iran sanctions regulation by replacing Annex II, extending the export ban to Iran to further components used in developing and producing UAVs and missiles, including materials, machine tools, electronics, sensors, and UAV flight control, servomotors and launch equipment.",
+  "key_provisions_or_claims": [
+   "Replaces Annex II of Regulation (EU) 2023/1529 with an expanded list of controlled items",
+   "Prohibits export, sale, transfer or supply to Iran of components for UAV and missile production",
+   "Lists UAVs, UAV flight and remote control units, servomotors, launch and ground support equipment",
+   "Covers radio-frequency systems to take control of or jam drones",
+   "Enters into force the day after publication; directly applicable in all Member States"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "doc_id": "D1561",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:49:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.049217800000000006,
+  "in": 2,
+  "out": 1923,
+  "cache_read": 11758,
+  "cache_create": 7202,
+  "api_ms": 11627,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "logistics_transport",
+   "healthcare"
+  ],
+  "authors_or_issuer": "Gallese Nobile, C.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU",
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.21202/jdtl.2023.2",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "drones_uas",
+   "care_assistive_robots",
+   "collaborative_robots",
+   "domestic_household_robots",
+   "professional_service_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "liability_regime",
+   "risk_based_tiering",
+   "audits_impact_assessment",
+   "incident_reporting"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "safety_physical_harm",
+   "civil_liability",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "standards_interoperability",
+   "consumer_protection"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "supranational_regional",
+  "language": "ru",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "EU Machinery Regulation",
+   "EU Product Liability Directive",
+   "EU AI Liability Directive (proposal)"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "professional_service_robots",
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2023,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Journal article analysing EU regulation of smart robots and AI, focusing on the draft AI Act and Cyber Resilience Act. It argues their principles are insufficiently detailed, proposes amendments on lifelong-learning models' market access, and calls for longer mandatory update periods than five years for long-lived products such as vehicles.",
+  "key_provisions_or_claims": [
+   "AI Act and Cyber Resilience Act are a first step but insufficiently detailed.",
+   "Manufacturers should be responsible for finding vulnerabilities and updating systems even after products leave the market.",
+   "Legislators must define when lifelong-learning models may be placed on the market.",
+   "Five-year mandatory update period is inadequate for long-lived products such as vehicles.",
+   "Mandatory EU-wide cybersecurity certification is needed instead of voluntary schemes."
+  ],
+  "title_clean": "Регулирование умных роботов и искусственного интеллекта в Европейском союзе",
+  "title_en": "Regulating Smart Robots and Artificial Intelligence in the European Union",
+  "venue": "Journal of Digital Technologies and Law"
+ }
+}

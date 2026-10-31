@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1521",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:48:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045761800000000005,
+  "in": 2,
+  "out": 1719,
+  "cache_read": 11758,
+  "cache_create": 6848,
+  "api_ms": 11507,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Nickelsen, N.C.M.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "DK",
+   "SE"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": null,
+  "embodied_categories": [
+   "care_assistive_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "human_robot_interaction_social_effects",
+   "ethics_principles",
+   "trust_acceptance",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "DK",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Socio-technological imaginaries of roboticists and agencies shape implementation of feeding assistive robots.",
+   "Despite national dissemination strategies, recruiting suitable users is difficult.",
+   "Human-robot interaction requires engagement with the user's particular situation.",
+   "Multi-sited ethnography in Denmark and Sweden using actor-network theory."
+  ],
+  "language": "en",
+  "methodology": "empirical_qualitative",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "pub_month": 2,
+  "pub_year": 2018,
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "publication_stage": "unknown",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Working paper presented at Robophilosophy 2018 reporting a multi-sited ethnography in Denmark and Sweden on feeding assistive robots. It analyses how roboticists' and government agencies' socio-technological imaginaries shape implementation, and why recruiting users is hard. Argues human-robot interaction requires attention to users' particular situations.",
+  "title_clean": "Human - robot proximity: exploring ethical responsibility through democratic participation",
+  "title_en": "Human - robot proximity: exploring ethical responsibility through democratic participation",
+  "venue": "Robophilosophy 2018 (Aarhus University Pure)"
+ }
+}

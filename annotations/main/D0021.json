@@ -1,0 +1,110 @@
+{
+ "doc_id": "D0021",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:07:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0669978,
+  "in": 2,
+  "out": 1823,
+  "cache_read": 11758,
+  "cache_create": 11897,
+  "api_ms": 12229,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Marco normativo de la robótica en el Perú",
+  "title_en": "Regulatory framework of robotics in Peru",
+  "language": "es",
+  "authors_or_issuer": "Gob.pe (Presidencia del Consejo de Ministros, Peru)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "gob.pe",
+  "jurisdiction_country": "PE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "PE"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "industrial_policy_innovation",
+   "labor_employment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "funding_or_incentives",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "ISO 10218",
+   "ISO 13482",
+   "Peru Law 31814",
+   "Peru Law 31250",
+   "Peru Law 29783",
+   "Peru Decreto de Urgencia 006-2020",
+   "ISO 8373"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Peruvian government web page summarising the legal framework relevant to robotics: Law 31814 promoting AI and emerging technologies including robotics, the science and technology system law, occupational safety law, digital transformation decrees, and key ISO robot standards (8373, 10218, 13482).",
+  "key_provisions_or_claims": [
+   "Law 31814 promotes AI and emerging technologies including robotics; Secretariat of Digital Government supervises.",
+   "Law 29783 on occupational safety covers risk prevention for industrial robots.",
+   "Law 31250 promotes robotics R&D through the national science and technology system.",
+   "Digital transformation decrees (DU 006-2020, 007-2020) provide digital trust framework.",
+   "Lists ISO 8373, 10218-1/2:2025 and 13482 as key international robotics standards."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-d98523ec",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.053135800000000004,
+  "in": 2,
+  "out": 1802,
+  "cache_read": 11758,
+  "cache_create": 8484,
+  "api_ms": 9473,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Economic and Social Committee on Industrial changes in the health sector in the face of multiplying crises",
+  "title_en": "Opinion of the European Economic and Social Committee on Industrial changes in the health sector in the face of multiplying crises",
+  "language": "en",
+  "authors_or_issuer": "European Economic and Social Committee (CCMI)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (C series)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "labor_employment",
+   "privacy_data_protection",
+   "cybersecurity",
+   "ethics_principles",
+   "consumer_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "funding_or_incentives",
+   "international_cooperation",
+   "oversight_body_creation",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EESC opinion on industrial change in the EU health sector. It urges resilient, equitable health systems, a Critical Medicines Act, reduced pharmaceutical dependencies, stronger HERA, workforce measures and global health solidarity. AI and digital health get brief treatment, with periodic risk audits and data protection. Robotics is mentioned only in passing.",
+  "key_provisions_or_claims": [
+   "Calls for Critical Medicines Act and shifting API and medicines production back to the EU",
+   "Proposes a European Health Guarantee Act and an EU golden rule for health investment",
+   "Healthcare AI should undergo periodic risk assessment audits with monitoring and traceability",
+   "Calls for revising and strengthening HERA and for a European Health Solidarity Fund for Africa",
+   "Mandatory patient consent for use of health data and a shared secure digital health space"
+  ],
+  "confidence": 0.85
+ }
+}

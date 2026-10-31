@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-771e88b4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0258918,
+  "in": 2,
+  "out": 1790,
+  "cache_read": 11758,
+  "cache_create": 1703,
+  "api_ms": 12023,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "MGN 664 (M+F) Amendment 1: Certification process for vessels using innovative technology",
+  "title_en": "MGN 664 (M+F) Amendment 1: Certification process for vessels using innovative technology",
+  "language": "en",
+  "authors_or_issuer": "Maritime and Coastguard Agency (UK)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2023,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_maritime_or_rail"
+  ],
+  "primary_embodied_category": "autonomous_maritime_or_rail",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "risk_based_tiering",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "IMO MSC.1/Circ.1455",
+   "MSN 1837",
+   "MGN 681",
+   "MGN 550"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UK Maritime and Coastguard Agency notice giving updated guidance on processing certification applications for UK vessels, or vessels in UK waters, that use innovative technology or a risk-based approach. It replaces MGN 664 and is read with MSC Circ. 1455, MSN 1837, MGN 681 and MGN 550.",
+  "key_provisions_or_claims": [
+   "Sets the certification process for vessels using innovative technology or a risk-based approach",
+   "Applies to UK vessels anywhere and other vessels in UK waters",
+   "Replaces MGN 664",
+   "To be read with MSC Circ. 1455, MSN 1837, MGN 681 and MGN 550",
+   "Addressed to port authorities, shipyards, owners, designers, surveyors and Recognised Organisations"
+  ],
+  "confidence": 0.6
+ }
+}

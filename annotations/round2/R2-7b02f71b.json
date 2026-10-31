@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-7b02f71b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:41:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029989800000000004,
+  "in": 2,
+  "out": 1783,
+  "cache_read": 11758,
+  "cache_create": 2745,
+  "api_ms": 8703,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "机器人与机器人装备 工业机器人的安全要求 第2部分：机器人系统与集成 (GB 11291.2-2013)",
+  "title_en": "Robots and robotic devices – Safety requirements for industrial robots – Part 2: Robot systems and integration (GB 11291.2-2013)",
+  "language": "zh",
+  "authors_or_issuer": "全国标准信息公共服务平台 (国家标准化管理委员会 / 国家市场监督管理总局); 工业和信息化部 (TC 339)",
+  "issuer_type": "standards_body",
+  "pub_year": 2013,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "technical_standard_mandated",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 10218"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Catalogue page for China's mandatory national standard GB 11291.2-2013 on safety requirements for industrial robot systems and integration, identical to ISO 10218-2:2011. Published 2013, effective 2014, reviewed 2026 with a revision under drafting; shows only metadata and related robot standards.",
+  "key_provisions_or_claims": [
+   "GB 11291.2-2013 is a mandatory national standard, currently in force from 2014-11-01",
+   "Equivalent adoption of ISO 10218-2:2011",
+   "Replaces GB 11291-1997",
+   "Last review on 2026-04-28 concluded revision; plan 20262543-Q-339 is being drafted",
+   "Related standards cover collaborative robots, personal assistant robots, humanoid and exoskeleton safety"
+  ],
+  "confidence": 0.9
+ }
+}

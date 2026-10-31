@@ -1,0 +1,94 @@
+{
+ "doc_id": "D1390",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:44:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0295198,
+  "in": 2,
+  "out": 1730,
+  "cache_read": 11758,
+  "cache_create": 2760,
+  "api_ms": 13272,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "A Small Set of Ethical Challenges for Elder-Care Robots",
+  "title_en": "A Small Set of Ethical Challenges for Elder-Care Robots",
+  "language": "en",
+  "authors_or_issuer": "Ramanayake, R.; Nallur, V.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.3233/FAIA220605",
+  "venue": "Frontiers in Artificial Intelligence and Applications, Vol. 366 (Robophilosophy 2022), IOS Press",
+  "jurisdiction_country": "IE",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "standards_interoperability",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Robophilosophy 2022 paper noting that commercial elder-care robots show no evidence of ethical reasoning, likely due to lack of agreed standards. It proposes a small set of ethical 'whetstones' (challenge scenarios) to help develop ethically sensitive elder-care robots and understand their behaviour before deployment in care organisations. Only abstract available.",
+  "key_provisions_or_claims": [
+   "Commercial elder-care robots show no evidence of ethical reasoning.",
+   "Lack of agreed-upon standards is the likely cause.",
+   "Proposes a set of ethical 'whetstones' as benchmark challenges.",
+   "Aims to help understand robot behaviour before deployment in elder-care organisations."
+  ],
+  "confidence": 0.8
+ }
+}

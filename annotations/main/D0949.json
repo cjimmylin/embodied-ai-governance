@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0949",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:32:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0905996,
+  "in": 4,
+  "out": 3335,
+  "cache_read": 35841,
+  "cache_create": 14068,
+  "api_ms": 22810,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Partnership for Global Inclusivity on AI (PGIAI)",
+  "title_en": "Partnership for Global Inclusivity on AI (PGIAI)",
+  "language": "en",
+  "authors_or_issuer": "U.S. Department of State",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "state.gov",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "education"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "ethics_principles",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "U.S. State Department web page describing the Partnership for Global Inclusivity on AI, a public-private initiative with major AI firms committing over $100 million to expand local datasets, compute access and capacity for AI-enabled sustainable development in developing countries, plus State Department funding for responsible AI programs.",
+  "key_provisions_or_claims": [
+   "Partnership of State Department and nine AI companies commits over $100 million",
+   "Focus areas: context (local datasets), compute, capacity",
+   "State intends $10M foreign assistance to close AI access gap",
+   "Further $23M for responsible AI governance and SDG programs",
+   "$1.2M for AI policy framework in OAS member states"
+  ],
+  "confidence": 0.8
+ }
+}

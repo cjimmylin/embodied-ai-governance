@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1629",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:51:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0649266,
+  "in": 4,
+  "out": 3452,
+  "cache_read": 29561,
+  "cache_create": 7350,
+  "api_ms": 27570,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Ethical Significance of Human Likeness in Robotics and AI",
+  "title_en": "The Ethical Significance of Human Likeness in Robotics and AI",
+  "language": "en",
+  "authors_or_issuer": "Remmers, P.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2019,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.14746/eip.2019.2.6",
+  "venue": "Ethics in Progress",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "social_companion_robots",
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "human_dignity_autonomy",
+   "transparency_explainability",
+   "trust_acceptance"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Philosophical article on human likeness in AI and robotics. It argues that strong-AI debates, the Turing Test and the ambiguity of 'autonomy' raise no serious ethical issues, but that deliberate anthropomorphic design in human-machine interaction is ethically significant because artefacts are designed to be treated like humans.",
+  "key_provisions_or_claims": [
+   "Strong AI debates are largely irrelevant to actual AI and robotics research practice.",
+   "Technological and personal autonomy are ambiguous terms that cause unintentional anthropomorphism.",
+   "Theoretical human likeness raises no serious ethical issues.",
+   "Intentional anthropomorphic design in human-machine interaction is ethically significant.",
+   "Ethical issues concern concrete artefacts and technology design."
+  ],
+  "confidence": 0.85
+ }
+}

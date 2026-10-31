@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-65b3bb76",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:01:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08802,
+  "in": 2,
+  "out": 1958,
+  "cache_read": 0,
+  "cache_create": 17109,
+  "api_ms": 10369,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Ministry of Transport, Singapore (Second Minister for Transport Ng Chee Meng)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "SG"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "parliamentary_material",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "licensing_registration",
+   "technical_standards_reference",
+   "incident_reporting",
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "criminal_liability",
+   "industrial_policy_innovation",
+   "labor_employment",
+   "standards_interoperability",
+   "consumer_protection"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Clause 6 lets the Minister make rules regulating AV trials and use on public roads, covering SAE J3016 levels 3-5.",
+   "Rules may set time and space limits, equipment design standards and data-sharing requirements for trials.",
+   "Rules may exempt AVs and their operators from, or modify, provisions that assume a human driver.",
+   "The AV regulatory sandbox is limited to five years, after which permanent legislation or an extension will be considered.",
+   "Private hire car drivers will need vocational licences, and booking operators such as Uber and Grab take on enforcement duties and face suspension orders."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "SAE J3016",
+   "Singapore Road Traffic Act"
+  ],
+  "pub_month": 2,
+  "pub_year": 2017,
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Opening speech at the Second Reading of Singapore's Road Traffic (Amendment) Bill 2017. It sets out a light-touch, balanced approach: a five-year regulatory sandbox letting the Minister make rules for autonomous vehicle trials (SAE levels 3-5), plus stricter private hire car licensing, operator duties and higher penalties.",
+  "methodology": "not_applicable",
+  "title_clean": "Opening Speech by Second Minister for Transport Ng Chee Meng for the Road Traffic (Amendment) Bill Second Reading",
+  "title_en": "Opening Speech by Second Minister for Transport Ng Chee Meng for the Road Traffic (Amendment) Bill Second Reading",
+  "venue": "Ministry of Transport Singapore"
+ }
+}

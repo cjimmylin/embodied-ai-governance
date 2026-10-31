@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-c86c6e8e",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:03:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2855556,
+  "in": 2,
+  "out": 2169,
+  "cache_read": 11758,
+  "cache_create": 29977,
+  "api_ms": 15573,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Directive of the European Parliament and of the Council on the type-approval of motor vehicles with regard to their re-usability, recyclability and recoverability and amending Council Directive 70/156/EEC",
+  "title_en": "Proposal for a Directive of the European Parliament and of the Council on the type-approval of motor vehicles with regard to their re-usability, recyclability and recoverability and amending Council Directive 70/156/EEC",
+  "language": "en",
+  "authors_or_issuer": "Commission of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2004,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2004) 162 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "manufacturing",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "standards_interoperability"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "prohibitions_bans",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "Directive 70/156/EEC",
+   "Directive 2000/53/EC on end-of-life vehicles",
+   "ISO 22628:2002",
+   "Commission Decision 2003/138/EC",
+   "Council Decision 93/465/EEC"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission 2004 proposal for a directive bringing re-usability, recyclability and recoverability requirements for passenger cars and light trucks into EC vehicle type-approval. It requires 85%/95% minimum rates calculated under ISO 22628, a preliminary assessment of the manufacturer, and a ban on reusing safety-critical parts. The proposal has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "M1 and N1 vehicles must be at least 85% re-usable/recyclable and 95% re-usable/recoverable by mass",
+   "Calculations follow ISO 22628:2002 using reference vehicles",
+   "A competent authority must assess the manufacturer and issue a Certificate of Compliance before type-approval",
+   "Airbags, seat belts, steering locks, immobilisers, catalytic converters and silencers must not be reused in new vehicles",
+   "Special purpose, multi-stage and small-series vehicles are exempt"
+  ],
+  "confidence": 0.9
+ }
+}

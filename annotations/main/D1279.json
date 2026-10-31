@@ -1,0 +1,109 @@
+{
+ "doc_id": "D1279",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:41:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.040001800000000004,
+  "in": 2,
+  "out": 1781,
+  "cache_read": 11758,
+  "cache_create": 5253,
+  "api_ms": 10755,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Human–robot interaction: What changes in the workplace?",
+  "title_en": "Human–robot interaction: What changes in the workplace?",
+  "language": "en",
+  "authors_or_issuer": "Eurofound",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Eurofound / Publications Office of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "collaborative_robots",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "safety_physical_harm",
+   "human_robot_interaction_social_effects",
+   "education_training",
+   "ethics_principles",
+   "civil_liability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs",
+   "funding_or_incentives",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Regulation",
+   "EU Product Liability Directive",
+   "EU AI Liability Directive (proposal)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "mixed",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Eurofound report using survey data and case studies on how advanced, AI-enabled robots change work organisation and working conditions in EU workplaces. It argues for human-centric design, worker involvement, attention to psychosocial risks, and training, in the context of the Machinery Regulation and OSH rules.",
+  "key_provisions_or_claims": [
+   "Robots are not causing widespread job losses; job profiles change more than job numbers.",
+   "Establishments focus on physical safety and overlook psychosocial risks of human–robot interaction.",
+   "Negative outcomes stem from organisational and management choices rather than the technology itself.",
+   "Policy should promote human-centric design, incentives, and ethical design guidelines.",
+   "Social partners and training on digital skills and OSH implementation are essential."
+  ],
+  "confidence": 0.85
+ }
+}

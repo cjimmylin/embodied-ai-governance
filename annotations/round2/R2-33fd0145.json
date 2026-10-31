@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-33fd0145",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:57:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0926094,
+  "in": 4,
+  "out": 4015,
+  "cache_read": 34494,
+  "cache_create": 13014,
+  "api_ms": 21882,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_proposal_or_draft",
+  "doc_type": "bill_or_draft_law",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "international_cooperation",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "safety_physical_harm",
+   "cybersecurity"
+  ],
+  "instrument_status": "draft_or_bill_under_consideration",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "EU position at ICAO Council 222nd session: support RPAS amendments to Annexes 1, 2, 8, 10 in their entirety",
+   "After adoption, notify compliance and not disapproval; notify differences if EU law deviates after 28 November 2024",
+   "Amendments cover RPA/remotely piloted helicopter airworthiness, remote pilot stations and C2 Link",
+   "Amendments will shape EU Regulations 748/2012, 1321/2014, 1178/2011, 965/2012, 2017/373",
+   "Legal basis Article 100(2) with Article 218(9) TFEU"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Chicago Convention",
+   "Commission Regulation (EU) 748/2012",
+   "Commission Regulation (EU) 1321/2014",
+   "Commission Regulation (EU) 1178/2011",
+   "Commission Regulation (EU) 965/2012",
+   "Commission Implementing Regulation (EU) 2017/373"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 2,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "European Commission proposal for a Council Decision setting the EU position at the ICAO Council on amendments to Chicago Convention Annexes 1, 2, 8 and 10 on remotely piloted aircraft systems (airworthiness certification, remote pilot stations, C2 Link). The EU would support the amendments entirely and notify compliance.",
+  "title_clean": "Proposal for a Council Decision on the position to be taken on behalf of the European Union in the 222nd session of the Council of ICAO as regards the envisaged adoption of Amendments to Annexes 1, 2, 8 and 10 (RPAS)",
+  "title_en": "Proposal for a Council Decision on the position to be taken on behalf of the European Union in the 222nd session of the Council of ICAO as regards the envisaged adoption of Amendments to Annexes 1, 2, 8 and 10 (RPAS)",
+  "venue": "EUR-Lex"
+ }
+}

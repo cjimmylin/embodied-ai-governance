@@ -1,0 +1,107 @@
+{
+ "doc_id": "D1098",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:02:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.03549580000000001,
+  "in": 2,
+  "out": 1850,
+  "cache_read": 11758,
+  "cache_create": 3954,
+  "api_ms": 13373,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Künstliche Intelligenz: EU-Kommission lässt Vorschläge zu ethischen Leitlinien in der Praxis testen",
+  "title_en": "Artificial Intelligence: EU Commission to test proposed ethics guidelines in practice",
+  "language": "de",
+  "authors_or_issuer": "Europäische Kommission, Vertretung in Deutschland",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2019,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Commission Representation in Germany",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "JP",
+   "CA",
+   "SG"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "trust_acceptance",
+   "human_oversight_control",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "sustainability_environment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 2,
+   "trust": 2,
+   "sustainability": 2,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "international_cooperation",
+   "testing_sandboxes",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission press release (8 April 2019) presenting the High-Level Expert Group's Ethics Guidelines for Trustworthy AI with seven requirements, announcing a summer 2019 pilot phase and efforts toward international consensus on human-centric AI. General AI ethics, no robotics-specific content.",
+  "key_provisions_or_claims": [
+   "Seven requirements for trustworthy AI: human agency and oversight, robustness and safety, privacy and data governance, transparency, diversity and fairness, societal and environmental well-being, accountability",
+   "Three-step approach: set requirements, large-scale pilot, build international consensus",
+   "Pilot phase with stakeholders launches in summer 2019",
+   "Cooperation with Japan, Canada, Singapore, G7 and G20 on human-centric AI",
+   "Part of the April 2018 EU AI strategy targeting at least EUR 20 billion annual investment"
+  ],
+  "confidence": 0.9
+ }
+}

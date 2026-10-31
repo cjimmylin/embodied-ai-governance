@@ -1,0 +1,10 @@
+**S10_collector_crosscheck. Cross-checks of annotations against the collectors' own labels**
+
+| check                                                                                                                                  |    n |   agreement |   kappa |
+|:---------------------------------------------------------------------------------------------------------------------------------------|-----:|------------:|--------:|
+| Europe collector 'Robot focus' (Robotics/Humanoid/Embodied vs General AI) vs annotated ai_scope (embodied incl. provisions vs general) |  684 |       0.817 |   0.612 |
+| Europe collector 'Robot focus' vs annotated embodiment_status (physical/mixed vs none/software)                                        |  684 |       0.823 |   0.628 |
+| Europe collector 'Type' vs annotated issuer_type (4 collapsed classes)                                                                 |  646 |       0.967 |   0.949 |
+| Collector 2-letter country vs annotated jurisdiction_country (research papers, first-author country)                                   | 1594 |       0.977 |         |
+| Collector set (sprint=robotics vs database=general AI) vs annotated relevance>=2                                                       | 3295 |       0.633 |   0.215 |
+| Collector tier Core vs annotated is_governance_document                                                                                | 1250 |       0.777 |   0.32  |

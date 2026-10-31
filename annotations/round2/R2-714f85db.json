@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-714f85db",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:28:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.056473800000000005,
+  "in": 2,
+  "out": 1719,
+  "cache_read": 11758,
+  "cache_create": 9526,
+  "api_ms": 8924,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院关于印发《实施就业优先战略“十五五”规划》的通知",
+  "title_en": "State Council Notice on Issuing the 15th Five-Year Plan for Implementing the Employment-First Strategy",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中国政府网 (State Council)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "education_training",
+   "industrial_policy_innovation",
+   "fairness_bias_discrimination",
+   "transparency_explainability"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "audits_impact_assessment",
+   "incident_reporting",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "China's State Council issues the 15th Five-Year Plan for the employment-first strategy (June 2026). It covers employment targets, skills training, youth and key groups, platform workers' rights, and labour protection. AI appears briefly: the \"AI+\" initiative, human-machine collaboration, and an early-warning system for AI-related employment risks.",
+  "key_provisions_or_claims": [
+   "Implement 'AI+' action to create jobs and explore human-machine collaborative work forms",
+   "Build an early-warning and response system for AI application employment risks",
+   "Assess employment impact of major policies and projects",
+   "Require platforms to standardize algorithms and ensure workers' rights to know, participate and choose",
+   "Large-scale vocational skills training and an occupational injury protection system"
+  ],
+  "confidence": 0.9
+ }
+}

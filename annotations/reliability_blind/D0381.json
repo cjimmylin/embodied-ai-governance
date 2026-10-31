@@ -1,0 +1,107 @@
+{
+ "doc_id": "D0381",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:38:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.047557800000000004,
+  "in": 2,
+  "out": 1971,
+  "cache_read": 11758,
+  "cache_create": 6667,
+  "api_ms": 12138,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Sang, M.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "KE",
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "transparency_disclosure_labelling",
+   "international_cooperation",
+   "audits_impact_assessment",
+   "self_regulation_codes"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "KE",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "The bill's merits include creating a professional association and defining its advisory and standard-setting functions.",
+   "Demerits: limited regulatory scope, no guiding principles, weak enforcement powers, no AI inventory or disclosure.",
+   "Recommends adding clear regulatory guiding principles to the bill.",
+   "Recommends stronger enforcement mechanisms and mandatory AI system inventory and disclosure.",
+   "Recommends mandatory inter-agency collaboration."
+  ],
+  "language": "en",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [
+   "GDPR",
+   "US Executive Order 14110",
+   "Kenya Robotics and Artificial Intelligence Association Bill 2023"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2024,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Journal article appraising Kenya's proposed Robotics and Artificial Intelligence Association Bill, 2023. It reviews the difficulty of regulating AI and robotics and global trends, then weighs the bill's merits (a professional body) against its demerits (narrow scope, no guiding principles, weak enforcement). It proposes amendments on principles, enforcement, AI inventory and disclosure, and inter-agency collaboration.",
+  "title_clean": "The Proposed Regulation of Artificial Intelligence and Robotics in Kenya: An Appraisal of the Kenya Robotics and Artificial Intelligence Association Bill, 2023",
+  "title_en": "The Proposed Regulation of Artificial Intelligence and Robotics in Kenya: An Appraisal of the Kenya Robotics and Artificial Intelligence Association Bill, 2023",
+  "venue": "Journal of Cultural Studies, Management and Development (Journalofcmsd) 11(3)"
+ }
+}

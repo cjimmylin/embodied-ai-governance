@@ -1,0 +1,118 @@
+{
+ "doc_id": "R2-5e9a881e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2217026,
+  "in": 4,
+  "out": 3987,
+  "cache_read": 66046,
+  "cache_create": 44570,
+  "api_ms": 34794,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Gouvernement du Grand-Duché de Luxembourg (Ministère de la Mobilité et des Travaux publics)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "LU",
+   "EU"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_proposal_or_draft",
+  "doc_type": "bill_or_draft_law",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "liability_regime",
+   "insurance_requirement",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "prohibitions_bans"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "criminal_liability",
+   "civil_liability",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "education_training",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "draft_or_bill_under_consideration",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "LU",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Defines L3 conditionally and L4 highly automated road vehicles and requires national declaration of circulation in addition to EU type approval and registration",
+   "Mandatory continuous remote management by a ministerially approved (5-year agrément) remote manager with trained remote operators and insurance",
+   "Manufacturer duties: safety equivalent to a prudent human driver, software updates, cybersecurity, incident reporting, data recorders, user information",
+   "Criminal liability allocated among driver, remote operator and manufacturer; civil liability left to common law and product liability law",
+   "Authorisation for automated transport services and automated parking facilities; data transmission to authorities and technical accident investigation"
+  ],
+  "language": "fr",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Luxembourg draft law on automated-driving road vehicles (SAE L3 and L4+), with commentary. It sets type-approval plus a national circulation declaration, manufacturer duties, licensed remote managers and operators, authorisation of automated transport services and parking, data recording, and allocation of criminal liability. Civil liability stays under common law.",
+  "title_clean": "Projet de loi relative aux véhicules routiers à conduite automatisée",
+  "title_en": "Draft law on automated-driving road vehicles",
+  "venue": "Chambre des Députés du Grand-Duché de Luxembourg"
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-e8c05124",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:37:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0240438,
+  "in": 2,
+  "out": 1640,
+  "cache_read": 11758,
+  "cache_create": 1616,
+  "api_ms": 10596,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Radiocommunications (Named Person – DroneShield Group Pty Ltd) Instrument 2023",
+  "title_en": "Radiocommunications (Named Person – DroneShield Group Pty Ltd) Instrument 2023",
+  "language": "en",
+  "authors_or_issuer": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts (Australia)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Register of Legislation (Australia)",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Australian notifiable instrument under the Radiocommunications (Exemption) Determination 2021 naming DroneShield Group Pty Ltd as a person covered by an exemption. Only the register metadata is shown. It likely concerns radiofrequency use for counter-drone devices, but the text does not say so.",
+  "key_provisions_or_claims": [
+   "Names DroneShield Group Pty Ltd under the Radiocommunications (Exemption) Determination 2021",
+   "Registered as F2023N00598 on 11 December 2023",
+   "Classified as a notifiable instrument",
+   "Substantive terms of the exemption are not shown in the excerpt"
+  ],
+  "confidence": 0.5
+ }
+}

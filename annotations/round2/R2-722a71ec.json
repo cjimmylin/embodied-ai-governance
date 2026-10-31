@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-722a71ec",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:57:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07388940000000001,
+  "in": 4,
+  "out": 3644,
+  "cache_read": 30894,
+  "cache_create": 9314,
+  "api_ms": 19735,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "UK Secretary of State for Health (published by King's Printer of Acts of Parliament)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "technical_standards_reference",
+   "incident_reporting"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "consumer_protection"
+  ],
+  "instrument_status": "superseded_or_repealed",
+  "is_governance_document": true,
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Amends the Medical Devices Regulations 2002 to implement Directive 2007/47/EC, in force 21 March 2010.",
+   "Extends the medical device definition to include software intended for diagnosis or therapy.",
+   "Devices that are also machinery must meet the Machinery Directive 2006/42/EC essential requirements where more specific.",
+   "Requires notification of the end of clinical investigations and a single authorised representative for manufacturers outside the EU.",
+   "Adds information duties on custom-made devices to patients."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "Medical Devices Regulations 2002",
+   "Directive 2007/47/EC",
+   "Machinery Directive 2006/42/EC",
+   "Consumer Protection Act 1987"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 11,
+  "pub_year": 2008,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "UK statutory instrument (SI 2008/2936) amending the Medical Devices Regulations 2002 to implement EU Directive 2007/47/EC. It broadens the medical device definition to cover software, aligns devices that are also machinery with Machinery Directive requirements, and adds clinical investigation notification and authorised representative rules.",
+  "title_clean": "The Medical Devices (Amendment) Regulations 2008",
+  "title_en": "The Medical Devices (Amendment) Regulations 2008",
+  "venue": "legislation.gov.uk",
+  "issuer_type": "national_government_executive",
+  "methodology": "not_applicable"
+ }
+}

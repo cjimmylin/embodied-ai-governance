@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-ac54e952",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:10:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1123516,
+  "in": 2,
+  "out": 2062,
+  "cache_read": 11758,
+  "cache_create": 8594,
+  "api_ms": 14664,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Implementing International Humanitarian Law in the Use of Autonomy in Weapon Systems",
+  "title_en": "Implementing International Humanitarian Law in the Use of Autonomy in Weapon Systems",
+  "language": "en",
+  "authors_or_issuer": "United States of America (submission to CCW Group of Governmental Experts on LAWS)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN CCW Group of Governmental Experts on LAWS, CCW/GGE.1/2019/WP.5",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "criminal_liability",
+   "education_training"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "education_training_programs",
+   "incident_reporting",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE",
+   "US DoD Directive 3000.09",
+   "DoD Law of War Manual",
+   "CCW Protocol V on Explosive Remnants of War",
+   "CCW Amended Protocol II"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "US working paper to the 2019 CCW GGE on lethal autonomous weapons systems. It argues that existing international humanitarian law (distinction, proportionality, precaution) already provides a comprehensive framework for autonomy in weapons. Its main points are that legal weapons reviews, testing and doctrine are key ways of applying IHL, and that autonomous functions can strengthen compliance.",
+  "key_provisions_or_claims": [
+   "Existing IHL provides a comprehensive framework to govern autonomy in weapon systems",
+   "IHL duties fall on combatants and commands, not machines",
+   "Rigorous testing, doctrine/training/procedures and legal weapons reviews are essential to IHL compliance",
+   "Three scenarios of autonomous function use analysed for distinction, proportionality, precaution",
+   "LAWS technologies could reduce civilian casualties, log operations for accountability, flag incidents and track unexploded ordnance"
+  ],
+  "confidence": 0.88
+ }
+}

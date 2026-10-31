@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-801cf186",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.025901800000000003,
+  "in": 2,
+  "out": 1747,
+  "cache_read": 11758,
+  "cache_create": 1813,
+  "api_ms": 11458,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Physiologic Closed-Loop Control Devices - Premarket Submission Guidance (Docket FDA-2021-D-0996)",
+  "title_en": "Physiologic Closed-Loop Control Devices - Premarket Submission Guidance (Docket FDA-2021-D-0996)",
+  "language": "en",
+  "authors_or_issuer": "U.S. Food and Drug Administration, Center for Devices and Radiological Health",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "FDA",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "human_oversight_control"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "FDA CDRH guidance page (docket FDA-2021-D-0996) giving recommendations on design, non-clinical testing, animal studies and labeling for premarket submissions of medical devices with physiologic closed-loop control technology, aiming to promote consistent and efficient review.",
+  "key_provisions_or_claims": [
+   "Recommends design considerations for devices with physiologic closed-loop control",
+   "Covers non-clinical testing and animal studies for premarket submissions",
+   "Addresses labeling expectations",
+   "Design and testing depend on level of automation, user and patient population, sensor and control algorithm",
+   "Comments accepted at any time under 21 CFR 10.115(g)(5)"
+  ],
+  "confidence": 0.6
+ }
+}

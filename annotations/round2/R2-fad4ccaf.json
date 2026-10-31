@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-fad4ccaf",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:39:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.31594170000000005,
+  "in": 4,
+  "out": 3601,
+  "cache_read": 90072,
+  "cache_create": 68433,
+  "api_ms": 18986,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Ministry of Transport (運輸省), Japan; revision by Ministry of Land, Infrastructure, Transport and Tourism",
+  "binding_nature": "legally_binding",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Defines specified maintenance to include electronic control device maintenance covering driving-assistance sensors and computers.",
+   "Maintenance or modification affecting an automated driving system counts as specified maintenance requiring certified workshops.",
+   "Article 31-2-2 sets the application procedure for conditions attached to automated driving system approval, tied to Safety Standards Article 48.",
+   "Covers vehicle registration, plates, inspection certificates, and inspection procedures.",
+   "Records on the inspection certificate special-specification vehicles used in National Strategic Special Zone technology demonstrations."
+  ],
+  "language": "ja",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 1951,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Enforcement Regulation of Japan's Road Vehicles Act (Ministerial Ordinance, 1951, as amended through the 20 Oct 2026 revision). It governs vehicle registration, plates, inspection, and maintenance. It contains provisions on automated driving systems, including conditions for approval and maintenance of driving-assistance sensors.",
+  "title_clean": "道路運送車両法施行規則",
+  "title_en": "Enforcement Regulation of the Road Vehicles Act",
+  "venue": "e-Gov Japanese Law Database"
+ }
+}

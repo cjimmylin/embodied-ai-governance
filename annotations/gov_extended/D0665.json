@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0665",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:43:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0382998,
+  "in": 2,
+  "out": 1724,
+  "cache_read": 11758,
+  "cache_create": 4970,
+  "api_ms": 11641,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Cyber Security Agency of Singapore",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "SG"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "self_regulation_codes"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Frontier AI can cut vulnerability discovery and exploit time from months to hours, and threat actors could misuse this.",
+   "Organisations should patch critical and high vulnerabilities on internet-facing systems and enforce MFA.",
+   "Use network segmentation, defence-in-depth, zero trust and least-privilege access.",
+   "Shorten patch cycles and monitor attack paths with anomaly detection.",
+   "Use AI-powered vulnerability detection and keep complete asset inventories."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Singapore Cyber Security Agency advisory (15 April 2026) on cybersecurity risks from frontier AI models that speed up vulnerability discovery and exploitation. It recommends organisations patch quickly, use MFA, segment networks, apply least privilege and zero trust, monitor attack paths, and adopt AI-assisted vulnerability detection.",
+  "title_clean": "Advisory on Risks associated with Frontier AI Models",
+  "title_en": "Advisory on Risks associated with Frontier AI Models",
+  "venue": "Cyber Security Agency of Singapore (csa.gov.sg)",
+  "methodology": "not_applicable"
+ }
+}

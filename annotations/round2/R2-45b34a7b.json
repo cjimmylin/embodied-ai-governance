@@ -1,0 +1,92 @@
+{
+ "doc_id": "R2-45b34a7b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026091800000000005,
+  "in": 2,
+  "out": 1628,
+  "cache_read": 11758,
+  "cache_create": 2158,
+  "api_ms": 8646,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "European Parliament legislative resolution of 29 April 2021 on the Council position at first reading with a view to the adoption of a regulation establishing the Digital Europe Programme",
+  "title_en": "European Parliament legislative resolution of 29 April 2021 on the Council position at first reading with a view to the adoption of a regulation establishing the Digital Europe Programme",
+  "language": "en",
+  "authors_or_issuer": "European Parliament",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, C 506/244",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Parliament second-reading legislative resolution approving the Council's first-reading position on the regulation establishing the Digital Europe Programme and repealing Decision (EU) 2015/2240. It is purely procedural and contains no substantive provisions on AI or robotics.",
+  "key_provisions_or_claims": [
+   "Approves the Council position at first reading",
+   "Notes the act is adopted in accordance with the Council position",
+   "Instructs the President to sign the act with the Council",
+   "Instructs forwarding of position to Council, Commission and national parliaments"
+  ],
+  "confidence": 0.85
+ }
+}

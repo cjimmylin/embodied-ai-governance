@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-729e9963",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:58:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.043431800000000007,
+  "in": 2,
+  "out": 1850,
+  "cache_read": 11758,
+  "cache_create": 5938,
+  "api_ms": 10783,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Autonomy Aspect of Lethal Autonomous Weapon",
+  "title_en": "The Autonomy Aspect of Lethal Autonomous Weapon",
+  "language": "en",
+  "authors_or_issuer": "United States (submission to CCW Group of Governmental Experts on LAWS)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN CCW Group of Governmental Experts on LAWS, CCW/GGE.1/2025/WP.6",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "proposal_or_concept",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE",
+   "CCW Amended Protocol II",
+   "Draft articles on autonomous weapon systems (CCW/GGE.1/2024/WP.10)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "US working paper to the CCW Group of Governmental Experts proposing how to characterize autonomy in lethal autonomous weapon systems: a capability defined by functions performed without operator intervention after activation, technology-neutral, and usable consistently with IHL in three methods of use, with examples such as loitering munitions and air defence.",
+  "key_provisions_or_claims": [
+   "Autonomy is a capability of the weapon system, so LAWS fall under existing IHL weapon classifications.",
+   "Characterize autonomy by functions performed, not specific technologies like machine learning.",
+   "A function is autonomous if performed without operator intervention in initiation and execution.",
+   "LAWS identify, select and engage targets without further operator intervention after activation.",
+   "Reliance on autonomous functions must be in good faith and consistent with distinction, proportionality and precautions."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "doc_id": "D0764",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:29:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030019800000000003,
+  "in": 2,
+  "out": 1580,
+  "cache_read": 11758,
+  "cache_create": 3260,
+  "api_ms": 7894,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "사람이 중심이 되는 「인공지능(AI) 윤리기준」",
+  "title_en": "Human-Centered \"AI Ethics Standards\"",
+  "language": "ko",
+  "authors_or_issuer": "관계부처 합동 (Korean joint ministries); hosted by National Assembly Library National Strategy Portal",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "국회도서관 국가전략포털",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Portal page of the Korean National Assembly Library describing the December 2020 joint-ministry \"Human-Centered AI Ethics Standards\", showing only a table of contents (three basic principles, ten core requirements), related materials and PDF link. The ethics text itself is not reproduced.",
+  "key_provisions_or_claims": [
+   "Table of contents lists three basic principles and ten core requirements for AI development and use",
+   "Issued jointly by Korean ministries on 2020-12-23",
+   "Page offers PDF download and AI summary tools; full text not shown"
+  ],
+  "confidence": 0.8
+ }
+}

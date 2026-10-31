@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-71c985a8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:34:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.037893800000000005,
+  "in": 2,
+  "out": 1925,
+  "cache_read": 11758,
+  "cache_create": 4366,
+  "api_ms": 9916,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "工业和信息化部 市场监管总局关于进一步加强智能网联汽车产品准入、召回及软件在线升级管理的通知",
+  "title_en": "Notice of the Ministry of Industry and Information Technology and the State Administration for Market Regulation on Further Strengthening the Administration of Admission, Recall and Over-the-Air Software Upgrades of Intelligent Connected Vehicle Products",
+  "language": "zh",
+  "authors_or_issuer": "工业和信息化部; 国家市场监督管理总局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "cybersecurity",
+   "privacy_data_protection",
+   "civil_liability",
+   "standards_interoperability",
+   "consumer_protection"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "incident_reporting",
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Joint MIIT and SAMR notice (2025) tightening market admission, recall and over-the-air upgrade management for intelligent connected vehicles with combined driver-assistance systems. It requires technical parameter filing, sandbox testing, incident reporting, OTA upgrade registration and manufacturer responsibility for quality and safety.",
+  "key_provisions_or_claims": [
+   "Manufacturers bear primary responsibility for product quality and safety, including testing and notification duties.",
+   "Combined driver-assistance and OTA parameters added to the vehicle technical parameter table, under admission and production-consistency management.",
+   "Deepened safety sandbox supervision with in-depth testing of driver-assistance systems.",
+   "Mandatory reporting of driver-assistance failures and collisions to MIIT and SAMR.",
+   "OTA upgrades must be filed; those changing key parameters or autonomous driving functions require prior permission."
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "doc_id": "D0177",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:11:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0500878,
+  "in": 2,
+  "out": 1790,
+  "cache_read": 11758,
+  "cache_create": 7752,
+  "api_ms": 10877,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Política Nacional de Inteligencia Artificial",
+  "title_en": "National Artificial Intelligence Policy",
+  "language": "es",
+  "authors_or_issuer": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación (MinCiencia), Chile",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "MinCiencia",
+  "jurisdiction_country": "CL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CL"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "education_training",
+   "labor_employment",
+   "privacy_data_protection",
+   "cybersecurity",
+   "intellectual_property",
+   "consumer_protection",
+   "fairness_bias_discrimination",
+   "sustainability_environment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 1,
+   "solidarity": 2,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "oversight_body_creation",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Chile's first National AI Policy, prepared by MinCiencia with an expert committee and public consultation. It sets a goal of leading Latin America in AI by 2031, built on four principles and three axes: enabling factors (talent, infrastructure, data), development and adoption, and ethics, legal and socioeconomic impacts.",
+  "key_provisions_or_claims": [
+   "Goal: exceed OECD average and lead Latin America and the Caribbean in AI by 2031",
+   "Four cross-cutting principles: human wellbeing and rights, sustainable development, inclusive AI, globalised AI",
+   "Three axes: enabling factors, development and adoption, ethics/legal/socioeconomic impacts",
+   "Build national AI productivity indicators and a census of AI use in the State",
+   "Address ethics, labour, consumer relations, IP, cybersecurity and gender"
+  ],
+  "confidence": 0.85
+ }
+}

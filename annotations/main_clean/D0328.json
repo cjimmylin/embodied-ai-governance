@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0328",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:07:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0198457,
+  "in": 2,
+  "out": 1742,
+  "cache_read": 24217,
+  "cache_create": 0,
+  "api_ms": 11169,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ethics and Security Automata: Policy and Technical Challenges of the Robotic Use of Force",
+  "title_en": "Ethics and Security Automata: Policy and Technical Challenges of the Robotic Use of Force",
+  "language": "en",
+  "authors_or_issuer": "Welsh, S.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2018,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Routledge (Amazon listing)",
+  "jurisdiction_country": "NZ",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "book",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "security_policing_robots"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "ethics_principles",
+   "human_oversight_control",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "non_text",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Edited scholarly volume on policy, ethical and technical challenges of robotic use of force, including autonomous weapons and security robots. The supplied text is corrupted binary, so the annotation relies on the title and URL (Amazon listing for the Routledge book).",
+  "key_provisions_or_claims": [
+   "Text unreadable; content inferred from title and URL only",
+   "Addresses ethics and policy of lethal autonomous weapons and security robots"
+  ],
+  "confidence": 0.35
+ }
+}

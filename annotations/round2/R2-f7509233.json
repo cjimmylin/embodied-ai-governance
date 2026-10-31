@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-f7509233",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:37:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2797418,
+  "in": 2,
+  "out": 1687,
+  "cache_read": 11758,
+  "cache_create": 65423,
+  "api_ms": 9568,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "労働安全コンサルタント及び労働衛生コンサルタント規則",
+  "title_en": "Ordinance on Industrial Safety Consultants and Industrial Health Consultants",
+  "language": "ja",
+  "authors_or_issuer": "Ministry of Labour (now Ministry of Health, Labour and Welfare), Japan",
+  "issuer_type": "national_government_executive",
+  "pub_year": 1973,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search (Japan)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "education_training",
+   "certification_conformity_assessment",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Japanese ministerial ordinance (1973, as amended to June 2025) implementing the Industrial Safety and Health Act. It sets examination categories, eligibility, subjects, exemptions and registration procedures for industrial safety and health consultants. Industrial robots appear only as an exam topic under machine safety.",
+  "key_provisions_or_claims": [
+   "Defines exam categories for safety consultants (mechanical, electrical, chemical, civil, architecture) and health consultants.",
+   "Sets eligibility and partial exam exemptions based on qualifications and experience.",
+   "Specifies written and oral exam subjects; 'industrial robots' listed under machine safety.",
+   "Establishes registration, registration certificate, change and reissue procedures and fees.",
+   "Requires consultants to keep client records for three years."
+  ],
+  "confidence": 0.93
+ }
+}

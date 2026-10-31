@@ -1,0 +1,114 @@
+{
+ "doc_id": "R2-2c46e2af",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:56:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.049541800000000004,
+  "in": 2,
+  "out": 1863,
+  "cache_read": 11758,
+  "cache_create": 7433,
+  "api_ms": 9759,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Economic and Social Committee on Communication from the Commission — Fostering a European approach to Artificial Intelligence (COM(2021) 205 final)",
+  "title_en": "Opinion of the European Economic and Social Committee on Communication from the Commission — Fostering a European approach to Artificial Intelligence (COM(2021) 205 final)",
+  "language": "en",
+  "authors_or_issuer": "European Economic and Social Committee",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, C 517/56",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "energy_environment",
+   "agriculture_food",
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "trust_acceptance",
+   "transparency_explainability",
+   "labor_employment",
+   "education_training",
+   "sustainability_environment",
+   "privacy_data_protection",
+   "cybersecurity",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "international_cooperation",
+   "education_training_programs",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EESC opinion welcoming the Commission's 2021 revised Coordinated Plan on AI. It supports investment, data infrastructure, skills, sandboxes, social dialogue and trustworthy, explicable, sustainable AI. Robotics appears only as a high-impact sector, with a brief mention of care robots.",
+  "key_provisions_or_claims": [
+   "Welcomes the revised coordinated plan and calls for expedited implementation",
+   "Calls for ongoing monitoring of progress using performance indicators",
+   "Trust requires explicability of algorithms and a right to challenge algorithmic decisions",
+   "Supports regulatory sandboxes and SME-focused innovation hubs and funding",
+   "Calls for social dialogue on automation and its effects on workers"
+  ],
+  "confidence": 0.9
+ }
+}

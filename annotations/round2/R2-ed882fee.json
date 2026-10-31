@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-ed882fee",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:36:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0336038,
+  "in": 2,
+  "out": 1752,
+  "cache_read": 11758,
+  "cache_create": 3726,
+  "api_ms": 8658,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "关于优化实施设备更新贷款财政贴息政策的通知",
+  "title_en": "Notice on Optimizing the Implementation of the Fiscal Interest Subsidy Policy for Equipment Renewal Loans",
+  "language": "zh",
+  "authors_or_issuer": "财政部; 国家发展改革委; 中国人民银行; 金融监管总局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "finance",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "audits_impact_assessment",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Chinese ministerial notice (Cai Jin [2026] No. 2) optimizing the central fiscal interest subsidy for equipment renewal loans: 1.5-point subsidy for up to two years, expanded sectors including artificial intelligence and elder care, 26 banks, streamlined disbursement and settlement, and supervision. Effective 1 January 2026.",
+  "key_provisions_or_claims": [
+   "Central government subsidizes 1.5 percentage points of equipment renewal loan principal for up to 2 years, through 31 Dec 2026 (extendable).",
+   "Expands supported sectors to include AI, elder care, aviation equipment, electronics, safety production and others.",
+   "26 designated banks administer subsidized loans.",
+   "Pre-allocation plus settlement disbursement, with joint provincial review within 5 working days.",
+   "Joint spot checks, clawback of subsidies and bank liability for violations."
+  ],
+  "confidence": 0.9
+ }
+}

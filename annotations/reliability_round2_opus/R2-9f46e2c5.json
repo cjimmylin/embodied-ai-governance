@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-9f46e2c5",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:02:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.34462760000000003,
+  "in": 2,
+  "out": 2063,
+  "cache_read": 11758,
+  "cache_create": 37626,
+  "api_ms": 15445,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "33 CFR Part 101—Maritime Security: General",
+  "title_en": "33 CFR Part 101—Maritime Security: General",
+  "language": "en",
+  "authors_or_issuer": "U.S. Coast Guard, Department of Homeland Security",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 1,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Code of Federal Regulations (eCFR)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "safety_physical_harm",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "Maritime Transportation Security Act of 2002",
+   "SOLAS Chapter XI-2",
+   "ISPS Code",
+   "49 CFR part 1520",
+   "49 CFR part 1572"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "This is the US Coast Guard's federal regulation on maritime security (33 CFR Part 101). It puts the Maritime Transportation Security Act and the international SOLAS/ISPS rules into effect. It covers threat levels (MARSEC), security directives, enforcement, worker identity credentials (TWIC) and, since 2025, minimum cybersecurity requirements for US-flagged vessels and facilities. It does not deal with AI or robotics.",
+  "key_provisions_or_claims": [
+   "Sets three maritime security threat levels (MARSEC Levels 1–3). The Coast Guard Commandant raises or lowers the level according to risk.",
+   "Requires suspicious activity, security breaches and transportation security incidents to be reported to the National Response Center.",
+   "Requires anyone needing unescorted access to secure areas to hold a worker identity credential (TWIC), with electronic checks for the highest-risk group (Risk Group A).",
+   "Subpart F (2025) requires a Cybersecurity Officer, a Coast Guard-approved Cybersecurity Plan, annual audits, drills and penetration testing.",
+   "Sets minimum cyber controls, including multifactor authentication, separating IT and operational-technology networks, patching known exploited vulnerabilities, staff training and reporting cyber incidents."
+  ],
+  "confidence": 0.85
+ }
+}

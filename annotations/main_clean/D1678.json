@@ -1,0 +1,96 @@
+{
+ "doc_id": "D1678",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:06:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0263158,
+  "in": 2,
+  "out": 1608,
+  "cache_read": 11758,
+  "cache_create": 2264,
+  "api_ms": 8753,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Watch",
+  "title_en": "AI Watch",
+  "language": "en",
+  "authors_or_issuer": "European Commission Joint Research Centre (JRC)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "European Commission JRC AI Watch",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "research_science"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "trust_acceptance",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Landing page of the European Commission JRC's AI Watch hub, highlighting reports on generative AI and AI adoption in EU public administrations, the appointed Scientific Panel supporting AI Act enforcement, and the Apply AI Strategy. No robotics-specific content.",
+  "key_provisions_or_claims": [
+   "Scientific Panel appointed to support AI Act enforcement, managed by AI Office and JRC",
+   "JRC proposes AI adoption framework for EU public administrations",
+   "Supports implementation of the Apply AI Strategy adopted 8 October 2025",
+   "Brief traces the EU approach to AI policymaking"
+  ],
+  "confidence": 0.8
+ }
+}

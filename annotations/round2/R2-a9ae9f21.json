@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-a9ae9f21",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:48:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0352178,
+  "in": 2,
+  "out": 1833,
+  "cache_read": 11758,
+  "cache_create": 3927,
+  "api_ms": 10076,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Regulation (EU) No 459/2011 of 12 May 2011 amending the Annex to Regulation (EC) No 631/2009 laying down detailed rules for the implementation of Annex I to Regulation (EC) No 78/2009 on the type-approval of motor vehicles with regard to the protection of pedestrians and other vulnerable road users",
+  "title_en": "Commission Regulation (EU) No 459/2011 of 12 May 2011 amending the Annex to Regulation (EC) No 631/2009 on type-approval of motor vehicles with regard to the protection of pedestrians and other vulnerable road users",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2011,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Regulation amending the technical annex of Regulation 631/2009 on type-approval of motor vehicles for pedestrian and vulnerable road user protection. It clarifies impactor test points, bumper test options, towing hook exemption and accelerometer specifications. Conventional vehicle safety; no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Amends test requirements in Annex to Regulation (EC) No 631/2009 on pedestrian protection",
+   "Allows manufacturer choice of test for bumper heights of 425–500 mm",
+   "Permits derogation for a 132 mm exemption zone at removable towing hooks",
+   "Clarifies headform test point positions on bonnet and windscreen",
+   "Impactor first natural frequency must exceed 5,000 Hz"
+  ],
+  "confidence": 0.95
+ }
+}

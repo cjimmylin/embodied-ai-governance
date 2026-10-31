@@ -1,0 +1,106 @@
+{
+ "doc_id": "D1361",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:43:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0456198,
+  "in": 2,
+  "out": 1814,
+  "cache_read": 11758,
+  "cache_create": 6575,
+  "api_ms": 9669,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "public_administration_justice",
+   "education",
+   "energy_environment",
+   "agriculture_food"
+  ],
+  "authors_or_issuer": "OECD",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "PL",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "ethics_principles",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Poland announced a EUR 235 million AI Fund and a cross-governmental AI Council in November 2024.",
+   "The 2020 national AI strategy covers six areas including society, companies, science, education, and the public sector.",
+   "Poland plans a Supervisory Commission for AI (KNSI) to examine high-risk AI in healthcare, justice and transport.",
+   "About EUR 2.5 billion is committed to enablers: cloud, computing, semiconductors, an AI Factory.",
+   "Skills programmes (AI Tech, AI4Youth, Lesson:AI) are central to Poland's AI skills priority."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "OECD country note on Poland's progress implementing the EU Coordinated Plan on AI. It covers the new AI Fund and AI Council, the national AI strategy, data and computing investments, research, business support, skills programmes and sector initiatives. It is descriptive and innovation-focused, with no embodied-AI content.",
+  "title_clean": "Poland (Progress in Implementing the EU Coordinated Plan on AI, Volume 1: Country Notes)",
+  "title_en": "Poland (Progress in Implementing the EU Coordinated Plan on AI, Volume 1: Country Notes)",
+  "venue": "OECD"
+ }
+}

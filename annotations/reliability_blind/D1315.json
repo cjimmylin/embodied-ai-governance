@@ -1,0 +1,116 @@
+{
+ "doc_id": "D1315",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:44:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.051923800000000006,
+  "in": 2,
+  "out": 1938,
+  "cache_read": 11758,
+  "cache_create": 7841,
+  "api_ms": 18700,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "White Paper des Österreichischen Rats für Robotik und Künstliche Intelligenz",
+  "title_en": "White Paper of the Austrian Council on Robotics and Artificial Intelligence",
+  "language": "de",
+  "authors_or_issuer": "Österreichischer Rat für Robotik und Künstliche Intelligenz (BMVIT advisory council)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2018,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "www.acrai.at",
+  "jurisdiction_country": "AT",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AT"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "proposal_or_concept",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "social_companion_robots",
+   "care_assistive_robots",
+   "industrial_manipulators",
+   "collaborative_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "manufacturing",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "safety_physical_harm",
+   "labor_employment",
+   "trust_acceptance",
+   "education_training",
+   "standards_interoperability",
+   "civil_liability",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "education_training_programs",
+   "international_cooperation",
+   "oversight_body_creation",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "Montreal Declaration on Responsible AI"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "First white paper of the Austrian Council on Robotics and AI, advising the transport and innovation ministry (BMVIT). It sets out three pillars (smart governance, innovation, regulation) and four priority fields for a national robotics and AI strategy. It recommends incremental strategy-making, public participation, state investment, and new European standards that do not hinder innovation.",
+  "key_provisions_or_claims": [
+   "Recommends an incremental strategy process with continuous research and technology monitoring",
+   "Calls for broad stakeholder and citizen participation to raise acceptance, citing the Montreal Declaration",
+   "Calls for targeted state investment and innovation funding, with attention to SMEs",
+   "Smart regulation: develop new European standards where existing ones are insufficient, without hindering innovation",
+   "Technology must ensure human safety and comply with ethics, fundamental rights and European values"
+  ],
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "doc_id": "R2-1b00f0cb",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:13:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0727798,
+  "in": 2,
+  "out": 1902,
+  "cache_read": 11758,
+  "cache_create": 13145,
+  "api_ms": 12273,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "6 U.S. Code § 124n - Protection of certain facilities and assets from unmanned aircraft",
+  "title_en": "6 U.S. Code § 124n - Protection of certain facilities and assets from unmanned aircraft",
+  "language": "en",
+  "authors_or_issuer": "United States Congress (Office of the Law Revision Counsel, U.S. Code)",
+  "issuer_type": "legislature",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "U.S. Code (Office of the Law Revision Counsel / Cornell LII)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "security_policing_robots"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "criminal_liability",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "education_training_programs",
+   "data_governance_requirements",
+   "transparency_disclosure_labelling",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "U.S. statute (Homeland Security Act §210G) authorizing DHS and DOJ, and since December 2025 certified state, local, tribal and territorial law enforcement, to detect, track, disable, seize or destroy unmanned aircraft threatening covered facilities. Sets training, certification, notification, privacy, oversight and reporting requirements, with sunset dates in 2031.",
+  "key_provisions_or_claims": [
+   "DHS and DOJ may detect, track, disrupt, seize or destroy drones posing credible threats to covered facilities.",
+   "Certified SLTT law enforcement gain counter-UAS authority after national schoolhouse training.",
+   "SLTT agencies must notify DOJ and DHS within 48 hours of any mitigation action.",
+   "Communications interception limited to necessary extent; records kept no more than 180 days.",
+   "Authorities sunset September 30, 2031 (federal) and December 31, 2031 (SLTT); compliance audits and biannual reports required."
+  ],
+  "confidence": 0.9
+ }
+}

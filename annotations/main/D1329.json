@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1329",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:42:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0797458,
+  "in": 4,
+  "out": 3419,
+  "cache_read": 32998,
+  "cache_create": 11210,
+  "api_ms": 18537,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "finance",
+   "domestic_consumer",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Centre for Data Ethics and Innovation",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "consumer_protection"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "CDEI Snapshots are briefing papers on ethical and governance issues in AI.",
+   "First series covers deepfakes, AI in personal insurance, and smart speakers/voice assistants.",
+   "Each snapshot suggests steps for government and industry to mitigate risks.",
+   "Topics were chosen by CDEI's independent Board based on public concern.",
+   "Upcoming work includes facial recognition, data sharing, online micro-targeting and algorithmic bias recommendations."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2019,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "GOV.UK landing page for the UK Centre for Data Ethics and Innovation's first three AI ethics Snapshot papers (deepfakes, AI in personal insurance, smart speakers). It explains the purpose of the briefing series and lists upcoming CDEI work. It is not itself a governance instrument.",
+  "title_clean": "CDEI publishes its first series of three snapshot papers on ethical issues in AI",
+  "title_en": "CDEI publishes its first series of three snapshot papers on ethical issues in AI",
+  "venue": "GOV.UK"
+ }
+}

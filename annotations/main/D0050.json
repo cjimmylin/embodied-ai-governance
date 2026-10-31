@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0050",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:07:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06448870000000001,
+  "in": 4,
+  "out": 3610,
+  "cache_read": 28742,
+  "cache_create": 7067,
+  "api_ms": 17673,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice",
+   "healthcare"
+  ],
+  "authors_or_issuer": "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación (MinCiencia), Chile",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "CL",
+   "UZ"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "press_release_or_government_news",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "transparency_explainability",
+   "fairness_bias_discrimination"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CL",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Plataforma Algoritmos Públicos (GobLab UAI, funded by ANID) nominated to represent Chile in the first UNESCO-Uzbekistan Beruniy Prize on AI ethics.",
+   "Platform provides tools to evaluate, monitor and document automated decision systems in public services; 13 pilots in 9 services.",
+   "Chile's AI usage bill is under discussion in Congress.",
+   "Prize awards $30,000 to three winners biennially; ceremony in Samarkand in November."
+  ],
+  "language": "es",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Chilean Science Ministry news item announcing that the Algoritmos Públicos platform (GobLab UAI) will represent Chile in the first UNESCO-Uzbekistan Beruniy Prize on AI ethics. The platform audits algorithms used in public services; the piece also mentions Chile's pending AI bill.",
+  "title_clean": "MinCiencia elige a plataforma \"Algoritmos Públicos\" para representar a Chile en Premio de Unesco a la Ética en IA",
+  "title_en": "MinCiencia selects \"Algoritmos Públicos\" platform to represent Chile in UNESCO Prize for AI Ethics",
+  "venue": "MinCiencia website (minciencia.gob.cl)"
+ }
+}

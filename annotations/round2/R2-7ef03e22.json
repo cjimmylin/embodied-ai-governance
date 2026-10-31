@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-7ef03e22",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026389799999999998,
+  "in": 2,
+  "out": 1767,
+  "cache_read": 11758,
+  "cache_create": 1885,
+  "api_ms": 13625,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "In-service safety for automated vehicles – COAG Consultation Regulation Impact Statement",
+  "title_en": "In-service safety for automated vehicles – COAG Consultation Regulation Impact Statement",
+  "language": "en",
+  "authors_or_issuer": "National Transport Commission (NTC) / COAG Transport and Infrastructure Council",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2020,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Impact Analysis Database (Australian Government Office of Impact Analysis)",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "consultation_open",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "liability_regime",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Web page for the NTC's Consultation Regulation Impact Statement to COAG on in-service safety of automated vehicles in Australia. It considers national regulatory options and the roles of manufacturers, repairers and owners, since new in-service safety risks are not mitigated by the market or current regulations.",
+  "key_provisions_or_claims": [
+   "Automated vehicles may bring new in-service safety risks not addressed by current regulation or the market",
+   "Consultation RIS examines roles of manufacturers, repairers, registered owners and others",
+   "Considers legal arrangements needed to support safe operation of automated vehicles",
+   "Informs a COAG Transport and Infrastructure Council decision on national regulatory arrangements",
+   "Approved by the Office of Best Practice Regulation"
+  ],
+  "confidence": 0.8
+ }
+}

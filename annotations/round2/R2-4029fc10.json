@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-4029fc10",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:58:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0448018,
+  "in": 2,
+  "out": 1777,
+  "cache_read": 11758,
+  "cache_create": 6463,
+  "api_ms": 9354,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Council Implementing Regulation (EU) 2026/262 of 29 January 2026 implementing Regulation (EU) 2023/1529 concerning restrictive measures in view of Iran's military support to Russia's war of aggression against Ukraine and to armed groups and entities in the Middle East and the Red Sea region",
+  "title_en": "Council Implementing Regulation (EU) 2026/262 of 29 January 2026 implementing Regulation (EU) 2023/1529 concerning restrictive measures in view of Iran's military support to Russia's war of aggression against Ukraine and to armed groups and entities in the Middle East and the Red Sea region",
+  "language": "en",
+  "authors_or_issuer": "Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "IR",
+   "RU",
+   "UA"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Council implementing regulation adding four individuals and six entities to the Annex III sanctions list under Regulation 2023/1529 for involvement in Iran's ballistic missile and UAV programmes and transfers to Russia. It is a sanctions listing, not AI or robotics governance.",
+  "key_provisions_or_claims": [
+   "Amends Annex III of Regulation (EU) 2023/1529 to list four persons and six entities.",
+   "Listings relate to Iran's UAV and ballistic missile programmes and supplies to Russia.",
+   "Enters into force on publication in the Official Journal.",
+   "Binding in its entirety and directly applicable in all Member States."
+  ],
+  "confidence": 0.93
+ }
+}

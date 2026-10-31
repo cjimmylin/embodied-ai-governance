@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-84e63b91",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:14:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0999396,
+  "in": 2,
+  "out": 1901,
+  "cache_read": 11758,
+  "cache_create": 7445,
+  "api_ms": 14279,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "934.50 Searches and seizure using a drone (Freedom from Unwarranted Surveillance Act)",
+  "title_en": "Florida Statutes 934.50 Searches and seizure using a drone (Freedom from Unwarranted Surveillance Act)",
+  "language": "en",
+  "authors_or_issuer": "The Florida Legislature",
+  "issuer_type": "legislature",
+  "pub_year": 2026,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Online Sunshine - The 2026 Florida Statutes",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "security_policing_robots"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice",
+   "energy_environment",
+   "agriculture_food",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "cybersecurity",
+   "criminal_liability",
+   "civil_liability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "liability_regime",
+   "licensing_registration",
+   "funding_or_incentives",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "Federal Aviation Administration regulations"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Florida statute (2026 version) restricting drone surveillance by law enforcement and private persons, listing exceptions (warrants, emergencies, utilities, delivery), creating civil remedies, an exclusionary rule and criminal penalties, requiring government agencies to use drones only from approved secure manufacturers, and setting up drone grant programmes.",
+  "key_provisions_or_claims": [
+   "Law enforcement may not use drones to gather evidence except under listed exceptions such as warrants, imminent danger, crowd monitoring and crime scenes",
+   "Prohibits using imaging drones to surveil private property or occupants without written consent",
+   "Civil actions, damages and inadmissibility of evidence obtained in violation; misdemeanor/felony penalties for individuals",
+   "Government agencies may only acquire drones from approved manufacturers that meet data security safeguards",
+   "Drone replacement and Drone as First Responder grant programmes, with cybersecurity analysis of the drones that are turned in"
+  ],
+  "confidence": 0.9
+ }
+}

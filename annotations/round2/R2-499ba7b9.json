@@ -1,0 +1,120 @@
+{
+ "doc_id": "R2-499ba7b9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1135178,
+  "in": 2,
+  "out": 1975,
+  "cache_read": 11758,
+  "cache_create": 23147,
+  "api_ms": 10718,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "education",
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "European Parliament",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doi": null,
+  "embodied_categories": [
+   "educational_robots"
+  ],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "funding_or_incentives",
+   "education_training_programs",
+   "technical_standards_reference",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "education_training",
+   "intellectual_property",
+   "transparency_explainability",
+   "human_oversight_control",
+   "children_vulnerable_groups",
+   "consumer_protection",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Calls on the Commission to assess including education AI in the high-risk regulatory framework.",
+   "Recommends banning automated biometric identification such as facial recognition on educational and cultural premises unless allowed by law.",
+   "Requires human supervision of AI decisions affecting educational opportunities; teachers must not be replaced.",
+   "Calls for obligatory labelling of deepfakes and AI-generated journalistic text.",
+   "Calls for a horizontal AI legal framework, regular independent audits, and clarity on IPR for AI-generated content."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU Civil Law Rules on Robotics 2017",
+   "EU AI Act"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "European Parliament resolution of 19 May 2021 on AI in education, culture and the audiovisual sector. It urges human-centred, rights-based AI, calls for classifying education AI as potentially high-risk, bans on facial recognition in schools, deepfake labelling, audits, IPR clarification, and digital skills investment. Robotics is mentioned only in passing.",
+  "title_clean": "Artificial intelligence in education, culture and the audiovisual sector (European Parliament resolution of 19 May 2021, 2020/2017(INI))",
+  "title_en": "Artificial intelligence in education, culture and the audiovisual sector (European Parliament resolution of 19 May 2021, 2020/2017(INI))",
+  "venue": "Official Journal of the European Union, C 15/28",
+  "methodology": "not_applicable"
+ }
+}

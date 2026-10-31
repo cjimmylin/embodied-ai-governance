@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-c6679a66",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:01:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0362478,
+  "in": 2,
+  "out": 1772,
+  "cache_read": 11758,
+  "cache_create": 4337,
+  "api_ms": 10350,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "House Bill No. 4797: Drone-Free Jails Act",
+  "title_en": "House Bill No. 4797: Drone-Free Jails Act",
+  "language": "en",
+  "authors_or_issuer": "House of Representatives of the Philippines (Hon. Brian Raymund S. Yamsuan)",
+  "issuer_type": "legislature",
+  "pub_year": 2025,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "House of Representatives, 20th Congress",
+  "jurisdiction_country": "PH",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "PH"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "criminal_liability",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "licensing_registration",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Philippine House Bill 4797, the \"Drone-Free Jails Act\", would prohibit operating drones within 100 meters of jail facilities, except with a CAAP permit and jail authority consent. It sets fines and imprisonment, requires forfeited drones to be turned over to CAAP, and tells CAAP to publish no-drone-zone notices.",
+  "key_provisions_or_claims": [
+   "Unlawful to operate UAVs/drones within 100 m of jail facilities for any purpose.",
+   "Exception for emergencies with a CAAP permit and jail authority consent, or custodial security purposes.",
+   "Penalty: fine of P50,000–P200,000 and/or one year imprisonment.",
+   "Confiscated drones turned over to CAAP within 15 days after the case ends.",
+   "CAAP must publish and update no-drone-zone restrictions."
+  ],
+  "confidence": 0.93
+ }
+}

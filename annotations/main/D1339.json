@@ -1,0 +1,111 @@
+{
+ "doc_id": "D1339",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:42:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0449538,
+  "in": 2,
+  "out": 1879,
+  "cache_read": 11758,
+  "cache_create": 6246,
+  "api_ms": 10691,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Industry Temperature Check: Barriers and Enablers to AI Assurance",
+  "title_en": "Industry Temperature Check: Barriers and Enablers to AI Assurance",
+  "language": "en",
+  "authors_or_issuer": "Centre for Data Ethics and Innovation (CDEI), UK Government",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "cross_sector",
+   "finance",
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "trust_acceptance",
+   "industrial_policy_innovation",
+   "education_training"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "risk_based_tiering",
+   "education_training_programs",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "empirical_qualitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UK CDEI report summarising industry barriers and enablers to AI assurance, drawing on roundtables, a symposium, interviews and a 41-respondent survey. It covers cross-sector findings and HR/recruitment, finance and connected and automated vehicles, and identifies skills, standards and regulatory uncertainty barriers and possible interventions.",
+  "key_provisions_or_claims": [
+   "Industry supports proportionate, risk-based assurance within wider risk management.",
+   "Participants want third-party certification or accreditation of assurance providers.",
+   "Barriers include skills gaps, weak senior buy-in, complex standards and regulatory uncertainty.",
+   "Impact assessments are the most commonly used assurance technique.",
+   "Regulatory compliance (UK GDPR, EU AI Act) and competitive advantage drive assurance uptake."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-85305242",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:31:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0474518,
+  "in": 2,
+  "out": 1908,
+  "cache_read": 11758,
+  "cache_create": 6798,
+  "api_ms": 9778,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "人力资源社会保障部 国家发展改革委 工业和信息化部 国家数据局关于加快推进“人工智能＋人社”应用发展的实施意见",
+  "title_en": "Implementation Opinions of MOHRSS, NDRC, MIIT and National Data Administration on Accelerating the Application and Development of \"AI + Human Resources and Social Security\"",
+  "language": "zh",
+  "authors_or_issuer": "人力资源社会保障部; 国家发展改革委; 工业和信息化部; 国家数据局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "labor_employment",
+   "privacy_data_protection",
+   "cybersecurity",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "funding_or_incentives",
+   "data_governance_requirements",
+   "incident_reporting",
+   "oversight_body_creation",
+   "education_training_programs",
+   "audits_impact_assessment",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Chinese ministerial implementation opinions promoting AI applications in human resources and social security: sector large models, agents, datasets, platforms, standards, funding and security safeguards, with targets for 2026, 2027 and 2030. Contains one passing provision encouraging humanoid robots and embodied intelligence for human-machine collaborative employment.",
+  "key_provisions_or_claims": [
+   "Targets: ~20 AI scenarios by 2026, ~50 high-value scenarios by 2027, mature sector large models by 2030",
+   "Build national AI platform with 1+N+32 structure and sector datasets and corpora",
+   "Establish AI employment impact assessment and survey system",
+   "Provinces encourage humanoid robots and embodied AI products to explore human-machine collaborative employment",
+   "Security safeguards: data classification, risk early warning, emergency response and AI ethics governance"
+  ],
+  "confidence": 0.85
+ }
+}

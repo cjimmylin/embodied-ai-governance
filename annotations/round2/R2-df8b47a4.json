@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-df8b47a4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:53:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.18563580000000002,
+  "in": 2,
+  "out": 1860,
+  "cache_read": 11758,
+  "cache_create": 41464,
+  "api_ms": 10740,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Directive 95/54/EC of 31 October 1995 adapting to technical progress Council Directive 72/245/EEC on the suppression of radio interference produced by spark-ignition engines fitted to motor vehicles and amending Directive 70/156/EEC",
+  "title_en": "Commission Directive 95/54/EC of 31 October 1995 adapting to technical progress Council Directive 72/245/EEC on the suppression of radio interference produced by spark-ignition engines fitted to motor vehicles and amending Directive 70/156/EEC",
+  "language": "en",
+  "authors_or_issuer": "Commission of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 1995,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities L 266",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission Directive 95/54/EC amends Directive 72/245/EEC to make it the specific EU type-approval directive on electromagnetic compatibility of all motor vehicles and electrical/electronic sub-assemblies. It sets emission and immunity limits, test methods, approval marking, and transition dates. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Extends Directive 72/245/EEC to all vehicle categories as a specific EMC directive from 1 January 1996.",
+   "Sets broadband and narrowband emission limits and immunity test levels for vehicles and ESAs.",
+   "Requires EEC type-approval, conformity of production, and an 'e' approval mark on ESAs.",
+   "Ends EEC type-approval for non-compliant types from 1 January 1996; certificate of conformity rules from 1 October 2002.",
+   "Member States must transpose before 1 December 1995."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-6376ac94",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:12:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0259818,
+  "in": 2,
+  "out": 1679,
+  "cache_read": 11758,
+  "cache_create": 2003,
+  "api_ms": 8244,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "IEC 61508-1:2010 Functional safety of electrical/electronic/programmable electronic safety-related systems - Part 1: General requirements",
+  "title_en": "IEC 61508-1:2010 Functional safety of electrical/electronic/programmable electronic safety-related systems - Part 1: General requirements",
+  "language": "en",
+  "authors_or_issuer": "International Electrotechnical Commission (IEC), TC 65/SC 65A",
+  "issuer_type": "standards_body",
+  "pub_year": 2010,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "IEC Webstore",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "IEC webstore catalogue page for IEC 61508-1:2010, the basic horizontal functional safety standard for electrical/electronic/programmable electronic safety-related systems. It underpins sector standards (including machinery and robotics) and is relevant to Smart Grid; only metadata is shown, with no AI-specific content.",
+  "key_provisions_or_claims": [
+   "General requirements for E/E/PE systems carrying out safety functions",
+   "Basic safety publication under IEC Guide 104 for developing sector standards",
+   "Enables development of safety-related systems where no sector standard exists",
+   "Second edition (2010) replaces the 1998 edition as a technical revision"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0986",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:47:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027929800000000005,
+  "in": 2,
+  "out": 1753,
+  "cache_read": 11758,
+  "cache_create": 2305,
+  "api_ms": 8519,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Joint ministerial statement between Canada and the UK on advancing artificial intelligence safety",
+  "title_en": "Joint ministerial statement between Canada and the UK on advancing artificial intelligence safety",
+  "language": "en",
+  "authors_or_issuer": "Government of Canada (Innovation, Science and Economic Development Canada); UK Department for Science, Innovation and Technology",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Government of Canada website",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA",
+   "GB",
+   "US"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "research_ethics",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "Bletchley Declaration"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Joint statement by Canada and the UK announcing collaboration between their AI Safety Institutes, building on the Bletchley Declaration. It covers sharing expertise, testing and evaluation, compute access, joint research with the US AISI on systemic AI safety, and cooperation on AI safety standards and international risk reports.",
+  "key_provisions_or_claims": [
+   "Canada and UK AI Safety Institutes to collaborate on testing, evaluation and research",
+   "UK AISI to share priority access to the UK AI Research Resource with Canadian AISI",
+   "Staff exchanges and secondments and shared computational resources",
+   "Work toward an MoU on AI safety collaboration",
+   "Joint work with the US AISI on Systemic AI Safety, and exchange on AI safety standards"
+  ],
+  "confidence": 0.88
+ }
+}

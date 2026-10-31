@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-348c4cc0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:51:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08182590000000001,
+  "in": 4,
+  "out": 3579,
+  "cache_read": 33034,
+  "cache_create": 11379,
+  "api_ms": 18671,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Council Directive to amend Council Directive 86/662/EEC on the limitation of noise emitted by earthmoving machinery",
+  "title_en": "Proposal for a Council Directive to amend Council Directive 86/662/EEC on the limitation of noise emitted by earthmoving machinery",
+  "language": "en",
+  "authors_or_issuer": "Commission of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 1993,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(93) 154 final - SYN 458",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "FR"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "construction",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "funding_or_incentives",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "1993 European Commission proposal to amend Directive 86/662/EEC, tightening permissible sound power levels for earthmoving machines (excavators, dozers, loaders) in two stages, extending certificate validity, and allowing economic instruments. It concerns conventional construction machinery noise, not AI or robotics.",
+  "key_provisions_or_claims": [
+   "Stage 1 limits about 4 dB stricter from 30 December 1995, measured by real dynamic operation method",
+   "Stage 2 limits from 30 December 1999, about 3 dB lower",
+   "EEC type-examination certificates limited to five years, with extension possible",
+   "Member States may use economic instruments and restrict working hours",
+   "Commission may propose revision of limits by 1 January 1998"
+  ],
+  "confidence": 0.95
+ }
+}

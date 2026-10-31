@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-f5515c39",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027485799999999998,
+  "in": 2,
+  "out": 1733,
+  "cache_read": 11758,
+  "cache_create": 2244,
+  "api_ms": 9133,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/TR 22100-5:2021 Safety of machinery — Relationship with ISO 12100 — Part 5: Implications of artificial intelligence machine learning",
+  "title_en": "ISO/TR 22100-5:2021 Safety of machinery — Relationship with ISO 12100 — Part 5: Implications of artificial intelligence machine learning",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 199",
+  "issuer_type": "standards_body",
+  "pub_year": 2021,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "ISO 12100"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "ISO store page for ISO/TR 22100-5:2021, a technical report on how machine-learning AI affects machinery safety and how its hazards can be handled in ISO 12100 risk assessment. It excludes AI acting beyond specified limits and AI-based safety systems.",
+  "key_provisions_or_claims": [
+   "Addresses how AI machine learning impacts safety of machinery and machinery systems",
+   "Describes considering AI-related hazards within the risk assessment process",
+   "Excludes machinery with AI designed to act beyond specified limits with unpredictable effects",
+   "Excludes safety systems with AI, such as safety-related sensors and control parts",
+   "Published January 2021 by ISO/TC 199"
+  ],
+  "confidence": 0.85
+ }
+}

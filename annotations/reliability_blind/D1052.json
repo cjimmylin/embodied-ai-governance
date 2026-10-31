@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1052",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:42:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.03922780000000001,
+  "in": 2,
+  "out": 1702,
+  "cache_read": 11758,
+  "cache_create": 5257,
+  "api_ms": 9869,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Diia.AI: Ukraine's National AI Agent for Government Services",
+  "title_en": "Diia.AI: Ukraine's National AI Agent for Government Services",
+  "language": "en",
+  "authors_or_issuer": "Public Sector Tech Watch (European Commission)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 11,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Public Sector Tech Watch, Interoperable Europe Portal",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "UA"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "software_agent_called_robot",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "transparency_explainability",
+   "standards_interoperability",
+   "trust_acceptance",
+   "cybersecurity"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Case study page from the EU's Public Sector Tech Watch describing Diia.AI, Ukraine's agentic AI chatbot delivering government services via the Diia platform. It covers architecture, PII anonymisation, guardrails, interoperability, benefits and challenges. It is a software agent with no physical embodiment.",
+  "key_provisions_or_claims": [
+   "Diia.AI is an agentic AI assistant executing multi-step public service actions in chat",
+   "Four-stage PII anonymisation prevents the LLM from processing personal identifiers",
+   "Multilayer guardrails (keyword, ML classification, LLM reasoning) counter prompt injection",
+   "Interoperability via European Interoperability Framework and Model Context Protocol",
+   "Citation system links outputs to verified sources for transparency"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0018",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:09:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.17048,
+  "in": 2,
+  "out": 1756,
+  "cache_read": 0,
+  "cache_create": 16919,
+  "api_ms": 12055,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 31101:2023 Robotics — Application services provided by service robots — Safety management systems requirements",
+  "title_en": "ISO 31101:2023 Robotics — Application services provided by service robots — Safety management systems requirements",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 299 Robotics (International Organization for Standardization)",
+  "issuer_type": "standards_body",
+  "pub_year": 2023,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Online Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "healthcare",
+   "retail_hospitality",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "ISO catalogue page for ISO 31101:2023, an international standard from ISO/TC 299 setting out requirements for safety management systems. Service providers use it to keep users and third parties safe when service robots operate in unstructured human spaces such as airports, hospitals and restaurants.",
+  "key_provisions_or_claims": [
+   "Specifies requirements for an application service safety management system (ASSMS) for service robot services",
+   "Applies to providers operating robots in unstructured human spaces with trained and untrained persons",
+   "Enables organizations to establish, maintain and improve safety management and demonstrate conformity",
+   "Can be integrated with other organizational management systems",
+   "Not intended as a product safety standard"
+  ],
+  "confidence": 0.9
+ }
+}

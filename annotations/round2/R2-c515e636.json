@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-c515e636",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:50:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.17905179999999998,
+  "in": 2,
+  "out": 1916,
+  "cache_read": 11758,
+  "cache_create": 39678,
+  "api_ms": 11284,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Directive of the European Parliament and of the Council amending Directive 97/68/EC on measures against the emission of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery",
+  "title_en": "Proposal for a Directive of the European Parliament and of the Council amending Directive 97/68/EC on measures against the emission of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2000,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities C 180 E",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "US"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "licensing_registration",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission proposal (COM(2000) 840) amending Directive 97/68/EC to extend emission limits to small spark-ignition (petrol) engines in non-road mobile machinery. It sets two-stage limit values, type-approval rules, test procedures, and a voluntary averaging, banking and trading scheme. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Extends Directive 97/68/EC to small spark-ignition engines of 19 kW or less in non-road mobile machinery",
+   "Sets Stage I and Stage II emission limits (CO, HC+NOx) by engine class, with phase-in dates from 2004 to 2010",
+   "Adds a voluntary averaging, banking and trading scheme aligned with US rules (Annex XII)",
+   "Requires type-approval and engine labelling, with relaxed deadlines for small-volume manufacturers",
+   "Adds spark-ignition test procedures (Annex IV) and moves the committee procedure to Decision 1999/468/EC"
+  ],
+  "confidence": 0.9
+ }
+}

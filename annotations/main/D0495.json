@@ -1,0 +1,108 @@
+{
+ "doc_id": "D0495",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:20:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045497800000000005,
+  "in": 2,
+  "out": 1905,
+  "cache_read": 11758,
+  "cache_create": 6317,
+  "api_ms": 12303,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare",
+   "domestic_consumer"
+  ],
+  "authors_or_issuer": "Kim, J.-W.; Choi, Y.L.; Jeong, S.; Han, J.-H.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "KR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.13180/icres.2022.18-19.07.017",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "social_companion_robots",
+   "domestic_household_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "human_robot_interaction_social_effects",
+   "trust_acceptance",
+   "fairness_bias_discrimination",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "language": "en",
+  "named_instruments_referenced": [
+   "ALTAI (EU Assessment List for Trustworthy AI)",
+   "Korea AI Ethics Self-Checklist",
+   "Korea National AI Ethics Standard"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2022,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "summary_en": "Conference paper describing development of DORI, a home elderly-care service robot, applying five requirements of Korea's voluntary AI Ethics Self-Checklist (35 items across 10 requirements). It introduces the checklist and shows how ethical requirements shape robot functions; detailed checklists and user experiments are future work.",
+  "key_provisions_or_claims": [
+   "Korean AI Ethics Self-Checklist has 35 items across 10 core requirements, voluntary and non-binding",
+   "Checklist implements three principles: human dignity, social common good, purposefulness of technology",
+   "Home care robot DORI built on MISoRo applies five ethical requirements",
+   "Robot warns users of inappropriate behavior and handles medication reminders with face recognition",
+   "Future work: detailed checklists and user experiments for validation"
+  ],
+  "title_clean": "Development of Artificial Intelligence Service Robot According to the Korean Ethical Self-Checklist",
+  "title_en": "Development of Artificial Intelligence Service Robot According to the Korean Ethical Self-Checklist",
+  "venue": "ICRES 2022: 7th International Conference on Robot Ethics and Standards",
+  "methodology": "technical_or_engineering"
+ }
+}

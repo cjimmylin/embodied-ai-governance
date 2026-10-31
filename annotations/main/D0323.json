@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0323",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:15:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0661898,
+  "in": 2,
+  "out": 1661,
+  "cache_read": 11758,
+  "cache_create": 12100,
+  "api_ms": 9357,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "The Conversation Africa",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "news_article",
+  "doi": "10.64628/aa.mpyxunupp",
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "ethics_principles"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "news_media",
+  "jurisdiction_country": "ZA",
+  "jurisdiction_scope": "not_applicable",
+  "language": "en",
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 2,
+  "pub_year": 2017,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "The Conversation Africa article from 2017 asks when an intelligent machine should be treated as a legal person. It discusses the European Parliament Legal Affairs Committee's draft report on civil law rules on robotics and its proposed \"electronic persons\" status for sophisticated robots.",
+  "key_provisions_or_claims": [
+   "Asks whether autonomous, self-aware robots should move from property to rights-bearing status",
+   "Notes the European Parliament JURI draft report calling for civil law rules on robotics",
+   "Highlights the proposed 'electronic persons' legal status for the most sophisticated robots"
+  ],
+  "title_clean": "Robot rights: at what point should an intelligent machine be considered a 'person'?",
+  "title_en": "Robot rights: at what point should an intelligent machine be considered a 'person'?",
+  "venue": "The Conversation Africa",
+  "methodology": "not_applicable"
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0592",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:22:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0686013,
+  "in": 4,
+  "out": 3771,
+  "cache_read": 29278,
+  "cache_create": 7725,
+  "api_ms": 22394,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care",
+   "research_science"
+  ],
+  "authors_or_issuer": "Mataric, M.; Okamura, A.M.; Christensen, H.I. (Computing Community Consortium / CRA, NSF-funded workshop)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.6,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "grey_literature",
+  "doc_type": "industry_or_ngo_report",
+  "doi": "10.1097/ms9.0000000000003865",
+  "embodied_categories": [
+   "surgical_medical_robots",
+   "rehabilitation_exoskeleton_prosthetic",
+   "care_assistive_robots",
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "safety_physical_harm",
+   "human_robot_interaction_social_effects",
+   "trust_acceptance"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Identifies societal drivers: access to care, affordability, aging, disability, and prevention.",
+   "Sets capability roadmap including physical HRI, behavior understanding, diagnosis, image-guided intervention, safe robot behavior.",
+   "Covers six strategic areas: surgery, function replacement, rehabilitation, behavioral therapy, special needs care, wellness.",
+   "Raises deployment issues and calls for basic research in formal methods, control, perception, and learning."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "primary_embodied_category": "surgical_medical_robots",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2009,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "page_quality": "partial_or_excerpt",
+  "summary_en": "A US research roadmap from a CRA/NSF-funded workshop on medical and healthcare robotics. It sets societal drivers, strategic areas (surgery, rehabilitation, prostheses, behavioral therapy, special-needs care, wellness), capability and research priorities, and deployment issues. It is a research agenda, not a governance instrument. The metadata title does not match the content.",
+  "title_clean": "A Research Roadmap for Medical and Healthcare Robotics",
+  "title_en": "A Research Roadmap for Medical and Healthcare Robotics",
+  "venue": "Computing Research Association (CRA) / Computing Community Consortium"
+ }
+}

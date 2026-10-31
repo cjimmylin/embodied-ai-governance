@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-b70da4e3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1591838,
+  "in": 2,
+  "out": 1828,
+  "cache_read": 11758,
+  "cache_create": 34931,
+  "api_ms": 13595,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "defense_security",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "United Nations Secretary-General",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "international_cooperation",
+   "oversight_body_creation",
+   "human_oversight_requirement"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "safety_physical_harm",
+   "other"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Conclude by 2026 a legally binding instrument prohibiting lethal autonomous weapon systems that function without human control and regulate all other autonomous weapons.",
+   "Develop national strategies on responsible AI design, development and use consistent with IHL and human rights law.",
+   "Develop multilateral norms for military applications of AI with multistakeholder engagement.",
+   "Consider a new global body to mitigate peace and security risks of AI, drawing on IAEA, ICAO and IPCC models.",
+   "Agree on a global framework for oversight of data-driven technology including AI in counter-terrorism."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 2,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "pub_month": 7,
+  "pub_year": 2023,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "UN Secretary-General's Our Common Agenda Policy Brief 9 sets out recommendations for multilateral peace and security action. Relevant to embodied AI, it calls for a legally binding treaty by 2026 prohibiting lethal autonomous weapons lacking human control, regulation of other autonomous weapons, and norms and possibly a new global body for military AI.",
+  "title_clean": "Our Common Agenda Policy Brief 9: A New Agenda for Peace",
+  "title_en": "Our Common Agenda Policy Brief 9: A New Agenda for Peace",
+  "venue": "United Nations",
+  "methodology": "not_applicable"
+ }
+}

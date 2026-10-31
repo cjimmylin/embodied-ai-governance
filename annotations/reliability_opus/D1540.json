@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1540",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:18:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1593436,
+  "in": 2,
+  "out": 1992,
+  "cache_read": 11758,
+  "cache_create": 14643,
+  "api_ms": 14767,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Italy: Robots for the Family: Protection of Personal Data and Civil Liability",
+  "title_en": "Italy: Robots for the Family: Protection of Personal Data and Civil Liability",
+  "language": "en",
+  "authors_or_issuer": "Unknown (chapter in International Survey of Family Law 2018, Intersentia/Cambridge University Press)",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2018,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.1017/9781780687780.016",
+  "venue": "International Survey of Family Law 2018 (Intersentia / Cambridge University Press)",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IT",
+   "EU"
+  ],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "book",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "domestic_household_robots",
+   "care_assistive_robots",
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "domestic_household_robots",
+  "application_sectors": [
+   "domestic_consumer",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "civil_liability",
+   "children_vulnerable_groups"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "This is the Italy chapter of the International Survey of Family Law 2018. Judging by its title, it examines legal issues raised by robots used in family and household settings under Italian law, especially personal data protection and civil liability for harm caused by such robots. Only the Cambridge Core landing page was captured; no substantive text is available.",
+  "key_provisions_or_claims": [
+   "Inferred from the title only: addresses robots used within families and households in Italy",
+   "Inferred from the title only: analyses personal data protection issues raised by family robots",
+   "Inferred from the title only: analyses the civil liability regime for damage caused by robots"
+  ],
+  "confidence": 0.4
+ }
+}

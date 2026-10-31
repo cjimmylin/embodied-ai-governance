@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0780",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:29:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0578878,
+  "in": 2,
+  "out": 1690,
+  "cache_read": 11758,
+  "cache_create": 9952,
+  "api_ms": 8431,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "인공지능과 민주주의에 관한 소고",
+  "title_en": "A Brief Study on Artificial Intelligence and Democracy",
+  "language": "ko",
+  "authors_or_issuer": "윤수정",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2021,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.35215/jcj.2021.8.2.001",
+  "venue": "헌법재판연구 (Constitutional Adjudication Research)",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "human_dignity_autonomy",
+   "ethics_principles",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "transparency_explainability"
+  ],
+  "primary_topic": "human_dignity_autonomy",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Korean constitutional-law article on AI and democracy. It weighs AI's opportunities (information access, fairer politics) against risks (surveillance, distorted opinion formation, power concentration in digital firms) and argues for a normative response based on human-centered AI, respecting human dignity and treating AI as supplementing human autonomy.",
+  "key_provisions_or_claims": [
+   "AI offers opportunities and risks for representative democracy, like a double-edged sword.",
+   "Risks include a new surveillance society, distorted political opinion formation, and power concentration in few digital firms.",
+   "Normative response should encourage beneficial AI and minimize harmful uses.",
+   "Human-centered AI should be the basic principle, respecting dignity at all stages.",
+   "AI should only supplement human autonomy."
+  ],
+  "confidence": 0.85
+ }
+}

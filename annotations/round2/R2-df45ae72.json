@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-df45ae72",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:46:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1877996,
+  "in": 4,
+  "out": 3766,
+  "cache_read": 58391,
+  "cache_create": 36792,
+  "api_ms": 20402,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "methodology": "not_applicable",
+  "binding_nature": "legally_binding",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "incident_reporting",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "international_cooperation",
+   "audits_impact_assessment",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "cybersecurity",
+   "privacy_data_protection",
+   "safety_physical_harm",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Establishes Medicine Shortages Steering Group (MSSG) and Medical Device Shortages Steering Group (MDSSG) within the EMA",
+   "Creates Emergency Task Force to give scientific advice on clinical trials and medicines during public health emergencies",
+   "Requires EMA to set up the European Shortages Monitoring Platform, fully operational by 2 February 2025",
+   "Obliges marketing authorisation holders and Member States to report supply and demand data on critical medicines",
+   "Sets transparency, data protection and cybersecurity requirements for EMA's crisis work and supports medical device expert panels"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "EU Regulation 2022/123 gives the European Medicines Agency a larger role in crisis preparedness and management for medicinal products and medical devices. It creates shortage steering groups and an Emergency Task Force, and it establishes the European Shortages Monitoring Platform. It sets reporting duties, transparency rules and cybersecurity and data protection safeguards. It is not about AI or robotics.",
+  "title_clean": "Regulation (EU) 2022/123 of the European Parliament and of the Council of 25 January 2022 on a reinforced role for the European Medicines Agency in crisis preparedness and management for medicinal products and medical devices",
+  "title_en": "Regulation (EU) 2022/123 on a reinforced role for the European Medicines Agency in crisis preparedness and management for medicinal products and medical devices",
+  "venue": "Official Journal of the European Union"
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "doc_id": "D1555",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:49:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.051244700000000004,
+  "in": 4,
+  "out": 3431,
+  "cache_read": 26277,
+  "cache_create": 4063,
+  "api_ms": 19243,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Protomoral Machines: The Evolution of Morality as a Guideline for Robot Ethics",
+  "title_en": "Protomoral Machines: The Evolution of Morality as a Guideline for Robot Ethics",
+  "language": "en",
+  "authors_or_issuer": "Kokkonen, T.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.3233/FAIA200938",
+  "venue": "Frontiers in Artificial Intelligence and Applications, Vol. 335: Culturally Sustainable Social Robotics (Robophilosophy 2020), IOS Press",
+  "jurisdiction_country": "XX",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "research_science"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Robophilosophy 2020 conference paper on moral agency in robots. Takes an evolutionary perspective and argues for a middle-range approach: neither current ethical concerns nor far-future questions of genuine machine morality, but designing 'protomoral' machines informed by the evolution of human morality. Only the abstract is available.",
+  "key_provisions_or_claims": [
+   "Two questions: how to make robots behave ethically, and whether genuinely moral machines are possible.",
+   "Argues for a middle-range perspective between present-day ethical concerns and far-future theoretical issues.",
+   "Proposes reflecting on what creating protomoral machines would mean.",
+   "Claims the evolution of human morality can guide robot ethics."
+  ],
+  "confidence": 0.7
+ }
+}

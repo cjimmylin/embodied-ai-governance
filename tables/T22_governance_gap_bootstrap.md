@@ -1,0 +1,27 @@
+**T22_governance_gap_bootstrap. Governance-gap index with 95% bootstrap confidence intervals (2,000 resamples of research outputs n=509 and governance instruments n=505 separately)**
+
+| category                              | level1                     |   research_pct |   n_research |   instrument_pct |   n_instruments |   gap_index |   ci_low |   ci_high | ci_excludes_zero   |
+|:--------------------------------------|:---------------------------|---------------:|-------------:|-----------------:|----------------:|------------:|---------:|----------:|:-------------------|
+| social_companion_robots               | Service & social           |           43   |          219 |              3   |              15 |        40.1 |     35.5 |      44.6 | True               |
+| humanoid_general_purpose              | Humanoid & general-purpose |           22.8 |          116 |              4   |              20 |        18.8 |     14.7 |      23   | True               |
+| care_assistive_robots                 | Service & social           |           27.5 |          140 |              8.9 |              45 |        18.6 |     13.9 |      22.9 | True               |
+| professional_service_robots           | Service & social           |           17.5 |           89 |              9.9 |              50 |         7.6 |      3.4 |      11.7 | True               |
+| surgical_medical_robots               | Medical & body-integrated  |           14.5 |           74 |              7.3 |              37 |         7.2 |      3.5 |      11   | True               |
+| educational_robots                    | Service & social           |            6.9 |           35 |              1.6 |               8 |         5.3 |      3.1 |       7.7 | True               |
+| domestic_household_robots             | Service & social           |            7.7 |           39 |              3.4 |              17 |         4.3 |      1.3 |       7.1 | True               |
+| sex_robots                            | Service & social           |            4.5 |           23 |              0.8 |               4 |         3.7 |      1.8 |       5.7 | True               |
+| other_embodied                        | Other embodied             |            4.7 |           24 |              1.2 |               6 |         3.5 |      1.6 |       5.7 | True               |
+| biohybrid_or_cyborg                   | Medical & body-integrated  |            2.2 |           11 |              0.2 |               1 |         2   |      0.8 |       3.3 | True               |
+| toys_entertainment_robots             | Service & social           |            1.2 |            6 |              0.6 |               3 |         0.6 |     -0.4 |       1.8 | False              |
+| collaborative_robots                  | Industrial & logistics     |            6.3 |           32 |              5.9 |              30 |         0.3 |     -2.6 |       3.3 | False              |
+| space_or_extreme_environment          | Vehicles & field           |            3.1 |           16 |              4   |              20 |        -0.8 |     -3   |       1.4 | False              |
+| military_autonomous_weapons           | Security & military        |           10.4 |           53 |             11.9 |              60 |        -1.5 |     -5.6 |       2.5 | False              |
+| security_policing_robots              | Security & military        |            3.1 |           16 |              4.8 |              24 |        -1.6 |     -4   |       0.8 | False              |
+| rehabilitation_exoskeleton_prosthetic | Medical & body-integrated  |            2.8 |           14 |              5.1 |              26 |        -2.4 |     -4.8 |      -0   | False              |
+| industrial_manipulators               | Industrial & logistics     |           10   |           51 |             13.3 |              67 |        -3.2 |     -7.2 |       0.7 | False              |
+| autonomous_maritime_or_rail           | Vehicles & field           |            1   |            5 |              5.5 |              28 |        -4.6 |     -6.7 |      -2.4 | True               |
+| delivery_robots                       | Industrial & logistics     |            2.2 |           11 |              7.3 |              37 |        -5.2 |     -7.9 |      -2.8 | True               |
+| agricultural_robots                   | Vehicles & field           |            2.4 |           12 |              7.7 |              39 |        -5.4 |     -7.7 |      -2.8 | True               |
+| mobile_industrial_logistics           | Industrial & logistics     |            3.1 |           16 |              9.7 |              49 |        -6.6 |     -9.7 |      -3.6 | True               |
+| autonomous_road_vehicles              | Vehicles & field           |           12.4 |           63 |             39.8 |             201 |       -27.4 |    -32.6 |     -22.1 | True               |
+| drones_uas                            | Vehicles & field           |            6.3 |           32 |             42.4 |             214 |       -36.1 |    -40.6 |     -31.2 | True               |

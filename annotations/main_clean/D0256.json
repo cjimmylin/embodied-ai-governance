@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0256",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:48:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.034811800000000004,
+  "in": 2,
+  "out": 1756,
+  "cache_read": 11758,
+  "cache_create": 4018,
+  "api_ms": 10407,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Oman's National Artificial Intelligence Policy",
+  "title_en": "Oman's National Artificial Intelligence Policy",
+  "language": "en",
+  "authors_or_issuer": "Al-Balushi, R. (Decree blog)",
+  "issuer_type": "industry_company",
+  "pub_year": 2024,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Decree Blog",
+  "jurisdiction_country": "OM",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "OM",
+   "EU",
+   "BH",
+   "AE"
+  ],
+  "doc_type": "blog_or_opinion",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "transparency_explainability",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "human_oversight_requirement",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Law-firm blog post commenting on Oman's draft National AI Policy, open for consultation until 28 August 2024. It explains the policy is non-binding, principle-based and distinguishes providers from deployers. The author endorses a wait-and-see approach but urges amending the Personal Data Protection Law for profiling and automated decisions.",
+  "key_provisions_or_claims": [
+   "Draft policy is non-binding tertiary legislation with no fines or enforcement.",
+   "Providers must conduct pre-deployment impact assessments; deployers must provide human supervision.",
+   "Policy applies to public and private organisations but not individuals.",
+   "Author endorses a permissive wait-and-see approach, contrasting with the EU AI Act.",
+   "Recommends amending Oman's PDPL to add consent and objection rights for profiling and automated decisions."
+  ],
+  "confidence": 0.9
+ }
+}

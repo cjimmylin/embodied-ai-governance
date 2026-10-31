@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-2a4990f5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0354958,
+  "in": 2,
+  "out": 1774,
+  "cache_read": 11758,
+  "cache_create": 4144,
+  "api_ms": 9926,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Airlock: a regulatory sandbox for AI enabled Medical Devices",
+  "title_en": "AI Airlock: a regulatory sandbox for AI enabled Medical Devices",
+  "language": "en",
+  "authors_or_issuer": "Medicines and Healthcare products Regulatory Agency (MHRA)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "international_cooperation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "MHRA web page describing the AI Airlock, the UK's regulatory sandbox for AI-enabled medical devices, covering the pilot, phase 2 and the newly launched phase 3 (post-market surveillance focus), programme reports, workshops and funding. Outputs inform future regulatory guidance for AI medical devices in Great Britain.",
+  "key_provisions_or_claims": [
+   "AI Airlock is MHRA's regulatory sandbox for AI-enabled medical devices, launched 2024.",
+   "Phase 3 launched with multi-year DHSC funding, focusing on post-market surveillance and lifecycle oversight.",
+   "Pilot and phase 2 involved 11 innovators across 7 regulatory challenges.",
+   "Programme reports are not formal guidance but inform a fit-for-purpose regulatory framework.",
+   "Outputs fed MHRA's National Commission into the Regulation of AI in Healthcare."
+  ],
+  "confidence": 0.85
+ }
+}

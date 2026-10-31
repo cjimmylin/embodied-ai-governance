@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-d3fec1f1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:48:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0334038,
+  "in": 2,
+  "out": 1852,
+  "cache_read": 11758,
+  "cache_create": 3426,
+  "api_ms": 9978,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2024/2962 amending Implementing Decision (EU) 2019/1698 on European standards for products drafted in support of Directive 2001/95/EC on general product safety, on the withdrawal of the publication of the references of standards EN 581-1:2006, EN 12491:2001, EN 1651:1999 and EN 1273:2005",
+  "title_en": "Commission Implementing Decision (EU) 2024/2962 amending Implementing Decision (EU) 2019/1698 on European standards for products drafted in support of Directive 2001/95/EC on general product safety, on the withdrawal of the publication of the references of standards EN 581-1:2006, EN 12491:2001, EN 1651:1999 and EN 1273:2005",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "consumer_protection",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Implementing Decision withdrawing the Official Journal references of four European standards (outdoor furniture, paragliding emergency parachutes and harnesses, baby walking frames) under the General Product Safety Directive, so compliance no longer gives a presumption of safety. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Withdraws references to EN 581-1:2006, EN 12491:2001, EN 1651:1999 and EN 1273:2005 from the Official Journal list.",
+   "Compliance with these standards no longer gives a presumption of safety under Directive 2001/95/EC.",
+   "Amends Implementing Decision (EU) 2019/1698 by deleting rows from Annex I.",
+   "Enters into force the day after publication."
+  ],
+  "confidence": 0.95
+ }
+}

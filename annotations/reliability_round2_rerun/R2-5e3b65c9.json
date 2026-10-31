@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-5e3b65c9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:06:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0244638,
+  "in": 2,
+  "out": 1736,
+  "cache_read": 11758,
+  "cache_create": 1481,
+  "api_ms": 9321,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "京经信发〔2025〕44号(excerpt: 通过安全评估1年内未向交通运输部门申请开展道路应用试点的)",
+  "title_en": "Beijing Municipal Commission of Economy and Information Technology Document No. 44 (2025) – excerpt on road-application pilots after safety assessment",
+  "language": "zh",
+  "authors_or_issuer": "Beijing Municipal Commission of Economy and Information Technology (inferred from document number 京经信发)",
+  "issuer_type": "subnational_government",
+  "pub_year": 2025,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "unknown",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Fragment of a Beijing municipal document (No. 44, 24 Oct 2025) listing a condition, likely for withdrawing or cancelling a safety assessment result, where an entity has not applied to transport authorities for a road-application pilot within one year of passing the safety assessment. Likely concerns autonomous vehicles; the excerpt is too short to be certain.",
+  "key_provisions_or_claims": [
+   "Item (4): failing to apply to transport authorities for a road-application pilot within one year of passing the safety assessment triggers a consequence (likely revocation or invalidation).",
+   "Links safety assessment to subsequent road-pilot approval by transport authorities."
+  ],
+  "confidence": 0.4
+ }
+}

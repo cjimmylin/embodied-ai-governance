@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-cc152248",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:35:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0475778,
+  "in": 2,
+  "out": 1723,
+  "cache_read": 11758,
+  "cache_create": 7292,
+  "api_ms": 8853,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "人力资源社会保障部 财政部关于做好2026年高校毕业生等青年就业工作的通知",
+  "title_en": "Notice of the Ministry of Human Resources and Social Security and Ministry of Finance on Employment Work for 2026 College Graduates and Other Youth",
+  "language": "zh",
+  "authors_or_issuer": "人力资源社会保障部; 财政部",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "人力资源社会保障部 (MOHRSS)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector",
+   "education"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "education_training",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese MOHRSS and Ministry of Finance notice (No. 19 [2026]) on 2026 youth and graduate employment, covering job-channel expansion, public employment services, skills training, hiring-market regulation, and an annex listing subsidies, tax breaks and loans. AI appears only as a training and recruitment sector.",
+  "key_provisions_or_claims": [
+   "Expand jobs via private firms, public institutions, and grassroots programs",
+   "Provide services to unemployed graduates, with priority support for disadvantaged groups",
+   "Launch skills training, including AI, new-energy vehicles and low-altitude economy",
+   "Million internship positions plan; subsidies valid to end-2026",
+   "Crack down on fake recruitment and employment discrimination"
+  ],
+  "confidence": 0.93
+ }
+}

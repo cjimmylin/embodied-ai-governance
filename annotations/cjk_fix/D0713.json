@@ -1,0 +1,91 @@
+{
+ "doc_id": "D0713",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:29:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0268618,
+  "in": 2,
+  "out": 1509,
+  "cache_read": 11758,
+  "cache_create": 2648,
+  "api_ms": 7646,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "全國法規資料庫 (Laws & Regulations Database of the Republic of China, Ministry of Justice)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "TW"
+  ],
+  "date_basis": "unknown",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "TW",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Members log in via the database or a 'My E-Government' account.",
+   "Members can save frequently used regulations into personal folders.",
+   "Users can create, delete and manage folders and move or delete saved items."
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": null,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "User guide for the member services of Taiwan's National Laws and Regulations Database, covering member login via the My E-Government account and managing personal folders of saved regulations. It has no AI or robotics governance content.",
+  "title_clean": "全國法規資料庫會員服務介紹",
+  "title_en": "Introduction to Member Services of the National Laws and Regulations Database",
+  "venue": "全國法規資料庫",
+  "methodology": "not_applicable"
+ }
+}

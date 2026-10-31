@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-22edcd8b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:04:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0259758,
+  "in": 2,
+  "out": 1626,
+  "cache_read": 11758,
+  "cache_create": 2134,
+  "api_ms": 8218,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "事业单位登记管理条例",
+  "title_en": "Regulations on the Registration and Administration of Public Institutions",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese State Council decree (Order No. 849) promulgating the Regulations on the Registration and Administration of Public Institutions, effective 1 December 2026 and replacing the interim regulations. Covers legal-person certificates, registration, change and cancellation procedures, and annual reporting. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Public institutions must obtain legal-person certificates from registration authorities within set time limits.",
+   "Changes in registered matters must be filed within 30 days.",
+   "Annual reports must be submitted, including Party-building and public-interest duties.",
+   "Takes effect 1 December 2026, repealing the interim regulations."
+  ],
+  "confidence": 0.85
+ }
+}

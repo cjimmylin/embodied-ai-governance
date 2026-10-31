@@ -1,0 +1,106 @@
+{
+ "doc_id": "D1540",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:46:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.042457800000000004,
+  "in": 2,
+  "out": 1753,
+  "cache_read": 11758,
+  "cache_create": 5937,
+  "api_ms": 9685,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Italy Robots for the Family: Protection of Personal Data and Civil Liability",
+  "title_en": "Italy Robots for the Family: Protection of Personal Data and Civil Liability",
+  "language": "en",
+  "authors_or_issuer": "Ferrari, I.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2019,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.1017/9781780687780.016",
+  "venue": "International Survey of Family Law 2018 (Cambridge University Press / Intersentia)",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IT",
+   "EU"
+  ],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "book",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "domestic_household_robots",
+   "care_assistive_robots",
+   "educational_robots",
+   "toys_entertainment_robots"
+  ],
+  "primary_embodied_category": "domestic_household_robots",
+  "application_sectors": [
+   "domestic_consumer",
+   "elder_care_social_care",
+   "education"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "civil_liability",
+   "children_vulnerable_groups",
+   "consumer_protection"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Book chapter examining Italian law on household and family robots, focusing on GDPR data protection and domestic civil liability. It notes Italy's near-absent robot-specific regulation and recommends legal reforms to protect family members under ECHR Article 8 and the UN Convention on the Rights of the Child. Only the summary is available.",
+  "key_provisions_or_claims": [
+   "Italian regulatory framework on robots is almost non-existent",
+   "Domestic robots combine hardware and data-exchanging software, requiring confidentiality protection",
+   "Analyses GDPR and Italian civil liability regime for home robots",
+   "Recommends legal reforms to protect family members' private and family life (ECHR Art. 8, UNCRC)"
+  ],
+  "confidence": 0.85
+ }
+}

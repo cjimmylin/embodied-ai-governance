@@ -1,0 +1,110 @@
+{
+ "doc_id": "D0849",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:14:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0914316,
+  "in": 2,
+  "out": 1952,
+  "cache_read": 11758,
+  "cache_create": 6254,
+  "api_ms": 13934,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Navigating the sociotechnical labyrinth: Dynamic certification for responsible embodied AI",
+  "title_en": "Navigating the sociotechnical labyrinth: Dynamic certification for responsible embodied AI",
+  "language": "en",
+  "authors_or_issuer": "Bakirtzis, G.; Aler Tubella, A.; Theodorou, A.; Danks, D.; Topcu, U.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": "10.48550/arXiv.2409.00015",
+  "venue": "arXiv (cs.CY)",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "EU",
+   "US"
+  ],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots",
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "ethics_principles",
+   "human_oversight_control"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "NIST AI RMF",
+   "Blueprint for an AI Bill of Rights"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "An arXiv chapter that proposes \"dynamic certification\" for embodied AI. Under this adaptive regulatory framework, systems are approved for narrow contexts and the approvals expand step by step as real-world monitoring builds evidence of safety. It links sociotechnical context, context of use and system layers, and works through an urban delivery robot as its example.",
+  "key_provisions_or_claims": [
+   "Static regulation cannot keep pace with adaptive, opaque embodied AI systems.",
+   "Dynamic certification approves narrow uses first, then expands them based on performance data, as is done for drugs.",
+   "Governance must address three layers: sociotechnical context, context of use and the system itself.",
+   "Continuous modelling, testing and monitoring across the lifecycle keep a decision trail.",
+   "Illustrated with an urban delivery robot; cites autonomous vehicle incidents (Tesla, Uber)."
+  ],
+  "confidence": 0.85
+ }
+}

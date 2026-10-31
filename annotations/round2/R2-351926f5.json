@@ -1,0 +1,112 @@
+{
+ "doc_id": "R2-351926f5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.16998180000000002,
+  "in": 2,
+  "out": 1957,
+  "cache_read": 11758,
+  "cache_create": 37308,
+  "api_ms": 10849,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Rwanda Civil Aviation Regulations Part 27: Unmanned Aircraft Systems",
+  "title_en": "Rwanda Civil Aviation Regulations Part 27: Unmanned Aircraft Systems",
+  "language": "en",
+  "authors_or_issuer": "Rwanda Civil Aviation Authority (Director General)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Rwanda Civil Aviation Authority",
+  "jurisdiction_country": "RW",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "RW"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "privacy_data_protection",
+   "cybersecurity",
+   "human_oversight_control",
+   "education_training"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "human_oversight_requirement",
+   "testing_sandboxes",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "insurance_requirement",
+   "education_training_programs",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Rwanda's binding Special Regulations (Feb 2026) on unmanned aircraft systems, Part 27 of the Civil Aviation Regulations. It sets risk-based basic and specific categories, registration, remote pilot licensing, operator certificates, manufacturer declarations, training organisations, BVLOS and highly automated operations, UTM, security, insurance and privacy.",
+  "key_provisions_or_claims": [
+   "Two-tier categorisation: basic operations (notification) and specific operations (authorization, registration, pilot licence).",
+   "BVLOS requires authorization after air and ground risk assessment, with detect-and-avoid and C2 link requirements.",
+   "Highly automated UAS operations need consultation with the National Civil Aviation Security Committee; operator is responsible for oversight.",
+   "UAS operator certificates require a safety management system, record retention and continued airworthiness reporting.",
+   "Manufacturers must submit declarations of compliance; Authority issues acceptance letters; accident reporting within 24 hours."
+  ],
+  "confidence": 0.9
+ }
+}

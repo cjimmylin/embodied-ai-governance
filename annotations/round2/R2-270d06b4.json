@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-270d06b4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026033800000000003,
+  "in": 2,
+  "out": 1701,
+  "cache_read": 11758,
+  "cache_create": 1961,
+  "api_ms": 8398,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Transport Canada; Canadian Council of Motor Transport Administrators",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.75,
+  "countries_discussed": [
+   "CA"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "testing_sandboxes"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Guidelines for safe conduct of highly automated vehicle trials in Canada",
+   "Agreed by federal, provincial and territorial representatives via CCMTA",
+   "Directed at trial organizations",
+   "Later retitled Guidelines for testing automated driving systems in Canada"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2018,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Catalogue record for Transport Canada and CCMTA's 2018 guidelines directing the safe conduct of highly automated vehicle trials in Canada, agreed by federal, provincial and territorial representatives. Voluntary guidance for trial organizations; only the catalogue metadata is shown, not the full text.",
+  "title_clean": "Testing highly automated vehicles in Canada: guidelines for trial organizations",
+  "title_en": "Testing highly automated vehicles in Canada: guidelines for trial organizations",
+  "venue": "Transport Canada / Government of Canada Publications",
+  "methodology": "not_applicable"
+ }
+}

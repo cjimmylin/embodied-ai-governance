@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1398",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:44:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07066430000000001,
+  "in": 4,
+  "out": 3654,
+  "cache_read": 30083,
+  "cache_create": 8503,
+  "api_ms": 17706,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "An Ethical Black Box for Social Robots: a draft Open Standard",
+  "title_en": "An Ethical Black Box for Social Robots: a draft Open Standard",
+  "language": "en",
+  "authors_or_issuer": "Winfield, A.F.T.; van Maris, A.; Salvini, P.; Jirotka, M.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "arXiv (cs.RO)",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "standards_interoperability",
+   "safety_physical_harm",
+   "civil_liability",
+   "human_robot_interaction_social_effects",
+   "ethics_principles"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "incident_reporting",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "IEEE 1616",
+   "BS 0:2021",
+   "BS ISO 8373:2021"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "technical_or_engineering",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Proposes a draft open standard (RFC-style) for an 'ethical black box', a secure recorder of sensor, actuator and decision data in social robots, to support accident and near-miss investigation, accountability and explainability. Annex A specifies normative data structures and record formats.",
+  "key_provisions_or_claims": [
+   "Social robots should be fitted with an ethical black box analogous to aircraft flight data recorders.",
+   "EBB must be a passive, one-way recording subsystem that does not affect robot operation.",
+   "Standardisation aids accident investigation, debugging, explainability and may encourage regulators to require EBBs.",
+   "Annex A defines meta data, data data and robot data records with timestamps and checksums in a circular buffer.",
+   "Draft follows BS 0:2021 and open-standard criteria, offered for community feedback."
+  ],
+  "confidence": 0.85
+ }
+}

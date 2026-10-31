@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-f32bac3c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:54:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0938098,
+  "in": 2,
+  "out": 1889,
+  "cache_read": 11758,
+  "cache_create": 18435,
+  "api_ms": 9597,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Regulation of the European Parliament and of the Council on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance information",
+  "title_en": "Proposal for a Regulation of the European Parliament and of the Council on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance information",
+  "language": "en",
+  "authors_or_issuer": "Commission of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2007,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2007) 851 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "prohibitions_bans",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "funding_or_incentives",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "2007 Commission proposal for an EU Regulation setting Euro VI emission limits for heavy-duty vehicles and engines, tightening particulate and NOx limits, requiring type-approval, and guaranteeing independent operators access to repair and maintenance information. It concerns conventional vehicle emissions, not AI or robotics.",
+  "key_provisions_or_claims": [
+   "Euro VI limits: about 66% cut in particulate mass and 80% cut in NOx for compression-ignition engines",
+   "Manufacturers must type-approve vehicles, engines and replacement pollution control devices",
+   "Defeat strategies prohibited; tampering with reagent systems penalised",
+   "Unrestricted standardised access to OBD and repair information for independent operators",
+   "Applies from 1 April 2013; older directives repealed from 1 October 2014"
+  ],
+  "confidence": 0.95
+ }
+}

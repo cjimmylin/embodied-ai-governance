@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-f024ebb3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:19:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0612551,
+  "in": 4,
+  "out": 3741,
+  "cache_read": 27521,
+  "cache_create": 6031,
+  "api_ms": 21568,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Texas Department of Motor Vehicles (TxDMV)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "incident_reporting",
+   "oversight_body_creation",
+   "human_oversight_requirement",
+   "insurance_requirement",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "certification_conformity_assessment",
+   "human_oversight_control"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "key_provisions_or_claims": [
+   "Commercial operation of automated vehicles in Texas requires TxDMV authorization, enforceable from May 28, 2026.",
+   "Applicants must attest to traffic-law compliance, recording device, minimal risk condition capability, registration and insurance.",
+   "Applicants must give DPS an emergency responder interaction plan.",
+   "TxDMV can suspend, revoke or restrict authorizations where operation endangers the public (serious bodily injury).",
+   "Enforcement includes notice, correction period, review and a SOAH hearing within 60 days."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "SAE J3016",
+   "Texas Senate Bill 2807",
+   "Texas Transportation Code Chapter 545 Subchapter J"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "TxDMV web page explaining Texas Senate Bill 2807 (2025), which requires authorization for commercial operation of automated vehicles in Texas, enforceable from May 28, 2026. It describes application requirements, no fees, roadside and administrative enforcement, and suspension or revocation procedures with appeal rights.",
+  "title_clean": "Automated Vehicle Authorization Requirements – Senate Bill 2807 (89R)",
+  "title_en": "Automated Vehicle Authorization Requirements – Senate Bill 2807 (89R)",
+  "venue": "Texas Department of Motor Vehicles website"
+ }
+}

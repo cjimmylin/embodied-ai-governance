@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-a10a190a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:43:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029221800000000003,
+  "in": 2,
+  "out": 1905,
+  "cache_read": 11758,
+  "cache_create": 2248,
+  "api_ms": 10766,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "産業用ロボットに係る労働安全衛生規則第150条の4の施行通達の一部改正に当たっての留意事項について",
+  "title_en": "Points to Note on the Partial Amendment of the Enforcement Notice for Article 150-4 of the Industrial Safety and Health Regulations Concerning Industrial Robots",
+  "language": "ja",
+  "authors_or_issuer": "厚生労働省労働基準局安全衛生部安全課 (Ministry of Health, Labour and Welfare, Safety Division)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2013,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Health, Labour and Welfare (Japan)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "labor_employment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "ISO 10218",
+   "ISO/TS 15066"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Japanese MHLW notice (24 Dec 2013) to prefectural labour bureaus giving points to note when applying the amended enforcement circular on Article 150-4 of the Industrial Safety and Health Regulations, covering collaborative industrial robots: risk assessment guidelines, ISO/TS 15066 force limits, 500mm clearance, and forthcoming JIS equivalents of ISO 10218.",
+  "key_provisions_or_claims": [
+   "Risk assessment must follow the hazard/harm investigation guideline and the comprehensive machinery safety guideline.",
+   "Manipulator force and kinetic energy kept structurally below ISO/TS 15066 human-harm thresholds (once established) can indicate no danger.",
+   "Clearance of at least 500mm between manipulator and surrounding structures, or manual release without drive power, indicates no entrapment danger.",
+   "JIS B8433-1 and -2 are being prepared to correspond to ISO 10218-1/-2:2011."
+  ],
+  "confidence": 0.9
+ }
+}

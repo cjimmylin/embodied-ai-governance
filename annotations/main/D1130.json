@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1130",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:37:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04262980000000001,
+  "in": 2,
+  "out": 1739,
+  "cache_read": 11758,
+  "cache_create": 6015,
+  "api_ms": 8478,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Targeted consultation on the draft guidelines for the classification of high-risk artificial intelligence systems",
+  "title_en": "Targeted consultation on the draft guidelines for the classification of high-risk artificial intelligence systems",
+  "language": "en",
+  "authors_or_issuer": "European Commission, DG CONNECT",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Shaping Europe's digital future",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "consultation_open",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "transparency_explainability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission web page opening a targeted consultation (19 May to 23 July 2026) on draft guidelines for classifying high-risk AI systems under the AI Act. It seeks feedback on clarity and examples, notes final adoption by end of 2026, and mentions delayed high-risk application dates under the AI Omnibus.",
+  "key_provisions_or_claims": [
+   "Consultation runs 19 May to 23 July 2026 after a 4-week extension",
+   "Draft guidelines help providers, deployers and authorities assess high-risk classification under the AI Act",
+   "Covers AI embedded in regulated products and Annex-listed use cases",
+   "Final guidelines to be adopted by end of 2026",
+   "AI Omnibus postpones high-risk rules to Dec 2027 (stand-alone) and Aug 2028 (embedded in products)"
+  ],
+  "confidence": 0.9
+ }
+}

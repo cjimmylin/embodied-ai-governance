@@ -1,0 +1,118 @@
+{
+ "doc_id": "R2-0fdc3217",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:55:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0744678,
+  "in": 2,
+  "out": 1972,
+  "cache_read": 11758,
+  "cache_create": 13392,
+  "api_ms": 11936,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "A European strategy on Cooperative Intelligent Transport Systems, a milestone towards cooperative, connected and automated mobility",
+  "title_en": "A European strategy on Cooperative Intelligent Transport Systems, a milestone towards cooperative, connected and automated mobility",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2016,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2016) 766 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "US",
+   "AU",
+   "JP",
+   "KR",
+   "CN",
+   "SG"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "privacy_data_protection",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "safety_physical_harm",
+   "trust_acceptance"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "funding_or_incentives",
+   "international_cooperation",
+   "data_governance_requirements",
+   "audits_impact_assessment",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "ITS Directive 2010/40/EU",
+   "Radio Equipment Directive 2014/53/EU",
+   "Declaration of Amsterdam"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "European Commission Communication setting an EU strategy for coordinated deployment of Cooperative Intelligent Transport Systems (C-ITS) from 2019, as a step toward connected and automated vehicles. It addresses Day 1 services, cybersecurity, data protection, hybrid communication, interoperability, compliance assessment, possible delegated acts under the ITS Directive, and international cooperation.",
+  "key_provisions_or_claims": [
+   "Defines Day 1 and Day 1.5 C-ITS service lists for deployment from 2019",
+   "Commission to develop common EU security and certificate policy (PKI trust model) and publish guidance in 2017",
+   "Data protection by design and GDPR-compliant consent; guidance on C-ITS data protection in 2018",
+   "Hybrid communication (ETSI ITS-G5 plus cellular) with protected spectrum; interoperability via C-Roads platform",
+   "May adopt delegated acts under ITS Directive by 2018 on continuity, security, interoperability and compliance assessment"
+  ],
+  "confidence": 0.9
+ }
+}

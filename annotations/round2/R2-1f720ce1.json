@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-1f720ce1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0275858,
+  "in": 2,
+  "out": 1649,
+  "cache_read": 11758,
+  "cache_create": 2479,
+  "api_ms": 8381,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 21423:2026 Robotics — Industrial mobile robots — Communications and interoperability",
+  "title_en": "ISO 21423:2026 Robotics — Industrial mobile robots — Communications and interoperability",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 299",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "application_sectors": [
+   "manufacturing",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO store page for ISO 21423:2026, an international standard specifying communication and interoperability requirements between industrial mobile robots, fleet managers, and other equipment such as ERP tools, lifts and automated doors in shared industrial environments. It is not safety-related and excludes navigation.",
+  "key_provisions_or_claims": [
+   "Specifies communication requirements between industrial mobile robots, fleet managers and other equipment/applications",
+   "Scope limited to industrial environments with restricted public access",
+   "Excludes entertainment, consumer, military, medical and public-road uses",
+   "Not safety-related; navigation requirements excluded",
+   "Developed by ISO/TC 299; published October 2026"
+  ],
+  "confidence": 0.9
+ }
+}

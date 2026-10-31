@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-0f7421dd",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:16:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029009800000000002,
+  "in": 2,
+  "out": 1683,
+  "cache_read": 11758,
+  "cache_create": 2750,
+  "api_ms": 9903,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Council of the District of Columbia",
+  "binding_nature": "legally_binding",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "unknown",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "human_oversight_requirement",
+   "technical_standards_reference",
+   "testing_sandboxes"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "standards_interoperability",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "subnational_government",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "key_provisions_or_claims": [
+   "Defines autonomous driving system as SAE J3016 Level 3-5 systems",
+   "Defines autonomous vehicle, dynamic driving task, and operational design domain",
+   "Establishes AV testing permits issued by the District Department of Transportation",
+   "Defines test operator and remote operator roles",
+   "Defines minimal risk condition for safe vehicle stop"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": null,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Definitions section of the District of Columbia Code chapter on autonomous vehicles, defining autonomous driving systems (SAE J3016 Levels 3-5), dynamic driving task, operational design domain, test and remote operators, and AV testing permits issued by DDOT.",
+  "title_clean": "Code of the District of Columbia § 50–2351. Definitions",
+  "title_en": "Code of the District of Columbia § 50–2351. Definitions",
+  "venue": "District of Columbia Code",
+  "methodology": "not_applicable"
+ }
+}

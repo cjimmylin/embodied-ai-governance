@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-5de2dafe",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:01:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1078878,
+  "in": 2,
+  "out": 1912,
+  "cache_read": 11758,
+  "cache_create": 21897,
+  "api_ms": 10131,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Civil Aviation Rules Part 102 — Unmanned Aircraft and Remotely Piloted Aircraft Systems",
+  "title_en": "Civil Aviation Rules Part 102 — Unmanned Aircraft and Remotely Piloted Aircraft Systems",
+  "language": "en",
+  "authors_or_issuer": "Civil Aviation Safety Authority of Papua New Guinea",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "PNG Civil Aviation Rules",
+  "jurisdiction_country": "PG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "PG"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "human_oversight_control",
+   "privacy_data_protection",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "risk_based_tiering",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Papua New Guinea's Civil Aviation Rule Part 102 (Amendment 3, 19 Nov 2025) regulates remotely piloted aircraft systems, including model aircraft. It sets operating conditions, open and specific category operations, remote pilot licensing, operator authorisation/certification with safety management systems, and manufacturer declarations.",
+  "key_provisions_or_claims": [
+   "Standard operating conditions: VLOS, below 400ft AGL, daylight, 30m from uninvolved persons.",
+   "Open category limited to RPA up to 10kg; heavier or specific-category operations need an operator authorisation or certificate.",
+   "Operators must have exposition, safety management system and hazard register; occurrences must be reported to the Director.",
+   "Manufacturers declare compliance via accepted means of compliance and provide documentation.",
+   "Prohibits careless operation, operation under psychoactive substances, and flying in controlled airspace without ATC authorisation."
+  ],
+  "confidence": 0.93
+ }
+}

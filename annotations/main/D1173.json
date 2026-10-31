@@ -1,0 +1,118 @@
+{
+ "doc_id": "D1173",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:38:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0439238,
+  "in": 2,
+  "out": 1928,
+  "cache_read": 11758,
+  "cache_create": 5866,
+  "api_ms": 10260,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ethical AI use in the energy sector (version 2)",
+  "title_en": "Ethical AI use in the energy sector (version 2)",
+  "language": "en",
+  "authors_or_issuer": "Ofgem (Office of Gas and Electricity Markets), Emerging Technologies Team",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ofgem website",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "drones_uas",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "safety_physical_harm",
+   "cybersecurity",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "sustainability_environment",
+   "human_oversight_control",
+   "consumer_protection",
+   "standards_interoperability"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement",
+   "data_governance_requirements",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU AI Act",
+   "ISO/IEC 42001",
+   "NIST AI RMF",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Ofgem's second-edition good-practice guidance for ethical AI adoption in Great Britain's energy sector, built on four outcomes: safety, security, fairness and sustainability. It covers governance, risk, competencies, sector examples (including AI-controlled devices and autonomous drones) and strengthened transparency and explainability expectations, within existing regulation.",
+  "key_provisions_or_claims": [
+   "Four outcomes: safety, security, fairness and sustainability.",
+   "Voluntary good practice that complements existing legal and regulatory obligations.",
+   "Strengthened transparency and explainability expectations for advanced and agentic AI.",
+   "Risk assessment, functional-safety controls and trained operator oversight for AI controlling physical devices.",
+   "AI Reg Lab and a proposed AI technical sandbox for novel high-impact use cases."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1332",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:42:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0566492,
+  "in": 4,
+  "out": 3382,
+  "cache_read": 27447,
+  "cache_create": 5672,
+  "api_ms": 16474,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice",
+   "healthcare"
+  ],
+  "authors_or_issuer": "UK Government (GOV.UK)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "GB"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "cybersecurity",
+   "other"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Collates UK public-sector data ethics and AI guidance products with creators, audiences and update dates.",
+   "Includes Data Ethics Framework (2018), Guide to using AI in the public sector (2019), AI procurement guidelines (2020).",
+   "Covers sector guidance such as the NHS code of conduct, NHSX buyer's checklist and NCSC intelligent security tools.",
+   "Lists multilateral guidance: OECD AI principles and G20 AI principles."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2020,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "GOV.UK index page collating UK public-sector data ethics and AI guidance (Data Ethics Framework, AI public sector guide, procurement guidelines, NHS and NCSC tools) plus multilateral OECD and G20 AI principles, to guide public servants. General AI, no robotics content.",
+  "title_clean": "Data ethics and AI guidance landscape",
+  "title_en": "Data ethics and AI guidance landscape",
+  "venue": "GOV.UK"
+ }
+}

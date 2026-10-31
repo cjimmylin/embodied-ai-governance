@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0184",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:40:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.047079800000000005,
+  "in": 4,
+  "out": 3831,
+  "cache_read": 36818,
+  "cache_create": 2032,
+  "api_ms": 21847,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Alayaydeh, H.A.; Awaisheh, S.M.; Al-Taani, M.; Al-Dabbas, N.A.; Alqudah, A.M.; Awaisheh, S.M.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "JO",
+   "FR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.51983/ijiss-2025.IJISS.15.4.04",
+  "embodied_categories": [
+   "other_embodied"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "liability_regime"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "consumer_protection",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "JO",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Smart robots can be classified as things (Art. 291 Jordanian Civil Code, guardian liability) or as products, but each classification has limits.",
+   "Guardianship liability requires proving actual custody, which is difficult for autonomous robots.",
+   "Defective product liability under the Jordanian Consumer Protection Law and Standards and Metrology Law requires a defect, which autonomous harm may not involve.",
+   "Robots are classified as products in both material and intangible dimensions, but their autonomy complicates this classification.",
+   "Calls for a modern, clear legal framework to define responsibilities for harm caused by smart robots."
+  ],
+  "language": "en",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [
+   "Jordanian Civil Code No. 43 of 1976",
+   "Jordanian Consumer Protection Law",
+   "Jordanian Standards and Metrology Law",
+   "French Civil Code"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "other_embodied",
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2025,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Jordanian legal study examining whether smart robots are 'things' (guardian liability) or 'products' (defective product liability) under Jordanian and French civil law. It finds existing rules only partly adequate for harm caused by autonomous robots and calls for a modern, clear legislative framework.",
+  "title_clean": "The Problem of Establishing Civil Liability for Harmful Effects of Smart Robots",
+  "title_en": "The Problem of Establishing Civil Liability for Harmful Effects of Smart Robots",
+  "venue": "Indian Journal of Information Sources and Services"
+ }
+}

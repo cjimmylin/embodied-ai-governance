@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0511",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:20:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06918650000000001,
+  "in": 4,
+  "out": 3706,
+  "cache_read": 29625,
+  "cache_create": 7997,
+  "api_ms": 20752,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "research_science",
+   "manufacturing",
+   "elder_care_social_care",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Japan Science and Technology Agency (JST) Moonshot R&D Program; PD Kuniyoshi Yasuo",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "care_assistive_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "testing_sandboxes"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "research_ethics",
+   "cybersecurity",
+   "education_training"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Solicits Integrated (3bn yen), Specialized (1bn yen) and Elemental (100m yen) research on general-purpose autonomous humanoid AI robots.",
+   "2050 goal: AI robots that autonomously learn, adapt and act alongside humans; 2030 prototype suitable for private investment.",
+   "Integrated projects must address ethical, legal and social issues (ELSI) and industry-academia collaboration.",
+   "Proposals must include verification methods for tasks under disturbances, e.g., dressing assistance.",
+   "International collaboration requires security considerations; emphasis on nurturing young researchers."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Programme director's policy for Japan's Moonshot Goal 3 call for proposals, soliciting R&D on general-purpose autonomous humanoid AI robots by 2050. It sets three research categories, budgets, 2030 targets, evaluation and collaboration expectations, including ELSI and security considerations in international cooperation.",
+  "title_clean": "Appendix 3 \"PD's policy (Moonshot Goal 3)\"",
+  "title_en": "Appendix 3 \"PD's policy (Moonshot Goal 3)\"",
+  "venue": "JST Moonshot R&D Program"
+ }
+}

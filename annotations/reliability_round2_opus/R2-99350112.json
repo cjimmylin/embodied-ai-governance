@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-99350112",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:07:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0768836,
+  "in": 2,
+  "out": 2469,
+  "cache_read": 11758,
+  "cache_create": 3143,
+  "api_ms": 18195,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "农业农村部办公厅 国家发展改革委办公厅 财政部办公厅 国家粮食和物资储备局办公室关于实施好2025年农业机械报废更新补贴政策的通知",
+  "title_en": "Notice of the General Offices of the Ministry of Agriculture and Rural Affairs, NDRC, Ministry of Finance and the National Food and Strategic Reserves Administration on Implementing the 2025 Agricultural Machinery Scrapping and Renewal Subsidy Policy",
+  "language": "zh",
+  "authors_or_issuer": "Ministry of Agriculture and Rural Affairs General Office; National Development and Reform Commission General Office; Ministry of Finance General Office; National Food and Strategic Reserves Administration Office",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "withdrawn_or_lapsed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "agricultural_robots",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "agricultural_robots",
+  "application_sectors": [
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "taxation_economic_policy",
+   "sustainability_environment",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "国发〔2024〕7号 Action Plan for Large-Scale Equipment Renewal and Trade-in of Consumer Goods",
+   "发改环资〔2025〕13号",
+   "农办机〔2024〕4号",
+   "农办机〔2024〕5号"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Chinese ministerial notice (Nongbanji [2025] No. 3) extending 2025 subsidies for scrapping and replacing old agricultural machinery. It adds plant-protection drones, field operation monitoring terminals, rice seedling throwers and other machines to the scheme, raises subsidy rates for Beidou-assisted driving systems and drones, and funds the scheme with ultra-long special treasury bonds.",
+  "key_provisions_or_claims": [
+   "Adds rice seedling throwers, field monitoring terminals, plant-protection drones, grain dryers, colour sorters and mills to the scrapping subsidy scope",
+   "Provinces may raise their self-selected eligible machinery categories from 6 to 12",
+   "Scrapping subsidies for Beidou-assisted driving systems, monitoring terminals and plant-protection drones raised by 50%, conditional on buying the same type of new equipment",
+   "Purchase subsidy for monitoring terminals capped at 30% of the previous year's average market price",
+   "Policy applies from 1 January to 31 December 2025; provinces must report implementation by 10 January 2026"
+  ],
+  "confidence": 0.8
+ }
+}

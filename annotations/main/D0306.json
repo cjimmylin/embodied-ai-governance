@@ -1,0 +1,98 @@
+{
+ "doc_id": "D0306",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:14:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0889638,
+  "in": 4,
+  "out": 3377,
+  "cache_read": 35353,
+  "cache_create": 13558,
+  "api_ms": 17522,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "domestic_consumer"
+  ],
+  "authors_or_issuer": "The Conversation",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "AU",
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "news_article",
+  "doi": "10.64628/aa.jhp4jvvu4",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "safety_physical_harm",
+   "human_oversight_control",
+   "criminal_liability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "news_media",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Civilian self-driving cars such as Tesla Autopilot are already available to Australian consumers.",
+   "Human error and unpredictable road users make fail-safe autonomous driving nearly impossible.",
+   "Tesla's cross-US trip showed the system needed human supervision to avoid crashes.",
+   "Law and ethics on civilian robotic vehicles have not caught up with the technology."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "pub_month": 11,
+  "pub_year": 2015,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "The Conversation article (Nov 2015) discusses civilian self-driving cars, citing Tesla's cross-US Autopilot trip and Australia's first driverless trial. It argues human error and unpredictable road users make safe autonomy hard, and that legal and ethical frameworks lag behind the technology already available to consumers.",
+  "title_clean": "‘Killer robots’ hit the road – and the law has yet to catch up",
+  "title_en": "‘Killer robots’ hit the road – and the law has yet to catch up",
+  "venue": "The Conversation"
+ }
+}

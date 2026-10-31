@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-3cd92f41",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0536171,
+  "in": 4,
+  "out": 3606,
+  "cache_read": 26041,
+  "cache_create": 4463,
+  "api_ms": 21554,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ansvarsfrågan vid automatiserad körning samt nya regler i syfte att främja en ökad användning av geostaket",
+  "title_en": "The question of liability in automated driving and new rules to promote increased use of geofencing",
+  "language": "sv",
+  "authors_or_issuer": "Regeringskansliet (Swedish Government Offices), Departementsserien",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Regeringen.se – Departementsserien (Ds 2021:28)",
+  "jurisdiction_country": "SE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SE"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "criminal_liability",
+   "human_oversight_control",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Government web page for Swedish Ds 2021:28, a departmental memorandum on allocating liability in automated driving and on rules promoting geofencing for road vehicles. It covers responsibility among actors, the driver's role, and criminal or other sanctions for traffic offences. The report itself is a linked PDF.",
+  "key_provisions_or_claims": [
+   "Considers allocation of liability among actors during automated driving",
+   "Analyses the driver's role and responsibility when vehicles can be driven manually and automatically",
+   "Assesses the need for criminal or other sanctions for traffic offences in automated driving",
+   "Considers rules letting municipalities and road authorities prioritise vehicles using geofencing",
+   "Examines liability when vehicle functionality or speed is automatically changed via geofencing"
+  ],
+  "confidence": 0.8
+ }
+}

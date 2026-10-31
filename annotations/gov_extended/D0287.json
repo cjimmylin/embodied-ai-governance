@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0287",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:40:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.032169800000000005,
+  "in": 2,
+  "out": 1717,
+  "cache_read": 11758,
+  "cache_create": 3455,
+  "api_ms": 12977,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The UAE Charter for the Development and Use of Artificial Intelligence",
+  "title_en": "The UAE Charter for the Development and Use of Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Cabinet Affairs, United Arab Emirates",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UAE Government Portal (u.ae)",
+  "jurisdiction_country": "AE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AE"
+  ],
+  "doc_type": "ethical_framework_or_principles",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "human_oversight_control",
+   "industrial_policy_innovation",
+   "education_training",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "The UAE's 2024 non-binding charter sets twelve principles for AI development and use, including safety, algorithmic bias, privacy, transparency, human oversight, accountability and inclusion, alongside innovation and competitiveness goals. It is general-purpose, with no robotics-specific provisions.",
+  "key_provisions_or_claims": [
+   "Twelve priorities: safety, bias, privacy, transparency, human oversight, governance and accountability, inclusion",
+   "Encourages modifying or removing AI systems that pose risks",
+   "Emphasizes irreplaceable human judgment and oversight of AI",
+   "Requires compliance with international treaties and local laws",
+   "Balances ethical use with innovation, investment and global leadership goals"
+  ],
+  "confidence": 0.9
+ }
+}

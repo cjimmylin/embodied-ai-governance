@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-9da21cf3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.047205300000000006,
+  "in": 4,
+  "out": 3320,
+  "cache_read": 25243,
+  "cache_create": 3553,
+  "api_ms": 15544,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw",
+  "title_en": "Act of 14 December 2018 amending the Aviation Law and certain other acts",
+  "language": "pl",
+  "authors_or_issuer": "Sejm of the Republic of Poland (Dziennik Ustaw)",
+  "issuer_type": "legislature",
+  "pub_year": 2019,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Dziennik Ustaw 2019 poz. 235",
+  "jurisdiction_country": "PL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "PL"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Metadata page for the Polish Act of 14 December 2018 amending the Aviation Law, published in Dziennik Ustaw 2019 item 235 on 7 February 2019. Only bibliographic details appear. The act is known to introduce rules for unmanned aircraft (drones), but the text is not shown.",
+  "key_provisions_or_claims": [
+   "Amends the Polish Aviation Law and other acts",
+   "Published 7 February 2019, Dziennik Ustaw 2019 poz. 235",
+   "Full text not shown; drone content inferred from the act's known subject"
+  ],
+  "confidence": 0.4
+ }
+}

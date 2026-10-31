@@ -1,0 +1,105 @@
+{
+ "doc_id": "D1268",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:40:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0364478,
+  "in": 2,
+  "out": 1768,
+  "cache_read": 11758,
+  "cache_create": 4397,
+  "api_ms": 10395,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "European AI Office | Shaping Europe's digital future",
+  "title_en": "European AI Office | Shaping Europe's digital future",
+  "language": "en",
+  "authors_or_issuer": "European Commission (DG CONNECT), European AI Office",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Shaping Europe's digital future (European Commission)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "transparency_explainability",
+   "standards_interoperability",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "international_cooperation",
+   "self_regulation_codes",
+   "audits_impact_assessment",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Web page describing the European AI Office within the European Commission: its structure, its role implementing the AI Act and enforcing general-purpose AI rules, its support for trustworthy AI innovation, its advisory bodies, and international cooperation. Robotics appears only as the name of one unit (\"Excellence in AI and Robotics\").",
+  "key_provisions_or_claims": [
+   "AI Office enforces GPAI rules: evaluations, information requests, fines, and model restrictions.",
+   "Supports coherent AI Act application via the AI Board, Scientific Panel and Advisory Forum.",
+   "Drafts codes of practice, guidelines, and implementing and delegated acts.",
+   "Promotes innovation through sandboxes, AI Factories, the AI Continent plan and the Apply AI Strategy.",
+   "Has a unit for 'Excellence in AI and Robotics'."
+  ],
+  "confidence": 0.85
+ }
+}

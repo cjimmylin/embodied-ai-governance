@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-b104ea55",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07313449999999999,
+  "in": 4,
+  "out": 3605,
+  "cache_read": 30780,
+  "cache_create": 9241,
+  "api_ms": 17816,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Economic and Social Committee on 'Developing artificial intelligence in European micro, small and medium-sized enterprises (MSMEs)'",
+  "title_en": "Opinion of the European Economic and Social Committee on 'Developing artificial intelligence in European micro, small and medium-sized enterprises (MSMEs)'",
+  "language": "en",
+  "authors_or_issuer": "European Economic and Social Committee",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, C 194/1",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "IT",
+   "FR",
+   "IE",
+   "RO",
+   "SE"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "agriculture_food",
+   "construction",
+   "healthcare",
+   "public_administration_justice",
+   "finance"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "trust_acceptance",
+   "education_training",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "education_training_programs",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EESC opinion on supporting AI adoption by European micro, small and medium-sized enterprises. It calls for accessible funding, data access, training, regulatory sandboxes, legal certainty and MSME participation in standard-setting, with sector comments on agriculture, construction, health, legal services and accounting.",
+  "key_provisions_or_claims": [
+   "MSMEs need simple tools and accessible funding to adopt AI",
+   "Regulatory sandboxes and full-scale trials should be promoted",
+   "MSMEs should take part early in developing standards and regulation",
+   "Education and training needed to build AI skills in MSMEs",
+   "Clear, uniform rules across the single market to build trust and legal certainty"
+  ],
+  "confidence": 0.9
+ }
+}

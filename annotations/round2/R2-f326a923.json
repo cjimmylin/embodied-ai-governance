@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-f326a923",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:33:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0466318,
+  "in": 2,
+  "out": 1938,
+  "cache_read": 11758,
+  "cache_create": 6518,
+  "api_ms": 9852,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "交通运输部 工业和信息化部 国务院国资委 市场监管总局关于印发《智能航运2030行动计划》的通知",
+  "title_en": "Notice of the Ministry of Transport, MIIT, SASAC and SAMR on Issuing the Intelligent Shipping 2030 Action Plan",
+  "language": "zh",
+  "authors_or_issuer": "交通运输部; 工业和信息化部; 国务院国资委; 市场监管总局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Transport of China",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_maritime_or_rail"
+  ],
+  "primary_embodied_category": "autonomous_maritime_or_rail",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "safety_physical_harm",
+   "cybersecurity",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "labor_employment",
+   "education_training",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "technical_standards_reference",
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "licensing_registration",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "international_cooperation",
+   "data_governance_requirements",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Chinese four-ministry action plan promoting intelligent and autonomous shipping through 2030: technology and equipment R&D, pilot zones and routes, infrastructure, testing and inspection, and development of regulations, standards, and data/algorithm governance for autonomous and remotely piloted vessels.",
+  "key_provisions_or_claims": [
+   "By 2027: 3+ pilot zones, 5+ pilot routes, 100+ intelligent ships in operation",
+   "By 2030: mature regulatory and standards system, internationally advanced level",
+   "Draft rules on smart ship inspection and registration, manning and training, navigation management, accident investigation, legal liability",
+   "Accelerate standards for classification, remote piloting, autonomous navigation, risk assessment and cybersecurity",
+   "Algorithm testing and data classification management to improve transparency, fairness and trustworthiness"
+  ],
+  "confidence": 0.9
+ }
+}

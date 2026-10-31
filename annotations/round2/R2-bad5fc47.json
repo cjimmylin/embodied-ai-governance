@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-bad5fc47",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1250378,
+  "in": 2,
+  "out": 1747,
+  "cache_read": 11758,
+  "cache_create": 26597,
+  "api_ms": 10684,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Part 1216—Environmental Quality (NASA NEPA Implementing Procedures)",
+  "title_en": "Part 1216—Environmental Quality (NASA NEPA Implementing Procedures)",
+  "language": "en",
+  "authors_or_issuer": "National Aeronautics and Space Administration (NASA)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Code of Federal Regulations (14 CFR Part 1216); 91 FR 39883",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "research_science",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "risk_management_risk_tiers",
+   "other"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "NASA's final rule (14 CFR Part 1216) setting procedures to implement the National Environmental Policy Act: when NEPA applies, categorical exclusions, environmental assessments and impact statements, page and time limits, agency roles, and sponsor-prepared documents. Unmanned aircraft appear only incidentally in categorical exclusions.",
+  "key_provisions_or_claims": [
+   "Defines when NEPA applies and sequences review levels: categorical exclusion, EA, EIS.",
+   "Lists NASA categorical exclusions, including routine UAS operations and research.",
+   "Environmental assessments limited to 75 pages and one year; EISs to 150 pages (300 if extraordinarily complex) and two years.",
+   "Non-Federal sponsors may prepare environmental documents under NASA supervision.",
+   "Requires public notice, mitigation monitoring, and consultation with CEQ."
+  ],
+  "confidence": 0.9
+ }
+}

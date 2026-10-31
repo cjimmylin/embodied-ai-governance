@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-a6d6851a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:45:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.042473800000000006,
+  "in": 2,
+  "out": 1795,
+  "cache_read": 11758,
+  "cache_create": 5836,
+  "api_ms": 10622,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Regulation (EU) No 207/2012 of 9 March 2012 on electronic instructions for use of medical devices",
+  "title_en": "Commission Regulation (EU) No 207/2012 of 9 March 2012 on electronic instructions for use of medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2012,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 72/28",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "consumer_protection",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "sustainability_environment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "Directive 90/385/EEC",
+   "Directive 93/42/EEC",
+   "Directive 95/46/EC"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Regulation setting conditions under which manufacturers of certain medical devices (implantables' tools, fixed installed devices, stand-alone software) may supply instructions for use electronically instead of on paper, with risk assessment, paper-on-request, website and notified-body review requirements. Not about AI or robotics.",
+  "key_provisions_or_claims": [
+   "Electronic instructions allowed only for professional-use devices of listed types",
+   "Manufacturer must perform documented risk assessment showing safety is maintained",
+   "Paper copy must be supplied free within 7 days on request",
+   "Websites must be secure, stable, GDPR-predecessor compliant, and keep prior versions",
+   "Notified bodies review compliance in conformity assessment; applies from 1 March 2013"
+  ],
+  "confidence": 0.9
+ }
+}

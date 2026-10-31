@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-a30cd939",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:44:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1492718,
+  "in": 2,
+  "out": 1856,
+  "cache_read": 11758,
+  "cache_create": 32383,
+  "api_ms": 13133,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Delegated Regulation (EU) 2022/2387 amending Delegated Regulation (EU) 2017/655 as regards monitoring of gaseous pollutant emissions from in-service internal combustion engines installed in non-road mobile machinery",
+  "title_en": "Commission Delegated Regulation (EU) 2022/2387 amending Delegated Regulation (EU) 2017/655 as regards monitoring of gaseous pollutant emissions from in-service internal combustion engines installed in non-road mobile machinery",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 316/1",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment",
+   "construction",
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU delegated regulation amending the in-service emissions monitoring rules for Stage V internal combustion engines in non-road mobile machinery, extending them to engines under 56 kW and over 560 kW. It sets testing schemes, deadlines, PEMS procedures and reporting requirements. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Extends in-service monitoring to engines below 56 kW and above 560 kW.",
+   "Introduces In-Service Monitoring Engine Groups with testing schemes based on emission durability period, a 4-year period, machinery age or odometer reading.",
+   "Extends reporting deadlines to 2024 and 2026 after COVID-19 disruption.",
+   "Sets PEMS test, data-validity and conformity-factor calculation procedures.",
+   "Existing EU type-approvals remain valid and need not be revised."
+  ],
+  "confidence": 0.95
+ }
+}

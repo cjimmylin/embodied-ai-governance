@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-3ee8b70a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:34:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.046807800000000004,
+  "in": 2,
+  "out": 1850,
+  "cache_read": 11758,
+  "cache_create": 6782,
+  "api_ms": 9538,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "农业农村部关于大力发展智慧农业的指导意见",
+  "title_en": "Guiding Opinions of the Ministry of Agriculture and Rural Affairs on Vigorously Developing Smart Agriculture",
+  "language": "zh",
+  "authors_or_issuer": "农业农村部 (Ministry of Agriculture and Rural Affairs of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 12,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "农业农村部 (MARA)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "agricultural_robots",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "agricultural_robots",
+  "application_sectors": [
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "cybersecurity",
+   "education_training",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "education_training_programs",
+   "international_cooperation",
+   "oversight_body_creation",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "China's Ministry of Agriculture and Rural Affairs guideline (Nongshi Fa [2024] No. 3) promoting smart agriculture through IoT, big data, AI and robots. It sets 2030 and 2035 targets, and covers technology R&D, pilot zones, standards, testing, data security, talent and funding support.",
+  "key_provisions_or_claims": [
+   "Targets 35% agricultural production informatization by 2030 and over 40% by 2035",
+   "Promotes intelligent farm machinery, drones, and agricultural and operation robots",
+   "Calls for key R&D on agricultural sensors, chips, algorithms and robots",
+   "Builds standards system and testing/inspection regimes for smart agriculture equipment",
+   "Provides subsidies, financing and pilot zones; stresses cybersecurity and data security risk assessment"
+  ],
+  "confidence": 0.85
+ }
+}

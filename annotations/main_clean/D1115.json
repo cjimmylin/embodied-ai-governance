@@ -1,0 +1,93 @@
+{
+ "doc_id": "D1115",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:02:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0253798,
+  "in": 2,
+  "out": 1636,
+  "cache_read": 11758,
+  "cache_create": 1960,
+  "api_ms": 10179,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Policy and investment recommendations for trustworthy Artificial Intelligence",
+  "title_en": "Policy and investment recommendations for trustworthy Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "European Commission, High-Level Expert Group on AI (AI HLEG)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2019,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Shaping Europe's digital future (European Commission)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "trust_acceptance"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission landing page for the AI HLEG's second deliverable, Policy and Investment Recommendations for Trustworthy AI (26 June 2019), following the Ethics Guidelines of April 2019. The page gives only publication context and a PDF download link, not the recommendations themselves.",
+  "key_provisions_or_claims": [
+   "Second deliverable of the AI HLEG, published 26 June 2019",
+   "Follows the Ethics Guidelines for Trustworthy AI of 8 April 2019",
+   "AI HLEG is an independent expert group set up by the Commission in June 2018",
+   "Full recommendations are only in the linked PDF, not on this page"
+  ],
+  "confidence": 0.8
+ }
+}

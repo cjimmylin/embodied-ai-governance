@@ -1,0 +1,110 @@
+{
+ "doc_id": "D0240",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:39:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.042167800000000005,
+  "in": 2,
+  "out": 1838,
+  "cache_read": 11758,
+  "cache_create": 5652,
+  "api_ms": 10081,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Recommendations on the Protection of Personal Data in the Field of Artificial Intelligence",
+  "title_en": "Recommendations on the Protection of Personal Data in the Field of Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "Turkish Personal Data Protection Authority (KVKK / TPDPA)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2021,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "TPDPA Publications No: 33",
+  "jurisdiction_country": "TR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "TR"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "ethics_principles",
+   "human_oversight_control",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "risk_management_risk_tiers",
+   "human_dignity_autonomy",
+   "education_training"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "self_regulation_codes",
+   "conformity_assessment_certification",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Guidance from Turkey's data protection authority (KVKK) giving recommendations under Law No. 6698 to AI developers, manufacturers, service providers and decision makers. It stresses privacy by design, impact assessments, data minimisation, anonymisation, human intervention, accountability and rights-based risk mitigation. It has no robotics-specific content.",
+  "key_provisions_or_claims": [
+   "AI work processing personal data must comply with Personal Data Protection Law No. 6698",
+   "Conduct privacy impact assessments where high risk is foreseen",
+   "Apply data protection by design and prefer anonymisation where possible",
+   "Ensure human intervention and individuals' right not to rely on AI outputs or be subject to solely automated decisions",
+   "Encourage codes of conduct, certification, supervisory authority consultation, and digital literacy"
+  ],
+  "confidence": 0.85
+ }
+}

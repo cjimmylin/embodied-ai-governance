@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1239",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:44:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0350598,
+  "in": 2,
+  "out": 1784,
+  "cache_read": 11758,
+  "cache_create": 4010,
+  "api_ms": 11393,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Factories",
+  "title_en": "AI Factories",
+  "language": "en",
+  "authors_or_issuer": "European Commission, Directorate-General for Communications Networks, Content and Technology (DG CONNECT)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Digital Strategy (European Commission website)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "sustainability_environment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission web page describing EU AI Factories and planned AI Gigafactories, EuroHPC-based supercomputing hubs giving startups, SMEs, researchers and industry access to compute for trustworthy AI. Lists 19 factories and 13 antennas, selection rounds from 2024 to 2025, and about €10 billion in public investment. No robotics content.",
+  "key_provisions_or_claims": [
+   "19 AI Factories and 13 Antennas are being set up through the EuroHPC JU, with priority access for startups and SMEs.",
+   "At least 9 new AI-optimised supercomputers will be procured, more than tripling EuroHPC AI computing capacity.",
+   "A call for tenders seeks up to seven AI Gigafactories with over 100,000 advanced AI processors, backed by up to €10 billion in public funding.",
+   "Public and Member State investment in supercomputing and AI Factories is set to reach €10 billion over 2021-2027.",
+   "The European AI Office coordinates with EuroHPC JU and the initiative is framed as supporting AI Act-aligned trustworthy AI."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-c5427e07",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1042218,
+  "in": 2,
+  "out": 1841,
+  "cache_read": 11758,
+  "cache_create": 21158,
+  "api_ms": 10518,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "PART 107—SMALL UNMANNED AIRCRAFT SYSTEMS",
+  "title_en": "Part 107—Small Unmanned Aircraft Systems (14 CFR)",
+  "language": "en",
+  "authors_or_issuer": "Federal Aviation Administration (FAA), U.S. Department of Transportation",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2021,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Code of Federal Regulations (eCFR)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "education_training",
+   "risk_management_risk_tiers",
+   "civil_liability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "risk_based_tiering",
+   "education_training_programs",
+   "transparency_disclosure_labelling",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "US federal regulation (14 CFR Part 107) governing civil small unmanned aircraft systems under 55 lb: remote pilot certification, operating limits, operations over people in four categories, declarations of compliance, safety event reporting and waivers.",
+  "key_provisions_or_claims": [
+   "Remote pilot certificate required; knowledge test and recurrent training every 24 months",
+   "Operating limits: visual line of sight, 400 ft altitude, 100 mph, daylight/lighted night operations",
+   "Four categories for operations over people, with injury-energy thresholds (11 and 25 ft-lbs) and labeling",
+   "Manufacturers submit FAA-accepted declarations of compliance with means of compliance; FAA may rescind",
+   "Safety event reporting within 10 days; waivers available for listed rules"
+  ],
+  "confidence": 0.95
+ }
+}

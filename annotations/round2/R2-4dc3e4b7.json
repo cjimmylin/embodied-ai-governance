@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-4dc3e4b7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.034457800000000004,
+  "in": 2,
+  "out": 1781,
+  "cache_read": 11758,
+  "cache_create": 3867,
+  "api_ms": 9298,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 10218-2:2025 Robotics — Safety requirements — Part 2: Industrial robot applications and robot cells",
+  "title_en": "ISO 10218-2:2025 Robotics — Safety requirements — Part 2: Industrial robot applications and robot cells",
+  "language": "en",
+  "authors_or_issuer": "ISO (ISO/TC 299)",
+  "issuer_type": "standards_body",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 10218",
+   "ISO/TS 15066"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "ISO store page for ISO 10218-2:2025, the international standard on safety requirements for industrial robot applications and robot cells, covering integration, commissioning, operation, maintenance and decommissioning. It lists scope exclusions, the 2025 revision's changes, relation to ISO 10218-1 and ISO/TS 15066, and the publication stage history.",
+  "key_provisions_or_claims": [
+   "Specifies safety requirements for integration of industrial robot applications and cells across their lifecycle",
+   "Excludes medical, service, consumer, military, space, underwater and law-enforcement robots",
+   "Excludes mobility hazards when robots are integrated with driverless industrial trucks or mobile platforms",
+   "Second edition published February 2025, replacing ISO 10218-2:2011",
+   "Complements ISO 10218-1 and ISO/TS 15066 on collaborative applications"
+  ],
+  "confidence": 0.9
+ }
+}

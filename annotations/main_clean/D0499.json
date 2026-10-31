@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0499",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:54:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.031181800000000003,
+  "in": 2,
+  "out": 1703,
+  "cache_read": 11758,
+  "cache_create": 3243,
+  "api_ms": 8855,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Legal Responsibility For Operational Failures Through Robotic Telesurgery",
+  "title_en": "Legal Responsibility For Operational Failures Through Robotic Telesurgery",
+  "language": "en",
+  "authors_or_issuer": "Apriliani, N.P.E.M.; Bagiastra, I.N.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": "10.58812/wsis.v2i09.1306",
+  "venue": "West Science Interdisciplinary Studies",
+  "jurisdiction_country": "ID",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ID"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "safety_physical_harm",
+   "human_oversight_control"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "Indonesia Health Law No. 17 of 2023"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Normative legal study of Indonesian law on liability for failed operations in robotic telesurgery. It finds a norm vacuum in Health Law No. 17 of 2023 regarding doctors' responsibility and calls for specific legislation to ensure legal certainty and address malpractice.",
+  "key_provisions_or_claims": [
+   "Law No. 17 of 2023 on Health does not regulate legal responsibility for failed robotic telesurgery operations",
+   "Norm vacuum risks legal uncertainty and malpractice",
+   "Recommends a specific law regulating doctors' responsibilities in telesurgery",
+   "Telesurgery could promote health equality in Indonesia"
+  ],
+  "confidence": 0.9
+ }
+}

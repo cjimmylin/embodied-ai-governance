@@ -1,0 +1,31 @@
+**T01_doc_types_by_set. Document types by analysis set (usable documents)**
+
+| doc_type                                       |   Embodied-AI set |   General-AI set |   Other |   total |
+|:-----------------------------------------------|------------------:|-----------------:|--------:|--------:|
+| Regulation or decree                           |               209 |               60 |     299 |     568 |
+| Web page informational                         |               116 |              234 |      27 |     377 |
+| Journal article                                |               246 |               32 |      10 |     288 |
+| Technical standard                             |               254 |               21 |       8 |     283 |
+| Policy guideline or code of practice           |                84 |               83 |      70 |     237 |
+| National strategy or action plan               |                89 |               85 |      22 |     196 |
+| Government report or review                    |                57 |              116 |       9 |     182 |
+| Press release or government news               |                32 |              126 |       2 |     160 |
+| Statute or act                                 |                71 |               12 |      34 |     117 |
+| Conference paper                               |               105 |                4 |       3 |     112 |
+| Bill or draft law                              |                36 |               40 |      27 |     103 |
+| Intergovernmental recommendation or resolution |                27 |               39 |      14 |      80 |
+| Consultation or white paper                    |                38 |               38 |       0 |      76 |
+| Parliamentary material                         |                30 |               33 |       4 |      67 |
+| Preprint or working paper                      |                47 |                3 |       3 |      53 |
+| Industry or ngo report                         |                19 |               30 |       1 |      50 |
+| Book or chapter                                |                42 |                1 |       2 |      45 |
+| Editorial or commentary                        |                35 |                4 |       6 |      45 |
+| Ethical framework or principles                |                 8 |               15 |       0 |      23 |
+| Review or survey article                       |                21 |                1 |       0 |      22 |
+| Blog or opinion                                |                10 |               12 |       0 |      22 |
+| Thesis or dissertation                         |                12 |                3 |       0 |      15 |
+| News article                                   |                 8 |                4 |       0 |      12 |
+| Procurement or internal policy                 |                 0 |                8 |       4 |      12 |
+| Other                                          |                 3 |                6 |       1 |      10 |
+| Court decision or judicial notice              |                 3 |                4 |       1 |       8 |
+| International treaty or convention             |                 1 |                1 |       0 |       2 |

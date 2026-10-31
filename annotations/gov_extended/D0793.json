@@ -1,0 +1,93 @@
+{
+ "doc_id": "D0793",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:45:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0542742,
+  "in": 4,
+  "out": 3408,
+  "cache_read": 26722,
+  "cache_create": 5082,
+  "api_ms": 19328,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "网络安全技术 生成式人工智能服务安全基本要求",
+  "title_en": "Cybersecurity technology—Basic security requirements for generative artificial intelligence service",
+  "language": "zh",
+  "authors_or_issuer": "TC260 (National Technical Committee 260 on Cybersecurity of SAC); China Electronics Standardization Institute et al.",
+  "issuer_type": "standards_body",
+  "pub_year": 2025,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "National Public Service Platform for Standards Information (GB/T 45654-2025)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "standards_interoperability"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Catalogue metadata page for Chinese national standard GB/T 45654-2025, setting basic security requirements for generative AI services. Issued 25 April 2025, effective 1 November 2025, drafted under TC260 with many companies and universities. Only metadata and related standards are shown, not the requirements text.",
+  "key_provisions_or_claims": [
+   "GB/T 45654-2025 published 2025-04-25, effective 2025-11-01, status current",
+   "Administered by TC260 under the Standardization Administration of China",
+   "Drafted by CESI, Baidu, Alibaba Cloud, Huawei, DeepSeek and universities",
+   "Lists related generative AI security standards, e.g. GB/T 45652-2025 and GB/T 45674-2025"
+  ],
+  "confidence": 0.8
+ }
+}

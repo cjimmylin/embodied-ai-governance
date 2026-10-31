@@ -1,0 +1,89 @@
+{
+ "doc_id": "D0810",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:28:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0581438,
+  "in": 2,
+  "out": 1552,
+  "cache_read": 11758,
+  "cache_create": 10361,
+  "api_ms": 11627,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "인공지능(AI) 윤리기준 - 보도자료",
+  "title_en": "National AI Ethics Standards - Press Release",
+  "language": "ko",
+  "authors_or_issuer": "과학기술정보통신부 (Ministry of Science and ICT, Korea)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 12,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "과학기술정보통신부 (MSIT) website",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Korean Ministry of Science and ICT press release page (attachment dated 23 Dec 2020) announcing the national AI ethics standards. The excerpt contains mostly site navigation and attachment links; the press release body is largely missing, so content is inferred from title and filename.",
+  "key_provisions_or_claims": [
+   "Announces Korea's national AI ethics standards (Dec 2020)",
+   "Body text not available in excerpt; only navigation and attachments (HWP/ODT) shown"
+  ],
+  "confidence": 0.5
+ }
+}

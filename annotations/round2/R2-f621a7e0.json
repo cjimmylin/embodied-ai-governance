@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-f621a7e0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0506758,
+  "in": 2,
+  "out": 1736,
+  "cache_read": 11758,
+  "cache_create": 8034,
+  "api_ms": 9275,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "How apprenticeships and dual learning schemes can bolster the skills that businesses need in order to face the challenges of the green and digital transitions",
+  "title_en": "How apprenticeships and dual learning schemes can bolster the skills that businesses need in order to face the challenges of the green and digital transitions",
+  "language": "en",
+  "authors_or_issuer": "European Economic and Social Committee",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (Series C)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "DE",
+   "FR",
+   "NL",
+   "AT",
+   "DK"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "education_training",
+   "labor_employment",
+   "industrial_policy_innovation",
+   "children_vulnerable_groups"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Economic and Social Committee opinion on how apprenticeships and dual learning can build digital and green skills. It proposes a 5-10% complementary technology module, supports adult apprenticeships, Erasmus+ and disability inclusion, and says AI opportunities and risks should be part of training. It has no robotics content.",
+  "key_provisions_or_claims": [
+   "Proposes a complementary digital/green module of 5-10% of apprenticeship training, certified or micro-certified.",
+   "Calls for EU funding to identify new digital and green skills needs.",
+   "Supports apprenticeships for adults over 30 and for people with disabilities.",
+   "Says AI tools, opportunities and risks should be integrated into apprenticeship training.",
+   "Stresses the role of social partners in anticipating skills needs."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "doc_id": "D0818",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:28:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0785175,
+  "in": 4,
+  "out": 4365,
+  "cache_read": 30035,
+  "cache_create": 8831,
+  "api_ms": 21927,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Statement of Max Fenkell, Scale AI, before the House Committee on Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection: DeepSeek and Unitree Robotics: Examining the National Security Risks of PRC Artificial Intelligence, Robotics, and Autonomous Technologies and Building a Secure U.S. Technology Base",
+  "title_en": "Statement of Max Fenkell, Scale AI, before the House Committee on Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection: DeepSeek and Unitree Robotics: Examining the National Security Risks of PRC Artificial Intelligence, Robotics, and Autonomous Technologies and Building a Secure U.S. Technology Base",
+  "language": "en",
+  "authors_or_issuer": "Scale AI (Max Fenkell); U.S. House Committee on Homeland Security hearing materials",
+  "issuer_type": "industry_company",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "U.S. House Committee on Homeland Security, Subcommittee on Cybersecurity and Infrastructure Protection hearing",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US",
+   "CN",
+   "PH"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "professional_service_robots",
+   "autonomous_road_vehicles",
+   "mobile_industrial_logistics",
+   "military_autonomous_weapons",
+   "security_policing_robots"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "defense_security",
+   "manufacturing",
+   "logistics_transport",
+   "energy_environment",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "military_use_ihl"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "prohibitions_bans",
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Congressional hearing statement by Scale AI arguing China dominates robotics AI data and deployment, creating national security risks. It urges investigating Chinese robotics data as a threat, treating US data as a strategic asset, and boosting US investment. The hearing materials also address security risks of PRC robots such as Unitree and LiDAR sensors.",
+  "key_provisions_or_claims": [
+   "China holds roughly 90% of commercially available robotics AI data and produces it at 60% lower cost, per Scale's estimates.",
+   "Reliance on Chinese data creates supply chain, data poisoning and backdoor risks.",
+   "Congress should investigate Chinese robotics data as a national security threat and treat US data as a national asset.",
+   "Four actions are needed to win on data and implementation.",
+   "Chinese LiDAR and robots in critical infrastructure pose spatial-data and espionage risks."
+  ],
+  "confidence": 0.8
+ }
+}

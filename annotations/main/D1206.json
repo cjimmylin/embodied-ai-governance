@@ -1,0 +1,105 @@
+{
+ "doc_id": "D1206",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:39:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0355018,
+  "in": 2,
+  "out": 1729,
+  "cache_read": 11758,
+  "cache_create": 4258,
+  "api_ms": 9563,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Transparency and accountability: the challenges of artificial intelligence",
+  "title_en": "Transparency and accountability: the challenges of artificial intelligence",
+  "language": "en",
+  "authors_or_issuer": "France Diplomatie, Ministry for Europe and Foreign Affairs (France)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "France Diplomatie",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "FR",
+   "EU",
+   "CA"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "transparency_explainability",
+   "civil_liability",
+   "privacy_data_protection",
+   "industrial_policy_innovation",
+   "human_oversight_control",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "French Foreign Ministry web page presenting France's position on AI governance: urgent regulation grounded in investment and innovation, digital sovereignty, and ethics. It cites the EU White Paper and the AI HLEG trustworthy AI criteria, GPAI, and the UN panel, and stresses explainability and human liability for AI damage.",
+  "key_provisions_or_claims": [
+   "AI regulation is urgently needed, resting on innovation, sovereignty and ethics.",
+   "EU aims for at least €20 billion per year of AI investment by 2030.",
+   "Build a European regulatory model and promote it worldwide.",
+   "Endorses AI HLEG seven trustworthy AI criteria.",
+   "France's vision: humans primarily liable for damage caused by AI systems; explainability required."
+  ],
+  "confidence": 0.85
+ }
+}

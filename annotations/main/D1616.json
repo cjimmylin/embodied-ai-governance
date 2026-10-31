@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1616",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0347278,
+  "in": 2,
+  "out": 1818,
+  "cache_read": 11758,
+  "cache_create": 3842,
+  "api_ms": 10288,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "authors_or_issuer": "Mirbeth, C.; Ohneberg, C.; Eberl, I.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "DE"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.3233/SHTI240009",
+  "embodied_categories": [
+   "care_assistive_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "children_vulnerable_groups",
+   "trust_acceptance",
+   "labor_employment",
+   "research_ethics"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Users fear loss of interpersonal interaction, empathy and social isolation from care robots.",
+   "Patient factors such as age, illness and cognition must be considered in design.",
+   "Robots should supplement, not replace, nursing staff.",
+   "Care-Centered Value-Sensitive Design guides the qualitative interviews with 23 participants.",
+   "Ethical requirements should be elicited from users during development."
+  ],
+  "language": "en",
+  "methodology": "empirical_qualitative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2024,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Short dHealth 2024 paper reporting preliminary qualitative interviews (23 nurses, health professionals, patients, relatives) in the ReduSys project on ethical and social requirements for care robots. Participants fear reduced human contact and patient anxiety, and insist robots only supplement nursing staff.",
+  "title_clean": "Symbiosis of Technology and Ethics: Preliminary Results of an Inquiry into the Moral Dimensions in the Use of Robotic Systems in Patient Care",
+  "title_en": "Symbiosis of Technology and Ethics: Preliminary Results of an Inquiry into the Moral Dimensions in the Use of Robotic Systems in Patient Care",
+  "venue": "dHealth 2024 (Studies in Health Technology and Informatics, IOS Press)"
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-65ecc18d",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:02:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1680116,
+  "in": 2,
+  "out": 1881,
+  "cache_read": 11758,
+  "cache_create": 16004,
+  "api_ms": 13792,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "PART 298—VESSEL AND SHIPYARD FINANCING",
+  "title_en": "Part 298—Vessel and Shipyard Financing",
+  "language": "en",
+  "authors_or_issuer": "Maritime Administration (MARAD), U.S. Department of Transportation",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Code of Federal Regulations (46 CFR Part 298) / Federal Register",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "finance"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "46 U.S.C. ch. 537 (Title XI)",
+   "Federal Financing Bank Act of 1973"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "This is the US federal regulation (46 CFR Part 298) for MARAD's Vessel and Shipyard Financing Program, published at 91 FR 55491 in August 2026. It sets credit standards, eligibility rules, fees, foreign-component waivers, collateral and mortgage rules, and default procedures for federal guarantees on loans for building vessels and modernising shipyards. It does not cover AI or robotics.",
+  "key_provisions_or_claims": [
+   "MARAD guarantees FFB-purchased notes financing vessel construction, repair and shipyard modernisation",
+   "Applicants must be US citizens; vessels must be US-built, US-flagged and meet Coast Guard and classification standards",
+   "Applications are prioritised for vessels suitable as naval or military auxiliaries, then Vessels of National Interest",
+   "Foreign components are excluded from Actual Cost unless MARAD grants a waiver",
+   "Application, commitment, guarantee and modification fees are set, along with collateral and recourse requirements"
+  ],
+  "confidence": 0.9
+ }
+}

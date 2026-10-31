@@ -1,0 +1,112 @@
+{
+ "doc_id": "D1572",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:49:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0440658,
+  "in": 2,
+  "out": 1815,
+  "cache_read": 11758,
+  "cache_create": 6184,
+  "api_ms": 13356,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "manufacturing",
+   "logistics_transport",
+   "research_science"
+  ],
+  "authors_or_issuer": "Cawthorne, D.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "CH"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "book_or_chapter",
+  "doi": "10.1007/978-981-19-1983-1_16",
+  "embodied_categories": [
+   "drones_uas",
+   "industrial_manipulators",
+   "collaborative_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "self_regulation_codes",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "safety_physical_harm",
+   "human_dignity_autonomy",
+   "labor_employment",
+   "research_ethics",
+   "standards_interoperability",
+   "human_robot_interaction_social_effects",
+   "education_training"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "DK",
+  "jurisdiction_scope": "not_applicable",
+  "language": "en",
+  "named_instruments_referenced": [
+   "IEEE 7000 series"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2022,
+  "page_quality": "substantive_document",
+  "publication_stage": "book",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "conceptual_or_normative",
+  "summary_en": "Textbook chapter introducing ethical design considerations for robotics. It covers normative ethical theories, the non-neutrality of technology, value-sensitive design, stakeholder identification, ethics checklists, standards and frameworks, and the AIRR responsible innovation framework, using a medical delivery drone crash as a motivating case.",
+  "key_provisions_or_claims": [
+   "Technology is not ethically neutral and exists in a context.",
+   "Robot designers should apply value-sensitive design and identify impacted stakeholders.",
+   "Ethics checklists, standards and design frameworks help embed ethics, though self-administered checklists have limits.",
+   "The AIRR framework supports responsible innovation in robotics.",
+   "Designers must ask whether a robot should be built at all."
+  ],
+  "title_clean": "Robot Ethics: Ethical Design Considerations",
+  "title_en": "Robot Ethics: Ethical Design Considerations",
+  "venue": "Foundations of Robotics: A Multidisciplinary Approach with Python and ROS (Springer)"
+ }
+}

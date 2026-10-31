@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1246",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:40:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0283718,
+  "in": 2,
+  "out": 1700,
+  "cache_read": 11758,
+  "cache_create": 2548,
+  "api_ms": 8144,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Advanced robotics, artificial intelligence and the automation of tasks: definitions, uses, policies and strategies and Occupational Safety and Health",
+  "title_en": "Advanced robotics, artificial intelligence and the automation of tasks: definitions, uses, policies and strategies and Occupational Safety and Health",
+  "language": "en",
+  "authors_or_issuer": "European Agency for Safety and Health at Work (EU-OSHA)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "EU-OSHA website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "safety_physical_harm",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "EU-OSHA publication page for a 2022 71-page report on AI and advanced robotics for task automation. It covers definitions, sector distribution, affected tasks, existing and potential uses, and national and international policies, strategies and programmes relating to occupational safety and health. Only the abstract page is available.",
+  "key_provisions_or_claims": [
+   "Report presents types and definitions of AI-based systems and advanced robotics for task automation",
+   "Maps sector distribution and the tasks most impacted",
+   "Maps existing and potential uses",
+   "Overviews national and international policies, strategies and programmes on automation and occupational safety and health"
+  ],
+  "confidence": 0.8
+ }
+}

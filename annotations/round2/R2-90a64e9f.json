@@ -1,0 +1,92 @@
+{
+ "doc_id": "R2-90a64e9f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:58:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.025151800000000002,
+  "in": 2,
+  "out": 1638,
+  "cache_read": 11758,
+  "cache_create": 1898,
+  "api_ms": 9549,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Pour une intelligence artificielle maîtrisée, utile et démystifiée",
+  "title_en": "For a controlled, useful and demystified artificial intelligence",
+  "language": "fr",
+  "authors_or_issuer": "Office parlementaire d'évaluation des choix scientifiques et technologiques (OPECST), Assemblée nationale and Sénat",
+  "issuer_type": "legislature",
+  "pub_year": 2017,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Assemblée nationale / Sénat, Rapport d'information n° 464 (2016-2017)",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "FR"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Cover page and metadata of French parliamentary information report n° 464 (2016-2017) by the OPECST, tabled 15 March 2017, on artificial intelligence that is controlled, useful and demystified. Only the title page is available; substantive content is not shown.",
+  "key_provisions_or_claims": [
+   "Report by OPECST rapporteurs Claude de Ganay and Dominique Gillot on AI, tabled 15 March 2017",
+   "Title frames AI as needing to be controlled, useful and demystified",
+   "Full text not available in the excerpt; an English synthesis exists"
+  ],
+  "confidence": 0.6
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0892",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:30:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.044497800000000004,
+  "in": 2,
+  "out": 1751,
+  "cache_read": 11758,
+  "cache_create": 6452,
+  "api_ms": 15698,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Trustworthy AI and Robotics and the Implications for the AEC Industry: A Systematic Literature Review and Future Potentials",
+  "title_en": "Trustworthy AI and Robotics and the Implications for the AEC Industry: A Systematic Literature Review and Future Potentials",
+  "language": "en",
+  "authors_or_issuer": "Emaminejad, N.; Akhavian, R.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2021,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "San Diego State University (preprint/working paper)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "review_or_survey_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "unknown",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "professional_service_robots",
+   "collaborative_robots"
+  ],
+  "primary_embodied_category": "collaborative_robots",
+  "application_sectors": [
+   "construction"
+  ],
+  "governance_topics": [
+   "trust_acceptance",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "safety_physical_harm",
+   "ethics_principles",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "trust_acceptance",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "systematic_or_scoping_review",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Systematic literature review of trust in AI and robotics and of AI/robotics applications in the architecture, engineering and construction industry. It identifies trust dimensions (transparency, reliability, privacy and security, and others), links them to AEC applications, and outlines interdisciplinary future research directions to increase adoption.",
+  "key_provisions_or_claims": [
+   "Trust is a prerequisite for adoption of AI and robotics in AEC.",
+   "Identifies common trust dimensions, including transparency, reliability and privacy/security, to organize the literature.",
+   "Few studies address ethical and privacy issues of AIR in AEC, such as worker monitoring and cloud data security.",
+   "Calls for integrated, interdisciplinary research on trustworthy AIR in construction."
+  ],
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-c163e201",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1711618,
+  "in": 2,
+  "out": 1747,
+  "cache_read": 11758,
+  "cache_create": 38128,
+  "api_ms": 12557,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Monitoring of horizontal recommendations 2024",
+  "title_en": "Monitoring of horizontal recommendations 2024",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Commission SWD(2025) 291 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "standards_interoperability",
+   "education_training",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "oversight_body_creation",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Commission staff working document assessing progress between July 2024 and March 2025 on 58 EU-level recommendations from the 2024 State of the Digital Decade. It covers connectivity, semiconductors, cloud/AI, skills, digital identity and public services; 4 recommendations show no progress and 28 limited progress. Embodied AI and robotics appear only incidentally.",
+  "key_provisions_or_claims": [
+   "Of 58 recommendations: 4 no progress, 28 limited, 20 notable, 6 significant.",
+   "AI Factories, InvestAI and EDIHs/TEFs support trustworthy and sovereign AI adoption.",
+   "Member State action on AI uptake is largely undocumented; mostly Commission initiatives.",
+   "Digital Networks Act and Cloud and AI Development Act are forthcoming.",
+   "Only 13 Member States have restricted high-risk 5G suppliers."
+  ],
+  "confidence": 0.85
+ }
+}

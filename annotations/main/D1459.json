@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1459",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:46:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0442118,
+  "in": 2,
+  "out": 1754,
+  "cache_read": 11758,
+  "cache_create": 6373,
+  "api_ms": 12080,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Empowerment As Replacement for the Three Laws of Robotics",
+  "title_en": "Empowerment As Replacement for the Three Laws of Robotics",
+  "language": "en",
+  "authors_or_issuer": "Salge, C.; Polani, D.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2017,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": "10.3389/frobt.2017.00025",
+  "venue": "Frontiers in Robotics and AI",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "other_embodied",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "safety_physical_harm",
+   "human_robot_interaction_social_effects",
+   "human_oversight_control"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "technical_or_engineering",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Hypothesis and theory paper proposing information-theoretic empowerment as an operational, non-language-based heuristic for robot behaviour that captures the intent of Asimov's Three Laws: self-preservation, protecting humans, and responding to human actions. Demonstrated through proof-of-principle simulations rather than legal or policy governance.",
+  "key_provisions_or_claims": [
+   "Empowerment can serve as a generic, operational heuristic for robot behaviour in human interaction.",
+   "Maximising human empowerment operationalises 'do not harm' and 'do not allow harm' without natural language understanding.",
+   "Self-empowerment captures self-preservation; human-empowerment dependent on robot captures protection.",
+   "Offers an alternative to crude kill-switch safety approaches.",
+   "Not a complete account of ethical robot behaviour; safety and compliance are secondary to the main mission."
+  ],
+  "confidence": 0.88
+ }
+}

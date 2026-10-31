@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0263",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:10:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1105516,
+  "in": 2,
+  "out": 1892,
+  "cache_read": 11758,
+  "cache_create": 8794,
+  "api_ms": 13279,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "الميثاق الوطني لأخلاقيات الذكاء الاصطناعي",
+  "title_en": "The National Artificial Intelligence Code of Ethics",
+  "language": "ar",
+  "authors_or_issuer": "Ministry of Digital Economy and Entrepreneurship (Jordan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 8,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "modee.gov.jo",
+  "jurisdiction_country": "JO",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JO"
+  ],
+  "doc_type": "ethical_framework_or_principles",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "sustainability_environment",
+   "research_ethics",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "incident_reporting",
+   "self_regulation_codes",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "Jordan Artificial Intelligence Policy 2020",
+   "Jordan Telecommunications Law No. 13 of 1995"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Jordan's bilingual National AI Code of Ethics was issued by the Ministry of Digital Economy and Entrepreneurship under the 2020 Jordan AI Policy. It sets voluntary ethical principles: humanity, inclusiveness and justice, privacy, transparency, accountability, reliability, integrity, and green AI. It also covers the metaverse, ethics in AI research, the risks of non-compliance, and recommendations, including a channel for complaints.",
+  "key_provisions_or_claims": [
+   "Defines AI and sets eight ethical principles for responsible AI use",
+   "Requires explainability, disclosure of accuracy and error rates, and channels where people can get explanations",
+   "Requires data to be obtained lawfully and with informed, explicit consent; forbids using AI outputs for defamation or blackmail",
+   "Includes principles on the metaverse and on ethics in AI research",
+   "The Ministry will run channels to receive AI-ethics complaints and assess harm"
+  ],
+  "confidence": 0.85
+ }
+}

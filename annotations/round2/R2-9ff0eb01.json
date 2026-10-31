@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-9ff0eb01",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:34:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0725829,
+  "in": 4,
+  "out": 3847,
+  "cache_read": 29979,
+  "cache_create": 8565,
+  "api_ms": 18546,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "关于印发《关于深入推进矿山智能化建设促进矿山安全发展的指导意见》的通知",
+  "title_en": "Notice on Issuing the Guiding Opinions on Deepening Intelligent Mine Construction to Promote Safe Development of Mines",
+  "language": "zh",
+  "authors_or_issuer": "国家矿山安监局; 应急管理部; 国家发展改革委; 工业和信息化部; 科技部; 财政部; 教育部",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "space_or_extreme_environment",
+   "professional_service_robots",
+   "autonomous_road_vehicles",
+   "drones_uas",
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "primary_embodied_category": "space_or_extreme_environment",
+  "application_sectors": [
+   "energy_environment",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "safety_physical_harm",
+   "standards_interoperability",
+   "labor_employment",
+   "education_training",
+   "cybersecurity"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "funding_or_incentives",
+   "education_training_programs",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Chinese multi-ministry guideline (April 2024) promoting intelligent mine construction for safer mining. Sets 2026 and 2030 targets including robot replacement of hazardous jobs, standards development, AI and data governance, R&D on mining robots and unmanned vehicles, policy support and talent training.",
+  "key_provisions_or_claims": [
+   "By 2026: 30% (coal) and 20% (non-coal) robot/intelligent equipment replacement of hazardous jobs; underground staff down 10%",
+   "By 2030: complete intelligent mining technology, equipment and management systems, enabling few-person or unmanned mining",
+   "Publish Key Mine Robot R&D Catalogue and complete intelligent mining standards system",
+   "Build reliability evaluation indicators and testing platforms for intelligent equipment",
+   "Policy support via investment, first-of-kind equipment incentives, and talent training"
+  ],
+  "confidence": 0.85
+ }
+}

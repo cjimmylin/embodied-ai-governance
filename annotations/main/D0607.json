@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0607",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:23:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.079228,
+  "in": 4,
+  "out": 3672,
+  "cache_read": 32490,
+  "cache_create": 10316,
+  "api_ms": 25814,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ROBOGATE: Adaptive Failure Discovery for Safe Robot Policy Deployment via Two-Stage Boundary-Focused Sampling",
+  "title_en": "ROBOGATE: Adaptive Failure Discovery for Safe Robot Policy Deployment via Two-Stage Boundary-Focused Sampling",
+  "language": "en",
+  "authors_or_issuer": "Kim, A.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": "10.48550/arxiv.2603.22126",
+  "venue": "arXiv",
+  "jurisdiction_country": "XX",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing",
+   "research_science"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "technical_or_engineering",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "arXiv preprint presenting ROBOGATE, a simulation-based pre-deployment validation framework for learned robot manipulation policies. Two-stage adaptive sampling finds failure boundaries across 50,000+ Isaac Sim experiments on four robot arms, and benchmarks VLA policies, revealing a large cross-simulator gap (97.65% vs 0%).",
+  "key_provisions_or_claims": [
+   "Two-stage sampling (LHS then boundary-focused) efficiently finds failure boundaries in an 8-dimensional parameter space",
+   "Logistic regression risk model reaches AUC 0.780 and yields a closed-form failure boundary",
+   "Evaluated over 50,000 experiments across Franka Panda, UR3e, UR5e, UR10e",
+   "Fine-tuned GR00T N1.6 scores 97.65% on LIBERO but 0% on 68 industrial scenarios in Isaac Sim",
+   "Proposes an open-source validation layer for Physical AI deployment"
+  ],
+  "confidence": 0.85
+ }
+}

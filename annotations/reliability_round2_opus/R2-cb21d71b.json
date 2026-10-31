@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-cb21d71b",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:11:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0562756,
+  "in": 2,
+  "out": 1807,
+  "cache_read": 11758,
+  "cache_create": 2222,
+  "api_ms": 12409,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/CD 26159-1 Robotics — Infrastructure for robot applications — Part 1: Framework",
+  "title_en": "ISO/CD 26159-1 Robotics — Infrastructure for robot applications — Part 1: Framework",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 299 Robotics",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "under_development",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "mobile_industrial_logistics",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector",
+   "construction"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "cybersecurity"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "ISO catalogue page for the committee draft ISO/CD 26159-1 from ISO/TC 299. It sets out a framework for integrating robots with building infrastructure such as lifts, automatic doors, security and alarm systems. The aim is compatible, safe, secure and reliable operation of multiple robots alongside facilities. CD consultation began in October 2026.",
+  "key_provisions_or_claims": [
+   "Framework (Part 1) for Infrastructure for Robot Applications (INFRA) aimed at system integrators and facility owners",
+   "Lists INFRA elements: lifts, automatic doors, security, shared space management, alarm, notification, monitoring, shared marker systems, environmental classifications",
+   "Guidance on operating procedures and message exchange sequencing between robots and infrastructure",
+   "Part 2, developed in parallel, covers interfacing with lifts and automatic doors",
+   "Stage 30.20: CD consultation initiated on 2026-10-29"
+  ],
+  "confidence": 0.85
+ }
+}

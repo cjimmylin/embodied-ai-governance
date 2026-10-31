@@ -1,0 +1,50 @@
+field,type,n,percent_agreement,kappa,note
+issuer_type,single,351,0.9715099715099715,0.9608870069088478,
+date_basis,single,351,0.9031339031339032,0.6942587041733917,
+jurisdiction_country,single,351,0.9971509971509972,0.9970183232953049,
+jurisdiction_scope,single,351,0.9971509971509972,0.9927163311890433,
+doc_type,single,351,0.9202279202279202,0.9051497838171711,
+doc_class,single,351,0.9487179487179487,0.8957890048988074,
+is_governance_document,single,351,0.9772079772079773,-0.005010737294201872,
+instrument_status,single,351,0.9002849002849003,0.823003112033195,
+binding_nature,single,351,0.9173789173789174,0.8309304720459755,
+publication_stage,single,351,0.9886039886039886,0.4942363112391931,
+ai_scope,single,351,0.905982905982906,0.76343361313645,
+embodiment_status,single,351,0.9116809116809117,0.7351459241048608,
+primary_embodied_category,single,351,0.9373219373219374,0.6578492622623953,
+primary_topic,single,351,0.9116809116809117,0.8923131735993587,
+robot_legal_personhood_position,single,351,0.9886039886039886,0.7604912998976459,
+risk_framing,single,351,0.8660968660968661,0.8262998294270011,
+stance_toward_regulation,single,351,0.8917378917378918,0.5483084425480036,
+methodology,single,351,1.0,1.0,
+faith_or_religious_perspective,single,351,1.0,1.0,
+page_quality,single,351,0.9145299145299145,0.670978627671541,
+language,single,351,0.9943019943019943,0.9888785031922815,
+"pub_year (exact, both known)",numeric,344,0.9738372093023255,,
+pub_year (within 1 year),numeric,344,0.9912790697674418,,
+pub_year (known in both),numeric,351,0.98005698005698,,
+relevance_to_embodied_ai_governance,ordinal,351,0.8689458689458689,0.882023703400605,
+embodied_categories,multi-label,351,0.8875663905578436,0.5998878976899384,Jaccard mean; kappa = mean per-label kappa over 15 labels with >=6 positives
+application_sectors,multi-label,351,0.8384080781516678,0.7499799746760365,Jaccard mean; kappa = mean per-label kappa over 16 labels with >=6 positives
+governance_topics,multi-label,351,0.7576107139141327,0.7193070552820252,Jaccard mean; kappa = mean per-label kappa over 27 labels with >=6 positives
+governance_mechanisms,multi-label,351,0.7453221115048667,0.6932783881532368,Jaccard mean; kappa = mean per-label kappa over 19 labels with >=6 positives
+principle:transparency,ordinal 0-2,351,0.8461538461538461,0.8717771240699083,presence agreement=0.92
+principle:justice_fairness,ordinal 0-2,351,0.8518518518518519,0.8797128810961362,presence agreement=0.93
+principle:non_maleficence,ordinal 0-2,351,0.8518518518518519,0.7968343839782785,presence agreement=0.94
+principle:responsibility_accountability,ordinal 0-2,351,0.8262108262108262,0.8430082928224192,presence agreement=0.94
+principle:privacy,ordinal 0-2,351,0.8433048433048433,0.8705483172287081,presence agreement=0.93
+principle:beneficence,ordinal 0-2,351,0.8831908831908832,0.8863889349406722,presence agreement=0.96
+principle:freedom_autonomy,ordinal 0-2,351,0.8660968660968661,0.8126081107053623,presence agreement=0.90
+principle:trust,ordinal 0-2,351,0.8034188034188035,0.8175258375096176,presence agreement=0.90
+principle:sustainability,ordinal 0-2,351,0.8774928774928775,0.8705274806344523,presence agreement=0.92
+principle:dignity,ordinal 0-2,351,0.8717948717948718,0.8279542954240962,presence agreement=0.91
+principle:solidarity,ordinal 0-2,351,0.8774928774928775,0.8151568221620761,presence agreement=0.91
+principle:human_oversight,ordinal 0-2,351,0.8148148148148148,0.8477223427331887,presence agreement=0.87
+principle:robustness_security,ordinal 0-2,351,0.8347578347578347,0.8363089644803609,presence agreement=0.94
+principle:inclusive_growth,ordinal 0-2,351,0.9173789173789174,0.9423093271971934,presence agreement=0.96
+principle:physical_safety,ordinal 0-2,351,0.9373219373219374,0.8712871287128713,presence agreement=0.94
+principle:human_robot_proximity,ordinal 0-2,351,0.9686609686609686,0.8718170047475183,presence agreement=0.97
+principle:liability_for_physical_damage,ordinal 0-2,351,0.9715099715099715,0.7857927499084585,presence agreement=0.97
+principle:autonomy_level_control,ordinal 0-2,351,0.8974358974358975,0.6668127053669223,presence agreement=0.91
+principle:conformity_assessment_certification,ordinal 0-2,351,0.8632478632478633,0.7641363862618218,presence agreement=0.89
+principle:dual_use_military,ordinal 0-2,351,0.9430199430199431,0.8193050193050193,presence agreement=0.95

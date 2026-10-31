@@ -1,0 +1,47 @@
+field,type,n,agreement_inter_model,kappa_inter_model,agreement_retest,kappa_retest,agreement_fulltext,kappa_fulltext,agreement_blind,kappa_blind,agreement_gov_extended,kappa_gov_extended
+issuer_type,single,160,0.944,0.928,0.981,0.976,0.962,0.951,0.975,0.968,0.972,0.961
+date_basis,single,160,0.869,0.643,0.875,0.657,0.881,0.714,0.888,0.649,0.903,0.694
+jurisdiction_country,single,160,0.956,0.954,0.981,0.98,0.988,0.987,0.969,0.967,0.997,0.997
+jurisdiction_scope,single,160,0.956,0.935,0.969,0.953,0.956,0.934,0.969,0.954,0.997,0.993
+doc_type,single,160,0.838,0.818,0.925,0.915,0.962,0.958,0.906,0.895,0.92,0.905
+doc_class,single,160,0.931,0.906,0.95,0.931,0.981,0.974,0.938,0.915,0.949,0.896
+is_governance_document,single,160,0.969,0.915,0.962,0.898,0.988,0.967,0.956,0.882,0.977,-0.005
+instrument_status,single,160,0.938,0.843,0.956,0.891,0.975,0.939,0.938,0.846,0.9,0.823
+binding_nature,single,160,0.95,0.855,0.962,0.892,0.988,0.965,0.956,0.875,0.917,0.831
+publication_stage,single,160,0.931,0.881,0.962,0.934,0.981,0.966,0.969,0.944,0.989,0.494
+ai_scope,single,160,0.906,0.858,0.938,0.907,0.938,0.907,0.919,0.876,0.906,0.763
+embodiment_status,single,160,0.912,0.853,0.956,0.927,0.931,0.886,0.919,0.861,0.912,0.735
+primary_embodied_category,single,160,0.906,0.843,0.944,0.903,0.931,0.883,0.881,0.789,0.937,0.658
+primary_topic,single,160,0.831,0.812,0.944,0.937,0.919,0.909,0.912,0.902,0.912,0.892
+robot_legal_personhood_position,single,160,0.988,0.935,0.981,0.902,0.944,0.748,0.988,0.936,0.989,0.76
+risk_framing,single,160,0.806,0.768,0.875,0.85,0.894,0.872,0.938,0.925,0.866,0.826
+stance_toward_regulation,single,160,0.731,0.611,0.838,0.753,0.819,0.728,0.819,0.727,0.892,0.548
+methodology,single,160,0.925,0.865,0.956,0.921,0.925,0.865,0.931,0.877,1.0,1.0
+faith_or_religious_perspective,single,160,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+page_quality,single,160,0.825,0.606,0.862,0.678,0.9,0.752,0.881,0.713,0.915,0.671
+language,single,160,0.975,0.945,0.981,0.956,0.975,0.94,0.962,0.917,0.994,0.989
+relevance_to_embodied_ai_governance,ordinal,160,0.794,0.898,0.906,0.956,0.881,0.946,0.881,0.94,0.869,0.882
+embodied_categories,multi-label,160,0.879,0.788,0.933,0.864,0.892,0.807,0.885,0.786,0.888,0.6
+application_sectors,multi-label,160,0.848,0.79,0.912,0.861,0.868,0.823,0.863,0.774,0.838,0.75
+governance_topics,multi-label,160,0.714,0.761,0.814,0.85,0.79,0.795,0.801,0.837,0.758,0.719
+governance_mechanisms,multi-label,160,0.63,0.754,0.865,0.855,0.811,0.732,0.805,0.772,0.745,0.693
+principle:transparency,ordinal 0-2,160,0.844,0.87,0.894,0.912,0.844,0.869,0.919,0.932,0.846,0.872
+principle:justice_fairness,ordinal 0-2,160,0.862,0.866,0.9,0.905,0.85,0.862,0.919,0.921,0.852,0.88
+principle:non_maleficence,ordinal 0-2,160,0.794,0.71,0.888,0.805,0.838,0.763,0.894,0.809,0.852,0.797
+principle:responsibility_accountability,ordinal 0-2,160,0.844,0.858,0.9,0.905,0.862,0.895,0.925,0.929,0.826,0.843
+principle:privacy,ordinal 0-2,160,0.881,0.894,0.944,0.949,0.888,0.9,0.906,0.898,0.843,0.871
+principle:beneficence,ordinal 0-2,160,0.856,0.79,0.881,0.804,0.906,0.863,0.888,0.847,0.883,0.886
+principle:freedom_autonomy,ordinal 0-2,160,0.862,0.769,0.956,0.908,0.888,0.839,0.925,0.864,0.866,0.813
+principle:trust,ordinal 0-2,160,0.888,0.854,0.888,0.839,0.919,0.916,0.919,0.911,0.803,0.818
+principle:sustainability,ordinal 0-2,160,0.931,0.903,0.969,0.956,0.906,0.87,0.956,0.939,0.877,0.871
+principle:dignity,ordinal 0-2,160,0.894,0.806,0.944,0.906,0.85,0.772,0.931,0.882,0.872,0.828
+principle:solidarity,ordinal 0-2,160,0.919,0.836,0.975,0.945,0.906,0.824,0.95,0.893,0.877,0.815
+principle:human_oversight,ordinal 0-2,160,0.856,0.814,0.888,0.876,0.875,0.883,0.894,0.877,0.815,0.848
+principle:robustness_security,ordinal 0-2,160,0.869,0.837,0.9,0.871,0.862,0.858,0.894,0.861,0.835,0.836
+principle:inclusive_growth,ordinal 0-2,160,0.825,0.84,0.919,0.923,0.912,0.934,0.912,0.932,0.917,0.942
+principle:physical_safety,ordinal 0-2,160,0.919,0.894,0.956,0.94,0.912,0.885,0.95,0.935,0.937,0.871
+principle:human_robot_proximity,ordinal 0-2,160,0.906,0.901,0.938,0.935,0.956,0.955,0.944,0.942,0.969,0.872
+principle:liability_for_physical_damage,ordinal 0-2,160,0.975,0.967,0.969,0.958,0.944,0.904,0.975,0.966,0.972,0.786
+principle:autonomy_level_control,ordinal 0-2,160,0.925,0.852,0.956,0.89,0.938,0.891,0.975,0.923,0.897,0.667
+principle:conformity_assessment_certification,ordinal 0-2,160,0.956,0.871,0.975,0.873,0.919,0.788,0.981,0.889,0.863,0.764
+principle:dual_use_military,ordinal 0-2,160,0.975,0.865,0.994,0.965,0.956,0.822,0.988,0.932,0.943,0.819

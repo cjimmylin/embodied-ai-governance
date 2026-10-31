@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-2752b54b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.05352320000000001,
+  "in": 4,
+  "out": 3677,
+  "cache_read": 25862,
+  "cache_create": 4256,
+  "api_ms": 19193,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Statement of the Commission on the updated Legislative Financial Statement of the Cyber Solidarity Act (Digital Europe Programme reallocations)",
+  "title_en": "Statement of the Commission on the updated Legislative Financial Statement of the Cyber Solidarity Act (Digital Europe Programme reallocations)",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, Series C",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission statement in the Official Journal updating the Legislative Financial Statement of the Cyber Solidarity Act. It sets 2025-2027 Digital Europe Programme envelopes after reallocations among the AI, Cybersecurity and Trust, and Advanced Digital Skills objectives, and funds the EU Cybersecurity Reserve from the Commission-managed cybersecurity envelope.",
+  "key_provisions_or_claims": [
+   "Co-legislators agreed on 5 March 2024 to limit reallocation from Advanced Digital Skills to Cybersecurity and Trust to EUR 22 million.",
+   "Specific Objective 2 (AI) envelope for 2025-2027: EUR 544,726,000.",
+   "Cybersecurity and Trust: EUR 44,451,000 under direct Commission management and EUR 353,190,613 under the European Cybersecurity Competence Centre.",
+   "Advanced Digital Skills envelope: EUR 167,162,423.",
+   "EU Cybersecurity Reserve funded from the Commission-managed cybersecurity envelope."
+  ],
+  "confidence": 0.85
+ }
+}

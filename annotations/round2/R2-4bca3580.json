@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-4bca3580",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:29:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0534738,
+  "in": 2,
+  "out": 1663,
+  "cache_read": 11758,
+  "cache_create": 8916,
+  "api_ms": 8555,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "城市公共交通条例",
+  "title_en": "Regulations on Urban Public Transport",
+  "language": "zh",
+  "authors_or_issuer": "中华人民共和国国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "State Council Order No. 793",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "industrial_policy_innovation",
+   "consumer_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "audits_impact_assessment",
+   "funding_or_incentives",
+   "incident_reporting",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "China's State Council Regulations on Urban Public Transport (Order No. 793, effective 1 December 2024) set out priority development, operator duties, service quality, safety management and penalties for buses and urban rail. It has no AI or robotics provisions beyond a general encouragement of new technologies.",
+  "key_provisions_or_claims": [
+   "Public transport given priority development; city governments are the responsible entities",
+   "Operators must meet service, information disclosure and complaint-handling duties",
+   "Safety management: vehicle inspection, key-staff qualifications, training, emergency plans",
+   "Rail operations require pre-operation safety assessment and third-party safety evaluation",
+   "Fines for unauthorised operation, service interruption and safety violations"
+  ],
+  "confidence": 0.95
+ }
+}

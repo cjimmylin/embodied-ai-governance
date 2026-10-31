@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-2406d6c8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0714998,
+  "in": 2,
+  "out": 1984,
+  "cache_read": 11758,
+  "cache_create": 12620,
+  "api_ms": 10358,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Δημοσίευση του ν. 4784/2021 (Α' 40) «Η Ελλάδα σε κίνηση: Βιώσιμη Αστική Κινητικότητα-Μικροκινητικότητα-Ρυθμίσεις για τον εκσυγχρονισμό, την απλούστευση και την ψηφιοποίηση διαδικασιών του Υπουργείου Υποδομών και Μεταφορών και άλλες διατάξεις»",
+  "title_en": "Publication of Law 4784/2021 \"Greece in Motion: Sustainable Urban Mobility – Micromobility – Provisions for modernisation, simplification and digitalisation of Ministry of Infrastructure and Transport procedures and other provisions\"",
+  "language": "el",
+  "authors_or_issuer": "Hellenic Ministry of Infrastructure and Transport, General Secretariat of Transport",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Diavgeia (Hellenic Ministry of Infrastructure and Transport circular)",
+  "jurisdiction_country": "GR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GR"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "children_vulnerable_groups",
+   "other"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Greek Ministry of Infrastructure and Transport circular informing authorities of Law 4784/2021, covering micromobility vehicles (e-scooters), traffic rules, professional driver competence certificates, and driving licences. It notes in passing that Article 42 amends the Road Traffic Code on the circulation of automated vehicles.",
+  "key_provisions_or_claims": [
+   "E-scooters (EPHO) limited to 25 km/h and barred from roads with limits above 50 km/h",
+   "Minimum rider ages 12 and 15, mandatory helmets and ID, fixed administrative fines",
+   "Article 42 amends Article 13 of the Road Traffic Code on automated vehicle circulation",
+   "Transposes Directive 2018/645 on professional driver qualification",
+   "Provisions in force from 16 March 2021, with exceptions for Articles 26-28 and 37"
+  ],
+  "confidence": 0.8
+ }
+}

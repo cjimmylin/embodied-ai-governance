@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-d3285a29",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:44:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.12846780000000002,
+  "in": 2,
+  "out": 1906,
+  "cache_read": 11758,
+  "cache_create": 27057,
+  "api_ms": 10322,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "次世代医療機器評価指標の公表について",
+  "title_en": "Publication of Evaluation Indicators for Next-Generation Medical Devices",
+  "language": "ja",
+  "authors_or_issuer": "厚生労働省医薬食品局審査管理課医療機器審査管理室 (MHLW Evaluation and Licensing Division, Medical Device Evaluation Office)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2010,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Health, Labour and Welfare notification (薬食機発0118第1号)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "human_oversight_control",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "ISO 10218"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japanese MHLW notification (Jan 2010) publishing non-binding evaluation indicators for next-generation medical devices: fracture reduction assist devices and joint surgery assist devices (robotic, physician-approved automation), plus two cell sheet products. Sets safety, non-clinical and clinical-trial evaluation points for approval applications, referencing ISO/IEC machinery and robot safety standards.",
+  "key_provisions_or_claims": [
+   "Evaluation indicators are non-binding and intended to speed product development and approval review.",
+   "Fracture reduction and joint surgery robotic assist devices must demonstrate mechanical safety, emergency stop, overload prevention and positional accuracy.",
+   "Devices that act automatically under physician approval likely require clinical trials.",
+   "Non-clinical evaluation may reference JIS/ISO/IEC standards such as ISO 10218-1, ISO 12100, IEC 60601-1.",
+   "Applicants are encouraged to use PMDA consultation early."
+  ],
+  "confidence": 0.85
+ }
+}

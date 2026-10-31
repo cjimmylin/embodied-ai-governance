@@ -1,0 +1,111 @@
+{
+ "doc_id": "D0043",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:36:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0661769,
+  "in": 4,
+  "out": 3842,
+  "cache_read": 28494,
+  "cache_create": 6973,
+  "api_ms": 24535,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "DECLARACIÓN DE MONTEVIDEO: Para la construcción de un enfoque regional sobre la gobernanza de la Inteligencia Artificial y sus impactos en nuestra sociedad",
+  "title_en": "Montevideo Declaration: Towards a Regional Approach to the Governance of Artificial Intelligence and its Impacts on Our Society",
+  "language": "es",
+  "authors_or_issuer": "Second Ministerial and High Authorities Summit on the Ethics of AI in Latin America and the Caribbean (Uruguay, with UNESCO and CAF)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "UY",
+   "CL",
+   "BR",
+   "CO",
+   "EC",
+   "MX",
+   "PE",
+   "PY",
+   "PA",
+   "DO"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "labor_employment",
+   "children_vulnerable_groups",
+   "sustainability_environment",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "oversight_body_creation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Regional declaration adopted in Montevideo (4 Oct 2024) by Latin American and Caribbean ministers approving a common AI ethics Roadmap with priority areas, consolidating a permanent Working Group and annual ministerial summits, supported by UNESCO and CAF. Rights-centred, non-binding, with no robotics-specific content.",
+  "key_provisions_or_claims": [
+   "Approves a regional Roadmap on AI ethics and governance",
+   "Priority areas: governance and regulation, talent and future of work, vulnerable groups, environment and climate, infrastructure",
+   "Consolidates a permanent Working Group on AI Ethics in LAC, led by Uruguay",
+   "Establishes annual Ministerial Summits to follow up the Roadmap",
+   "UNESCO and CAF act as technical secretariat; UNESCO RAM diagnostics endorsed"
+  ],
+  "confidence": 0.9
+ }
+}

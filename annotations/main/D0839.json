@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0839",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:29:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.023639800000000002,
+  "in": 2,
+  "out": 1624,
+  "cache_read": 11758,
+  "cache_create": 1555,
+  "api_ms": 8073,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Summary Of The 2018 Department Of Defense Artificial Intelligence Strategy",
+  "title_en": "Summary Of The 2018 Department Of Defense Artificial Intelligence Strategy",
+  "language": "en",
+  "authors_or_issuer": "US Department of Defense",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 2,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "US Department of Defense",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "military_use_ihl",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "error_or_blocked_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "No text was available; the title suggests the summary of the 2018 US Department of Defense AI Strategy, which sets out how the DoD will adopt AI to keep military advantage. Annotation is based on the title only and general knowledge of the strategy.",
+  "key_provisions_or_claims": [
+   "Accelerate adoption of AI across DoD missions",
+   "Establish the Joint AI Center",
+   "Promote ethical and safe AI use in defense",
+   "Cultivate AI workforce and partnerships"
+  ],
+  "confidence": 0.3
+ }
+}

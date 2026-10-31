@@ -1,0 +1,90 @@
+{
+ "doc_id": "D1220",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:04:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0251338,
+  "in": 2,
+  "out": 1551,
+  "cache_read": 11758,
+  "cache_create": 2111,
+  "api_ms": 9069,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ageism in artificial intelligence for health",
+  "title_en": "Ageism in artificial intelligence for health",
+  "language": "en",
+  "authors_or_issuer": "World Health Organization",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 2,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "WHO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "fairness_bias_discrimination",
+   "ethics_principles"
+  ],
+  "primary_topic": "fairness_bias_discrimination",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "WHO publication landing page for the policy brief 'Ageism in artificial intelligence for health', which examines how AI in medicine and public health can exacerbate or introduce ageism and presents legal, non-legal and technical measures to minimise it. Page lists related publications; the brief text itself is not reproduced.",
+  "key_provisions_or_claims": [
+   "AI in health can exacerbate or introduce new forms of ageism",
+   "Brief presents legal, non-legal and technical measures to minimise ageism risk",
+   "Aims to maximise AI benefits for older people"
+  ],
+  "confidence": 0.6
+ }
+}

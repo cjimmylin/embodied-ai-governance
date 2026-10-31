@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0561",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:28:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1374858,
+  "in": 2,
+  "out": 1741,
+  "cache_read": 11758,
+  "cache_create": 29724,
+  "api_ms": 9392,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "MBTI를 활용한 융합형 교양교과목 연구－의사소통 능력, 협력적 자기조절, 인공지능 윤리의식의 변화를 중심으로",
+  "title_en": "MBTI Personality Type-Based AI Robot Ethics Curriculum Application and Effectiveness Analysis",
+  "language": "ko",
+  "authors_or_issuer": "한정규; 홍준성; 허혜연",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": "10.46392/kjge.2025.19.1.299",
+  "venue": "Korean Journal of General Education",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education"
+  ],
+  "governance_topics": [
+   "education_training",
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Pre-post study of 64 Korean university students in a liberal arts course combining MBTI personality types and AI robot ethics. Communication skills, collaborative self-regulation and AI ethics awareness rose significantly, most in anti-discrimination. Findings support ethics education, though the study is limited by a small sample and low scale reliability.",
+  "key_provisions_or_claims": [
+   "Course raised communication skills, especially information gathering.",
+   "Collaborative self-regulation improved in cognitive, behavioural and motivational domains.",
+   "AI ethics awareness improved most in anti-discrimination; robot rights and reliability also rose.",
+   "No significant change in responsibility, transparency and employment ethics items.",
+   "Limitations: single-university sample, self-report, low reliability of the AI ethics scale."
+  ],
+  "confidence": 0.9
+ }
+}

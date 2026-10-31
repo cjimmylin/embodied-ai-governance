@@ -1,0 +1,47 @@
+field,type,n,percent_agreement_model,kappa_model,note,kappa_retest,percent_agreement_retest,lab
+page_quality,single,160,0.825,0.6058766605084895,,0.6783037835861817,0.8625,Page quality
+stance_toward_regulation,single,160,0.73125,0.6110797060486151,,0.7528810740168707,0.8375,Stance toward regulation
+date_basis,single,160,0.86875,0.6434634974533107,,0.6572040707016604,0.875,Date basis
+principle:non_maleficence,ordinal 0-2,160,0.79375,0.7101740968099024,presence agreement=0.88,0.8047873576574482,0.8875,P: Non-maleficence
+governance_mechanisms,multi-label,160,0.6296469155844155,0.7544772124175293,Jaccard mean; kappa = mean per-label kappa over 18 labels with >=6 positives,0.8554554497034202,0.8647925165112665,Governance mechanisms
+governance_topics,multi-label,160,0.7144667658730158,0.7613963445628575,Jaccard mean; kappa = mean per-label kappa over 27 labels with >=6 positives,0.8503640544064126,0.8144453463203462,Governance topics
+risk_framing,single,160,0.80625,0.7682892646921424,,0.8501030541502717,0.875,Risk framing
+principle:freedom_autonomy,ordinal 0-2,160,0.8625,0.76905311778291,presence agreement=0.87,0.9076745527986152,0.95625,P: Freedom & autonomy
+embodied_categories,multi-label,160,0.879171626984127,0.788095759472855,Jaccard mean; kappa = mean per-label kappa over 18 labels with >=6 positives,0.8636470963147888,0.9327430555555556,Embodied categories
+application_sectors,multi-label,160,0.8477232142857144,0.7897379884270178,Jaccard mean; kappa = mean per-label kappa over 14 labels with >=6 positives,0.8607424035787024,0.9117307692307692,Application sectors
+principle:beneficence,ordinal 0-2,160,0.85625,0.7904328018223234,presence agreement=0.91,0.8043357420789328,0.88125,P: Beneficence
+principle:dignity,ordinal 0-2,160,0.89375,0.8059914407988588,presence agreement=0.93,0.9064935064935064,0.94375,P: Dignity
+primary_topic,single,160,0.83125,0.812051337829019,,0.9366893822818202,0.94375,Primary topic
+principle:human_oversight,ordinal 0-2,160,0.85625,0.8137742815861294,presence agreement=0.90,0.8758314855875832,0.8875,P: Human oversight
+doc_type,single,160,0.8375,0.8184040509865549,,0.915370035703266,0.925,Doc type
+principle:solidarity,ordinal 0-2,160,0.91875,0.8363235757003462,presence agreement=0.94,0.9451960952217846,0.975,P: Solidarity
+principle:robustness_security,ordinal 0-2,160,0.86875,0.8373570520965692,presence agreement=0.90,0.8713173044361666,0.9,P: Robustness & security
+principle:inclusive_growth,ordinal 0-2,160,0.825,0.8398553532222652,presence agreement=0.88,0.9231692677070829,0.91875,P: Inclusive growth
+primary_embodied_category,single,160,0.90625,0.8429524931291716,,0.9033686753455912,0.94375,Primary embodied category
+instrument_status,single,160,0.9375,0.8434595440759222,,0.8908913784705309,0.95625,Instrument status
+principle:autonomy_level_control,ordinal 0-2,160,0.925,0.8520345252774353,presence agreement=0.94,0.8897464167585447,0.95625,P: Autonomy level & control
+embodiment_status,single,160,0.9125,0.8530665792062971,,0.926605504587156,0.95625,Embodiment status
+principle:trust,ordinal 0-2,160,0.8875,0.8540145985401459,presence agreement=0.92,0.8394648829431438,0.8875,P: Trust
+binding_nature,single,160,0.95,0.8549410698096102,,0.8920377867746289,0.9625,Binding nature
+principle:responsibility_accountability,ordinal 0-2,160,0.84375,0.8577687472220459,presence agreement=0.89,0.9052250904102755,0.9,P: Responsibility & accountability
+ai_scope,single,160,0.90625,0.858248183804855,,0.9067816359822886,0.9375,AI scope
+principle:dual_use_military,ordinal 0-2,160,0.975,0.8646362098138748,presence agreement=0.97,0.9651871192341166,0.99375,P: Dual use & military
+methodology,single,160,0.925,0.8654142716949391,,0.9206967358210012,0.95625,Methodology
+principle:justice_fairness,ordinal 0-2,160,0.8625,0.8657718120805369,presence agreement=0.93,0.9045061175768428,0.9,P: Justice & fairness
+principle:transparency,ordinal 0-2,160,0.84375,0.8700623700623701,presence agreement=0.92,0.9116424116424116,0.89375,P: Transparency
+principle:conformity_assessment_certification,ordinal 0-2,160,0.95625,0.8709677419354839,presence agreement=0.96,0.8733031674208145,0.975,P: Conformity assessment
+publication_stage,single,160,0.93125,0.8808314713250728,,0.9335915882678472,0.9625,Publication stage
+principle:physical_safety,ordinal 0-2,160,0.91875,0.8938992042440318,presence agreement=0.96,0.9395900755124056,0.95625,P: Physical safety
+principle:privacy,ordinal 0-2,160,0.88125,0.8940027894002789,presence agreement=0.93,0.9493599662399776,0.94375,P: Privacy
+relevance_to_embodied_ai_governance,ordinal,160,0.79375,0.8979434049791248,,0.9564270152505446,0.90625,Relevance to embodied AI governance
+principle:human_robot_proximity,ordinal 0-2,160,0.90625,0.90087559887659,presence agreement=0.92,0.935227916767873,0.9375,P: Human-robot proximity
+principle:sustainability,ordinal 0-2,160,0.93125,0.902740937223696,presence agreement=0.97,0.9563318777292577,0.96875,P: Sustainability
+doc_class,single,160,0.93125,0.9064774961475104,,0.931492185827446,0.95,Doc class
+is_governance_document,single,160,0.96875,0.9145299145299144,,0.8983050847457628,0.9625,Is governance document
+issuer_type,single,160,0.94375,0.927674535409342,,0.975744100257719,0.98125,Issuer type
+robot_legal_personhood_position,single,160,0.9875,0.9346138128320391,,0.9022403258655805,0.98125,Robot legal personhood position
+jurisdiction_scope,single,160,0.95625,0.935271340230018,,0.953453191365567,0.96875,Jurisdiction scope
+language,single,160,0.975,0.9445503378963784,,0.9561923884274892,0.98125,Language
+jurisdiction_country,single,160,0.95625,0.9538695992421434,,0.9802249412927944,0.98125,Jurisdiction country
+principle:liability_for_physical_damage,ordinal 0-2,160,0.975,0.9666805497709288,presence agreement=0.99,0.958167747333194,0.96875,P: Liability for physical damage
+faith_or_religious_perspective,single,160,1.0,1.0,,1.0,1.0,Faith or religious perspective

@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-84346d3c",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:11:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.060295600000000005,
+  "in": 2,
+  "out": 1766,
+  "cache_read": 11758,
+  "cache_create": 2827,
+  "api_ms": 12556,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Enabling a national cyber-physical infrastructure (CPI) to catalyse innovation",
+  "title_en": "Enabling a national cyber-physical infrastructure (CPI) to catalyse innovation",
+  "language": "en",
+  "authors_or_issuer": "Department for Science, Innovation and Technology; Department for Business, Energy & Industrial Strategy",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "proposal_or_concept",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "other_embodied"
+  ],
+  "primary_embodied_category": "other_embodied",
+  "application_sectors": [
+   "cross_sector",
+   "logistics_transport",
+   "research_science"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "National Digital Twin Programme"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "This GOV.UK page covers a UK government consultation from March 2022, with the government response added in March 2023. The consultation asked for views on a national cyber-physical infrastructure: connected digital twins and smart robotic systems meant to drive innovation. The response sets out key enablers, a grant competition and more than £30m in funding for digital twins.",
+  "key_provisions_or_claims": [
+   "Vision of a decentralised, internet-like network of connected cyber-physical systems, including digital twins and smart robotic systems",
+   "Consultation ran 2 March to 11 May 2022 and received 61 responses",
+   "Grant competition to fund organisations that develop and host a cyber-physical infrastructure ecosystem",
+   "Over £30m of funding for digital twinning, plus Department for Transport investment in transport digital twins",
+   "Framed around net zero and responses to global health crises"
+  ],
+  "confidence": 0.7
+ }
+}

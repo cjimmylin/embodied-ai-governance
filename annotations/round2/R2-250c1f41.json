@@ -1,0 +1,115 @@
+{
+ "doc_id": "R2-250c1f41",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:43:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0395418,
+  "in": 2,
+  "out": 1975,
+  "cache_read": 11758,
+  "cache_create": 4653,
+  "api_ms": 10063,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "北京经济技术开发区关于推动具身智能机器人创新发展的若干措施",
+  "title_en": "Several Measures of Beijing Economic-Technological Development Area on Promoting the Innovative Development of Embodied Intelligent Robots",
+  "language": "zh",
+  "authors_or_issuer": "北京经济技术开发区管理委员会",
+  "issuer_type": "subnational_government",
+  "pub_year": 2025,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "北京经济技术开发区管理委员会 (京技管发〔2025〕17号)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "professional_service_robots",
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "healthcare",
+   "education",
+   "public_administration_justice",
+   "retail_hospitality",
+   "finance"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "standards_interoperability",
+   "labor_employment",
+   "intellectual_property"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "insurance_requirement",
+   "data_governance_requirements",
+   "education_training_programs",
+   "international_cooperation",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "“机器人+”应用行动实施方案",
+   "人形机器人创新发展指导意见"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Beijing Economic-Technological Development Area (Yizhuang) issued ten incentive measures, valid to August 2028, to promote embodied-intelligence robots, including humanoids. It sets 2027 targets and offers subsidies for R&D, real-world datasets, application scenarios, manufacturing, insurance, finance, talent and international cooperation.",
+  "key_provisions_or_claims": [
+   "By end-2027: one secondary-development community, 100+ embodied AI firms, 10,000-unit mass-production capacity, 10M-scale real-world dataset.",
+   "Subsidies of up to 2M yuan per firm for datasets, and annual 100M yuan data vouchers at 10% of data purchases.",
+   "30%/20% procurement subsidies for scenario providers and robot firms; 100만 yuan per listed first-set equipment.",
+   "Humanoid sales subsidy of 10% (up to 1,000 units); 50% insurance premium subsidy up to 1M yuan annually.",
+   "Effective on publication until 31 Aug 2028; adjusts with national and Beijing policy changes."
+  ],
+  "confidence": 0.88
+ }
+}

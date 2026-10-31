@@ -1,0 +1,108 @@
+{
+ "doc_id": "D0790",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:28:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0620936,
+  "in": 4,
+  "out": 3638,
+  "cache_read": 28081,
+  "cache_create": 6420,
+  "api_ms": 18524,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "국회입법조사처 (National Assembly Research Service); 정준화",
+  "binding_nature": "not_applicable",
+  "confidence": 0.6,
+  "countries_discussed": [
+   "KR",
+   "US",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "education_training_programs",
+   "funding_or_incentives"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "privacy_data_protection",
+   "intellectual_property",
+   "transparency_explainability",
+   "cybersecurity",
+   "education_training",
+   "ethics_principles"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "AI inherent risks classified into data, technical and user risks",
+   "Reviews US and EU frameworks and Korea's draft AI Basic Act and AI Ethics Standards",
+   "Strengthen explanation of training data; revise personal data and copyright laws",
+   "Expand AI technical documentation, user manuals and risk assessment",
+   "Improve user literacy and regulate malicious use and cyberattacks"
+  ],
+  "language": "ko",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "Korea AI Basic Act",
+   "GDPR"
+  ],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "none",
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2024,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "National Assembly Research Service report (NARS Legislation & Policy No. 162) on AI's inherent risks—data, technical and user risks—reviewing US, EU and Korean frameworks, and proposing legislative and policy tasks such as training-data explanation, privacy and copyright law reform, risk assessment and user literacy.",
+  "title_clean": "인공지능의 내재적 위험과 입법·정책 과제 - 데이터·기술·이용자를 중심으로 -",
+  "title_en": "Inherent Risks of Artificial Intelligence and Legislative/Policy Tasks: Focusing on Data, Technology and Users",
+  "venue": "국회입법조사처 NARS 입법·정책"
+ }
+}

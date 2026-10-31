@@ -1,0 +1,110 @@
+{
+ "doc_id": "D0233",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:39:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0697458,
+  "in": 2,
+  "out": 1839,
+  "cache_read": 11758,
+  "cache_create": 12544,
+  "api_ms": 11030,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Generative Artificial Intelligence Guidelines For Government",
+  "title_en": "Generative Artificial Intelligence Guidelines For Government",
+  "language": "en",
+  "authors_or_issuer": "Saudi Data & AI Authority (SDAIA)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "SDAIA",
+  "jurisdiction_country": "SA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SA"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "education_training",
+   "cybersecurity"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "audits_impact_assessment",
+   "human_oversight_requirement",
+   "education_training_programs",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "Saudi AI Ethics Principles",
+   "Saudi Personal Data Protection Law",
+   "Saudi Data Classification Policy"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "SDAIA's May 2025 guidelines for Saudi government employees using generative AI tools. They set ethics-based requirements on fairness, reliability, transparency, accountability, privacy and security, and assign roles to data management offices, users and entities. They include practical prompt examples and a compliance checklist. No physical or embodied AI content.",
+  "key_provisions_or_claims": [
+   "Government entities must not use GenAI in critical decisions affecting individuals or vital national interests",
+   "All GenAI outputs must be human-reviewed for accuracy and bias",
+   "Only public-classified data may be entered into GenAI tools; restricted or higher is prohibited",
+   "Content created with GenAI must be disclosed to beneficiaries, with watermarks and non-automated alternatives",
+   "Data Management Offices approve tools and audit training data; risk tiers follow SDAIA AI Ethics Principles"
+  ],
+  "confidence": 0.93
+ }
+}

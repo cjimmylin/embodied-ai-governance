@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0748",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:57:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.054426800000000004,
+  "in": 4,
+  "out": 3548,
+  "cache_read": 26458,
+  "cache_create": 4752,
+  "api_ms": 25194,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector",
+   "logistics_transport",
+   "research_science"
+  ],
+  "authors_or_issuer": "Executive Yuan, R.O.C. (Taiwan); National Science and Technology Council",
+  "binding_nature": "not_applicable",
+  "confidence": 0.75,
+  "countries_discussed": [
+   "TW"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "drones_uas",
+   "autonomous_maritime_or_rail"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "other"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "TW",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "AI Taiwan Action Plan (2018-2021) launched January 18, 2018",
+   "Guided by deregulation, open access and technology investment",
+   "Trains over 10,000 AI technicians and application specialists each year",
+   "Unmanned Vehicles Technology Innovative Experimentation Act covers land, sea and air autonomous vehicles",
+   "Taiwan CAR Lab closed field opened for self-driving car testing"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Unmanned Vehicles Technology Innovative Experimentation Act"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2019,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Executive Yuan web page summarizing the AI Taiwan Action Plan (2018-2021), which promotes AI talent, semiconductor leadership, innovation hubs, deregulation and industry transformation. It highlights the Unmanned Vehicles Technology Innovative Experimentation Act and the CAR Lab test field as sandboxes for autonomous vehicles.",
+  "title_clean": "AI Taiwan Action Plan",
+  "title_en": "AI Taiwan Action Plan",
+  "venue": "Executive Yuan, R.O.C. (Taiwan) website"
+ }
+}

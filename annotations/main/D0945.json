@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0945",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:32:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07420610000000001,
+  "in": 4,
+  "out": 3811,
+  "cache_read": 30481,
+  "cache_create": 9037,
+  "api_ms": 20591,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "U.S. Consumer Product Safety Commission (CPSC), Office of Hazard Identification and Reduction",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [
+   "domestic_household_robots"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "consumer_protection",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "instrument_status": "proposal_or_concept",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Proposes a four-step approach: screen, assess, analyze, monitor/measure AI/ML in consumer products.",
+   "Three-phase build-out of an AI/ML test and evaluation capability at CPSC.",
+   "Monitor products for evolution beyond previously deemed safe parameters, triggering re-evaluation.",
+   "Recommends inputs to the FY2023 Operating Plan and participation in voluntary standards development.",
+   "Recommends collaboration with NIST, ACT-IAC and the Federal AI Interagency Working Group."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "CPSC Chief Technologist staff report proposing an applied AI/ML test and evaluation program for consumer products. It sets out a four-step process (screen, assess, analyze, monitor/measure) and a three-phase build-out. It makes recommendations for the FY2023 operating plan and for collaboration and voluntary standards work. The report has not been reviewed by the Commission.",
+  "title_clean": "Applied Artificial Intelligence and Machine Learning Test and Evaluation Program for Consumer Products",
+  "title_en": "Applied Artificial Intelligence and Machine Learning Test and Evaluation Program for Consumer Products",
+  "venue": "U.S. Consumer Product Safety Commission"
+ }
+}

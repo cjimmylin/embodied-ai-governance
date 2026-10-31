@@ -1,0 +1,108 @@
+{
+ "doc_id": "D0222",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:12:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0970456,
+  "in": 4,
+  "out": 3971,
+  "cache_read": 35651,
+  "cache_create": 14224,
+  "api_ms": 24067,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Vaseghi, M.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU",
+   "KR",
+   "IR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": null,
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "autonomous_road_vehicles",
+   "care_assistive_robots",
+   "surgical_medical_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "ethics_principles",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "IR",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Autonomous robots create a liability gap because behaviour is unpredictable and victims struggle to prove defect and attribution.",
+   "The EU 2017 resolution proposed electronic personality for robots to fill this gap.",
+   "Granting legal personality to current smart robots is not feasible given their autonomy level.",
+   "If robots reach full autonomy, perception and will, no obstacle remains to granting legal personality.",
+   "Discusses the Korean Intelligent Robots Act and ISO 8373 definitions of intelligent robots."
+  ],
+  "language": "fa",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017",
+   "Korea Intelligent Robots Act",
+   "Asimov's Laws of Robotics"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2020,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "summary_en": "Persian-language journal article assessing whether legal personality can be granted to smart robots, based on the EU 2017 electronic person resolution. Concludes it is not currently feasible given robots' limited autonomy, but would be possible if robots attained full autonomy, perception and will.",
+  "title_clean": "امکان‌سنجی اعطای شخصیت حقوقی به ربات‌های هوشمند با تکیه بر مصوبه اتحادیه اروپا (شخص الکترونیک ۲۰۱۷)",
+  "title_en": "Feasibility Study of Granting Legal Personality to Smart Robots Based on the European Union Resolution (Electronic Person 2017)",
+  "venue": "فصلنامه مجلس و راهبرد (Majlis and Rahbord Quarterly)"
+ }
+}

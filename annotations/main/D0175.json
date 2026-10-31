@@ -1,0 +1,93 @@
+{
+ "doc_id": "D0175",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:11:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0483158,
+  "in": 2,
+  "out": 1646,
+  "cache_read": 11758,
+  "cache_create": 7669,
+  "api_ms": 8702,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Comissão sobre inteligência artificial debate proteção de direitos fundamentais e novas tecnologias",
+  "title_en": "Committee on artificial intelligence debates protection of fundamental rights and new technologies",
+  "language": "pt",
+  "authors_or_issuer": "Agência Câmara (Câmara dos Deputados, Brazil)",
+  "issuer_type": "legislature",
+  "pub_year": 2025,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Agência Câmara de Notícias",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "News item from Brazil's Chamber of Deputies announcing a public hearing by the Special Committee on AI, examining Bill 2338/23 (already passed by the Senate), on protecting fundamental rights while fostering innovation. No robotics or physical-AI content.",
+  "key_provisions_or_claims": [
+   "Special Committee on AI holds public hearing on fundamental rights and new technologies on 17 June 2025.",
+   "PL 2338/23, approved by the Senate, would regulate AI use in Brazil.",
+   "Deputies seek balance between rights protection and innovation.",
+   "Committee chaired by Luisa Canziani; rapporteur Aguinaldo Ribeiro."
+  ],
+  "confidence": 0.9
+ }
+}

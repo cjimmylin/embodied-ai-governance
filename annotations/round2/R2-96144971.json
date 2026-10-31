@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-96144971",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:12:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0287518,
+  "in": 2,
+  "out": 1746,
+  "cache_read": 11758,
+  "cache_create": 2528,
+  "api_ms": 8758,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "IEC 62061:2021 Safety of machinery - Functional safety of safety-related control systems",
+  "title_en": "IEC 62061:2021 Safety of machinery - Functional safety of safety-related control systems",
+  "language": "en",
+  "authors_or_issuer": "IEC (International Electrotechnical Commission), TC 44",
+  "issuer_type": "standards_body",
+  "pub_year": 2021,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "IEC Webstore",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "cybersecurity"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "IEC 61508",
+   "IEC 60204-1",
+   "IEC TR 63074"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "IEC catalogue page for IEC 62061:2021 (with AMD1:2024), a machinery functional safety standard specifying design, integration and validation requirements for safety-related control systems, within the IEC 61508 framework. It adds non-electrical technologies, a functional safety plan, security references and periodic testing requirements.",
+  "key_provisions_or_claims": [
+   "Specifies design, integration and validation of safety-related control systems for machines",
+   "Sector standard under IEC 61508 for high/continuous demand mode",
+   "Extended to non-electrical technologies; SILCL replaced by maximum SIL",
+   "Adds functional safety plan, parametrization, periodic testing and security reference",
+   "Excludes electrical hazards and security measures (see IEC 60204-1, IEC TR 63074)"
+  ],
+  "confidence": 0.85
+ }
+}

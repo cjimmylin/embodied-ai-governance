@@ -1,0 +1,109 @@
+{
+ "doc_id": "D1199",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:39:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07162400000000001,
+  "in": 4,
+  "out": 3789,
+  "cache_read": 29900,
+  "cache_create": 8464,
+  "api_ms": 21556,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "agriculture_food",
+   "logistics_transport",
+   "public_administration_justice",
+   "energy_environment",
+   "education"
+  ],
+  "authors_or_issuer": "OECD",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "FR",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "agricultural_robots"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "education_training_programs",
+   "international_cooperation",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "sustainability_environment"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "France's national AI strategy phase 1 (2018-22) had EUR 1.85bn; phase 2 (2022-25) prioritises AI diffusion in SMEs, and embedded, trustworthy, frugal and generative AI.",
+   "2023 measures added for generative AI; independent Comité de l'IA générative issued recommendations.",
+   "Strategy monitored with KPIs, Cour des Comptes evaluation and France 2030 oversight committee.",
+   "France first EU member state to join International Network of AI Safety Institutes.",
+   "France leads the autonomous mobility node of CitCom.ai TEF and participates in agrifoodTEF."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "pub_month": 10,
+  "pub_year": 2025,
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "OECD country note on France's progress implementing the EU Coordinated Plan on AI. It reviews the national AI strategy (2018-25), funding, coordination, monitoring, skills, compute, and sector priorities. Embodied AI appears only marginally via autonomous mobility and agrifood testing facilities.",
+  "title_clean": "Progress in Implementing the EU Coordinated Plan on AI (Vol. 1): France",
+  "title_en": "Progress in Implementing the EU Coordinated Plan on AI (Vol. 1): France",
+  "venue": "OECD Publishing",
+  "methodology": "not_applicable"
+ }
+}

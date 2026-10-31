@@ -1,0 +1,98 @@
+{
+ "doc_id": "D0036",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:07:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0611578,
+  "in": 2,
+  "out": 1719,
+  "cache_read": 11758,
+  "cache_create": 10697,
+  "api_ms": 9101,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Can I co-author with my robot? The legal, ethical and economic dilemmas of doing academic research in times of artificial intelligence",
+  "title_en": "Can I co-author with my robot? The legal, ethical and economic dilemmas of doing academic research in times of artificial intelligence",
+  "language": "en",
+  "authors_or_issuer": "Ramírez-Plascencia, D.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.26754/ojs_ais/ais.20254711876",
+  "venue": "Acciones e Investigaciones Sociales",
+  "jurisdiction_country": "MX",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "MX",
+   "ES"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "software_agent_called_robot",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education",
+   "research_science"
+  ],
+  "governance_topics": [
+   "intellectual_property",
+   "ethics_principles",
+   "research_ethics",
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "intellectual_property",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "Berne Convention for the Protection of Literary and Artistic Works"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Journal article examining whether generative AI can be credited as co-author in academic research, combining literature review, comparative legal texts, court cases and publisher policies. Argues that ethical, legal and economic motives drive publishers' restrictions, and that legal and funding frameworks are becoming outdated. Concerns software AI, not physical robots.",
+  "key_provisions_or_claims": [
+   "Publishers limit AI authorship for ethical, legal and economic reasons",
+   "Enthusiasm for AI in education contrasts with reservations in academic publishing",
+   "Copyright and authorship law is outdated for AI-generated content",
+   "Analysis draws on legal texts, court cases and literature review"
+  ],
+  "confidence": 0.85
+ }
+}

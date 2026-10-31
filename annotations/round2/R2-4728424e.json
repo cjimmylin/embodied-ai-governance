@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-4728424e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:49:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.12974580000000002,
+  "in": 2,
+  "out": 1845,
+  "cache_read": 11758,
+  "cache_create": 27529,
+  "api_ms": 15063,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Regulation (EU) 2017/1154 of 7 June 2017 amending Regulation (EU) 2017/1151 as regards real-driving emissions from light passenger and commercial vehicles (Euro 6)",
+  "title_en": "Commission Regulation (EU) 2017/1154 of 7 June 2017 amending Regulation (EU) 2017/1151 as regards real-driving emissions from light passenger and commercial vehicles (Euro 6)",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2017,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 175",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "sustainability_environment",
+   "standards_interoperability",
+   "transparency_explainability",
+   "other"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Regulation amending the Euro 6 implementing rules to add cold-start, particle-number and hybrid-vehicle provisions to real-driving emissions testing, strengthen defeat-device oversight through extended documentation of emission strategies, and require declared maximum RDE values in certificates of conformity. Not about AI or robotics.",
+  "key_provisions_or_claims": [
+   "Adds cold-start and particle number (PN) evaluation to RDE type-approval testing",
+   "Requires an extended confidential documentation package on auxiliary emission strategies to police defeat devices",
+   "Manufacturers must declare maximum RDE NOx and PN values in the certificate of conformity and publish PEMS results online",
+   "Small-volume manufacturers get extra time; ultra-small-volume manufacturers are exempt",
+   "Commission to develop a revised evaluation method for hybrid and plug-in hybrid vehicles"
+  ],
+  "confidence": 0.95
+ }
+}

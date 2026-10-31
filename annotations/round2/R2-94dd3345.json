@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-94dd3345",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:37:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2826558,
+  "in": 2,
+  "out": 1672,
+  "cache_read": 11758,
+  "cache_create": 66189,
+  "api_ms": 9736,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "指定自動車整備事業規則",
+  "title_en": "Regulations on Designated Motor Vehicle Maintenance Businesses",
+  "language": "ja",
+  "authors_or_issuer": "運輸省 (Ministry of Transport; now MLIT)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search (Japan)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "other"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Japanese ministerial ordinance (1962, revised July 2025) implementing the Road Transport Vehicle Act. It sets rules for designated motor vehicle maintenance businesses: designation applications, inspection equipment standards, vehicle inspector qualifications, calibration body registration, and safety-standard conformity certificates. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Sets application requirements for designation as a vehicle maintenance business",
+   "Specifies required inspection equipment and calibration to national technical standards",
+   "Defines qualifications and training for vehicle inspectors",
+   "Establishes registration, renewal, and revocation of calibration bodies",
+   "Safety standard conformity certificates valid for 15 days"
+  ],
+  "confidence": 0.9
+ }
+}

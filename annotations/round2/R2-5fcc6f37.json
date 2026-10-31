@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-5fcc6f37",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:45:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0289318,
+  "in": 2,
+  "out": 1770,
+  "cache_read": 11758,
+  "cache_create": 2513,
+  "api_ms": 8699,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Delegated Directive 2014/13/EU of 18 October 2013 amending Annex IV to Directive 2011/65/EU as regards an exemption for lead in solders on populated printed circuit boards used in class IIa and IIb mobile medical devices",
+  "title_en": "Commission Delegated Directive 2014/13/EU of 18 October 2013 amending Annex IV to Directive 2011/65/EU as regards an exemption for lead in solders on populated printed circuit boards used in class IIa and IIb mobile medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2013,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "other"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "Directive 2011/65/EU (RoHS)",
+   "Council Directive 93/42/EEC"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Delegated Directive adding a temporary RoHS exemption for lead in solders on printed circuit boards of class IIa and IIb mobile medical devices, expiring 30 June 2016 (IIa) and 31 December 2020 (IIb). Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Adds point 33 to Annex IV of RoHS Directive 2011/65/EU",
+   "Exempts lead in solders on PCBs of class IIa/IIb mobile medical devices except portable emergency defibrillators",
+   "Exemption expires 30 June 2016 (IIa) and 31 December 2020 (IIb)",
+   "Member States must transpose within six months of entry into force"
+  ],
+  "confidence": 0.95
+ }
+}

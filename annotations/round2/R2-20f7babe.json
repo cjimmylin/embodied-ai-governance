@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-20f7babe",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0818611,
+  "in": 4,
+  "out": 3529,
+  "cache_read": 33206,
+  "cache_create": 11483,
+  "api_ms": 23493,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "authors_or_issuer": "Ministère des Armées (DICoD)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "FR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "press_release_or_government_news",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "cybersecurity"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "AMIAD created May 2024 to coordinate and accelerate defence AI, reporting directly to the Armed Forces minister",
+   "Over 400 AI use cases; target of 300 agents by end 2026",
+   "Three strategic axes: orient, anticipate, accelerate",
+   "Use cases include DEMAIA vehicle detection, OASIS counter-drone and AI-assisted aiming for the PROTEUS anti-aircraft gun",
+   "Commitment to trusted, ethical and secure AI and digital sovereignty, with a classified supercomputer"
+  ],
+  "language": "fr",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "pub_month": 1,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "French Ministry of the Armed Forces press kit (January 2025) presenting its defence AI strategy and the AMIAD agency created in May 2024. It describes organisation, resources and military use cases such as DEMAIA detection, OASIS counter-drone and AI-assisted weapon aiming, stressing sovereignty and trusted AI.",
+  "title_clean": "Dossier de presse - L'IA, enjeux de défense",
+  "title_en": "Press kit - AI, Defence Stakes",
+  "venue": "Ministère des Armées"
+ }
+}

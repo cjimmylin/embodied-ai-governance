@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1631",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:51:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0378758,
+  "in": 2,
+  "out": 1720,
+  "cache_read": 11758,
+  "cache_create": 4874,
+  "api_ms": 11154,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Importance of Ethics in Socio-Educational Robotics",
+  "title_en": "The Importance of Ethics in Socio-Educational Robotics",
+  "language": "en",
+  "authors_or_issuer": "Arocena, I.; Cruz-Iglesias, E.; Rekalde-Rodriguez, I.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "STEMEDU-2022 International Conference, Veliko Tarnovo, Bulgaria",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "educational_robots",
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "educational_robots",
+  "application_sectors": [
+   "education"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "children_vulnerable_groups",
+   "human_robot_interaction_social_effects",
+   "education_training",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Short conference paper defining socio-educational robotics and arguing that educational interventions with social robots need ethical grounding, since the pedagogy deontological code does not cover robotics. It draws on the Asilomar AI principles and autism good-practice criteria.",
+  "key_provisions_or_claims": [
+   "The pedagogy profession's deontological code does not cover social robotics.",
+   "Robot-based interventions must be compatible with human dignity, rights, freedoms and cultural diversity.",
+   "Every robotic intervention needs a clear educational purpose, not use of technology for its own sake.",
+   "Draws on the Asilomar AI principles as ethical reference.",
+   "Interventions for children with ASD should follow good-practice requirements."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0036",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:41:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0428398,
+  "in": 2,
+  "out": 1748,
+  "cache_read": 11758,
+  "cache_create": 6045,
+  "api_ms": 9375,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "education",
+   "research_science"
+  ],
+  "authors_or_issuer": "Ramírez-Plascencia, D.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "MX",
+   "US",
+   "CN",
+   "ES"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "software_agent_called_robot",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "intellectual_property",
+   "ethics_principles",
+   "research_ethics",
+   "industrial_policy_innovation",
+   "education_training"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "MX",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Publishers restrict AI as author while education sector enthusiastically adopts AI tools.",
+   "Divergent attitudes reflect economic and legal motives, not only academic ethics and plagiarism concerns.",
+   "Compares copyright law and court cases (Mexico, US, China) on AI-generated works.",
+   "Legal frameworks and financing mechanisms for academic publishing are becoming outdated."
+  ],
+  "language": "en",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [
+   "Berne Convention for the Protection of Literary and Artistic Works",
+   "Ley Federal de Derechos de Autor",
+   "Ley de Propiedad Intelectual"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "intellectual_property",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2025,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Journal article examining why publishers and universities limit AI authorship while the education sector embraces AI tools. Combining literature review, comparative legal texts and court cases, it argues the tension reflects economic and legal factors as well as ethics, and that copyright and financing frameworks are outdated.",
+  "title_clean": "Can I co-author with my robot? The legal, ethical and economic dilemmas of doing academic research in times of artificial intelligence",
+  "title_en": "Can I co-author with my robot? The legal, ethical and economic dilemmas of doing academic research in times of artificial intelligence",
+  "venue": "Acciones e Investigaciones Sociales"
+ }
+}

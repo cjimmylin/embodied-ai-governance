@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-ecd082ff",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0502866,
+  "in": 4,
+  "out": 3545,
+  "cache_read": 25461,
+  "cache_create": 3746,
+  "api_ms": 23184,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "manufacturing",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)",
+  "issuer_type": "regulator_or_agency",
+  "methodology": "not_applicable",
+  "binding_nature": "not_applicable",
+  "confidence": 0.6,
+  "countries_discussed": [
+   "ES"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "mobile_industrial_logistics",
+   "drones_uas",
+   "rehabilitation_exoskeleton_prosthetic",
+   "collaborative_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "labor_employment",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Leaflet series on new technologies and occupational risks, 2023 edition.",
+   "Covers automated guided vehicles, drones, exoskeletons and collaborative robots.",
+   "Describes characteristics, risks and preventive measures for each technology.",
+   "Aims to raise awareness of new devices and how to eliminate or reduce their risks."
+  ],
+  "language": "es",
+  "named_instruments_referenced": [],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2023,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Spanish INSST catalogue page for a 2023 leaflet series, 'New technologies, new occupational risks', covering automated guided vehicles, drones, exoskeletons and collaborative robots. It presents each technology's characteristics, risks and preventive measures for workplace safety. Only the series description is shown, not the leaflet content.",
+  "title_clean": "Folleto: Nuevas tecnologías, nuevos riesgos laborales. Vehículos autoguiados: características, riesgos y medidas preventivas - Año 2023",
+  "title_en": "Leaflet: New technologies, new occupational risks. Automated guided vehicles: characteristics, risks and preventive measures - 2023",
+  "venue": "INSST"
+ }
+}

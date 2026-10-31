@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-65b3bb76",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0685262,
+  "in": 4,
+  "out": 3892,
+  "cache_read": 28867,
+  "cache_create": 7474,
+  "api_ms": 26464,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opening Speech by Second Minister for Transport Ng Chee Meng for the Road Traffic (Amendment) Bill Second Reading",
+  "title_en": "Opening Speech by Second Minister for Transport Ng Chee Meng for the Road Traffic (Amendment) Bill Second Reading",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Transport, Singapore (Second Minister for Transport Ng Chee Meng)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2017,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Transport Singapore website",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "criminal_liability",
+   "industrial_policy_innovation",
+   "labor_employment",
+   "consumer_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "licensing_registration",
+   "technical_standards_reference",
+   "data_governance_requirements",
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "SAE J3016",
+   "Singapore Road Traffic Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Ministerial opening speech at the second reading of Singapore's Road Traffic (Amendment) Bill 2017. It introduces a five-year regulatory sandbox for autonomous vehicle trials (SAE levels 3–5) via ministerial rules, and tighter private hire car regulation and penalties, under a balanced light-touch stance.",
+  "key_provisions_or_claims": [
+   "Clause 6 lets the Minister make rules for AV trials and use on public roads, covering time and space limits, equipment design standards and data sharing.",
+   "Rules may exempt AVs and operators from human-driver provisions of the Road Traffic Act.",
+   "The AV regulatory sandbox is limited to five years, after which permanent legislation or an extension will be considered.",
+   "Covers SAE J3016 levels 3, 4 and 5; driver assistance systems are excluded.",
+   "Private hire car drivers need vocational licences, and booking operators such as Uber and Grab face duties and suspension orders."
+  ],
+  "confidence": 0.9
+ }
+}

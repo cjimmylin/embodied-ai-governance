@@ -1,0 +1,95 @@
+{
+ "doc_id": "D1597",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0458458,
+  "in": 2,
+  "out": 1799,
+  "cache_read": 11758,
+  "cache_create": 6669,
+  "api_ms": 8949,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "research_science"
+  ],
+  "authors_or_issuer": "Jones, L.; Shahzad, S.; Sana, A.; Pizzuto, G.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "preprint_or_working_paper",
+  "doi": null,
+  "embodied_categories": [
+   "industrial_manipulators",
+   "professional_service_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Ensemble of recurrent imitation-learning policies estimates epistemic uncertainty via action variance.",
+   "Kernel density estimation calibrates a safety threshold on success-conditioned variance.",
+   "Hybrid controller switches to a rule-based backup controller when uncertainty exceeds the threshold.",
+   "Improves task success and reduces safety violations across three lab manipulation tasks versus single-policy baselines.",
+   "Zero-shot sim-to-real transfer demonstrated on a Franka Production 3 arm."
+  ],
+  "language": "en",
+  "methodology": "technical_or_engineering",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "industrial_manipulators",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2026,
+  "publication_stage": "preprint",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Preprint proposing SAFE-CHEM, an uncertainty-aware hybrid controller for robotic chemistry. An imitation-learning ensemble quantifies epistemic uncertainty and switches to a rule-based backup controller above a calibrated threshold. It improves success and reduces safety violations in simulation and transfers zero-shot to a Franka robot. It is a technical safety paper, not a governance document.",
+  "title_clean": "SAFE-CHEM: Uncertainty-Aware Policy Switching for Robust Robotic Chemistry",
+  "title_en": "SAFE-CHEM: Uncertainty-Aware Policy Switching for Robust Robotic Chemistry",
+  "venue": "arXiv"
+ }
+}

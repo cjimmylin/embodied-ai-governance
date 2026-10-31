@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-d3dd481c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:47:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0460878,
+  "in": 2,
+  "out": 1802,
+  "cache_read": 11758,
+  "cache_create": 6722,
+  "api_ms": 9892,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2026/1231 amending Implementing Decision (EU) 2021/1182 as regards harmonised standards for medical devices",
+  "title_en": "Commission Implementing Decision (EU) 2026/1231 amending Implementing Decision (EU) 2021/1182 as regards harmonised standards for medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "Regulation (EU) 2017/745 (Medical Devices Regulation)",
+   "Regulation (EU) No 1025/2012",
+   "Implementing Decision (EU) 2021/1182"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Implementing Decision of 11 June 2026 updating the list of harmonised standards supporting the Medical Devices Regulation (EU) 2017/745. It adds and replaces references to standards on biological evaluation, symbols, electrical equipment, prosthetics and others, conferring presumption of conformity. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Amends the Annex to Implementing Decision (EU) 2021/1182 listing harmonised medical device standards.",
+   "Publishes references to new and amended EN ISO/IEC standards, conferring presumption of conformity under MDR.",
+   "Withdrawal of previous versions deferred: from 15 December 2027, and 15 June 2031 for EN ISO 15223-1:2021.",
+   "Enters into force on the day of publication."
+  ],
+  "confidence": 0.95
+ }
+}

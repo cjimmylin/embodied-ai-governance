@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0067",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:37:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0787712,
+  "in": 4,
+  "out": 3566,
+  "cache_read": 32267,
+  "cache_create": 10700,
+  "api_ms": 18126,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proyecto de Ley: Observatorio Federal sobre Inteligencia Artificial (O.F.I.A.)",
+  "title_en": "Bill: Federal Observatory on Artificial Intelligence (O.F.I.A.)",
+  "language": "es",
+  "authors_or_issuer": "Honorable Congreso de la Nación Argentina (Senado y Cámara de Diputados)",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Congreso de la Nación Argentina",
+  "jurisdiction_country": "AR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AR",
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "education",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "education_training",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI",
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Argentine bill creating a Federal Observatory on Artificial Intelligence within the executive branch to provide public information, research, consultation and annual reporting supporting reliable, non-discriminatory AI policy. Grounded in the UNESCO Recommendation and the EU AI Act. No robotics content.",
+  "key_provisions_or_claims": [
+   "Creates the Observatorio Federal sobre IA (O.F.I.A.) under the national executive",
+   "Functions: analyse AI risks and ethics, evaluate regulation, consult experts, publish periodic reports",
+   "Composed of ministerial, legislative, provincial and university representatives serving ad honorem",
+   "Annual report with proposals for institutional or normative reform",
+   "Invites provinces and CABA to adhere; budget adjustments authorised"
+  ],
+  "confidence": 0.85
+ }
+}

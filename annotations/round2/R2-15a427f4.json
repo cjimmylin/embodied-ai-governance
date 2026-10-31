@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-15a427f4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:40:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.033813800000000005,
+  "in": 2,
+  "out": 1717,
+  "cache_read": 11758,
+  "cache_create": 3866,
+  "api_ms": 8615,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "工业和信息化部关于印发《人形机器人创新发展指导意见》的通知",
+  "title_en": "Notice of the Ministry of Industry and Information Technology on Issuing the Guiding Opinions on the Innovative Development of Humanoid Robots",
+  "language": "zh",
+  "authors_or_issuer": "工业和信息化部 (Ministry of Industry and Information Technology, China); reposted on Beijing International Science and Technology Innovation Center platform",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "北京国际科技创新中心网络服务平台",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Beijing innovation-center portal page reposting the MIIT transmittal notice (工信部科〔2023〕193号, 20 Oct 2023) issuing the Guiding Opinions on Innovative Development of Humanoid Robots. Only the cover notice appears; the guidance text itself is not reproduced, so substantive provisions are not visible.",
+  "key_provisions_or_claims": [
+   "MIIT issued the Humanoid Robot Innovation Development Guiding Opinions on 20 Oct 2023 (No. 193).",
+   "Notice directs provincial industry and IT authorities, associations and enterprises to implement it.",
+   "Page contains only the transmittal notice, not the guidance content."
+  ],
+  "confidence": 0.7
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "generated": "2026-10-31T03:08:19.766582+00:00",
+ "python": "Python 3.13.17",
+ "claude_cli": "2.1.314 (Claude Code)",
+ "folders": {
+  "cjk_fix": {
+   "n": 46,
+   "models": {
+    "claude-sonnet-5-5": 46
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 46
+   },
+   "policies": {
+    "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4": 46
+   },
+   "cost_usd": 2.49,
+   "inputs_stored": true
+  },
+  "gov_extended": {
+   "n": 351,
+   "models": {
+    "claude-sonnet-5-5": 351
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 351
+   },
+   "policies": {
+    "v2|head=100000|mid=6000|tail=4000|blind=True": 351
+   },
+   "cost_usd": 35.85,
+   "inputs_stored": true
+  },
+  "main": {
+   "n": 1703,
+   "models": {
+    "claude-sonnet-5-5": 1703
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 1703
+   },
+   "policies": {
+    "None": 1703
+   },
+   "cost_usd": 81.92,
+   "inputs_stored": false
+  },
+  "main_clean": {
+   "n": 499,
+   "models": {
+    "claude-sonnet-5-5": 499
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 499
+   },
+   "policies": {
+    "None": 499
+   },
+   "cost_usd": 17.28,
+   "inputs_stored": false
+  },
+  "reliability_blind": {
+   "n": 160,
+   "models": {
+    "claude-sonnet-5-5": 160
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 160
+   },
+   "policies": {
+    "v2|head=10000|mid=2500|tail=1500|blind=True": 160
+   },
+   "cost_usd": 6.63,
+   "inputs_stored": true
+  },
+  "reliability_fulltext": {
+   "n": 160,
+   "models": {
+    "claude-sonnet-5-5": 160
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 160
+   },
+   "policies": {
+    "None": 160
+   },
+   "cost_usd": 10.92,
+   "inputs_stored": false
+  },
+  "reliability_opus": {
+   "n": 160,
+   "models": {
+    "claude-opus-5-5": 160
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 160
+   },
+   "policies": {
+    "None": 160
+   },
+   "cost_usd": 15.72,
+   "inputs_stored": false
+  },
+  "reliability_round2_opus": {
+   "n": 160,
+   "models": {
+    "claude-opus-5-5": 160
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 160
+   },
+   "policies": {
+    "v2|head=100000|mid=6000|tail=4000|blind=True": 160
+   },
+   "cost_usd": 21.46,
+   "inputs_stored": false
+  },
+  "reliability_round2_rerun": {
+   "n": 160,
+   "models": {
+    "claude-sonnet-5-5": 160
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 160
+   },
+   "policies": {
+    "v2|head=100000|mid=6000|tail=4000|blind=True": 160
+   },
+   "cost_usd": 11.05,
+   "inputs_stored": false
+  },
+  "reliability_sonnet_rerun": {
+   "n": 160,
+   "models": {
+    "claude-sonnet-5-5": 160
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 160
+   },
+   "policies": {
+    "None": 160
+   },
+   "cost_usd": 3.99,
+   "inputs_stored": false
+  },
+  "round2": {
+   "n": 1736,
+   "models": {
+    "claude-sonnet-5-5": 1736
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 1736
+   },
+   "policies": {
+    "v2|head=100000|mid=6000|tail=4000|blind=True": 1356,
+    "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4": 380
+   },
+   "cost_usd": 126.02,
+   "inputs_stored": true
+  },
+  "test": {
+   "n": 7,
+   "models": {
+    "claude-sonnet-5-5": 7
+   },
+   "prompt_hashes": {
+    "8fa172c1ecd5": 7
+   },
+   "policies": {
+    "None": 7
+   },
+   "cost_usd": 0.69,
+   "inputs_stored": false
+  }
+ }
+}

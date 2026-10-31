@@ -1,0 +1,102 @@
+{
+ "doc_id": "D1383",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:05:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.03400980000000001,
+  "in": 2,
+  "out": 1863,
+  "cache_read": 11758,
+  "cache_create": 3550,
+  "api_ms": 10766,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "manufacturing",
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "ISO (International Organization for Standardization)",
+  "binding_nature": "technical_standard_voluntary",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "mobile_industrial_logistics"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "human_robot_interaction_social_effects"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Specifies safety requirements and verification for driverless industrial trucks (AGVs, AMRs) and their systems.",
+   "Covers all significant hazards across the truck's life cycle, including reasonably foreseeable misuse.",
+   "Annex A specifies preparation of the operating zone to eliminate hazards.",
+   "Excludes public zones, public roads, explosive or nuclear environments, military use and towed trailers.",
+   "Currently at stage 90.92 (to be revised); ISO/DIS 3691-4 expected to replace it."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "ISO 3691-4",
+   "ISO 13482",
+   "ISO 12100"
+  ],
+  "page_quality": "partial_or_excerpt",
+  "pub_month": null,
+  "pub_year": 2023,
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "summary_en": "ISO catalogue page for ISO 3691-4:2023, the international safety standard for driverless industrial trucks (AGVs, AMRs) and their systems. It sets safety requirements and verification means, lists exclusions, and notes the standard is under revision with ISO/DIS 3691-4 expected to replace it.",
+  "title_clean": "ISO 3691-4:2023 - Industrial trucks — Safety requirements and verification — Part 4: Driverless industrial trucks and their systems",
+  "title_en": "ISO 3691-4:2023 - Industrial trucks — Safety requirements and verification — Part 4: Driverless industrial trucks and their systems",
+  "venue": "ISO.org"
+ }
+}

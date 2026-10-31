@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-2e86d32f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:56:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0368918,
+  "in": 2,
+  "out": 1772,
+  "cache_read": 11758,
+  "cache_create": 4498,
+  "api_ms": 9521,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial intelligence in the military domain and its implications for international peace and security",
+  "title_en": "Artificial intelligence in the military domain and its implications for international peace and security",
+  "language": "en",
+  "authors_or_issuer": "United Nations General Assembly",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "United Nations General Assembly (A/RES/79/239)",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "UN General Assembly resolution 79/239 affirms that international law, including IHL and human rights law, applies across the life cycle of military AI. It encourages state dialogue and capacity-building, and requests a Secretary-General report on views and normative proposals, focusing on areas other than lethal autonomous weapons, for the 80th session.",
+  "key_provisions_or_claims": [
+   "Affirms international law, including the UN Charter, IHL and human rights law, applies throughout the military AI life cycle",
+   "Encourages states to pursue national, regional and global efforts and multilateral dialogue on military AI",
+   "Calls for voluntary cooperation to bridge AI divides with developing countries",
+   "Requests the Secretary-General to collect views and catalogue normative proposals, excluding LAWS, for the 80th session",
+   "Adds a sub-item on military AI to the General Assembly's 80th session agenda"
+  ],
+  "confidence": 0.9
+ }
+}

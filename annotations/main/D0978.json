@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0978",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:33:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0423378,
+  "in": 2,
+  "out": 1747,
+  "cache_read": 11758,
+  "cache_create": 5922,
+  "api_ms": 14367,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Dawning of the Ethics of Environmental Robots",
+  "title_en": "The Dawning of the Ethics of Environmental Robots",
+  "language": "en",
+  "authors_or_issuer": "van Wynsberghe, A; Donhauser, J",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2017,
+  "pub_month": 6,
+  "date_basis": "inferred_from_content",
+  "doi": "10.1007/s11948-017-9990-3",
+  "venue": "Science and Engineering Ethics",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "space_or_extreme_environment",
+   "other_embodied"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "energy_environment",
+   "research_science"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "sustainability_environment",
+   "research_ethics",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "ISO 8373"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Conceptual paper arguing that the ethics of robots used in environmental research, protection and remediation has been neglected. It proposes a taxonomy of environmental robots (robots-in-ecology, robots-for-ecology, ecobots) and flags unique ethical and practical issues for follow-up work.",
+  "key_provisions_or_claims": [
+   "Environmental robotics is largely absent from the roboethics literature.",
+   "Proposes a taxonomy: robots-in-ecology, robots-for-ecology, and ecologically-functional robots (ecobots).",
+   "Defines environmental robots as service robots (ISO 8373) serving environmental research, engineering, protection or remediation.",
+   "Calls for a 'green robotics' ethics, including the environmental burden of robot materials and disposal.",
+   "Identifies ethical issues as subjects for future work."
+  ],
+  "confidence": 0.8
+ }
+}

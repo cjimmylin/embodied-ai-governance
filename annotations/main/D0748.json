@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0748",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:26:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0390918,
+  "in": 2,
+  "out": 1754,
+  "cache_read": 11758,
+  "cache_create": 5093,
+  "api_ms": 8581,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Taiwan Action Plan",
+  "title_en": "AI Taiwan Action Plan",
+  "language": "en",
+  "authors_or_issuer": "Executive Yuan, R.O.C. (Taiwan); National Science and Technology Council",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Executive Yuan English website - Major Policies",
+  "jurisdiction_country": "TW",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "TW"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "drones_uas",
+   "autonomous_maritime_or_rail"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "cross_sector",
+   "logistics_transport",
+   "research_science"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Executive Yuan web summary of Taiwan's AI Taiwan Action Plan (2018-2021), an innovation-oriented strategy built on deregulation, open access and tech investment. It covers AI talent, semiconductor leadership, innovation hubs, regulatory sandboxes including the Unmanned Vehicles Technology Innovative Experimentation Act, and industry transformation.",
+  "key_provisions_or_claims": [
+   "Plan launched January 2018 guided by deregulation, open access and technology investment",
+   "Train over 10,000 AI technicians and application specialists annually",
+   "Expand leadership in semiconductor chips",
+   "Unmanned Vehicles Technology Innovative Experimentation Act covers land, sea and air autonomous vehicles",
+   "Taiwan CAR Lab closed field opened for self-driving car testing"
+  ],
+  "confidence": 0.8
+ }
+}

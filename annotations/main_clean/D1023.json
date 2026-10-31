@@ -1,0 +1,108 @@
+{
+ "doc_id": "D1023",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:00:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0442418,
+  "in": 2,
+  "out": 1777,
+  "cache_read": 11758,
+  "cache_create": 6323,
+  "api_ms": 9127,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Article 26: Obligations of deployers of high-risk AI systems",
+  "title_en": "Article 26: Obligations of deployers of high-risk AI systems",
+  "language": "en",
+  "authors_or_issuer": "European Commission, AI Act Service Desk",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "AI Act Service Desk (European Commission)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "labor_employment",
+   "risk_management_risk_tiers",
+   "civil_liability"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "incident_reporting",
+   "licensing_registration",
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Official AI Act Service Desk page reproducing Article 26 of the EU AI Act (consolidated, with Digital Omnibus markings), setting obligations for deployers of high-risk AI systems: use per instructions, competent human oversight, input data quality, monitoring, log retention, incident reporting, worker information, and safeguards for post-remote biometric identification.",
+  "key_provisions_or_claims": [
+   "Deployers must use high-risk AI per provider instructions with technical and organisational measures",
+   "Human oversight must be assigned to competent, trained, authorised persons",
+   "Deployers monitor operation, keep logs at least six months, and report risks and serious incidents",
+   "Workers and representatives must be informed before workplace use",
+   "Post-remote biometric identification by law enforcement needs prior authorisation, documentation and annual reports"
+  ],
+  "confidence": 0.85
+ }
+}

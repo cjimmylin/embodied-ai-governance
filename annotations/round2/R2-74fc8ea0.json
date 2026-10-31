@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-74fc8ea0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:42:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.059313700000000004,
+  "in": 4,
+  "out": 3778,
+  "cache_read": 26917,
+  "cache_create": 5493,
+  "api_ms": 18183,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "北京市经济和信息化局; 北京市交通委员会; 北京市公安局公安交通管理局; 北京经济技术开发区管理委员会",
+  "binding_nature": "legally_binding",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "oversight_body_creation",
+   "conformity_assessment_certification"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "subnational_government",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "subnational",
+  "key_provisions_or_claims": [
+   "Applies to L3+ autonomous vehicle road testing and demonstration application in Beijing",
+   "Applicants apply via the municipal dual-smart office; police issue temporary test plates after review and evaluation",
+   "Testing must progress from in-vehicle safety driver to no safety driver, with third-party test reports and mileage thresholds",
+   "Significant software/hardware changes affecting safety require re-application",
+   "Safety drivers must monitor and take over; traffic violations and accidents handled by traffic police under national rules"
+  ],
+  "language": "zh",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Beijing Autonomous Vehicle Regulations"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Beijing municipal trial measures (Jing Jing Xin Fa [2025] No. 43, 24 Oct 2025) governing road testing and demonstration application of L3+ autonomous vehicles: application and plate issuance, staged safety-driver rules, change management, safety-driver duties, and traffic violation handling, within a policy pilot zone.",
+  "title_clean": "北京市自动驾驶汽车道路测试与示范应用办法（试行）",
+  "title_en": "Beijing Measures for Road Testing and Demonstration Application of Autonomous Vehicles (Trial)",
+  "venue": null,
+  "page_quality": "substantive_document"
+ }
+}

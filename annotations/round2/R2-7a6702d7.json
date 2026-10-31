@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-7a6702d7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:37:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.025987800000000002,
+  "in": 2,
+  "out": 1644,
+  "cache_read": 11758,
+  "cache_create": 2092,
+  "api_ms": 10020,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Bounty (Machine Tools and Robots) Act 1985",
+  "title_en": "Bounty (Machine Tools and Robots) Act 1985",
+  "language": "en",
+  "authors_or_issuer": "Parliament of Australia",
+  "issuer_type": "legislature",
+  "pub_year": 1985,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Register of Legislation (Australia)",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "licensing_registration",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Australian 1985 Act establishing a bounty (subsidy) scheme for domestic producers of machine tools and robots. Only the table of contents is shown, covering bounty amounts, claims, registration of premises, inspection powers, offences and review. It is an industry-assistance measure, with no AI or safety governance.",
+  "key_provisions_or_claims": [
+   "Provides bounty payments to producers of machine tools and robots",
+   "Sets rules for claims, advances, adjustments and recovery of bounty",
+   "Requires registration of premises and accounts",
+   "Authorised officers may inspect and require documents",
+   "Creates offences and review of decisions"
+  ],
+  "confidence": 0.6
+ }
+}

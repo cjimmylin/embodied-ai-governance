@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0669",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:24:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.044055800000000006,
+  "in": 2,
+  "out": 1686,
+  "cache_read": 11758,
+  "cache_create": 6504,
+  "api_ms": 11324,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Guidelines on Securing AI Systems",
+  "title_en": "Guidelines on Securing AI Systems",
+  "language": "en",
+  "authors_or_issuer": "Cyber Security Agency of Singapore (CSA)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Cyber Security Agency of Singapore",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "incident_reporting",
+   "self_regulation_codes",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Voluntary guidelines from Singapore's Cyber Security Agency for system owners on securing AI systems across the lifecycle (planning, development, deployment, operations, end of life). Starts from risk assessment, covers adversarial ML threats and classical cyber risks, and excludes AI safety, fairness and AI-enabled attacks.",
+  "key_provisions_or_claims": [
+   "AI should be secure by design and secure by default.",
+   "Take a lifecycle approach across five stages of the AI system lifecycle.",
+   "Begin with a risk assessment, conducted more frequently than for conventional systems.",
+   "Secure assets, development and deployment environments; establish incident management procedures.",
+   "Guidelines are non-mandatory, accompanied by a community-driven Companion Guide."
+  ],
+  "confidence": 0.9
+ }
+}

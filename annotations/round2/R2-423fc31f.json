@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-423fc31f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:44:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0280538,
+  "in": 2,
+  "out": 1751,
+  "cache_read": 11758,
+  "cache_create": 2341,
+  "api_ms": 39619,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2019/1680 correcting the Czech language version of Implementing Decision (EU) 2019/436 on the harmonised standards for machinery drafted in support of Directive 2006/42/EC",
+  "title_en": "Commission Implementing Decision (EU) 2019/1680 correcting the Czech language version of Implementing Decision (EU) 2019/436 on the harmonised standards for machinery drafted in support of Directive 2006/42/EC",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2019,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 257/47",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Commission Implementing Decision correcting errors in the Czech version of Decision 2019/436 on harmonised machinery standards under the Machinery Directive 2006/42/EC. It concerns the presumption of conformity with essential health and safety requirements. Other language versions are unaffected; it enters into force on the twentieth day after publication.",
+  "key_provisions_or_claims": [
+   "Corrects Czech version of Implementing Decision (EU) 2019/436 (Article 1 para 2 and Article 2).",
+   "Concerns presumption of conformity with Machinery Directive 2006/42/EC essential health and safety requirements.",
+   "Other language versions not affected.",
+   "Enters into force on the twentieth day after publication in the OJ."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "doc_id": "D1253",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:40:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045961800000000004,
+  "in": 2,
+  "out": 1791,
+  "cache_read": 11758,
+  "cache_create": 6718,
+  "api_ms": 8876,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial Intelligence in healthcare",
+  "title_en": "Artificial Intelligence in healthcare",
+  "language": "en",
+  "authors_or_issuer": "European Commission, Directorate-General for Health and Food Safety",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "European Commission Public Health website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "privacy_data_protection",
+   "civil_liability",
+   "trust_acceptance",
+   "industrial_policy_innovation",
+   "transparency_explainability",
+   "human_oversight_control"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "human_oversight_requirement",
+   "data_governance_requirements",
+   "liability_regime",
+   "testing_sandboxes",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "EU Product Liability Directive"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission web page describing AI's benefits in healthcare and pharmaceuticals, challenges of integration, and the EU legal framework shaping it: the AI Act, European Health Data Space, GDPR and the new Product Liability Directive. Software-focused, with no robotics content.",
+  "key_provisions_or_claims": [
+   "AI-based medical software is high-risk under the AI Act, requiring risk mitigation, quality data, user information and human oversight",
+   "The AI Office supervises general-purpose AI rules and a GPAI Code of Practice is expected",
+   "The European Health Data Space enables primary and secondary use of health data and builds on the GDPR, Data Governance Act and Data Act",
+   "The new Product Liability Directive lets victims claim compensation for harm from defective products including AI",
+   "Pharmaceutical legislation reform introduces regulatory sandboxes for AI-driven innovation"
+  ],
+  "confidence": 0.85
+ }
+}

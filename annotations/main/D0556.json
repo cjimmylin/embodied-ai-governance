@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0556",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:21:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0444658,
+  "in": 2,
+  "out": 1827,
+  "cache_read": 11758,
+  "cache_create": 6254,
+  "api_ms": 10879,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ethical Design of a Robot Platform for Disabled Employees: Some Practical Methodological Considerations",
+  "title_en": "Ethical Design of a Robot Platform for Disabled Employees: Some Practical Methodological Considerations",
+  "language": "en",
+  "authors_or_issuer": "Colombino, T.; Gallo, D.; Shreepriya, S.; Im, Y.; Cha, S.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2021,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": "10.3389/frobt.2021.643160",
+  "venue": "Frontiers in Robotics and AI",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "collaborative_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "other",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "labor_employment",
+   "children_vulnerable_groups",
+   "research_ethics",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "research_ethics",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "IEEE 7000 series"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_qualitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Research paper describing an ethnography and design-fiction approach used with a Korean business employing people with developmental disabilities to develop robot-platform scenarios. It argues that a priori ethical stances like inclusivity are risky and that organizational and bureaucratic context and stakeholder perspectives must shape ethical HRI design.",
+  "key_provisions_or_claims": [
+   "Ethnography and design fictions help surface unintended consequences of introducing robots for vulnerable workers.",
+   "A priori ethical prescriptions such as inclusivity may conflict with stakeholder perspectives.",
+   "Organizational hierarchies, business models and operating philosophy must be considered in HRI scenario design.",
+   "Disabled employees are weakly represented in design; managers act as gatekeepers and proxies.",
+   "Questions who has authority to decide what well-being means and what degree of automation is appropriate."
+  ],
+  "confidence": 0.9
+ }
+}

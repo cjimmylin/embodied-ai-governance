@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0194",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:11:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0915292,
+  "in": 4,
+  "out": 3800,
+  "cache_read": 34822,
+  "cache_create": 13232,
+  "api_ms": 21570,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Al-Haidary, H.I.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "IQ",
+   "EG",
+   "AE",
+   "FR",
+   "EU",
+   "DZ"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.31918/twejer.eli24.06",
+  "embodied_categories": [],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "liability_regime"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "legal_personhood_robot_rights",
+   "consumer_protection",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "IQ",
+  "jurisdiction_scope": "national",
+  "language": "ar",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017",
+   "EU Product Liability Directive",
+   "Asimov's Laws of Robotics"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2024,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Comparative legal study of the basis of civil liability for damage caused by robots under Iraqi, Egyptian, Emirati and French law and the EU 2017 Civil Law Rules on Robotics. It finds vicarious liability and liability for things inadequate, and recommends amending the Iraqi civil code as a step toward future robot legal personality.",
+  "title_clean": "أساس المسؤولية المدنية عن أضرار الإنسان الآلي: دراسة مقارنة",
+  "title_en": "The Basis of Civil Liability for Robot Damage - a comparative study",
+  "key_provisions_or_claims": [
+   "Vicarious liability (principal for subordinate) cannot apply because robots are things, not legal persons.",
+   "Liability for things (guardian liability) faces difficulties given AI developments.",
+   "Iraq lacks a defective-products liability law, so the defective-product basis is unavailable.",
+   "Recommends amending the Iraqi civil code, as a preliminary step toward recognising robot legal personality.",
+   "Draws on the EU 2017 Civil Law Rules on Robotics as a model."
+  ],
+  "venue": "Twejer (Soran University), Special Issue, ELI Conference"
+ }
+}

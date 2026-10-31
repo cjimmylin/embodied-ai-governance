@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-8646448c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:28:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.042985800000000005,
+  "in": 2,
+  "out": 1719,
+  "cache_read": 11758,
+  "cache_create": 6154,
+  "api_ms": 8831,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院办公厅关于进一步加强烟花爆竹全链条安全监管的意见",
+  "title_en": "Opinions of the General Office of the State Council on Further Strengthening Full-Chain Safety Supervision of Fireworks and Firecrackers",
+  "language": "zh",
+  "authors_or_issuer": "国务院办公厅 (General Office of the State Council)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "logistics_transport",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "criminal_liability",
+   "standards_interoperability",
+   "other"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "incident_reporting",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese State Council General Office opinions on strengthening safety supervision across the fireworks and firecracker chain: production, storage, sales, transport, use, quality and standards, and enforcement. Not related to AI or robotics; drones are mentioned only for patrol monitoring.",
+  "key_provisions_or_claims": [
+   "Strict licensing and phase-out of unsafe producers and products",
+   "Controls on explosive materials and flow-tracking information management",
+   "Transport permit rules and bans on general freight and postal channels",
+   "Enforcement of mandatory standards and crackdown on illegal activity with criminal referral",
+   "Supersedes the 2010 State Council General Office notice (国办发〔2010〕53号)"
+  ],
+  "confidence": 0.9
+ }
+}

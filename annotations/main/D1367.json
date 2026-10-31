@@ -1,0 +1,105 @@
+{
+ "doc_id": "D1367",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:43:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0443818,
+  "in": 2,
+  "out": 1755,
+  "cache_read": 11758,
+  "cache_create": 6413,
+  "api_ms": 11519,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Latvia (Progress in Implementing the EU Coordinated Plan on AI, Vol. 1: Country Notes)",
+  "title_en": "Latvia (Progress in Implementing the EU Coordinated Plan on AI, Vol. 1: Country Notes)",
+  "language": "en",
+  "authors_or_issuer": "OECD",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "OECD Publishing",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "LV",
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "healthcare",
+   "energy_environment",
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "privacy_data_protection",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "OECD country note on Latvia's progress implementing the EU Coordinated Plan on AI. It reviews the outdated 2020 AI strategy, data and computing investments, research centres, skills programmes, public-sector AI, health data, and small-scale sustainability and agriculture projects. It has no robotics governance content.",
+  "key_provisions_or_claims": [
+   "Latvia's 2020 AI strategy is considered outdated and no formal review was conducted.",
+   "VARAM leads AI policy and proposes a Latvian Artificial Intelligence Centre.",
+   "Investment in data governance (DAGR), semiconductors and HPC via EU initiatives.",
+   "Public-sector AI use is mostly procedural automation.",
+   "AI in agriculture and sustainability is niche and experimental."
+  ],
+  "confidence": 0.9
+ }
+}

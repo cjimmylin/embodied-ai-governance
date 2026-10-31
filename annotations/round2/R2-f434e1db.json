@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-f434e1db",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:37:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2882998,
+  "in": 2,
+  "out": 1666,
+  "cache_read": 11758,
+  "cache_create": 67615,
+  "api_ms": 9902,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "輸出貿易管理令",
+  "title_en": "Export Trade Control Order",
+  "language": "ja",
+  "authors_or_issuer": "内閣 (Cabinet of Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP",
+   "RU",
+   "BY",
+   "KP",
+   "UA"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japan's Export Trade Control Order (Cabinet Order No. 378 of 1949, as amended to October 2026) sets licensing and approval requirements for exporting listed goods (including dual-use and military items) to specified destinations, with special sanctions for Russia, Belarus and North Korea. It contains no AI or robotics-specific provisions in the excerpt.",
+  "key_provisions_or_claims": [
+   "Export of listed goods to specified regions requires METI ministerial permission or approval",
+   "Catch-all controls for goods possibly used for nuclear, chemical, biological weapons or missiles/UAVs of 300km range",
+   "Special approval requirements for exports to Russia, Belarus, North Korea and occupied Ukrainian regions",
+   "Permits and approvals valid six months; customs verify permits",
+   "Minister may require reports from exporters and producers"
+  ],
+  "confidence": 0.85
+ }
+}

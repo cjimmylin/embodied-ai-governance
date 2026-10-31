@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1653",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:52:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0433578,
+  "in": 2,
+  "out": 1741,
+  "cache_read": 11758,
+  "cache_create": 6192,
+  "api_ms": 12147,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "research_science",
+   "other"
+  ],
+  "authors_or_issuer": "Cantucci, F.; Marini, M.; Falcone, R.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.1007/s12369-025-01257-y",
+  "embodied_categories": [
+   "social_companion_robots",
+   "collaborative_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "trust_acceptance",
+   "transparency_explainability",
+   "human_robot_interaction_social_effects",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Adaptive robot deviating from stated expectations is perceived trustworthy if judged competent, regardless of explanation.",
+   "Robots judged willing are trusted when they explain the task adoption mechanism.",
+   "Humans who accept and understand the explanation evaluate it positively.",
+   "Trust modelled via Castelfranchi-Falcone competence and willingness with Theory of Mind-based explanations.",
+   "Experiment run in a real museum setting."
+  ],
+  "language": "en",
+  "methodology": "empirical_quantitative",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "social_companion_robots",
+  "primary_topic": "trust_acceptance",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2025,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Empirical HRI study in a real museum testing how competence, willingness and explanations affect perceived trustworthiness of an adaptive social robot that adopts delegated tasks at varying autonomy levels using Theory of Mind. Finds competence drives trust, and explanations matter for willingness. No direct governance content.",
+  "title_clean": "Trustworthiness Assessment of an Adaptive and Explainable Robot in a Real Environment",
+  "title_en": "Trustworthiness Assessment of an Adaptive and Explainable Robot in a Real Environment",
+  "venue": "International Journal of Social Robotics"
+ }
+}

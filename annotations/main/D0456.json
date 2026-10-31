@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0456",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:18:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0664498,
+  "in": 2,
+  "out": 1743,
+  "cache_read": 11758,
+  "cache_create": 11960,
+  "api_ms": 8906,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Law takes effect, anchors national governance framework",
+  "title_en": "AI Law takes effect, anchors national governance framework",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Science and Technology (Vietnam)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Ministry of Science and Technology portal (Vietnam)",
+  "jurisdiction_country": "VN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "VN"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "human_oversight_control",
+   "transparency_explainability",
+   "ethics_principles",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Vietnamese Ministry of Science and Technology news item announcing that the standalone Law on Artificial Intelligence took effect on 1 March 2026. It describes a human-centred, three-tier risk classification, obligations for high-risk systems, a forthcoming Prime Ministerial list of high-risk AI, and transparency rules for AI-generated content.",
+  "key_provisions_or_claims": [
+   "Vietnam's standalone AI Law took effect on 1 March 2026.",
+   "Three-tier risk classification: high, medium, low; providers self-classify before deployment.",
+   "High-risk systems require human oversight and intervention mechanisms, technical documentation and logs.",
+   "MoST preparing a Prime Ministerial decision listing high-risk AI systems using five criteria.",
+   "Transparency requirements for AI-generated content."
+  ],
+  "confidence": 0.8
+ }
+}

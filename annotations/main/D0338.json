@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0338",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:15:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0653208,
+  "in": 4,
+  "out": 3400,
+  "cache_read": 29448,
+  "cache_create": 7788,
+  "api_ms": 18214,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ethical Impact Assessment",
+  "title_en": "Ethical Impact Assessment",
+  "language": "en",
+  "authors_or_issuer": "UNESCO (Global AI Ethics and Governance Observatory)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "UNESCO Global AI Ethics and Governance Observatory",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "fairness_bias_discrimination",
+   "trust_acceptance"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UNESCO web page describing its Ethical Impact Assessment (EIA), a tool for assessing individual AI systems' alignment with the UNESCO Recommendation on the Ethics of AI. It explains the three-part structure, six-step process, lifecycle timing and expert support. It has no robotics-specific content.",
+  "key_provisions_or_claims": [
+   "EIA is a practical tool to assess AI systems against UNESCO Recommendation values and principles",
+   "Three parts: scoping questions, implementing principles, mapping potential impacts",
+   "Six-stage process including diverse team, workshop and stakeholder engagement",
+   "Applied across the AI lifecycle including procurement and deployment",
+   "Supported by AI Ethics Experts Without Borders network; EU co-funded"
+  ],
+  "confidence": 0.85
+ }
+}

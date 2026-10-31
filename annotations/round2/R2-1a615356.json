@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-1a615356",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0266778,
+  "in": 2,
+  "out": 1699,
+  "cache_read": 11758,
+  "cache_create": 2127,
+  "api_ms": 11570,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/TR 19560:2025 Intelligent transport systems — Information interface framework between automated driving systems and users",
+  "title_en": "ISO/TR 19560:2025 Intelligent transport systems — Information interface framework between automated driving systems and users",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 204",
+  "issuer_type": "standards_body",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "human_robot_interaction_social_effects",
+   "human_oversight_control",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO/TR 19560:2025, a technical report from ISO/TC 204 describing a framework classifying notifications exchanged between users and level 3+ automated driving systems, including nomadic devices such as smartphones monitoring the user's condition. It gives no recommendations on how to provide information.",
+  "key_provisions_or_claims": [
+   "Classifies notifications to and from users and level 3+ automated driving systems",
+   "Covers transmission between nomadic devices (e.g., smartphones) and ADS",
+   "Smartphone may monitor user's condition when user is focused on the device",
+   "Does not include recommendations on how to provide information",
+   "Published February 2025 by ISO/TC 204 (ICS 35.240.60)"
+  ],
+  "confidence": 0.9
+ }
+}

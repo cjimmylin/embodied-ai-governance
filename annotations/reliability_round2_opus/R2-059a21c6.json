@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-059a21c6",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:06:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0706196,
+  "in": 2,
+  "out": 1751,
+  "cache_read": 11758,
+  "cache_create": 4155,
+  "api_ms": 12379,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "生物医学新技术临床研究和临床转化应用管理条例",
+  "title_en": "Regulations on the Administration of Clinical Research and Clinical Translational Application of New Biomedical Technologies",
+  "language": "zh",
+  "authors_or_issuer": "State Council of the People's Republic of China",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare",
+   "research_science"
+  ],
+  "governance_topics": [
+   "research_ethics",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "research_ethics",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "incident_reporting",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "China State Council Decree No. 818 (adopted 12 Sept 2025, effective 1 May 2026) regulating clinical research and clinical translation of new biomedical technologies: filing with health authority, ethics and academic review, adverse-event reporting, approval of clinical translation, and heavy penalties. Not related to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Clinical research institutions must file with State Council health department within 5 working days after academic and ethics review",
+   "Records retained 30 years, permanently if offspring involved",
+   "Serious adverse reactions require suspension and ethics committee evaluation",
+   "Clinical translation approval requires proof of safety, efficacy and ethical compliance",
+   "Fines up to 10 million yuan or 20x illegal gains and lifetime bans for prohibited research"
+  ],
+  "confidence": 0.9
+ }
+}

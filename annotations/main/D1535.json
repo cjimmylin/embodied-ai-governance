@@ -1,0 +1,96 @@
+{
+ "doc_id": "D1535",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:48:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0459098,
+  "in": 2,
+  "out": 1797,
+  "cache_read": 11758,
+  "cache_create": 6690,
+  "api_ms": 9839,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "energy_environment",
+   "research_science"
+  ],
+  "authors_or_issuer": "Kure, H.I.; Retnakumari, J.; Nwajana, A.O.; Ismail, U.M.; Romo, B.A.; Egho-Promise, E.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": null,
+  "embodied_categories": [
+   "industrial_manipulators",
+   "professional_service_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "ethics_principles",
+   "transparency_explainability",
+   "fairness_bias_discrimination"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "CNN with MobileNetV2 transfer learning classifies waste into six categories",
+   "Training accuracy 99.8%, validation accuracy 80.5%",
+   "Simulated robotic arm uses Euclidean-distance energy cost, about 25-30% energy reduction",
+   "Claims alignment with trustworthy AI principles: transparency, robustness, fairness, safety"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "industrial_manipulators",
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 11,
+  "pub_year": 2025,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Conference paper presenting a MobileNetV2 transfer-learning CNN for six-class waste classification coupled with a simulated robotic arm whose sorting paths minimise energy cost. It claims to incorporate trustworthy AI principles (transparency, robustness, fairness, safety), but this is a technical contribution with no governance analysis.",
+  "title_clean": "Integrating Trustworthy Artificial Intelligence with Energy-Efficient Robotic Arms for Waste Sorting",
+  "title_en": "Integrating Trustworthy Artificial Intelligence with Energy-Efficient Robotic Arms for Waste Sorting",
+  "venue": "13th International Conference on Control, Mechatronics and Automation (ICCMA 2025)",
+  "methodology": "technical_or_engineering"
+ }
+}

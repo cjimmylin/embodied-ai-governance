@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1324",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:42:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.062458,
+  "in": 4,
+  "out": 3421,
+  "cache_read": 28690,
+  "cache_create": 7044,
+  "api_ms": 19957,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI and cyber security: what you need to know",
+  "title_en": "AI and cyber security: what you need to know",
+  "language": "en",
+  "authors_or_issuer": "National Cyber Security Centre (NCSC), United Kingdom",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "NCSC website (ncsc.gov.uk)",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "US"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UK NCSC guidance for non-technical managers and board members on cyber security risks and benefits of AI tools, especially generative AI and LLMs. It covers prompt injection and data poisoning, promotes secure-by-design, and gives questions leaders should ask about accountability and incident response.",
+  "key_provisions_or_claims": [
+   "Security must be a core requirement throughout the AI system lifecycle (secure by design).",
+   "LLMs face novel vulnerabilities such as prompt injection and data poisoning.",
+   "AI developers, not end users, should bear responsibility for security outcomes.",
+   "Points to the Guidelines for Secure AI System Development co-developed with CISA and 17 other countries.",
+   "Provides questions for leaders on accountability, supply chain, and incident response for ML systems."
+  ],
+  "confidence": 0.9
+ }
+}

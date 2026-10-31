@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0989",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:33:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.05760130000000001,
+  "in": 4,
+  "out": 3574,
+  "cache_read": 27078,
+  "cache_create": 5521,
+  "api_ms": 17091,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Statement by the Privacy Commissioner of Canada regarding a joint investigation of OpenAI’s ChatGPT",
+  "title_en": "Statement by the Privacy Commissioner of Canada regarding a joint investigation of OpenAI’s ChatGPT",
+  "language": "en",
+  "authors_or_issuer": "Office of the Privacy Commissioner of Canada",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Office of the Privacy Commissioner of Canada website",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "software_agent_called_robot",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "transparency_explainability"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Statement by Canada's Privacy Commissioner announcing findings of a joint federal-provincial investigation into OpenAI's ChatGPT. Training data collection was overly broad and lacked consent and transparency; OpenAI agreed to remedies, and the complaint was found well founded and conditionally resolved. Calls for modernised privacy laws.",
+  "key_provisions_or_claims": [
+   "Joint investigation by federal, Quebec, BC and Alberta privacy regulators found ChatGPT's initial training breached Canadian privacy law.",
+   "Concerns: overly broad collection, consent and transparency, inaccuracy, access/correction/deletion, accountability.",
+   "OpenAI agreed to limit personal data used for training; complaint conditionally resolved under PIPEDA.",
+   "OPC will continue monitoring compliance.",
+   "Calls for modernising Canada's privacy laws for AI."
+  ],
+  "confidence": 0.9
+ }
+}

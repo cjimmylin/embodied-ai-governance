@@ -1,0 +1,89 @@
+{
+ "doc_id": "D0364",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:16:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.022643800000000002,
+  "in": 2,
+  "out": 1498,
+  "cache_read": 11758,
+  "cache_create": 1621,
+  "api_ms": 7401,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Governance and accountability",
+  "title_en": "Governance and accountability",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Business, Innovation & Employment (MBIE)",
+  "issuer_type": "national_government_executive",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "MBIE website",
+  "jurisdiction_country": "NZ",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "NZ"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "error_or_blocked_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "The saved page is blocked, so no text is available. From the URL and title, it is an MBIE (New Zealand) web page on governance and accountability within its responsible AI guidance for businesses. It is likely general AI guidance with no embodied content. Annotation is based on metadata only.",
+  "key_provisions_or_claims": [
+   "Content unavailable; page appears to be part of MBIE's responsible AI guidance for businesses (New Zealand)."
+  ],
+  "confidence": 0.3
+ }
+}

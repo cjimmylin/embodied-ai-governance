@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-6d42098c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:32:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.031703800000000004,
+  "in": 2,
+  "out": 1710,
+  "cache_read": 11758,
+  "cache_create": 3356,
+  "api_ms": 8970,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "research_science",
+   "education"
+  ],
+  "authors_or_issuer": "工业和信息化部等九部门",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "industrial_policy_innovation",
+   "education_training"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Departments should develop research assistant positions via national science projects and innovation platforms to hire 2026 graduates.",
+   "National high-tech zones and agricultural high-tech zones to mobilize enterprises and set up training bases; performance is part of annual evaluation.",
+   "Local authorities encouraged to develop positions at provincial universities, institutes and zones.",
+   "Project labor-cost funds may pay research assistants' wages and social insurance subsidies.",
+   "Strengthen organization, statistics, information sharing and publicity."
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Notice from nine Chinese ministries and agencies on developing scientific research assistant positions to promote employment of 2026 university graduates, through national science projects, innovation platforms, high-tech zones and local governments, with funding and organizational support. Not related to AI or robotics.",
+  "title_clean": "工业和信息化部等九部门关于做好科研助理岗位开发促进高校毕业生就业工作的通知",
+  "title_en": "Notice of Nine Departments including the Ministry of Industry and Information Technology on Developing Research Assistant Positions to Promote Employment of University Graduates",
+  "venue": null,
+  "methodology": "not_applicable"
+ }
+}

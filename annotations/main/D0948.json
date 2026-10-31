@@ -1,0 +1,105 @@
+{
+ "doc_id": "D0948",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:32:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.044387800000000005,
+  "in": 2,
+  "out": 1828,
+  "cache_read": 11758,
+  "cache_create": 6232,
+  "api_ms": 9395,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Towards a Standard for Identifying and Managing Bias in Artificial Intelligence",
+  "title_en": "Towards a Standard for Identifying and Managing Bias in Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "National Institute of Standards and Technology (Schwartz, R.; Vassilev, A.; Greene, K.; Perine, L.; Burt, A.; Hall, P.)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2022,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": "10.6028/NIST.SP.1270",
+  "venue": "NIST Special Publication 1270",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "fairness_bias_discrimination",
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "trust_acceptance",
+   "transparency_explainability",
+   "standards_interoperability",
+   "human_oversight_control"
+  ],
+  "primary_topic": "fairness_bias_discrimination",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "NIST AI RMF",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "NIST Special Publication 1270 sets out a socio-technical approach to identifying and managing AI bias. It classifies bias as systemic, statistical or human, and addresses challenges in datasets, testing and evaluation, and human factors. It serves as a first step toward formal NIST guidance and standards.",
+  "key_provisions_or_claims": [
+   "Identifies three categories of AI bias: systemic, statistical and human.",
+   "Argues bias management must go beyond computational factors to socio-technical perspectives.",
+   "Names three challenges: datasets, testing/evaluation (TEVV), and human factors.",
+   "States that zero bias risk is unattainable and bias management must be context-flexible.",
+   "Lays out a roadmap for NIST guidance, workshops and standards development."
+  ],
+  "confidence": 0.9
+ }
+}

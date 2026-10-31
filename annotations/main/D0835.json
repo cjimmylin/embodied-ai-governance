@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0835",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:29:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0678404,
+  "in": 4,
+  "out": 3661,
+  "cache_read": 29754,
+  "cache_create": 7556,
+  "api_ms": 21533,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Case-Based Robotic Architecture with Multiple Underlying Ethical Frameworks for Human-Robot Interaction",
+  "title_en": "Case-Based Robotic Architecture with Multiple Underlying Ethical Frameworks for Human-Robot Interaction",
+  "language": "en",
+  "authors_or_issuer": "Chen, S.; Arkin, R.C.; Borenstein, J.; Wagner, A.R.; Cruz, A.M.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": "10.13180/icres.2022.18-19.07.005",
+  "venue": "ICRES 2022: 7th International Conference on Robot Ethics and Standards",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "trust_acceptance",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "technical_or_engineering",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Conference paper proposing a case-based reasoning architecture letting a robot choose actions using cases from multiple ethical frameworks (folk morality, utilitarianism, Kantian, care, virtue, justice). Implemented on an NAO robot in a pill-sorting task for older adults, deciding whether to give false encouragement.",
+  "key_provisions_or_claims": [
+   "No agreed moral theory exists, so a single fixed ethical framework is impractical for robots.",
+   "Architecture uses case-based reasoning with cases derived from surveys of laypeople and ethics experts.",
+   "Case selection module picks the most relevant case; action selection module chooses the action.",
+   "Implemented on an NAO robot for robotic deception in pill sorting with older adults.",
+   "Architecture can be extended with more situational variables and gestures."
+  ],
+  "confidence": 0.9
+ }
+}

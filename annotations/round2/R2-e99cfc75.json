@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-e99cfc75",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:35:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0396658,
+  "in": 2,
+  "out": 1773,
+  "cache_read": 11758,
+  "cache_create": 5189,
+  "api_ms": 9172,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "商务部等9部门关于实施绿色消费推进行动的通知",
+  "title_en": "Notice of the Ministry of Commerce and Eight Other Departments on Implementing the Green Consumption Promotion Action",
+  "language": "zh",
+  "authors_or_issuer": "商务部; 国家发展改革委; 工业和信息化部; 生态环境部; 住房城乡建设部; 农业农村部; 中国人民银行; 市场监管总局; 金融监管总局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "retail_hospitality",
+   "energy_environment",
+   "agriculture_food",
+   "finance",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "consumer_protection",
+   "industrial_policy_innovation",
+   "standards_interoperability"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese notice from the Ministry of Commerce and eight other departments setting out a green consumption promotion action for the 15th Five-Year Plan period. It covers green products, services, consumption models, recycling, labelling and financial support. AI appears only in passing, as 'AI + green consumption'.",
+  "key_provisions_or_claims": [
+   "Expand supply of green agricultural products, appliances and new-energy vehicles",
+   "Promote green catering, lodging and housekeeping services",
+   "Build green consumption points systems and green supply chains",
+   "Develop recycling, second-hand circulation and reduced single-use plastics",
+   "Provide green credit, insurance and REITs support, and align standards with international ones"
+  ],
+  "confidence": 0.93
+ }
+}

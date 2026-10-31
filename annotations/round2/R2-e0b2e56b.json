@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-e0b2e56b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:19:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026269800000000003,
+  "in": 2,
+  "out": 1757,
+  "cache_read": 11758,
+  "cache_create": 1880,
+  "api_ms": 9620,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "House Bill 1811 / Senate Bill 2106: An Act to amend Tennessee Code Annotated, Title 39 and Title 40, relative to criminal offenses",
+  "title_en": "House Bill 1811 / Senate Bill 2106: An Act to amend Tennessee Code Annotated, Title 39 and Title 40, relative to criminal offenses",
+  "language": "en",
+  "authors_or_issuer": "Tennessee General Assembly",
+  "issuer_type": "legislature",
+  "pub_year": 2016,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Tennessee General Assembly",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "energy_environment",
+   "manufacturing",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "privacy_data_protection",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Tennessee bill (HB 1811/SB 2106) amending the Code to make it an offense to knowingly use an unmanned aircraft within 250 feet of a critical infrastructure facility to conduct surveillance or record data without the owner's written consent. Effective July 1, 2016.",
+  "key_provisions_or_claims": [
+   "Adds a new offense subdivision to Tenn. Code Ann. 39-13-903(a)",
+   "Bans unauthorized drone surveillance within 250 feet of critical infrastructure",
+   "Defines critical infrastructure: power generation, refineries, chemical/rubber plants, combustible-chemical manufacturing, petroleum/chemical storage",
+   "Requires owner or operator's written consent as the exception",
+   "Takes effect July 1, 2016"
+  ],
+  "confidence": 0.85
+ }
+}

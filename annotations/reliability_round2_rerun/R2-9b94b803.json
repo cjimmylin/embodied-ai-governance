@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-9b94b803",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:05:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0246118,
+  "in": 2,
+  "out": 1682,
+  "cache_read": 11758,
+  "cache_create": 1653,
+  "api_ms": 8700,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "商务部等9部门关于促进航空保税维修高质量发展的意见",
+  "title_en": "Opinions of the Ministry of Commerce and 8 Other Departments on Promoting High-Quality Development of Aviation Bonded Maintenance",
+  "language": "zh",
+  "authors_or_issuer": "商务部等9部门 (Ministry of Commerce of China and eight other departments)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Excerpt (item 12) of a nine-department Chinese opinion on aviation bonded maintenance. It requires firms to run ERP systems networked with customs for traceability, sets rules on domestic sales of repaired goods, and requires solid waste to follow domestic rules. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Aviation bonded maintenance firms must have ERP linked to customs for full traceability",
+   "Goods eligible for domestic sale need license verification and regulatory compliance",
+   "Nationally banned or unpermitted restricted imports cannot be sold domestically",
+   "Solid waste from maintenance follows domestic solid waste rules"
+  ],
+  "confidence": 0.6
+ }
+}

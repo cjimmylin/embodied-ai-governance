@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-d351cb93",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:31:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0447458,
+  "in": 2,
+  "out": 1675,
+  "cache_read": 11758,
+  "cache_create": 6704,
+  "api_ms": 8647,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院关于《医疗卫生强基工程实施方案》的批复",
+  "title_en": "State Council Reply on the Implementation Plan for the Healthcare Foundation-Strengthening Project",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中国政府网",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "State Council reply approving the Healthcare Foundation-Strengthening Project Implementation Plan (2025), which sets targets to 2027 and 2030 for strengthening primary healthcare in China. AI is mentioned only in passing (AI-assisted diagnosis). No robotics or embodied AI governance content.",
+  "key_provisions_or_claims": [
+   "Approves the plan in principle, with targets to 2027 and 2030.",
+   "Builds close-knit county medical communities and a five-tier itinerant care system.",
+   "Aims for residents to reach the nearest medical service point within 15 minutes.",
+   "Promotes digital and intelligent services, including exploring AI-assisted diagnosis at primary level.",
+   "Reforms insurance payment, staffing and funding incentives for primary care."
+  ],
+  "confidence": 0.93
+ }
+}

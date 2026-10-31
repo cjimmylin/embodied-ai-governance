@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0202",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:12:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0929198,
+  "in": 2,
+  "out": 1810,
+  "cache_read": 11758,
+  "cache_create": 18410,
+  "api_ms": 11631,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Legal capacity of the smart robot (Analytical and original research according to the provisions of the Iraqi law compared to the European law for robots)",
+  "title_en": "Legal capacity of the smart robot (Analytical and original research according to the provisions of the Iraqi law compared to the European law for robots)",
+  "language": "en",
+  "authors_or_issuer": "Al-Saadawi, M.S.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": "10.37651/aujlps.2023.143419.107",
+  "venue": "Anbar University Journal of Legal and Political Sciences",
+  "jurisdiction_country": "IQ",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IQ",
+   "EU"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "criminal_liability"
+  ],
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Iraqi law journal article analysing the legal capacity and personality of smart, humanoid robots, comparing Iraqi civil law, which lacks any rule on robots, with the EU Civil Law Rules on Robotics (2017). It argues a new legal concept is needed, and discusses a human \"responsible representative\" model rather than treating robots as things.",
+  "key_provisions_or_claims": [
+   "Iraqi civil law has no specific provisions on robots or AI.",
+   "Advanced humanoid robots cannot be classed as mere assets, natural persons or ordinary legal entities.",
+   "A new legal definition and appropriate legal capacity for smart robots is needed.",
+   "The EU 'electronic personality' and human 'deputy' (responsible person) model is critically compared.",
+   "A responsible human guardian is proposed, comparable to guardianship, rather than a separate robot status."
+  ],
+  "confidence": 0.75
+ }
+}

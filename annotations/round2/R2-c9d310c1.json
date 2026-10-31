@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-c9d310c1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:19:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0507618,
+  "in": 2,
+  "out": 1915,
+  "cache_read": 11758,
+  "cache_create": 7608,
+  "api_ms": 10205,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "House Bill 381 / Senate Bill 151: An Act to amend Tennessee Code Annotated relative to autonomous vehicles (Safe Automated Vehicles (SAVE) Act)",
+  "title_en": "House Bill 381 / Senate Bill 151: An Act to amend Tennessee Code Annotated relative to autonomous vehicles (Safe Automated Vehicles (SAVE) Act)",
+  "language": "en",
+  "authors_or_issuer": "Tennessee General Assembly",
+  "issuer_type": "legislature",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "Tennessee General Assembly",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "criminal_liability",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "legal_personhood_robot_rights",
+   "transparency_explainability",
+   "other"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "liability_regime",
+   "incident_reporting",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "prohibitions_bans",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Tennessee bill (HB 381/SB 151) amending state code to accommodate automated driving systems and creating the Safe Automated Vehicles (SAVE) chapter. Manufacturers self-certify to the revenue department, keep incident records, publish privacy statements, assume liability when the ADS is at fault, and local governments are preempted.",
+  "key_provisions_or_claims": [
+   "Defines the engaged ADS as the 'driver', 'operator' and 'person' for ADS-operated vehicles.",
+   "Manufacturers may start SAVE projects by self-certifying to the Department of Revenue (ADS, crash notification, data recorder).",
+   "Manufacturers assume liability when the ADS is at fault, and are immune for unauthorized modifications.",
+   "Manufacturers must keep incident records, report safety summaries and publish a privacy statement.",
+   "Local governments are preempted; operating without a human driver outside the chapter is a Class A misdemeanor."
+  ],
+  "confidence": 0.85
+ }
+}

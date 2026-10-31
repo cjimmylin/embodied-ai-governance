@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0323",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:51:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.036047800000000005,
+  "in": 2,
+  "out": 1832,
+  "cache_read": 11758,
+  "cache_create": 4137,
+  "api_ms": 13788,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "The Conversation (Bowyer, K., Curtin Law School)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU",
+   "JP",
+   "KR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "news_article",
+  "doi": "10.64628/aa.mpyxunupp",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "autonomous_road_vehicles",
+   "surgical_medical_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "liability_regime",
+   "insurance_requirement"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "taxation_economic_policy"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "news_media",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "EU Parliament Legal Affairs Committee draft report proposes civil law rules on robotics, including an 'electronic person' status.",
+   "Existing liability rules are insufficient for learning, unpredictable autonomous robots.",
+   "Report suggests reducing creators' liability in proportion to robot autonomy, with compulsory no-fault insurance.",
+   "Corporate personhood is offered as an analogy for robot legal status, a hybrid of legal subject and object.",
+   "Reconsidering robots and law is inevitable and needs interdisciplinary research."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017",
+   "EU Product Liability Directive"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 2,
+  "pub_year": 2017,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "The Conversation article by a Curtin law lecturer discussing the European Parliament Legal Affairs Committee's proposal of 'electronic person' status for sophisticated robots. It explains liability gaps for autonomous systems and suggests a corporation-like legal personality combined with no-fault insurance.",
+  "title_clean": "Robot rights: at what point should an intelligent machine be considered a 'person'?",
+  "title_en": "Robot rights: at what point should an intelligent machine be considered a 'person'?",
+  "venue": "The Conversation"
+ }
+}

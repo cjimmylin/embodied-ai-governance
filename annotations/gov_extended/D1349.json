@@ -1,0 +1,107 @@
+{
+ "doc_id": "D1349",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:50:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0585618,
+  "in": 2,
+  "out": 1857,
+  "cache_read": 11758,
+  "cache_create": 9703,
+  "api_ms": 12107,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "Medicines and Healthcare products Regulatory Agency (MHRA)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_proposal_or_draft",
+  "doc_type": "consultation_or_white_paper",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "incident_reporting",
+   "risk_based_tiering",
+   "oversight_body_creation",
+   "liability_regime",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "human_oversight_control"
+  ],
+  "instrument_status": "consultation_open",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Seeks evidence to shape MHRA's new regulatory framework for AI in healthcare, with Commission recommendations due in 2026.",
+   "Asks whether the current medical device framework needs minor, significant or complete reform.",
+   "Probes pre- and post-market surveillance, including continuous learning, foundation models and agentic AI.",
+   "Asks how liability and responsibility should be shared across the AI supply chain, including clinician override scenarios.",
+   "Describes the current framework: risk-class conformity assessment, Approved Bodies, and June 2025 post-market surveillance rules."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "MHRA call for evidence supporting the National Commission on the Regulation of AI in Healthcare. It seeks views on reforming the UK medical device framework for AI, covering pre- and post-market assurance, overlapping oversight, and liability across the AI supply chain. It closes 2 February 2026.",
+  "title_clean": "Call for Evidence: National Commission into the Regulation of AI in Healthcare",
+  "title_en": "Call for Evidence: National Commission into the Regulation of AI in Healthcare",
+  "venue": "GOV.UK / MHRA"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-90da1a7c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:34:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0309518,
+  "in": 2,
+  "out": 1800,
+  "cache_read": 11758,
+  "cache_create": 2943,
+  "api_ms": 8891,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "商务部办公厅关于组织开展2025年千县万镇新能源汽车消费季活动的通知",
+  "title_en": "Notice of the General Office of the Ministry of Commerce on Organizing the 2025 Thousand Counties and Ten Thousand Towns New Energy Vehicle Consumption Season",
+  "language": "zh",
+  "authors_or_issuer": "商务部办公厅 (General Office of the Ministry of Commerce)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Commerce of China",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "retail_hospitality",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "consumer_protection",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Chinese Ministry of Commerce notice organizing a July–December 2025 new energy vehicle consumption campaign in counties and towns, promoting trade-ins, charging infrastructure and consumer protection. It briefly calls for steady commercialization of advanced intelligent-driving vehicles under safe, controllable and lawful conditions.",
+  "key_provisions_or_claims": [
+   "Runs July–December 2025 with local NEV consumption events and trade-in zones",
+   "Steadily advance commercialization of high-level intelligent driving vehicles, safe, controllable and lawful",
+   "Build rural charging, parking, after-sales and recycling infrastructure",
+   "Resist involution competition and strengthen consumer rights protection",
+   "China Automobile Dealers Association to promote industry self-discipline and compliance"
+  ],
+  "confidence": 0.9
+ }
+}

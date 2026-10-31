@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-e304d672",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:09:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0492971,
+  "in": 4,
+  "out": 3355,
+  "cache_read": 25741,
+  "cache_create": 3931,
+  "api_ms": 15953,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "ISO/TC 20/SC 16",
+  "binding_nature": "technical_standard_voluntary",
+  "confidence": 0.85,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Specifies requirements for classification and grading of civil uncrewed aircraft systems",
+   "Applies to heavier-than-air aircraft and aerostats of any architecture",
+   "Covers design, production, delivery, operation, modification, repair and maintenance",
+   "Excludes taxonomies of automation levels, vertiports and UTM services",
+   "Edition 2 replaces ISO 21895:2020"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "ISO catalogue page for ISO 21895:2026 (Edition 2), specifying requirements for categorization, classification and grading of civil uncrewed aircraft systems across their lifecycle. It excludes automation-level taxonomies, vertiports and UTM services, and replaces the 2020 edition.",
+  "title_clean": "ISO 21895:2026 Categorization and classification of civil uncrewed aircraft systems",
+  "title_en": "ISO 21895:2026 Categorization and classification of civil uncrewed aircraft systems",
+  "venue": "ISO"
+ }
+}

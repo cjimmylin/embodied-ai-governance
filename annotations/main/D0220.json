@@ -1,0 +1,105 @@
+{
+ "doc_id": "D0220",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:12:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0447578,
+  "in": 2,
+  "out": 1785,
+  "cache_read": 11758,
+  "cache_create": 6432,
+  "api_ms": 13833,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robotics Rights and Ethics Rules",
+  "title_en": "Robotics Rights and Ethics Rules",
+  "language": "en",
+  "authors_or_issuer": "Yigit, T.; Kose, U.; Sengoz, N.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2018,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Journal of Multidisciplinary Developments",
+  "jurisdiction_country": "TR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "TR",
+   "JP",
+   "IT"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "legal_personhood_robot_rights",
+   "labor_employment",
+   "human_robot_interaction_social_effects",
+   "intellectual_property"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics",
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Turkish-authored overview of robot ethics and rights, tracing Asimov's laws, roboethics workshops, the Fukuoka declaration and EURON roadmap. It notes Turkey has no robot-specific laws while other countries do, and argues such rules should be prepared domestically.",
+  "key_provisions_or_claims": [
+   "Turkey currently lacks laws regulating robots, unlike some foreign jurisdictions.",
+   "Reviews history of roboethics: Asimov's laws, 2004 IEEE-RAS roboethics committee, Fukuoka World Robot Declaration, EURON roadmap.",
+   "Applied ethics is the framing for encoding ethical values into robots and AI.",
+   "Raises concerns about robot-driven unemployment, autonomous weapons and self-driving cars.",
+   "Recommends developing national robot ethics and rights arrangements."
+  ],
+  "confidence": 0.8
+ }
+}

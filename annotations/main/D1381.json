@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1381",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:43:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0417058,
+  "in": 2,
+  "out": 1749,
+  "cache_read": 11758,
+  "cache_create": 5759,
+  "api_ms": 9126,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Nouvelle spécification technique ISO pour la collaboration avec les robots",
+  "title_en": "New ISO technical specification for collaboration with robots",
+  "language": "fr",
+  "authors_or_issuer": "ISO (International Organization for Standardization)",
+  "issuer_type": "standards_body",
+  "pub_year": 2016,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO.org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "collaborative_robots",
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "collaborative_robots",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "human_robot_interaction_social_effects",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO/TS 15066",
+   "ISO 10218"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "ISO news release (8 March 2016) announcing ISO/TS 15066, a technical specification on safety of collaborative robots working alongside humans in industry. It complements ISO 10218 and gives guidance on speed and separation monitoring, power and force limiting, and pain-tolerance data to assess and control risks.",
+  "key_provisions_or_claims": [
+   "ISO/TS 15066 gives safety guidance for collaborative robot workspaces, complementing ISO 10218-1/-2.",
+   "Covers four collaborative techniques: safety-rated monitored stop, hand guiding, speed and separation monitoring, power and force limiting.",
+   "Includes study data on pain tolerance thresholds of human body parts.",
+   "Requires minimising sharp edges and protruding corners to limit impact severity.",
+   "Expected to reassure designers and users and encourage investment in robotics."
+  ],
+  "confidence": 0.9
+ }
+}

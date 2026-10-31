@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-81a0b906",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0470618,
+  "in": 4,
+  "out": 3244,
+  "cache_read": 25733,
+  "cache_create": 3486,
+  "api_ms": 17869,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 22166-201:2024 Robotics — Modularity for service robots — Part 201: Common information model for modules",
+  "title_en": "ISO 22166-201:2024 Robotics — Modularity for service robots — Part 201: Common information model for modules",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 299 (International Organization for Standardization)",
+  "issuer_type": "standards_body",
+  "pub_year": 2024,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO store page for ISO 22166-201:2024, an international standard from ISO/TC 299 specifying a common information model for service robot modules to achieve interoperability, reusability and composability. Shows scope and development stage history only.",
+  "key_provisions_or_claims": [
+   "Specifies requirements and guidelines for a common information model (CIM) for service robot modules",
+   "Defines CIM structure and the meaning of its attributes and subclasses",
+   "Aims at interoperability, reusability and composability",
+   "Applies to service robots",
+   "Published February 2024 (stage 60.60)"
+  ],
+  "confidence": 0.9
+ }
+}

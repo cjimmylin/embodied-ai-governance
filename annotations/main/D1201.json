@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1201",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:39:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0580098,
+  "in": 2,
+  "out": 1803,
+  "cache_read": 11758,
+  "cache_create": 9700,
+  "api_ms": 10475,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Le Gouvernement annonce la création de l'Institut national pour l'évaluation et la sécurité de l'intelligence artificielle (INESIA)",
+  "title_en": "The Government announces the creation of the National Institute for the Evaluation and Security of Artificial Intelligence (INESIA)",
+  "language": "fr",
+  "authors_or_issuer": "Ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique (France)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "presse.economie.gouv.fr",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "FR"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "education",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "trust_acceptance",
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "standards_interoperability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "international_cooperation",
+   "audits_impact_assessment",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "Seoul Declaration for Safe, Innovative and Inclusive AI"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "French government press release of 31 January 2025 announcing INESIA, a national institute for AI evaluation and security, following the Seoul Declaration. It federates existing bodies (ANSSI, Inria, LNE, PEReN) without a new legal entity, steered by SGDSN and DGE, to build trust and safety tools for AI.",
+  "key_provisions_or_claims": [
+   "INESIA created as a coordinating network without new legal structure",
+   "Federates ANSSI, Inria, LNE and PEReN",
+   "Steered by SGDSN and DGE (Ministry of Economy)",
+   "Follows the May 2024 Seoul Declaration on safe, innovative, inclusive AI",
+   "Innovation support to go together with anticipating AI risks and sharing good practice"
+  ],
+  "confidence": 0.9
+ }
+}

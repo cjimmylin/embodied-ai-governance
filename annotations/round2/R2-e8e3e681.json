@@ -1,0 +1,114 @@
+{
+ "doc_id": "R2-e8e3e681",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1953958,
+  "in": 2,
+  "out": 1936,
+  "cache_read": 11758,
+  "cache_create": 43714,
+  "api_ms": 15175,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2019/947 of 24 May 2019 on the rules and procedures for the operation of unmanned aircraft (UK retained/amended version)",
+  "title_en": "Commission Implementing Regulation (EU) 2019/947 of 24 May 2019 on the rules and procedures for the operation of unmanned aircraft (UK retained/amended version)",
+  "language": "en",
+  "authors_or_issuer": "European Commission; as amended and published by King's Printer (legislation.gov.uk), UK",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "legislation.gov.uk",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "education_training",
+   "standards_interoperability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "education_training_programs",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Consolidated text of Implementing Regulation 2019/947 on unmanned aircraft operations, as retained and amended in UK law (latest amendments 2025–2026). It sets a risk-proportionate framework of open, specific and certified categories, with operator registration, remote pilot competency, risk assessment, authorisations and geographical zones.",
+  "key_provisions_or_claims": [
+   "Three operation categories: open, specific, certified, scaled to risk",
+   "Open category subdivided A1/A2/A3 with distances, pilot competency and UAS class requirements",
+   "Specific category requires operational risk assessment and CAA authorisation or LUC",
+   "Operators must register if UAS ≥250 g, ≥80 J impact energy, or camera-equipped ≥100 g; remote ID and geo-awareness",
+   "CAA oversees, handles incident reporting; Secretary of State may designate geographical zones"
+  ],
+  "confidence": 0.9
+ }
+}

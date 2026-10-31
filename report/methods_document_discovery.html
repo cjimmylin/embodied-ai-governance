@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Centre for Enterprise Innovation (CEI) AI Robotics project, with Claude Code" />
+  <meta name="dcterms.date" content="2026-10-31" />
+  <title>Document discovery and inclusion: methods</title>
+  <style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+  <style type="text/css">
+:root{--bg:#fcfcfb;--fg:#0b0b0b;--muted:#52514e;--rule:#e1e0d9;--accent:#2a78d6;--code:#f3f2ee}
+body{background:var(--bg);color:var(--fg);font-family:"Public Sans","Segoe UI",system-ui,-apple-system,sans-serif;font-size:10.5pt;line-height:1.45;max-width:900px;margin:0 auto;padding:24px 32px}
+h1{font-size:22pt;line-height:1.15;margin:0 0 6px;text-wrap:balance}
+h2{font-size:15pt;margin:28px 0 8px;border-bottom:1px solid var(--rule);padding-bottom:4px;page-break-after:avoid}
+h3{font-size:12pt;margin:20px 0 6px;page-break-after:avoid}
+h4{font-size:10.5pt;margin:14px 0 4px}
+p{margin:0 0 9px}
+.author,.date{color:var(--muted);margin:0 0 4px}
+table{border-collapse:collapse;font-size:8.2pt;margin:8px 0 14px;width:100%;page-break-inside:auto}
+th,td{border-bottom:1px solid var(--rule);padding:3px 5px;text-align:left;vertical-align:top}
+th{font-weight:600;background:var(--code)}
+tr{page-break-inside:avoid}
+img{max-width:100%;display:block;margin:14px auto 4px;page-break-inside:avoid}
+figure{margin:0}
+figcaption,em.cap{color:var(--muted);font-size:9pt}
+em.cap{display:block;margin:-2px 0 16px}
+code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:8.8pt;background:var(--code);padding:0 3px;border-radius:3px}
+pre{background:var(--code);padding:8px;overflow-x:auto;font-size:8.5pt}
+blockquote{border-left:3px solid var(--accent);margin:8px 0;padding:2px 12px;color:var(--muted)}
+#TOC{font-size:9pt;columns:2;column-gap:28px;border:1px solid var(--rule);padding:10px 14px;margin:14px 0 20px}
+#TOC ul{margin:0;padding-left:16px}
+.abstract{border:1px solid var(--rule);padding:10px 14px;margin:12px 0 18px;background:var(--code)}
+@page{size:A4;margin:16mm 14mm}
+</style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Document discovery and inclusion: methods</h1>
+<p class="subtitle">How the second collection round found, verified,
+de-duplicated, acquired and admitted governance instruments, and how the
+instruments are counted</p>
+<p class="author">Centre for Enterprise Innovation (CEI) AI Robotics
+project, with Claude Code</p>
+<p class="date">31 October 2026</p>
+</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#rationale-and-design" id="toc-rationale-and-design">1.
+Rationale and design</a></li>
+<li><a href="#sources" id="toc-sources">2. Sources</a></li>
+<li><a href="#candidate-schema-and-verification" id="toc-candidate-schema-and-verification">3. Candidate schema and
+verification</a></li>
+<li><a href="#merging-and-de-duplication" id="toc-merging-and-de-duplication">4. Merging and
+de-duplication</a></li>
+<li><a href="#text-acquisition" id="toc-text-acquisition">5. Text
+acquisition</a></li>
+<li><a href="#annotation-inclusion-and-counting" id="toc-annotation-inclusion-and-counting">6. Annotation, inclusion and
+counting</a></li>
+<li><a href="#quality-checks" id="toc-quality-checks">7. Quality
+checks</a></li>
+<li><a href="#yield-by-source" id="toc-yield-by-source">8. Yield by
+source</a></li>
+<li><a href="#limitations-of-the-discovery-method" id="toc-limitations-of-the-discovery-method">9. Limitations of the
+discovery method</a></li>
+</ul>
+</nav>
+<h2 id="rationale-and-design">1. Rationale and design</h2>
+<p>The first collection was assembled by eight regional teams in two
+exercises: a <em>sprint</em> for robot-specific sources and a
+<em>database</em> of general AI-governance instruments. Its coverage
+audit showed the limitation of that design for the question the study
+asks. Re-computed against the current reference list of 39 instruments
+known to govern robots, drones or automated vehicles, the first
+collection held 11 of them as principal instruments with a
+content-analysed capture (12 on a looser title match), and it held 65
+texts of instrument class in the embodied-AI set, 5 of them legally
+binding. The instruments that bind robots in practice (aviation rules,
+road-traffic law, machinery and product-safety law, workplace-safety
+rules, technical standards) are catalogued in legal databases that
+topical web search rarely surfaces, and they are spread across many
+jurisdictions and languages.</p>
+<p>The second collection round therefore inverted the search strategy.
+Instead of asking regional teams to search the web for material
+<em>about</em> embodied AI, it (a) queried official legal databases and
+catalogues programmatically for instruments whose text or subject tags
+name the technologies, and (b) briefed nine specialised collector agents
+to work from legal repositories, treaty archives, standards catalogues
+and regulator sites with explicit lists of the instruments and
+instrument families to look for. The collector agents were AI agents
+(Claude subagents running in one Claude Code session on 30 October 2026,
+documented in <code>collection_round2/ROUND2_RUNBOOK.md</code>); no
+person searched for, read or labelled any document in either round.
+Discovery was separated from judgement: every candidate that could be
+fetched was annotated by the same metadata-blind procedure as the rest
+of the collection, and only the annotation decides whether a document is
+an instrument, whether it concerns embodied AI and how it is classified.
+A set of documented title and capture rules then assigns each text of
+instrument class a counting unit (section 6.3), so that the headline
+counts refer to principal instruments rather than to documents.
+Candidates that could not be fetched are recorded in an inventory and
+are not counted anywhere.</p>
+<h2 id="sources">2. Sources</h2>
+<h3 id="scripted-harvests-of-legal-databases">2.1 Scripted harvests of
+legal databases</h3>
+<p>Seven databases were harvested by script (eight runs;
+<code>collection_round2/scripts/harvest_apis.py</code>). Each harvester
+returns rows in the common candidate schema (section 3). The metadata
+fields of harvested rows (instrument type, binding nature, status) are
+constants set per source in the harvester, not judgements about the
+individual document.</p>
+<ul>
+<li><strong>EUR-Lex through the CELLAR SPARQL endpoint</strong>, in two
+ways: (i) a title search over the English expression titles of
+regulations, directives, decisions (including implementing and delegated
+acts), resolutions, proposals, communications and recommendations, using
+25 terms covering robots, unmanned aircraft and drones, automated and
+autonomous driving, driver assistance, machinery, toy safety, product
+liability, medical devices, lifts, cyber resilience, general product
+safety, U-space, type-approval, autonomous and lethal autonomous
+weapons, and artificial intelligence; (ii) a subject search for every
+work tagged with the EuroVoc concepts <em>robotics</em>, <em>industrial
+robot</em>, <em>autonomous vehicle</em>, <em>drone</em> and
+<em>artificial intelligence</em>, which is independent of title wording.
+Corrigenda, case law, national transposition measures, parliamentary
+questions and administrative notices (merger notifications, state aid,
+vacancies) were excluded.</li>
+<li><strong>legislation.gov.uk</strong>, title search over 15 terms
+(automated vehicles, unmanned aircraft, drone, robot, autonomous, air
+navigation, product safety, machinery, vehicle technology, self-driving,
+remotely piloted, toy safety, medical devices), excluding retained EU
+instruments.</li>
+<li><strong>Japan’s e-Gov law API</strong>, full-text search with nine
+Japanese terms (specified automated operation, unmanned aircraft,
+remotely operated small vehicles, industrial robots, automated driving,
+robots, automated operation devices, care robots, drones), returning the
+consolidated law text.</li>
+<li><strong>China’s State Council policy library</strong> (gov.cn),
+full-text search with twelve Chinese terms (humanoid robots, embodied
+intelligence, robots, automated driving, unmanned aircraft, intelligent
+connected vehicles, drones, low-altitude economy, elderly-care robots,
+surgical robots, industrial robots, service robots).</li>
+<li><strong>Australia’s Federal Register of Legislation</strong> (OData
+API), title search with nine terms.</li>
+<li><strong>The US Code of Federal Regulations</strong> (eCFR search
+API), quoted-phrase searches for twenty terms aggregated to the level of
+a CFR part, retaining parts in titles where such rules plausibly live or
+with several matching sections, and retrieving the part text through the
+versioner API.</li>
+<li><strong>Brazil’s Câmara dos Deputados open-data API</strong>,
+keyword search in Portuguese (low yield; the Latin America collector
+covered Brazil from the Senate and Chamber sites instead).</li>
+</ul>
+<p>Harvests of the Swiss Fedlex gazette and the Korean law portal were
+attempted and dropped (JavaScript-only pages and a registration-only API
+respectively). Several further databases could not be reached from the
+execution environment (GovInfo and regulations.gov without an API key,
+the Federal Register API, FAOLEX, NATLEX, OECD STIP Compass, New Zealand
+legislation, Taiwan and Korean English law portals).</p>
+<h3 id="collector-agents">2.2 Collector agents</h3>
+<p>Nine collector agents ran in parallel, each with a written brief that
+stated the scope, the target number of rows, the candidate schema, the
+list of round-1 holdings to exclude, a long enumeration of instruments
+and instrument families to look for in that scope, the databases and
+hubs to use, and the rule that every primary URL must have been verified
+to resolve. The scopes were: the United States (federal, state and
+city); the European Union, the United Kingdom, Ireland and the Nordic
+countries; continental European national instruments; East Asia
+including Chinese provinces and municipalities; South and Southeast Asia
+and Oceania; the Middle East, Africa, Latin America and Canada;
+technical standards (ISO/IEC, IEEE, SAE, UL, ASTM, BSI and national
+bodies); intergovernmental, military and national-strategy instruments
+(the CCW process on lethal autonomous weapons, UN resolutions and
+reports, NATO, REAIM, national defence AI policies, national robotics
+strategies); and medical, workplace, consumer and care-robot rules
+(medical-device guidance, occupational-safety rules on industrial and
+collaborative robots, toy and companion-robot rules, municipal
+delivery-robot rules). A tenth agent collected the public scope or
+abstract text of standards whose catalogue pages block automated
+access.</p>
+<p>Agents used web search for discovery while a shared search budget
+lasted (it was exhausted part-way through every brief) and thereafter
+worked from official databases and site listings (for example the
+National People’s Congress law database, the SAMR standards platform,
+law.go.kr, the Sejm and Legilux legal-data interfaces, the UK Parliament
+committees API, the UNODA document library, Senate and Chamber open-data
+APIs). Each agent returned a schema-exact CSV written in batches and a
+report listing what it had looked for and could not find; those reports
+are reproduced in condensed form in the package
+(<code>collection_round2/COLLECTOR_REPORTS.md</code>) because they bound
+what the round can claim.</p>
+<h2 id="candidate-schema-and-verification">3. Candidate schema and
+verification</h2>
+<p>Every candidate row carries 17 fields: identifier; original and
+English titles; jurisdiction (ISO 3166-1 alpha-2, EU or INT) and
+subnational unit; issuer; year; instrument type (13 values from statute
+to court decision); binding nature (legally binding, voluntary soft law,
+voluntary or mandated technical standard, not applicable); lifecycle
+status (eight values); robot types addressed (from the study’s
+23-category taxonomy); language; primary and secondary URLs; the source
+database; a confidence level (high if verified at the primary URL,
+medium if verified through a secondary source, low if inferred); and a
+one-line note. The inclusion rule was governance instruments only (laws,
+regulations, bills, standards, strategies, official guidelines,
+resolutions, formal national positions, official reports), one row per
+instrument, preferring instruments with substantive provisions on
+physical AI. Collectors were asked to include medium- and low-confidence
+rows with their official URL rather than omit them. Across the merged
+inventory, 977 rows were recorded as high confidence, 1,008 as medium
+and 90 as low. The collector metadata were recorded by the agents from
+catalogue or gazette pages; they were never shown to the annotation
+model and are used only for the inventory and for the consistency check
+in section 7.1.</p>
+<h2 id="merging-and-de-duplication">4. Merging and de-duplication</h2>
+<p>Candidate files were merged with a fixed procedure
+(<code>merge_candidates.py</code>). Rows without a title or a primary
+URL were dropped, as were the Fedlex gazette hits and EUR-Lex
+corrigenda. For the title-searched harvests only (EUR-Lex by title,
+legislation.gov.uk, Fedlex, Australia), a keyword relevance filter kept
+titles naming the technologies or the relevant product-safety regimes
+and removed administrative noise (anti-dumping, customs, mergers, state
+aid, appointments, autonomous-region place names); full-text harvests
+and collector rows were not filtered by title, so that the annotation,
+not a keyword list, judges them. Titles were normalised (Unicode NFKC,
+case, parentheticals, punctuation, leading articles) and URLs
+canonicalised (scheme, <code>www</code>, fragment, trailing slash).
+Duplicates were removed within the round on URL and then on normalised
+title plus jurisdiction, and against the round-1 collection on URL or on
+normalised title of at least 20 characters. Each surviving candidate
+received a stable identifier derived from its canonical URL, so that
+re-runs added only new rows. The merged inventory holds 2,075
+candidates: 1,157 from collector agents and 918 from scripted harvests,
+across 88 jurisdiction codes.</p>
+<p>Two further de-duplication passes run when the round-2 documents are
+assembled with the round-1 documents into the master table: documents
+with an identical normalised title in the same jurisdiction and years
+within one are merged (the fullest capture is kept; 119 rows across the
+whole collection, 78 of them from round 2), and a round-2 document is
+removed when a round-1 document has a token-sort title similarity of at
+least 90 with comparable length, or when both titles open with the same
+EU act number and neither is an amendment, opinion, guideline or report
+about the act (1 round-2 row). A looser similarity rule tried first
+would have removed 69 distinct documents by matching them to short
+generic round-1 titles; every removal is listed in
+<code>data/duplicates_removed.csv</code>. In all, 79 of the 1,720
+round-2 texts were removed in assembly and 1,641 entered the master
+table. Two further rules operate on the assembled table at the level of
+the counting unit rather than the document (section 6.3): texts of
+instrument class whose files are byte-identical are one capture
+(<code>duplicate_text</code>), and texts whose titles differ only in
+year, act number, version or amendment wording within one jurisdiction
+are grouped into an <em>instrument family</em>
+(<code>family_key</code>), so that yearly renewals and successive
+versions can be counted once where that unit is wanted.</p>
+<h2 id="text-acquisition">5. Text acquisition</h2>
+<p>Texts were fetched from the primary URL with the secondary URL as
+fallback (<code>fetch_texts.py</code>), with routing rules for sources
+that block or mis-serve automated clients: EUR-Lex links are resolved
+through the Publications Office’s CELLAR service (XHTML, falling back to
+PDF or HTML for older acts); UN and UNODA links are resolved through the
+UN document API by document symbol; legislation.gov.uk items are read as
+XML; ISO catalogue pages are read from the ISO committee mirror; hosts
+that reject the execution environment are skipped by exact host name.
+PDFs were converted with pdftotext; HTML with a content-area extractor;
+Japanese and British XML by tag stripping. A text was accepted when it
+had at least 80 words or 400 CJK characters. Where a standards catalogue
+page could not be fetched, the scope or abstract text collected by the
+standards agent was used instead and flagged in the registry.</p>
+<p>Text was obtained for 1,720 candidates (1,704 fetched, 16 standards
+scope texts). The 355 candidates without text (272 HTTP errors or
+script-only pages, 46 on hosts that block the environment, 37 failed
+transfers) remain in the inventory with their metadata. After the review
+of the previous version, every failed fetch was retried with the
+improved routes; this recovered-fetch pass added 4 texts (a Tanzanian
+amendment to the civil-aviation rules on remotely piloted aircraft, the
+catalogue page of the Chinese geofencing standard GB/T 43370-2023, and
+two Korean ministry announcement pages on autonomous ships and
+mobility). The hosts accounting for most losses were eur-lex.europa.eu
+for items with no English expression (59 candidates), the National
+People’s Congress law database (27), the UNODA library for documents
+without a UN symbol (17), Légifrance (17), the Korean law portal (17)
+and the Taiwanese law portal (11). Of the 355 candidates without text,
+189 were recorded by their collectors as legally binding; they include
+the instruments named in section 9 as the first targets of a third
+round.</p>
+<h2 id="annotation-inclusion-and-counting">6. Annotation, inclusion and
+counting</h2>
+<h3 id="annotation">6.1 Annotation</h3>
+<p>Every fetched text was annotated with the procedure used for the
+governance documents of the first collection: the 39-field codebook, a
+fixed JSON schema, Claude Sonnet 5.5 through the Claude Code
+command-line interface, the collector’s cover block stripped and only
+minimal metadata shown, and an extended excerpt of up to 110,000
+characters (the first 100,000, 6,000 from the middle, 4,000 from the
+end). The model, prompt hash, excerpt policy and cost are stored with
+each annotation, and the exact model input for every round-2 document is
+in <code>annotations/round2/_inputs</code>;
+<code>data/run_manifest.json</code> lists models, prompt hashes,
+policies, counts and cost per annotation folder (1,736 round-2
+annotation calls at about 126 US dollars, including the re-annotations
+described next).</p>
+<p>The excerpt cleaner used for the previous version removed short lines
+near the top of a text that carried no digit, capital letter or sentence
+punctuation, a rule written for navigation menus in Latin-script web
+pages. Chinese, Japanese and Korean paragraphs have no
+whitespace-delimited words and no ASCII full stop, so the rule deleted
+most of their text before the model saw it; the reviewer who found the
+fault measured that a median of 24% of each Chinese document reached the
+model. The cleaner was made character-aware (lines that carry CJK
+characters or end in CJK punctuation are never dropped; policy tag
+<code>cjk_clean=v4</code>), and every Chinese, Japanese and Korean
+document was re-annotated: 376 round-2 and 46 round-1 documents. Of
+these 422 documents, 57 changed embodied-set membership, and the number
+rated as not about AI fell from 205 to 160. Sixteen standards inputs
+that carried the collecting agent’s header were re-annotated with the
+header stripped.</p>
+<h3 id="inclusion">6.2 Inclusion</h3>
+<p>Inclusion follows the study’s standing definitions. A document is
+<em>usable</em> if its text was obtained and the annotation did not
+judge the capture to be an error page or otherwise unusable (1,626 of
+the 1,641 round-2 documents in the master table). It belongs to the
+<em>embodied-AI set</em> if it is rated at least moderately relevant to
+embodied-AI governance or carries a robot-type label, and is not judged
+to be unrelated to AI (928 round-2 documents). It is a <em>text of
+instrument class</em> if its document class is binding instrument,
+soft-law instrument or proposal/draft (1,351 round-2 documents; 745 in
+the embodied set), and <em>binding</em> if its class is binding
+instrument (286 round-2 texts in the embodied set). Documents rated as
+not about AI at all, mostly harvested legal texts in which the
+technology terms appear incidentally, fall outside both analysis
+sets.</p>
+<p>Four rules added after the review of the previous version correct
+status and class labels that the annotation got wrong at scale:
+standards still in development (AWI to FDIS stages) are not published
+instruments and are classed as drafts under development; mandatory
+Chinese GB standards (not GB/T or GB/Z) are binding; CCW working papers,
+chair’s summaries and rolling texts are position and process documents,
+not draft instruments; and a proposal whose adopted act is in the
+collection is superseded. In addition, 157 documented document-level
+corrections (on 91 documents, 156 of the rows concerning round-2
+documents) were converted from the governance expert’s audit of the
+previous version and are applied last
+(<code>data/manual_overrides_v4.csv</code>: counting unit 50 rows,
+relevance 32, robot categories 32, status 17, document class 14, year 7,
+binding nature 5). That audit inspected a risk-stratified sample of 159
+rows from the previous version’s instrument tables and found at least
+one error in 108 of them (68%) and a material error (duplicate or
+dependent act, not an instrument, wrong class, wrong status, or not
+about embodied-AI governance) in 98 (62%); because the sample was
+risk-stratified, these are upper bounds for the tables as a whole. The
+audit table released with the package holds 165 rows, 119 of them with
+an error code.</p>
+<h3 id="counting-unit">6.3 Counting unit</h3>
+<p>The headline unit is the <em>principal instrument</em>. Among texts
+of instrument class, documented title and capture rules
+(<code>scripts/07c_v4_units_and_tiers.py</code>) set aside commencement
+orders, levy and fee instruments, individual exemptions, directions,
+approvals and permits, definitions-only parts and tables of contents
+(<code>ancillary</code>); EEA Joint Committee incorporation decisions
+(<code>incorporation</code>); language-version corrigenda
+(<code>language_copy</code>); byte-identical duplicate texts
+(<code>duplicate_text</code>); catalogue, register and landing pages
+(<code>catalogue_page</code>); metadata stubs under 150 words whose
+capture is not a substantive document (<code>stub</code>); and dependent
+acts identified by the audit (<code>dependent</code>). Amendments count
+as instruments. In the usable round-2 documents, the 745 embodied-set
+texts of instrument class resolve into 403 principal texts and 41
+amendments (444 principal instruments), 218 catalogue pages, 35 stubs,
+30 ancillary instruments, 10 dependent acts, 6 incorporation decisions
+and 2 language copies; the 286 binding embodied-set texts resolve into
+190 principal binding instruments, 164 of them rated robot-relevant
+(relevance 2 or 3), 135 with autonomy or AI provisions in the text and
+10 naming AI explicitly. Across the whole collection, table T53b gives
+the same counts under successively stricter units: 810 embodied-set
+texts of instrument class, 505 principal instruments, 408 rated
+robot-relevant, 395 whose text contains autonomy or AI provisions and
+153 naming AI explicitly; for binding instruments, 291 texts, 195
+principal instruments, 168 robot-relevant, 194 when counted once per
+instrument family, 140 with autonomy or AI provisions and 15 naming AI
+explicitly. Every count in the study names its unit when it is not the
+principal unit; comparisons with the first collection are made on the
+comparable unit (all texts of instrument class, table T53) and are read
+as a consequence of collection design, not as a change in the world.</p>
+<p>The construct follows from these tiers. The embodied-AI set is
+defined by annotation relevance or a robot-type label, and most binding
+instruments that reach robots are machine-class rules (aviation, road
+vehicle, machinery, product safety) with no AI content: of the 195
+principal binding instruments in the embodied set, 140 contain autonomy
+or AI provisions and 15 name AI explicitly. The object of study is
+therefore the governance of the machine classes in which embodied AI is
+deployed, with the AI-content tiers reported alongside every headline
+count.</p>
+<h3 id="capture-tier-and-dating">6.4 Capture tier and dating</h3>
+<p>Statistics about what instruments specify in depth (the
+principle-depth and mechanism tables, the autonomy-level and
+physical-safety shares) use content-analysed captures with at least 150
+words; a capture is content-analysed when the annotation judged it a
+substantive document or a partial excerpt. Standards scope pages are
+reported as a separate measurement and never pooled with substantive
+texts: 200 of the 260 round-2 technical standards are catalogue or
+landing pages, and the depth a scope page can show is the depth of a
+scope statement. Consolidated statutes harvested from legal databases
+carry the enactment year or the version year as the annotation found it;
+the time analyses are restricted to 2014 to 2026, treat 2026 as partial,
+and do not report “first appearance” years for sector law.</p>
+<h2 id="quality-checks">7. Quality checks</h2>
+<h3 id="consistency-between-collector-metadata-and-annotation">7.1
+Consistency between collector metadata and annotation</h3>
+<p>The collectors’ metadata were compared with the blind annotation of
+the text for the usable round-2 documents: agreement was 92.9% on
+whether an instrument is legally binding (kappa 0.85, n = 1,608), 98.1%
+on jurisdiction (n = 1,624), 93.8% on year within one (n = 1,542) and
+76.7% on document class (kappa 0.66, n = 1,608), the main disagreements
+being guidelines that the annotation reads as binding and strategies or
+consultations that it reads as communications. This is a consistency
+check, not a validation: the collectors were AI agents of the same model
+family as the annotator, the harvested rows carry one constant label per
+source, and no person recorded any of the reference values.</p>
+<h3 id="round-2-reliability">7.2 Round-2 reliability</h3>
+<p>A stratified sample of 160 round-2 documents was re-annotated by a
+second model (Claude Opus 5.5) and by a same-model re-run under the same
+policy. The median kappa over single-label and ordinal fields was 0.86
+against the second model and 0.91 for the re-run, next to 0.85 and 0.91
+for the round-1 samples; the weakest round-2 fields against the second
+model were page quality (0.53), stance toward regulation (0.65),
+publication stage (0.66), date basis (0.70) and instrument status
+(0.75). Unweighted and level-2 variants are in table S09b. No human
+validation exists: no person read or labelled any document.</p>
+<h3 id="coverage-audit">7.3 Coverage audit</h3>
+<p>The reference list now has 39 entries (UN Regulations 157 and 171 as
+separate rows, the Taiwanese industrial-robot standards dated 2018, and
+a stricter title pattern for US state automated-vehicle statutes). Under
+the strict criterion, an instrument is captured when a principal
+instrument with a content-analysed capture matches its title pattern: 22
+of 39 are captured (11 for the first collection). Under the looser
+title-family match used previously, 31 of 39 are captured (12 for the
+first collection). The 17 still missing under the strict criterion are
+the German Autonomous Driving Act of 2021, the Korean Intelligent Robots
+Development and Distribution Promotion Act, the revised EU Product
+Liability Directive (EU) 2024/2853, the Shenzhen
+intelligent-connected-vehicle regulations, the Beijing humanoid-robot
+and embodied-intelligence measures, ISO/TS 15066, IEC 61508, ISO 26262,
+ISO 21448, ISO/IEC 42001, IEEE 7001, ANSI/RIA R15.06, ANSI/A3 R15.08,
+the Korean AI Basic Act, the OECD AI Principles, the Taiwanese
+industrial-robot hazard-prevention standards and UN Regulation No. 171
+(table T25).</p>
+<h3 id="precision-audit">7.4 Precision audit</h3>
+<p>An independent audit re-read a simple random sample of 100 of the 299
+documents that the previous version counted as binding embodied-AI
+instruments and judged each against its own text
+(<code>review/v3_reviews/precision_audit.md</code>). Of the 100, 67 were
+distinct instruments (95% Wilson interval 57 to 75), 97 were binding, 56
+contained substantive embodied provisions (46 to 65), 67 contained
+autonomy or AI content and 14 named AI explicitly (9 to 22). All three
+of distinct, binding and substantive held for 54 (44 to 63), which
+implies about 161 such instruments (132 to 190) in that population of
+299 rather than 299. On the same 100 documents the rule-based unit of
+this version passes 61 (51 to 70), agreeing with the audit on 77
+documents (kappa 0.53; table T62). The audit measures precision only; it
+does not consolidate instrument families and it does not add instruments
+the collection missed, so the precision and coverage corrections pull in
+opposite directions and are reported separately. The precision of every
+instrument count in this study should be read as an upper bound.</p>
+<h3 id="numbers-audit">7.5 Numbers audit</h3>
+<p>An independent numbers audit recomputed every quantitative statement
+in the narrative documents from the master table and the tables, and the
+discrepancies it found were corrected and logged
+(<code>review/v4_numbers_audit*.md</code>). The numbers auditor, like
+the collectors and the six reviewers of the previous version, was an AI
+agent.</p>
+<h2 id="yield-by-source">8. Yield by source</h2>
+<table>
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+<col style="width: 21%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th style="text-align: right;">Candidates</th>
+<th style="text-align: right;">Texts</th>
+<th style="text-align: right;">Usable</th>
+<th style="text-align: right;">Principal embodied instruments</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>EUR-Lex, title search</td>
+<td style="text-align: right;">265</td>
+<td style="text-align: right;">251</td>
+<td style="text-align: right;">251</td>
+<td style="text-align: right;">33</td>
+</tr>
+<tr class="even">
+<td>EUR-Lex, EuroVoc concepts</td>
+<td style="text-align: right;">256</td>
+<td style="text-align: right;">224</td>
+<td style="text-align: right;">222</td>
+<td style="text-align: right;">30</td>
+</tr>
+<tr class="odd">
+<td>Technical standards collector</td>
+<td style="text-align: right;">244</td>
+<td style="text-align: right;">231</td>
+<td style="text-align: right;">231</td>
+<td style="text-align: right;">58</td>
+</tr>
+<tr class="even">
+<td>China State Council policy library</td>
+<td style="text-align: right;">192</td>
+<td style="text-align: right;">188</td>
+<td style="text-align: right;">188</td>
+<td style="text-align: right;">41</td>
+</tr>
+<tr class="odd">
+<td>United States collector</td>
+<td style="text-align: right;">176</td>
+<td style="text-align: right;">131</td>
+<td style="text-align: right;">85</td>
+<td style="text-align: right;">50</td>
+</tr>
+<tr class="even">
+<td>Intergovernmental, military and strategy collector</td>
+<td style="text-align: right;">148</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">79</td>
+<td style="text-align: right;">29</td>
+</tr>
+<tr class="odd">
+<td>East Asia collector</td>
+<td style="text-align: right;">146</td>
+<td style="text-align: right;">76</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">20</td>
+</tr>
+<tr class="even">
+<td>EU, UK, Ireland and Nordics collector</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">37</td>
+</tr>
+<tr class="odd">
+<td>Middle East, Africa, Latin America, Canada collector</td>
+<td style="text-align: right;">97</td>
+<td style="text-align: right;">69</td>
+<td style="text-align: right;">67</td>
+<td style="text-align: right;">37</td>
+</tr>
+<tr class="even">
+<td>South and Southeast Asia and Oceania collector</td>
+<td style="text-align: right;">95</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">63</td>
+<td style="text-align: right;">22</td>
+</tr>
+<tr class="odd">
+<td>Continental European collector</td>
+<td style="text-align: right;">85</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">25</td>
+</tr>
+<tr class="even">
+<td>Japan e-Gov law API</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">22</td>
+</tr>
+<tr class="odd">
+<td>Medical, workplace, consumer and care collector</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">20</td>
+</tr>
+<tr class="even">
+<td>US eCFR</td>
+<td style="text-align: right;">55</td>
+<td style="text-align: right;">55</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">12</td>
+</tr>
+<tr class="odd">
+<td>legislation.gov.uk</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">37</td>
+<td style="text-align: right;">37</td>
+<td style="text-align: right;">7</td>
+</tr>
+<tr class="even">
+<td>Australian Federal Register of Legislation</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr class="odd">
+<td>Brazil Câmara API</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr class="even">
+<td>All sources</td>
+<td style="text-align: right;">2,075</td>
+<td style="text-align: right;">1,720</td>
+<td style="text-align: right;">1,626</td>
+<td style="text-align: right;">444</td>
+</tr>
+</tbody>
+</table>
+<p>Counts are for usable round-2 documents on the principal-instrument
+unit (table T50 gives the full breakdown, including embodied-set
+documents and all principal instruments per source). Yield differs by
+design: the standards collector and the regional collectors yield
+embodied instruments for a large share of their candidates, while the
+broad EUR-Lex and gov.cn harvests contribute many general-AI or non-AI
+legal texts that the annotation sets aside. The Australian register
+illustrates the effect of the counting unit: its 38 candidates are all
+usable and 32 are in the embodied set, but they are register pages and
+individual approvals, directions and exemptions, so none is a principal
+instrument. The two strategies remain complementary: scripted harvests
+supplied most of the binding EU, Japanese, Chinese and US federal rules,
+and the collectors supplied national and subnational instruments,
+standards and treaty-body material that no single database indexes.</p>
+<h2 id="limitations-of-the-discovery-method">9. Limitations of the
+discovery method</h2>
+<p>Coverage is bounded by what the execution environment could reach.
+Portals that block automated access or serve script-only pages (among
+them the Korean and Taiwanese law portals, the National People’s
+Congress law database, Hong Kong e-Legislation, Légifrance, defense.gov,
+the Indian civil-aviation host, the Singapore statutes site, the ISO
+store, UNECE, ICAO and OSHA) could be cited but not read, and 355
+verified candidates therefore remain outside every count, 189 of them
+recorded by their collectors as legally binding. Instruments identified
+and verified by the collectors but still unread include the Hangzhou
+regulations on the embodied-intelligent-robot industry (2026); the
+Shenzhen regulations on intelligent connected vehicles (2022), on the AI
+industry (2022) and on the low-altitude economy (2024); the Hong Kong
+Road Traffic (Autonomous Vehicles) Regulation (2024); the Korean
+Intelligent Robots Development and Distribution Promotion Act and its
+enforcement decree, and the enforcement decree and rule of the Korean
+autonomous-vehicles commercialisation act (2020); US DoD Directive
+3000.09 on autonomy in weapon systems (2023) and California SB 243 on
+companion chatbots (2025); India’s Drone Rules 2021; the EU Product
+Liability Directive (EU) 2024/2853, the Toy Safety Regulation (EU)
+2025/2509 and the Toy Safety Directive 2009/48/EC; the French ordinance
+2021-443 and decree 2021-873 on criminal liability for automated
+vehicles; the Swiss DETEC ordinance on aircraft of special categories
+(2022); and the standards ANSI/A3 R15.06-2025 and GB/T 48317.1-2026 on
+humanoid robots. These are the first targets of a third collection
+round; their absence means that at least one robot-titled statute, the
+horizontal consumer-product regimes most relevant to companion robots,
+and the main Korean instruments are missing from every count in this
+study. Because availability depends on which jurisdictions expose their
+law through reachable databases, the collection over-represents the EU,
+the United Kingdom, Japan, China’s central government, Australia and the
+US federal level relative to jurisdictions whose instruments are not so
+indexed.</p>
+<p>The shared web-search budget was exhausted in every collector brief,
+so discovery leaned on databases with usable interfaces. Title-searched
+harvests depend on the keyword lists given above and miss instruments
+whose titles do not name the technology; full-text harvests depend on
+the same vocabulary in the body. Technical standards were annotated on
+their public scope text rather than the normative text, and scope pages
+are kept apart from substantive captures in every depth statistic; the
+copyright status of the mirrored scope texts limits what the package can
+redistribute. The collectors’ metadata were used only for the
+consistency check and the inventory, never for classification, which
+rests on the model annotation with the reliability documented in section
+7.2 and the supplement; the collectors, the reviewers of the previous
+version, the precision auditor and the numbers auditor were all AI
+agents, and no person read or labelled any document. Instrument counts
+are counts of captured texts under documented rules: the precision audit
+shows that about half of the documents counted as binding embodied
+instruments in the previous version were distinct, binding and
+substantive, and the rule-based unit agrees with that audit on 77 of 100
+documents, so every count remains an upper bound on precision and,
+because of the unread candidates, a lower bound on coverage within this
+collection. Statutes harvested as consolidated texts carry the year the
+annotation found, which may be the enactment year or the consolidation
+year. Three criticisms of the previous version were not addressed: no
+human validation of any label exists (no human coders were available in
+this setting); statutes longer than the 110,000-character excerpt were
+not re-annotated in full, so provisions beyond the excerpt may be coded
+from the model’s prior knowledge of the instrument; and stricter title
+merging of near-duplicate pairs was not applied, because distinct parts
+of one regime are legitimately distinct documents, with instrument
+families offered as the alternative unit.</p>
+</body>
+</html>

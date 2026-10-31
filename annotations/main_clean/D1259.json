@@ -1,0 +1,90 @@
+{
+ "doc_id": "D1259",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:04:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0232538,
+  "in": 2,
+  "out": 1523,
+  "cache_read": 11758,
+  "cache_create": 1711,
+  "api_ms": 11276,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Report on safety and liability implications of AI, the Internet of Things and Robotics",
+  "title_en": "Commission Report on safety and liability implications of AI, the Internet of Things and Robotics",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2020,
+  "pub_month": 2,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "European Commission website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "European Commission publication landing page for the Commission Report on the safety and liability implications of AI, the Internet of Things and Robotics. It offers only a title and a link to the HTML report, with no substantive content from the report itself.",
+  "key_provisions_or_claims": [
+   "Page only links to the Commission report on AI, IoT and robotics safety and liability",
+   "No substantive provisions are reproduced on the page"
+  ],
+  "confidence": 0.55
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-431b7f3a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:38:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2833238,
+  "in": 2,
+  "out": 1754,
+  "cache_read": 11758,
+  "cache_create": 66151,
+  "api_ms": 11085,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "authors_or_issuer": "国土交通省 (Ministry of Land, Infrastructure, Transport and Tourism, Japan)",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "binding_nature": "legally_binding",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_maritime_or_rail"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "human_oversight_control",
+   "education_training"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Railway operators must set implementation standards, notify the regional transport bureau, and follow MLIT notices.",
+   "Trains must have a driver unless facilities and vehicle structure ensure safe operation without one.",
+   "Article 58 sets criteria for automatic train operation devices on railways without a driver on board, including checking passenger safety before departure.",
+   "Continuous automatic train deceleration and stopping devices are required for train spacing.",
+   "Operators must train staff and verify their aptitude before they do operation-related work."
+  ],
+  "language": "ja",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_maritime_or_rail",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2001,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Japanese Ministerial Ordinance setting technical standards for railways, covering track, stations, electrical systems, signalling, vehicles, and operation. It includes a provision on automatic train operation devices for driverless railways. This text is the version amended in March 2026, effective 1 July 2026.",
+  "title_clean": "鉄道に関する技術上の基準を定める省令",
+  "title_en": "Ministerial Ordinance Establishing Technical Standards for Railways",
+  "venue": "e-Gov法令検索",
+  "methodology": "not_applicable"
+ }
+}

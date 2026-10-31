@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-833ba7e9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:52:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.15890179999999998,
+  "in": 2,
+  "out": 1941,
+  "cache_read": 11758,
+  "cache_create": 34578,
+  "api_ms": 11129,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "Council of the European Communities",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "incident_reporting",
+   "licensing_registration",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "consumer_protection",
+   "research_ethics"
+  ],
+  "instrument_status": "superseded_or_repealed",
+  "is_governance_document": true,
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Medical devices must meet Annex I essential requirements before being placed on the market.",
+   "Devices are classified into Classes I, IIa, IIb and III under Annex IX, with conformity procedures scaled to risk.",
+   "Notified bodies assess conformity; compliant devices bear the CE marking.",
+   "Manufacturers and Member States must report incidents, malfunctions and recalls through a vigilance system.",
+   "Clinical investigations are notified to authorities and need ethics committee opinions; harmonized standards give presumption of conformity."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "Council Directive 90/385/EEC",
+   "Council Directive 65/65/EEC",
+   "Council Directive 89/336/EEC"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "surgical_medical_robots",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 1993,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Council Directive 93/42/EEC harmonizes EU rules on medical devices: essential safety and performance requirements, four risk classes, notified-body conformity assessment, CE marking, vigilance reporting and clinical investigation rules. It does not mention robots or AI; it is relevant only as a baseline for physical medical devices, including software. It was later repealed by Regulation (EU) 2017/745.",
+  "title_clean": "Council Directive 93/42/EEC of 14 June 1993 concerning medical devices",
+  "title_en": "Council Directive 93/42/EEC of 14 June 1993 concerning medical devices",
+  "venue": "Official Journal of the European Communities L 169",
+  "methodology": "not_applicable",
+  "issuer_type": "intergovernmental_org"
+ }
+}

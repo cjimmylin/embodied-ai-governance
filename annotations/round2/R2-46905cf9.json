@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-46905cf9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:44:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027853800000000005,
+  "in": 2,
+  "out": 1743,
+  "cache_read": 11758,
+  "cache_create": 2311,
+  "api_ms": 8543,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "全国标准信息公共服务平台 标准检索结果：GB/T 47864-2026 工业移动机器人调度系统底层数据接口要求",
+  "title_en": "National Standards Information Public Service Platform search results: GB/T 47864-2026 Industrial mobile robots – dispatching system low-level data interface requirements",
+  "language": "zh",
+  "authors_or_issuer": "国家市场监督管理总局 国家标准化管理委员会 (SAMR / SAC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "application_sectors": [
+   "manufacturing",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Search-results page of China's national standards platform listing one recommended national standard, GB/T 47864-2026, on low-level data interface requirements for industrial mobile robot dispatching systems. Published 2026-07-02, effective 2027-02-01; only metadata shown, no standard text.",
+  "key_provisions_or_claims": [
+   "GB/T 47864-2026 is a recommended (voluntary) national standard",
+   "Covers data interface requirements for industrial mobile robot dispatch systems",
+   "Published 2026-07-02; takes effect 2027-02-01",
+   "Classified under ICS 25 (mechanical manufacturing)"
+  ],
+  "confidence": 0.85
+ }
+}

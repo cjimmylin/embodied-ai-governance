@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-f6d925a1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:54:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1062158,
+  "in": 2,
+  "out": 1846,
+  "cache_read": 11758,
+  "cache_create": 21644,
+  "api_ms": 11683,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a European Parliament and Council Directive relating to motor vehicles and their trailers transporting certain animals, amending Directive 70/156/EEC in respect of the type-approval of motor vehicles and their trailers",
+  "title_en": "Proposal for a European Parliament and Council Directive relating to motor vehicles and their trailers transporting certain animals, amending Directive 70/156/EEC in respect of the type-approval of motor vehicles and their trailers",
+  "language": "en",
+  "authors_or_issuer": "Commission of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 1997,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(97) 336 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "GB"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "safety_physical_harm",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "1997 European Commission proposal for a directive setting EC type-approval technical requirements for motor vehicles and trailers transporting livestock, as a separate directive under Directive 70/156/EEC. It covers floors, ventilation, ramps, partitions and lighting by animal class. It is not about AI or robotics.",
+  "key_provisions_or_claims": [
+   "Establishes harmonised EC type-approval technical requirements for animal transport vehicles and superstructures",
+   "Classifies animals into classes A–E with class-specific floor, wall, ventilation and ramp requirements",
+   "Harmonisation is optional until the framework directive becomes mandatory for these vehicles",
+   "Requires identification and user plates on approved transport units",
+   "Member States must transpose by 1 November 1998 and apply from 1 May 1999"
+  ],
+  "confidence": 0.95
+ }
+}

@@ -1,0 +1,31 @@
+**T27_fulltext_vs_excerpt. Excerpt vs full-text annotation (same model, 160 documents): label prevalence, label counts and agreement**
+
+| item                                            |   excerpt_pct |   fulltext_pct |   diff_pp |   kappa |
+|:------------------------------------------------|--------------:|---------------:|----------:|--------:|
+| principle: Transparency                         |         50.6  |          53.8  |      3.1  |   0.737 |
+| principle: Justice & fairness                   |         43.1  |          48.8  |      5.6  |   0.837 |
+| principle: Non-maleficence                      |         74.4  |          73.8  |     -0.6  |   0.723 |
+| principle: Responsibility & accountability      |         65    |          66.2  |      1.2  |   0.834 |
+| principle: Privacy                              |         46.2  |          47.5  |      1.2  |   0.824 |
+| principle: Beneficence                          |         69.4  |          69.4  |      0    |   0.706 |
+| principle: Freedom & autonomy                   |         25.6  |          30    |      4.4  |   0.736 |
+| principle: Trust                                |         43.8  |          43.8  |      0    |   0.822 |
+| principle: Sustainability                       |         27.5  |          30.6  |      3.1  |   0.833 |
+| principle: Dignity                              |         21.9  |          27.5  |      5.6  |   0.682 |
+| principle: Solidarity                           |         23.1  |          26.9  |      3.7  |   0.8   |
+| principle: Human oversight                      |         29.4  |          33.8  |      4.4  |   0.726 |
+| principle: Robustness & security                |         40    |          45    |      5    |   0.745 |
+| principle: Inclusive growth                     |         57.5  |          59.4  |      1.9  |   0.859 |
+| principle: Physical safety                      |         26.9  |          29.4  |      2.5  |   0.846 |
+| principle: Human-robot proximity                |         25.6  |          28.7  |      3.1  |   0.921 |
+| principle: Liability for physical damage        |         15    |          16.2  |      1.3  |   0.905 |
+| principle: Autonomy level & control             |         23.8  |          25.6  |      1.9  |   0.815 |
+| principle: Conformity assessment                |         11.2  |          15.6  |      4.4  |   0.706 |
+| principle: Dual use & military                  |          7.5  |          11.2  |      3.8  |   0.78  |
+| labels: embodied categories (mean per document) |          0.95 |           1.09 |      0.14 | nan     |
+| labels: mechanisms (mean per document)          |          2.95 |           3.29 |      0.34 | nan     |
+| labels: topics (mean per document)              |          4.78 |           5.18 |      0.41 | nan     |
+| labels: sectors (mean per document)             |          2.24 |           2.41 |      0.18 | nan     |
+| labels: named instruments (mean per document)   |          0.96 |           1.21 |      0.26 | nan     |
+| embodied-set membership                         |         45    |          46.2  |      1.3  |   0.924 |
+| governance document                             |         24.4  |          25    |      0.6  |   0.916 |

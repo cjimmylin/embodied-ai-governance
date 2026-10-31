@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-c73dad86",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:37:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2771558,
+  "in": 2,
+  "out": 1606,
+  "cache_read": 11758,
+  "cache_create": 64979,
+  "api_ms": 9277,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "警察法施行規則",
+  "title_en": "Regulation for Enforcement of the Police Act",
+  "language": "ja",
+  "authors_or_issuer": "内閣府 (Cabinet Office, Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Japan's Ministerial Ordinance enforcing the Police Act (as amended April 2026). It sets the internal organisation of the National Police Agency, its bureaus, affiliated institutions and regional bureaus. Only incidental organisational units touch technology, such as an autonomous driving planning office and a small drone response office.",
+  "key_provisions_or_claims": [
+   "Defines organisation of the National Police Agency bureaus, divisions and offices",
+   "Establishes an Autonomous Driving Planning Office in the Traffic Bureau",
+   "Establishes a Small Unmanned Aircraft Operations Office in the Security Bureau",
+   "Establishes an Advanced Technology Introduction Planning Office",
+   "Sets up the Police University, NPA research institute and regional bureaus"
+  ],
+  "confidence": 0.9
+ }
+}

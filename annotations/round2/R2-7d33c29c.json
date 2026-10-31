@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-7d33c29c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:38:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.3159364,
+  "in": 4,
+  "out": 3609,
+  "cache_read": 89989,
+  "cache_create": 68452,
+  "api_ms": 20139,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector",
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Japan (National Diet / Cabinet Office)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "licensing_registration",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "funding_or_incentives"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "language": "ja",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2013,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Japan's National Strategic Special Zones Act (Act No. 107 of 2013, current revision effective 2026-07-31) creates special zones for regulatory exemptions to boost industrial competitiveness. It includes data-linkage infrastructure for advanced AI/IoT use and innovative technology demonstrations (Arts. 25-2 onward) allowing special-specification vehicles, drones and radio experiments under approved zone plans.",
+  "key_provisions_or_claims": [
+   "Establishes national strategic special zones with Cabinet-approved basic policy and zone plans",
+   "Regulatory exemption measures for approved specific projects in zones",
+   "Defines advanced regional data utilization using AI, IoT and cloud, with a data-linkage platform",
+   "Innovative technology demonstration plans (Art. 25-2 to 25-6) cover special-specification vehicle operation, drones and radio experiments with safety conditions and revocation",
+   "Advisory Council and zone councils oversee plan evaluation"
+  ],
+  "title_clean": "国家戦略特別区域法",
+  "title_en": "National Strategic Special Zones Act",
+  "venue": "e-Gov Japanese Law Database"
+ }
+}

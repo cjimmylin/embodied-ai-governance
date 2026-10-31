@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-65f879a3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:51:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.033397800000000005,
+  "in": 2,
+  "out": 1771,
+  "cache_read": 11758,
+  "cache_create": 3627,
+  "api_ms": 10080,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Directive 2001/63/EC of 17 August 2001 adapting to technical progress Directive 97/68/EC on emissions of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery",
+  "title_en": "Commission Directive 2001/63/EC of 17 August 2001 adapting to technical progress Directive 97/68/EC on emissions of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2001,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities L 227",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission Directive 2001/63/EC adapts Directive 97/68/EC on emissions from engines in non-road mobile machinery to technical progress, amending test procedure annexes (water quench check, formulas) and reference fuel specifications to align with ECE Regulation 96. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Amends Annexes III and IV of Directive 97/68/EC on emission test procedures and reference fuel.",
+   "Aligns requirements with ECE Regulation 96 to which the Community is party.",
+   "Existing approvals remain valid.",
+   "Member States must transpose by 30 June 2002.",
+   "Enters into force on the 20th day after publication."
+  ],
+  "confidence": 0.95
+ }
+}

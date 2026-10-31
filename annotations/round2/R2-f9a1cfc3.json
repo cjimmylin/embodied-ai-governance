@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-f9a1cfc3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:48:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.031215800000000002,
+  "in": 2,
+  "out": 1760,
+  "cache_read": 11758,
+  "cache_create": 3109,
+  "api_ms": 8450,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Decision of 5 February 2014 on the safety requirements to be met by European standards for consumer laser products pursuant to Directive 2001/95/EC on general product safety (2014/59/EU)",
+  "title_en": "Commission Decision of 5 February 2014 on the safety requirements to be met by European standards for consumer laser products pursuant to Directive 2001/95/EC on general product safety (2014/59/EU)",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2014,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "consumer_protection",
+   "standards_interoperability",
+   "children_vulnerable_groups"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "Directive 2001/95/EC General Product Safety",
+   "EN 60825-1:2007"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Decision 2014/59/EU sets safety requirements that European standards for consumer laser products must meet under the General Product Safety Directive, aiming to prevent eye and skin damage, with stricter rules for child-appealing products and warning labels where residual risk exists. It is unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Child-appealing consumer laser products must not cause eye or skin damage under any conditions of use",
+   "Other consumer laser products must not cause eye damage or unintended skin damage under foreseeable use",
+   "Conformity must be achieved by technical means",
+   "Residual-risk products must carry warning labels and user instructions",
+   "Decision enters into force the day after publication"
+  ],
+  "confidence": 0.95
+ }
+}

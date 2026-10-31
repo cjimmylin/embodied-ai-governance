@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0319",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:15:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0441918,
+  "in": 2,
+  "out": 1824,
+  "cache_read": 11758,
+  "cache_create": 6193,
+  "api_ms": 8900,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Engineering-Based Design Methodology for Embedding Ethics in Autonomous Robots",
+  "title_en": "Engineering-Based Design Methodology for Embedding Ethics in Autonomous Robots",
+  "language": "en",
+  "authors_or_issuer": "Robertson, L.J.; Abbas, R.; Alici, G.; Munoz, A.; Michael, K.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2019,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": "10.1109/JPROC.2018.2889678",
+  "venue": "Proceedings of the IEEE",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "safety_physical_harm",
+   "human_dignity_autonomy",
+   "standards_interoperability",
+   "research_ethics"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "IEEE 7000 series"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Journal article proposing an ethics-based co-design methodology for autonomous biomedical robots, illustrated by a robotic endoscopic capsule for diagnosis and drug delivery. It argues for moving beyond standard risk assessment toward measuring end-user exposure and vulnerability, involving diverse stakeholders during preclinical design.",
+  "key_provisions_or_claims": [
+   "Ethics should be embedded in engineering design via stakeholder co-design, not only post hoc risk assessment.",
+   "Proposes 'exposure' as a metric of end-user vulnerability to guide design feedback.",
+   "Distinguishes present and future modes of operation to anticipate increasing autonomy.",
+   "Diverse stakeholders beyond traditional designers should be involved in preclinical biomedical design.",
+   "Design should identify positive consequences for wellbeing, not only avoid harm."
+  ],
+  "confidence": 0.9
+ }
+}

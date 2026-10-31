@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1058",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:01:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0274178,
+  "in": 2,
+  "out": 1647,
+  "cache_read": 11758,
+  "cache_create": 2442,
+  "api_ms": 8315,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ETSI Artificial Intelligence Conference",
+  "title_en": "ETSI Artificial Intelligence Conference",
+  "language": "en",
+  "authors_or_issuer": "Smart Networks and Services Joint Undertaking (SNS JU) / ETSI",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "SNS JU website (smart-networks.europa.eu)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "FR"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Event page announcing the ETSI AI Conference (5-7 February 2024, Sophia Antipolis) on AI standardization, covering the EU AI Act, implementing regulation through standards, and conformity assessment for ICT products. Includes a call for demonstrations and posters. No robotics content.",
+  "key_provisions_or_claims": [
+   "Conference on status and implementation of AI standardization, 5-7 Feb 2024",
+   "Programme covers EU AI Act and implementing regulation through standards",
+   "Addresses impact on product design and conformity assessment for market access",
+   "Call for demos and posters, deadline 20 October 2023",
+   "Free, open attendance upon registration"
+  ],
+  "confidence": 0.85
+ }
+}

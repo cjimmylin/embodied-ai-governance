@@ -1,0 +1,114 @@
+{
+ "doc_id": "D1436",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:16:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1399264,
+  "in": 4,
+  "out": 3883,
+  "cache_read": 46339,
+  "cache_create": 24888,
+  "api_ms": 22499,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care",
+   "research_science"
+  ],
+  "authors_or_issuer": "MARIO Consortium (Horizon 2020 project)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "EU",
+   "JP"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "ethical_framework_or_principles",
+  "doi": null,
+  "embodied_categories": [
+   "care_assistive_robots",
+   "social_companion_robots",
+   "professional_service_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement",
+   "self_regulation_codes"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "human_robot_interaction_social_effects",
+   "human_dignity_autonomy",
+   "children_vulnerable_groups",
+   "research_ethics",
+   "civil_liability",
+   "safety_physical_harm",
+   "trust_acceptance",
+   "fairness_bias_discrimination"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 2,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 2,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2015,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Deliverable D1.2 of the EU Horizon 2020 MARIO project: a multi-layered ethical framework for care robots serving older people with dementia. It reviews roboethics literature and prior projects, analyses care integration, quality of care, functionalities and design/data issues, then applies them to MARIO use cases, with informed-consent guidance.",
+  "title_clean": "D1.2 Ethics Framework: Managing active and healthy aging with use of caring service robots",
+  "title_en": "D1.2 Ethics Framework: Managing active and healthy aging with use of caring service robots",
+  "venue": "MARIO Project (Horizon 2020) deliverable; University of Twente repository",
+  "key_provisions_or_claims": [
+   "Four-layer ethical framework: care process integration, quality of care, robot functionalities, design and ICT capabilities",
+   "Care robots are double-edged, with both ethical risks and improvements",
+   "Emphasises privacy, data protection and dynamic informed consent for vulnerable participants with dementia",
+   "Draws on care ethics, value sensitive design and capability approach",
+   "Applies the framework to MARIO use-case scenarios and notes lack of standards for non-factory robots"
+  ]
+ }
+}

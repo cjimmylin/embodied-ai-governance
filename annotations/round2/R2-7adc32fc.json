@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-7adc32fc",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.024577800000000004,
+  "in": 2,
+  "out": 1669,
+  "cache_read": 11758,
+  "cache_create": 1677,
+  "api_ms": 10158,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "EASA Artificial Intelligence Roadmap 2.0: A human-centric approach to AI in aviation",
+  "title_en": "EASA Artificial Intelligence Roadmap 2.0: A human-centric approach to AI in aviation",
+  "language": "en",
+  "authors_or_issuer": "European Union Aviation Safety Agency (EASA)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "EASA website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "ethics_principles",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Short EASA web page announcing the AI Roadmap 2.0 (May 2023), which sets out the Agency's human-centric vision for safety and ethical aspects of AI in aviation, an action plan for the EASA AI Programme, and the timing of guidance and anticipated rulemaking. Only the teaser text is available.",
+  "key_provisions_or_claims": [
+   "Roadmap 2.0 outlines EASA's vision for safety and ethics of AI in aviation",
+   "Provides an action plan for the EASA AI Programme",
+   "Sets the pace for conceptual guidance deliverables and anticipated rulemaking",
+   "Serves as a basis for stakeholder discussions"
+  ],
+  "confidence": 0.6
+ }
+}

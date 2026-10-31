@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-a3eeecf4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:48:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0340178,
+  "in": 2,
+  "out": 1779,
+  "cache_read": 11758,
+  "cache_create": 3762,
+  "api_ms": 14062,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2021/1220 of 26 July 2021 amending Implementing Decision (EU) 2021/76 as regards harmonised standards on safety rules for the construction and installation of firefighters lifts and behaviour of lifts in the event of fire",
+  "title_en": "Commission Implementing Decision (EU) 2021/1220 of 26 July 2021 amending Implementing Decision (EU) 2021/76 as regards harmonised standards on safety rules for the construction and installation of firefighters lifts and behaviour of lifts in the event of fire",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "construction"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission implementing decision updating the list of harmonised standards under the Lifts Directive 2014/33/EU, replacing EN 81-72:2015 and EN 81-73:2016 with EN 81-72:2020 and EN 81-73:2020 on firefighters lifts and lift behaviour in fire. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Deletes entries 9 and 10 of Annex I to Decision (EU) 2021/76",
+   "Inserts EN 81-72:2020 and EN 81-73:2020 as harmonised standards conferring presumption of conformity",
+   "Withdrawal of older standard references deferred to 27 January 2023",
+   "Enters into force on publication in the Official Journal"
+  ],
+  "confidence": 0.97
+ }
+}

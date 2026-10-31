@@ -1,0 +1,15 @@
+**T53b_counting_units. How many instruments reach robots depends on the counting unit and the construct: the same collection under successively stricter definitions (v4)**
+
+| tier                                                                                                                                  |   count |
+|:--------------------------------------------------------------------------------------------------------------------------------------|--------:|
+| All legal texts of instrument class, embodied-AI set                                                                                  |     810 |
+| Principal instruments (amendments kept; commencement, levy, exemption, incorporation, corrigenda, stubs and catalogue pages excluded) |     505 |
+| Principal instruments rated robot-relevant (relevance 2 or 3)                                                                         |     408 |
+| Principal embodied instruments whose text contains autonomy or AI provisions                                                          |     395 |
+| Principal embodied instruments whose text names AI explicitly                                                                         |     153 |
+| Binding legal texts, embodied-AI set                                                                                                  |     291 |
+| Principal binding instruments, embodied-AI set                                                                                        |     195 |
+| Principal binding instruments rated robot-relevant (relevance 2 or 3)                                                                 |     168 |
+| Principal binding instruments counted once per instrument family                                                                      |     194 |
+| Principal binding instruments with autonomy or AI provisions in the text                                                              |     140 |
+| Principal binding instruments naming AI explicitly                                                                                    |      15 |

@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-dfecdeac",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:50:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0919218,
+  "in": 2,
+  "out": 1875,
+  "cache_read": 11758,
+  "cache_create": 17998,
+  "api_ms": 10861,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Council Directive 91/368/EEC of 20 June 1991 amending Directive 89/392/EEC on the approximation of the laws of the Member States relating to machinery",
+  "title_en": "Council Directive 91/368/EEC of 20 June 1991 amending Directive 89/392/EEC on the approximation of the laws of the Member States relating to machinery",
+  "language": "en",
+  "authors_or_issuer": "Council of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 1991,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities L 198",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "application_sectors": [
+   "manufacturing",
+   "construction",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "consumer_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Directive 89/392/EEC"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "1991 Council Directive amending the original EU Machinery Directive 89/392/EEC to add essential health and safety requirements for mobile machinery, lifting operations and underground machinery, extend scope to interchangeable equipment, and set transposition dates and repeals. Foundational machinery safety law, not AI-specific.",
+  "key_provisions_or_claims": [
+   "Adds essential safety requirements for mobile machinery, including remote-controlled machinery that must stop automatically if control is lost",
+   "Adds lifting-operation requirements covering stability, load testing, and marking",
+   "Treats interchangeable equipment as machinery requiring EC mark and declaration of conformity",
+   "Member States apply the measures from 1 January 1993, with transitional arrangements",
+   "Repeals earlier directives on ROPS, FOPS and self-propelled industrial trucks"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-a1930987",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0904638,
+  "in": 2,
+  "out": 1806,
+  "cache_read": 11758,
+  "cache_create": 17806,
+  "api_ms": 9860,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Economic and Social Committee on the Proposal for a Directive and Regulation – simplification and strengthening of food and feed safety requirements",
+  "title_en": "Opinion of the European Economic and Social Committee on the Proposal for a Directive and Regulation – simplification and strengthening of food and feed safety requirements",
+  "language": "en",
+  "authors_or_issuer": "European Economic and Social Committee",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (C series)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "agricultural_robots"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "sustainability_environment",
+   "human_oversight_control",
+   "industrial_policy_innovation",
+   "consumer_protection",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "licensing_registration",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EESC opinion on the Commission's food and feed safety simplification omnibus. It broadly welcomes simplification while insisting on precautionary standards. Only a small part concerns embodied technology: it supports allowing drone pesticide spraying, with safeguards against spray drift, permanent visual human oversight and certified operators.",
+  "key_provisions_or_claims": [
+   "Welcomes simplification but not at the expense of food safety, environment or the precautionary principle.",
+   "Supports wider drone spraying of pesticides, with protections against spray drift.",
+   "Calls for permanent visual human oversight of drone spraying.",
+   "Recommends certification of farmers and contractors qualified for drone spraying.",
+   "Proposes amendments on EFSA role, grace periods, import tolerances, biocontrol and GMM-derived foods."
+  ],
+  "confidence": 0.9
+ }
+}

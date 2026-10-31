@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-03011045",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:28:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0854278,
+  "in": 2,
+  "out": 1670,
+  "cache_read": 11758,
+  "cache_create": 16887,
+  "api_ms": 8440,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "中华人民共和国药品管理法实施条例",
+  "title_en": "Regulations for the Implementation of the Drug Administration Law of the People's Republic of China",
+  "language": "zh",
+  "authors_or_issuer": "中华人民共和国国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "civil_liability"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "audits_impact_assessment",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "State Council Decree No. 828 promulgating the fourth revision of the Regulations implementing China's Drug Administration Law, effective 15 May 2026. It covers drug development, registration, marketing authorisation holders, production, distribution, hospital pharmacy, supervision and penalties. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Revised regulations take effect 15 May 2026",
+   "Licensing and registration regime for drug production, distribution and hospital preparations",
+   "Market exclusivity: up to 2 years for paediatric drugs and 7 years for rare-disease drugs",
+   "Marketing authorisation holders must run pharmacovigilance and post-market evaluation",
+   "Heavy fines and licence revocation for violations such as illegal online sales"
+  ],
+  "confidence": 0.95
+ }
+}

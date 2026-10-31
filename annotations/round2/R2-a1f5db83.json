@@ -1,0 +1,121 @@
+{
+ "doc_id": "R2-a1f5db83",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1715878,
+  "in": 2,
+  "out": 2054,
+  "cache_read": 11758,
+  "cache_create": 37467,
+  "api_ms": 12007,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Canadian Jurisdictional Guidelines for the Safe Testing and Deployment of Vehicles Equipped with Automated Driving Systems, Version 2.0",
+  "title_en": "Canadian Jurisdictional Guidelines for the Safe Testing and Deployment of Vehicles Equipped with Automated Driving Systems, Version 2.0",
+  "language": "en",
+  "authors_or_issuer": "Canadian Council of Motor Transport Administrators (CCMTA)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2022,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "CCMTA (ccmta.ca)",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA",
+   "US"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "cybersecurity",
+   "privacy_data_protection",
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "education_training",
+   "criminal_liability",
+   "trust_acceptance"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "insurance_requirement",
+   "incident_reporting",
+   "oversight_body_creation",
+   "education_training_programs",
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "international_cooperation",
+   "human_oversight_requirement",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "Cybersecurity guidance placeholder"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Voluntary guidelines from CCMTA (2nd edition, Feb 2022) for Canadian provinces and territories on regulating testing and deployment of SAE Level 3-5 ADS-equipped vehicles. They cover governance committees, test permits, registration, insurance, driver licensing, law enforcement, incident reporting, cybersecurity, data, shuttles, delivery devices, connected vehicles and platooning.",
+  "key_provisions_or_claims": [
+   "Jurisdictions should create an ADS Committee and lead agency to coordinate testing and deployment policy.",
+   "Require vehicle-specific test permits with safety assessment against Transport Canada's 13 safety outcomes, insurance proof and driver background checks.",
+   "Require incident reports within 24 hours of a collision and periodic disengagement reports during testing.",
+   "Adopt SAE J3016 terminology and flag ADS level in registration records for consistency across jurisdictions.",
+   "Guidelines are voluntary and aim to enable earliest safe introduction without stifling innovation."
+  ],
+  "confidence": 0.9
+ }
+}

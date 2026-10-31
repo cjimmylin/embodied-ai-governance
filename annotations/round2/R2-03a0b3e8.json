@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-03a0b3e8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:29:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0715678,
+  "in": 2,
+  "out": 1960,
+  "cache_read": 11758,
+  "cache_create": 12697,
+  "api_ms": 10372,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院关于印发《河套深港科技创新合作区深圳园区发展规划》的通知",
+  "title_en": "State Council Notice on Issuing the Development Plan for the Shenzhen Park of the Hetao Shenzhen-Hong Kong Science and Technology Innovation Cooperation Zone",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the People's Republic of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中国政府网 (State Council Gazette)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots",
+   "autonomous_road_vehicles",
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "research_science",
+   "healthcare",
+   "manufacturing",
+   "finance",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "privacy_data_protection",
+   "intellectual_property",
+   "certification_conformity_assessment",
+   "labor_employment",
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "international_cooperation",
+   "oversight_body_creation",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "State Council development plan (2023) for the Shenzhen park of the Hetao Shenzhen-Hong Kong science and technology cooperation zone, setting goals to 2025 and 2035. Mainly innovation, customs, tax and cross-border data policy, with passing provisions on AI standards, robot testing and certification platforms, medical robots and driverless buses.",
+  "key_provisions_or_claims": [
+   "Builds a special customs supervision zone with a 'white list' system and first-line/second-line management.",
+   "Sets up robot testing and certification public service platforms and pushes development of related technical standards.",
+   "Develops medical robots and an AI open innovation platform, with an unmanned factory demonstration base.",
+   "Creates a fully driverless intelligent connected bus demonstration area and pilots in smart manufacturing and healthcare.",
+   "Sets up cross-border data channels, 15% preferential corporate tax and Hong Kong-aligned research rules."
+  ],
+  "confidence": 0.9
+ }
+}

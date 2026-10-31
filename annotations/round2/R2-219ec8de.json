@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-219ec8de",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:32:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0362478,
+  "in": 2,
+  "out": 1782,
+  "cache_read": 11758,
+  "cache_create": 4312,
+  "api_ms": 9080,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国家卫生健康委 国家中医药管理局 国家疾病预防控制局关于进一步做好公立医疗卫生机构医用设备集中采购工作的通知",
+  "title_en": "Notice of the National Health Commission, National Administration of Traditional Chinese Medicine and National Disease Control and Prevention Administration on Further Improving Centralized Procurement of Medical Equipment in Public Medical and Health Institutions",
+  "language": "zh",
+  "authors_or_issuer": "国家卫生健康委; 国家中医药管理局; 国家疾病预防控制局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "transparency_explainability",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese health authorities' notice requiring centralized government procurement of medical equipment by public health institutions, with national, provincial and pilot city-level tiers, a high-value equipment filing database, procurement requirements management, abnormally low-price review and reporting duties. Not about AI or robotics.",
+  "key_provisions_or_claims": [
+   "Public health institutions must use departmental centralized procurement for catalogued medical equipment using budget funds.",
+   "NHC organizes Class A large equipment procurement; provinces organize Class B, completing a round by end-2026.",
+   "Pilot city-level centralized procurement by June 2027.",
+   "Build a national high-value medical equipment filing database for price transparency.",
+   "Provinces file work plans and report annually; earlier 2007 notice repealed."
+  ],
+  "confidence": 0.9
+ }
+}

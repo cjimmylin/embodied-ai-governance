@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0421",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:53:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0177676,
+  "in": 2,
+  "out": 1626,
+  "cache_read": 15036,
+  "cache_create": 0,
+  "api_ms": 9772,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The comic strip Inside AI: An Algorithmic Adventure released in Malagasy",
+  "title_en": "The comic strip Inside AI: An Algorithmic Adventure released in Malagasy",
+  "language": "en",
+  "authors_or_issuer": "UNESCO",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "UNESCO website",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "MG"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education"
+  ],
+  "governance_topics": [
+   "education_training",
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "sustainability_environment"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "UNESCO news item announcing the Malagasy translation of the AI comic strip 'Inside AI: An Algorithmic Adventure', meant to raise public AI literacy, covering human rights and ethics issues, and to strengthen linguistic diversity online in Madagascar. No robotics content.",
+  "key_provisions_or_claims": [
+   "Comic strip covers digital divide, algorithmic bias, echo chambers and e-waste",
+   "Fewer than 2% of Africa's ~2,000 languages have an online presence",
+   "Linked to Madagascar's Digital Strategic Plan 2023-2028",
+   "Intended for digital literacy among children and youth",
+   "Aligns with SDG 4 and SDG 16"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "doc_id": "D0399",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:38:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04391780000000001,
+  "in": 2,
+  "out": 1813,
+  "cache_read": 11758,
+  "cache_create": 6152,
+  "api_ms": 9704,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial Intelligence (Egypt MCIT AI portal page)",
+  "title_en": "Artificial Intelligence (Egypt MCIT AI portal page)",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Communications and Information Technology (MCIT), Egypt",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "MCIT Egypt website",
+  "jurisdiction_country": "EG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "EG"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "education"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "education_training",
+   "transparency_explainability",
+   "human_oversight_control"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "international_cooperation",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Egyptian MCIT web page describing the national AI framework: the National Council for AI, the second National AI Strategy (2025–2030), the Charter for Responsible AI, the ECRAI centre with its AI Audit Lab, capacity-building programmes and international cooperation. General AI only, with no robotics provisions.",
+  "key_provisions_or_claims": [
+   "NCAI, established 2019, expanded in January 2026 to cover quantum computing and emerging technologies",
+   "National AI Strategy 2025–2030 rests on six pillars: governance, data, infrastructure, technology, talent, ecosystem",
+   "Egyptian Charter for Responsible AI (2023) sets fairness, transparency, accountability, privacy and human oversight principles",
+   "ECRAI enforces the National AI Governance Framework and runs an AI Audit Lab for pre-deployment testing",
+   "International cooperation with UNESCO, OECD, ITU, AU and others"
+  ],
+  "confidence": 0.85
+ }
+}

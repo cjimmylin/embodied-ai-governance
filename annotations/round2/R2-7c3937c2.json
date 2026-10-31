@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-7c3937c2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:44:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0271598,
+  "in": 2,
+  "out": 1790,
+  "cache_read": 11758,
+  "cache_create": 2020,
+  "api_ms": 9662,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "工业和信息化部办公厅、民政部办公厅发布《关于开展智能养老服务机器人结对攻关与场景应用试点工作的通知》",
+  "title_en": "MIIT and Ministry of Civil Affairs issue Notice on Pilot Work for Paired Research and Scenario Application of Intelligent Elderly-Care Service Robots",
+  "language": "zh",
+  "authors_or_issuer": "新闻报道（记者 郭倩）；涉及工业和信息化部办公厅、民政部办公厅",
+  "issuer_type": "news_media",
+  "pub_year": 2025,
+  "pub_month": 6,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "news_article",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "safety_physical_harm",
+   "trust_acceptance"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "News report on a notice by China's MIIT and Ministry of Civil Affairs launching a 2025–2027 pilot for intelligent elderly-care service robots, pairing developers with users, requiring scenario validation in homes, communities and care institutions, and promoting related standards and evaluation systems.",
+  "key_provisions_or_claims": [
+   "Pilot period 2025–2027 with phased paired-research and application projects",
+   "Scenarios: dementia/disability care, emotional companionship, health promotion, daily assistance",
+   "Validation at least 6 months; home robots ≥200 households/200 units",
+   "Community/institution robots ≥20 sites and ≥20 units",
+   "Encourages joint development of product and service safety standards"
+  ],
+  "confidence": 0.85
+ }
+}

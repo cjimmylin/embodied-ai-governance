@@ -1,0 +1,119 @@
+{
+ "doc_id": "D0957",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:46:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1687298,
+  "in": 2,
+  "out": 1989,
+  "cache_read": 11758,
+  "cache_create": 36915,
+  "api_ms": 12940,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "U.S. LEADERSHIP IN AI: A Plan for Federal Engagement in Developing Technical Standards and Related Tools",
+  "title_en": "U.S. Leadership in AI: A Plan for Federal Engagement in Developing Technical Standards and Related Tools",
+  "language": "en",
+  "authors_or_issuer": "National Institute of Standards and Technology (NIST), U.S. Department of Commerce",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2019,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "NIST",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "mobile_industrial_logistics",
+   "drones_uas",
+   "autonomous_road_vehicles",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "industrial_policy_innovation",
+   "trust_acceptance",
+   "risk_management_risk_tiers",
+   "ethics_principles",
+   "privacy_data_protection",
+   "education_training"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "international_cooperation",
+   "funding_or_incentives",
+   "education_training_programs",
+   "testing_sandboxes",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles",
+   "IEEE 7000 series",
+   "IEEE P7001",
+   "ISO/IEC 22989",
+   "ISO/IEC 23894"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "NIST plan, prepared under Executive Order 13859, for federal engagement in AI technical standards and related tools. It identifies standards focus areas, prioritises voluntary consensus standards, and recommends coordination, trustworthiness research, public-private partnerships and international engagement. Robotics and vehicles appear only in passing as examples.",
+  "key_provisions_or_claims": [
+   "NSTC ML/AI Subcommittee should designate a Standards Coordinator for federal AI standards.",
+   "Agencies should prioritise consensus-based, open, inclusive, non-discriminatory standards efforts.",
+   "Four engagement levels: monitoring, participating, influencing, leading.",
+   "Promote research on metrics, benchmarks and testbeds for trustworthy AI.",
+   "Engage internationally to advance US AI standards priorities and track foreign standards strategies."
+  ],
+  "confidence": 0.9
+ }
+}

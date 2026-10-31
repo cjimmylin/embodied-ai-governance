@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-0ea46a4c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1565303,
+  "in": 4,
+  "out": 3821,
+  "cache_read": 50618,
+  "cache_create": 29039,
+  "api_ms": 25268,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security",
+   "logistics_transport",
+   "agriculture_food",
+   "public_administration_justice",
+   "education"
+  ],
+  "authors_or_issuer": "Government of Vietnam",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "VN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "prohibitions_bans",
+   "education_training_programs",
+   "audits_impact_assessment",
+   "human_oversight_requirement"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "military_use_ihl",
+   "education_training",
+   "standards_interoperability",
+   "human_oversight_control"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "VN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Classifies unmanned aircraft by weight (five types), control method and purpose.",
+   "Requires licences for import/export and certificates of eligibility for manufacture, repair and trading of aerial vehicles.",
+   "Operators need registration, and pilot licences (Class A visual, Class B instrument rating) valid 10 years.",
+   "Flight permits required, with exemptions for small recreational drones; military and public security may suspend, neutralize or detain violating vehicles.",
+   "Allocates responsibilities to Ministries of National Defense, Public Security, Construction and others; replaces Decree 36/2008."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "pub_month": 11,
+  "pub_year": 2025,
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 1
+  },
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Vietnam's Decree 288/2025/ND-CP regulates unmanned aircraft and other aerial vehicles: import/export licensing, manufacturer and trader eligibility certificates, registration, pilot licensing, flight permits, and enforcement powers including suppression and detention, with defense and public security ministries leading. It replaces Decree 36/2008.",
+  "title_clean": "Decree No. 288/2025/ND-CP providing the management of unmanned aircraft and other aerial vehicles",
+  "title_en": "Decree No. 288/2025/ND-CP providing the management of unmanned aircraft and other aerial vehicles",
+  "venue": "LuatVietnam.vn (Official Gazette Nos 1589-1590)"
+ }
+}

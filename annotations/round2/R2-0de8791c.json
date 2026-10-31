@@ -1,0 +1,112 @@
+{
+ "doc_id": "R2-0de8791c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:29:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1037218,
+  "in": 2,
+  "out": 1929,
+  "cache_read": 11758,
+  "cache_create": 20813,
+  "api_ms": 9747,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院办公厅关于印发“十四五”现代物流发展规划的通知",
+  "title_en": "Notice of the General Office of the State Council on Issuing the 14th Five-Year Plan for Modern Logistics Development",
+  "language": "zh",
+  "authors_or_issuer": "国务院办公厅 (General Office of the State Council, China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "国务院办公厅 (国办发〔2022〕17号)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics",
+   "delivery_robots",
+   "drones_uas",
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "application_sectors": [
+   "logistics_transport",
+   "manufacturing",
+   "agriculture_food",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "sustainability_environment",
+   "cybersecurity",
+   "labor_employment",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "education_training_programs",
+   "international_cooperation",
+   "data_governance_requirements",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "China's State Council General Office issues the 14th Five-Year Plan for Modern Logistics Development (2022). It sets goals for 2025 on hubs, cost reduction, green and digital logistics, and promotes smart logistics equipment such as unmanned warehouses, delivery vehicles, logistics robots and drones, alongside standards, credit and safety systems.",
+  "key_provisions_or_claims": [
+   "Build a modern logistics system by 2025 with about 120 national logistics hubs and 100 cold-chain bases",
+   "Promote automated, unmanned and intelligent logistics equipment, unmanned delivery and smart warehousing",
+   "Cut social logistics costs to GDP ratio by about 2 percentage points versus 2020",
+   "Strengthen logistics standards, credit, safety and cybersecurity protection systems",
+   "Research a Modern Logistics Promotion Law and improve talent training"
+  ],
+  "confidence": 0.85
+ }
+}

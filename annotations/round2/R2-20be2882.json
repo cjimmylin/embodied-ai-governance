@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-20be2882",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0377238,
+  "in": 2,
+  "out": 1782,
+  "cache_read": 11758,
+  "cache_create": 4681,
+  "api_ms": 10071,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Council Decision (EU) 2025/800 establishing the position to be taken on behalf of the European Union within the Joint Committee as regards the adoption of a decision adding a newly adopted Union act to Annex 2 to the Windsor Framework",
+  "title_en": "Council Decision (EU) 2025/800 establishing the position to be taken on behalf of the European Union within the Joint Committee as regards the adoption of a decision adding a newly adopted Union act to Annex 2 to the Windsor Framework",
+  "language": "en",
+  "authors_or_issuer": "Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "GB"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Council Decision setting the EU position in the EU-UK Joint Committee to add the EU AI Act (Regulation 2024/1689), as regards product placing-on-market conditions and technical specifications, to Annex 2 of the Windsor Framework for Northern Ireland, excluding Articles 102, 108 and 110. Articles 103-107 and 109 already apply.",
+  "key_provisions_or_claims": [
+   "EU position in Joint Committee is the attached draft decision.",
+   "AI Act provisions on conditions and technical specifications for placing products on the market added to Windsor Framework Annex 2, point 47 'Other'.",
+   "Articles 102, 108 and 110 of the AI Act are excluded.",
+   "Articles 103-107 and 109 already apply under Article 13(3) of the Windsor Framework.",
+   "Decision enters into force on adoption; Joint Committee decision on the day after adoption."
+  ],
+  "confidence": 0.93
+ }
+}

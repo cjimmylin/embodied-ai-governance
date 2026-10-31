@@ -1,0 +1,112 @@
+{
+ "doc_id": "D0694",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:44:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1022827,
+  "in": 4,
+  "out": 3841,
+  "cache_read": 37257,
+  "cache_create": 15811,
+  "api_ms": 24501,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Ministry of Internal Affairs and Communications (MIC); Ministry of Economy, Trade and Industry (METI)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "risk_based_tiering",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "incident_reporting",
+   "international_cooperation",
+   "technical_standards_reference",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "cybersecurity",
+   "industrial_policy_innovation",
+   "education_training"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Ten common guiding principles: human-centric, safety, fairness, privacy, security, transparency, accountability, education/literacy, fair competition, innovation",
+   "Roles divided among AI developers, AI providers and AI business users, each with tailored duties",
+   "Voluntary, risk-based approach proportionate to risk level and probability",
+   "Additional commitments for advanced AI systems drawn from the Hiroshima Process code of conduct",
+   "Living document updated through multistakeholder agile governance"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Hiroshima Process",
+   "OECD AI Principles",
+   "NIST AI RMF",
+   "UNESCO Recommendation on the Ethics of AI"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Japan's MIC/METI voluntary AI Guidelines for Business (v1.1, April 2025) set ten common guiding principles and role-specific duties for AI developers, providers and business users, plus extra provisions for advanced AI from the Hiroshima Process. It takes a risk-based, innovation-friendly, agile-governance approach. It has no robot-specific content.",
+  "title_clean": "AI Guidelines for Business Ver1.1",
+  "title_en": "AI Guidelines for Business Ver1.1",
+  "venue": "Ministry of Internal Affairs and Communications / Ministry of Economy, Trade and Industry"
+ }
+}

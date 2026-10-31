@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-0ab49154",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:58:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0394918,
+  "in": 2,
+  "out": 1910,
+  "cache_read": 11758,
+  "cache_create": 4803,
+  "api_ms": 10209,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Focus of work of the Group of Governmental Experts in 2021 (Working paper submitted by Venezuela on behalf of NAM and Other States Parties to the CCW)",
+  "title_en": "Focus of work of the Group of Governmental Experts in 2021 (Working paper submitted by Venezuela on behalf of NAM and Other States Parties to the CCW)",
+  "language": "en",
+  "authors_or_issuer": "Bolivarian Republic of Venezuela on behalf of the Non-Aligned Movement (NAM) and Other States Parties to the CCW",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN CCW Group of Governmental Experts on LAWS",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "VE"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "ethics_principles",
+   "civil_liability",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "human_oversight_requirement",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Working paper by Venezuela for the Non-Aligned Movement and other CCW States Parties to the 2021 GGE on lethal autonomous weapons systems. It urges a strengthened mandate to negotiate a legally binding instrument with prohibitions and regulations, insisting on meaningful human control, IHL compliance and State responsibility, and rejecting voluntary measures as substitutes.",
+  "key_provisions_or_claims": [
+   "Urgent need for a legally binding instrument on LAWS with prohibitions and regulations under the CCW",
+   "All weapons, including those with autonomous functions, must remain under direct human control and supervision",
+   "Weapons autonomously selecting and engaging targets without human control should be characterized as LAWS",
+   "State responsibility and human accountability for unlawful acts caused by LAWS must be addressed",
+   "Political declarations, codes of conduct, CBMs and weapons reviews cannot substitute for a binding instrument"
+  ],
+  "confidence": 0.93
+ }
+}

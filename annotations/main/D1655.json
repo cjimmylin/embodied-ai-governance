@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1655",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:52:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.043179800000000004,
+  "in": 2,
+  "out": 1744,
+  "cache_read": 11758,
+  "cache_create": 6140,
+  "api_ms": 12885,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care",
+   "education",
+   "domestic_consumer"
+  ],
+  "authors_or_issuer": "Papagni, G.; Koeszegi, S.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.1515/pjbr-2021-0002",
+  "embodied_categories": [
+   "social_companion_robots",
+   "care_assistive_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "trust_acceptance",
+   "human_robot_interaction_social_effects",
+   "ethics_principles"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "AT",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Identifies three issues: approximate nature of explanations, context dependence, and limits of human understanding.",
+   "Proposes designing explainable robots using Weick's sensemaking theory.",
+   "Evaluate explanations by plausibility rather than accuracy.",
+   "Set contextual interaction boundaries and treat users as novices initially.",
+   "Use interactive, multi-modal explanations to build trust."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "social_companion_robots",
+  "primary_topic": "transparency_explainability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2021,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "summary_en": "Conceptual article applying Weick's sensemaking theory to the design of explainable social robots. It argues that explanations are approximate, context-dependent and limited by human understanding, and proposes contextual boundaries, plausibility as the evaluation criterion and interactive multi-modal explanations to foster non-expert users' understanding and trust.",
+  "title_clean": "Understandable and trustworthy explainable robots: A sensemaking perspective",
+  "title_en": "Understandable and trustworthy explainable robots: A sensemaking perspective",
+  "venue": "Paladyn, Journal of Behavioral Robotics"
+ }
+}

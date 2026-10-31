@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-0671ec22",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:08:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0566861,
+  "in": 4,
+  "out": 3633,
+  "cache_read": 26781,
+  "cache_create": 5109,
+  "api_ms": 18037,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "authors_or_issuer": "China (submission to the CCW Group of Governmental Experts on LAWS)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "parliamentary_material",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "civil_liability",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "pub_month": 4,
+  "pub_year": 2018,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "China's April 2018 working paper to the CCW Group of Governmental Experts sets out its preliminary position on lethal autonomous weapons systems: a narrow definition of LAWS by five characteristics, clarification of human-machine interaction, caution against indiscriminate use, IHL applicability, and avoiding prejudgments that impede AI development.",
+  "title_clean": "CCW/GGE.1/2018/WP.7 – Position Paper on Lethal Autonomous Weapons Systems (China)",
+  "title_en": "CCW/GGE.1/2018/WP.7 – Position Paper on Lethal Autonomous Weapons Systems (China)",
+  "venue": "UN CCW Group of Governmental Experts, Geneva",
+  "key_provisions_or_claims": [
+   "LAWS should be understood as fully autonomous lethal systems with five characteristics: lethality, autonomy, non-terminability, indiscriminate effect, evolution",
+   "Supports agreeing a definition starting from technical characteristics",
+   "Concepts such as meaningful human control need further clarification",
+   "LAWS are subject to IHL but distinction, proportionality and accountability are doubtful",
+   "Calls for precaution and avoiding indiscriminate use against civilians, without prejudging outcomes that impede AI development"
+  ]
+ }
+}

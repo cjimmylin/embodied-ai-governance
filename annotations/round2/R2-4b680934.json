@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-4b680934",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.050273200000000004,
+  "in": 4,
+  "out": 3507,
+  "cache_read": 25562,
+  "cache_create": 3828,
+  "api_ms": 23212,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "National Transport Commission (Australia)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "AU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "licensing_registration",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "civil_liability",
+   "certification_conformity_assessment"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Australian laws are designed for human drivers and do not support automated vehicle deployment.",
+   "A new national Automated Vehicle Safety Law (AVSL) and regulator will be established.",
+   "ADSEs are responsible for safe operation of automated driving systems across their lifecycle.",
+   "Ministers agreed in February 2022 to a Commonwealth law approach (option 3), with highest net benefits.",
+   "Without new safety regulation, in-service safety risks will not be mitigated by the market."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2022,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Impact analysis database entry summarising the NTC's Regulation Impact Statement on an in-service safety regime for automated vehicles in Australia. Ministers agreed in February 2022 to a Commonwealth Automated Vehicle Safety Law and regulator, holding automated driving system entities responsible for safety across the lifecycle.",
+  "title_clean": "The regulatory framework for automated vehicles in Australia",
+  "title_en": "The regulatory framework for automated vehicles in Australia",
+  "venue": "Impact Analysis Database (Australian Government)"
+ }
+}

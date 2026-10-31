@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0072",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:08:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0341078,
+  "in": 2,
+  "out": 1796,
+  "cache_read": 11758,
+  "cache_create": 3742,
+  "api_ms": 9534,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Câmara dos Deputados; Dep. Jandira Feghali (PCdoB/RJ)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "BR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_proposal_or_draft",
+  "doc_type": "bill_or_draft_law",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "prohibitions_bans"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "privacy_data_protection",
+   "human_dignity_autonomy",
+   "fairness_bias_discrimination"
+  ],
+  "instrument_status": "draft_or_bill_under_consideration",
+  "is_governance_document": true,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Adds a penalty increase of one half to psychological violence against women (Penal Code art. 147-B) when committed using AI or other technology.",
+   "Amends art. 218-C to cover distribution of sexual or rape imagery made or modified via artificial intelligence.",
+   "Justification cites deepfake nudes of schoolgirls in Rio de Janeiro and of an actress.",
+   "Law takes effect on publication."
+  ],
+  "language": "pt",
+  "named_instruments_referenced": [
+   "Brazil Penal Code (Decreto-Lei 2.848/1940)"
+  ],
+  "primary_embodied_category": "none",
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 2,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Brazilian bill PL 370/2024 (Dep. Jandira Feghali) amends the Penal Code to increase penalties for psychological violence against women and for distributing sexual imagery when committed using AI, such as deepfakes. It responds to AI-generated fake nude images of victims.",
+  "title_clean": "Projeto de Lei nº 370/2024 - Inclui majorante no crime de violência psicológica contra a mulher cometido mediante uso de inteligência artificial",
+  "title_en": "Bill No. 370/2024 - Adds an aggravating factor to the crime of psychological violence against women committed using artificial intelligence",
+  "venue": "Câmara dos Deputados (Brazil)",
+  "page_quality": "substantive_document",
+  "methodology": "not_applicable"
+ }
+}

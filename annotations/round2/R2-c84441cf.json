@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-c84441cf",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:48:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0515318,
+  "in": 2,
+  "out": 1794,
+  "cache_read": 11758,
+  "cache_create": 8103,
+  "api_ms": 10305,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Decision (EU) 2015/547 of 1 April 2015 on the safety requirements to be met by European standards for alcohol-powered flueless fireplaces pursuant to Directive 2001/95/EC on general product safety",
+  "title_en": "Commission Decision (EU) 2015/547 of 1 April 2015 on the safety requirements to be met by European standards for alcohol-powered flueless fireplaces pursuant to Directive 2001/95/EC on general product safety",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2015,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 90/14",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "consumer_protection",
+   "standards_interoperability",
+   "children_vulnerable_groups",
+   "transparency_explainability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission Decision under the General Product Safety Directive setting safety requirements that European standards for domestic alcohol-powered flueless fireplaces must meet, covering fire, explosion, surface temperatures, stability, emissions, and warnings. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "European standards for ethanol flueless fireplaces must meet the Annex safety requirements",
+   "Maximum thermal output 4.5 kW; surface temperature rise limits by material",
+   "Must prevent re-ignition while hot, refuelling while lit, fuel leakage and overturning",
+   "Emissions (CO, CO2, NOx, PAHs) must follow WHO guidelines",
+   "Mandatory safety warnings, user manual content and manufacturer/importer identification"
+  ],
+  "confidence": 0.97
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-b480ed52",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:56:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1253138,
+  "in": 2,
+  "out": 1945,
+  "cache_read": 11758,
+  "cache_create": 26171,
+  "api_ms": 9956,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Report of the 2018 session of the Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems",
+  "title_en": "Report of the 2018 session of the Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems",
+  "language": "en",
+  "authors_or_issuer": "Group of Governmental Experts of the High Contracting Parties to the CCW (UN Geneva)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2018,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN CCW document CCW/GGE.1/2018/3",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "civil_liability",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "ethics_principles",
+   "transparency_explainability"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "prohibitions_bans",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE",
+   "Additional Protocol I to the Geneva Conventions"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Report of the 2018 CCW Group of Governmental Experts on lethal autonomous weapons systems. It records emerging commonalities, including the full applicability of IHL and retained human responsibility, and discusses characterization, human-machine touchpoints, military applications and policy options (binding instrument, political declaration, existing law). It recommends continuing the GGE in 2019.",
+  "key_provisions_or_claims": [
+   "IHL continues to apply fully to all weapons systems, including LAWS.",
+   "Human responsibility for use-of-force decisions must be retained; accountability cannot be transferred to machines.",
+   "Risk assessment, cybersecurity and anti-proliferation measures should be part of the weapons design and deployment cycle.",
+   "Options discussed: legally-binding instrument, political declaration, or better implementation of existing IHL and Article 36 reviews.",
+   "Recommends the GGE meet for ten days in 2019."
+  ],
+  "confidence": 0.93
+ }
+}

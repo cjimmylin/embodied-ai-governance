@@ -1,0 +1,96 @@
+{
+ "doc_id": "D1587",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07195680000000002,
+  "in": 4,
+  "out": 3555,
+  "cache_read": 31033,
+  "cache_create": 8808,
+  "api_ms": 20586,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robots and humans: The role of fiscal and monetary policies in an endogenous growth model",
+  "title_en": "Robots and humans: The role of fiscal and monetary policies in an endogenous growth model",
+  "language": "en",
+  "authors_or_issuer": "Afonso, Ó.; Sochirca, E.; Neves, P.C.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "inferred_from_content",
+  "doi": "10.1016/j.mathsocsci.2024.11.005",
+  "venue": "Mathematical Social Sciences (CEF.UP working paper 2022-01)",
+  "jurisdiction_country": "PT",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "taxation_economic_policy",
+   "fairness_bias_discrimination",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "taxation_economic_policy",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Economic theory paper building a dynamic general equilibrium growth model where robots substitute unskilled labor. Government uses robot, labor and capital taxes to build social capital, while monetary policy affects wages. Robotization raises skill premium and growth; fiscal and monetary policies mitigate inequality, with an efficiency-equity trade-off.",
+  "key_provisions_or_claims": [
+   "Robotization lowers the unskilled-to-skilled labor ratio, raising the skill premium and wage inequality.",
+   "Robotization stimulates long-run growth and improves welfare.",
+   "Robot tax revenues fund social capital that raises skilled-labor productivity.",
+   "Fiscal and monetary policies can amplify or mitigate robotization effects, creating an efficiency-equity trade-off.",
+   "Long-run growth is higher with than without these policies."
+  ],
+  "confidence": 0.85
+ }
+}

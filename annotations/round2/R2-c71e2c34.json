@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-c71e2c34",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:56:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.10944430000000001,
+  "in": 4,
+  "out": 4081,
+  "cache_read": 38408,
+  "cache_create": 16979,
+  "api_ms": 21014,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "authors_or_issuer": "Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems, CCW (UNODA)",
+  "confidence": 0.93,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "human_oversight_requirement",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "civil_liability",
+   "risk_management_risk_tiers",
+   "cybersecurity",
+   "ethics_principles",
+   "transparency_explainability",
+   "fairness_bias_discrimination"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "language": "en",
+  "binding_nature": "voluntary_soft_law",
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "pub_month": 9,
+  "pub_year": 2019,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "summary_en": "Report of the 2019 CCW Group of Governmental Experts on lethal autonomous weapons systems. It records conclusions on IHL compliance, human responsibility and human-machine interaction, risk mitigation and dual use, restates guiding principles (Annex IV), and recommends continued GGE work in 2020–2021 without agreeing a binding instrument.",
+  "key_provisions_or_claims": [
+   "IHL applies fully to all weapons systems including LAWS; obligations rest on humans and States, not machines.",
+   "Human responsibility and accountability must be retained across the weapon life cycle within a responsible chain of command.",
+   "New guiding principle on human-machine interaction ensuring IHL compliance.",
+   "Risk mitigation: testing, legal weapon reviews, training, rules of engagement, cybersecurity; dual-use R&D should not be restricted.",
+   "Recommends endorsing the guiding principles and continuing GGE work in 2020-2021; options discussed include a binding instrument or political declaration."
+  ],
+  "title_clean": "Report of the 2019 session of the Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems",
+  "title_en": "Report of the 2019 session of the Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems",
+  "venue": "UN Convention on Certain Conventional Weapons (CCW/GGE.1/2019/3)"
+ }
+}

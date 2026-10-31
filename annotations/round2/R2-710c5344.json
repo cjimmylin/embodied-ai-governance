@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-710c5344",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:45:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07997380000000001,
+  "in": 2,
+  "out": 1983,
+  "cache_read": 11758,
+  "cache_create": 14741,
+  "api_ms": 9968,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2026/2015 of 4 September 2026 amending and repealing Commission Implementing Decision (EU) 2023/1586 as regards harmonised standards for machinery drafted in support of Directive 2006/42/EC",
+  "title_en": "Commission Implementing Decision (EU) 2026/2015 of 4 September 2026 amending and repealing Commission Implementing Decision (EU) 2023/1586 as regards harmonised standards for machinery drafted in support of Directive 2006/42/EC",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "mobile_industrial_logistics",
+   "agricultural_robots"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing",
+   "agriculture_food",
+   "logistics_transport",
+   "construction",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Regulation",
+   "ISO 10218"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Commission Implementing Decision amending the list of harmonised machinery standards conferring presumption of conformity under Directive 2006/42/EC, adding many standards including EN ISO 10218-1/-2:2025 for industrial robots and EN ISO 18497 for autonomous agricultural machinery, and repealing Decision 2023/1586 from 20 January 2027 when the Machinery Regulation applies.",
+  "key_provisions_or_claims": [
+   "Adds references of new and revised harmonised machinery standards to Annex I of Decision (EU) 2023/1586",
+   "Includes EN ISO 10218-1:2025 and -2:2025 on industrial robot safety and robot cells",
+   "Includes EN ISO 18497 parts 1-4 on safety of semi-autonomous and autonomous agricultural machinery",
+   "Decision 2023/1586 repealed with effect from 20 January 2027 as Regulation (EU) 2023/1230 replaces the Machinery Directive",
+   "Enters into force on publication, conferring presumption of conformity immediately"
+  ],
+  "confidence": 0.9
+ }
+}

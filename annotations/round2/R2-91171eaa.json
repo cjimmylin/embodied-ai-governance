@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-91171eaa",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:35:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0409018,
+  "in": 2,
+  "out": 1815,
+  "cache_read": 11758,
+  "cache_create": 5393,
+  "api_ms": 9485,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国家发展改革委 民政部 国家卫生健康委关于进一步完善价格形成机制 推动普惠养老服务提质扩面的指导意见",
+  "title_en": "Guiding Opinions of the NDRC, Ministry of Civil Affairs and National Health Commission on Further Improving Price Formation Mechanisms and Promoting Quality Improvement and Expansion of Inclusive Elderly Care Services",
+  "language": "zh",
+  "authors_or_issuer": "国家发展改革委; 民政部; 国家卫生健康委",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "transparency_explainability",
+   "taxation_economic_policy",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "funding_or_incentives",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese national guideline from NDRC, Ministry of Civil Affairs and National Health Commission on pricing for elderly care services. It classifies institutions by type, sets government-guided or market pricing, and requires cost surveys, monitoring, fee-list disclosure and support for inclusive services. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Classifies elderly care institutions as safety-net, inclusive-support or fully market-based, each with its own pricing regime.",
+   "Government-guided prices are set from cost surveys on a 'cost compensation, reasonable profit' principle.",
+   "Requires price monitoring and periodic policy evaluation at least every three years.",
+   "Institutions must publicly post fee catalogues and may not charge fees outside them.",
+   "Directs investment, bond and lottery fund support to inclusive elderly care and to nursing staff training."
+  ],
+  "confidence": 0.93
+ }
+}

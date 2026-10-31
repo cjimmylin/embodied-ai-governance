@@ -1,0 +1,101 @@
+{
+ "doc_id": "D0856",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:29:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0473818,
+  "in": 2,
+  "out": 1815,
+  "cache_read": 11758,
+  "cache_create": 7013,
+  "api_ms": 15877,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Toward a Fourth Law of Robotics: Preserving Attribution, Responsibility, and Explainability in an Algorithmic Society",
+  "title_en": "Toward a Fourth Law of Robotics: Preserving Attribution, Responsibility, and Explainability in an Algorithmic Society",
+  "language": "en",
+  "authors_or_issuer": "Pasquale, F.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2017,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ohio State Law Journal",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "transparency_explainability",
+   "ethics_principles",
+   "consumer_protection",
+   "fairness_bias_discrimination",
+   "human_oversight_control"
+  ],
+  "primary_topic": "transparency_explainability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Response essay to Jack Balkin's three laws of robotics for an Algorithmic Society. Pasquale frames them as regulation of regulation, broadens methods for identifying algorithmic nuisance beyond cost-benefit analysis, and proposes a fourth law requiring attribution of robotic and algorithmic actions to responsible humans or organizations, preserving accountability and explainability.",
+  "key_provisions_or_claims": [
+   "Proposes a fourth law of robotics: robots and AI systems must indicate the identity of their creator, controller, or owner (attribution).",
+   "Supports Balkin's information fiduciary and public duty laws for algorithm users.",
+   "Software and devices replacing professionals should face equivalent fiduciary standards.",
+   "Cost-benefit analysis is manipulable; other methods are needed to identify algorithmic nuisance.",
+   "Warns exculpatory clauses in legal software terms extinguish accountability litigation."
+  ],
+  "confidence": 0.8
+ }
+}

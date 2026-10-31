@@ -1,0 +1,114 @@
+{
+ "doc_id": "D1031",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:14:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0523898,
+  "in": 2,
+  "out": 1889,
+  "cache_read": 11758,
+  "cache_create": 8080,
+  "api_ms": 12190,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector",
+   "finance",
+   "logistics_transport",
+   "healthcare"
+  ],
+  "authors_or_issuer": "Madiega, T.; Van De Pol, A.L. (European Parliamentary Research Service)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU",
+   "JP",
+   "NO",
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "drones_uas"
+  ],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "international_cooperation",
+   "funding_or_incentives",
+   "data_governance_requirements",
+   "liability_regime"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "civil_liability",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "consumer_protection"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "AI Act proposal Arts. 53-54 introduce voluntary national AI regulatory sandboxes supervised by competent authorities, coordinated via a European AI board.",
+   "Sandbox participants remain liable for harm to third parties; critics say this discourages participation.",
+   "Further processing of personal data in sandboxes for public-interest AI raises GDPR purpose-limitation concerns.",
+   "Risks include regulatory arbitrage, forum-shopping and fragmentation of the single market.",
+   "Priority sandbox access for SMEs and start-ups (Art. 55); Parliament's IMCO/LIBE draft report asks for more transparency."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "European Parliamentary Research Service briefing on AI regulatory sandboxes in the Commission's 2021 AI Act proposal (Arts. 53-55). It outlines benefits and risks of sandboxes, and stakeholder concerns on liability, fragmentation and GDPR interplay, plus Parliament's positions.",
+  "title_clean": "Artificial intelligence act and regulatory sandboxes",
+  "title_en": "Artificial intelligence act and regulatory sandboxes",
+  "venue": "European Parliament Think Tank (EPRS)"
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-d864adaa",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:43:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07268580000000001,
+  "in": 2,
+  "out": 1855,
+  "cache_read": 11758,
+  "cache_create": 13239,
+  "api_ms": 10144,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "authors_or_issuer": "한국산업안전보건공단 (KOSHA)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "KR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "transparency_disclosure_labelling"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "education_training",
+   "certification_conformity_assessment",
+   "human_robot_interaction_social_effects"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "language": "ko",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "industrial_manipulators",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 11,
+  "pub_year": 2017,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "KOSHA technical guideline (M-61-2017) under Korea's Occupational Safety and Health Standards Rules Art. 222, setting safety requirements for selecting, installing, using, inspecting and training workers on industrial robots, including emergency stops, guarding, teaching-mode safeguards, inspections and record keeping.",
+  "title_clean": "산업용 로봇의 사용 등에 관한 안전 기술지침 (KOSHA GUIDE M-61-2017)",
+  "title_en": "Technical Safety Guideline on the Use of Industrial Robots (KOSHA GUIDE M-61-2017)",
+  "venue": "Korea Occupational Safety and Health Agency",
+  "key_provisions_or_claims": [
+   "Robots must have emergency stop devices and automatic stop on power, control or equipment faults, with manual restart required.",
+   "Teaching mode must automatically reduce manipulator speed and force; enabling switches stop robot when released.",
+   "Employers must install guards, interlocked fences, light curtains, ropes or watchers to prevent contact within the operating range.",
+   "Work inside the operating range requires written work rules, lockout signage, and pre-work checks.",
+   "Daily and periodic inspections, records kept 3+ years, and special safety training for robot workers."
+  ]
+ }
+}

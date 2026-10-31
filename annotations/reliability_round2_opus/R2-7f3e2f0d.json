@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-7f3e2f0d",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:11:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0531556,
+  "in": 2,
+  "out": 1767,
+  "cache_read": 11758,
+  "cache_create": 1932,
+  "api_ms": 11920,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Cyber-physical infrastructure: an independent vision from the UK's Robotics Growth Partnership",
+  "title_en": "Cyber-physical infrastructure: an independent vision from the UK's Robotics Growth Partnership",
+  "language": "en",
+  "authors_or_issuer": "Department for Science, Innovation and Technology; Department for Business, Energy & Industrial Strategy; Robotics Growth Partnership",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "agriculture_food",
+   "manufacturing",
+   "healthcare",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "GOV.UK landing page for the Robotics Growth Partnership's independent vision report on a UK cyber-physical infrastructure (testbeds, living labs, digital twins, simulation) to speed up innovation in smart robotics across sectors. The page also links to a ministerial response. Its framing is innovation-promoting industrial policy, not regulation.",
+  "key_provisions_or_claims": [
+   "Proposes a connected ecosystem of virtual and physical infrastructure to make robotics innovation faster, cheaper and lower-risk",
+   "Includes testbeds, living labs, digital twins and simulation/emulation tools",
+   "Targets agriculture, manufacturing, healthcare and logistics",
+   "The Robotics Growth Partnership is an independent advisory body set up by government in 2019",
+   "Minister Freeman welcomed the report and set out next steps"
+  ],
+  "confidence": 0.8
+ }
+}

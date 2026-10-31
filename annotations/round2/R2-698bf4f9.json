@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-698bf4f9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:01:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029881800000000003,
+  "in": 2,
+  "out": 1743,
+  "cache_read": 11758,
+  "cache_create": 2818,
+  "api_ms": 8645,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Remote driving: Project status and advice to Government",
+  "title_en": "Remote driving: Project status and advice to Government",
+  "language": "en",
+  "authors_or_issuer": "Law Commission (England and Wales)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2023,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Law Commission website",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "cybersecurity",
+   "human_oversight_control",
+   "consumer_protection",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "liability_regime",
+   "insurance_requirement",
+   "prohibitions_bans",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Law Commission project page summarising its February 2023 advice to the UK Government on remote driving beyond line-of-sight on public roads. It finds the current law a grey area and recommends a statutory licensing scheme, a ban on remote driving from abroad, no-fault compensation, and short-term amendments to construction and use regulations.",
+  "key_provisions_or_claims": [
+   "Remote driving is legally a grey area: neither prohibited nor expressly allowed.",
+   "Propose a statutory licensing scheme, including an Entity for Remote Driving Operation (ERDO) licence.",
+   "Ban remote driving from abroad until international agreements are in place.",
+   "No-fault compensation for victims of collisions involving remote drivers.",
+   "Short term: amend Construction and Use Regulations 1986; require a safety driver unless a Vehicle Special Order applies."
+  ],
+  "confidence": 0.85
+ }
+}

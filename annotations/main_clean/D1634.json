@@ -1,0 +1,93 @@
+{
+ "doc_id": "D1634",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:06:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0485516,
+  "in": 4,
+  "out": 3416,
+  "cache_read": 25661,
+  "cache_create": 3440,
+  "api_ms": 20187,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Principle of Double Effect Applied to Ethical Dilemmas of Social Robots",
+  "title_en": "The Principle of Double Effect Applied to Ethical Dilemmas of Social Robots",
+  "language": "en",
+  "authors_or_issuer": "IOS Press (author not stated in excerpt)",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2016,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.3233/978-1-61499-708-5-268",
+  "venue": "Frontiers in Artificial Intelligence and Applications, Vol. 290: What Social Robots Can and Should Do (IOS Press)",
+  "jurisdiction_country": "XX",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Abstract of a conference paper applying the principle of double effect to ethical dilemmas of social robots, such as those studied by Winfield and colleagues. It proposes a formal semantics of actions, causes, intentions and utilities, so that permissibility reduces to checking whether a formula is true.",
+  "key_provisions_or_claims": [
+   "Social robots need ethical principles beyond consequentialism.",
+   "The principle of double effect sets conditions for acceptable actions with both good and bad consequences.",
+   "Proposes a formal semantics based on Pearl and Horty, with actions, causes, intentions and utilities.",
+   "Permissibility under double effect reduces to deciding whether a formula is true."
+  ],
+  "confidence": 0.7
+ }
+}

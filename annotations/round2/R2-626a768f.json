@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-626a768f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0538477,
+  "in": 4,
+  "out": 3567,
+  "cache_read": 26182,
+  "cache_create": 4621,
+  "api_ms": 21035,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 18497-1:2024 Agricultural machinery and tractors — Safety of partially automated, semi-autonomous and autonomous machinery — Part 1: Machine design principles and vocabulary",
+  "title_en": "ISO 18497-1:2024 Agricultural machinery and tractors — Safety of partially automated, semi-autonomous and autonomous machinery — Part 1: Machine design principles and vocabulary",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 23/SC 19",
+  "issuer_type": "standards_body",
+  "pub_year": 2024,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "agricultural_robots"
+  ],
+  "primary_embodied_category": "agricultural_robots",
+  "application_sectors": [
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "ISO 18497:2018"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "ISO catalogue page for ISO 18497-1:2024, an international standard setting safety design principles and vocabulary for partially automated, semi-autonomous and autonomous agricultural machinery and tractors, including manufacturer information on residual risks. Excludes forestry and public-road operation.",
+  "key_provisions_or_claims": [
+   "Specifies design principles for agricultural machinery with partially automated, semi-autonomous and autonomous functions",
+   "Addresses significant hazards in intended use and foreseeable misuse",
+   "Guides manufacturer information on safe working practices and residual risks",
+   "Excludes forestry and public-road operations",
+   "Applies only to machinery manufactured after publication; supersedes ISO 18497:2018"
+  ],
+  "confidence": 0.9
+ }
+}

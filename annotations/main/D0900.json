@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0900",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:30:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0305958,
+  "in": 2,
+  "out": 1788,
+  "cache_read": 11758,
+  "cache_create": 2884,
+  "api_ms": 8478,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robots Should Be Slaves: Perceptions of Bulgarians Towards Potential Robot Rights and Obligations",
+  "title_en": "Robots Should Be Slaves: Perceptions of Bulgarians Towards Potential Robot Rights and Obligations",
+  "language": "en",
+  "authors_or_issuer": "Ivanov, S.; Gunkel, D.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 8,
+  "date_basis": "inferred_from_content",
+  "doi": "10.3233/FAIA241533",
+  "venue": "Frontiers in Artificial Intelligence and Applications, Vol. 397 (Robophilosophy 2024), IOS Press",
+  "jurisdiction_country": "BG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BG"
+  ],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "human_robot_interaction_social_effects",
+   "trust_acceptance",
+   "ethics_principles"
+  ],
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Conference paper empirically testing Gunkel's robot rights matrix with a survey of 215 Bulgarians across 26 rights and obligations. Respondents viewed robots as incapable of holding rights and as \"slaves\" with obligations to obey regulations and respect humans; policy and theoretical implications are discussed.",
+  "key_provisions_or_claims": [
+   "Survey of 215 Bulgarian respondents tests Gunkel's robot rights matrix on 26 rights and obligations",
+   "Respondents did not think robots/AI can have or should be given rights",
+   "Robots seen as slaves without rights to reproduce, own property, strike, salary, vote, but with obligations to obey regulations and respect humans",
+   "Respondents did not fully distinguish 'can have' from 'should have'"
+  ],
+  "confidence": 0.85
+ }
+}

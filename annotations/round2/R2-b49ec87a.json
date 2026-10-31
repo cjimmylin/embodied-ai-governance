@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-b49ec87a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:46:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1536838,
+  "in": 2,
+  "out": 1928,
+  "cache_read": 11758,
+  "cache_create": 33306,
+  "api_ms": 10272,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Regulation on specific rules relating to the entry into Northern Ireland from other parts of the United Kingdom of certain consignments of retail goods, plants for planting, seed potatoes, machinery and certain vehicles operated for agricultural or forestry purposes, as well as non-commercial movements of certain pet animals into Northern Ireland",
+  "title_en": "Proposal for a Regulation on specific rules relating to the entry into Northern Ireland from other parts of the United Kingdom of certain consignments of retail goods, plants for planting, seed potatoes, machinery and certain vehicles operated for agricultural or forestry purposes, as well as non-commercial movements of certain pet animals into Northern Ireland",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2023) 124 final; 2023/0062(COD)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "GB"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "agriculture_food",
+   "retail_hospitality",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "prohibitions_bans",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission proposal for a Regulation setting simplified sanitary and phytosanitary rules for goods, plants, seed potatoes, used agricultural machinery and pets entering Northern Ireland from Great Britain under the Windsor arrangements, with UK guarantees, marking, monitoring and suspension safeguards. Not about AI or robotics.",
+  "key_provisions_or_claims": [
+   "Special reduced official control rates and general certificate for retail goods consumed in Northern Ireland, conditional on UK written guarantees.",
+   "Marking requirements phased in from October 2023 to July 2025.",
+   "Plant health labels and registered professional operators for plants, seed potatoes, used agricultural machinery and vehicles.",
+   "Goods and pets must not be moved from Northern Ireland to EU Member States.",
+   "Commission can suspend rules via delegated acts for systemic UK non-compliance."
+  ],
+  "confidence": 0.95
+ }
+}

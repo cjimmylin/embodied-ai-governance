@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-52d0de7f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1653678,
+  "in": 2,
+  "out": 1856,
+  "cache_read": 11758,
+  "cache_create": 36407,
+  "api_ms": 11323,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Staff Working Document: Report on the Review of Regulation (EU) 2022/1925 (Digital Markets Act), in accordance with Article 53",
+  "title_en": "Commission Staff Working Document: Report on the Review of Regulation (EU) 2022/1925 (Digital Markets Act), in accordance with Article 53",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Commission SWD(2026) 123 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "US",
+   "FR"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "privacy_data_protection",
+   "standards_interoperability",
+   "industrial_policy_innovation",
+   "fairness_bias_discrimination",
+   "transparency_explainability"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling",
+   "international_cooperation",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission staff working document presenting the first three-year review of the Digital Markets Act. It assesses gatekeeper obligations, enforcement, and scope, including cloud and AI services, and consultation feedback. It finds it premature to amend most obligations and favours continued enforcement and monitoring. No robotics content.",
+  "key_provisions_or_claims": [
+   "DMA obligations (Arts 5-7) assessed after two years of enforcement; most changes judged premature.",
+   "Existing DMA obligations such as anti-self-preferencing apply when gatekeepers deploy AI within designated services.",
+   "Cloud computing market investigation opened November 2025; specification proceedings on Google's AI interoperability.",
+   "Joint Commission-EDPB guidelines on DMA-GDPR interplay planned for 2026.",
+   "Article 7 interoperability extension to social networks assessed, with limited demand."
+  ],
+  "confidence": 0.9
+ }
+}

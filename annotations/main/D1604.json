@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1604",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.043609800000000004,
+  "in": 2,
+  "out": 1799,
+  "cache_read": 11758,
+  "cache_create": 6110,
+  "api_ms": 9065,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "authors_or_issuer": "Pareto, J.; Coeckelbergh, M.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.1007/s12369-024-01161-x",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_dignity_autonomy",
+   "human_robot_interaction_social_effects",
+   "fairness_bias_discrimination"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "not_applicable",
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "human_dignity_autonomy",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2024,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Philosophical paper arguing that ethics of social assistive robots in healthcare is too individual-centered and dyadic. Using freedom as non-domination and structural domination, it broadens attention to the political-structural dimension of technology and justice, and lays conceptual groundwork for a more comprehensive ethical approach.",
+  "key_provisions_or_claims": [
+   "Current SAR ethics is individual-centered and limited to dyadic human–robot interaction.",
+   "Freedom should be understood also in its political-structural dimension, including non-domination.",
+   "Technology has a political dimension shaping sociopolitical structures.",
+   "Questions of who decides about SARs and who benefits, given big corporate developers, must be asked.",
+   "Ethics of SAR should be reframed in terms of justice across micro, meso and macro levels."
+  ],
+  "methodology": "conceptual_or_normative",
+  "title_clean": "Social Assistive Robotics: An Ethical and Political Inquiry Through the Lens of Freedom",
+  "title_en": "Social Assistive Robotics: An Ethical and Political Inquiry Through the Lens of Freedom",
+  "venue": "International Journal of Social Robotics"
+ }
+}

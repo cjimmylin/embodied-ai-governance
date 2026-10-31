@@ -1,0 +1,103 @@
+{
+ "doc_id": "D1114",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:02:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0432478,
+  "in": 2,
+  "out": 1842,
+  "cache_read": 11758,
+  "cache_create": 5912,
+  "api_ms": 10264,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Nepelski, D.; Sobolewski, M. (European Commission Joint Research Centre, AI Watch)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "PL",
+   "EU",
+   "GB",
+   "DE",
+   "FR",
+   "ES",
+   "SE",
+   "RO",
+   "SK",
+   "SI"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": "10.2760/506947",
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "taxation_economic_policy"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "AI investments in Europe in 2018 estimated at EUR 7.0-8.4 billion, 35-42% of the annual target in the Coordinated Plan.",
+   "Spending equals EUR 16.3 per capita or 0.04% of EU GDP.",
+   "AI treated as a general purpose technology, so complementary assets (skills, data, organisational capital) count as investment.",
+   "Investments grouped into three targets: talent and skills, lab to market, data and infrastructure.",
+   "Public sector accounts for roughly 30% of AI-related capital formation and labour compensation."
+  ],
+  "language": "en",
+  "methodology": "empirical_quantitative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2020,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "JRC technical report under AI Watch presenting a methodology to estimate AI investments in Europe, treating AI as a general purpose technology. It estimates 2018 EU AI investment at EUR 7.0-8.4 billion, below the Coordinated Plan target, with country breakdowns including Poland. It is an economic measurement study with no robotics content.",
+  "title_clean": "Estimating investments in General Purpose Technologies: The case of AI Investments in Europe",
+  "title_en": "Estimating investments in General Purpose Technologies: The case of AI Investments in Europe",
+  "venue": "Publications Office of the European Union (JRC Technical Report EUR 30072 EN; AI Watch)"
+ }
+}

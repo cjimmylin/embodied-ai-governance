@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0870",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:30:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045899800000000004,
+  "in": 2,
+  "out": 1780,
+  "cache_read": 11758,
+  "cache_create": 6730,
+  "api_ms": 8882,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Integrating Ethics and Engineering in Practice: Outcomes from the 2025 AI, Robotics, & Ethics Summer Camp",
+  "title_en": "Integrating Ethics and Engineering in Practice: Outcomes from the 2025 AI, Robotics, & Ethics Summer Camp",
+  "language": "en",
+  "authors_or_issuer": "Slaton, W.; Zhang, L.; Butler, J.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "2025 ASEE Midwest Section Conference",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "educational_robots",
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "educational_robots",
+  "application_sectors": [
+   "education"
+  ],
+  "governance_topics": [
+   "education_training",
+   "ethics_principles",
+   "research_ethics"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Conference paper reporting the second AI, Robotics & Ethics Summer Camp at the University of Central Arkansas, where high schoolers built autonomous BearCar robots and studied ethics. Pre/post tests with 20 campers show statistically significant gains in engineering and ethics knowledge. It is an educational study, not a governance document.",
+  "key_provisions_or_claims": [
+   "Residential camp combined building autonomous BearCar robots with ethics theory, Ethics Bowl cases and films.",
+   "80% of 20 campers improved overall on pre/post tests.",
+   "Ethics gains significant (Wilcoxon p=0.0033); engineering gains significant (paired t-test p=0.00047).",
+   "Self-driving ethical dilemmas were embedded in the training track through penalized human and animal figurines.",
+   "Hardware and software upgrades, including a watchdog timer, improved safety and ease of assembly."
+  ],
+  "confidence": 0.9
+ }
+}

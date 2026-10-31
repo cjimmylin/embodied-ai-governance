@@ -1,0 +1,105 @@
+{
+ "doc_id": "D0923",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:14:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.146476,
+  "in": 4,
+  "out": 3963,
+  "cache_read": 47695,
+  "cache_create": 26320,
+  "api_ms": 21909,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "National Institute of Standards and Technology (NIST), Information Technology Laboratory",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": "10.6028/NIST.SP.800-218A",
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "data_governance_requirements",
+   "testing_sandboxes"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Adds AI-model-specific recommendations, considerations and notes to SSDF 1.1 practices and tasks as a Community Profile.",
+   "Protect training data, model weights and configuration parameters from unauthorized access and tampering (least privilege, hashes, signatures).",
+   "Verify provenance and integrity of training data and acquired models; scan and test models for malware, backdoors and vulnerabilities.",
+   "Include AI-specific threats such as data poisoning and prompt injection in risk modeling, with red teaming and adversarial testing.",
+   "Deployment and operation of AI systems and broader data governance are out of scope; use is risk-based, not a checklist."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "US Executive Order 14110",
+   "NIST AI RMF",
+   "Secure Software Development Framework (SSDF) SP 800-218",
+   "NIST Cybersecurity Framework 2.0",
+   "OWASP Top 10 for LLM Applications"
+  ],
+  "primary_embodied_category": "none",
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "pub_month": 7,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "NIST SP 800-218A is an SSDF Community Profile, issued under Executive Order 14110, that augments SSDF 1.1 with AI-model-specific secure development recommendations for generative AI and dual-use foundation models. It guides model producers, system producers and acquirers on protecting data, weights and pipelines using a voluntary, risk-based approach.",
+  "title_clean": "Secure Software Development Practices for Generative AI and Dual-Use Foundation Models: An SSDF Community Profile",
+  "title_en": "Secure Software Development Practices for Generative AI and Dual-Use Foundation Models: An SSDF Community Profile",
+  "venue": "NIST Special Publication 800-218A",
+  "methodology": "not_applicable",
+  "page_quality": "substantive_document"
+ }
+}

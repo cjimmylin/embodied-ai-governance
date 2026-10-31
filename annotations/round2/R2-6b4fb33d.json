@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-6b4fb33d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:16:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.031245800000000004,
+  "in": 2,
+  "out": 1769,
+  "cache_read": 11758,
+  "cache_create": 3094,
+  "api_ms": 10063,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Autonomous Vehicles Regulations (California DMV)",
+  "title_en": "Autonomous Vehicles Regulations (California DMV)",
+  "language": "en",
+  "authors_or_issuer": "California Department of Motor Vehicles (DMV)",
+  "issuer_type": "subnational_government",
+  "pub_year": 2026,
+  "pub_month": 1,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "California DMV website",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "civil_liability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "incident_reporting",
+   "insurance_requirement"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "California DMV web page indexing its autonomous vehicle testing and deployment regulations (Articles 3.7 and 3.8), with links to rulemaking documents, drafts, forms and history from 2015 to January 2026, plus the 2019 extension to light-duty autonomous delivery trucks under 10,001 pounds.",
+  "key_provisions_or_claims": [
+   "DMV regulates AV testing and deployment on California roads to encourage innovation and road safety",
+   "Rulemaking for Articles 3.7 and 3.8 progressed through modifications, latest released January 21, 2026",
+   "Dec 2019 rules allow testing and deployment of autonomous light-duty trucks under 10,001 lbs with permit",
+   "Autonomous vehicles over 10,001 pounds remain excluded",
+   "Permit applications, collision reports and disengagement reports are required forms"
+  ],
+  "confidence": 0.85
+ }
+}

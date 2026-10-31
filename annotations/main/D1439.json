@@ -1,0 +1,102 @@
+{
+ "doc_id": "D1439",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:45:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0441298,
+  "in": 2,
+  "out": 1731,
+  "cache_read": 11758,
+  "cache_create": 6410,
+  "api_ms": 8829,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "De Bello Robotico. An Ethical Assessment of Military Robotics",
+  "title_en": "De Bello Robotico. An Ethical Assessment of Military Robotics",
+  "language": "en",
+  "authors_or_issuer": "Campa, R.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2019,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.2478/sh-2019-0002",
+  "venue": "Studia Humana",
+  "jurisdiction_country": "PL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US",
+   "IL"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas",
+   "autonomous_maritime_or_rail"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "ethics_principles",
+   "human_oversight_control",
+   "safety_physical_harm",
+   "criminal_liability"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Journal article cataloguing robotic weapons and unmanned systems used by the US military and allies, compiling the ethical problems they raise, proposing solutions drawing on roboethics, and arguing a war between humans and automata is unlikely in the 21st century.",
+  "key_provisions_or_claims": [
+   "Catalogues ethical problems of air, land and sea unmanned military systems.",
+   "Human-in-the-loop control is paradoxical; operator limits, jamming and reaction speed force exceptions granting robots autonomy.",
+   "Offers roboethics-based solutions to ethical problems of military robotics.",
+   "Presents six reasons a human-versus-automata war is unlikely this century."
+  ],
+  "confidence": 0.85
+ }
+}

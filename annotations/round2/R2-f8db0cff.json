@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-f8db0cff",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:44:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0417578,
+  "in": 2,
+  "out": 1839,
+  "cache_read": 11758,
+  "cache_create": 5547,
+  "api_ms": 11890,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) 2016/1628 as regards the transitional provisions of certain machinery fitted with engines in the power range between 56kW and 130kW, and above 300kW in order to address the impact of COVID-19 crisis",
+  "title_en": "Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) 2016/1628 as regards the transitional provisions of certain machinery fitted with engines in the power range between 56kW and 130kW, and above 300kW in order to address the impact of COVID-19 crisis",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "EUR-Lex / COM(2021) 254 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "agriculture_food",
+   "construction"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission proposal to amend Regulation (EU) 2016/1628 on emissions from non-road mobile machinery engines. It extends the Stage V transitional deadlines by 6 months for production and 9 months for market placement, because COVID-19 supply-chain disruption continues. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Extends the production transition period for certain transition engines (56–130kW and above 300kW) by 6 months.",
+   "Extends the placing-on-the-market period by 9 months.",
+   "Adds point (e) to Article 58(7) of Regulation (EU) 2016/1628, setting 33 months.",
+   "Applies to agricultural and forestry vehicles fitted with transition engines.",
+   "Enters into force on the day of publication in the Official Journal."
+  ],
+  "confidence": 0.95
+ }
+}

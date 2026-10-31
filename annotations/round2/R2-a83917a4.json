@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-a83917a4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0252538,
+  "in": 2,
+  "out": 1699,
+  "cache_read": 11758,
+  "cache_create": 1771,
+  "api_ms": 10055,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/AWI TR 26354 Intelligent transport systems — Automated Driving Systems (ADS) in heterogeneous traffic environments — Overview, challenges and functionalities",
+  "title_en": "ISO/AWI TR 26354 Intelligent transport systems — Automated Driving Systems (ADS) in heterogeneous traffic environments — Overview, challenges and functionalities",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 204",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "under_development",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO/AWI TR 26354, a technical report under development by ISO/TC 204 on automated driving systems in heterogeneous traffic environments, covering overview, challenges and functionalities. Project registered at approval stage 20.00 on 2025/2026-06-25; only metadata is shown.",
+  "key_provisions_or_claims": [
+   "New ISO technical report on ADS in heterogeneous traffic registered under ISO/TC 204",
+   "Project at stage 20.00, working draft prepared by a working group",
+   "Scope: overview, challenges and functionalities of ADS in mixed traffic",
+   "No normative content available on the page"
+  ],
+  "confidence": 0.8
+ }
+}

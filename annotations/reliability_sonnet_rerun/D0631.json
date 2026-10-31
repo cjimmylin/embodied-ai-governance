@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0631",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:43:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.021114099999999997,
+  "in": 2,
+  "out": 1929,
+  "cache_read": 18201,
+  "cache_create": 0,
+  "api_ms": 11921,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Prianto, Y.; Sumantri, V.K.; Sasmita, P.Y.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "ID",
+   "SA",
+   "JP",
+   "US",
+   "SG",
+   "RU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": null,
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "ethics_principles",
+   "civil_liability",
+   "human_robot_interaction_social_effects"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "ID",
+  "jurisdiction_scope": "not_applicable",
+  "language": "en",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [
+   "Asilomar AI Principles"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "pub_month": null,
+  "pub_year": 2020,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Normative legal conference paper from Indonesia weighing whether AI robots should be legal subjects. It cites the Facebook chatbot case and the Sophia and Shibuya Mirai recognitions, notes the shift from legal object to possible subject, and argues the regulatory grey area needs new legal and social rules.",
+  "key_provisions_or_claims": [
+   "AI robots that learn and decide may act beyond owner control, creating regulatory gaps",
+   "Treatment has shifted from legal object to pet-like to possible legal subject",
+   "Sophia's citizenship and Shibuya Mirai's residence raise unresolved rights and duties questions",
+   "Lawmakers should collaborate with AI experts; Singapore favors light-touch, technology-neutral governance",
+   "Asilomar principles are discussed as ethical guidance"
+  ],
+  "title_clean": "Pros and Cons of AI Robot as a Legal Subject",
+  "title_en": "Pros and Cons of AI Robot as a Legal Subject",
+  "venue": "Advances in Social Science, Education and Humanities Research, vol. 439 (TICASH 2019), Atlantis Press"
+ }
+}

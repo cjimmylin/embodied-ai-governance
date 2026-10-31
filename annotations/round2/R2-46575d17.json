@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-46575d17",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0590318,
+  "in": 2,
+  "out": 1862,
+  "cache_read": 11758,
+  "cache_create": 9808,
+  "api_ms": 9985,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Committee of the Regions – AI Continent Action Plan",
+  "title_en": "Opinion of the European Committee of the Regions – AI Continent Action Plan",
+  "language": "en",
+  "authors_or_issuer": "European Committee of the Regions",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, C series",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector",
+   "energy_environment",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "human_oversight_control",
+   "cybersecurity",
+   "privacy_data_protection",
+   "certification_conformity_assessment",
+   "education_training",
+   "sustainability_environment",
+   "civil_liability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "EU AI Liability Directive (proposal)",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Opinion of the EU Committee of the Regions on the Commission's AI Continent Action Plan, setting out the role of local and regional authorities in AI gigafactory siting, data, procurement, sandboxes, skills, funding and AI Act implementation support. It has no robotics content.",
+  "key_provisions_or_claims": [
+   "Local and regional authorities should help site AI gigafactories, using sustainability and territorial impact criteria",
+   "Meaningful human oversight and accountability for public decisions cannot be delegated to algorithms",
+   "Calls for minimum contractual safeguards in public AI procurement (training transparency, data ownership, audit rights)",
+   "Calls for a European conformity certification system for AI tools used in public administrations",
+   "Requests an AI Fund for regional and local authorities, AI Act guidance, and interregional regulatory sandboxes"
+  ],
+  "confidence": 0.9
+ }
+}

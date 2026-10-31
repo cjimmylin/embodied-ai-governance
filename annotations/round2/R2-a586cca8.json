@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-a586cca8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:12:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.17932979999999998,
+  "in": 2,
+  "out": 1935,
+  "cache_read": 11758,
+  "cache_create": 39700,
+  "api_ms": 11279,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulation No 79 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of vehicles with regard to steering equipment",
+  "title_en": "UN/ECE Regulation No 79 — Uniform provisions concerning the approval of vehicles with regard to steering equipment",
+  "language": "en",
+  "authors_or_issuer": "UN Economic Commission for Europe (UN/ECE), published in the Official Journal of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2018,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 318/1",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "standards_interoperability",
+   "cybersecurity"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "licensing_registration",
+   "audits_impact_assessment",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "ISO 3691-4"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "UN/ECE Regulation No 79 (03 series of amendments), published in the EU Official Journal, sets uniform type-approval requirements for vehicle steering equipment. It covers driver-assistance steering functions (ACSF categories A, B1, C), corrective and emergency steering, failure and warning provisions, electronic-system safety documentation, and tests. It excludes fully autonomous steering systems.",
+  "key_provisions_or_claims": [
+   "Type approval of steering equipment for vehicle categories M, N and O, with international approval marks and conformity-of-production checks.",
+   "Autonomous Steering Systems controlled by off-board signals, and ACSF categories B2, D and E, are excluded from the scope.",
+   "Driver must be able to override assistance functions at any time, with override effort not exceeding 50 N.",
+   "ACSF Category C lane change requires hands-on detection, rear-vehicle detection of at least 55 m, and suppression in critical situations.",
+   "Annex 6 requires safety documentation, fault strategy and verification for complex electronic control systems."
+  ],
+  "confidence": 0.9
+ }
+}

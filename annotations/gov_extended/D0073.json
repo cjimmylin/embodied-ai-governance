@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0073",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:37:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0294518,
+  "in": 2,
+  "out": 1766,
+  "cache_read": 11758,
+  "cache_create": 2653,
+  "api_ms": 9466,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "PL 841/2024 - Altera a Lei nº 8.078, de 11 de setembro de 1990, para tornar obrigatória a exibição de aviso ao consumidor sobre imagem ou vídeo publicitário produzido com o uso de inteligência artificial",
+  "title_en": "Bill 841/2024 - Amends Law No. 8,078 of 11 September 1990 (Consumer Defense Code) to make mandatory a consumer notice on advertising images or videos produced using artificial intelligence",
+  "language": "pt",
+  "authors_or_issuer": "Câmara dos Deputados (Dep. Ruy Carneiro)",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Câmara dos Deputados",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "consumer_protection"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "Brazil Consumer Defense Code (Lei 8.078/1990)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Brazilian bill PL 841/2024 amends art. 30 of the Consumer Defense Code to require advertising containing AI-generated images or videos to carry a legible warning, protecting consumers from deceptive advertising. It concerns generative AI transparency only, with no embodied content.",
+  "key_provisions_or_claims": [
+   "Adds a sole paragraph to art. 30 of Lei 8.078/1990.",
+   "Advertising with AI-produced images or video must display a warning in legible size and font.",
+   "Aim is to prevent misleading advertising and help consumers distinguish AI-generated from real images.",
+   "Law takes effect on publication."
+  ],
+  "confidence": 0.93
+ }
+}

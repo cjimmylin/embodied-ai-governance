@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0207",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:12:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0448818,
+  "in": 2,
+  "out": 1763,
+  "cache_read": 11758,
+  "cache_create": 6518,
+  "api_ms": 9074,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion: Uses of Copyrighted Materials for Machine Learning",
+  "title_en": "Opinion: Uses of Copyrighted Materials for Machine Learning",
+  "language": "en",
+  "authors_or_issuer": "State of Israel, Ministry of Justice, Legislation and Legal Counsel (Civil Law)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Israel Ministry of Justice (gov.il)",
+  "jurisdiction_country": "IL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IL",
+   "US"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "intellectual_property",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "intellectual_property",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Israeli Ministry of Justice legal opinion concluding that using copyrighted works to train machine learning models is generally permitted under existing Israeli copyright law, mainly through fair use, with incidental and transient use as alternatives. It excludes outputs and datasets built to compete with a single author, and prefers soft regulation to new legislation.",
+  "key_provisions_or_claims": [
+   "ML training on copyrighted works is generally permitted under Israel's fair use doctrine.",
+   "Incidental use and transient use doctrines may cover some ML projects.",
+   "Safe harbor excludes datasets of a single author's works built to compete with that author.",
+   "The opinion does not address infringement by the outputs of AI systems.",
+   "Soft dynamic regulation via the opinion is preferred over legislation, to be revisited if legal certainty fails."
+  ],
+  "confidence": 0.85
+ }
+}

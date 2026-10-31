@@ -1,0 +1,94 @@
+{
+ "doc_id": "D0378",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:16:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0700438,
+  "in": 4,
+  "out": 3296,
+  "cache_read": 30878,
+  "cache_create": 9178,
+  "api_ms": 19199,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "A conceptual governance framework for managing robotic process automation implementation challenges in insurance claims handling",
+  "title_en": "A conceptual governance framework for managing robotic process automation implementation challenges in insurance claims handling",
+  "language": "en",
+  "authors_or_issuer": "Pietersen, L.; Lefela, T.D.; Lamprecht, C.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": "10.4102/sajim.v28i1.2169",
+  "venue": "South African Journal of Information Management",
+  "jurisdiction_country": "ZA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ZA"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "not_ai",
+  "embodiment_status": "software_agent_called_robot",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "finance"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "COBIT 2019"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Peer-reviewed article proposing a conceptual IT/data governance framework, mapped to COBIT 2019, for managing robotic process automation (software RPA) implementation challenges in insurance claims handling. It concerns software bots, not physical robots.",
+  "key_provisions_or_claims": [
+   "Develops governance guidelines from a structured literature review",
+   "Maps guidelines to COBIT 2019 governance and management objectives",
+   "Integrates IT governance, data governance and IT capability theory",
+   "RPA governance must go beyond strategy to technical and operational issues"
+  ],
+  "confidence": 0.85
+ }
+}

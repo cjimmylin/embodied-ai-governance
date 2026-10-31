@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-7500f4b9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:19:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0289418,
+  "in": 2,
+  "out": 1773,
+  "cache_read": 11758,
+  "cache_create": 2508,
+  "api_ms": 8864,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "House Bill 751 / Senate Bill 676 - An Act relative to vehicles operated by unconventional means (platooning)",
+  "title_en": "House Bill 751 / Senate Bill 676 - An Act relative to vehicles operated by unconventional means (platooning)",
+  "language": "en",
+  "authors_or_issuer": "Tennessee General Assembly",
+  "issuer_type": "legislature",
+  "pub_year": 2015,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Tennessee General Assembly",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Tennessee bill (HB 751/SB 676) authorizing vehicle platoons, groups of vehicles traveling at electronically coordinated speeds, on state roads after notifying transportation and safety departments, with a 30-day non-rejection rule. It adjusts registration, following-distance and operator definitions, and requires CDL drivers in commercial platoon vehicles.",
+  "key_provisions_or_claims": [
+   "Defines 'platoon' as vehicles traveling in a unified manner at electronically coordinated speeds",
+   "Operators must notify TDOT and Department of Safety with a platoon operations plan; deemed approved after 30 days absent rejection",
+   "Commercial vehicles in a platoon must have an endorsed CDL driver behind the wheel",
+   "Registration certificate may be carried only in the lead vehicle",
+   "Operator of a platoon is the person controlling the lead vehicle"
+  ],
+  "confidence": 0.6
+ }
+}

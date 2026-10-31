@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-7ffd0251",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:06:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.049291800000000004,
+  "in": 4,
+  "out": 3436,
+  "cache_read": 25433,
+  "cache_create": 3802,
+  "api_ms": 17154,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "智能网联汽车 自动驾驶系统设计运行条件",
+  "title_en": "Intelligent and connected vehicles—Operational design condition for automated driving system",
+  "language": "zh",
+  "authors_or_issuer": "TC114 SC34 (National Technical Committee of Auto Standardization, Road Vehicles); Standardization Administration of China",
+  "issuer_type": "standards_body",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "National Public Service Platform for Standards Information (China)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Catalogue page for Chinese national recommended standard GB/T 45312-2025 on the operational design condition (ODC) of automated driving systems in intelligent connected vehicles, issued 28 Feb 2025 under TC114/SC34. Shows metadata and related standards on data recorders, safety requirements and testing; no standard text.",
+  "key_provisions_or_claims": [
+   "GB/T 45312-2025 specifies operational design condition for automated driving systems",
+   "Issued/published 2025-02-28 by TC114/SC34",
+   "Lists related standards: GB 44497-2024 data recording, GB 44721 safety requirements",
+   "Related local standards from Shenzhen (DB4403) and Chongqing (DB50)"
+  ],
+  "confidence": 0.8
+ }
+}

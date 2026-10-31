@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-91154c71",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0542444,
+  "in": 4,
+  "out": 3610,
+  "cache_read": 26219,
+  "cache_create": 4584,
+  "api_ms": 18173,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 13849-1:2023 Safety of machinery — Safety-related parts of control systems — Part 1: General principles for design",
+  "title_en": "ISO 13849-1:2023 Safety of machinery — Safety-related parts of control systems — Part 1: General principles for design",
+  "language": "en",
+  "authors_or_issuer": "ISO (International Organization for Standardization), ISO/TC 199",
+  "issuer_type": "standards_body",
+  "pub_year": 2023,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Online Browsing Platform / ISO store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO store catalogue page for ISO 13849-1:2023 (4th edition, April 2023), the international standard on design of safety-related parts of machinery control systems. It sets a methodology for safety functions in high-demand/continuous modes, excludes security aspects, and does not prescribe specific performance levels. Foundational for robot and machinery safety.",
+  "key_provisions_or_claims": [
+   "Specifies methodology and requirements for design and integration of safety-related parts of control systems (SRP/CS), including software",
+   "Applies to high demand and continuous modes of operation, regardless of technology",
+   "Does not apply to low demand mode (see IEC 61508)",
+   "Does not specify safety functions or required performance levels for particular applications",
+   "Does not provide specific cybersecurity measures; refers to ISO/TR 22100-4 and IEC/TR 63074"
+  ],
+  "confidence": 0.85
+ }
+}

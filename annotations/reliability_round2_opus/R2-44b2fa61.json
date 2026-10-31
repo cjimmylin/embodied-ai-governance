@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-44b2fa61",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:14:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.05867560000000001,
+  "in": 2,
+  "out": 1941,
+  "cache_read": 11758,
+  "cache_create": 2187,
+  "api_ms": 14686,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "18 U.S. Code § 39B - Unsafe operation of unmanned aircraft",
+  "title_en": "18 U.S. Code § 39B - Unsafe operation of unmanned aircraft",
+  "language": "en",
+  "authors_or_issuer": "United States Congress",
+  "issuer_type": "legislature",
+  "pub_year": 2018,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Legal Information Institute (Cornell Law School)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [
+   "FAA Reauthorization Act of 2018 (Pub. L. 115-254)",
+   "14 CFR Part 71"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "US federal criminal statute (18 U.S.C. § 39B, added by the FAA Reauthorization Act of 2018) making it an offence to knowingly or recklessly operate an unmanned aircraft so as to interfere with occupied aircraft, or to operate one without authorization in runway exclusion zones near airports, with escalated penalties for serious injury or death.",
+  "key_provisions_or_claims": [
+   "Criminalises knowing or reckless drone interference with occupied manned aircraft that poses an imminent safety hazard",
+   "Prohibits unauthorized drone operation within runway exclusion zones at class B, C, D airports",
+   "Defines runway exclusion zone as a 1-mile by half-mile rectangle around active runways",
+   "Base penalty: fine and/or up to 1 year imprisonment",
+   "Serious bodily injury or death: up to 10 years for reckless conduct; any term up to life for knowing conduct or airport-zone offences"
+  ],
+  "confidence": 0.85
+ }
+}

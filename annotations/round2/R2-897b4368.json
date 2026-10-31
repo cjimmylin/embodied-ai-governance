@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-897b4368",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:41:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0316598,
+  "in": 2,
+  "out": 1704,
+  "cache_read": 11758,
+  "cache_create": 3360,
+  "api_ms": 8480,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "机器人安全总则",
+  "title_en": "General principles of robot safety",
+  "language": "zh",
+  "authors_or_issuer": "全国机器人标准化技术委员会 (TC591); 国家市场监督管理总局 / 国家标准化管理委员会",
+  "issuer_type": "standards_body",
+  "pub_year": 2019,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Catalogue page for Chinese recommended national standard GB/T 38244-2019 'General principles of robot safety', issued 2019-10-18, effective 2020-05-01, reviewed 2025-12-08 and still valid. Shows metadata, drafting organisations and related humanoid and service robot standards; no standard text.",
+  "key_provisions_or_claims": [
+   "GB/T 38244-2019 is a recommended (voluntary) national standard, currently in force",
+   "Administered by TC591 national robot standardization committee under the China Machinery Industry Federation",
+   "Effective 2020-05-01; review on 2025-12-08 concluded it remains valid",
+   "ICS 25.040.30 industrial robots and manipulators",
+   "Related planned standards cover humanoid robot safety and service robot functional safety"
+  ],
+  "confidence": 0.85
+ }
+}

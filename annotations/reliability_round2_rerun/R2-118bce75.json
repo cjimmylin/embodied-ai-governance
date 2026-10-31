@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-118bce75",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:06:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.3270908,
+  "in": 4,
+  "out": 3676,
+  "cache_read": 92598,
+  "cache_create": 70976,
+  "api_ms": 20239,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Japan (National Diet; National Police Agency administration)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "delivery_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "oversight_body_creation",
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "criminal_liability",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Defines 特定自動運行 (specified automated operation) using automated driving systems under the Road Transport Vehicle Act, excluding it from conventional 'driving'.",
+   "Chapter 4-3 establishes a permit system for specified automated operation (Arts. 75-12 to 75-29).",
+   "Chapter 2-2 requires users of remotely operated small vehicles (delivery robots) to notify the Public Safety Commission, display registration numbers, and accept inspections and instructions.",
+   "Remotely operated small vehicles must have emergency stop devices, yield to pedestrians, and be operated at safe speeds.",
+   "Penalties, administrative fines and licence sanctions are defined for traffic violations."
+  ],
+  "language": "ja",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 1960,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Japan's Road Traffic Act (Act No. 105 of 1960), current version enforced 21 July 2026. It governs road traffic, licensing and penalties. It includes provisions on level-4 'specified automated operation' permits and on remotely operated small vehicles such as delivery robots, covering notification, marking, inspection and emergency stop devices.",
+  "title_clean": "道路交通法",
+  "title_en": "Road Traffic Act",
+  "venue": "e-Gov Law Search (Japan)"
+ }
+}

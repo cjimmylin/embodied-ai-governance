@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-f4b7b7df",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:32:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0399698,
+  "in": 2,
+  "out": 1735,
+  "cache_read": 11758,
+  "cache_create": 5360,
+  "api_ms": 11050,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "教育部等七部门关于印发《特殊教育发展提升“十五五”行动计划》的通知",
+  "title_en": "Notice of Seven Ministries on Issuing the Special Education Development and Improvement Action Plan for the 15th Five-Year Plan Period",
+  "language": "zh",
+  "authors_or_issuer": "教育部 国家发展改革委 民政部 财政部 人力资源社会保障部 国家卫生健康委 中国残联",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education"
+  ],
+  "governance_topics": [
+   "education_training",
+   "children_vulnerable_groups",
+   "industrial_policy_innovation",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese seven-ministry action plan for special education during the 15th Five-Year Plan period (to 2030). It covers expanding access, inclusive placement, quality, teachers, funding and international cooperation, with a short section encouraging AI agents and human-machine collaboration in special education. It has no robotics governance content.",
+  "key_provisions_or_claims": [
+   "Target of over 97% compulsory-education enrolment for school-age disabled children by 2030",
+   "Expand special education schools and inclusive placement with individualized plans",
+   "Encourage AI-enabled special education agents and human-machine collaborative teaching",
+   "Strengthen funding, teacher training and accessible school environments",
+   "Deepen international cooperation under Belt and Road"
+  ],
+  "confidence": 0.93
+ }
+}

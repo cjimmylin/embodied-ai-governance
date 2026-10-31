@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-5f95dbc1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:05:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.052604500000000005,
+  "in": 4,
+  "out": 3577,
+  "cache_read": 25930,
+  "cache_create": 4245,
+  "api_ms": 17898,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "manufacturing",
+   "research_science"
+  ],
+  "authors_or_issuer": "工业和信息化部 (Ministry of Industry and Information Technology of China)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.7,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Sets eligibility criteria for applicants: at least 50 staff, equipment worth 10 million yuan or service revenue above 10 million yuan, and national or provincial project experience.",
+   "Applicants submit an application form, and recommended platforms are publicly listed on the MIIT website for 5 working days.",
+   "Platforms file an annual operation report by the end of Q1 through provincial authorities or central enterprises.",
+   "A comprehensive review is held every 3 years. Failing platforms must rectify within 1 year, and those that fail again are removed from the list.",
+   "Takes effect 5 December 2025 and replaces the 2015 interim measures (工信部科〔2015〕458号)."
+  ],
+  "language": "zh",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Chinese MIIT measures (document no. 工信部科〔2025〕261) governing the application, listing, annual reporting, periodic review and removal of public service platforms for industrial technology foundations. They take effect 5 December 2025 and replace the 2015 interim measures. The text has no AI or robotics content.",
+  "title_clean": "产业技术基础公共服务平台管理办法",
+  "title_en": "Measures for the Administration of Public Service Platforms for Industrial Technology Foundations",
+  "venue": "工业和信息化部"
+ }
+}

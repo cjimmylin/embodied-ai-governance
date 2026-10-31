@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-9d41eafa",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.16017779999999998,
+  "in": 2,
+  "out": 1813,
+  "cache_read": 11758,
+  "cache_create": 35217,
+  "api_ms": 11319,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Regulation of the European Parliament and of the Council establishing the Digital Europe programme for the period 2021-2027",
+  "title_en": "Proposal for a Regulation of the European Parliament and of the Council establishing the Digital Europe programme for the period 2021-2027",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2018,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2018) 434 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "healthcare",
+   "education"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "education_training",
+   "standards_interoperability",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "international_cooperation",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission 2018 proposal for a regulation establishing the Digital Europe funding programme for 2021-2027 (EUR 9.194 billion) across high performance computing, AI, cybersecurity, advanced digital skills and deployment. It is a funding instrument with only passing mentions of robotics; no robot-specific governance provisions.",
+  "key_provisions_or_claims": [
+   "Establishes the Digital Europe programme with a EUR 9.194 billion envelope for 2021-2027",
+   "Five specific objectives: HPC, AI, cybersecurity and trust, advanced digital skills, deployment and interoperability",
+   "AI objective funds data resources, algorithm libraries and networked testing and experimentation facilities",
+   "Creates a network of Digital Innovation Hubs with at least one per Member State",
+   "Skills objective names robotics and AI among supported advanced skills areas"
+  ],
+  "confidence": 0.93
+ }
+}

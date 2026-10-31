@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0047",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:07:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0430638,
+  "in": 2,
+  "out": 1758,
+  "cache_read": 11758,
+  "cache_create": 6076,
+  "api_ms": 9743,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Brazil's National Artificial Intelligence Strategy: Comments from BSA | The Software Alliance",
+  "title_en": "Brazil's National Artificial Intelligence Strategy: Comments from BSA | The Software Alliance",
+  "language": "en",
+  "authors_or_issuer": "BSA | The Software Alliance",
+  "issuer_type": "industry_association",
+  "pub_year": 2020,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "BSA | The Software Alliance",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "industry_or_ngo_report",
+  "doc_class": "grey_literature",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "intellectual_property",
+   "privacy_data_protection",
+   "ethics_principles",
+   "education_training",
+   "trust_acceptance",
+   "labor_employment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Industry association BSA's submission to Brazil's MCTIC consultation on its National AI Strategy. It opposes one-size-fits-all AI regulation, urges updating existing laws (including a text-and-data-mining copyright exception), proposes software security as a core principle, and supports open government data, workforce development and cross-border data flows.",
+  "key_provisions_or_claims": [
+   "Avoid one-size-fits-all AI regulation; modernize existing frameworks and use tailored responses",
+   "Amend Brazilian Copyright Law to add a text and data mining exception",
+   "Include software security as a core principle of the Strategy",
+   "Clarify roles and responsibilities of stakeholders across the AI value chain, per OECD principles",
+   "Support open government data, workforce development and cross-border data flow rules in trade agreements"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-14fe9c78",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:44:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027249800000000005,
+  "in": 2,
+  "out": 1685,
+  "cache_read": 11758,
+  "cache_create": 2305,
+  "api_ms": 8289,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "全国标准信息公共服务平台 标准检索结果:GB/T 43210.1-2023 机器人 服务机器人模块化 第1部分:通用要求",
+  "title_en": "National Standards Information Public Service Platform search result: GB/T 43210.1-2023 Robots – Modularity for service robots – Part 1: General requirements",
+  "language": "zh",
+  "authors_or_issuer": "国家市场监督管理总局 国家标准化管理委员会 (SAMR / SAC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2023,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Search-result page from China's national standards platform listing one recommended national standard, GB/T 43210.1-2023, on modularity for service robots (Part 1: general requirements), current, issued and effective 2023-09-07, adopted from an international standard. Only catalogue metadata is shown.",
+  "key_provisions_or_claims": [
+   "GB/T 43210.1-2023 is a recommended (voluntary) national standard on service robot modularity",
+   "Status: current; published and implemented 2023-09-07",
+   "Marked as adopting an international standard",
+   "ICS class 25 (mechanical manufacturing)"
+  ],
+  "confidence": 0.8
+ }
+}

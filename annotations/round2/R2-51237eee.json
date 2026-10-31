@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-51237eee",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0912258,
+  "in": 2,
+  "out": 1833,
+  "cache_read": 11758,
+  "cache_create": 17929,
+  "api_ms": 12815,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "State of the Digital Decade 2026: Progress report on multi-country projects",
+  "title_en": "State of the Digital Decade 2026: Progress report on multi-country projects",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Commission (SWD(2026) 157 final)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "healthcare",
+   "agriculture_food",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "cybersecurity",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "oversight_body_creation",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission staff working document reviewing progress (May 2025–May 2026) of EU multi-country digital projects under the Digital Decade Policy Programme 2030: European Digital Infrastructure Consortia, IPCEIs, Chips JU and EuroHPC, including AI factories. Focus is investment and cooperation; no robotics governance content beyond a candidate autonomous-vehicle IPCEI.",
+  "key_provisions_or_claims": [
+   "Two new EDICs created: Digital Commons (Oct 2025) and IMPACTS (Dec 2025).",
+   "Applications pending for Cybersecurity Skills Coalition and Agri-Food EDICs; others in preparation.",
+   "Tech4Cure IPCEI approved July 2025 with EUR 403 million public funding.",
+   "Candidate IPCEIs in AI, compute continuum, semiconductors; identification group for Clean Connected Autonomous Vehicles IPCEI.",
+   "EuroHPC has 19 AI Factories and 13 Antennas with EUR 2.6 billion mobilised."
+  ],
+  "confidence": 0.9
+ }
+}

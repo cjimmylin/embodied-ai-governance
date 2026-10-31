@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-45cb96b8",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:08:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0651716,
+  "in": 2,
+  "out": 1847,
+  "cache_read": 11758,
+  "cache_create": 3234,
+  "api_ms": 12947,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Luftverkehrsgesetz (LuftVG) – Inhaltsübersicht",
+  "title_en": "Aviation Act (LuftVG) – Table of Contents",
+  "language": "de",
+  "authors_or_issuer": "Bundesministerium der Justiz (Gesetze im Internet); Deutscher Bundestag",
+  "issuer_type": "legislature",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "gesetze-im-internet.de",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "DE"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "safety_physical_harm",
+   "consumer_protection"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "liability_regime",
+   "insurance_requirement"
+  ],
+  "named_instruments_referenced": [
+   "Regulation (EC) No 216/2008",
+   "Einigungsvertrag"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Table of contents of Germany's Aviation Act (Luftverkehrsgesetz) from the official federal law portal. It lists the sections on air traffic, air navigation services, liability for people and property, mandatory liability insurance, and dispute resolution. It also lists registers for operators of unmanned aircraft and for unmanned aircraft that require approval, which is the Act's only visible link to drone governance.",
+  "key_provisions_or_claims": [
+   "§§ 33-43 set liability for damage to persons and property not carried on board the aircraft",
+   "§ 50 requires mandatory liability insurance",
+   "§ 66a sets up a register of operators of unmanned aircraft",
+   "§ 66b sets up a register of unmanned aircraft that require approval",
+   "§§ 57-57d cover private and official dispute resolution for passengers"
+  ],
+  "confidence": 0.7
+ }
+}

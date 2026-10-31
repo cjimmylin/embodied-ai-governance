@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-afe1f8af",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:06:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0591356,
+  "in": 2,
+  "out": 1986,
+  "cache_read": 11758,
+  "cache_create": 2132,
+  "api_ms": 13961,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "关于印发《康复辅助器具产业扩能提质三年行动方案（2026-2028年）》的通知",
+  "title_en": "Notice on Issuing the Three-Year Action Plan for Expanding Capacity and Improving Quality of the Rehabilitation Assistive Devices Industry (2026-2028)",
+  "language": "zh",
+  "authors_or_issuer": "Ministry of Civil Affairs of the People's Republic of China (民政部) et al.",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "rehabilitation_exoskeleton_prosthetic",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "rehabilitation_exoskeleton_prosthetic",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "children_vulnerable_groups"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Chinese Ministry of Civil Affairs notice (Min Han [2026] No. 48) issuing a 2026-2028 action plan for the rehabilitation assistive devices industry. It promotes key sub-sectors including brain-computer interfaces, rehabilitation and elderly-care robots and prostheses, and sets targets for industrial growth, R&D, standards and testing/certification capacity.",
+  "key_provisions_or_claims": [
+   "Strengthen 6-8 key sub-industries including brain-computer interfaces, rehabilitation/elderly-care robots, prosthetics/orthotics and hearing aids",
+   "Make breakthroughs in 50 key technologies and develop at least 80 key products for health and elderly care",
+   "Aim for over 500 rehabilitation device enterprises above designated size and support listing/financing",
+   "Publish at least 60 standards and build a unified standards and regulatory system",
+   "Develop testing, inspection and certification bodies for assistive devices"
+  ],
+  "confidence": 0.75
+ }
+}

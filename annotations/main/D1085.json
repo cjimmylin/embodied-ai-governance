@@ -1,0 +1,109 @@
+{
+ "doc_id": "D1085",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:36:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0482478,
+  "in": 2,
+  "out": 1934,
+  "cache_read": 11758,
+  "cache_create": 6932,
+  "api_ms": 9726,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Interplay between the AI Act and the EU digital legislative framework",
+  "title_en": "Interplay between the AI Act and the EU digital legislative framework",
+  "language": "en",
+  "authors_or_issuer": "Graux, H.; Garstka, K.; Murali, N.; Cave, J.; Botterman, M.",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": "10.2861/9915451",
+  "venue": "European Parliament Policy Department for Transformation, Innovation and Health (ITRE study)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "privacy_data_protection",
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "transparency_explainability",
+   "other"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "EU Machinery Regulation",
+   "EU Product Liability Directive"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Parliament ITRE study analysing how the AI Act interacts with GDPR, Data Act, DSA, DMA, Cyber Resilience Act, NIS2, NLF and other EU digital laws. It finds overlaps, gaps and significant regulatory complexity, examines the AI Office, and recommends simplification and coherence to support a competitive European AI industry.",
+  "key_provisions_or_claims": [
+   "Each EU digital act is individually well targeted, but their interplay creates significant regulatory complexity.",
+   "The AI Act stretches product-safety (NLF) logic into fundamental-rights assessment, which is hard to evaluate via conformity mechanisms.",
+   "Provider/deployer responsibility chains and Annex-based high-risk classification create legal ambiguity, especially for SMEs.",
+   "The AI Office faces risks and opportunities in coordinating enforcement across overlapping regimes.",
+   "Recommends guidance, harmonisation and possible evolution of the AI Act and EU digital legislation to improve competitiveness."
+  ],
+  "confidence": 0.88
+ }
+}

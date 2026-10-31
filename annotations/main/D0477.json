@@ -1,0 +1,107 @@
+{
+ "doc_id": "D0477",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0627558,
+  "in": 2,
+  "out": 1906,
+  "cache_read": 11758,
+  "cache_create": 10629,
+  "api_ms": 9654,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI セーフティに関する評価観点ガイド（第1.01版）",
+  "title_en": "Guide to Evaluation Perspectives on AI Safety (Version 1.01)",
+  "language": "ja",
+  "authors_or_issuer": "AI セーフティ・インスティテュート (Japan AI Safety Institute)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Japan AI Safety Institute (aisi.go.jp)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "cybersecurity",
+   "safety_physical_harm",
+   "ethics_principles",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "Hiroshima Process",
+   "ISO/IEC 42001",
+   "NIST AI RMF",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Guide by Japan's AI Safety Institute setting out evaluation perspectives for AI safety, aimed at AI developers and providers. It defines key elements (human-centricity, safety, fairness, privacy, security, transparency) and ten evaluation perspectives for LLM systems, plus evaluators, timing, and methods such as red teaming. Voluntary and LLM-focused.",
+  "key_provisions_or_claims": [
+   "Defines AI safety around human-centricity, safety, fairness, privacy, security and transparency, based on Japan's AI Guidelines for Business.",
+   "Sets ten evaluation perspectives, including harmful output control, misinformation, fairness, high-risk use, privacy, security, explainability, robustness, data quality and verifiability.",
+   "Targets developers and providers, with development/provision managers as main evaluators and executives as accountable.",
+   "Describes technical evaluation (tools, red teaming) and management-based evaluation across the lifecycle.",
+   "Voluntary, living document; not intended to restrict AI innovation."
+  ],
+  "confidence": 0.9
+ }
+}

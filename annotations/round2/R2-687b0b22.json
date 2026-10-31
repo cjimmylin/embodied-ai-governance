@@ -1,0 +1,119 @@
+{
+ "doc_id": "R2-687b0b22",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.09791070000000002,
+  "in": 4,
+  "out": 3886,
+  "cache_read": 36062,
+  "cache_create": 14647,
+  "api_ms": 21160,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector",
+   "agriculture_food",
+   "logistics_transport",
+   "energy_environment",
+   "healthcare",
+   "education"
+  ],
+  "authors_or_issuer": "European Economic and Social Committee",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "EU",
+   "DE",
+   "FR",
+   "ES",
+   "CH",
+   "IN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "parliamentary_material",
+  "doi": null,
+  "embodied_categories": [
+   "collaborative_robots",
+   "agricultural_robots",
+   "drones_uas",
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "data_governance_requirements",
+   "technical_standards_reference",
+   "funding_or_incentives",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "industrial_policy_innovation",
+   "labor_employment",
+   "privacy_data_protection",
+   "taxation_economic_policy",
+   "consumer_protection"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU Ecodesign Directive"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2020,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "EESC opinion on aligning digitalisation and sustainability from a civil society perspective. It calls for digital taxation, workplace data protection, competition law reform, public data trusts, ecodesign extension and energy-efficient data centres. Robots appear only in passing: cobots under a human-in-command approach, agricultural robots and drones, and autonomous vehicles.",
+  "title_clean": "Opinion of the European Economic and Social Committee on 'Digitalisation and Sustainability – status quo and need for action from a civil society perspective'",
+  "title_en": "Opinion of the European Economic and Social Committee on 'Digitalisation and Sustainability – status quo and need for action from a civil society perspective'",
+  "venue": "Official Journal of the European Union, C 429",
+  "key_provisions_or_claims": [
+   "Calls for digital businesses to pay fair taxes and for a distinctive EU law on workplace data protection building on GDPR",
+   "Calls for adjusting competition law to regulate digital platform markets and for public data trusts",
+   "Calls for extending the EU ecodesign directive and a digital product pass",
+   "Proposes an EU data centre inventory, a top-runner scheme and 100% renewable energy for new data centres",
+   "Endorses a 'human-in-command' approach to digitalisation, including cobots, and welcomes agricultural robots and drones"
+  ]
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-51c9f378",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:32:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0629638,
+  "in": 2,
+  "out": 1904,
+  "cache_read": 11758,
+  "cache_create": 10686,
+  "api_ms": 9747,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "综合交通枢纽发展“十五五”规划",
+  "title_en": "15th Five-Year Plan for the Development of Integrated Transport Hubs",
+  "language": "zh",
+  "authors_or_issuer": "交通运输部; 国家发展改革委; 财政部; 自然资源部; 国家铁路局; 中国民航局; 国家邮政局; 中国国家铁路集团有限公司",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "交通运输部 (Ministry of Transport of China)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics",
+   "drones_uas",
+   "autonomous_road_vehicles",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "sustainability_environment",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "China's multi-agency 15th Five-Year Plan (2026–2030) for integrated transport hubs, covering hub clusters, cities, ports and stations, multimodal freight, and safety, smart and green upgrades. It promotes AI, automated guided vehicles, unmanned trucks, intelligent robots and low-altitude logistics in freight hubs, plus technical standards and central funding support.",
+  "key_provisions_or_claims": [
+   "Build international and national transport hub clusters and cities by 2030, with a modern hub system by 2035.",
+   "Apply AGVs, intelligent robots, unmanned container trucks, remote-controlled gantry cranes and automated sorting in freight hubs.",
+   "Integrate low-altitude logistics into multimodal freight hub systems.",
+   "Build AI algorithm platforms, 'transport brain' and hub information service agents.",
+   "Develop unified technical standards, and give central funding to qualifying hub projects."
+  ],
+  "confidence": 0.9
+ }
+}

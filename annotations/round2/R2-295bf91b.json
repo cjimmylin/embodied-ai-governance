@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-295bf91b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:01:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028039800000000004,
+  "in": 2,
+  "out": 1744,
+  "cache_read": 11758,
+  "cache_create": 2355,
+  "api_ms": 8797,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Air Navigation (Aircraft Noise) Regulations 2018",
+  "title_en": "Air Navigation (Aircraft Noise) Regulations 2018",
+  "language": "en",
+  "authors_or_issuer": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts (Australia)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2018,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Federal Register of Legislation",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "sustainability_environment",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "technical_standards_reference",
+   "prohibitions_bans",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Australian regulations under the Air Navigation Act 1920 setting aircraft noise certification, approvals and operating restrictions. Only the table of contents is shown; it includes a specific approval pathway for remotely piloted aircraft (s16A) and provision for computer-program decisions (s22A). Consolidated version of 1 April 2026.",
+  "key_provisions_or_claims": [
+   "Aircraft must hold a noise certificate or other approval (s6)",
+   "Separate approval pathway for remotely piloted aircraft (s16A)",
+   "Operating restrictions for large marginally compliant aircraft at airports",
+   "Secretary may arrange computer programs to make decisions (s22A)",
+   "Transitional provisions for existing RPA approvals (ss31-32)"
+  ],
+  "confidence": 0.8
+ }
+}

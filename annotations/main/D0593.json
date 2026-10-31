@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0593",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:22:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.071588,
+  "in": 4,
+  "out": 3449,
+  "cache_read": 30840,
+  "cache_create": 9208,
+  "api_ms": 19821,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "authors_or_issuer": "武田 洸晶; 佐藤 海二; 平田 泰久; 翁 岳暄",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.1299/jsmermd.2023.1P1-C17",
+  "embodied_categories": [
+   "care_assistive_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "civil_liability",
+   "ethics_principles"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Care robots need accountability to diverse stakeholders, but interfaces are usually designed empirically.",
+   "Authors previously proposed design guidelines for accountability-oriented interfaces for users and caregivers.",
+   "A failure investigation interface is developed for engineers and legal officials following those guidelines.",
+   "Validation experiments confirm the interface's effectiveness."
+  ],
+  "language": "ja",
+  "methodology": "technical_or_engineering",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "transparency_explainability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2024,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Conference abstract from a Japanese robotics meeting presenting a failure investigation interface for care robots, built on earlier accountability-oriented design guidelines. It targets engineers and legal officials as stakeholders and reports validation experiments confirming its effectiveness.",
+  "title_clean": "アカウンタビリティを考慮した福祉ロボットの不具合検証インターフェイス",
+  "title_en": "Failure Investigation Interface for Care Robots Considering Accountability",
+  "venue": "ロボティクス・メカトロニクス講演会講演概要集 (JSME)"
+ }
+}

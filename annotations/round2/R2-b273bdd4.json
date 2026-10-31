@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-b273bdd4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0369178,
+  "in": 2,
+  "out": 1893,
+  "cache_read": 11758,
+  "cache_create": 4202,
+  "api_ms": 9442,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Executive Summary of the Impact Assessment Report: Proposal for a Regulation laying down harmonised rules on Artificial Intelligence (Artificial Intelligence Act)",
+  "title_en": "Executive Summary of the Impact Assessment Report: Proposal for a Regulation laying down harmonised rules on Artificial Intelligence (Artificial Intelligence Act)",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Commission Staff Working Document SWD(2021) 85 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "trust_acceptance",
+   "safety_physical_harm",
+   "transparency_explainability",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "civil_liability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "self_regulation_codes",
+   "conformity_assessment_certification",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Executive summary of the European Commission's impact assessment for the proposed AI Act. It sets out problems, objectives, policy options, stakeholder views and costs, and selects a horizontal risk-based regulation with mandatory requirements for high-risk AI and voluntary codes of conduct for other AI (Option 3+).",
+  "key_provisions_or_claims": [
+   "Preferred option 3+: horizontal mandatory requirements for high-risk AI plus voluntary codes for non-high-risk AI",
+   "Compliance costs estimated at €100–500 million by 2025, about 4-5% of high-risk AI investment",
+   "Member States must designate supervisory authorities; 1–25 FTE each",
+   "SMEs supported via regulatory sandboxes and Digital Innovation Hubs",
+   "AI liability to be addressed through separate future rules; review five years after application"
+  ],
+  "confidence": 0.9
+ }
+}

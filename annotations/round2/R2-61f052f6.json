@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-61f052f6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0428958,
+  "in": 2,
+  "out": 1830,
+  "cache_read": 11758,
+  "cache_create": 5854,
+  "api_ms": 9071,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Council Decision (EU) 2026/1080 on the conclusion, on behalf of the European Union, of the Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+  "title_en": "Council Decision (EU) 2026/1080 on the conclusion, on behalf of the European Union, of the Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+  "language": "en",
+  "authors_or_issuer": "Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "human_dignity_autonomy",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "ethics_principles"
+  ],
+  "primary_topic": "human_dignity_autonomy",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "Council of Europe Framework Convention on AI",
+   "EU AI Act",
+   "GDPR",
+   "EU Product Liability Directive"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Council Decision approving the EU's conclusion of the Council of Europe Framework Convention on AI and Human Rights, Democracy and the Rule of Law. The Convention will be implemented in the EU exclusively through the AI Act and other relevant acquis, with declarations on private actors and territorial scope; national security is excluded.",
+  "key_provisions_or_claims": [
+   "Article 1 approves the Convention on behalf of the EU.",
+   "Article 3: Convention implemented exclusively via Regulation (EU) 2024/1689 and other relevant Union acquis.",
+   "EU holds exclusive external competence; only the Union becomes a party.",
+   "National security activities are excluded from the Convention's scope and the EU position.",
+   "Declarations apply Chapters II-VI to private actors via the AI Act and set the territorial scope."
+  ],
+  "confidence": 0.93
+ }
+}

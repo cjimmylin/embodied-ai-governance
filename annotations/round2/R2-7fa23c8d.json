@@ -1,0 +1,115 @@
+{
+ "doc_id": "R2-7fa23c8d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0772298,
+  "in": 2,
+  "out": 1983,
+  "cache_read": 11758,
+  "cache_create": 14055,
+  "api_ms": 11759,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Постановление Правительства РФ от 26.11.2018 N 1415 «О проведении эксперимента по опытной эксплуатации на автомобильных дорогах общего пользования высокоавтоматизированных транспортных средств»",
+  "title_en": "Russian Government Resolution No. 1415 of 26 Nov 2018 on the Experiment on Pilot Operation of Highly Automated Vehicles on Public Roads",
+  "language": "ru",
+  "authors_or_issuer": "Правительство Российской Федерации",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2018,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Legal database (Russian legislation portal)",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "RU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "cybersecurity",
+   "transparency_explainability",
+   "industrial_policy_innovation",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "conformity_assessment_certification",
+   "insurance_requirement",
+   "liability_regime",
+   "licensing_registration",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "UNECE 1958 Agreement",
+   "TR CU 018/2011 On Safety of Wheeled Vehicles",
+   "Russian Road Traffic Rules (Decree No. 1090)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Russian Government resolution establishing a regulatory experiment (2018–2022) for pilot operation of highly automated vehicles on public roads in designated regions, setting conformity testing, driver requirements, mandatory insurance, data recording and owner liability.",
+  "key_provisions_or_claims": [
+   "Experiment runs in Moscow, Tatarstan and other regions until 1 July 2022",
+   "NAMI test lab assesses vehicles against TR CU 018/2011 and UN Regulations, plus a special safety declaration",
+   "Mandatory third-party liability insurance of 10 million rubles per vehicle",
+   "Vehicles require non-editable video and sensor data recorders (10-year video retention), an 'A' marking and a driver able to take over",
+   "Owner is liable for accidents unless other road users are at fault"
+  ],
+  "confidence": 0.9
+ }
+}

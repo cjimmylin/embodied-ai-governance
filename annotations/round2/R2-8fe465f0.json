@@ -1,0 +1,112 @@
+{
+ "doc_id": "R2-8fe465f0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0802678,
+  "in": 2,
+  "out": 1832,
+  "cache_read": 11758,
+  "cache_create": 15192,
+  "api_ms": 10085,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "An EU initiative on Web 4.0 and virtual worlds: a head start in the next technological transition",
+  "title_en": "An EU initiative on Web 4.0 and virtual worlds: a head start in the next technological transition",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2023) 442 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "manufacturing",
+   "education",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "children_vulnerable_groups",
+   "privacy_data_protection",
+   "consumer_protection",
+   "education_training",
+   "intellectual_property",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "technical_standards_reference",
+   "international_cooperation",
+   "oversight_body_creation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission Communication setting out an EU strategy and ten actions on Web 4.0 and virtual worlds. It covers skills, industrial ecosystem support, public services and global governance. It relies on existing EU law (DSA, DMA, GDPR, AI Act proposal) and promotes open standards, interoperability and regulatory sandboxes.",
+  "key_provisions_or_claims": [
+   "Ten Commission actions across people and skills, business, government and governance",
+   "Virtual worlds toolbox and child protection through BIK+ and age-appropriate design code",
+   "Regulatory sandboxes and a possible European partnership for virtual worlds technologies",
+   "Promotion of open standards and interoperability, and a multi-stakeholder global governance process",
+   "Existing EU legal framework (DSA, DMA, GDPR, AI Act proposal) is held to apply to virtual worlds"
+  ],
+  "confidence": 0.9
+ }
+}

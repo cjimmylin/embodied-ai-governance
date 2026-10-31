@@ -1,0 +1,95 @@
+{
+ "doc_id": "D1464",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:46:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06629360000000001,
+  "in": 4,
+  "out": 3393,
+  "cache_read": 30031,
+  "cache_create": 7832,
+  "api_ms": 17813,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ethical Algorithms in Human-Robot-Interaction. A Proposal",
+  "title_en": "Ethical Algorithms in Human-Robot-Interaction. A Proposal",
+  "language": "en",
+  "authors_or_issuer": "Hardy, J.H.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2023,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.5121/csit.2023.130214",
+  "venue": "Computer Science & Information Technology (CS & IT), AIRCC Publishing",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "other_embodied"
+  ],
+  "primary_embodied_category": "other_embodied",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "trust_acceptance",
+   "human_robot_interaction_social_effects",
+   "transparency_explainability"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Philosophical conference paper arguing autonomous robots lack human moral competence and so need ethical algorithms. It proposes a general logical form of meta-ethical arguments, grounded in the 'moral stance', as a pattern for programming ethical decision-making into robots to support trust in human-robot interaction.",
+  "key_provisions_or_claims": [
+   "Trust in robots depends on reliability and human-like ethical competence.",
+   "Robots cannot take the human moral stance, so ethical algorithms must be implemented.",
+   "Proposes a logical form of meta-ethical arguments as a pattern for ethical algorithms.",
+   "Model is minimalist and not tied to a particular meta-ethical theory.",
+   "Moral demands protect common goods such as bodily integrity and autonomy."
+  ],
+  "confidence": 0.85
+ }
+}

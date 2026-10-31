@@ -1,0 +1,121 @@
+{
+ "doc_id": "D1342",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:50:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1955145,
+  "in": 4,
+  "out": 3816,
+  "cache_read": 60105,
+  "cache_create": 38581,
+  "api_ms": 19827,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "defense_security",
+   "public_administration_justice",
+   "energy_environment",
+   "research_science",
+   "education",
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Office for Artificial Intelligence (DCMS; BEIS), UK Government",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "GB",
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "national_strategy_or_action_plan",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "international_cooperation",
+   "education_training_programs",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "education_training",
+   "standards_interoperability",
+   "trust_acceptance",
+   "intellectual_property",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "transparency_explainability"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Three pillars: invest in AI ecosystem, diffuse AI across sectors and regions, govern AI effectively.",
+   "Aims for the most trusted and pro-innovation AI governance system in the world.",
+   "Launch of National AI Research and Innovation Programme via UKRI.",
+   "Develop cross-government algorithmic transparency standard and pilot an AI Standards Hub.",
+   "Consult on copyright and patents for AI, publish Defence AI Strategy, and monitor long-term AI safety risks."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "page_quality": "substantive_document",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "pub_month": 9,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "The UK's ten-year National AI Strategy (September 2021) sets out three pillars: investing in the AI ecosystem, spreading AI benefits across sectors and regions, and governing AI effectively with a pro-innovation approach. Embodied AI appears only in passing (robotics, driverless cars, defence AI).",
+  "title_clean": "National AI Strategy",
+  "title_en": "National AI Strategy",
+  "venue": "UK Government (Command Paper 525)",
+  "issuer_type": "national_government_executive"
+ }
+}

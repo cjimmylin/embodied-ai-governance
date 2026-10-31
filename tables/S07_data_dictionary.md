@@ -1,0 +1,66 @@
+**S07_data_dictionary. Master table data dictionary**
+
+| column                                                        | description                                                                                                                       |
+|:--------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| doc_id                                                        | Canonical document id after deduplication                                                                                         |
+| collection_region                                             | Regional folder the collectors filed the document under                                                                           |
+| collection_set                                                | sprint = collectors' robotics subset; database = general AI governance set                                                        |
+| collection_tier                                               | Collectors' rubric tier (Core/Supporting/Context only) where available                                                            |
+| collection_points                                             | Collectors' rubric points (Europe only)                                                                                           |
+| collection_country                                            | Collectors' country/issuer field                                                                                                  |
+| collection_robot_focus                                        | Collectors' robot-focus label (Europe only)                                                                                       |
+| collection_type                                               | Collectors' type label (Europe only)                                                                                              |
+| collection_title                                              | Best available collector title (may be a truncated filename slug)                                                                 |
+| source_url                                                    | Source URL from collector manifests                                                                                               |
+| filename                                                      | Primary captured file name                                                                                                        |
+| file_ext                                                      | Primary file extension                                                                                                            |
+| n_files                                                       | Number of captured files merged into this document                                                                                |
+| regions_listed                                                | All regional folders listing the document                                                                                         |
+| text_status                                                   | Conversion status of the primary file: ok, copied, blocked-source (bot wall), stub (no text), reader (recovered via Drive reader) |
+| text_usable                                                   | Usable text available for annotation                                                                                              |
+| text_chars                                                    | Characters of converted text                                                                                                      |
+| lang_detected                                                 | Language detected by fast-langdetect on the text                                                                                  |
+| words                                                         | Word count of full text                                                                                                           |
+| doi_extracted                                                 | First DOI found in text                                                                                                           |
+| pdf_creation_date                                             | PDF CreationDate metadata                                                                                                         |
+| oa_*                                                          | OpenAlex match fields: year, date, type, venue, citations, authors, author countries                                              |
+| title_clean/title_en                                          | Document title (original / English) from annotation                                                                               |
+| language                                                      | Annotated main language (ISO 639-1)                                                                                               |
+| authors_or_issuer                                             | Authors (research) or issuing body (instruments)                                                                                  |
+| issuer_type                                                   | Codebook issuer type                                                                                                              |
+| pub_year/pub_month/date_basis                                 | Annotated publication/adoption date and how it was determined                                                                     |
+| jurisdiction_country                                          | Final ISO alpha-2 jurisdiction (EU, INT, XX allowed): annotation, else OpenAlex first-author country, else collector code         |
+| jurisdiction_country_annotated                                | Jurisdiction as annotated from the text only                                                                                      |
+| jurisdiction_source                                           | Where the final jurisdiction came from: annotation / openalex / collector / unknown                                               |
+| jurisdiction_scope                                            | international/supranational_regional/national/subnational/not_applicable                                                          |
+| countries_discussed                                           | Countries analysed or targeted                                                                                                    |
+| doc_type                                                      | Fine document genre (28 classes, codebook section C)                                                                              |
+| doc_class                                                     | Coarse document class                                                                                                             |
+| is_governance_document                                        | Document itself governs/prescribes                                                                                                |
+| instrument_status                                             | Lifecycle status for governance documents                                                                                         |
+| binding_nature                                                | Binding/soft/standard                                                                                                             |
+| publication_stage                                             | Research publication stage                                                                                                        |
+| ai_scope                                                      | General AI vs embodied scope                                                                                                      |
+| embodiment_status                                             | Physical vs software 'robot'                                                                                                      |
+| embodied_categories/primary_embodied_category                 | Robotics & physical-AI taxonomy labels (codebook section D)                                                                       |
+| embodied_l1                                                   | Level-1 grouping of primary embodied category                                                                                     |
+| application_sectors                                           | Sectors addressed                                                                                                                 |
+| governance_topics/primary_topic                               | Governance topics addressed                                                                                                       |
+| pr_<principle>                                                | Principle salience 0/1/2 (Jobin+OECD core; embodied-specific extensions)                                                          |
+| principles_sum/n_principles_any/n_principles_substantive      | Principle aggregates                                                                                                              |
+| governance_mechanisms                                         | Mechanisms established or recommended                                                                                             |
+| named_instruments_referenced                                  | Instruments cited                                                                                                                 |
+| robot_legal_personhood_position                               | Stance on robot legal personhood                                                                                                  |
+| risk_framing                                                  | Dominant framing                                                                                                                  |
+| stance_toward_regulation                                      | Regulatory stance                                                                                                                 |
+| methodology                                                   | Research methodology                                                                                                              |
+| faith_or_religious_perspective                                | Religious standpoint flag                                                                                                         |
+| page_quality                                                  | Content quality of the capture                                                                                                    |
+| relevance_to_embodied_ai_governance                           | 0-3 relevance rating                                                                                                              |
+| summary_en                                                    | 60-word English summary                                                                                                           |
+| key_provisions_or_claims                                      | Up to 5 key provisions/claims                                                                                                     |
+| confidence                                                    | Annotator confidence 0-1                                                                                                          |
+| jurisdiction_country_name/continent/un_subregion/study_region | Geography derived from jurisdiction_country                                                                                       |
+| year_final/year_source                                        | Best publication year and its source                                                                                              |
+| lex_*_pk                                                      | Lexicon hits per 1,000 words over full text (deterministic, multilingual)                                                         |
+| _model/_prompt_hash/_cost_usd                                 | Annotation provenance                                                                                                             |

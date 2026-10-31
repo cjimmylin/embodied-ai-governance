@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0670",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:43:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.041515800000000005,
+  "in": 2,
+  "out": 1750,
+  "cache_read": 11758,
+  "cache_create": 5709,
+  "api_ms": 9325,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Registrar's Circular No. 9 of 2024: Guide on the Use of Generative Artificial Intelligence Tools by Court Users",
+  "title_en": "Registrar's Circular No. 9 of 2024: Guide on the Use of Generative Artificial Intelligence Tools by Court Users",
+  "language": "en",
+  "authors_or_issuer": "State Courts of the Republic of Singapore (Registrar)",
+  "issuer_type": "court_or_judiciary",
+  "pub_year": 2024,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "State Courts of Singapore",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG"
+  ],
+  "doc_type": "court_decision_or_judicial_notice",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "civil_liability",
+   "intellectual_property",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "ethics_principles"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Singapore court circular issuing a guide, effective 1 October 2024, on court users' use of generative AI in proceedings. Use is permitted, but users bear full responsibility for accuracy, must verify citations, protect confidential information and IP, and may face costs or disciplinary action for non-compliance.",
+  "key_provisions_or_claims": [
+   "Generative AI use in preparing court documents is not prohibited if the Guide is followed.",
+   "Court users remain fully responsible for verifying accuracy of AI-generated content, including citations.",
+   "AI must not be used to fabricate or tamper with evidence.",
+   "Users must protect confidential information and respect IP and data protection laws.",
+   "Non-compliance may bring costs orders, disregard of documents, or disciplinary action."
+  ],
+  "confidence": 0.9
+ }
+}

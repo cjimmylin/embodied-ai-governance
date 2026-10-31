@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-69c992a5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.025973800000000002,
+  "in": 2,
+  "out": 1693,
+  "cache_read": 11758,
+  "cache_create": 1966,
+  "api_ms": 8573,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Advanced Robotics and automation: What are the risks and opportunities for occupational safety and health?",
+  "title_en": "Advanced Robotics and automation: What are the risks and opportunities for occupational safety and health?",
+  "language": "en",
+  "authors_or_issuer": "European Agency for Safety and Health at Work (EU-OSHA)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "EU-OSHA website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "collaborative_robots",
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "collaborative_robots",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "labor_employment",
+   "human_robot_interaction_social_effects",
+   "human_oversight_control",
+   "trust_acceptance"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "EU-OSHA publication landing page for a 2022 policy brief on advanced robotics and automation, covering occupational safety and health risks and opportunities in human-robot interaction, and recommending workers' active involvement so robots do not reduce worker control over jobs.",
+  "key_provisions_or_claims": [
+   "Automation of repetitive, routine and dangerous tasks offers OSH opportunities but also creates challenges.",
+   "Brief focuses on OSH dimensions of human-robot interaction.",
+   "Recommends active worker involvement in how robots are applied.",
+   "Robot systems should not reduce workers' control over their job."
+  ],
+  "confidence": 0.8
+ }
+}

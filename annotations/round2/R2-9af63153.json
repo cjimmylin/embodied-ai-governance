@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-9af63153",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:49:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0315898,
+  "in": 2,
+  "out": 1817,
+  "cache_read": 11758,
+  "cache_create": 3060,
+  "api_ms": 9444,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Directive 2009/1/EC of 7 January 2009 amending Directive 2005/64/EC on the type-approval of motor vehicles with regard to their reusability, recyclability and recoverability",
+  "title_en": "Commission Directive 2009/1/EC of 7 January 2009 amending Directive 2005/64/EC on the type-approval of motor vehicles with regard to their reusability, recyclability and recoverability",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2009,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "sustainability_environment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission Directive adapting the EU type-approval directive on motor vehicle reusability, recyclability and recoverability to technical progress. It requires manufacturers to show supplier contractual arrangements and procedures ensuring end-of-life vehicle material compliance, using ISO 9000/14000 quality programmes. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Annex IV to Directive 2005/64/EC amended with new paragraph 4.",
+   "Manufacturers must demonstrate supplier contractual arrangements ensuring compliance with ELV Directive Article 4(2)(a).",
+   "Manufacturers must set procedures to communicate, monitor, collect and verify supplier data.",
+   "ISO 9000/14000 or equivalent quality assurance programme required.",
+   "From 1 January 2012 Member States must refuse type-approval for non-compliant new vehicle types."
+  ],
+  "confidence": 0.95
+ }
+}

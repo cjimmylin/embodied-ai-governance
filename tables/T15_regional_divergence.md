@@ -1,0 +1,42 @@
+**T15_regional_divergence. Regional divergence: association between region and principle presence (embodied-AI documents) or mechanism presence (governance documents); Cramer's V with Holm-corrected chi-square p**
+
+| item                                          | label                               |   cramers_v |      p |   min_region_pct |   max_region_pct |   p_holm |
+|:----------------------------------------------|:------------------------------------|------------:|-------:|-----------------:|-----------------:|---------:|
+| principle:beneficence                         | Beneficence                         |       0.339 | 0      |             17.8 |             63.9 |   0      |
+| mechanism:technical_standards_reference       | Technical standards reference       |       0.333 | 0      |             17.6 |             85.5 |   0      |
+| mechanism:conformity_assessment_certification | Conformity assessment certification |       0.333 | 0      |             14.1 |             48.5 |   0      |
+| mechanism:funding_or_incentives               | Funding or incentives               |       0.323 | 0      |              2.9 |             48.1 |   0      |
+| mechanism:licensing_registration              | Licensing registration              |       0.315 | 0      |              5.4 |             72   |   0      |
+| mechanism:education_training_programs         | Education training programs         |       0.307 | 0      |             10   |             74.1 |   0      |
+| principle:trust                               | Trust                               |       0.304 | 0      |              9.1 |             44.6 |   0      |
+| mechanism:oversight_body_creation             | Oversight body creation             |       0.296 | 0      |             10.7 |             66.7 |   0      |
+| principle:freedom_autonomy                    | Freedom & autonomy                  |       0.275 | 0      |              3.3 |             32   |   0      |
+| principle:privacy                             | Privacy                             |       0.269 | 0      |              7.9 |             41.7 |   0      |
+| principle:responsibility_accountability       | Responsibility & accountability     |       0.253 | 0      |             36.5 |             86.7 |   0      |
+| principle:liability_for_physical_damage       | Liability for physical damage       |       0.248 | 0      |              3.7 |             57.8 |   0      |
+| principle:inclusive_growth                    | Inclusive growth                    |       0.24  | 0      |             15   |             51.1 |   0      |
+| principle:human_robot_proximity               | Human-robot proximity               |       0.237 | 0      |             17.5 |             55.5 |   0      |
+| mechanism:international_cooperation           | International cooperation           |       0.233 | 0      |              2.7 |             55.6 |   0      |
+| principle:dignity                             | Dignity                             |       0.232 | 0      |              7.5 |             28.7 |   0      |
+| principle:justice_fairness                    | Justice & fairness                  |       0.231 | 0      |             12.4 |             37.1 |   0      |
+| mechanism:prohibitions_bans                   | Prohibitions bans                   |       0.214 | 0      |              5.9 |             32.4 |   0      |
+| principle:robustness_security                 | Robustness & security               |       0.208 | 0      |             23.8 |             66.4 |   0      |
+| mechanism:data_governance_requirements        | Data governance requirements        |       0.195 | 0      |              7.1 |             48.1 |   0      |
+| mechanism:liability_regime                    | Liability regime                    |       0.193 | 0.0002 |              0.4 |             18.9 |   0.001  |
+| mechanism:transparency_disclosure_labelling   | Transparency disclosure labelling   |       0.19  | 0      |             11.6 |             43.2 |   0      |
+| principle:sustainability                      | Sustainability                      |       0.186 | 0      |              5   |             27.8 |   0      |
+| principle:transparency                        | Transparency                        |       0.184 | 0      |             17.5 |             45.4 |   0      |
+| mechanism:incident_reporting                  | Incident reporting                  |       0.181 | 0      |              4.1 |             28.9 |   0      |
+| mechanism:risk_based_tiering                  | Risk based tiering                  |       0.177 | 0      |              4.6 |             33.3 |   0      |
+| mechanism:insurance_requirement               | Insurance requirement               |       0.17  | 0.0002 |              0   |             22.2 |   0.001  |
+| mechanism:human_oversight_requirement         | Human oversight requirement         |       0.166 | 0      |             10   |             44.4 |   0      |
+| principle:conformity_assessment_certification | Conformity assessment               |       0.163 | 0      |             22.2 |             52.8 |   0      |
+| principle:physical_safety                     | Physical safety                     |       0.161 | 0      |             60.3 |             85   |   0      |
+| principle:solidarity                          | Solidarity                          |       0.15  | 0      |              7.5 |             21.5 |   0      |
+| principle:non_maleficence                     | Non-maleficence                     |       0.147 | 0      |             72.6 |             94.4 |   0.0001 |
+| principle:human_oversight                     | Human oversight                     |       0.145 | 0      |             36.9 |             75.6 |   0.0001 |
+| mechanism:audits_impact_assessment            | Audits impact assessment            |       0.143 | 0      |             20   |             51.4 |   0.0001 |
+| mechanism:self_regulation_codes               | Self regulation codes               |       0.142 | 0      |              4.1 |             27.3 |   0.0001 |
+| principle:autonomy_level_control              | Autonomy level & control            |       0.142 | 0      |             41.2 |             80   |   0.0001 |
+| mechanism:testing_sandboxes                   | Testing sandboxes                   |       0.12  | 0.001  |              4   |             40.7 |   0.0019 |
+| principle:dual_use_military                   | Dual use & military                 |       0.111 | 0.0038 |              9.7 |             25   |   0.0038 |

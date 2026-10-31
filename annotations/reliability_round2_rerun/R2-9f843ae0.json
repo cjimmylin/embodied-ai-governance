@@ -1,0 +1,92 @@
+{
+ "doc_id": "R2-9f843ae0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:10:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0272778,
+  "in": 2,
+  "out": 1891,
+  "cache_read": 11758,
+  "cache_create": 1797,
+  "api_ms": 10440,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "GB/T 39478-2020 (国家标准公开系统 标准检索页)",
+  "title_en": "GB/T 39478-2020 (National Standards Public Disclosure System catalogue page)",
+  "language": "zh",
+  "authors_or_issuer": "国家市场监督管理总局、国家标准化管理委员会 (SAMR / SAC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2020,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "National Public Service Platform for Standards Information (China)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "standards_interoperability"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Catalogue page from China's national standards disclosure system listing GB/T 39478-2020, a current recommended national standard under ICS 25 (mechanical manufacturing), issued 2020-11-19 and effective 2021-06-01. No standard text or title is shown, so the subject matter cannot be confirmed.",
+  "key_provisions_or_claims": [
+   "GB/T 39478-2020 is a recommended (GB/T) national standard, status current.",
+   "Issued 2020-11-19; effective 2021-06-01.",
+   "Classified under ICS 25 mechanical manufacturing.",
+   "Page shows only metadata, no standard text."
+  ],
+  "confidence": 0.3
+ }
+}

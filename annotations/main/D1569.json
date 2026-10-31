@@ -1,0 +1,117 @@
+{
+ "doc_id": "D1569",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:49:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0475438,
+  "in": 2,
+  "out": 2000,
+  "cache_read": 11758,
+  "cache_create": 6591,
+  "api_ms": 9989,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Review of Legal Frameworks, Standards and Best Practices in Verification and Assurance for Infrastructure Inspection Robotics",
+  "title_en": "Review of Legal Frameworks, Standards and Best Practices in Verification and Assurance for Infrastructure Inspection Robotics",
+  "language": "en",
+  "authors_or_issuer": "Gheraibia, Y.; Kao, B.; Alexander, R.; Morgan, P.; Kilvington, L.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": "10.2139/ssrn.3645997",
+  "venue": "RIMA project deliverable D7.4 (White Rose Research Online)",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "GB",
+   "FR",
+   "DE"
+  ],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "drones_uas",
+   "autonomous_road_vehicles",
+   "autonomous_maritime_or_rail",
+   "industrial_manipulators",
+   "space_or_extreme_environment"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "energy_environment",
+   "construction",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "consumer_protection",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "liability_regime",
+   "insurance_requirement",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Regulation",
+   "EU Product Liability Directive"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "RIMA project deliverable reviewing EU and Member State legal frameworks, safety standards and liability regimes applicable to infrastructure inspection and maintenance robots, covering drones, autonomous road vehicles and underwater vessels. It concludes existing law suffices for now, though increasing autonomy may complicate allocation of responsibility.",
+  "key_provisions_or_claims": [
+   "No single framework regulates robotics in Europe; regimes vary by robot type and domain (air, land, water).",
+   "Reviews EU Machinery, Radio Equipment and EMC Directives applicable to robots.",
+   "Compares fault-based, strict and product liability across common law, French, German, Central European and Nordic systems.",
+   "Existing laws are sufficient for current technology but increasing autonomy may raise responsibility-allocation problems.",
+   "Surveys standards and certification for UAS, autonomous road vehicles and unmanned underwater vessels."
+  ],
+  "confidence": 0.85
+ }
+}

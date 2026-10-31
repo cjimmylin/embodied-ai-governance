@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-1b868f01",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1050375,
+  "in": 4,
+  "out": 3729,
+  "cache_read": 38310,
+  "cache_create": 16687,
+  "api_ms": 23124,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "European Parliament",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "international_cooperation",
+   "incident_reporting",
+   "transparency_disclosure_labelling",
+   "funding_or_incentives"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "consumer_protection",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "transparency_explainability"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Calls for simplification and better implementation of EU single market rules while upholding core policy objectives.",
+   "Demands competitiveness checks in impact assessments and a stronger Regulatory Scrutiny Board.",
+   "Calls for a fitness check clarifying interplay of the AI Act, GDPR, DSA, Product Liability Directive and cybersecurity rules.",
+   "Supports regulatory sandboxes and iterative, co-regulatory approaches for emerging technologies.",
+   "Calls for harmonised enforcement, a revised Consumer Protection Cooperation Regulation and a revised New Legislative Framework."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "EU Product Liability Directive"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "European Parliament resolution of 11 September 2025 on implementing and streamlining EU internal market rules. It urges simplification, harmonised enforcement, competitiveness checks and SME support. It calls for a digital fitness check clarifying how the AI Act, GDPR, DSA and Product Liability Directive interact. It also backs regulatory sandboxes.",
+  "title_clean": "Implementation and streamlining of EU internal market rules to strengthen the single market",
+  "title_en": "Implementation and streamlining of EU internal market rules to strengthen the single market",
+  "venue": "Official Journal of the European Union (C series)",
+  "issuer_type": "intergovernmental_org"
+ }
+}

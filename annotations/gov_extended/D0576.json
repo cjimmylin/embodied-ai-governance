@@ -1,0 +1,109 @@
+{
+ "doc_id": "D0576",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:43:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04143380000000001,
+  "in": 2,
+  "out": 1819,
+  "cache_read": 11758,
+  "cache_create": 5516,
+  "api_ms": 8856,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ten AI Initiatives Promotion Plan (2025-2028)",
+  "title_en": "Ten AI Initiatives Promotion Plan (2025-2028)",
+  "language": "en",
+  "authors_or_issuer": "National Development Council (Taiwan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "National Development Council website",
+  "jurisdiction_country": "TW",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "TW"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "professional_service_robots",
+   "care_assistive_robots",
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "retail_hospitality",
+   "logistics_transport",
+   "public_administration_justice",
+   "education"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "cybersecurity",
+   "privacy_data_protection",
+   "trust_acceptance",
+   "labor_employment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Taiwan National Development Council page summarising the Ten AI Initiatives Promotion Plan (2025-2028), approved by the Executive Yuan in January 2026. It sets out smart applications, critical technologies (including an AI robotics supply chain and national R&D center), and digital foundations, aiming to make Taiwan a Smart Technology Island.",
+  "key_provisions_or_claims": [
+   "Executive Yuan approved the plan on January 28, 2026",
+   "Establish a National-Level R&D Center for AI Robotics and promote smart robots in hospitality, healthcare, logistics and disaster prevention",
+   "Build sovereign AI and computing infrastructure and strengthen cybersecurity resilience",
+   "Complete regulatory framework and data governance for smart government",
+   "Build AI talent from elementary school onward and mobilise large-scale funding for innovation"
+  ],
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-9f843ae0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:44:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0273438,
+  "in": 2,
+  "out": 1700,
+  "cache_read": 11758,
+  "cache_create": 2291,
+  "api_ms": 8291,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "全国标准信息公共服务平台 标准检索结果：GB/T 39478-2020 停车服务移动机器人通用技术条件",
+  "title_en": "National Standards Information Public Service Platform search results: GB/T 39478-2020 General technical requirements for mobile robots for parking services",
+  "language": "zh",
+  "authors_or_issuer": "国家市场监督管理总局国家标准技术审评中心 (SAMR / SAC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2020,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Search-results page on China's national standards platform listing one voluntary national standard, GB/T 39478-2020, general technical requirements for parking service mobile robots (current, issued 2020-11-19, effective 2021-06-01). Only catalogue metadata is shown, not the standard text.",
+  "key_provisions_or_claims": [
+   "GB/T 39478-2020 is a recommended (voluntary) national standard for parking service mobile robots",
+   "Status current; published 2020-11-19, effective 2021-06-01",
+   "Classified under ICS 25 (mechanical manufacturing)",
+   "Page shows catalogue metadata only, no technical requirements"
+  ],
+  "confidence": 0.8
+ }
+}

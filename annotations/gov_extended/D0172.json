@@ -1,0 +1,113 @@
+{
+ "doc_id": "D0172",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:39:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1050898,
+  "in": 2,
+  "out": 1849,
+  "cache_read": 11758,
+  "cache_create": 21355,
+  "api_ms": 11007,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Consulta Pública: Estratégia Brasileira de Inteligência Artificial",
+  "title_en": "Public Consultation: Brazilian Artificial Intelligence Strategy",
+  "language": "pt",
+  "authors_or_issuer": "Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 12,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "MCTIC (www.mctic.gov.br)",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "consultation_open",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "education",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "civil_liability",
+   "fairness_bias_discrimination",
+   "transparency_explainability",
+   "human_oversight_control",
+   "labor_employment",
+   "education_training",
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "testing_sandboxes",
+   "education_training_programs",
+   "international_cooperation",
+   "self_regulation_codes",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "MCTIC's public consultation document seeking input for Brazil's national AI strategy. It sets out transversal and vertical thematic axes (ethics and regulation, governance, international aspects, education, workforce, R&D, productive sectors, public sector, public security) with discussion questions. Embodied AI appears only in passing (autonomous vehicles, robot taxation).",
+  "key_provisions_or_claims": [
+   "Seeks public input for a Brazilian National AI Strategy, building on the OECD AI Principles.",
+   "Asks whether Brazil needs a general AI law or targeted updates to existing legislation.",
+   "Raises civil, criminal and administrative liability for AI-caused harm.",
+   "Asks whether robots should generate social revenue such as taxes.",
+   "Proposes impact assessments, bias mitigation, explainability and an institutional ethics body."
+  ],
+  "confidence": 0.85
+ }
+}

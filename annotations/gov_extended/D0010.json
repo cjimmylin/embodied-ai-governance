@@ -1,0 +1,113 @@
+{
+ "doc_id": "D0010",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:36:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1940518,
+  "in": 2,
+  "out": 1874,
+  "cache_read": 11758,
+  "cache_create": 43533,
+  "api_ms": 13071,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Hoja de Ruta para la Adopción Ética y Sostenible de la Inteligencia Artificial en Colombia",
+  "title_en": "Roadmap for the Ethical and Sustainable Adoption of Artificial Intelligence in Colombia",
+  "language": "es",
+  "authors_or_issuer": "Ministerio de Ciencia, Tecnología e Innovación (Minciencias), Colombia",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Minciencias",
+  "jurisdiction_country": "CO",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CO"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "education",
+   "research_science"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "cybersecurity",
+   "sustainability_environment",
+   "education_training",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "oversight_body_creation",
+   "testing_sandboxes",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI",
+   "OECD AI Principles",
+   "GDPR",
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Colombia's Ministry of Science's mission-oriented roadmap for ethical and sustainable AI adoption. It sets a baseline, five environments (ethics and governance, education and research, data, innovative industries, privacy/cybersecurity/defence), innovation routes with TRL levels, an action plan and monitoring. It is general AI policy, with no robotics-specific provisions.",
+  "key_provisions_or_claims": [
+   "Defines a mission-oriented roadmap across five AI environments",
+   "Builds on CONPES 3975, UNESCO and OECD ethics recommendations, and Colombia's Ethical Framework for AI",
+   "Baseline: about 9% of Colombian firms had adopted AI by 2022",
+   "Sets innovation routes with technology readiness levels and an action plan",
+   "Establishes follow-up and evaluation mechanisms as a living document"
+  ],
+  "confidence": 0.8
+ }
+}

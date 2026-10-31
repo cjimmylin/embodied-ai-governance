@@ -1,0 +1,102 @@
+{
+ "doc_id": "D1003",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:33:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0454318,
+  "in": 2,
+  "out": 1754,
+  "cache_read": 11758,
+  "cache_create": 6678,
+  "api_ms": 12748,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Engagements on Canada's next AI Strategy: Summary of Inputs",
+  "title_en": "Engagements on Canada's next AI Strategy: Summary of Inputs",
+  "language": "en",
+  "authors_or_issuer": "Innovation, Science and Economic Development Canada (ISED)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISED Canada",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "education_training",
+   "trust_acceptance",
+   "cybersecurity",
+   "civil_liability",
+   "labor_employment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "education_training_programs",
+   "funding_or_incentives",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "ISED Canada summarises inputs to its 2025 consultation on a renewed national AI strategy: over 11,300 respondents and 32 Task Force reports across eight pillars. Themes include talent, adoption, sovereign infrastructure, public trust, risk-based regulation, security and liability. General AI focus with no robotics-specific content.",
+  "key_provisions_or_claims": [
+   "Largest consultation in ISED history: 11,300+ participants, 64,600 responses to 26 questions on eight pillars",
+   "32 AI Strategy Task Force reports informed the summary",
+   "Key themes: risk-based regulation, transparent governance, sovereign infrastructure, AI literacy, security and liability laws",
+   "Recommends AI assurance labs, governance councils and a national AI talent strategy",
+   "Responses were analysed using LLMs with human validation"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-5d4993b3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0506628,
+  "in": 4,
+  "out": 3498,
+  "cache_read": 25593,
+  "cache_create": 4000,
+  "api_ms": 22982,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "PAS 1883:2020 Operational design domain (ODD) taxonomy for an automated driving system (ADS). Specification",
+  "title_en": "PAS 1883:2020 Operational design domain (ODD) taxonomy for an automated driving system (ADS). Specification",
+  "language": "en",
+  "authors_or_issuer": "BSI (British Standards Institution), commissioned by CCAV",
+  "issuer_type": "standards_body",
+  "pub_year": 2020,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "BSI Knowledge",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "BSI catalogue page for PAS 1883:2020, a UK specification setting minimum hierarchical taxonomy requirements for defining the operational design domain of Level 3 and 4 automated driving systems. Commissioned by CCAV to support safe CAV trials and deployment; withdrawn 25 March 2025.",
+  "key_provisions_or_claims": [
+   "Specifies minimum hierarchical ODD taxonomy for automated driving systems",
+   "Applies to Level 3 and Level 4 ADS",
+   "Supports safety cases for automated vehicle trials",
+   "Commissioned by CCAV as part of the BSI CAV standards programme",
+   "Withdrawn on 25 March 2025"
+  ],
+  "confidence": 0.85
+ }
+}

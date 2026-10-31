@@ -1,0 +1,112 @@
+{
+ "doc_id": "D0196",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:39:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0995376,
+  "in": 4,
+  "out": 3662,
+  "cache_read": 37146,
+  "cache_create": 15500,
+  "api_ms": 19067,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "education",
+   "energy_environment",
+   "agriculture_food",
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Qatar Center for Artificial Intelligence (QCAI), Qatar Computing Research Institute",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "QA"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "national_strategy_or_action_plan",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation",
+   "international_cooperation",
+   "data_governance_requirements",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "labor_employment",
+   "privacy_data_protection",
+   "ethics_principles",
+   "transparency_explainability",
+   "fairness_bias_discrimination"
+  ],
+  "instrument_status": "proposal_or_concept",
+  "is_governance_document": true,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "QA",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Six pillars: education, data access, employment, business, research, ethics.",
+   "Appoint a senior AI committee under the Prime Minister's office.",
+   "Develop data-sharing guidelines and lead multilateral data-sharing diplomacy.",
+   "Develop an AI Ethics and Governance framework consistent with Qatari cultural and religious norms.",
+   "Set explainability guidelines and use GDPR as a template for privacy protection."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2019,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Blueprint by the Qatar Center for AI proposing a national AI strategy for Qatar built on six pillars: talent and education, data access, employment, business, research and national-interest applications, and ethics. It recommends a senior AI committee, data-sharing rules, and an ethics and governance framework aligned with local norms. It has no robotics content.",
+  "title_clean": "Blueprint: National Artificial Intelligence Strategy for Qatar",
+  "title_en": "Blueprint: National Artificial Intelligence Strategy for Qatar",
+  "venue": "Qatar Computing Research Institute (HBKU)"
+ }
+}

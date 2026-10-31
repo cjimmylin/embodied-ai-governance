@@ -1,0 +1,95 @@
+{
+ "doc_id": "D1584",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0490726,
+  "in": 4,
+  "out": 3387,
+  "cache_read": 25846,
+  "cache_create": 3646,
+  "api_ms": 21922,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robotics for Human Creativity: Ethical Issues",
+  "title_en": "Robotics for Human Creativity: Ethical Issues",
+  "language": "en",
+  "authors_or_issuer": "Quick, O.S.; Nørskov, S.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.3233/FAIA220643",
+  "venue": "Frontiers in Artificial Intelligence and Applications, Vol. 366: Social Robots in Social Institutions (IOS Press)",
+  "jurisdiction_country": "DK",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "research_ethics",
+   "human_robot_interaction_social_effects",
+   "labor_employment"
+  ],
+  "primary_topic": "research_ethics",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Research paper in a social robots volume examining organizational and HRI creativity research, emotional labor, and social robots that augment human creativity. It argues researchers have a normative responsibility to reflect on ethical implications of their work from the outset rather than after the fact.",
+  "key_provisions_or_claims": [
+   "Creativity researchers should engage in ethical reflection ab initio, not only after the fact",
+   "Researchers have a normative responsibility for the applications of their results",
+   "Early engagement gives researchers influence over how results are employed",
+   "Examines the link between emotional labor, affect-creativity and social robots"
+  ],
+  "confidence": 0.75
+ }
+}

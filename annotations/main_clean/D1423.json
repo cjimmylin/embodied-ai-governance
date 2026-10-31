@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1423",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:05:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0573294,
+  "in": 4,
+  "out": 3471,
+  "cache_read": 27669,
+  "cache_create": 5446,
+  "api_ms": 20396,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Chappie suggests it's time to think about the rights of robots",
+  "title_en": "Chappie suggests it's time to think about the rights of robots",
+  "language": "en",
+  "authors_or_issuer": "Moffett, L.",
+  "issuer_type": "news_media",
+  "pub_year": 2015,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": "10.64628/ab.ex56n7mdk",
+  "venue": "The Conversation Africa",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "blog_or_opinion",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "security_policing_robots",
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "military_use_ihl",
+   "ethics_principles",
+   "criminal_liability",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "robot_legal_personhood_position": "supports",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Opinion piece using the film Chappie to discuss AI and robot ethics. It covers fears of killer robots, the Stop Killer Robots campaign, the limits of Asimov's laws, and argues that conscious robots would need basic rights as well as responsibilities to protect humanity.",
+  "key_provisions_or_claims": [
+   "Autonomous weapons struggle to comply with laws of war (distinction, proportionality).",
+   "Asimov's Three Laws are inadequate as regulation because of conflicts and loopholes.",
+   "Accountability for robot killings should not fall on robots rather than human controllers.",
+   "Conscious robots should be granted basic rights of existence alongside responsibilities."
+  ],
+  "confidence": 0.85
+ }
+}

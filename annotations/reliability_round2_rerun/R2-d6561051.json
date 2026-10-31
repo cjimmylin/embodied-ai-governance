@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-d6561051",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:07:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0263578,
+  "in": 2,
+  "out": 1677,
+  "cache_read": 11758,
+  "cache_create": 2102,
+  "api_ms": 8513,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Principles of cyber security for connected and automated vehicles",
+  "title_en": "Principles of cyber security for connected and automated vehicles",
+  "language": "en",
+  "authors_or_issuer": "Centre for the Protection of National Infrastructure; Centre for Connected and Autonomous Vehicles",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2017,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "incident_reporting",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "UK government guidance page from CPNI and CCAV setting out eight principles for cyber security in connected and automated vehicles, covering board-level ownership, risk management, supply chain, aftercare, defence-in-depth, software lifecycle, data security and resilience.",
+  "key_provisions_or_claims": [
+   "Security should be owned and governed at board level",
+   "Risks, including supply chain risks, should be managed proportionately",
+   "Product aftercare and incident response needed over the system lifetime",
+   "Systems designed with defence-in-depth and resilient to attacks or sensor failure",
+   "Software security managed throughout its lifetime; data storage and transmission secured"
+  ],
+  "confidence": 0.9
+ }
+}

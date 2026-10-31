@@ -1,0 +1,101 @@
+{
+ "doc_id": "D0997",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:33:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0457738,
+  "in": 2,
+  "out": 1781,
+  "cache_read": 11758,
+  "cache_create": 6696,
+  "api_ms": 9745,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Statement 3/2024 on data protection authorities' role in the Artificial Intelligence Act framework",
+  "title_en": "Statement 3/2024 on data protection authorities' role in the Artificial Intelligence Act framework",
+  "language": "en",
+  "authors_or_issuer": "European Data Protection Board (EDPB)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Data Protection Board website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "fairness_bias_discrimination",
+   "human_oversight_control"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "international_cooperation",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EDPB statement adopted 16 July 2024 on the role of data protection authorities under the EU AI Act. It argues that DPAs should be designated as market surveillance authorities, stresses complementarity of the AI Act and GDPR, and calls for cooperation between DPAs, the EDPB and the AI Office, including on general-purpose AI.",
+  "key_provisions_or_claims": [
+   "AI Act and EU data protection law are complementary and mutually reinforcing.",
+   "DPAs should be designated as market surveillance authorities, providing a single contact point.",
+   "Art. 74(8) AI Act requires DPAs or equivalent authorities for certain high-risk systems in Annex III.",
+   "EDPS supervises EU institutions under Art. 70(9) AI Act.",
+   "AI Office must cooperate with national DPAs and the EDPB, including on general-purpose AI models and codes of practice."
+  ],
+  "confidence": 0.9
+ }
+}

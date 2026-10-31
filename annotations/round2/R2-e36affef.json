@@ -1,0 +1,120 @@
+{
+ "doc_id": "R2-e36affef",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:55:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0962558,
+  "in": 2,
+  "out": 1914,
+  "cache_read": 11758,
+  "cache_create": 18984,
+  "api_ms": 13355,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "On the road to automated mobility: An EU strategy for mobility of the future",
+  "title_en": "On the road to automated mobility: An EU strategy for mobility of the future",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2018,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2018) 283 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "US",
+   "JP",
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "cybersecurity",
+   "privacy_data_protection",
+   "labor_employment",
+   "ethics_principles",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "liability_regime",
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "data_governance_requirements",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU Product Liability Directive"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "European Commission Communication setting out an EU strategy for connected and automated mobility. It combines funding for testing and infrastructure, adaptation of vehicle approval and General Safety Regulation rules, liability, data recorders, cybersecurity, data access, and societal, ethical and labour impacts, with the aim of EU leadership and Vision Zero.",
+  "key_provisions_or_claims": [
+   "Revise General Safety Regulation to cover automated vehicle safety, data recorders, platooning and cybersecurity",
+   "Develop new safety certification approach and harmonised national ad-hoc safety assessment guidelines",
+   "Existing Motor Insurance and Product Liability Directives deemed largely adequate; interpretative guidance planned",
+   "Funding via Horizon 2020 and Connecting Europe Facility for large-scale testing, 5G corridors and Galileo",
+   "Set up EU forum on ethics of driverless mobility and support reskilling of affected workers"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "doc_id": "R2-3e0d3fa3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:38:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2742618,
+  "in": 2,
+  "out": 1557,
+  "cache_read": 11758,
+  "cache_create": 64378,
+  "api_ms": 8992,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "人事院規則一七―〇（管理職員等の範囲）",
+  "title_en": "National Personnel Authority Rule 17-0 (Scope of Managerial Employees, etc.)",
+  "language": "ja",
+  "authors_or_issuer": "人事院 (National Personnel Authority, Japan)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov法令検索",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "labor_employment"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Japanese National Personnel Authority Rule 17-0 (1966, amended through July 2026) defining which civil service positions count as managerial employees under the National Public Service Act, via an appendix table by organisation. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Defines managerial employees under Article 108-2(3) proviso of the National Public Service Act by organisation and post",
+   "Agency heads must notify employees when their managerial status changes",
+   "Agency heads must notify the NPA of organisational or post changes"
+  ],
+  "confidence": 0.95
+ }
+}

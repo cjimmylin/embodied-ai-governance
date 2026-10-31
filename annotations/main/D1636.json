@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1636",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:51:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0458238,
+  "in": 2,
+  "out": 1846,
+  "cache_read": 11758,
+  "cache_create": 6546,
+  "api_ms": 10488,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "research_science",
+   "elder_care_social_care"
+  ],
+  "authors_or_issuer": "Augustine, A.; Eyssel, F.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.1007/s12369-026-01405-y",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "human_robot_interaction_social_effects",
+   "trust_acceptance",
+   "privacy_data_protection",
+   "ethics_principles"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Immoral robot behavior (cheating or physical harm) lowered perceived trustworthiness and goodwill in all four experiments.",
+   "Liking decreased in three of four experiments.",
+   "Willingness to self-disclose fell only when videos showed a robot physically harming a human.",
+   "Robot moral behavior did not affect mind perception.",
+   "Inconsistent results may reflect harm severity and how moral behavior was operationalized."
+  ],
+  "language": "en",
+  "methodology": "empirical_quantitative",
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2026,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Four experiments (vignettes and videos) test how a humanoid robot's moral versus immoral behavior (cheating, physical harm) affects perceived trustworthiness, goodwill, liking, mind perception and willingness to self-disclose. Immoral robots were trusted less; self-disclosure dropped only after physical harm. It is a social-psychology study with no direct governance proposals.",
+  "title_clean": "The Role of Perceived Moral Agency of a Humanoid Robot on the Willingness to Self-Disclose, Trustworthiness, Goodwill, and Liking",
+  "title_en": "The Role of Perceived Moral Agency of a Humanoid Robot on the Willingness to Self-Disclose, Trustworthiness, Goodwill, and Liking",
+  "venue": "International Journal of Social Robotics"
+ }
+}

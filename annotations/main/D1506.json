@@ -1,0 +1,94 @@
+{
+ "doc_id": "D1506",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:47:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0347758,
+  "in": 2,
+  "out": 1718,
+  "cache_read": 11758,
+  "cache_create": 4104,
+  "api_ms": 8163,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Future Directions in Software Engineering for Autonomous Robots: An Agenda for Trustworthiness [Opinion]",
+  "title_en": "Future Directions in Software Engineering for Autonomous Robots: An Agenda for Trustworthiness [Opinion]",
+  "language": "en",
+  "authors_or_issuer": "Brugali, D.; Cavalcanti, A.; Hochgeschwender, N.; Pelliccione, P.; Rebelo, L.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "IEEE Robotics and Automation Magazine",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "editorial_or_commentary",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "other_embodied"
+  ],
+  "primary_embodied_category": "other_embodied",
+  "application_sectors": [
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "trust_acceptance",
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "trust_acceptance",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Repository record for an opinion article in IEEE Robotics and Automation Magazine on software engineering for autonomous robots. It argues that software engineering methods, including testing, simulation and formal proof, can improve robot software quality and provide evidence for robot trustworthiness. Only the abstract is available.",
+  "key_provisions_or_claims": [
+   "Software engineering can improve the quality of autonomous robot software.",
+   "Verification by testing, simulation or mathematical proof can provide evidence of trustworthiness.",
+   "Autonomous robots are a significant benchmark for software engineering.",
+   "Robotics techniques such as control theory and automated planning inspire software engineers."
+  ],
+  "confidence": 0.7
+ }
+}

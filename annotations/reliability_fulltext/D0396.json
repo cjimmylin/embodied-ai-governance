@@ -1,0 +1,108 @@
+{
+ "doc_id": "D0396",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:12:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1498686,
+  "in": 4,
+  "out": 3919,
+  "cache_read": 48656,
+  "cache_create": 27238,
+  "api_ms": 20906,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Autonomous delivery robots: a legal framework for infliction of game-theoretic small penalties on pedestrians",
+  "title_en": "Autonomous delivery robots: a legal framework for infliction of game-theoretic small penalties on pedestrians",
+  "language": "en",
+  "authors_or_issuer": "Basu, S.; Omotubora, A.; Fox, C.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": "10.1080/17579961.2024.2392940",
+  "venue": "Law, Innovation and Technology",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "US"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots",
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "criminal_liability",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "legal_personhood_robot_rights",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "licensing_registration",
+   "insurance_requirement",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Legal-doctrinal article arguing that autonomous delivery robots, which game theory shows must maintain credible threats of small harms to avoid the 'freezing robot problem', could be treated as pedestrians under UK law. It proposes robot self-defence and defence of property as justifications, and examines collision liability and data protection and bias issues.",
+  "key_provisions_or_claims": [
+   "Game theory implies delivery robots need credible small penalties to avoid freezing when negotiating space with pedestrians.",
+   "ADRs could be classed as pedestrians under existing UK law, analogous to Class 3 mobility scooters.",
+   "Robot self-defence and defence of property proposed as legal bases for small penalties, with the operator as the directing mind.",
+   "Liability for collisions falls on licensed no-user-in-charge operators under the Law Commission scheme; criminal and negligence exposure remains.",
+   "Predicting pedestrian assertiveness from personal data raises data protection, profiling and discrimination concerns."
+  ],
+  "confidence": 0.9
+ }
+}

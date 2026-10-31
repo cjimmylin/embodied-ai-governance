@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-d0d19353",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:01:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.15604600000000002,
+  "in": 2,
+  "out": 1907,
+  "cache_read": 0,
+  "cache_create": 34243,
+  "api_ms": 10417,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "defense_security",
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "National Assembly of the Socialist Republic of Vietnam",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "VN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas",
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "international_cooperation",
+   "funding_or_incentives",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "military_use_ihl",
+   "standards_interoperability",
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "instrument_status": "adopted_not_yet_in_force",
+  "is_governance_document": true,
+  "jurisdiction_country": "VN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Unmanned aircraft and other flying vehicles must be registered before operation; Public Security or Defense authorities register them.",
+   "Flight permits are required, with exemptions for under-0.25 kg recreational drones outside restricted areas; operators must be 18+ and hold flight control licences.",
+   "Research, manufacture, repair and trade require eligibility certificates from the Ministry of National Defense and compliance with its standards.",
+   "Competent forces may suspend flights and suppress or temporarily seize non-compliant drones.",
+   "Illegal making, trading, importing or operating of drones, or using them to carry weapons or conduct propaganda, is prohibited; the law takes effect July 1, 2025."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 2
+  },
+  "pub_month": 11,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Vietnam's Law No. 49/2024/QH15 sets out people's air defense forces and activities and regulates unmanned aircraft and other flying vehicles. It covers licensing of import, manufacture and trade, registration, flight permits, operator licences, flight suspension, suppression and seizure. It takes effect July 1, 2025, and amends the Civil Aviation Law.",
+  "title_clean": "Law on People's Air Defense No. 49/2024/QH15",
+  "title_en": "Law on People's Air Defense No. 49/2024/QH15",
+  "venue": "LuatVietnam.vn",
+  "issuer_type": "legislature",
+  "methodology": "not_applicable"
+ }
+}

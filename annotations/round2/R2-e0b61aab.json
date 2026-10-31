@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-e0b61aab",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:13:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.062274600000000006,
+  "in": 4,
+  "out": 3638,
+  "cache_read": 28041,
+  "cache_create": 6518,
+  "api_ms": 21035,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "49 U.S. Code § 44810 - Airport safety and airspace hazard mitigation and enforcement",
+  "title_en": "49 U.S. Code § 44810 - Airport safety and airspace hazard mitigation and enforcement",
+  "language": "en",
+  "authors_or_issuer": "United States Congress (Cornell Legal Information Institute reproduction)",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Cornell Law School Legal Information Institute (US Code)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "criminal_liability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "US statute (49 U.S.C. § 44810) directing the FAA to plan certification and deployment of counter-drone detection and mitigation systems at airports, test them at selected airports, make them grant-eligible, exempt authorised activities from certain criminal statutes, and brief Congress. The authority sunsets September 30, 2028.",
+  "key_provisions_or_claims": [
+   "FAA Administrator must develop a plan to certify and authorize counter-UAS detection and mitigation systems",
+   "Systems tested at five airports, including one in the top 10 by boardings",
+   "Airport sponsors may use grants to buy certified detection and mitigation systems",
+   "Certain criminal statutes (Wiretap Act, CFAA, Pen/Trap) do not apply to authorised activities",
+   "Authority ceases September 30, 2028; FAA must not delegate it"
+  ],
+  "confidence": 0.85
+ }
+}

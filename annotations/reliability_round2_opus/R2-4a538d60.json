@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-4a538d60",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:08:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0661516,
+  "in": 2,
+  "out": 1912,
+  "cache_read": 11758,
+  "cache_create": 3194,
+  "api_ms": 13500,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Position Paper of the People's Republic of China on Regulating Military Applications of Artificial Intelligence (AI)",
+  "title_en": "Position Paper of the People's Republic of China on Regulating Military Applications of Artificial Intelligence (AI)",
+  "language": "en",
+  "authors_or_issuer": "Permanent Mission of the People's Republic of China to the United Nations Office at Geneva; Ministry of Foreign Affairs of the PRC",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Permanent Mission of the PRC to the UN Office at Geneva website",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "ethical_framework_or_principles",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "ethics_principles",
+   "privacy_data_protection",
+   "civil_liability",
+   "education_training"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "human_oversight_requirement",
+   "international_cooperation",
+   "education_training_programs",
+   "audits_impact_assessment",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "International Humanitarian Law"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "China's December 2021 position paper, published through its Geneva mission (CCW context), on regulating military AI. It calls for prudent, responsible military use, compliance with international humanitarian law, human control and suspension of weapon systems, human responsibility, tiered regulation, and a universal multilateral governance regime, while opposing technology barriers.",
+  "key_provisions_or_claims": [
+   "AI weapon systems must remain under human control, with the ability for humans to suspend them at any time",
+   "New weapons and methods of warfare must comply with IHL and avoid indiscriminate effects",
+   "Humans are the final subject of responsibility; accountability mechanisms and operator training are needed",
+   "Tiered and categorized regulation of military AI; avoid premature use of high-consequence technologies",
+   "Multilateral rule-making toward a universal international regime; opposes ideological lines and technology barriers"
+  ],
+  "confidence": 0.85
+ }
+}

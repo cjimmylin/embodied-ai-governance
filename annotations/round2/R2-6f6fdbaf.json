@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-6f6fdbaf",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1629278,
+  "in": 2,
+  "out": 1734,
+  "cache_read": 11758,
+  "cache_create": 36102,
+  "api_ms": 11506,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Evaluation of BEREC and the BEREC Office",
+  "title_en": "Evaluation of BEREC and the BEREC Office",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Commission SWD(2026) 17 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "LV",
+   "UA",
+   "MD"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "other",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission Staff Working Document evaluating the performance of BEREC (Body of European Regulators for Electronic Communications) and the BEREC Office for 2019-2023 under Article 48 of the BEREC Regulation. It finds them generally effective and efficient, but notes a mismatch between national regulator competences and BEREC's mandate. AI is mentioned only in passing.",
+  "key_provisions_or_claims": [
+   "BEREC has delivered its EECC guidelines, opinions and databases, but the guidelines leave flexibility to national regulators and do not ensure a single market.",
+   "NRA competences (digital markets, cybersecurity, spectrum) do not match BEREC's tasks, which limits its coherence and relevance.",
+   "The BEREC Office should take a larger role in data collection and analysis, with matching resources.",
+   "The Office has high staff turnover and deviates from Commission guidance on staffing.",
+   "The mandate may need to be adapted for the Digital Networks Act and other digital frameworks."
+  ],
+  "confidence": 0.93
+ }
+}

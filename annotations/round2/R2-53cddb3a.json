@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-53cddb3a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:48:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0563033,
+  "in": 4,
+  "out": 3528,
+  "cache_read": 26973,
+  "cache_create": 5253,
+  "api_ms": 17791,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "construction",
+   "other"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "legally_binding",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Adds EN 81-76:2025 to Annex I of Implementing Decision (EU) 2021/76",
+   "Compliance with EN 81-76:2025 gives presumption of conformity with Directive 2014/33/EU",
+   "Standard covers evacuation of persons with disabilities using lifts",
+   "Enters into force on day of publication in the Official Journal"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU Machinery Regulation"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 11,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Commission Implementing Decision (EU) 2025/2383 amends Decision 2021/76 by adding harmonised standard EN 81-76:2025 on evacuation of persons with disabilities using lifts, conferring presumption of conformity with Lifts Directive 2014/33/EU. Not AI-related.",
+  "title_clean": "Commission Implementing Decision (EU) 2025/2383 of 25 November 2025 amending Implementing Decision (EU) 2021/76 as regards the harmonised standard on safety rules for the construction and installation of lifts regarding the evacuation of persons with disabilities using lifts",
+  "title_en": "Commission Implementing Decision (EU) 2025/2383 amending Implementing Decision (EU) 2021/76 as regards the harmonised standard on lifts and evacuation of persons with disabilities",
+  "venue": "Official Journal of the European Union"
+ }
+}

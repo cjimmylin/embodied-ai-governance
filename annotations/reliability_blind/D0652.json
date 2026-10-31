@@ -1,0 +1,113 @@
+{
+ "doc_id": "D0652",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:40:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0375358,
+  "in": 2,
+  "out": 1822,
+  "cache_read": 11758,
+  "cache_create": 4534,
+  "api_ms": 11664,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "manufacturing",
+   "education",
+   "research_science",
+   "energy_environment",
+   "healthcare",
+   "agriculture_food",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "International Federation of Robotics (IFR); Konuikhovskaia, A.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "RU",
+   "KR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "blog_or_opinion",
+  "doi": null,
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots",
+   "professional_service_robots",
+   "educational_robots",
+   "rehabilitation_exoskeleton_prosthetic",
+   "drones_uas",
+   "autonomous_road_vehicles",
+   "space_or_extreme_environment"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "labor_employment",
+   "other"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "industry_association",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Russian government's Digital Economy program includes robotics, with a roadmap for advanced robotics R&D and state funding priorities.",
+   "Government plans AI and robotics regulation to clarify legal issues and minimise legal risk, having commissioned research in 2018.",
+   "Education was the largest service robot market in Russia in 2017 (31% of service robot sales).",
+   "Industrial robot density was very low (4 per 10,000 workers in 2017), implying growth potential.",
+   "Robot-as-a-Service and cobots are enabling SME adoption."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "professional_service_robots",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2019,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "IFR member blog by a Russian Association of Robotics representative outlining five trends in Russian robotics: government digitalisation policy and planned robot/AI regulation, educational robotics boom, growing service robot exports, low-density industrial robot market, and SME-oriented robot-as-a-service models.",
+  "title_clean": "Five Trends in Russian Robotics",
+  "title_en": "Five Trends in Russian Robotics",
+  "venue": "International Federation of Robotics (IFR) website",
+  "methodology": "not_applicable"
+ }
+}

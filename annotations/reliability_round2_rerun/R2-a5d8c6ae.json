@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-a5d8c6ae",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:10:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0300638,
+  "in": 2,
+  "out": 1706,
+  "cache_read": 11758,
+  "cache_create": 2956,
+  "api_ms": 8465,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ASTM F3322-18 Standard Specification for Small Unmanned Aircraft System (sUAS) Parachutes",
+  "title_en": "ASTM F3322-18 Standard Specification for Small Unmanned Aircraft System (sUAS) Parachutes",
+  "language": "en",
+  "authors_or_issuer": "ASTM International (Committee F38, Subcommittee F38.01)",
+  "issuer_type": "standards_body",
+  "pub_year": 2018,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.1520/F3322-18",
+  "venue": "ASTM International",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ASTM catalogue page for F3322-18, a standard specification for design, fabrication and testing of parachute recovery systems for small unmanned aircraft, intended to support civil aviation authority approval for flying over people. Page also includes shipping information.",
+  "key_provisions_or_claims": [
+   "Covers design, fabrication and test requirements for deployable parachute recovery systems on sUA",
+   "Aims to lessen impact energy if the sUA fails to sustain safe flight",
+   "Compliance supports CAA permission to fly over people",
+   "Applies to approvals such as TSO, flight certificates, waivers and permits",
+   "Developed under WTO TBT principles for international standards"
+  ],
+  "confidence": 0.85
+ }
+}

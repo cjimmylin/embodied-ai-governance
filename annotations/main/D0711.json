@@ -1,0 +1,110 @@
+{
+ "doc_id": "D0711",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:26:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0477858,
+  "in": 2,
+  "out": 1923,
+  "cache_read": 11758,
+  "cache_create": 6844,
+  "api_ms": 16339,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "国家互联网信息办公室; 国家发展和改革委员会; 教育部; 科学技术部; 工业和信息化部; 公安部; 国家广播电视总局",
+  "binding_nature": "legally_binding",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "incident_reporting",
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "funding_or_incentives",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "intellectual_property",
+   "transparency_explainability",
+   "industrial_policy_innovation",
+   "children_vulnerable_groups",
+   "risk_management_risk_tiers",
+   "ethics_principles"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Applies to generative AI services offered to the public in mainland China; R&D without public provision is exempt",
+   "Providers must use lawfully sourced data and models, respect IP, obtain consent for personal information, and prevent discrimination",
+   "Content must uphold socialist core values; illegal content must be stopped, remedied and reported",
+   "AI-generated images and video must be labelled; services with public opinion influence require security assessment and algorithm filing",
+   "Inclusive, prudent, tiered supervision; penalties under existing laws, with warnings and suspension of services as fallback"
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [
+   "China Generative AI Measures"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2023,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Interim Measures for the Management of Generative AI Services (Order No. 15, effective 15 Aug 2023), issued by the CAC with six other ministries. It sets obligations for providers on training data, content, labelling, personal information, complaints and security assessment, under inclusive, prudent, tiered supervision.",
+  "title_clean": "生成式人工智能服务管理暂行办法",
+  "title_en": "Interim Measures for the Management of Generative Artificial Intelligence Services",
+  "venue": "中国网信网 (cac.gov.cn)",
+  "issuer_type": "regulator_or_agency",
+  "methodology": "not_applicable"
+ }
+}

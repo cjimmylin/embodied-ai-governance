@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-4cac38c9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:07:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06714780000000001,
+  "in": 2,
+  "out": 1902,
+  "cache_read": 11758,
+  "cache_create": 11737,
+  "api_ms": 10401,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Conseil d'État, juge des référés, ordonnance du 18 mai 2020, n° 440442 et 440445, Association La Quadrature du Net et autre (surveillance par drones)",
+  "title_en": "Council of State, Summary Judge Order of 18 May 2020, No. 440442 and 440445, La Quadrature du Net and another (drone surveillance)",
+  "language": "fr",
+  "authors_or_issuer": "Conseil d'État (juge des référés)",
+  "issuer_type": "court_or_judiciary",
+  "pub_year": 2020,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Conseil d'État (ECLI:FR:CEORD:2020:440442.20200518)",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "FR"
+  ],
+  "doc_type": "court_decision_or_judicial_notice",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "security_policing_robots"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "human_oversight_control",
+   "safety_physical_harm",
+   "other"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "data_governance_requirements",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "French Conseil d'État interim-relief order finding that Paris police drone surveillance of COVID-19 lockdown compliance processed personal data without a prior regulatory authorisation after CNIL opinion, a grave and manifestly illegal infringement of privacy. It orders the State to stop the drone surveillance until a legal text is adopted or drones are technically unable to identify people.",
+  "key_provisions_or_claims": [
+   "Drone images, given zoom and lack of anti-identification safeguards, are personal data processing under Directive 2016/680.",
+   "Processing without a regulatory text authorising it (after CNIL opinion, Art. 31 Loi Informatique et Libertés) infringes privacy grave and manifestly illegally.",
+   "State ordered to cease drone surveillance in Paris until a regulatory text is issued or technical means make identification impossible.",
+   "The purpose (detecting gatherings for public health) is legitimate, but a legal framework is required.",
+   "Privacy and freedom of movement are fundamental freedoms under Art. L. 521-2 CJA."
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-d14d9cfe",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:44:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1992671,
+  "in": 4,
+  "out": 3939,
+  "cache_read": 60691,
+  "cache_create": 39215,
+  "api_ms": 19637,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Regulation of the European Parliament and of the Council on the approval and market surveillance of non-road mobile machinery circulating on public roads and amending Regulation (EU) 2019/1020",
+  "title_en": "Proposal for a Regulation of the European Parliament and of the Council on the approval and market surveillance of non-road mobile machinery circulating on public roads and amending Regulation (EU) 2019/1020",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2023) 178 final; 2023/0090(COD)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "other_embodied"
+  ],
+  "primary_embodied_category": "other_embodied",
+  "application_sectors": [
+   "construction",
+   "agriculture_food",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "licensing_registration",
+   "oversight_body_creation",
+   "testing_sandboxes",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Regulation"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission 2023 proposal for a regulation creating harmonised EU type-approval and market surveillance for self-propelled non-road mobile machinery (up to 40 km/h) circulating on public roads. It replaces fragmented national regimes with a simplified type-approval, mandatory after a transition. It contains no AI-specific provisions.",
+  "key_provisions_or_claims": [
+   "EU type-approval required for self-propelled non-road mobile machinery with a maximum design speed of 40 km/h or less",
+   "Excludes individual approvals, small series (50 units per year per Member State) and vehicles covered by Regulations 167/2013, 168/2013 and 2018/858",
+   "Obligations for manufacturers, importers, distributors and authorised representatives, including certificates of conformity and statutory plates",
+   "Commission empowered to adopt delegated acts on detailed technical road-safety requirements",
+   "Market surveillance via Regulation 2019/1020, safeguard procedures, an enforcement Forum, and an 8-year national transition"
+  ],
+  "confidence": 0.9
+ }
+}

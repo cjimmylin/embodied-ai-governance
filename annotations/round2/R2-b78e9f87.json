@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-b78e9f87",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:18:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0682228,
+  "in": 4,
+  "out": 3713,
+  "cache_read": 29343,
+  "cache_create": 7764,
+  "api_ms": 18660,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Nevada Revised Statutes Chapter 482A - Autonomous Vehicles",
+  "title_en": "Nevada Revised Statutes Chapter 482A - Autonomous Vehicles",
+  "language": "en",
+  "authors_or_issuer": "Nevada Legislature",
+  "issuer_type": "legislature",
+  "pub_year": 2017,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Nevada Revised Statutes",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "industrial_policy_innovation",
+   "criminal_liability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "insurance_requirement",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "liability_regime",
+   "incident_reporting",
+   "human_oversight_requirement",
+   "oversight_body_creation",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Nevada statute chapter governing testing and operation of autonomous vehicles on state highways. It defines automation levels via SAE J3016 and sets insurance or bond requirements, human operator and minimal-risk-condition rules, crash reporting, manufacturer liability limits, state preemption of local regulation, and penalties.",
+  "key_provisions_or_claims": [
+   "Testing requires $5,000,000 insurance, self-insurance, or bond.",
+   "Non-fully autonomous vehicles need a human operator able to take control; fully autonomous ones must achieve a minimal risk condition on failure.",
+   "Crashes during testing with injury or damage over $750 must be reported within 10 business days.",
+   "Original manufacturers are not liable for defects from unauthorized third-party conversion or modification.",
+   "Only the DMV may regulate AV technology; local governments cannot impose taxes, fees or requirements."
+  ],
+  "confidence": 0.9
+ }
+}

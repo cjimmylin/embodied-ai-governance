@@ -1,0 +1,95 @@
+{
+ "doc_id": "D1671",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:52:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0513493,
+  "in": 4,
+  "out": 3531,
+  "cache_read": 26058,
+  "cache_create": 3845,
+  "api_ms": 23142,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "“Integrative Social Robotics” – A New Method Paradigm to Solve the Description Problem And the Regulation Problem?",
+  "title_en": "“Integrative Social Robotics” – A New Method Paradigm to Solve the Description Problem And the Regulation Problem?",
+  "language": "en",
+  "authors_or_issuer": "Seibt, J.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2016,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.3233/978-1-61499-708-5-104",
+  "venue": "Frontiers in Artificial Intelligence and Applications, Vol. 290: What Social Robots Can and Should Do (IOS Press)",
+  "jurisdiction_country": "DK",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "book",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "research_ethics",
+   "trust_acceptance"
+  ],
+  "primary_topic": "research_ethics",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Book chapter by Seibt proposing Integrative Social Robotics, a research paradigm that integrates robotics with humanities and social science research so that descriptive (what robots can do) and normative (what they should do) questions are treated together, guiding design by a cultural community's reflected values.",
+  "key_provisions_or_claims": [
+   "Descriptive HRI research and normative robo-ethics are currently kept too far apart.",
+   "Given the fast pace of the robotics industry, can-do and should-do questions must be treated together.",
+   "ISR integrates robotics with empirical, conceptual and value-theoretic research in the humanities and social sciences.",
+   "Design and development should be guided by the reflected normative preferences of a cultural community.",
+   "Aims at culturally sustainable social robotics applications."
+  ],
+  "confidence": 0.8
+ }
+}

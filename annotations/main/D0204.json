@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0204",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:12:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.046315800000000004,
+  "in": 2,
+  "out": 1820,
+  "cache_read": 11758,
+  "cache_create": 6734,
+  "api_ms": 9461,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Shany, Y.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "editorial_or_commentary",
+  "doi": "10.1017/S002122372610020X",
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "ethics_principles",
+   "human_dignity_autonomy",
+   "human_robot_interaction_social_effects"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "IL",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Gordon argues human-like robots are morally significant and deserve rudimentary rights.",
+   "Gordon proposes ten Rules of Robots and ten Robot Rights, loosely modelled on Asimov.",
+   "Rights should be gradated under a precautionary principle given epistemic uncertainty.",
+   "Three-tier community participation: co-citizens, denizens, functional citizens.",
+   "Reviewer finds the case largely compelling but notes underexplored issues such as the humanoid criterion and animal-rights analogy."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2026,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "supports",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Book review essay of John-Stewart Gordon's The Robot Rights Manifesto. It outlines Gordon's argument that humanoid robots, as they approach human sapience and sentience, merit moral consideration and graduated rights, including ten Rules of Robots and ten Robot Rights. The reviewer finds the case largely compelling despite underexplored points.",
+  "title_clean": "Endowed by Their Creator with Certain Inalienable Rights? On John-Stewart Gordon's The Robot Rights Manifesto",
+  "title_en": "Endowed by Their Creator with Certain Inalienable Rights? On John-Stewart Gordon's The Robot Rights Manifesto",
+  "venue": "Israel Law Review",
+  "methodology": "conceptual_or_normative"
+ }
+}

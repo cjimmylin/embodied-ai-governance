@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-d0413007",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:46:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.035013800000000005,
+  "in": 2,
+  "out": 1853,
+  "cache_read": 11758,
+  "cache_create": 3826,
+  "api_ms": 12947,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Delegated Directive (EU) 2020/366 of 17 December 2019 amending Annex IV to Directive 2011/65/EU as regards an exemption for lead as a thermal stabiliser in PVC used in certain in-vitro diagnostic medical devices",
+  "title_en": "Commission Delegated Directive (EU) 2020/366 of 17 December 2019 amending Annex IV to Directive 2011/65/EU as regards an exemption for lead as a thermal stabiliser in PVC used in certain in-vitro diagnostic medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2020,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [
+   "Directive 2011/65/EU (RoHS)",
+   "Delegated Directive (EU) 2015/573",
+   "Directive 98/79/EC",
+   "REACH Regulation (EC) No 1907/2006"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Delegated Directive renewing, for two years, the RoHS exemption allowing lead as a thermal stabiliser in PVC sensors of certain in-vitro diagnostic blood analysers, citing lack of reliable substitutes and avoided waste. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Replaces entry 41 of Annex IV to RoHS Directive 2011/65/EU",
+   "Exemption for lead in PVC electrochemical sensors in IVD devices renewed until 31 March 2022",
+   "Member States must transpose by 31 March 2021 and apply from 1 April 2021",
+   "Rationale: no reliable substitutes yet; discontinuation would generate 112,000 kg of premature WEEE",
+   "Aligned with REACH lead-in-PVC restriction process"
+  ],
+  "confidence": 0.95
+ }
+}

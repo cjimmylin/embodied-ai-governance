@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0773",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:58:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0324318,
+  "in": 2,
+  "out": 1756,
+  "cache_read": 11758,
+  "cache_create": 3423,
+  "api_ms": 16117,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "국가인공지능 윤리기준 (국가기록원 분야별 주제검색)",
+  "title_en": "National Guidelines for AI Ethics (National Archives of Korea subject search page)",
+  "language": "ko",
+  "authors_or_issuer": "국가기록원 (National Archives of Korea)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2022,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "National Archives of Korea (archives.go.kr)",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_dignity_autonomy",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "trust_acceptance"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "National Archives of Korea subject page describing Korea's National AI Ethics Standards, adopted December 2020 by the Presidential Committee on the Fourth Industrial Revolution. It outlines three basic principles (human dignity, public good, purposiveness of technology) and ten key requirements, plus follow-up checklists, education and the AI ethics policy forum.",
+  "key_provisions_or_claims": [
+   "AI Ethics Standards adopted 23 Dec 2020 by the Presidential Committee on the Fourth Industrial Revolution",
+   "Three principles: human dignity, social public good, purposiveness of technology",
+   "Ten requirements: human rights, privacy, diversity, non-infringement, publicness, solidarity, data management, accountability, safety, transparency",
+   "Follow-up: checklists for developers, providers and users, and AI ethics education",
+   "AI Ethics Policy Forum launched in 2022"
+  ],
+  "confidence": 0.85
+ }
+}

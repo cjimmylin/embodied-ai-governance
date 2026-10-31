@@ -1,0 +1,105 @@
+{
+ "doc_id": "D1654",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:52:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045261800000000005,
+  "in": 2,
+  "out": 1909,
+  "cache_read": 11758,
+  "cache_create": 6248,
+  "api_ms": 10214,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Trustworthiness and Well-Being: The Ethical, Legal, and Social Challenge of Robotic Assistance",
+  "title_en": "Trustworthiness and Well-Being: The Ethical, Legal, and Social Challenge of Robotic Assistance",
+  "language": "en",
+  "authors_or_issuer": "Beetz, M.; Engel, U.; Hoyer, N.; Kähler, L.; Langer, H.; Schultheis, H.; et al.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2023,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/978-3-031-11447-2_1",
+  "venue": "Robots in Care and Everyday Life, SpringerBriefs in Sociology",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "DE"
+  ],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "book",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "domestic_household_robots",
+   "social_companion_robots",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare",
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "trust_acceptance",
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "research_ethics"
+  ],
+  "primary_topic": "trust_acceptance",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Opening chapter of a SpringerBrief presenting a conceptual framework for trust and well-being in robotic assistance in care and daily life. Using the Bremen AI Delphi population survey, it links trust and acceptance to openness to innovation and anticipated well-being, and finds respondents want robots kept out of care, private life and education.",
+  "key_provisions_or_claims": [
+   "Social acceptance is a precondition for diffusion of robotic assistance.",
+   "Trust in robots rests on perceived capability, safeness and ethical adequacy.",
+   "Openness to innovation shapes acceptance via anticipated well-being in human-robot interaction.",
+   "Survey respondents prefer robots in industry, space and deep-sea, but not in care, private life or education.",
+   "Cites the EU's trustworthy-AI guidelines and White Paper 'ecosystem of trust'."
+  ],
+  "confidence": 0.85
+ }
+}

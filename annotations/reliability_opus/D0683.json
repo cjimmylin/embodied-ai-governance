@@ -1,0 +1,109 @@
+{
+ "doc_id": "D0683",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:13:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0909316,
+  "in": 2,
+  "out": 1975,
+  "cache_read": 11758,
+  "cache_create": 6134,
+  "api_ms": 13862,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Model Artificial Intelligence Governance Framework (Second Edition)",
+  "title_en": "Model Artificial Intelligence Governance Framework (Second Edition)",
+  "language": "en",
+  "authors_or_issuer": "Infocomm Media Development Authority (IMDA); Personal Data Protection Commission (PDPC), Singapore",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2020,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "SG Digital Gateway (IMDA/PDPC)",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "finance"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_oversight_control",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "trust_acceptance"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "audits_impact_assessment",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles",
+   "Singapore National AI Strategy",
+   "Singapore Personal Data Protection Act",
+   "ISAGO"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Singapore IMDA/PDPC's voluntary, sector- and technology-agnostic Model AI Governance Framework (2nd ed., January 2020). It turns ethical principles into practical guidance in four areas: internal governance, the level of human involvement in AI decisions, operations management (data, bias, robustness, auditability) and stakeholder communication. Robotics appears only in passing.",
+  "key_provisions_or_claims": [
+   "Organisations should set up internal governance structures with clear roles and responsibilities for AI",
+   "The level of human involvement (human-in-, over-, or out-of-the-loop) should be determined by the probability and severity of harm",
+   "Risk-based operations management covering data lineage, bias mitigation, robustness, reproducibility and auditability",
+   "Transparent communication and interaction with stakeholders, including explanations and feedback channels",
+   "Algorithm audits only when necessary and at a regulator's request"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "doc_id": "D1315",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:17:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1163476,
+  "in": 2,
+  "out": 2445,
+  "cache_read": 11758,
+  "cache_create": 8136,
+  "api_ms": 17788,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Die Zukunft Österreichs mit Robotik und Künstlicher Intelligenz positiv gestalten. White Paper des Österreichischen Rats für Robotik und Künstliche Intelligenz",
+  "title_en": "Shaping Austria's Future with Robotics and Artificial Intelligence Positively: White Paper of the Austrian Council on Robotics and Artificial Intelligence",
+  "language": "de",
+  "authors_or_issuer": "Österreichischer Rat für Robotik und Künstliche Intelligenz (Austrian Council on Robotics and Artificial Intelligence, ACRAI), Bundesministerium für Verkehr, Innovation und Technologie",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2018,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Austrian Council on Robotics and Artificial Intelligence (acrai.at) / BMIMI",
+  "jurisdiction_country": "AT",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AT",
+   "EU"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "proposal_or_concept",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots",
+   "care_assistive_robots",
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "healthcare",
+   "elder_care_social_care",
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "labor_employment",
+   "education_training",
+   "safety_physical_harm",
+   "civil_liability",
+   "privacy_data_protection",
+   "trust_acceptance",
+   "standards_interoperability",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "technical_standards_reference",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "Montreal Declaration on Responsible AI",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "This is the first white paper (November 2018) of the Austrian Council on Robotics and AI, an advisory body set up by the transport and innovation ministry (BMVIT). It proposes three cornerstones for a national robotics and AI strategy: smart governance, smart innovation and smart regulation. It sets out recommendations in four areas: technology/R&D/economy, work and skills, society and law, and public awareness.",
+  "key_provisions_or_claims": [
+   "Austria lacks an overarching robotics and AI strategy; one should be developed with broad stakeholder and citizen participation",
+   "Public funding and investment should focus on application fields relevant to Austria, taking account of its SME-heavy economy",
+   "Robotics and AI must ensure human safety and comply with ethical standards, fundamental rights and European values",
+   "New European standards and norms should be developed where existing ones are insufficient, without hindering innovation",
+   "Address changes to the world of work through qualification measures, and build public awareness to increase acceptance"
+  ],
+  "confidence": 0.75
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1467",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:46:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0446578,
+  "in": 2,
+  "out": 1873,
+  "cache_read": 11758,
+  "cache_create": 6187,
+  "api_ms": 10926,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "authors_or_issuer": "Abdel-Keream, M.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "DE"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "book_or_chapter",
+  "doi": "10.1007/978-3-031-11447-2_7",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "domestic_household_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "human_dignity_autonomy",
+   "human_robot_interaction_social_effects",
+   "labor_employment",
+   "civil_liability",
+   "trust_acceptance",
+   "children_vulnerable_groups"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "MEESTAR model applied to evaluate ethical implications of the RoPHa food-assistance robot across individual, social and organizational levels.",
+   "Seven moral dimensions assessed: care, autonomy, safety, justice, privacy, participation, self-perception, graded from unobjectionable to unacceptable.",
+   "Autonomy is extremely sensitive if users cannot freely choose or refuse the robot.",
+   "Safety concerns include physical safety (e.g., choking emergency detection), data security, occupational safety and legal liability.",
+   "Proposes dyadic, extended dyadic and triadic models of use and distribution."
+  ],
+  "language": "en",
+  "methodology": "case_study",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2023,
+  "publication_stage": "book",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Book chapter applying the MEESTAR ethics model to the German RoPHa project, a Care-O-bot 4 assistive robot supporting older people with food preparation and eating. It maps ethical concerns (autonomy, safety, privacy, justice, dignity) at individual, social and organizational levels and proposes models of use.",
+  "title_clean": "Ethical Challenges of Assistive Robotics in the Elderly Care: Review and Reflection",
+  "title_en": "Ethical Challenges of Assistive Robotics in the Elderly Care: Review and Reflection",
+  "venue": "Robots in Care and Everyday Life (SpringerBriefs in Sociology), Springer"
+ }
+}

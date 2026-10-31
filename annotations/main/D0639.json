@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0639",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:24:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030803800000000003,
+  "in": 2,
+  "out": 1734,
+  "cache_read": 11758,
+  "cache_create": 3071,
+  "api_ms": 8934,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "К вопросу о формализации этики поведения коллаборативного робота",
+  "title_en": "On the issue of formalization of collaborative robot ethical behavior",
+  "language": "ru",
+  "authors_or_issuer": "Карпов, В.Э.; Королева, М.Н.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": "10.38028/esi.2022.28.4.018",
+  "venue": "Информационные и математические технологии в науке и управлении",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "collaborative_robots"
+  ],
+  "primary_embodied_category": "collaborative_robots",
+  "application_sectors": [
+   "manufacturing",
+   "research_science"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Journal article page (abstract only) on mechanisms enabling a collaborative robot to be a moral agent. Argues classical and non-classical logics cannot formalize ethics; proposes utilitarianism with hedonistic axiology, analysed via cognitive maps, and three principles of robot moral behaviour based on needs, perception and self/other identification.",
+  "key_provisions_or_claims": [
+   "Logic-based formalization of ethics fails under inherent contradictions and incompleteness.",
+   "Moral schemes should primarily provide an explanatory component for behaviour.",
+   "Utilitarianism (Bentham, Mill) combined with hedonism proposed as the basis for robot ethics.",
+   "Robot behaviour is determined by current needs and the state of its perception system.",
+   "Morality rests on comparing conspecifics with 'self' (own/alien degree)."
+  ],
+  "confidence": 0.85
+ }
+}

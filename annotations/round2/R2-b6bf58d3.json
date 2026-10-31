@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-b6bf58d3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:45:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0694962,
+  "in": 4,
+  "out": 3764,
+  "cache_read": 29542,
+  "cache_create": 7942,
+  "api_ms": 18228,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "authors_or_issuer": "국가기술표준원 (Korean Agency for Technology and Standards), KATS",
+  "binding_nature": "technical_standard_voluntary",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "KR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Specifies safety requirements for industrial robot systems, integration and robot cells across design, installation, operation, maintenance and decommissioning.",
+   "Identical (IDT) adoption of ISO 10218-2:2011 as a Korean national standard (KS B ISO 10218-2).",
+   "Describes basic hazards and requires elimination or adequate reduction of associated risks.",
+   "Excludes process-related hazards such as laser radiation, ejected parts and welding fumes.",
+   "Established 2012-03-29; reconfirmed 2017 and 2022-10-12."
+  ],
+  "language": "ko",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "ISO 10218"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "industrial_manipulators",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2012,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Korean national standards portal record for KS B ISO 10218-2, an identical adoption of ISO 10218-2:2011 on safety requirements for industrial robot systems and integration. It lists scope, responsible agencies, cited standards, related technical criteria (Safety Inspection Notice) and revision history (established 2012, reconfirmed 2022).",
+  "title_clean": "로봇 및 로봇 장치 - 산업용 로봇의 안전에 관한 요구사항 - 제2부: 로봇 시스템 및 통합 (KS B ISO 10218-2)",
+  "title_en": "Robots and robotic devices - Safety requirements for industrial robots - Part 2: Robot systems and integration (KS B ISO 10218-2)",
+  "venue": "국가표준 (Korean National Standards portal)"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1032",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:34:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.061584400000000004,
+  "in": 4,
+  "out": 3602,
+  "cache_read": 27994,
+  "cache_create": 6416,
+  "api_ms": 25904,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial intelligence from a law enforcement perspective",
+  "title_en": "Artificial intelligence from a law enforcement perspective",
+  "language": "en",
+  "authors_or_issuer": "Presidency of the Council of the European Union (to Delegations, COSI)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Council of the European Union (document 8534/23)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "cybersecurity"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "self_regulation_codes",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Council Presidency discussion note for COSI on AI in law enforcement. It covers the draft AI Act's implications for internal security, Europol's AI sandbox, risks of criminal abuse of large language models such as ChatGPT, and the AP4AI accountability framework. It poses questions to delegations.",
+  "key_provisions_or_claims": [
+   "Europol is building a sandbox to develop, train and validate AI models on operational data.",
+   "LLMs like ChatGPT can be abused for fraud, disinformation, cybercrime and grooming; safeguards are easily circumvented.",
+   "AP4AI framework offers 12 accountability principles and a self-assessment tool for policing and justice.",
+   "Member States are asked to consolidate internal security positions ahead of AI Act trilogues.",
+   "Asks whether AP4AI should be a common self-assessment standard."
+  ],
+  "confidence": 0.85
+ }
+}

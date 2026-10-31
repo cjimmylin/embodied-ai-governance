@@ -1,0 +1,91 @@
+{
+ "doc_id": "R2-88cbeef2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:52:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0266518,
+  "in": 2,
+  "out": 1656,
+  "cache_read": 11758,
+  "cache_create": 2228,
+  "api_ms": 12451,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Official Journal of the European Communities C 197/74 – European Parliament sitting of 24 October 2000 (heavy metals protocol; medical devices incorporating human blood derivatives)",
+  "title_en": "Official Journal of the European Communities C 197/74 – European Parliament sitting of 24 October 2000 (heavy metals protocol; medical devices incorporating human blood derivatives)",
+  "language": "en",
+  "authors_or_issuer": "European Parliament",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2001,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Excerpt from the Official Journal recording European Parliament proceedings of 24 October 2000: approval of a Council decision on the heavy metals protocol and a second-reading legislative resolution approving the common position amending Directive 93/42/EEC on medical devices containing human blood derivatives. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Parliament approved the Council decision concluding the 1998 Protocol on heavy metals.",
+   "Parliament approved the Council common position amending Directive 93/42/EEC on medical devices with human blood derivatives.",
+   "Act deemed adopted per common position under Article 251(2) EC."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-dbbf1ac7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:52:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0305038,
+  "in": 2,
+  "out": 1670,
+  "cache_read": 11758,
+  "cache_create": 3156,
+  "api_ms": 9297,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Council Directive 90/486/EEC of 17 September 1990 amending Directive 84/529/EEC on the approximation of the laws of the Member States relating to electrically operated lifts",
+  "title_en": "Council Directive 90/486/EEC of 17 September 1990 amending Directive 84/529/EEC on the approximation of the laws of the Member States relating to electrically operated lifts",
+  "language": "en",
+  "authors_or_issuer": "Council of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 1990,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities L 270",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "construction"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "1990 Council Directive extending Directive 84/529/EEC on lifts to cover hydraulic and oil-electric lifts, referencing CEN standards EN 81-1 and EN 81-2 to remove trade barriers in the internal market. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Extends Directive 84/529/EEC scope to hydraulic and oil-electric lifts",
+   "Annex I references CEN standards EN 81-1 and EN 81-2",
+   "Member States must transpose within six months of notification",
+   "Aims to remove technical barriers to intra-Community trade"
+  ],
+  "confidence": 0.93
+ }
+}

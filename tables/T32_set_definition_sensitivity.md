@@ -1,0 +1,7 @@
+**T32_set_definition_sensitivity. Headline quantities under alternative definitions of the embodied-AI set**
+
+| definition                                    |    n |   research_share_pct |   governance_documents |   binding |   physical_safety_any_pct |   proximity_any_pct |   accountability_any_pct |   social_robots_research_pct |   social_robots_instruments |   av_instruments |
+|:----------------------------------------------|-----:|---------------------:|-----------------------:|----------:|--------------------------:|--------------------:|-------------------------:|-----------------------------:|----------------------------:|-----------------:|
+| Embodied set (relevance >= 2 or any category) | 1603 |                 31.8 |                    822 |       195 |                      67.3 |                42.9 |                     59.3 |                         43   |                          17 |              292 |
+| Strict embodied set (relevance >= 2 only)     | 1374 |                 32.3 |                    708 |       168 |                      71.3 |                46.2 |                     60.5 |                         43.7 |                          16 |              238 |
+| Embodied set, substantive captures only       |  936 |                 31.8 |                    453 |       175 |                      70.7 |                45.8 |                     74.6 |                         38.6 |                          15 |              193 |

@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-aea1e0e0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.18283780000000002,
+  "in": 2,
+  "out": 1671,
+  "cache_read": 11758,
+  "cache_create": 41237,
+  "api_ms": 9243,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "40 CFR Part 435—Oil and Gas Extraction Point Source Category",
+  "title_en": "40 CFR Part 435—Oil and Gas Extraction Point Source Category",
+  "language": "en",
+  "authors_or_issuer": "U.S. Environmental Protection Agency",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2012,
+  "pub_month": 5,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Code of Federal Regulations",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "US EPA regulation (40 CFR Part 435) setting Clean Water Act effluent limitations (BPT, BAT, BCT) and new source performance standards for offshore and onshore oil and gas extraction, with test methods for drilling fluids, toxicity and biodegradation. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Offshore BPT/BAT/BCT effluent limits for produced water, drilling fluids, cuttings and sanitary wastes",
+   "No discharge of free oil, verified by the static sheen test (EPA Method 1617)",
+   "Toxicity, biodegradation and stock barite limits for non-aqueous drilling fluids",
+   "Stripper subcategory and onshore produced-water limits",
+   "General provisions preventing circumvention by moving wastewater between subcategories"
+  ],
+  "confidence": 0.95
+ }
+}

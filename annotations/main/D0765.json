@@ -1,0 +1,89 @@
+{
+ "doc_id": "D0765",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:27:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0477958,
+  "in": 2,
+  "out": 1524,
+  "cache_read": 11758,
+  "cache_create": 7844,
+  "api_ms": 9725,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Advisory Guidelines on Use of Personal Data in Generative AI",
+  "title_en": "Advisory Guidelines on Use of Personal Data in Generative AI",
+  "language": "en",
+  "authors_or_issuer": "Personal Data Protection Commission (Singapore)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "PDPC Singapore website",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "privacy_data_protection"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "PDPC Singapore landing page for its Advisory Guidelines on use of personal data in generative AI, linking to the guideline document and related guidelines on AI recommendation and decision systems. The page has no substantive guideline text.",
+  "key_provisions_or_claims": [
+   "Page links to guidance on how personal data can be used in generative AI models and systems",
+   "Related guidelines cover AI recommendation and decision systems and PDPA key concepts"
+  ],
+  "confidence": 0.6
+ }
+}

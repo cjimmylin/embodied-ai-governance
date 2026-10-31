@@ -1,0 +1,115 @@
+{
+ "doc_id": "R2-43bd35c0",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:10:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0924876,
+  "in": 2,
+  "out": 2362,
+  "cache_read": 11758,
+  "cache_create": 5361,
+  "api_ms": 17579,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Working paper on the \"human element\" (CCW/GGE.1/2025/WP.4)",
+  "title_en": "Working paper on the \"human element\" (CCW/GGE.1/2025/WP.4)",
+  "language": "en",
+  "authors_or_issuer": "Bulgaria; Denmark; Finland; France; Germany; Italy; Luxembourg; Netherlands; Norway; Spain; Sweden (submitted to CCW Group of Governmental Experts on LAWS)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Convention on Certain Conventional Weapons, Group of Governmental Experts on LAWS, Geneva",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "BG",
+   "DK",
+   "FI",
+   "FR",
+   "DE",
+   "IT",
+   "LU",
+   "NL",
+   "NO",
+   "ES"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "transparency_explainability",
+   "education_training",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE",
+   "Additional Protocol I to the Geneva Conventions (Art. 36)",
+   "CCW Guiding Principles on LAWS"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Working paper by eleven European states to the CCW GGE on lethal autonomous weapons systems. It defines \"context-appropriate human judgement and control\" as the way to keep LAWS compliant with IHL across the weapon lifecycle. It argues that IHL does not require direct, continuous control, and urges the GGE to turn existing convergence into concrete language by 2026.",
+  "key_provisions_or_claims": [
+   "States converge broadly on the importance of the human element, framed as 'context-appropriate human judgement and control'.",
+   "IHL does not require direct or continuous human oversight; control can be exercised through mission parameters set before deployment.",
+   "Human judgement and control apply across the lifecycle, including Article 36 legal reviews, testing and evaluation, and rules of engagement with spatial and temporal limits.",
+   "Human control includes approval of mission changes and the ability to deactivate the system where technically feasible, supported by adequate interfaces and operator training.",
+   "The GGE should turn the substantive convergence into concrete language before its mandate ends in 2026."
+  ],
+  "confidence": 0.82
+ }
+}

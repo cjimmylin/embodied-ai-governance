@@ -1,0 +1,166 @@
+doc_id,title,judgement,error,fix
+R2-6e60e906,"Convention on Road Traffic (Vienna 1968), UN Treaty Collection status page","A 286-word depositary status page counted as the collection's one ""treaty""; the Convention and its automated-driving amendments (Art. 8(5bis) 2016; Art. 34bis 2022, verify) are the instrument",B,capture the consolidated Convention text; record the amendments as the robot-relevant events
+R2-74a1e723,"AutomatFahrV (AT), RIS open-data search listing","Landing page of metadata (487 words, ""operative text not shown""); the ordinance BGBl. II 402/2016 is real",B,fetch the consolidated text from RIS
+R2-a6b6bddb,EEA JC Decision 142/2023,"Incorporates a language corrigendum (2022/525) into the EEA Agreement; not a robot rule; jurisdiction is EEA/EFTA, not EU","A, F","fold all 10 EEA JC decisions into an ""extension to EEA"" attribute of the base act"
+R2-b8211d02,EEA JC Decision 116/2023,Incorporates U-space regs already captured,"A, F",as above
+R2-9bf493ed,EEA JC Decision 12/2024,Incorporates 2022/1426 (captured),"A, F",as above
+R2-1d8b5ad8,EEA JC Decision 164/2026,Incorporates 2026/481 (captured),"A, F",as above
+R2-46c15ddb,Reg. 2022/525 correcting language versions of 2019/947,"Corrigendum; summary says ""no substantive change""; methods say corrigenda were excluded",A,drop or attach to 2019/947
+R2-942fad57,Reg. 2022/851 correcting Portuguese version of 2019/945,Corrigendum,A,drop or attach
+R2-08a1ad4b,"Reg. 2019/945, UK retained version","A distinct UK instrument (retained, amended 2025); acceptable, but it doubles the EU text in cross-jurisdiction counts",OK*,flag as retained-EU copy
+R2-e8e3e681,"Reg. 2019/947, UK retained version",As above,OK*,flag
+R2-6c14c9c2,Reg. 2019/945 (EU),Correct,OK,
+R2-ddd7d9c2,Reg. 2019/947 (EU),Correct,OK,
+R2-d30c6489,"Reg. 2020/1058 amending 2019/945 (classes C5, C6)",Substantive amendment of a base act that is present,A,record as amendment event of 2019/945
+R2-7e63cdeb,DFARS Part 228 Bonds and Insurance,Procurement insurance rule with an incidental risk-of-loss clause for UAVs; relevance 1,G,out of the embodied instrument count
+R2-bd03a374,6 CFR Part 139 Conduct on Federal Property,Incidental drone take-off prohibition; relevance 1,G,out
+R2-ac756a44,FCC PSHSB public notice adding UAS to the Covered List,"Binding effect is real (bar on equipment authorisation) but the document is an agency public notice, not a regulation",OK*,"doc_type ""agency determination/notice"""
+R2-e8c05124,Radiocommunications (Named Person: DroneShield) Instrument 2023,107-word register entry naming one company under an exemption; relevance 1,"B, G",out
+R2-f991965a,Radiocommunications (Commonwealth Games anti-drone) Exemption 2018,108-word register entry; event-specific jamming exemption; superseded,"B, G",out
+R2-02911ea9,"CASA 57/22 area approval, 3 NM of aerodromes","148-word register entry; one of four near-identical area approvals (R2-2c00b35b, R2-226c89bd, R2-77ef4544)","B, A",fetch texts; count the CASR Part 101/MOS regime once and list approvals as instruments of application
+R2-c5eb5314,Civil Aviation Safety Regulations 1998,"The real Australian drone regime (Part 101, Part 47), but dated 2026 (compilation date) and captured as a table of contents",E,"year 1998; record Part 101 amendment dates (2016, 2019)"
+R2-873de2ab,Part 101 MOS 2019,Dated 2026 (compilation),E,year 2019
+R2-3aa8ed40,Civil Aviation (Unmanned Aircraft Levy) Act 2020,Fiscal levy; 116-word TOC; relevance 1; one of four levy acts/regs,"G, B, A",out of the robot-rule count
+R2-3ce1939d,Road Vehicles Act (JP) 1951,Correct; Art. 41 automated operation device (2019 amendment) is the robot-relevant event,OK*,add amendment date
+R2-d40a0c7b,Road Act (JP),"Road administration law; ""automated operation assistance facilities"" as appurtenances; relevance 1",G,"general law, out of robot-rule count"
+R2-118bce75,Road Traffic Act (JP),"Key instrument (Level 4 permits; remote-operated small vehicles) but dated 2026, the consolidation date; the Act is 1960, amended 2019 and 2022",E,"year 1960; events 2019, 2022"
+R2-f57251ed,Ordinance on Industrial Safety and Health (JP),"One of the oldest binding robot-safety rules (Arts. 150-3 to 151, 1983) dated 2026",E,year 1972; robot provisions 1983
+R2-a043fa96,Safety Regulations for Road Vehicles (JP),1951 ordinance dated 2026; relevance 1,"E, G",year 1951; general tier
+R2-7b1de0c8,Enforcement Regulations of the Road Transport Act (JP),Dated 2026; relevance 1,"E, G",
+R2-3a58754c,Ordinance on Occupancy Fees for Development Roads (JP),Fee schedule; relevance 1,G,out
+R2-b294bc4b,Motor Vehicle Inspection Standards (JP),Passing reference; relevance 1,G,out
+R2-2df9d719,METI export-control ordinance,"Dual-use list; ""robots for hazardous environments""; relevance 1",G,"out (or a separate ""export control"" family)"
+R2-fac50890,15 CFR Part 744 (EAR end-use controls),Export control; relevance 1,G,out
+R2-e852c9b8,22 CFR Part 121 US Munitions List,Arms export list; incidental,G,out
+R2-a7defad2,15 CFR Part 772 Definitions,Definitions part of the EAR,"G, B",out
+R2-cc07782a,Reg. 2021/694 Digital Europe Programme,Funding programme; robots in recitals; relevance 1,G,out
+R2-b54ba4c0,Reg. 2025/2653 amending Digital Europe and other programmes,Funding programme amendment,"A, G",out
+R2-98aa0eab,Reg. 2025/14 non-road mobile machinery on public roads,Correct and relevant (automated and remotely operated NRMM),OK*,"category: field/agricultural machinery, not ""other"""
+R2-2ef1a6ea,Directive 2005/49/EC (24 GHz short-range radar),"EMC rule for radar sensors, not automated driving; superseded",G,out
+R2-175079cb,Reg. 347/2012 AEBS type approval,"Driver assistance (AEB), labelled ""autonomous_road_vehicles""",G,add an ADAS category or drop
+"R2-80ec293b, R2-34d7721c","AEBS amending regs 2015/562, 2019/543",Amendments of the above,"A, G",drop
+"R2-07b317f5, R2-0adddb0a",ADR 98/00 and 97/00 (AEB),100 to 112-word TOC stubs; AEB,"B, G",drop
+R2-9d7e136e,Implementing Decision 2019/436 harmonised machinery standards,"OJ list of standard references; relevance 1; valuable for the legal effect of standards, not a robot rule",G,"move to a ""standards legal effect"" record"
+"R2-885d8000, R2-710c5344, R2-77acbca3","Implementing Decisions 2024/1329, 2026/2015, 2024/2103",Same; 2026/2015 harmonises EN ISO 10218-1/-2:2025 under the Machinery Directive (a finding the paper misses),G,same
+R2-9afd6f5a,FDA De Novo order ReWalk exoskeleton,Correct (special controls codified at 21 CFR 890.3480),OK*,overlaps R2-3b76fc99
+R2-3b76fc99,21 CFR Part 890 Physical Medicine Devices,Whole classification part; relevance 1; the robot-relevant section is the De Novo order above,"G, A","keep the section, not the part"
+R2-2f360ae8,State Council Reply on Beijing services-sector zone,"Relevance 0; 86 words; enters via ""rehabilitation assistive device industry pilot""","G, B",out
+R2-c05a984c,"State Council measures, Shanghai FTZ (excerpt)",Relevance 1; 121 words,"G, B",out
+R2-383a3bd2,"State Council notice, Inner Mongolia FTZ",Relevance 1; 54 words,"G, B",out
+R2-250c1f41,"Beijing E-Town ""Several Measures"" for the embodied robot industry","A 34-word stub of a local subsidy policy (若干措施: subsidies, data vouchers, insurance premium support) coded as a legally binding regulation and tagged with five robot types; this is the brief's only ""binding"" humanoid instrument","C, B",reclassify as soft industrial policy; fetch full text; remove the humanoid claim
+R2-48a5e09b,"MIIT Circular 2023 No. 217, ICV access pilots",49 words captured; binding nature defensible (normative document),B,fetch full text and annexes
+R2-71c985a8,"MIIT Notice No. 45 [2025] access, recall, OTA",32 words captured,B,fetch
+R2-74fc8ea0,Beijing AV road-testing measures (Article 2 only),30 words,B,fetch
+R2-44dd9188,Beijing UA storage-site provisions (excerpt),49 words,B,fetch
+R2-2e97da82,"Interim Regulations on UA Flights (CN, Decree 761)",Correct and important; 284-word promulgation page,OK*,fetch full text
+R2-e11cb5f7,Illinois EO 2018-13 Autonomous Illinois,Gubernatorial order creating a voluntary programme; binds state agencies,C,"binds = public bodies; not ""regulation"""
+R2-f5e63b92,Minnesota EO 18-04 advisory council,Creates an advisory council,C,as above
+R2-dddcec43,"Nebraska 60-3301 ""Terms, defined""",One definitions section of LB 989; operative sections not captured,"A, B",capture the Act (60-3301 to 60-3308)
+"R2-a846a9fc, R2-0f7421dd, R2-785c9ea7","Iowa 321.514, DC 50-2351, NC 20-400 definitions",Same pattern,"A, B",capture the chapters
+R2-fc6a2ffd,WV Code 17C-24 table of contents,Index page; blank year,"B, E",capture 17C-24 and 17H
+"R2-cb3f9817, R2-2b73010a, R2-d7556225, R2-31dea29c",Commencement orders (AV Act 2024 No. 1 and 3; ATMUA Act; Irish RTRA 2023),Commencement orders of captured or uncaptured Acts,A,attach as commencement events
+"R2-6ecde273, R2-fcdcfae6","Conseil constitutionnel decisions 2021-817 DC, 2021-834 DC","Genuine binding decisions on police drones; status ""in_force"" is the wrong field for a judgment",OK*,"status ""decided""; doc_class court decision"
+R2-4cac38c9,Conseil d'État order 440442 (2020),Same,OK*,
+D0016,Argentina Res. 710/2024 (UIAAS),Internal organisational act of the Ministry of Security; v1 finding F11 not implemented,C,binds = public body; not a robot rule
+D0005,El Salvador Robotic Technologies Law,Correct; but `source_url` is empty and the decree number and Diario Oficial reference are still unverified,OK*,add provenance
+D0228,Dubai Law No. 9 of 2023,Correct,OK,
+R2-6a0072d6,NZ CAR Part 102,221-word consolidation page; dated 2025 (amendment date); Part 102 is 2015,"B, E",fetch the rule; year 2015
+R2-35fea8b3,NZ CAR Part 101,Dated 2025; Part 101 is 2015,E,
+R2-7bb2229f,Machinery Regulation 2023/1230,"Status ""adopted_not_yet_in_force"" is wrong: in force 19 July 2023, applicable 20 January 2027; doc_type ""statute"" while other regulations are ""regulation""",D,add applicability field
+R2-80171de4,Machinery Directive 2006/42/EC,"Status ""superseded_or_repealed"" is wrong as of October 2026: repealed with effect from 20 January 2027; it is the robot-safety law in force today (v1 F25 not fixed)",D,in_force until 2027-01-20
+R2-0c29bfda,Digital Omnibus 2026/1744,"Correct; its application dates (2 Dec 2027, 2 Aug 2028) are in the capture but unused by the paper",OK*,use them
+D1291,AI Act 2024/1689,"""in_force"" correct; no applicability recorded; categories include vehicles and drones reached only via Arts. 102 to 109",OK*,applicability field; annotate Section B route
+R2-f16a72e1,UN Regulation No 157 (ALKS),Correct,OK,
+"R2-7c6034a5, R2-77e55f86","UN R155, R156","Correct (cybersecurity, software updates)",OK,
+R2-4b67cd64,StVG §1d (DE),"A single 199-word section captured as the ""Gesetz zum autonomen Fahren""; §§1e to 1l absent","A, B",capture the Act of 12 July 2021
+R2-75af7981,StVG §1a (DE),Same pattern for the 2017 amendment,"A, B",
+R2-10fefcfb,AFGBV (DE),177-word stub of the ordinance,B,fetch
+R2-d97f5421,Automated Vehicles Act 2024 (GB),Correct,OK,
+R2-5a3159c0,AV (Marketing Restrictions) Regulations 2026,"Correct (made July 2026, in force 7 Jan 2027)",OK,
+R2-66142fe4,Automated and Electric Vehicles Act 2018,Correct,OK,
+R2-d0d19353,Vietnam Law on People's Air Defense 2024,Correct (drone licensing regime),OK,
+R2-9c282a09,49 CFR Part 830 NTSB notification,General aviation law with a UA accident definition,OK*,general tier
+R2-eadb3869,Türkiye ADS type-approval regulation 2024,Correct,OK,
+R2-c1a0fce3,NR-12 (BR),Correct and important (deems ISO 10218/TS 15066 compliance); 2022 is a consolidation date,OK*,year of the robot clause
+R2-322c6200,Manitoba WSH Regulation 217/2006,Correct (Part 16 robots),OK,
+"R2-06573313, R2-fd1469ee",BC OHS Part 12; Alberta OHS Code,Correct (general OSH with robot sections),OK*,general tier
+R2-5a3ba5cd,Arkansas Act 1019 (2015),Correct,OK,
+R2-ed0d2da3,Kentucky HB 7 (2024),"""adopted_not_yet_in_force""; enacted over veto April 2024, effective July 2024 (verify)",D,in_force
+R2-ab778283,Ontario O. Reg. 306/15,"Dated 2025; made 2015 (in force 2016), amended",E,
+R2-aa7a13a1,BC Motor Vehicle Act RSBC 1996,Dated 2026; table of contents only; Part 12.1 added 2023/24,"E, B",capture Part 12.1
+R2-f8449ddf,ANAC Res. 319/2025 (AR),"Superseded within months by 550/2025; three successive versions of RAAC Part 100 counted (880/2019, 319/2025, 550/2025); 194 words","A, B","one instrument, three versions"
+R2-abd30cb1,ANAC Res. 550/2025,Correct instrument; 133-word stub,B,fetch
+R2-18066a4a,Danish EO supplementing 2019/947,Correct,OK,
+R2-4300b76f,Danish Act No. 566/2025,Correct,OK,
+R2-0d0ca0f5,6 CFR/28 CFR Part 124 counter-UAS,Correct,OK,
+"R2-e0b61aab, R2-fb1d4b44","49 USC 44810, 44809",Code sections dated by last amendment; fragments of FAA Reauthorization Acts that are also present as slip-law headers,"A, E",one instrument per Act
+"R2-03dffb43, R2-98d55e2b, R2-b2c62399","FAA Reauthorization 2018, 2024; AAM Coordination Act","Slip-law headers and legislative history only (143 to 1,055 words)",B,fetch the UAS titles
+R2-91089001,Arizona 13-3729,Blank year (2016),E,
+R2-eac3219d,LuftVO §21a (DE),"Blank year (2021); an ordinance coded ""statute""",E,
+R2-7d33c29c,National Strategic Special Zones Act (JP),Acceptable (sandbox statute enabling vehicle and drone demonstrations),OK*,
+"R2-59a29a12, R2-ce2171ab",NSSZ enforcement ordinances,Robots as eligible businesses; relevance 1,G,general tier or out
+R2-0f2220b7,"Cabinet Office Order, small electric vehicles (repealed)",Not robots,G,out
+R2-9c4dc434,Mexico Civil Aviation Law,General aviation law with UAS provisions; dated 2025 (last reform; enacted 1995),"OK*, E",
+R2-82f8813a,Malaysia CAR 2016 (Part XVI UAS),Correct general law with drone part,OK*,
+R2-f8592e32,UK Air Navigation Order 2016,Correct general law with drone articles,OK*,
+R2-3f3f9934,Delegated Reg. 2026/1188 amending Annex II of 2018/858,Amendment adding R171 and AVP to type-approval lists; relevance 1,"A, G",attach to 2018/858
+R2-0e639229,Florida 316.2071 PDD,Correct,OK,
+R2-f51b01be,Florida 330.41 UAS Act,Dated 2026 (compilation); statute 2015/2017,E,
+R2-c3888d81,Peru DS 012-2026-MTC,Correct,OK,
+R2-83a4b662,DECEA ICA 100-40 (2026),"Effective 1 July 2026, so ""adopted_not_yet_in_force"" is stale",D,in_force
+R2-d012a8fb,Uruguay presidential resolution approving DINACIA authorisations,"Individual authorisation of one operator (DRONFIES LABS), not a general rule",C,binds = one addressee; out of rule count
+"R2-87faf76a, R2-833ba7e9",MDR 2017/745; MDD 93/42 (repealed),Correct as general product law with embodied relevance 1,OK*,general tier
+R2-4d7d2faa,Implementing Reg. 2017/2185 notified-body codes,Administrative list,"A, G",out
+"R2-7fa23c8d, R2-4fa6065a, R2-e957136a",Russia Res. 1415; Sweden 2017:309; Spain RD 1036/2017,"Superseded, correctly",OK,(verify Sweden's extension to 2025)
+R2-2dc27108,ISO/TC 299 catalogue of standards (via LVS),Catalogue page counted as a technical standard with relevance 3 (repeat of v1 D0045/D0218),B,"web page, not instrument"
+"R2-00d51a66, R2-0ed7a070, R2-7aac393d, R2-1e489dd3, R2-082af2fd, R2-11676574, R2-0d161ef6","GB/T 44719, 45312, 46958, 46896, 47025, 47031, 44091 ""(portal page)""",Standards-portal pages whose titles and contents the annotator could not see; category inferred from ICS code,"B, G",drop until texts are read
+R2-28ac5c19,GB 11291.1-2011 (= ISO 10218-1:2006),"Mandatory national standard (`technical_standard_mandated`) counted as soft law; ""superseded"" rests on a listed 2026 revision project, not a published replacement","C, D","class ""mandatory standard""; status current (verify)"
+R2-7b02f71b,GB 11291.2-2013 (= ISO 10218-2:2011),Mandatory standard counted as soft law,C,
+R2-26467338,GB 42590-2023 civil UAS safety requirements,"Mandatory standard (effective 1 June 2024) counted as soft law; status ""in_force"" inconsistent with class",C,
+R2-4785e2b0,GB 44495-2024 vehicle cybersecurity,"Mandatory; effective 1 Jan 2026 so ""adopted_not_yet_in_force"" is stale; counted as soft","C, D",
+R2-124ca4e0,GB 44496-2024 software updates,Mandatory; `binding_nature` legally_binding but class soft,C,
+"R2-b6bf58d3, R2-b74a9cad, R2-bdae7a53","KS B ISO 10218-2, 10218-1, KS ISO 13482",Identical national adoptions counted as separate instruments and as Korea's robot instruments,A,record as adoptions of the ISO instrument
+"R2-3eabedc7, R2-5b4afb4e",CNS 14490-1/-2 (TW),Adoptions; 110-word store pages,"A, B",
+R2-a10a190a,MHLW 2013 notice on Art. 150-4 (collaborative operation),"The key Japanese collaborative-robot interpretation; 69 words; coded ""superseded_or_repealed"" (verify: it remains the operative notice)","B, D",fetch; status
+R2-2406d6c8,Greek circular on Law 4784/2021 (Art. 42 automated vehicles),"A statute's automated-vehicle amendment reaches the collection only as a ministry circular coded ""guideline""; the law is binding and uncaptured","C, B",capture Law 4784/2021
+R2-7382c1ae,SACAA Part 101 information page,Web guidance coded soft; the binding CAR Part 101 (2015) is uncaptured,"C, B",capture Part 101
+R2-1d696723,Botswana CAA RPA registration page,"Web page; `binding_nature` legally_binding, class soft; year 2026 (the S.I. 71 of 2024 at the source URL is the instrument)","B, C, E",capture S.I. 71/2024
+R2-f945e7d0,Qatar RPAS application terms and conditions,Web form; blank year,B,out
+R2-a856068b,ICV road-testing norms (MIIT/MPS/MOT 2021),"Departmental normative document binding on applicants, coded soft; 190 words","C (borderline), B",fetch; add binds-whom
+R2-b83cc260,FBI public service announcement on connected toys,Not a governance instrument,B,out
+R2-fd1a6bf3,SPARC Strategic Research Agenda (euRobotics),"Private association's research agenda coded ""national strategy""",C,"industry report, not instrument"
+R2-35e40c62,Adra SRIDA 2025-2027,"Same; also class ""proposal"" with status ""published""","C, D",
+R2-5d4993b3,PAS 1883:2020,"Correctly ""superseded"" (withdrawn 2025)",OK,
+R2-e84bd353,ISO/AWI 15066-1,Approved work item (stage 20.00) counted among the 238 published standards,D,"""under development"" rows out of instrument counts"
+R2-fcda4045,ISO/FDIS 13482,FDIS counted as an instrument alongside ISO 13482:2014,"D, A",
+R2-b28779fd,WP.1 report with 2018 resolution on automated vehicles,Correct soft instrument; TOC-only capture,OK*,
+R2-d7dae4f6,UNGA Resolution 79/62,Correct; title should carry the number,OK,
+R2-99350112,Agricultural machinery scrapping subsidy notice (CN),Subsidy; relevance 1; 21 words,"G, B",out
+R2-6a04779a,EP resolution on minors online,Relevance 1; one paragraph on AI toys,G,general tier
+R2-15d84608,EP resolution on Russian airspace violations,Security-policy resolution; relevance generous,G,general tier
+R2-1bd06d34,State Council 2023 legislative work plan,A list of planned regulations; relevance 1,G,out
+D0460,Shanghai embodied-intelligence plan,Correct (v2 fix held),OK,
+R2-59b89486,Beijing embodied-intelligence action plan 2025-27,Correct type; 55 words captured,B,fetch
+"R2-ffa639b7, R2-c0935bcb",ISO 10218-1:2025; ISO/TS 15066:2016,Correct (store pages),OK,
+R2-7da8b467,UL 3300 SCIEE robots,"Correct; the one consumer, companion and education robot safety standard, unused by the brief",OK,cite it in the companion-robot box
+R2-0488701b,UL 4600,Correct,OK,
+R2-db872005,IEEE 1872-2015,"""Superseded"" from ""inactivated 2026"" is acceptable",OK,
+R2-f48a8103,Proposal for a Regulation on machinery products (2021),"Enacted as 2023/1230 (in S01); still ""under consideration""",D,superseded (enacted)
+R2-e91f8719,EP amendments of 14 June 2023 on the AI Act,"Enacted; duplicate of D1064, which v2 did fix","D, A",superseded
+R2-e09b2ee1,Digital Omnibus proposal (2025),Enacted as 2026/1744 (in S01),D,superseded
+R2-b497d818,EP amendments on the Omnibus (March 2026),Enacted,"D, A",superseded
+R2-c5f8f802,"EP amendments, Digital Europe (2018)",Enacted as 2021/694; relevance 1,"D, G",superseded
+R2-960229c7,Euro 7 proposal (2022),"Enacted as 2024/1257; emissions, not automated driving","D, G",out
+R2-99a032c7,India Draft Drone Rules 2021,"Final Drone Rules notified 25 Aug 2021 (G.S.R. 589(E), in the inventory as AP-001, fetch 403); ""consultation_open""",D,superseded; capture the final rules
+R2-11cb34e4,AV START Act S.1885 (2017),Died with the 115th Congress; 182-word metadata page,"D, B",withdrawn_or_lapsed
+R2-7b9dcf74,S.1394 Block Nuclear Launch by Autonomous AI Act (2023),Lapsed with the 118th Congress; 135 words,"D, B",lapsed
+R2-95cb0662,Tennessee HB 591/SB 796 (2013),"Enacted as the Freedom from Unwarranted Surveillance Act (Pub. Ch. 470 of 2013, verify)",D,enacted
+D1140,EU White Paper on AI (2020),"""consultation_open"" six years on (v2 did not fix)",D,closed; superseded by the AI Act
+R2-5da1a6e6,France and Germany CCW working paper 2017,"A negotiating submission, not a proposal of an instrument",C,"class ""position paper""; out of the drafts stratum"
+R2-c2fb53b6,US CCW working paper 2018,"Same; status ""not_applicable""",C,
+R2-c94bd401,Brazil CCW paper on IEEE 7007,Discussion paper,C,
+R2-278452d3,"Draft articles on AWS (WP.7, 2025)",Acceptable as a proposed text; issuer coded national executive with jurisdiction INT,"OK*, F",
+R2-8287ac55,Draft Protocol on AWS (seven states),Acceptable; blank year (2022 per URL),E,
+R2-33fd0145,Proposal for a Council Decision on the EU position at ICAO (2021),"Adopted (verify); an EU negotiating-position decision, not a draft robot rule","D, C",out
+R2-46d2a2e2,Food and feed omnibus proposal (drone spraying exemption),Acceptable as a draft with an embodied provision,OK,
+R2-d6f8ff36,CCMTA white paper 2016,"Class ""proposal"" with status ""not_applicable""","C, D",soft or report

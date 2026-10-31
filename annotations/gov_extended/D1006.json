@@ -1,0 +1,111 @@
+{
+ "doc_id": "D1006",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:47:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0803818,
+  "in": 2,
+  "out": 1963,
+  "cache_read": 11758,
+  "cache_create": 14893,
+  "api_ms": 11281,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "European Data Protection Supervisor (EDPS)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.88,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "national_strategy_or_action_plan",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "oversight_body_creation",
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "incident_reporting",
+   "international_cooperation",
+   "education_training_programs",
+   "risk_based_tiering"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "trust_acceptance",
+   "industrial_policy_innovation",
+   "education_training",
+   "human_oversight_control"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "EDPS acts as market surveillance authority for AI systems of EU institutions and as notified body for certain high-risk biometric systems.",
+   "Four pillars: supervision, AI Act governance coordination, institutional empowerment, international engagement.",
+   "Establish enforcement, audit, complaint, fine and incident-reporting procedures, with functional separation between MSA and notified-body roles.",
+   "Run an AI regulatory sandbox pilot and a Trustworthy AI Centre of Excellence.",
+   "Cooperate via AI Board, AI Act Correspondents Network, UNESCO GNAIS, Council of Europe HUDERIA and OECD."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "Council of Europe Framework Convention on AI",
+   "OECD AI Principles"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "EDPS strategic document setting out priorities for 2026–2027 in its new roles under the EU AI Act as market surveillance authority and notified body for EU institutions' AI systems. It defines four pillars: supervision, governance coordination, institutional empowerment (sandbox, centre of excellence) and international engagement.",
+  "title_clean": "Towards trustworthy AI in the EU public administration: The EDPS Compass for its new role under the AI Act 2026–2027",
+  "title_en": "Towards trustworthy AI in the EU public administration: The EDPS Compass for its new role under the AI Act 2026–2027",
+  "venue": "European Data Protection Supervisor",
+  "methodology": "not_applicable"
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-24f521d8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1256758,
+  "in": 2,
+  "out": 1798,
+  "cache_read": 11758,
+  "cache_create": 26629,
+  "api_ms": 9290,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Digital Decade 2026 country report: Austria in the Digital Decade",
+  "title_en": "Digital Decade 2026 country report: Austria in the Digital Decade",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Commission, SWD(2026) 155 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "AT",
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "cybersecurity",
+   "privacy_data_protection",
+   "sustainability_environment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission staff working document assessing Austria's progress toward the EU Digital Decade 2030 targets: connectivity, SME digitalisation, AI/cloud/data uptake, skills, digital public services and green digital. It reviews national roadmap measures and 2025 recommendations. Embodied AI and robotics are not addressed beyond a passing mention.",
+  "key_provisions_or_claims": [
+   "Austria is 67% on track against its 2025 Digital Decade trajectory points, and 40% of the 2025 recommendations were addressed.",
+   "AI adoption by enterprises is 29.95%, above the EU average of 19.95%.",
+   "Fibre and VHCN coverage lag the EU average, and the BBA2030 funding call was cancelled.",
+   "Cloud and data analytics uptake is below the EU average, and targeted SME support is recommended.",
+   "NIS2 transposition (NISG 2026) creates a Federal Office for Cybersecurity from October 2026."
+  ],
+  "confidence": 0.9
+ }
+}

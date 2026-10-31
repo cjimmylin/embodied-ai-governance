@@ -1,0 +1,95 @@
+{
+ "doc_id": "D1530",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:48:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0287178,
+  "in": 2,
+  "out": 1713,
+  "cache_read": 11758,
+  "cache_create": 2602,
+  "api_ms": 8659,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Implementing an ethical approach to big data analytics in assistive robotics for elderly with dementia",
+  "title_en": "Implementing an ethical approach to big data analytics in assistive robotics for elderly with dementia",
+  "language": "en",
+  "authors_or_issuer": "Felzmann, H; Ryan, M; Beyan, T; Beyan, O",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2015,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": "10.13025/22637",
+  "venue": "ETHICOMP 2015 (ACM)",
+  "jurisdiction_country": "IE",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "children_vulnerable_groups",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Conference paper analysing the ethical relevance of informational connectedness in care robotics, and outlining ethical considerations in the design of the H2020 MARIO care robot for people with mild to moderate dementia. Focuses on privacy and information ethics using value-sensitive design. Only the abstract page was available.",
+  "key_provisions_or_claims": [
+   "Contemporary robots are increasingly informationally connected, raising distinct ethical issues for care robotics.",
+   "Ethical considerations are tied to specific functionalities of the MARIO dementia care robot.",
+   "Privacy and information ethics should be addressed in the design process through value-sensitive design."
+  ],
+  "confidence": 0.8
+ }
+}

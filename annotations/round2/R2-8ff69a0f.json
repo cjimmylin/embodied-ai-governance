@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-8ff69a0f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0535036,
+  "in": 4,
+  "out": 3573,
+  "cache_read": 26081,
+  "cache_create": 4524,
+  "api_ms": 23077,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 23793-1:2024 Intelligent transport systems — Minimal risk manoeuvre (MRM) for automated driving — Part 1: Framework, straight-stop and in-lane stop",
+  "title_en": "ISO 23793-1:2024 Intelligent transport systems — Minimal risk manoeuvre (MRM) for automated driving — Part 1: Framework, straight-stop and in-lane stop",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 204",
+  "issuer_type": "standards_body",
+  "pub_year": 2024,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 26262",
+   "ISO 21448"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO 23793-1:2024 is an international standard from ISO/TC 204 setting minimum requirements for minimal risk manoeuvres by automated driving systems (Level 3-5) in light-duty vehicles. It defines a classification framework and control strategy and test procedures for straight-stop and in-lane stop. This is a catalogue page.",
+  "key_provisions_or_claims": [
+   "Defines classification framework and concept of operation for minimal risk manoeuvres (MRM)",
+   "Specifies control strategy and test procedures for straight stop (type 1) and in-lane stop (type 2)",
+   "Applies to light-duty vehicles with Level 3-5 automated driving systems",
+   "Excludes failure detection, MRM initiation decisions, and ISO 26262/21448 design requirements"
+  ],
+  "confidence": 0.85
+ }
+}

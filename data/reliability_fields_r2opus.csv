@@ -1,0 +1,130 @@
+field,type,n,percent_agreement,kappa
+issuer_type,single,160,0.875,0.8416860436352842
+date_basis,single,160,0.93125,0.699709947108002
+jurisdiction_country,single,160,0.96875,0.9629166087238678
+jurisdiction_scope,single,160,0.975,0.961644492388829
+doc_type,single,160,0.81875,0.7868136917068689
+doc_class,single,160,0.90625,0.8642380359769205
+is_governance_document,single,160,0.95,0.8039816232771823
+instrument_status,single,160,0.80625,0.749305029062421
+binding_nature,single,160,0.9,0.8610055380605929
+publication_stage,single,160,0.9875,0.6602972399150744
+ai_scope,single,160,0.8875,0.8264537511298584
+embodiment_status,single,160,0.93125,0.8634070624757471
+primary_embodied_category,single,160,0.9125,0.8871422813381701
+page_quality,single,160,0.74375,0.5333285907377107
+stance_toward_regulation,single,160,0.9,0.6502254406339664
+language,single,160,1.0,1.0
+pub_year (within 1 year),numeric,155,0.9612903225806452,
+relevance_to_embodied_ai_governance,ordinal,160,0.81875,0.9316883575761145
+embodied_categories:agricultural_robots,multi,160,0.99375,0.937888198757764
+embodied_categories:autonomous_road_vehicles,multi,160,0.975,0.921875
+embodied_categories:care_assistive_robots,multi,160,0.99375,0.9198396793587175
+embodied_categories:delivery_robots,multi,160,0.99375,0.9198396793587175
+embodied_categories:domestic_household_robots,multi,160,0.975,0.32059447983014866
+embodied_categories:drones_uas,multi,160,0.98125,0.9445727482678984
+embodied_categories:humanoid_general_purpose,multi,160,1.0,1.0
+embodied_categories:industrial_manipulators,multi,160,0.975,0.5876288659793814
+embodied_categories:military_autonomous_weapons,multi,160,0.9875,0.9162742019884877
+embodied_categories:mobile_industrial_logistics,multi,160,0.975,0.7014925373134329
+embodied_categories:professional_service_robots,multi,160,0.96875,0.6908809891808346
+embodied_categories:rehabilitation_exoskeleton_prosthetic,multi,160,0.9875,0.8268398268398268
+application_sectors:agriculture_food,multi,160,0.975,0.8199212155317952
+application_sectors:construction,multi,160,0.96875,0.5294117647058824
+application_sectors:cross_sector,multi,160,0.9625,0.9000208289939596
+application_sectors:defense_security,multi,160,0.9625,0.8623853211009174
+application_sectors:domestic_consumer,multi,160,0.98125,0.7595190380761523
+application_sectors:education,multi,160,0.975,0.488
+application_sectors:elder_care_social_care,multi,160,0.99375,0.9300699300699301
+application_sectors:energy_environment,multi,160,0.98125,0.8928571428571429
+application_sectors:healthcare,multi,160,0.96875,0.8707175177763413
+application_sectors:logistics_transport,multi,160,0.95625,0.912472647702407
+application_sectors:manufacturing,multi,160,0.95625,0.7960670065549891
+application_sectors:other,multi,160,0.9875,0.6610169491525424
+application_sectors:public_administration_justice,multi,160,0.9125,0.631578947368421
+application_sectors:research_science,multi,160,0.9875,0.8822663723325975
+application_sectors:retail_hospitality,multi,160,1.0,1.0
+governance_topics:certification_conformity_assessment,multi,160,0.825,0.6453451551614946
+governance_topics:children_vulnerable_groups,multi,160,0.94375,0.6396396396396397
+governance_topics:civil_liability,multi,160,0.94375,0.7391304347826086
+governance_topics:consumer_protection,multi,160,0.9625,0.8421052631578947
+governance_topics:criminal_liability,multi,160,0.95625,0.6963123644251628
+governance_topics:cybersecurity,multi,160,0.9125,0.678622668579627
+governance_topics:education_training,multi,160,0.9125,0.631578947368421
+governance_topics:ethics_principles,multi,160,0.98125,0.8136645962732919
+governance_topics:fairness_bias_discrimination,multi,160,0.9625,0.7297297297297297
+governance_topics:human_dignity_autonomy,multi,160,0.98125,0.8136645962732919
+governance_topics:human_oversight_control,multi,160,0.91875,0.7694013303769401
+governance_topics:human_robot_interaction_social_effects,multi,160,0.98125,0.6581196581196581
+governance_topics:industrial_policy_innovation,multi,160,0.91875,0.8006134969325154
+governance_topics:labor_employment,multi,160,0.975,0.7866666666666666
+governance_topics:military_use_ihl,multi,160,1.0,1.0
+governance_topics:other,multi,160,0.85,0.49513541940573236
+governance_topics:privacy_data_protection,multi,160,0.925,0.7539092540374264
+governance_topics:research_ethics,multi,160,0.975,0.5876288659793814
+governance_topics:risk_management_risk_tiers,multi,160,0.90625,0.6993987975951903
+governance_topics:safety_physical_harm,multi,160,0.825,0.6312757201646091
+governance_topics:standards_interoperability,multi,160,0.90625,0.8108448928121059
+governance_topics:sustainability_environment,multi,160,0.95,0.7367338543809132
+governance_topics:taxation_economic_policy,multi,160,0.94375,0.1588785046728971
+governance_topics:transparency_explainability,multi,160,0.9375,0.726027397260274
+governance_topics:trust_acceptance,multi,160,0.99375,0.937888198757764
+governance_mechanisms:audits_impact_assessment,multi,160,0.825,0.5788682083098327
+governance_mechanisms:conformity_assessment_certification,multi,160,0.93125,0.8425760286225402
+governance_mechanisms:data_governance_requirements,multi,160,0.9125,0.631578947368421
+governance_mechanisms:education_training_programs,multi,160,0.9125,0.72
+governance_mechanisms:funding_or_incentives,multi,160,0.93125,0.7886647454370797
+governance_mechanisms:human_oversight_requirement,multi,160,0.925,0.6721311475409837
+governance_mechanisms:incident_reporting,multi,160,0.89375,0.672289156626506
+governance_mechanisms:insurance_requirement,multi,160,0.99375,0.9595551061678463
+governance_mechanisms:international_cooperation,multi,160,0.9125,0.7400789046182409
+governance_mechanisms:liability_regime,multi,160,0.96875,0.7977755308392316
+governance_mechanisms:licensing_registration,multi,160,0.875,0.7159090909090909
+governance_mechanisms:none,multi,160,0.96875,0.5327102803738317
+governance_mechanisms:oversight_body_creation,multi,160,0.79375,0.3545232273838631
+governance_mechanisms:prohibitions_bans,multi,160,0.95625,0.8370197904540163
+governance_mechanisms:risk_based_tiering,multi,160,0.9875,0.9264367816091954
+governance_mechanisms:self_regulation_codes,multi,160,0.96875,0.4285714285714286
+governance_mechanisms:technical_standards_reference,multi,160,0.89375,0.7888854393045638
+governance_mechanisms:testing_sandboxes,multi,160,0.90625,0.6543778801843319
+governance_mechanisms:transparency_disclosure_labelling,multi,160,0.9,0.6451344607707236
+principle:transparency (any),binary,160,0.9,0.7763801537386443
+principle:transparency (level),ordinal,160,0.9,0.863013698630137
+principle:justice_fairness (any),binary,160,0.94375,0.8024149286498353
+principle:justice_fairness (level),ordinal,160,0.94375,0.8830789217278338
+principle:non_maleficence (any),binary,160,0.88125,0.7333333333333334
+principle:non_maleficence (level),ordinal,160,0.85,0.8488783943329398
+principle:responsibility_accountability (any),binary,160,0.875,0.7515142102810995
+principle:responsibility_accountability (level),ordinal,160,0.80625,0.8107299422447986
+principle:privacy (any),binary,160,0.93125,0.7967667436489607
+principle:privacy (level),ordinal,160,0.925,0.8875219683655536
+principle:beneficence (any),binary,160,0.925,0.8314606741573034
+principle:beneficence (level),ordinal,160,0.90625,0.8373101952277657
+principle:freedom_autonomy (any),binary,160,0.9625,0.8026315789473684
+principle:freedom_autonomy (level),ordinal,160,0.95625,0.7872340425531915
+principle:trust (any),binary,160,0.9625,0.841897233201581
+principle:trust (level),ordinal,160,0.95,0.8656591099916037
+principle:sustainability (any),binary,160,0.9375,0.8274374460742019
+principle:sustainability (level),ordinal,160,0.91875,0.87
+principle:dignity (any),binary,160,0.98125,0.8698481561822126
+principle:dignity (level),ordinal,160,0.975,0.8251093066833229
+principle:solidarity (any),binary,160,0.9375,0.6875
+principle:solidarity (level),ordinal,160,0.925,0.7216584517251377
+principle:human_oversight (any),binary,160,0.94375,0.8712906685734716
+principle:human_oversight (level),ordinal,160,0.9125,0.9132589838909542
+principle:robustness_security (any),binary,160,0.9125,0.825
+principle:robustness_security (level),ordinal,160,0.8625,0.870635795663359
+principle:inclusive_growth (any),binary,160,0.95,0.8901853122855182
+principle:inclusive_growth (level),ordinal,160,0.90625,0.9001663893510815
+principle:physical_safety (any),binary,160,0.89375,0.7834394904458599
+principle:physical_safety (level),ordinal,160,0.80625,0.8484107579462102
+principle:human_robot_proximity (any),binary,160,0.95,0.7614610510622437
+principle:human_robot_proximity (level),ordinal,160,0.94375,0.8293838862559242
+principle:liability_for_physical_damage (any),binary,160,0.975,0.8748043818466353
+principle:liability_for_physical_damage (level),ordinal,160,0.9625,0.9074252651880425
+principle:autonomy_level_control (any),binary,160,0.94375,0.8725663716814159
+principle:autonomy_level_control (level),ordinal,160,0.93125,0.9359813764004073
+principle:conformity_assessment_certification (any),binary,160,0.8625,0.7251717676452217
+principle:conformity_assessment_certification (level),ordinal,160,0.7875,0.8315685181745
+principle:dual_use_military (any),binary,160,1.0,1.0
+principle:dual_use_military (level),ordinal,160,0.99375,0.9908925318761385

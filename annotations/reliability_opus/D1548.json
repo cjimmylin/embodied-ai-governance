@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1548",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:18:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0912236,
+  "in": 2,
+  "out": 1830,
+  "cache_read": 11758,
+  "cache_create": 6533,
+  "api_ms": 12555,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Not Relational Enough? Towards an Eco-Relational Approach in Robot Ethics",
+  "title_en": "Not Relational Enough? Towards an Eco-Relational Approach in Robot Ethics",
+  "language": "en",
+  "authors_or_issuer": "Puzio, A.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s13347-024-00730-2",
+  "venue": "Philosophy & Technology",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "surgical_medical_robots",
+   "humanoid_general_purpose",
+   "sex_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "legal_personhood_robot_rights",
+   "human_robot_interaction_social_effects",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Philosophical article critiquing the \"properties approach\" and modestly relational approaches in robot ethics, and proposing an \"eco-relational\" approach. Using phenomenology, it argues that ethical concepts such as autonomy, agency and responsibility should take relations with non-human entities (animals, robots) into account from the start, leading to ideas such as hybrid actions and non-human agency.",
+  "key_provisions_or_claims": [
+   "Robot ethics relies too heavily on exclusively human properties such as consciousness and intelligence.",
+   "Properties should be anchored in contexts, bodies and actions, which allows them to be recognised in non-human entities too.",
+   "An eco-relational approach includes relations with animals and robots in core ethical concepts from the outset.",
+   "Robots like surgical systems show that actions are hybrid co-actions, implying non-human agency.",
+   "Technology disrupts traditional ethical concepts of autonomy, agency and responsibility."
+  ],
+  "confidence": 0.85
+ }
+}

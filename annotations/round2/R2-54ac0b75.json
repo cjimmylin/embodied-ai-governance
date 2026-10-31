@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-54ac0b75",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028517800000000003,
+  "in": 2,
+  "out": 1773,
+  "cache_read": 11758,
+  "cache_create": 2402,
+  "api_ms": 9803,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "authors_or_issuer": "UNIDIR (United Nations Institute for Disarmament Research)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "NL",
+   "BR",
+   "ZA",
+   "SG"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "grey_literature",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Uncertainty remains on how IHL specifically applies to LAWS despite decade-long deliberations.",
+   "UNIDIR drafted a background paper summarizing State and expert views on IHL applicability to LAWS.",
+   "Regional consultations held in The Hague, Brasília, Pretoria and Singapore between Nov 2024 and Mar 2025.",
+   "Consultations under Chatham House Rule with government-affiliated experts and scholars."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "pub_month": 4,
+  "pub_year": 2025,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "UNIDIR publication page for a 37-page report by Yasmin Afina summarizing regional perspectives on applying international humanitarian law to lethal autonomous weapon systems, based on a background paper and consultations in The Hague, Brasília, Pretoria and Singapore (Nov 2024–Mar 2025).",
+  "title_clean": "Regional Perspectives on the Application of International Humanitarian Law to Lethal Autonomous Weapon Systems",
+  "title_en": "Regional Perspectives on the Application of International Humanitarian Law to Lethal Autonomous Weapon Systems",
+  "venue": "UNIDIR"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1440",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:45:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0330018,
+  "in": 2,
+  "out": 1825,
+  "cache_read": 11758,
+  "cache_create": 3393,
+  "api_ms": 10315,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Design Approach of Medical Devices for Regulation Compatibility: A Robotic Rehabilitation Case Study",
+  "title_en": "Design Approach of Medical Devices for Regulation Compatibility: A Robotic Rehabilitation Case Study",
+  "language": "en",
+  "authors_or_issuer": "Formicola, R.; Ragni, F.; Mor, M.; Bissolotti, L.; Amici, C.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2021,
+  "pub_month": 4,
+  "date_basis": "inferred_from_content",
+  "doi": "10.5220/0010402801460153",
+  "venue": "Proceedings of the 7th International Conference on ICT for Ageing Well and e-Health (ICT4AWE), SciTePress",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots",
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "primary_embodied_category": "rehabilitation_exoskeleton_prosthetic",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "MEDDEV 2.7/1"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "case_study",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Conference paper presenting a design approach mapping the documentation required for CE marking of medical devices, applied to the LEPRE robotic leg-rehabilitation system. It focuses on clinical evaluation reports and equivalence demonstration under MEDDEV 2.7/1, to ease regulatory compatibility during design.",
+  "key_provisions_or_claims": [
+   "Regulations and norms constrain medical device design requirements.",
+   "Proposes a custom mapping of data and documents required for CE marking.",
+   "Applied to the LEPRE robotic rehabilitation system.",
+   "Focuses on clinical evaluation report and equivalence per MEDDEV 2.7/1.",
+   "Suggests adaptations for other application fields."
+  ],
+  "confidence": 0.8
+ }
+}

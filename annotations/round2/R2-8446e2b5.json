@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-8446e2b5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:16:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029685800000000002,
+  "in": 2,
+  "out": 1737,
+  "cache_read": 11758,
+  "cache_create": 2784,
+  "api_ms": 8920,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Autonomous Vehicle Passenger Service Programs",
+  "title_en": "Autonomous Vehicle Passenger Service Programs",
+  "language": "en",
+  "authors_or_issuer": "California Public Utilities Commission (CPUC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "CPUC website",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "consumer_protection"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "California Public Utilities Commission web page describing its drivered and driverless autonomous vehicle passenger service pilot and deployment programs, eligibility conditions tied to California DMV permits, passenger safety plans, fare rules, and links to permits, workshops and press releases.",
+  "key_provisions_or_claims": [
+   "Decision 18-05-043 (2018) authorized drivered and driverless AV passenger service pilots with no fares.",
+   "Driverless pilots require a continuously maintained communication link to remote operators.",
+   "Participants must hold the corresponding California DMV testing or deployment permit.",
+   "Decision 20-11-046 authorized Phase I deployment programs allowing fares.",
+   "Driverless applicants must submit Passenger Safety Plans; enhanced AV data reporting introduced in 2024."
+  ],
+  "confidence": 0.85
+ }
+}

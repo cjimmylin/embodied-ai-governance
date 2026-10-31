@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1697",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:23:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0465498,
+  "in": 2,
+  "out": 1819,
+  "cache_read": 11758,
+  "cache_create": 6795,
+  "api_ms": 13364,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Spoken Language Interaction with Virtual Agents and Robots (SLIVAR): Towards Effective and Ethical Interaction",
+  "title_en": "Spoken Language Interaction with Virtual Agents and Robots (SLIVAR): Towards Effective and Ethical Interaction",
+  "language": "en",
+  "authors_or_issuer": "Devillers, L.; Kawahara, T.; Moore, R.K.; Scheutz, M.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.4230/DagRep.10.1.1",
+  "venue": "Dagstuhl Reports, Vol. 10, Issue 01",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "social_companion_robots",
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "research_science",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "human_robot_interaction_social_effects",
+   "ethics_principles",
+   "transparency_explainability",
+   "research_ethics",
+   "trust_acceptance"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Dagstuhl Seminar 20021 report on spoken language interaction with virtual agents and robots. It covers the seminar program, stimulus talks (including ethical issues), show-and-tell demos and open problems. Ethics is one discussion theme among many; the report contains no formal governance instrument.",
+  "key_provisions_or_claims": [
+   "Aims to bridge the spoken language processing and human-robot interaction communities.",
+   "Ethics is a discussion theme: how to create ethical agents and whether robots should pursue goals unknown to users.",
+   "Planned outputs include a survey of architectures for embedded ethical competence and a position paper on ethical ML/AI.",
+   "Notes there are no clear guidelines for integrating spoken interaction into embodied social agents.",
+   "Calls for evaluation protocols for speech-based HRI."
+  ],
+  "confidence": 0.85
+ }
+}

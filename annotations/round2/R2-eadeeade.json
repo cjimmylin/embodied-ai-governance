@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-eadeeade",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:55:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.17277979999999998,
+  "in": 2,
+  "out": 1766,
+  "cache_read": 11758,
+  "cache_create": 38485,
+  "api_ms": 12043,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "UK Parliament",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "liability_regime",
+   "incident_reporting",
+   "data_governance_requirements",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "prohibitions_bans"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "consumer_protection",
+   "privacy_data_protection",
+   "civil_liability",
+   "criminal_liability",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Establishes a Commissioner for Patient Safety for England on medicines and medical devices",
+   "Delegated powers to amend human and veterinary medicines regulation, with safeguarding public health as the overarching objective",
+   "Powers to amend Medical Devices Regulations 2002, including registers, conformity assessment and post-market surveillance",
+   "Enforcement of medical devices: compliance, suspension, safety and information notices, recall, forfeiture and offences",
+   "Civil sanctions, breach of statutory duty action, and information system and data disclosure rules"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 2,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "UK Act (2021 c. 3, version as at 21 March 2024) creating a Commissioner for Patient Safety and giving ministers powers to amend regulation of human and veterinary medicines and medical devices. It sets medical device enforcement tools (notices, recall, forfeiture, penalties). It has no AI or robotics provisions.",
+  "title_clean": "Medicines and Medical Devices Act 2021",
+  "title_en": "Medicines and Medical Devices Act 2021",
+  "venue": "legislation.gov.uk",
+  "methodology": "not_applicable"
+ }
+}

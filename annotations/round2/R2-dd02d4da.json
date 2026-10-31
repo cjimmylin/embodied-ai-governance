@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-dd02d4da",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:45:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0537878,
+  "in": 2,
+  "out": 1810,
+  "cache_read": 11758,
+  "cache_create": 8627,
+  "api_ms": 9194,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2020/438 on the harmonised standards for active implantable medical devices drafted in support of Council Directive 90/385/EEC",
+  "title_en": "Commission Implementing Decision (EU) 2020/438 on the harmonised standards for active implantable medical devices drafted in support of Council Directive 90/385/EEC",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2020,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission implementing decision publishing the references of harmonised standards supporting Directive 90/385/EEC on active implantable medical devices, listing standards (sterilisation, biocompatibility, risk management, software) that give presumption of conformity. It applies until 26 May 2024 and cannot be used for Regulation (EU) 2017/745 conformity.",
+  "key_provisions_or_claims": [
+   "Publishes in the OJEU the references of harmonised standards listed in Annex I for Directive 90/385/EEC.",
+   "Repeals Communication 2017/C 389/02, which continues to apply until 30 September 2021 for Annex II standards.",
+   "Listed standards may not be used to presume conformity with Regulation (EU) 2017/745.",
+   "Enters into force on publication and applies until 26 May 2024.",
+   "Annexes include EN ISO 13485, EN ISO 14971, EN 45502 series, EN 62304."
+  ],
+  "confidence": 0.9
+ }
+}

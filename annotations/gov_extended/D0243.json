@@ -1,0 +1,94 @@
+{
+ "doc_id": "D0243",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:39:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0482618,
+  "in": 2,
+  "out": 1643,
+  "cache_read": 11758,
+  "cache_create": 7663,
+  "api_ms": 8399,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Consultation on the Draft National Artificial Intelligence Policy",
+  "title_en": "Consultation on the Draft National Artificial Intelligence Policy",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Communications and Information Technology (MCIT), Qatar",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "MCIT / Sharek platform",
+  "jurisdiction_country": "QA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "QA"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "consultation_open",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Bilingual (Arabic/English) consultation notice from Qatar's MCIT inviting comments on the Draft National AI Policy, an umbrella policy built on five pillars: digital infrastructure, data, human capabilities, institutional capacity and AI governance. The policy text is a separate file; this document gives only procedures and questions.",
+  "key_provisions_or_claims": [
+   "Draft National AI Policy is organised around five pillars including AI Governance",
+   "Stakeholders respond by email using a prescribed template",
+   "Four consultation questions on objectives, pillars, flexibility and further comments",
+   "Draft is not final or binding; MCIT need not adopt comments",
+   "Responses may be published and are non-confidential unless justified"
+  ],
+  "confidence": 0.8
+ }
+}

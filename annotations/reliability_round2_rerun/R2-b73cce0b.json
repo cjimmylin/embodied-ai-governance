@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-b73cce0b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:07:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0797358,
+  "in": 2,
+  "out": 2102,
+  "cache_read": 11758,
+  "cache_create": 14384,
+  "api_ms": 11626,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "11/2017. (IV. 12.) NFM rendelet a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet és a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet fejlesztési célú járművek tesztelésével összefüggő módosításáról",
+  "title_en": "NFM Decree 11/2017 (IV. 12.) amending KöHÉM Decrees 5/1990 and 6/1990 on the testing of development-purpose vehicles (autonomous vehicle road testing)",
+  "language": "hu",
+  "authors_or_issuer": "Nemzeti Fejlesztési Minisztérium (Minister of National Development), Hungary",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2017,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Magyar Közlöny / Nemzeti Jogtár",
+  "jurisdiction_country": "HU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "HU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "research_science"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "civil_liability",
+   "cybersecurity",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "privacy_data_protection",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "technical_standards_reference",
+   "liability_regime",
+   "insurance_requirement",
+   "human_oversight_requirement",
+   "data_governance_requirements",
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [
+   "ISO 26262"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Hungarian ministerial decree of April 2017 amending vehicle inspection and registration rules to permit road testing of development-purpose autonomous vehicles. It sets developer registration, ISO 26262 functional safety, test driver qualifications, data recording, mandatory liability insurance, cybersecurity and automation levels 0–5. The page notes it lapsed on 28 April 2017.",
+  "key_provisions_or_claims": [
+   "Vehicle developers must notify and be registered with the transport minister before road testing autonomous vehicles.",
+   "Registration requires ISO 26262 functional safety compliance or certification.",
+   "A qualified test driver must be present and able to take over control at any time, and remains responsible.",
+   "Test vehicles need data recorders, mandatory full liability insurance and cybersecurity safeguards.",
+   "Annex 18 defines automation levels 0–5 for development vehicles."
+  ],
+  "confidence": 0.9
+ }
+}

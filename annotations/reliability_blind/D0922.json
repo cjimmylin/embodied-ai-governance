@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0922",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:41:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0842763,
+  "in": 4,
+  "out": 3751,
+  "cache_read": 33053,
+  "cache_create": 11659,
+  "api_ms": 22040,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "education"
+  ],
+  "authors_or_issuer": "Maryland General Assembly",
+  "issuer_type": "legislature",
+  "methodology": "not_applicable",
+  "binding_nature": "legally_binding",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "education_training_programs",
+   "audits_impact_assessment",
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "education_training",
+   "ethics_principles",
+   "children_vulnerable_groups",
+   "privacy_data_protection"
+  ],
+  "instrument_status": "adopted_not_yet_in_force",
+  "is_governance_document": true,
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "key_provisions_or_claims": [
+   "State Department of Education must publish AI guidance for local school systems, educators, parents and students, reviewed annually",
+   "Each local school system must adopt an AI policy within 120 days of guidance release and designate an AI coordinator",
+   "Department develops a rubric for evaluating AI tools; Morgan State University supports evaluation and certification; procurement must follow State procurement law",
+   "AI literacy to be included in workforce preparation standards by June 1, 2027, with teacher professional development",
+   "Creates Maryland AI Education Collaborative reporting annually from December 2027; effective June 1, 2026"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Maryland Senate Bill 720 (Ch. 634, 2026), the Artificial Intelligence Ready Schools Act. It requires the State Department of Education to issue AI guidance and an AI-tool evaluation rubric, requires local school systems to adopt AI policies and name coordinators, mandates teacher AI professional development, and creates the Maryland AI Education Collaborative.",
+  "title_clean": "Education – Artificial Intelligence – Guidelines, Professional Development, and Workforce (Artificial Intelligence Ready Schools Act)",
+  "title_en": "Education – Artificial Intelligence – Guidelines, Professional Development, and Workforce (Artificial Intelligence Ready Schools Act)",
+  "venue": "Laws of Maryland 2026, Chapter 634"
+ }
+}

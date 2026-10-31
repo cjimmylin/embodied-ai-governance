@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-f226b943",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:55:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.12131979999999999,
+  "in": 2,
+  "out": 1950,
+  "cache_read": 11758,
+  "cache_create": 25160,
+  "api_ms": 10661,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Civil liability regime for artificial intelligence: European Parliament resolution of 20 October 2020 with recommendations to the Commission (2020/2014(INL))",
+  "title_en": "Civil liability regime for artificial intelligence: European Parliament resolution of 20 October 2020 with recommendations to the Commission (2020/2014(INL))",
+  "language": "en",
+  "authors_or_issuer": "European Parliament",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2020,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, C 404/107 (6.10.2021)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "risk_management_risk_tiers",
+   "consumer_protection",
+   "legal_personhood_robot_rights",
+   "industrial_policy_innovation",
+   "trust_acceptance",
+   "transparency_explainability"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "liability_regime",
+   "insurance_requirement",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "EU Product Liability Directive",
+   "GDPR",
+   "EU Civil Law Rules on Robotics 2017",
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "opposes",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "European Parliament legislative-initiative resolution asking the Commission to propose a Regulation on civil liability for AI-system operators. It proposes strict liability and mandatory insurance for listed high-risk AI systems, fault-based liability with presumed fault for others, compensation caps, and a revised Product Liability Directive. It rejects legal personality for AI.",
+  "key_provisions_or_claims": [
+   "Strict liability for operators of high-risk AI-systems listed in an Annex, updated by delegated acts at least every six months",
+   "Fault-based liability with presumption of fault for non-listed AI-systems",
+   "Mandatory liability insurance for high-risk AI operators; compensation caps of EUR 2m (death/injury) and EUR 1m (property/immaterial harm)",
+   "Frontend and backend operators jointly and severally liable; Product Liability Directive to be revised in parallel",
+   "AI-systems need no legal personality; liability falls on persons controlling the risk"
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-e2aacdfb",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:43:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0285018,
+  "in": 2,
+  "out": 1799,
+  "cache_read": 11758,
+  "cache_create": 2333,
+  "api_ms": 8624,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "湖南省公安厅 湖南省工业和信息化厅 湖南省市场监督管理局 湖南省邮政管理局关于印发《湖南省无人驾驶航空器全生命周期备案管理办法》的通知（试行）",
+  "title_en": "Notice of the Hunan Provincial Public Security Department, Department of Industry and Information Technology, Market Supervision Administration and Postal Administration on Issuing the Measures for Full-Life-Cycle Registration Management of Unmanned Aircraft in Hunan Province (Trial)",
+  "language": "zh",
+  "authors_or_issuer": "湖南省公安厅; 湖南省工业和信息化厅; 湖南省市场监督管理局; 湖南省邮政管理局",
+  "issuer_type": "subnational_government",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "湖南省人民政府门户网站",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Hunan provincial government portal page announcing a trial measure, issued jointly by four provincial departments, on full-life-cycle registration management of unmanned aircraft (drones). Only the notice metadata is shown; the measure text is in an attached docx.",
+  "key_provisions_or_claims": [
+   "Trial measures for full-life-cycle registration of unmanned aircraft in Hunan",
+   "Jointly issued by public security, industry/IT, market supervision and postal authorities",
+   "Document no. 湘公发〔2025〕13号, signed 2025-12-29",
+   "Full measure text is in an attachment not shown"
+  ],
+  "confidence": 0.6
+ }
+}

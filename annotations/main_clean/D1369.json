@@ -1,0 +1,108 @@
+{
+ "doc_id": "D1369",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:05:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0478758,
+  "in": 2,
+  "out": 1872,
+  "cache_read": 11758,
+  "cache_create": 6994,
+  "api_ms": 11541,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "France 2030 : 3 nouveaux dispositifs lancés pour faire de la France la pionnière de l'IA et de la robotique",
+  "title_en": "France 2030: 3 new schemes launched to make France the pioneer of AI and robotics",
+  "language": "fr",
+  "authors_or_issuer": "Ministère de l'Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "presse.economie.gouv.fr",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "FR"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "humanoid_general_purpose",
+   "military_autonomous_weapons",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "manufacturing",
+   "logistics_transport",
+   "defense_security",
+   "research_science",
+   "healthcare",
+   "retail_hospitality",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "sustainability_environment",
+   "trust_acceptance"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "French government press release (13 June 2025) announcing three France 2030 schemes on AI-robotics convergence: a €30M CNRS-led robotics research programme, a call for expressions of interest on \"robotics and intelligent machines\", and a forthcoming \"AI Pioneer\" funding scheme. Also mentions the military Pendragon project and funded projects.",
+  "key_provisions_or_claims": [
+   "€30M robotics acceleration research programme piloted by CNRS",
+   "AMI 'Robotique et machine intelligente' for collaborative R&D on AI-native robotics (efficient, robust, modular, user-friendly)",
+   "Forthcoming 'Pionnier de l'IA' funding scheme with intelligent robotics as priority target",
+   "Pendragon defence project on collective intelligence across robotic platforms",
+   "Funding for Spider solar-panel cleaning robot and LOGIE AI generative-AI robots project"
+  ],
+  "confidence": 0.9
+ }
+}

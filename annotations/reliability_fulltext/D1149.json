@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1149",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:15:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030857800000000005,
+  "in": 2,
+  "out": 1761,
+  "cache_read": 11758,
+  "cache_create": 3017,
+  "api_ms": 10548,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Data reuse and data governance in the new AI 2024 strategy",
+  "title_en": "Data reuse and data governance in the new AI 2024 strategy",
+  "language": "en",
+  "authors_or_issuer": "datos.gob.es (Spanish open data portal)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "datos.gob.es blog",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ES"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "cybersecurity",
+   "transparency_explainability",
+   "standards_interoperability",
+   "sustainability_environment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "data_governance_requirements",
+   "technical_standards_reference",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "EU Energy Efficiency Directive"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Blog post on datos.gob.es summarising Spain's 2024 AI Strategy, organised in three axes and eight levers covering computing infrastructure, language models and data spaces, AI adoption in public and private sectors, cybersecurity, and AESIA's oversight role. No embodied AI content.",
+  "key_provisions_or_claims": [
+   "Strategy has three axes: strengthening AI levers, expanding AI in public/private sectors, and transparent, accountable, humanistic AI",
+   "Builds a large Spanish and co-official language corpus and foundational models",
+   "Common data and corpus governance model for security, quality, interoperability and re-use",
+   "Boosts AESIA's monitoring and sanctioning capacity",
+   "Implemented over two years under the Secretary of State for Digitalisation and AI"
+  ],
+  "confidence": 0.8
+ }
+}

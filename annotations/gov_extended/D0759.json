@@ -1,0 +1,113 @@
+{
+ "doc_id": "D0759",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:45:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1591278,
+  "in": 2,
+  "out": 1832,
+  "cache_read": 11758,
+  "cache_create": 34907,
+  "api_ms": 14262,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Public Consultation on Artificial Intelligence and Singapore's Intellectual Property Regime",
+  "title_en": "Public Consultation on Artificial Intelligence and Singapore's Intellectual Property Regime",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Law (MinLaw) and Intellectual Property Office of Singapore (IPOS)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "MinLaw / IPOS",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG",
+   "US",
+   "GB",
+   "CN",
+   "KR",
+   "JP",
+   "EU",
+   "AU",
+   "DE"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "consultation_open",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "intellectual_property",
+   "civil_liability",
+   "transparency_explainability",
+   "industrial_policy_innovation",
+   "standards_interoperability"
+  ],
+  "primary_topic": "intellectual_property",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "self_regulation_codes",
+   "transparency_disclosure_labelling",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "ISO/IEC 23894",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Singapore MinLaw and IPOS consultation (26 Aug–22 Oct 2026) on how AI affects copyright and patent law. It seeks views on the computational data analysis exception for AI training, liability for infringing AI output, human authorship, AI-assisted inventorship and AI-generated prior art. It concerns software AI only, not robots.",
+  "key_provisions_or_claims": [
+   "Asks whether the CDA exception for AI training needs clarification, including for generative AI and commercial use.",
+   "Seeks views on lawful access, contract terms and non-binding technical measures such as robots.txt.",
+   "Asks how liability for infringing AI output should be allocated among developers, deployers and end users, including for agentic AI.",
+   "Asks what human contribution is needed for copyright authorship and patent inventorship in AI-assisted works.",
+   "Asks whether AI-generated technical disclosures should count as prior art."
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "D1516",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:47:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04570780000000001,
+  "in": 2,
+  "out": 1842,
+  "cache_read": 11758,
+  "cache_create": 6527,
+  "api_ms": 9256,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Harnessing robot experimentation to optimize the regulatory framing of emerging robot technologies",
+  "title_en": "Harnessing robot experimentation to optimize the regulatory framing of emerging robot technologies",
+  "language": "en",
+  "authors_or_issuer": "Calleja, C.; Drukarch, H.; Fosch-Villaronga, E.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": "10.1017/dap.2022.12",
+  "venue": "Data & Policy",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "rehabilitation_exoskeleton_prosthetic",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "rehabilitation_exoskeleton_prosthetic",
+  "application_sectors": [
+   "healthcare",
+   "research_science"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "industrial_policy_innovation",
+   "certification_conformity_assessment",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 13482"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Article presents PROPELLING, a Horizon 2020 EUROBENCH project using robot testbeds to generate evidence for regulators. Using ISO 13482:2014 and lower-limb exoskeletons as a case study, it examines fear of falling, collision instability and protective stops, arguing experimentation can support evidence-based, better-informed robot standards and regulation.",
+  "key_provisions_or_claims": [
+   "Information asymmetries between developers and regulators cause regulatory disconnection for emerging robots.",
+   "Robot testbeds can generate policy-relevant data to improve technical standards.",
+   "ISO 13482:2014 leaves gaps on fear of falling, collision instability and protective stops for exoskeletons.",
+   "PROPELLING proposes experiments to specify when protective stops should activate automatically.",
+   "Evidence-based approaches face challenges but can make robot policy more attuned to societal needs."
+  ],
+  "confidence": 0.9
+ }
+}

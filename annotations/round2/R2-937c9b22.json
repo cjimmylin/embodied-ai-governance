@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-937c9b22",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:33:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0498118,
+  "in": 2,
+  "out": 1856,
+  "cache_read": 11758,
+  "cache_create": 7518,
+  "api_ms": 9469,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国家能源局等部门关于推进能源装备高质量发展的指导意见",
+  "title_en": "Guiding Opinions of the National Energy Administration and Other Departments on Promoting High-Quality Development of Energy Equipment",
+  "language": "zh",
+  "authors_or_issuer": "国家能源局; 工业和信息化部; 国务院国资委; 市场监管总局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "National Energy Administration (China)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "collaborative_robots",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "energy_environment",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "cybersecurity"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "international_cooperation",
+   "insurance_requirement",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Chinese guiding opinions (2025) from the National Energy Administration and other departments on advancing high-quality energy equipment development to 2030, covering exploration, conversion, storage, transmission, digitalisation, green development and innovation support. Robotics and embodied AI appear only briefly, with humanoid and collaborative robots mentioned for autonomous operations.",
+  "key_provisions_or_claims": [
+   "Target: self-controllable energy equipment supply chains and globally leading technology by 2030",
+   "Promotes AI-based grid control, industrial control systems and domain-specific large models",
+   "Encourages collaborative and humanoid robots with embodied intelligence for autonomous operation in complex environments",
+   "Supports first-of-kind equipment via insurance compensation, procurement, tax and finance incentives",
+   "Builds standards, quality and certification systems and international standards cooperation"
+  ],
+  "confidence": 0.88
+ }
+}

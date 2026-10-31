@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-9c3aed45",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.025413800000000004,
+  "in": 2,
+  "out": 1665,
+  "cache_read": 11758,
+  "cache_create": 1896,
+  "api_ms": 8183,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Government response to the House of Lords AI in Weapon Systems Committee Report",
+  "title_en": "Government response to the House of Lords AI in Weapon Systems Committee Report",
+  "language": "en",
+  "authors_or_issuer": "UK Government (Ministry of Defence)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "ethics_principles",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "GOV.UK landing page for the UK government's February 2024 response to the House of Lords committee report 'Proceed with Caution: AI in Weapon Systems'. It addresses the report's 36 conclusions and recommendations and outlines work on safe, responsible military AI. Only the page summary is shown; the 26-page response itself is not included.",
+  "key_provisions_or_claims": [
+   "Responds to the 36 conclusions and recommendations of the Lords committee report.",
+   "Groups responses thematically into four sections.",
+   "Outlines work underway for safe and responsible use of AI in the military domain.",
+   "Frames approach as 'Ambitious, safe, responsible' delivery of AI-enabled defence capability."
+  ],
+  "confidence": 0.7
+ }
+}

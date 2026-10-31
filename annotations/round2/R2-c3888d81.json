@@ -1,0 +1,115 @@
+{
+ "doc_id": "R2-c3888d81",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.17390180000000002,
+  "in": 2,
+  "out": 2101,
+  "cache_read": 11758,
+  "cache_create": 37928,
+  "api_ms": 15643,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Decreto Supremo Nº 012-2026-MTC que aprueba el Reglamento de la Ley Nº 30740, Ley que regula el uso y las operaciones de los sistemas de aeronaves pilotadas a distancia (RPAS)",
+  "title_en": "Supreme Decree No. 012-2026-MTC approving the Regulation of Law No. 30740 regulating the use and operations of remotely piloted aircraft systems (RPAS)",
+  "language": "es",
+  "authors_or_issuer": "Presidencia de la República / Ministerio de Transportes y Comunicaciones (Perú)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "El Peruano (Diario Oficial)",
+  "jurisdiction_country": "PE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "PE"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "civil_liability",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "education_training"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "insurance_requirement",
+   "liability_regime",
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "education_training_programs",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "Ley Nº 30740 (RPAS)",
+   "Ley Nº 27261 Ley de Aeronáutica Civil del Perú",
+   "NTC Nº 001-2015 RPAS",
+   "Reglamento de Infracciones y Sanciones Aeronáuticas"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Peruvian Supreme Decree approving the regulation of Law 30740 on remotely piloted aircraft systems (drones). It sets a risk-based Open/Specific/Certified category regime, registration, operator and remote pilot licences, mandatory third-party liability insurance, training centres, and sanctions. Key provisions take effect once DGAC updates technical norms within two years.",
+  "key_provisions_or_claims": [
+   "Three operational categories (Open, Specific, Certified) with escalating licensing and certification requirements",
+   "Mandatory registration of RPA/RPAS with DGAC within 30 working days of acquisition",
+   "Operator civil liability for damages and mandatory third-party liability insurance with formula-based minimum coverage",
+   "Remote pilot licences (min. age 18) and authorised training centres (CIAC)",
+   "Open/Specific/Certified provisions enter into force only after DGAC updates NTC 001-2015 and RAPs within two years"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0115",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:09:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.049645800000000004,
+  "in": 2,
+  "out": 1753,
+  "cache_read": 11758,
+  "cache_create": 7734,
+  "api_ms": 14399,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "El Consejo Económico y Social impulsa la creación de un centro para la promoción de Inteligencia Artificial en la Argentina",
+  "title_en": "The Economic and Social Council promotes the creation of a centre for the promotion of Artificial Intelligence in Argentina",
+  "language": "es",
+  "authors_or_issuer": "Presidencia de la Nación, Jefatura de Gabinete de Ministros, Secretaría de Asuntos Estratégicos",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "argentina.gob.ar",
+  "jurisdiction_country": "AR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AR",
+   "FR",
+   "CA",
+   "BR",
+   "CO",
+   "MX"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "funding_or_incentives",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "Global Partnership on AI"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Argentine government news item on a 5 April 2022 forum held by the Economic and Social Council announcing Argentina's adhesion to the Global Partnership on AI and a proposed Multidisciplinary AI Centre (CamIA) centred at UBA to foster talent and public-private collaboration. No robotics content.",
+  "key_provisions_or_claims": [
+   "Argentina announced adhesion to the Global Partnership on AI (France/Canada-led).",
+   "Proposal to create the Multidisciplinary AI Centre (CamIA), hub at University of Buenos Aires.",
+   "Forum with seven panels and 30 experts on AI, productive sector and regulation.",
+   "Emphasis on ethical, responsible AI for the common good and productivity."
+  ],
+  "confidence": 0.9
+ }
+}

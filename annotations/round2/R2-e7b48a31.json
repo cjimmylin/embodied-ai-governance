@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-e7b48a31",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:36:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0179114,
+  "in": 2,
+  "out": 1657,
+  "cache_read": 13374,
+  "cache_create": 0,
+  "api_ms": 8480,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "CASA 44/20 – Remotely Piloted Aircraft – RPA Application Day Determination 2020",
+  "title_en": "CASA 44/20 – Remotely Piloted Aircraft – RPA Application Day Determination 2020",
+  "language": "en",
+  "authors_or_issuer": "Civil Aviation Safety Authority (CASA), Australia",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2020,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Register of Legislation (Australia)",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [
+   "Civil Aviation Safety Regulations 1998"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Metadata page for an Australian CASA legislative instrument (CASA 44/20) made under the Civil Aviation Safety Regulations 1998, determining the application day for remotely piloted aircraft (RPA) provisions. Only title and register metadata are shown; the substantive text is not included.",
+  "key_provisions_or_claims": [
+   "Determines an RPA application day under the Civil Aviation Safety Regulations 1998",
+   "Registered as legislative instrument F2020L01030, dated 18 August 2020",
+   "Text of the determination itself is not shown"
+  ],
+  "confidence": 0.7
+ }
+}

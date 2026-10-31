@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-be225994",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.17766179999999998,
+  "in": 2,
+  "out": 1921,
+  "cache_read": 11758,
+  "cache_create": 39318,
+  "api_ms": 10605,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulations Amending the Canadian Aviation Regulations (Remotely Piloted Aircraft Systems): SOR/2019-11",
+  "title_en": "Regulations Amending the Canadian Aviation Regulations (Remotely Piloted Aircraft Systems): SOR/2019-11",
+  "language": "en",
+  "authors_or_issuer": "Governor General in Council, on recommendation of the Minister of Transport (Transport Canada)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2018,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Canada Gazette, Part II, Vol. 153, No. 1",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA",
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "education_training"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "prohibitions_bans",
+   "education_training_programs",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Canadian regulations adding Part IX to the Canadian Aviation Regulations for drones of 250 g to 25 kg. They set drone registration, pilot certification (basic and advanced), operating rules, manufacturer safety declarations, and special flight operations certificates. The accompanying impact analysis shows a net monetized cost of $28.4M and aims to improve safety and predictability for operators.",
+  "key_provisions_or_claims": [
+   "All drones 250 g–25 kg must be registered and display a registration number",
+   "Pilots need basic or advanced certificates (min. age 14/16) with 24-month recency",
+   "Operations in controlled airspace, near people, or near airports require advanced certification and a manufacturer self-declaration to Standard 922",
+   "Operations beyond line of sight, over 400 ft, at events, or with hazardous payloads need a Special Flight Operations Certificate",
+   "Autonomous systems where pilot cannot take immediate control are prohibited"
+  ],
+  "confidence": 0.93
+ }
+}

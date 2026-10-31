@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0635",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:23:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0676938,
+  "in": 2,
+  "out": 1733,
+  "cache_read": 11758,
+  "cache_create": 12296,
+  "api_ms": 10172,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "retail_hospitality"
+  ],
+  "authors_or_issuer": "Maleina, M.N.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "RU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.18572/0134-2398-2026-2-21-32",
+  "embodied_categories": [
+   "delivery_robots",
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "licensing_registration"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "safety_physical_harm",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Delivery robots (rovers) are assessed legally as a means of transport subject to traffic rules.",
+   "Examines conduct and liability in the event of road traffic accidents involving robot couriers.",
+   "Analyses legal features of using robot couriers as a delivery means.",
+   "Reviews the draft Russian Government resolution on an experimental legal regime for commercial rover operation.",
+   "Cites the Transport Strategy of Russia to 2030 targeting a shift of e-commerce delivery to drones and robots."
+  ],
+  "language": "en",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "delivery_robots",
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 2,
+  "pub_year": 2026,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Russian legal article assessing delivery robots (rovers) as a means of transport, covering traffic rules and conduct after road accidents, the legal features of their use for delivery, and a draft Government resolution creating an experimental legal regime for commercial rover operation.",
+  "title_clean": "Правовое регулирование эксплуатации робота-курьера",
+  "title_en": "Legal Regulation of the Operation of Delivery Robots",
+  "venue": "Хозяйство и право"
+ }
+}

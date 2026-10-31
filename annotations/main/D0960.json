@@ -1,0 +1,109 @@
+{
+ "doc_id": "D0960",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:32:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0435338,
+  "in": 2,
+  "out": 1813,
+  "cache_read": 11758,
+  "cache_create": 6056,
+  "api_ms": 10587,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Canadian Centre for Occupational Health and Safety (CCOHS)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "CA",
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "human_oversight_requirement",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "human_robot_interaction_social_effects",
+   "labor_employment",
+   "trust_acceptance"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Canada's CAN/CSA-Z434-03 applies to industrial robot safety; Alberta OHS Code requires compliance.",
+   "ISO 10218, ANSI/RIA R15.06, ISO/TS 15066 are key international standards.",
+   "Cobots must use one of four safety measures: speed and separation monitoring, hand guiding, power and force limiting, safety-rated monitored stop.",
+   "Task-based hazard and risk assessment recommended for each robot, with worker involvement.",
+   "Mitigate psychosocial hazards by involving workers and building trust; cobots are not inherently safe."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "ISO 10218",
+   "ISO/TS 15066",
+   "ANSI/A3 R15.06"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "collaborative_robots",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "CCOHS OHS Answers fact sheet explaining industrial robots and collaborative robots, applicable safety standards (CSA Z434, ISO 10218, ISO/TS 15066), hazards, task-based risk assessment, and control measures including psychosocial considerations for workers.",
+  "title_clean": "Robots and Cobots",
+  "title_en": "Robots and Cobots",
+  "venue": "CCOHS OSH Answers",
+  "methodology": "not_applicable"
+ }
+}

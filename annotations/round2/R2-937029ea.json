@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-937029ea",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.049984600000000004,
+  "in": 4,
+  "out": 3458,
+  "cache_read": 25541,
+  "cache_create": 3922,
+  "api_ms": 21400,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Unmanned Aircraft Systems (JDP 0-30.2)",
+  "title_en": "Unmanned Aircraft Systems (JDP 0-30.2)",
+  "language": "en",
+  "authors_or_issuer": "UK Ministry of Defence, Development, Concepts and Doctrine Centre",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2017,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "standards_interoperability"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "GOV.UK page for the UK Ministry of Defence Joint Doctrine Publication 0-30.2 on unmanned aircraft systems at the operational level, with UK/NATO terminology and classification by size and capability. Change 1 affirms operation in compliance with national and international law. Withdrawn 16 November 2022 and superseded by UK Air Power (JDP 0-30).",
+  "key_provisions_or_claims": [
+   "Describes operational-level use of unmanned aircraft systems",
+   "Provides UK and NATO terminology and classification by size and capability",
+   "Change 1 states UAS are operated in compliance with national and international law",
+   "Applies to joint and single-Service personnel and civilians involved in procuring and operating UAS",
+   "Withdrawn 16 November 2022; superseded by JDP 0-30"
+  ],
+  "confidence": 0.8
+ }
+}

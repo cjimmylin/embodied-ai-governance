@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-5f61e321",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028447800000000002,
+  "in": 2,
+  "out": 1768,
+  "cache_read": 11758,
+  "cache_create": 2397,
+  "api_ms": 8903,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/PAS 23735:2025 Road vehicles — Ergonomic design guidance for external visual communication from automated vehicles to other road users",
+  "title_en": "ISO/PAS 23735:2025 Road vehicles — Ergonomic design guidance for external visual communication from automated vehicles to other road users",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 22/SC 39",
+  "issuer_type": "standards_body",
+  "pub_year": 2025,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "human_robot_interaction_social_effects",
+   "safety_physical_harm",
+   "children_vulnerable_groups"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO/PAS 23735:2025, giving ergonomic design guidance for external visual communication from L4/L5 automated driving system-dedicated vehicles to other road users, covering cars, trucks and buses in varied domains and for diverse users. Published March 2025 by ISO/TC 22/SC 39.",
+  "key_provisions_or_claims": [
+   "Scope covers external visual communication of single-mode L4/L5 ADS-dedicated vehicles per SAE J3016",
+   "Applies to passenger cars, commercial vehicles, buses and derivatives, with or without occupant compartments",
+   "Covers open roads, motorways, urban, geo-fenced areas, ports and terminals",
+   "Considers diverse road users including elderly, disabled people and children",
+   "Published March 2025 as a Publicly Available Specification"
+  ],
+  "confidence": 0.85
+ }
+}

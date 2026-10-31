@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1454",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:46:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.042431800000000006,
+  "in": 2,
+  "out": 1738,
+  "cache_read": 11758,
+  "cache_create": 5968,
+  "api_ms": 8808,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Embedding ethics up front in AI and robotics: evidence from future engineers",
+  "title_en": "Embedding ethics up front in AI and robotics: evidence from future engineers",
+  "language": "en",
+  "authors_or_issuer": "Oostveen, A-M.; Eimontaite, I.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s43681-026-00991-x",
+  "venue": "AI and Ethics",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education",
+   "research_science"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "education_training",
+   "research_ethics",
+   "human_dignity_autonomy",
+   "labor_employment"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "education_training_programs",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Survey of 98 MSc Robotics and Applied AI students at Cranfield University on their ethical responsibilities. Students recognise risks like autonomous weapons, surveillance and labour displacement but rarely engage with professional codes or formal training. The paper proposes an \"ethics up front\" model embedding ethics early via education, participatory design and regulatory alignment.",
+  "key_provisions_or_claims": [
+   "Students show strong risk awareness (warfare autonomy, surveillance, labour displacement, emotional manipulation).",
+   "Limited familiarity with professional codes of ethics or structured training; reflection is informal.",
+   "Identifies a gap between ethical awareness and institutionalised engagement.",
+   "Proposes 'ethics up front' model embedding reflection early in development lifecycle.",
+   "Recommends participatory design, professional education and regulatory alignment."
+  ],
+  "confidence": 0.8
+ }
+}

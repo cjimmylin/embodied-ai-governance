@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1004",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:33:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0701198,
+  "in": 2,
+  "out": 1642,
+  "cache_read": 11758,
+  "cache_create": 13130,
+  "api_ms": 9593,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Rules for working with safe AI",
+  "title_en": "Rules for working with safe AI",
+  "language": "en",
+  "authors_or_issuer": "Netherlands Enterprise Agency (RVO), Business.gov.nl",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "Business.gov.nl",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "NL",
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "transparency_disclosure_labelling",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Dutch government business portal page (RVO) explaining the EU AI Act to providers and deployers: prohibited and high-risk AI systems, transparency obligations, supervision, tools, and phased introduction. General AI guidance with no robot-specific content.",
+  "key_provisions_or_claims": [
+   "AI Act obliges providers and deployers in the EU to protect rights when developing and using AI",
+   "Sets requirements for high-risk AI systems and prohibits certain AI practices",
+   "Transparency obligations for both providers and deployers",
+   "Supervision of AI systems by authorities",
+   "AI Act is introduced in phases"
+  ],
+  "confidence": 0.8
+ }
+}

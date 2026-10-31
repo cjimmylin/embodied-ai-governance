@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1497",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:47:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.043055800000000005,
+  "in": 2,
+  "out": 1828,
+  "cache_read": 11758,
+  "cache_create": 5899,
+  "api_ms": 9989,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Experimental and Integrative Approaches to Robo-ethics. An Introduction",
+  "title_en": "Experimental and Integrative Approaches to Robo-ethics. An Introduction",
+  "language": "en",
+  "authors_or_issuer": "Bianchini, F.; Damiano, L.; Datteri, E.; Graziani, P.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2023,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s12369-023-01084-z",
+  "venue": "International Journal of Social Robotics",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "editorial_or_commentary",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "collaborative_robots",
+   "care_assistive_robots",
+   "educational_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "education",
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "safety_physical_harm",
+   "research_ethics",
+   "trust_acceptance",
+   "transparency_explainability"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Editorial introduction to a special issue of the International Journal of Social Robotics on experimental and integrative robo-ethics. It summarises articles on the Collingridge dilemma, perceived safety, cobot democratization, roboticists' views on the EU civil law rules on robotics, artificial emotions, assistive robots in education, and persuasive robots.",
+  "key_provisions_or_claims": [
+   "Robo-ethics needs experimental and integrative methods alongside philosophical analysis.",
+   "Interdisciplinary collaboration is essential for ethical regulation of robotics.",
+   "Perceived safety adds psychological and social dimensions to physical safety in HRI.",
+   "Inclusive, responsibility-oriented design addresses the Collingridge dilemma in social robotics.",
+   "Roboticists were surveyed on the EU Draft Report on Civil Law Rules on Robotics."
+  ],
+  "confidence": 0.85
+ }
+}

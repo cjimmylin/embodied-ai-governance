@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-6866595a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:49:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.15299580000000002,
+  "in": 2,
+  "out": 1810,
+  "cache_read": 11758,
+  "cache_create": 33429,
+  "api_ms": 11557,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Delegated Regulation (EU) 2017/79 establishing detailed technical requirements and test procedures for the EC type-approval of motor vehicles with respect to their 112-based eCall in-vehicle systems",
+  "title_en": "Commission Delegated Regulation (EU) 2017/79 establishing detailed technical requirements and test procedures for the EC type-approval of motor vehicles with respect to their 112-based eCall in-vehicle systems",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2016,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 12/44",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "standards_interoperability",
+   "cybersecurity"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "data_governance_requirements",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU delegated regulation setting technical requirements and test procedures for EC type-approval of vehicles, separate technical units and components with 112-based eCall emergency call systems, covering crash resistance, audio, triggering, Galileo/EGNOS positioning, self-test and privacy. Not about AI or robotics.",
+  "key_provisions_or_claims": [
+   "Type-approval requires passing crash, audio, triggering, GNSS, self-test and privacy tests in Annexes I-VIII",
+   "Exempts certain armoured vehicle classes (Annex IX)",
+   "eCall systems must not be traceable; log files deleted within 13 hours and at most three locations retained",
+   "Amends Regulation 2015/758 to update referenced EN standards",
+   "Applies from 31 March 2018"
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "doc_id": "D0721",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:26:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0443958,
+  "in": 2,
+  "out": 1826,
+  "cache_read": 11758,
+  "cache_create": 6239,
+  "api_ms": 9973,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Invitation to Pilot: AI Governance Testing Framework & Toolkit",
+  "title_en": "Invitation to Pilot: AI Governance Testing Framework & Toolkit",
+  "language": "en",
+  "authors_or_issuer": "Infocomm Media Development Authority (IMDA) and Personal Data Protection Commission (PDPC), Singapore",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2022,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "file.go.gov.sg (IMDA/PDPC)",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "trust_acceptance",
+   "standards_interoperability",
+   "fairness_bias_discrimination",
+   "human_oversight_control",
+   "cybersecurity",
+   "privacy_data_protection",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "testing_sandboxes",
+   "international_cooperation",
+   "self_regulation_codes",
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Singapore IMDA/PDPC invitation for companies to pilot the AI Governance Testing Framework and Toolkit (MVP), a voluntary self-testing approach combining technical tests and process checks against eight AI ethics principles, aimed at building trust, interoperability and input to international standards.",
+  "key_provisions_or_claims": [
+   "MVP voluntary self-testing via technical tests and process checks",
+   "Eight AI ethics principles selected from 11 across 5 pillars",
+   "Aligned with EU and OECD principles; mapping to other frameworks",
+   "Goal of AI testing community and future third-party certification",
+   "Contributes to ISO/IEC JTC1/SC 42 standards"
+  ],
+  "confidence": 0.9
+ }
+}

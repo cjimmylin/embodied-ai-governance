@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-59a29a12",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:39:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2907498,
+  "in": 2,
+  "out": 1787,
+  "cache_read": 11758,
+  "cache_create": 67925,
+  "api_ms": 10364,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国家戦略特別区域法施行規則",
+  "title_en": "Ordinance for Enforcement of the National Strategic Special Zones Act",
+  "language": "ja",
+  "authors_or_issuer": "内閣府 (Cabinet Office, Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2014,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov法令検索",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "taxation_economic_policy",
+   "other"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "funding_or_incentives",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japanese Cabinet Office ordinance implementing the National Strategic Special Zones Act. It sets procedures for business implementation plans, zone plan approval, designated corporations and tax/financing incentives. Robots for surgical assistance, daily-living training, medical and care use, and autonomous IoT products appear only as eligible R&D/manufacturing business categories.",
+  "key_provisions_or_claims": [
+   "Defines eligible specified businesses, including R&D and manufacture of robots for surgical assistance, daily-living training, medical and care use.",
+   "Sets submission procedures for business implementation plans and zone plan approval.",
+   "Establishes designation of corporations for tax special measures (Art. 11-2 to 11-5), including R&D of autonomously operating products.",
+   "Sets requirements for designated companies receiving investment tax incentives, with annual reporting.",
+   "Amended effective 2026-04-01 by Cabinet Office Ordinance No. 31 of Reiwa 8."
+  ],
+  "confidence": 0.85
+ }
+}

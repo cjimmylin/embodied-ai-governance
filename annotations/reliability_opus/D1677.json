@@ -1,0 +1,103 @@
+{
+ "doc_id": "D1677",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0971196,
+  "in": 2,
+  "out": 1830,
+  "cache_read": 11758,
+  "cache_create": 7270,
+  "api_ms": 13021,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Carta de los Derechos Fundamentales de la Unión Europea (2010/C 83/02)",
+  "title_en": "Charter of Fundamental Rights of the European Union (2010/C 83/02)",
+  "language": "es",
+  "authors_or_issuer": "European Parliament; Council of the European Union; European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2010,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Diario Oficial de la Unión Europea C 83",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "international_treaty_or_convention",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "human_dignity_autonomy",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "labor_employment",
+   "children_vulnerable_groups"
+  ],
+  "primary_topic": "human_dignity_autonomy",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 2,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "European Convention on Human Rights",
+   "Treaty of Lisbon",
+   "Treaty on European Union",
+   "Treaty on the Functioning of the European Union",
+   "Geneva Refugee Convention 1951"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Spanish Official Journal version (2010) of the EU Charter of Fundamental Rights. It sets out rights on dignity, freedoms, equality, solidarity, citizens' rights and justice, including privacy, data protection and non-discrimination. It does not mention AI or robotics, though it underpins rights-based AI regulation such as the AI Act.",
+  "key_provisions_or_claims": [
+   "Human dignity is inviolable and must be respected and protected (Art. 1)",
+   "Right to respect for private life and protection of personal data, overseen by an independent authority (Arts. 7-8)",
+   "Prohibition of discrimination on grounds including sex, race, disability, age and sexual orientation (Art. 21)",
+   "Right to physical and mental integrity, including free and informed consent in medicine and biology (Art. 3)",
+   "Workers' rights, social security and health protection (Arts. 27-35)"
+  ],
+  "confidence": 0.9
+ }
+}

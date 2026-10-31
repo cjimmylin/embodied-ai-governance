@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-65e22b57",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:05:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2845396,
+  "in": 2,
+  "out": 2387,
+  "cache_read": 11758,
+  "cache_create": 29305,
+  "api_ms": 17240,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2021/694, (EU) 2021/695, (EU) 2021/697, (EU) 2021/1153, (EU) 2023/1525 and 2024/795, as regards incentivising defence-related investments in the EU budget to implement the ReArm Europe Plan",
+  "title_en": "Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2021/694, (EU) 2021/695, (EU) 2021/697, (EU) 2021/1153, (EU) 2023/1525 and 2024/795, as regards incentivising defence-related investments in the EU budget to implement the ReArm Europe Plan",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2025) 188 final; 2025/0103 (COD)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "drones_uas",
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "defense_security",
+   "research_science",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "military_use_ihl",
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "STEP Regulation (EU) 2024/795",
+   "Horizon Europe Regulation (EU) 2021/695",
+   "European Defence Fund Regulation (EU) 2021/697",
+   "Digital Europe Programme Regulation (EU) 2021/694",
+   "Connecting Europe Facility Regulation (EU) 2021/1153",
+   "ASAP Regulation (EU) 2023/1525",
+   "Directive 2009/43/EC",
+   "Joint White Paper European Defence Readiness 2030",
+   "ReArm Europe Plan"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission legislative proposal (COM(2025) 188) amending STEP, Horizon Europe, EDF, Digital Europe, CEF and ASAP regulations to channel EU budget funds into defence and dual-use technologies under the ReArm Europe Plan, adding defence (including drones, anti-drone systems and AI) as a fourth STEP strategic sector and funding AI Gigafactories.",
+  "key_provisions_or_claims": [
+   "Adds 'defence technologies' (incl. drones, anti-drone systems, AI, electronic warfare) as fourth STEP strategic sector",
+   "Opens EIC Accelerator to dual-use and defence-focused innovation as exception to Horizon Europe civil-only rule",
+   "Digital Europe Programme to support dual-use projects and deploy AI Factories and Gigafactories, with eligibility restrictions for third-country-controlled entities",
+   "EDF allows cumulative funding, cohesion fund transfers and simplified support for disruptive defence technologies",
+   "Extends ASAP to 31 Dec 2026 and allows CEF military mobility co-financing up to 100%"
+  ],
+  "confidence": 0.8
+ }
+}

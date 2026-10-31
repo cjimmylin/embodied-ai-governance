@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-d8280ce1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:45:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0275218,
+  "in": 2,
+  "out": 1699,
+  "cache_read": 11758,
+  "cache_create": 2338,
+  "api_ms": 8232,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "全国标准信息公共服务平台 标准检索结果：GB 46750-2025 民用无人驾驶航空器系统运行识别规范",
+  "title_en": "National Standards Information Public Service Platform – search result: GB 46750-2025 Specification for Operation Identification of Civil Unmanned Aircraft Systems",
+  "language": "zh",
+  "authors_or_issuer": "国家市场监督管理总局 国家标准化管理委员会 (SAMR / SAC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "technical_standard_mandated",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Search-result page on China's national standards platform listing one mandatory national standard, GB 46750-2025, on operation identification of civil unmanned aircraft systems. Published 2025-10-31, effective 2026-05-01. Only metadata is shown, not the standard text.",
+  "key_provisions_or_claims": [
+   "GB 46750-2025 is a mandatory national standard on operation identification of civil UAS",
+   "Published 2025-10-31; takes effect 2026-05-01",
+   "Page shows catalogue metadata only, not the standard text"
+  ],
+  "confidence": 0.7
+ }
+}

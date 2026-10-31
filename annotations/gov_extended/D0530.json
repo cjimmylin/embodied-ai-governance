@@ -1,0 +1,112 @@
+{
+ "doc_id": "D0530",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:43:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.13185380000000002,
+  "in": 2,
+  "out": 1863,
+  "cache_read": 11758,
+  "cache_create": 28011,
+  "api_ms": 11982,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Strategy 2022",
+  "title_en": "AI Strategy 2022",
+  "language": "en",
+  "authors_or_issuer": "Government of Japan (Integrated Innovation Strategy Promotion Council)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Cabinet Office, Japan",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "education",
+   "healthcare",
+   "agriculture_food",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "ethics_principles",
+   "cybersecurity",
+   "transparency_explainability",
+   "trust_acceptance",
+   "sustainability_environment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 2,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "technical_standards_reference",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles",
+   "UNESCO Recommendation on the Ethics of AI"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japan's AI Strategy 2022 sets national AI policy around Society 5.0, adding a Strategic Objective 0 on crisis resilience (disasters, pandemics, planetary issues). It covers implementation in society, education reform, R&D, data infrastructure, digital government, SME support and ethics. Robots appear only incidentally; governance is promotional rather than regulatory.",
+  "key_provisions_or_claims": [
+   "Adds Strategic Objective 0: AI for National and Planetary Resilience, with digital twins integrated with robotics and sensors.",
+   "Promotes Responsible AI, explainable AI and cybersecurity integration to improve AI reliability.",
+   "Education targets: AI/data literacy for all high school graduates and about 250,000 applied-skill graduates per year by 2025.",
+   "Builds an AI R&D network around core centers (RIKEN AIP, NICT, AIST AIRC).",
+   "Ethics: disseminate Human-centered AI Social Principles and pursue international standardization and cooperation, including the GPAI."
+  ],
+  "confidence": 0.9
+ }
+}

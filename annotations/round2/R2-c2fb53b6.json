@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-c2fb53b6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:57:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0764557,
+  "in": 4,
+  "out": 3708,
+  "cache_read": 31312,
+  "cache_create": 9817,
+  "api_ms": 18800,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Humanitarian benefits of emerging technologies in the area of lethal autonomous weapon systems",
+  "title_en": "Humanitarian benefits of emerging technologies in the area of lethal autonomous weapon systems",
+  "language": "en",
+  "authors_or_issuer": "United States of America (submitted to CCW Group of Governmental Experts)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2018,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN CCW Group of Governmental Experts (CCW/GGE.1/2018/WP.4)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "safety_physical_harm",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE",
+   "DoD Directive 3000.09",
+   "CCW Amended Protocol II",
+   "Convention on Cluster Munitions",
+   "Hague VIII Convention"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "US working paper to the CCW Group of Governmental Experts arguing that emerging technologies in lethal autonomous weapon systems can reduce civilian casualties, citing existing state practice such as self-destruct mechanisms, better situational awareness, precision targeting and automated engagement. It opposes stigmatizing or banning such technologies.",
+  "key_provisions_or_claims": [
+   "Autonomy-related technologies can reduce civilian harm in armed conflict.",
+   "Five examples: self-destruct/deactivation, civilian awareness, effects assessment, automated targeting, reduced need for self-defense fires.",
+   "Cites DoD Directive 3000.09 on engagement termination or human input.",
+   "Precision-guided and sensor-based weapons reduce collateral damage.",
+   "States should encourage innovation rather than stigmatize or ban LAWS technologies."
+  ],
+  "confidence": 0.9
+ }
+}

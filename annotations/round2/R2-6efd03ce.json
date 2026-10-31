@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-6efd03ce",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:37:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2352905,
+  "in": 4,
+  "out": 3705,
+  "cache_read": 70140,
+  "cache_create": 48513,
+  "api_ms": 21051,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "defense_security",
+   "finance",
+   "energy_environment"
+  ],
+  "authors_or_issuer": "Cabinet of Japan (内閣)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "JP",
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "industrial_manipulators",
+   "drones_uas",
+   "space_or_extreme_environment"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "funding_or_incentives",
+   "prohibitions_bans",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "other",
+   "cybersecurity"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Designates 16 specific critical materials, including machine tools and industrial robots, unmanned aircraft, semiconductors and satellites, as subject to stable supply measures.",
+   "Defines the specified social infrastructure businesses (energy, transport, telecoms, finance, etc.) covered by the Act.",
+   "Sets the technology fields (IPC-based) whose patent applications may be made non-public for security reasons.",
+   "Sets the foreign filing ban period at 10 months and the fee for prior confirmation at 25,000 yen.",
+   "Sets the credit insurance premium rates and the designated financial institutions for supply assurance."
+  ],
+  "language": "ja",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "industrial_manipulators",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "pub_month": 12,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Japan's Cabinet Order implementing the Economic Security Promotion Act (current revision effective June 2026). It designates specified critical materials (including machine tools, industrial robots, unmanned aircraft, semiconductors), defines specified social infrastructure businesses, and sets patent non-disclosure technology fields. Only tangentially touches robotics as a supply-chain item.",
+  "title_clean": "経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律施行令",
+  "title_en": "Order for Enforcement of the Act on the Promotion of Economic Security through Integrated Implementation of Economic Measures",
+  "venue": "e-Gov Japanese Law Database"
+ }
+}

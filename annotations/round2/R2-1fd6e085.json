@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-1fd6e085",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0504835,
+  "in": 4,
+  "out": 3413,
+  "cache_read": 25795,
+  "cache_create": 4139,
+  "api_ms": 17793,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/IEC TS 8200:2024 Information technology — Artificial intelligence — Controllability of automated artificial intelligence systems",
+  "title_en": "ISO/IEC TS 8200:2024 Information technology — Artificial intelligence — Controllability of automated artificial intelligence systems",
+  "language": "en",
+  "authors_or_issuer": "ISO/IEC JTC 1/SC 42",
+  "issuer_type": "standards_body",
+  "pub_year": 2024,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "ISO/IEC TS 8200:2024 is a technical specification from ISO/IEC JTC 1/SC 42 setting a framework of principles, characteristics and approaches for the controllability of automated AI systems, covering control transfer, uncertainty handling, and verification and validation. This is a catalogue page showing metadata only.",
+  "key_provisions_or_claims": [
+   "Specifies a basic framework for realizing and enhancing controllability of automated AI systems",
+   "Covers state observability and state transition",
+   "Covers control transfer process and cost",
+   "Addresses reaction to uncertainty during control transfer",
+   "Defines verification and validation approaches; applies to all organization types across the life cycle"
+  ],
+  "confidence": 0.85
+ }
+}

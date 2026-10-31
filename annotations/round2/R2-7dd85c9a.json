@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-7dd85c9a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:53:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0927798,
+  "in": 2,
+  "out": 1728,
+  "cache_read": 11758,
+  "cache_create": 18580,
+  "api_ms": 10604,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a directive of the European Parliament and of the Council on general product safety",
+  "title_en": "Proposal for a directive of the European Parliament and of the Council on general product safety",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2000,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities C 337 E",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "consumer_protection",
+   "standards_interoperability",
+   "children_vulnerable_groups",
+   "civil_liability"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "incident_reporting",
+   "oversight_body_creation",
+   "international_cooperation",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "EU Product Liability Directive"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission proposal (COM(2000) 139) recasting Directive 92/59/EEC on general product safety. It sets a general safety requirement for consumer products, producer and distributor obligations, market surveillance duties for Member States, the RAPEX rapid alert system and a European Product Safety Network. It contains no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Producers must place only safe products on the market (general safety requirement).",
+   "Conformity with European standards gives a presumption of safety.",
+   "Producers and distributors must inform authorities of dangerous products and withdraw or recall them.",
+   "Member States must set up market surveillance authorities and penalties.",
+   "RAPEX rapid information system and Commission decisions for serious risks."
+  ],
+  "confidence": 0.9
+ }
+}

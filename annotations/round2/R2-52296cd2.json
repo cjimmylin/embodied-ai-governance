@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-52296cd2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:40:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.032343800000000006,
+  "in": 2,
+  "out": 1736,
+  "cache_read": 11758,
+  "cache_create": 3451,
+  "api_ms": 8320,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "智能网联汽车时空数据传感系统安全基本要求",
+  "title_en": "Basic security requirements for spatio-temporal data sensing system of intelligent and connected vehicle",
+  "language": "zh",
+  "authors_or_issuer": "国家市场监督管理总局、国家标准化管理委员会 (Ministry of Natural Resources / TC230 drafting)",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "technical_standard_mandated",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "safety_physical_harm",
+   "standards_interoperability",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Catalogue page for mandatory Chinese national standard GB 48320-2026 on basic security requirements for spatio-temporal data sensing systems of intelligent connected vehicles, published 2026-09-28 and effective 2027-10-01. Page shows only metadata, drafters and related standards, not the standard's text.",
+  "key_provisions_or_claims": [
+   "Mandatory national standard GB 48320-2026",
+   "Published 2026-09-28; effective 2027-10-01",
+   "Administered by Ministry of Natural Resources; executed by TC230",
+   "Drafted by automakers, tech firms, universities and surveying institutes",
+   "Related to GB 48319-2026 and GB 44721-2026 on intelligent connected vehicles"
+  ],
+  "confidence": 0.8
+ }
+}

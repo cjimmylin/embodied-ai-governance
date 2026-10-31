@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1560",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:49:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0371658,
+  "in": 2,
+  "out": 1785,
+  "cache_read": 11758,
+  "cache_create": 4534,
+  "api_ms": 11523,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "energy_environment",
+   "research_science",
+   "defense_security"
+  ],
+  "authors_or_issuer": "Luckcuck, M.; Farrell, M.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "preprint_or_working_paper",
+  "doi": null,
+  "embodied_categories": [
+   "space_or_extreme_environment",
+   "autonomous_road_vehicles",
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "international_cooperation",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "labor_employment"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Regulations for autonomous systems are still developing; human-operator safety rules are a starting point for formalisation.",
+   "Space sector regulations and cyber security guidelines (e.g., CCSDS) are lacking, unenforced and insufficiently detailed.",
+   "UK ONR nuclear guidance is descriptive not prescriptive and has nothing specific to autonomy.",
+   "Authors are collaborating with ONR to draft guidelines enabling formal verification of autonomous robots.",
+   "Workshops raised reliability, workforce impact and expanded hazard environment concerns."
+  ],
+  "language": "en",
+  "methodology": "case_study",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "space_or_extreme_environment",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2020,
+  "publication_stage": "preprint",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Short position paper reporting workshops with space and nuclear stakeholders on regulating safety and security of autonomous robotic systems. It finds regulation lacking or non-prescriptive, and describes work with the UK Office for Nuclear Regulation to develop guidelines enabling formal verification of autonomous robots.",
+  "title_clean": "Regulating Safety and Security in Autonomous Robotic Systems",
+  "title_en": "Regulating Safety and Security in Autonomous Robotic Systems",
+  "venue": "arXiv"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-b893d505",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:03:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.059963600000000006,
+  "in": 2,
+  "out": 1899,
+  "cache_read": 11758,
+  "cache_create": 2453,
+  "api_ms": 13559,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "95/216/EC: Commission Recommendation of 8 June 1995 concerning improvement of safety of existing lifts",
+  "title_en": "95/216/EC: Commission Recommendation of 8 June 1995 concerning improvement of safety of existing lifts",
+  "language": "en",
+  "authors_or_issuer": "Commission of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 1995,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities L 134, 20/06/1995",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "construction",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "children_vulnerable_groups"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "EN 81-1",
+   "EN 81-2",
+   "Treaty establishing the European Community"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission Recommendation 95/216/EC urging Member States to ensure maintenance and improve safety of existing lifts according to annexed principles (car doors, cable inspection, presence detectors, accessibility for disabled persons, alarms, emergency lighting), referencing EN 81-1/81-2. Machine safety instrument unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Member States should ensure satisfactory maintenance of existing lifts",
+   "Lift safety should be improved per annexed principles, with EN 81-1 and EN 81-2 applicable for numerical values",
+   "Fit car doors, presence detectors on automatic doors, and devices preventing uncontrolled upward movement",
+   "Controls should be usable by unaccompanied disabled persons",
+   "Alarm systems linked to breakdown service and emergency lighting required; asbestos in brakes eliminated"
+  ],
+  "confidence": 0.9
+ }
+}

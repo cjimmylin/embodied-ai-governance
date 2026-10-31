@@ -1,0 +1,89 @@
+{
+ "doc_id": "D0787",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:27:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.059081800000000004,
+  "in": 2,
+  "out": 1623,
+  "cache_read": 11758,
+  "cache_create": 10418,
+  "api_ms": 8340,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "보도자료 - 국가 최상위 AI 전략 논의기구, 대통령 직속 「국가인공지능전략위원회」 출범",
+  "title_en": "Press Release - Launch of the Presidential National AI Strategy Committee, the nation's top AI strategy body",
+  "language": "ko",
+  "authors_or_issuer": "과학기술정보통신부 (Ministry of Science and ICT)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "과학기술정보통신부 (msit.go.kr)",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Korean Ministry of Science and ICT press-release page announcing the launch of the presidential National AI Strategy Committee (September 2025). The body text is only in attachments (hwpx, zip) not captured; the excerpt is mostly site navigation. No robotics-specific content is visible.",
+  "key_provisions_or_claims": [
+   "Announces launch of the presidential National Artificial Intelligence Strategy Committee as the top national AI strategy body",
+   "Substantive content is in unretrieved attachments dated 2025-09-08"
+  ],
+  "confidence": 0.5
+ }
+}

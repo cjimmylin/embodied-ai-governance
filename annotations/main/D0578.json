@@ -1,0 +1,111 @@
+{
+ "doc_id": "D0578",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:22:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0722039,
+  "in": 4,
+  "out": 3772,
+  "cache_read": 30114,
+  "cache_create": 8627,
+  "api_ms": 19591,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "National Strategy for Artificial Intelligence Bangladesh",
+  "title_en": "National Strategy for Artificial Intelligence Bangladesh",
+  "language": "en",
+  "authors_or_issuer": "Information and Communication Technology Division, Government of the People's Republic of Bangladesh",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Bangladesh ICT Division",
+  "jurisdiction_country": "BD",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BD"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "agricultural_robots",
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "agricultural_robots",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "manufacturing",
+   "agriculture_food",
+   "logistics_transport",
+   "education",
+   "finance",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "labor_employment",
+   "education_training",
+   "privacy_data_protection",
+   "cybersecurity",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Bangladesh's 2020 national AI strategy (\"AI for Innovative Bangladesh\") sets seven priority sectors and six strategic pillars, including R&D, skilling, data infrastructure, ethics/privacy/regulation, start-up funding and industrialization, with a five-year roadmap. Robotics appears only in passing, such as agricultural robots and smart mobility.",
+  "key_provisions_or_claims": [
+   "Seven priority sectors: public service, manufacturing, agriculture, smart mobility, skills/education, finance/trade, health",
+   "Six pillars including ethics, data privacy, security and regulations",
+   "Five-year roadmap, with an AI task force in 2020 and law and policy establishment around 2023",
+   "Agricultural robots and precision farming listed within AI scope for agriculture",
+   "Addresses job displacement through reskilling"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "doc_id": "D1005",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:47:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0703158,
+  "in": 2,
+  "out": 1946,
+  "cache_read": 11758,
+  "cache_create": 12419,
+  "api_ms": 10468,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector",
+   "defense_security",
+   "manufacturing",
+   "agriculture_food",
+   "logistics_transport",
+   "healthcare"
+  ],
+  "authors_or_issuer": "Government of the Netherlands (interministerial)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "NL",
+   "EU",
+   "US",
+   "CN",
+   "KR",
+   "BR"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "national_strategy_or_action_plan",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "international_cooperation",
+   "technical_standards_reference",
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "risk_based_tiering"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "military_use_ihl",
+   "standards_interoperability",
+   "ethics_principles",
+   "cybersecurity",
+   "sustainability_environment",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Three goals: competitiveness, AI sovereignty, responsible and safe AI",
+   "Reduce high-risk strategic dependencies in the AI value chain; export controls on dual-use AI",
+   "Promote EU AI Act, CoE Framework Convention and UNESCO Recommendation as risk-based reference points",
+   "Active role in international AI standardisation and military AI norms (REAIM, GGE on LAWS presidency)",
+   "Explore a Dutch AI safety institute; biennial progress report to Parliament"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "Council of Europe Framework Convention on AI",
+   "UNESCO Recommendation on the Ethics of AI",
+   "Korea AI Basic Act",
+   "UN LAWS/CCW GGE",
+   "OECD AI Principles"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "pub_month": null,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "The Netherlands' interministerial International AI Strategy sets three goals: boosting Dutch and European AI competitiveness, strengthening AI sovereignty by reducing strategic dependencies, and promoting responsible, safe AI through norms, standards and diplomacy. It includes military AI and lethal autonomous weapons diplomacy but little on physical robotics.",
+  "title_clean": "AI for values, prosperity and resilience: The Netherlands' International AI Strategy",
+  "title_en": "AI for values, prosperity and resilience: The Netherlands' International AI Strategy",
+  "venue": "Government of the Netherlands",
+  "issuer_type": "national_government_executive",
+  "methodology": "not_applicable"
+ }
+}

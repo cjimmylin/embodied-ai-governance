@@ -1,0 +1,90 @@
+{
+ "doc_id": "D0587",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:22:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0438162,
+  "in": 4,
+  "out": 3064,
+  "cache_read": 25117,
+  "cache_create": 3302,
+  "api_ms": 15579,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Accountable system design architecture for embodied AI: a focus on physical human support robots",
+  "title_en": "Accountable system design architecture for embodied AI: a focus on physical human support robots",
+  "language": "en",
+  "authors_or_issuer": "Hirata, Y.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Tohoku University Repository",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "unknown",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "technical_or_engineering",
+  "faith_or_religious_perspective": false,
+  "page_quality": "error_or_blocked_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "No text was available. From the title and repository URL, this is a Tohoku University paper by Hirata (2020) on an accountable system design architecture for embodied AI, focused on physical human support robots. The content was not verified.",
+  "key_provisions_or_claims": [
+   "Text unavailable; annotation based on title and URL only",
+   "Likely proposes an accountable system architecture for human support robots"
+  ],
+  "confidence": 0.3
+ }
+}

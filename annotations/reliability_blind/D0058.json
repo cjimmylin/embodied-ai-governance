@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0058",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:36:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030467800000000003,
+  "in": 2,
+  "out": 1744,
+  "cache_read": 11758,
+  "cache_create": 2962,
+  "api_ms": 11070,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "PL n. 477/2024 - Tipifica na lei penal a alteração de fotos, vídeos e som com o uso de sistema de Inteligência Artificial para praticar violência contra a mulher",
+  "title_en": "Bill No. 477/2024 - Criminalizing the alteration of photos, videos and sound using AI systems to commit violence against women",
+  "language": "pt",
+  "authors_or_issuer": "Câmara dos Deputados (Dep. Saullo Vianna, União/AM)",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Câmara dos Deputados",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "human_dignity_autonomy",
+   "fairness_bias_discrimination",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Brazilian bill amending the Penal Code to criminalize altering or manipulating photos, videos or sounds with AI to humiliate, harass or threaten women in domestic or family contexts, with 2–4 years' imprisonment and a fine. It concerns deepfake-type gender violence and has no embodied AI content.",
+  "key_provisions_or_claims": [
+   "Adds Art. 216-C to the Brazilian Penal Code",
+   "Criminalizes altering photos, videos or sounds with AI to cause humiliation, harassment or threats against women in domestic or family settings",
+   "Penalty of 2 to 4 years' imprisonment plus a fine",
+   "Takes effect on publication",
+   "Justification cites AI-enabled gender violence and lack of consent"
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-a7cc2eb1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.20236730000000003,
+  "in": 4,
+  "out": 3883,
+  "cache_read": 61538,
+  "cache_create": 40137,
+  "api_ms": 24711,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Land Transport and Related Matters (No. 2) Bill",
+  "title_en": "Land Transport and Related Matters (No. 2) Bill",
+  "language": "en",
+  "authors_or_issuer": "Parliament of Singapore (Ministry of Transport / Land Transport Authority)",
+  "issuer_type": "legislature",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Singapore Parliament Bills",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "consumer_protection",
+   "criminal_liability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "insurance_requirement",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling",
+   "prohibitions_bans",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Singapore bill amending the Active Mobility Act, Electric Vehicles Charging Act, Road Traffic Act and Small Motorised Vehicles (Safety) Act. Among mainly personal-mobility, EV-charger and vehicle-disposal measures, it creates a framework for approved trials, special uses and testbeds of autonomous motor vehicles on public paths, with insurance, data recording and enforcement.",
+  "key_provisions_or_claims": [
+   "New Division 2C of Active Mobility Act defines autonomous motor vehicles and regulates approved trials, special uses and testbeds on public paths",
+   "Minister may require liability insurance, publicity notices, vehicle registers, sensor data/video recording and manual-takeover alert systems",
+   "Authority may grant conditional authorisations, exempt from traffic rules, and suspend or cancel them; appeal to Minister",
+   "Offence for interfering with autonomous vehicle trials or equipment (fine up to $5,000); AV regulations sunset 30 September 2031",
+   "Tougher penalties for unsafe PABs/PMDs, non-compatible batteries, misleading advertising and online-marketplace directions"
+  ],
+  "confidence": 0.85
+ }
+}

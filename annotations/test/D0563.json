@@ -1,0 +1,115 @@
+{
+ "doc_id": "D0563",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8fa172c1ecd5",
+ "annotated_at": "2026-10-30T15:05:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.089934,
+  "in": 2,
+  "out": 1879,
+  "cache_read": 0,
+  "cache_create": 17785,
+  "api_ms": 9826,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "A Study on the Improvement of the Intelligent Robots Act",
+  "title_en": "A Study on the Improvement of the Intelligent Robots Act",
+  "language": "en",
+  "authors_or_issuer": "Park, J-R.; Noe, S-O.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2019,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.9708/jksci.2019.24.01.217",
+  "venue": "Journal of The Korea Society of Computer and Information",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR",
+   "EU",
+   "JP",
+   "US",
+   "GB"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "professional_service_robots",
+   "domestic_household_robots",
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "civil_liability",
+   "legal_personhood_robot_rights",
+   "intellectual_property",
+   "safety_physical_harm",
+   "cybersecurity",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "liability_regime",
+   "technical_standards_reference",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "Korea Intelligent Robots Act",
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "robot_legal_personhood_position": "supports",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Korean legal-doctrinal article proposing reforms to the Intelligent Robots Act: legal personality (\"electronic human being\") for AI robots in patent infringement, separating injunction (robot) from monetary liability (owner), criminal penalties for manufacturers via amending Article 47, and contact-based safety tiers with registration and licensing.",
+  "key_provisions_or_claims": [
+   "Grant AI robots legal personality as subject of patent infringement; injunction against robot, compensation by owner.",
+   "Amend Article 47 penal provisions to punish robot manufacturers and companies with joint penal provisions.",
+   "Tier safety regulation by degree of human contact; registration, inspection and licensing for high-contact robots.",
+   "Legislate user authentication and information security standards for remotely controlled robots.",
+   "Consider UK-style corporate manslaughter law for serious robot accidents."
+  ],
+  "confidence": 0.9
+ }
+}

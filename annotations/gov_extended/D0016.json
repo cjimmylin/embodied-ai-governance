@@ -1,0 +1,98 @@
+{
+ "doc_id": "D0016",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:36:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06403400000000001,
+  "in": 4,
+  "out": 3558,
+  "cache_read": 28700,
+  "cache_create": 7120,
+  "api_ms": 22492,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Resolución 710/2024 - Creación de la Unidad de Inteligencia Artificial Aplicada a la Seguridad (UIAAS)",
+  "title_en": "Resolution 710/2024 - Creation of the Unit of Artificial Intelligence Applied to Security (UIAAS)",
+  "language": "es",
+  "authors_or_issuer": "Ministerio de Seguridad (Argentina)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Boletín Oficial de la República Argentina",
+  "jurisdiction_country": "AR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AR"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "drones_uas",
+   "security_policing_robots"
+  ],
+  "primary_embodied_category": "security_policing_robots",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Argentine Ministry of Security resolution creating a Unit of AI Applied to Security within the Cybercrime Directorate. It tasks the unit with using AI for crime prevention and investigation, including social media patrolling, facial recognition, predictive policing, drone patrols and bomb-disposal robots, without adding specific safeguards.",
+  "key_provisions_or_claims": [
+   "Creates the UIAAS within the Directorate of Cybercrime and Cyber Affairs.",
+   "Unit includes representatives of federal police and security forces.",
+   "Functions include real-time facial recognition and predictive crime analysis.",
+   "Authorises drone patrols and robots for dangerous tasks such as explosive disposal.",
+   "Must conform to Resolution 428/2024 guidelines on cyber crime prevention."
+  ],
+  "confidence": 0.9
+ }
+}

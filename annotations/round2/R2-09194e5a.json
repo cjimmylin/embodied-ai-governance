@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-09194e5a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0484565,
+  "in": 4,
+  "out": 3358,
+  "cache_read": 25525,
+  "cache_create": 3721,
+  "api_ms": 16332,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing"
+  ],
+  "authors_or_issuer": "European Agency for Safety and Health at Work (EU-OSHA)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.7,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "collaborative_robots",
+   "industrial_manipulators"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "human_robot_interaction_social_effects",
+   "trust_acceptance",
+   "transparency_explainability",
+   "safety_physical_harm",
+   "labor_employment"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Increasing robot autonomy shifts human-robot relations from using to interacting with technology.",
+   "Anthropomorphic design, interaction design principles and transparency affect occupational safety and health.",
+   "Calibrated trust in human-robot interaction is important.",
+   "Recommends key design considerations balancing OSH and automated performance."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "collaborative_robots",
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2022,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "EU-OSHA web page for a 2022 policy brief on advanced robotics and automation, addressing anthropomorphic design, interaction design principles, transparency and trust in human-robot interaction for occupational safety and health, with design recommendations for robotic systems.",
+  "title_clean": "Advanced robotics and automation: Key considerations for human interaction and trust",
+  "title_en": "Advanced robotics and automation: Key considerations for human interaction and trust",
+  "venue": "EU-OSHA"
+ }
+}

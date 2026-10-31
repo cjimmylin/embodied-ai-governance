@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1120",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:03:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030417800000000002,
+  "in": 2,
+  "out": 1719,
+  "cache_read": 11758,
+  "cache_create": 3012,
+  "api_ms": 9141,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Quick Facts: Transparency rules for AI systems",
+  "title_en": "Quick Facts: Transparency rules for AI systems",
+  "language": "en",
+  "authors_or_issuer": "European Commission, DG CONNECT",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Shaping Europe's digital future",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "consumer_protection",
+   "privacy_data_protection",
+   "trust_acceptance"
+  ],
+  "primary_topic": "transparency_explainability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "oversight_body_creation",
+   "self_regulation_codes",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission fact page explaining Article 50 AI Act transparency obligations, applying from 2 August 2026: disclosure of AI interaction, machine-readable marking of synthetic content, labelling of deepfakes and public-interest text, enforcement, penalties, and the voluntary Code of Practice and guidelines.",
+  "key_provisions_or_claims": [
+   "Article 50 transparency rules apply from 2 August 2026",
+   "Providers must inform users of AI interaction and apply machine-readable marks to synthetic content",
+   "Deployers must label deepfakes and unreviewed AI text on public-interest matters, and disclose emotion recognition and biometric categorisation",
+   "Fines up to €15M or 3% of worldwide turnover; €750k for EU institutions",
+   "Grace period for marking until December 2026; voluntary Code of Practice and EU icons available"
+  ],
+  "confidence": 0.9
+ }
+}

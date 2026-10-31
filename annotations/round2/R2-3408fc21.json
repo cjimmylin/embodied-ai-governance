@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-3408fc21",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2438084,
+  "in": 4,
+  "out": 3427,
+  "cache_read": 72959,
+  "cache_create": 51228,
+  "api_ms": 19437,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "40 CFR Part 60—Standards of Performance for New Stationary Sources",
+  "title_en": "40 CFR Part 60—Standards of Performance for New Stationary Sources",
+  "language": "en",
+  "authors_or_issuer": "U.S. Environmental Protection Agency",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Code of Federal Regulations",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "other"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "licensing_registration",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Excerpt of 40 CFR Part 60, the US EPA's New Source Performance Standards under the Clean Air Act for stationary sources. It covers applicability, definitions, state delegation tables, combustion turbine monitoring and reporting, and optical gas imaging annexes. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Applies emission standards to new or modified stationary sources with affected facilities",
+   "Defines terms such as affected facility, malfunction and modification",
+   "Lists delegation of NSPS authority to state and local air agencies",
+   "Sets CEMS monitoring and electronic reporting via CEDRI for combustion turbines",
+   "Includes optical gas imaging response factor procedures and 5-year recordkeeping"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-0481eda5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0314978,
+  "in": 2,
+  "out": 1849,
+  "cache_read": 11758,
+  "cache_create": 2957,
+  "api_ms": 9310,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Türkiye's explanation of position on Report of 2024-2025-2026 sessions of the Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems",
+  "title_en": "Türkiye's explanation of position on Report of 2024-2025-2026 sessions of the Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems",
+  "language": "en",
+  "authors_or_issuer": "Türkiye (working paper submitted to the CCW Group of Governmental Experts on LAWS)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN CCW GGE on LAWS (CCW/GGE.1/2026/WP.5)",
+  "jurisdiction_country": "TR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "TR"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Türkiye's working paper to the CCW GGE on lethal autonomous weapons systems explains its position on joining consensus on the 2024-2026 report. It stresses the elements create no new legal obligations, opposes a legally binding instrument, limits readings of 'human control', and protects defensive autonomous R&D.",
+  "key_provisions_or_claims": [
+   "Joins consensus on the report on the understanding that its elements create no new legal obligations.",
+   "'Must' formulations reflect only each State's existing obligations; Türkiye is not party to Additional Protocol I.",
+   "Acceptance does not acknowledge customary international law status.",
+   "'Control and human judgement' does not require constant direct human control.",
+   "Opposes the work leading to a legally binding instrument and protects defensive autonomous R&D without technology sharing."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "doc_id": "R2-749f2f77",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2065798,
+  "in": 2,
+  "out": 2020,
+  "cache_read": 11758,
+  "cache_create": 46300,
+  "api_ms": 12941,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Inriktning av ett svenskt regelverk för automatiserad körning inför marknadsintroduktion i obegränsade serier 2027",
+  "title_en": "Direction of a Swedish regulatory framework for automated driving ahead of market introduction in unlimited series in 2027",
+  "language": "sv",
+  "authors_or_issuer": "Lundahl, J.; Andersson, K.; Andersson, J.; Rizgary, D.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "RISE Research Institutes of Sweden & VTI (report commissioned by Transportstyrelsen)",
+  "jurisdiction_country": "SE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SE",
+   "DE",
+   "FR",
+   "GB",
+   "NO",
+   "FI",
+   "CH",
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "criminal_liability",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "human_oversight_control",
+   "labor_employment",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "insurance_requirement",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "incident_reporting",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "EU Product Liability Directive"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "RISE/VTI report for the Swedish Transport Agency analysing the direction of a national regulatory model for automated driving ahead of EU type-approval of unlimited series around 2027. It reviews earlier Swedish proposals and German, French, UK, and other models, and recommends shifting liability from driver to system/organisation, operation rules, trials, and monitoring.",
+  "key_provisions_or_claims": [
+   "National traffic, liability and use rules are needed alongside EU type-approval; unclear liability is the main barrier.",
+   "SOU 2018:16 and Ds 2021:28 remain largely relevant; limited driver liability and system/organisational liability endorsed.",
+   "Consider operation or authorisation rules for automated transport services, drawing on German, French and UK models.",
+   "Keep and develop the trial regulation as an intermediate step, including remote operation and role handover.",
+   "Do not allow remote SAE level 3 operation until technical approval rules exist; address cybersecurity, cross-border enforcement and insurance."
+  ],
+  "confidence": 0.9
+ }
+}

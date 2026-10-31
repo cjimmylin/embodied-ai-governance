@@ -1,0 +1,112 @@
+{
+ "doc_id": "D1460",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:46:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0483938,
+  "in": 2,
+  "out": 1989,
+  "cache_read": 11758,
+  "cache_create": 6831,
+  "api_ms": 12493,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector",
+   "healthcare"
+  ],
+  "authors_or_issuer": "Vecellio Segate, R.; Daly, A.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.92,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.1017/err.2023.72",
+  "embodied_categories": [
+   "collaborative_robots",
+   "industrial_manipulators"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "labor_employment",
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "transparency_explainability",
+   "standards_interoperability",
+   "human_robot_interaction_social_effects",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Current standards and EU/Member State laws fail to address physical and mental health risks of human-robot interaction and smart cobots.",
+   "Proposes encoding occupational health and safety enforcement directly into smart cobots (SmaCobs), leveraging quantum computing.",
+   "Raises concerns on robot legal personality, liability apportionment and algorithmic explainability.",
+   "Proposes a new binding EU OHS Regulation for the SmaCobs age.",
+   "Discusses the draft AI Liability Directive's burden-of-proof relief for AI-caused harm."
+  ],
+  "language": "en",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "EU Machinery Regulation",
+   "EU AI Liability Directive (proposal)",
+   "GDPR",
+   "ISO 10218",
+   "ISO/TS 15066",
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "page_quality": "substantive_document",
+  "pub_month": 1,
+  "pub_year": 2024,
+  "primary_embodied_category": "collaborative_robots",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Journal article assessing EU legal and standards gaps for occupational health and safety with smart collaborative robots. It proposes encoding OHS enforcement into the cobots themselves, using quantum computing, and discusses legal personality, liability and explainability. It recommends a new binding EU OHS Regulation.",
+  "title_clean": "Encoding the Enforcement of Safety Standards into Smart Robots to Harness Their Computing Sophistication and Collaborative Potential: A Legal Risk Assessment for European Union Policymakers",
+  "title_en": "Encoding the Enforcement of Safety Standards into Smart Robots to Harness Their Computing Sophistication and Collaborative Potential: A Legal Risk Assessment for European Union Policymakers",
+  "venue": "European Journal of Risk Regulation"
+ }
+}

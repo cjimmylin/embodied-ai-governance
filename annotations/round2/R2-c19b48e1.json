@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-c19b48e1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0249758,
+  "in": 2,
+  "out": 1692,
+  "cache_read": 11758,
+  "cache_create": 1719,
+  "api_ms": 8161,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/AWI TR 27029 Artificial intelligence in aviation: Application of existing artificial intelligence standards to UAS safety, ethics, and assurance",
+  "title_en": "ISO/AWI TR 27029 Artificial intelligence in aviation: Application of existing artificial intelligence standards to UAS safety, ethics, and assurance",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 20/SC 16",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "under_development",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "ethics_principles",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO/AWI TR 27029, a technical report in early drafting (stage 10.99, new project approved) under ISO/TC 20/SC 16. It will address applying existing AI standards to unmanned aircraft systems' safety, ethics and assurance. Only metadata is shown.",
+  "key_provisions_or_claims": [
+   "Planned technical report on applying existing AI standards to UAS safety, ethics and assurance",
+   "Stage 10.99: new project approved, drafting started",
+   "Developed by ISO/TC 20/SC 16 (aircraft and space vehicles, unmanned aircraft systems)"
+  ],
+  "confidence": 0.8
+ }
+}

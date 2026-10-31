@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-9e27a44e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1726578,
+  "in": 2,
+  "out": 1757,
+  "cache_read": 11758,
+  "cache_create": 38477,
+  "api_ms": 14772,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "48 CFR Part 252—Solicitation Provisions and Contract Clauses (DFARS)",
+  "title_en": "48 CFR Part 252—Solicitation Provisions and Contract Clauses (Defense Federal Acquisition Regulation Supplement)",
+  "language": "en",
+  "authors_or_issuer": "U.S. Department of Defense (Defense Acquisition Regulations System)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 11,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Code of Federal Regulations (eCFR)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "certification_conformity_assessment",
+   "other"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "incident_reporting",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "DFARS Part 252 (48 CFR), the Department of Defense's standard solicitation provisions and contract clauses. The excerpt covers ethics, whistleblower, cybersecurity (NIST SP 800-171, CMMC, cyber incident reporting), telecom prohibitions and Buy American clauses. It contains no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "DFARS 252.204-7012 requires safeguarding covered defense information per NIST SP 800-171 and cyber incident reporting within 72 hours.",
+   "252.204-7021/7025 impose CMMC level requirements on contractors and subcontractors.",
+   "252.204-7018 prohibits covered Huawei/ZTE telecommunications equipment in covered missions.",
+   "Clauses must flow down to subcontracts."
+  ],
+  "confidence": 0.9
+ }
+}

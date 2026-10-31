@@ -1,0 +1,109 @@
+{
+ "doc_id": "D1338",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:42:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0432258,
+  "in": 2,
+  "out": 1851,
+  "cache_read": 11758,
+  "cache_create": 5884,
+  "api_ms": 10859,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Impact of AI on the regulation of medical products: Implementing the AI White Paper principles",
+  "title_en": "Impact of AI on the regulation of medical products: Implementing the AI White Paper principles",
+  "language": "en",
+  "authors_or_issuer": "Medicines and Healthcare products Regulatory Agency (MHRA)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "US",
+   "CA"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "standards_interoperability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "incident_reporting",
+   "testing_sandboxes",
+   "technical_standards_reference",
+   "international_cooperation",
+   "oversight_body_creation",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "UK Medical Devices Regulations 2002",
+   "UK AI White Paper (Pro-innovation approach to AI regulation)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "MHRA's April 2024 report responding to the UK Secretary of State, describing how it applies the five pro-innovation AI principles as a regulator of AI as a medical device (software), as a service provider using AI, and as an evidence-based decision-maker. It covers regulatory reform, guidance, the AI Airlock sandbox and resources.",
+  "key_provisions_or_claims": [
+   "AI used for a medical purpose falls under the UK Medical Devices Regulations 2002.",
+   "MHRA is reforming medical device regulation to be proportionate for AI as a medical device.",
+   "AI Airlock regulatory sandbox for AI medical devices is being developed.",
+   "Guidance on good machine learning practice and predetermined change control plans is in place or planned.",
+   "MHRA co-chairs the IMDRF AI/ML working group and partners with US FDA and Health Canada."
+  ],
+  "confidence": 0.85
+ }
+}

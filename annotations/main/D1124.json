@@ -1,0 +1,103 @@
+{
+ "doc_id": "D1124",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:36:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0369878,
+  "in": 2,
+  "out": 1776,
+  "cache_read": 11758,
+  "cache_create": 4512,
+  "api_ms": 10605,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "other"
+  ],
+  "authors_or_issuer": "Negreiro, M.; European Parliamentary Research Service",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU",
+   "DE",
+   "GB",
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "parliamentary_material",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "software_agent_called_robot",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "fairness_bias_discrimination",
+   "intellectual_property",
+   "privacy_data_protection",
+   "consumer_protection",
+   "human_oversight_control",
+   "trust_acceptance"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "AI Overviews reduce publisher traffic and revenue, prompting antitrust complaints in the EU, Germany and the UK.",
+   "Training LLMs on web data raises copyright and GDPR consent issues.",
+   "AI-driven search threatens the open web and information quality.",
+   "The Commission is assessing Google's AI summaries under the DSA, DMA, copyright rules and AI Act.",
+   "Agentic AI could become DMA gatekeepers, raising oversight and accountability questions."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU AI Act"
+  ],
+  "primary_embodied_category": "none",
+  "primary_topic": "intellectual_property",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "European Parliamentary Research Service 'At a glance' note on AI-generated search answers. It outlines the effects on publisher traffic and revenue, AI training data and copyright/GDPR issues, threats to the open web and information quality, and ongoing Commission scrutiny under the DSA, DMA and AI Act. It also notes the oversight questions raised by agentic AI.",
+  "title_clean": "Search engines in times of Artificial Intelligence",
+  "title_en": "Search engines in times of Artificial Intelligence",
+  "venue": "European Parliament Think Tank (EPRS)",
+  "page_quality": "substantive_document",
+  "methodology": "not_applicable"
+ }
+}

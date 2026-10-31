@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0342",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:37:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0255358,
+  "in": 2,
+  "out": 1660,
+  "cache_read": 11758,
+  "cache_create": 1939,
+  "api_ms": 8324,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Public generative AI tools: end-user guidance (Do and Don't)",
+  "title_en": "Public generative AI tools: end-user guidance (Do and Don't)",
+  "language": "en",
+  "authors_or_issuer": "Cyber Security NSW, NSW Government",
+  "issuer_type": "subnational_government",
+  "pub_year": 2023,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Cyber Security NSW",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "intellectual_property",
+   "transparency_explainability"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "data_governance_requirements",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "NSW Government cyber security end-user guidance on public generative AI tools such as DALL-E. It sets do's and don'ts for public servants: verify outputs, protect personal and sensitive information, avoid AI decision-making, respect copyright, and escalate to IT security teams when unsure.",
+  "key_provisions_or_claims": [
+   "Do not allow generative AI to make decisions for the NSW Government",
+   "Do not input personal, official, sensitive, classified or health information",
+   "Fact check and verify outputs before official use",
+   "Do not use AI-generated code in government systems or ingest government datasets without approval",
+   "Enable multifactor authentication and disable training, logging and chat history"
+  ],
+  "confidence": 0.85
+ }
+}

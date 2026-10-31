@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0692",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:25:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0669949,
+  "in": 4,
+  "out": 3703,
+  "cache_read": 29024,
+  "cache_create": 7517,
+  "api_ms": 17490,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Governance Guidelines for Implementation of AI Principles Ver. 1.1",
+  "title_en": "Governance Guidelines for Implementation of AI Principles Ver. 1.1",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Economy, Trade and Industry (METI), Expert Group on How AI Principles Should be Implemented, AI Governance Guidelines WG",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "METI Japan",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "ethics_principles",
+   "transparency_explainability",
+   "civil_liability",
+   "education_training",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "self_regulation_codes",
+   "transparency_disclosure_labelling",
+   "incident_reporting",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles",
+   "NIST AI RMF",
+   "ISO/IEC 23894",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japan's METI non-binding guidelines for companies implementing the Social Principles of Human-centric AI through agile governance. They set action targets across risk analysis, goal setting, management system design, implementation, evaluation and re-analysis, with practical examples and gap analysis appendices.",
+  "key_provisions_or_claims": [
+   "Guidelines are not legally binding and support voluntary corporate efforts",
+   "Action targets organised in an agile governance cycle: conditions/risk analysis, goal setting, system design, implementation, evaluation, re-analysis",
+   "Companies should perform gap analysis between AI governance goals and current state",
+   "Prepare for external explanation of AI management systems and consider disclosure as non-financial information",
+   "Plan incident response and allocate burdens among companies; living document updated over time"
+  ],
+  "confidence": 0.9
+ }
+}

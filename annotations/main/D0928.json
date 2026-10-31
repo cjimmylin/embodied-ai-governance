@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0928",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:31:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0636274,
+  "in": 4,
+  "out": 3604,
+  "cache_read": 28549,
+  "cache_create": 6870,
+  "api_ms": 19624,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "The White House (President of the United States)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "prohibitions_bans"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "fairness_bias_discrimination",
+   "transparency_explainability",
+   "children_vulnerable_groups",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Policy of sustaining US global AI dominance via a minimally burdensome national framework",
+   "DOJ AI Litigation Task Force to challenge inconsistent State AI laws within 30 days",
+   "Commerce to publish evaluation of onerous State AI laws within 90 days",
+   "BEAD non-deployment funds and discretionary grants conditioned on States not enacting conflicting AI laws",
+   "FCC to consider federal reporting/disclosure standard and FTC policy statement to preempt State laws; legislative recommendation excluding child safety, data centers, State procurement"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Colorado AI Act"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Executive Order 14365 sets a US policy of a minimally burdensome national AI framework and seeks to curb State AI laws. It creates a DOJ AI Litigation Task Force, orders Commerce to evaluate State laws, conditions federal funding, directs FCC and FTC preemption steps, and requests a preemptive legislative recommendation.",
+  "title_clean": "Executive Order 14365: Ensuring a National Policy Framework for Artificial Intelligence",
+  "title_en": "Executive Order 14365: Ensuring a National Policy Framework for Artificial Intelligence",
+  "venue": "Federal Register"
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "D1271",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:40:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0512198,
+  "in": 2,
+  "out": 1770,
+  "cache_read": 11758,
+  "cache_create": 8085,
+  "api_ms": 9049,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Europäische Verordnung über künstliche Intelligenz tritt in Kraft",
+  "title_en": "European Artificial Intelligence Act enters into force",
+  "language": "de",
+  "authors_or_issuer": "European Commission Representation in Luxembourg",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Commission Representation in Luxembourg",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "human_oversight_control",
+   "fairness_bias_discrimination",
+   "industrial_policy_innovation",
+   "cybersecurity"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "self_regulation_codes",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission press article of 1 August 2024 announcing the entry into force of the EU AI Act. It explains the risk tiers (minimal, transparency, high, unacceptable), general-purpose AI rules, governance bodies, penalties up to 7% of turnover, and the application timeline. Autonomous robots are mentioned only as a high-risk example.",
+  "key_provisions_or_claims": [
+   "AI Act entered into force 1 August 2024 as first comprehensive AI law",
+   "Risk tiers: minimal, transparency, high, unacceptable (banned)",
+   "High-risk systems include those operating autonomous robots",
+   "Fines up to 7% of global turnover; AI Office and AI Board created",
+   "Most rules apply from 2 August 2026; bans after six months"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0491",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0430738,
+  "in": 2,
+  "out": 1821,
+  "cache_read": 11758,
+  "cache_create": 5921,
+  "api_ms": 10237,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Narrative Approaches to Human–Robot Interaction and the Law",
+  "title_en": "Narrative Approaches to Human–Robot Interaction and the Law",
+  "language": "en",
+  "authors_or_issuer": "Whalen-Bridge, H.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.1017/9781009431453.017",
+  "venue": "Cambridge University Press (edited volume, Part III introduction)",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "SG",
+   "NO"
+  ],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "book",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "civil_liability",
+   "human_robot_interaction_social_effects",
+   "trust_acceptance",
+   "transparency_explainability"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Introductory chapter to Part III of an edited volume on human–robot interaction and law. It argues narrative analysis should inform legal responses to robots, reviews narratives about autonomous vehicles and driving aids, and previews chapters on a Norwegian trading-robot case, Singapore AV discourse, and hermeneutics of automated driving.",
+  "key_provisions_or_claims": [
+   "Narrative is ubiquitous in law and should be used when law confronts new problems like robots.",
+   "Narratives of human superiority and fear may explain courts imposing criminal liability on drivers for robot malfunctions.",
+   "Singapore government avoided the 'inevitability' narrative about AVs, consistent with light-touch or stricter regulation.",
+   "Automated driving systems require a 'hermeneutics of the situation' with interdisciplinary input.",
+   "Anthropomorphism of robots can mislead or enable manipulation."
+  ],
+  "confidence": 0.85
+ }
+}

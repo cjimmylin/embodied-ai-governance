@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1376",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:43:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0460758,
+  "in": 2,
+  "out": 1740,
+  "cache_read": 11758,
+  "cache_create": 6874,
+  "api_ms": 10190,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial Intelligence: examples of ethical dilemmas",
+  "title_en": "Artificial Intelligence: examples of ethical dilemmas",
+  "language": "en",
+  "authors_or_issuer": "UNESCO",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "UNESCO website",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "transparency_explainability",
+   "intellectual_property",
+   "privacy_data_protection",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UNESCO web page presenting illustrative AI ethical dilemmas: gender bias in search, AI in courts, AI-generated art and authorship, and autonomous cars. Each case points to the UNESCO Recommendation on the Ethics of AI as the global standard-setting response. The autonomous car section is truncated.",
+  "key_provisions_or_claims": [
+   "Gender bias should be avoided or minimised in algorithms, datasets and AI decision-making.",
+   "AI in courts raises transparency, bias, surveillance and fairness concerns.",
+   "AI-generated art requires new frameworks on authorship, copyright and artist remuneration.",
+   "Autonomous cars raise ethical questions about sensing and data processing.",
+   "UNESCO Recommendation on the Ethics of AI is cited as the first global standard-setting instrument."
+  ],
+  "confidence": 0.8
+ }
+}

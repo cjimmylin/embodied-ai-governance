@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-31c2f3aa",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0680655,
+  "in": 4,
+  "out": 3477,
+  "cache_read": 29990,
+  "cache_create": 8231,
+  "api_ms": 20917,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "public_administration_justice",
+   "research_science"
+  ],
+  "authors_or_issuer": "Commission of the European Communities",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_proposal_or_draft",
+  "doc_type": "bill_or_draft_law",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "draft_or_bill_under_consideration",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Adopts a multiannual DOSES R&D programme on statistical expert systems",
+   "Community budget of ECU 4 million, including one staff member",
+   "Part I coordinated projects and Part II shared-cost projects with four themes",
+   "Commission executes the programme, assisted by an advisory committee of Member State representatives",
+   "Review in the second year and a final evaluation reported to Parliament and Council"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 1989,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "1989 European Commission re-examined proposal for a Council Decision establishing the DOSES programme, a multiannual R&D programme on statistical expert systems with ECU 4 million funding. It sets out coordinated and shared-cost projects, committee oversight, and review. It has no connection to robotics or embodied AI.",
+  "title_clean": "Re-examined proposal for a Council Decision instituting a specific multiannual programme for the research and development of statistical expert systems (DOSES)",
+  "title_en": "Re-examined proposal for a Council Decision instituting a specific multiannual programme for the research and development of statistical expert systems (DOSES)",
+  "venue": "Office for Official Publications of the European Communities (COM(89) 249 final)"
+ }
+}

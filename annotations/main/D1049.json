@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1049",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:35:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0448398,
+  "in": 2,
+  "out": 1860,
+  "cache_read": 11758,
+  "cache_create": 6265,
+  "api_ms": 10948,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Digital Omnibus on AI",
+  "title_en": "Digital Omnibus on AI",
+  "language": "en",
+  "authors_or_issuer": "European Parliamentary Research Service (Niestadt, M.)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Parliament Think Tank (EU Legislation in Progress briefing)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Parliamentary Research Service briefing on the Commission's Digital Omnibus on AI proposal (COM(2025) 836), which amends the AI Act and the civil aviation Regulation 2018/1139 to simplify implementation, delay high-risk rules, and ease burdens. It covers legislative progress, stakeholder views, and the June 2026 parliamentary approval of the trilogue agreement.",
+  "key_provisions_or_claims": [
+   "High-risk AI rules' application is tied to availability of standards, with backstops of 2 Dec 2027 (Annex III) and 2 Aug 2028 (Annex I).",
+   "AI Office centralises enforcement for AI in very large platforms and for GPAI-based systems from the same provider.",
+   "AI literacy obligation replaced by a duty on the Commission and Member States to promote it.",
+   "SME simplifications extended to small mid-caps; sandboxes expanded, including an EU-level sandbox.",
+   "Special-category personal data may be processed for bias detection; the interplay with civil aviation rules and GDPR is clarified."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1399",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:44:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.042305800000000005,
+  "in": 2,
+  "out": 1767,
+  "cache_read": 11758,
+  "cache_create": 5864,
+  "api_ms": 9361,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "An Ethical Evaluation of Human–Robot Relationships",
+  "title_en": "An Ethical Evaluation of Human–Robot Relationships",
+  "language": "en",
+  "authors_or_issuer": "de Graaf, M.M.A.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2016,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s12369-016-0368-5",
+  "venue": "International Journal of Social Robotics",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "care_assistive_robots",
+   "educational_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "education",
+   "domestic_consumer",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "human_robot_interaction_social_effects",
+   "ethics_principles",
+   "human_dignity_autonomy",
+   "children_vulnerable_groups",
+   "trust_acceptance"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Conceptual paper on the ethics of relationships between humans and socially interactive robots, drawing on Aristotelian friendship, the good life, technological mediation and the media equation. It argues that empirical research on social reactions to robots is needed to inform ethical, societal and legal perspectives and responsible robot design.",
+  "key_provisions_or_claims": [
+   "Socially interactive robots invite unidirectional emotional bonds because they follow human social rules and act autonomously.",
+   "Robots should be treated as a new technological genre, not as ordinary objects.",
+   "Ethical evaluation should ask whether human–robot bonds contribute to the good life and well-being.",
+   "Deception and effects on children's and future generations' friendships are raised as concerns.",
+   "Research on social responses to robots is needed to shape ethical, societal and legal perspectives."
+  ],
+  "confidence": 0.85
+ }
+}

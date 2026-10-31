@@ -1,0 +1,120 @@
+{
+ "doc_id": "R2-b73cce0b",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:09:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.16787960000000002,
+  "in": 2,
+  "out": 2510,
+  "cache_read": 11758,
+  "cache_create": 14415,
+  "api_ms": 18623,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "11/2017. (IV. 12.) NFM rendelet a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet és a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet fejlesztési célú járművek tesztelésével összefüggő módosításáról",
+  "title_en": "Decree 11/2017 (IV.12.) of the Minister of National Development amending KöHÉM Decrees 5/1990 and 6/1990 on the technical inspection and the technical conditions for registration and operation of road vehicles, in connection with the testing of development-purpose vehicles",
+  "language": "hu",
+  "authors_or_issuer": "Nemzeti Fejlesztési Minisztérium (Ministry of National Development, Hungary)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2017,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Nemzeti Jogszabálytár",
+  "jurisdiction_country": "HU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "HU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "research_science"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "civil_liability",
+   "cybersecurity",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "education_training",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "liability_regime",
+   "insurance_requirement",
+   "human_oversight_requirement",
+   "testing_sandboxes",
+   "incident_reporting",
+   "data_governance_requirements",
+   "education_training_programs",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "ISO 26262",
+   "Hungarian Act I of 1988 on Road Transport",
+   "KöHÉM Decree 5/1990",
+   "KöHÉM Decree 6/1990",
+   "Hungarian Civil Code"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "This Hungarian ministerial decree amends the road-vehicle decrees to set up a framework for testing autonomous vehicles on public roads. Developers must register and show they follow ISO 26262. The decree also requires trained safety drivers who can take over the vehicle, data recorders, cybersecurity, full liability insurance and regular reports. It sorts vehicles into automation levels 0–5.",
+  "key_provisions_or_claims": [
+   "Defines development-purpose autonomous vehicles and test drivers who must be able to take control immediately at any time",
+   "Developers testing on public roads must register with the transport minister and show ISO 26262 functional-safety compliance or certification",
+   "Test drivers need 3+ years of licence, testing experience and developer training; the developer bears operational liability, and full liability insurance is mandatory",
+   "Vehicles must have data recorders for reconstructing accidents, with data kept for 3 years after an accident; software must be tested in simulation, on a test bench and on a closed track before road use",
+   "Developers must report every six months, manage cybersecurity, and classify vehicles by automation levels 0–5"
+  ],
+  "confidence": 0.9
+ }
+}

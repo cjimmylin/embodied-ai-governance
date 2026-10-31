@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-0d161ef6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:45:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027207799999999997,
+  "in": 2,
+  "out": 1682,
+  "cache_read": 11758,
+  "cache_create": 2302,
+  "api_ms": 8534,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "国家市场监督管理总局 国家标准化管理委员会 (National Public Service Platform for Standards Information)",
+  "binding_nature": "technical_standard_voluntary",
+  "confidence": 0.6,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "transparency_disclosure_labelling"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "GB/T 44091-2024 sets product identification requirements for civil unmanned aircraft",
+   "Recommended national standard, current status",
+   "Published 2024-05-28, effective 2024-12-01",
+   "ICS 49 aircraft and space vehicle engineering"
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Search-results page from China's national standards information platform listing GB/T 44091-2024, a current recommended national standard on product identification requirements for civil unmanned aircraft, published 2024-05-28 and effective 2024-12-01. Only catalogue metadata is shown.",
+  "title_clean": "民用无人驾驶航空器产品标识要求 (GB/T 44091-2024) - 标准检索结果",
+  "title_en": "Product Identification Requirements for Civil Unmanned Aircraft (GB/T 44091-2024) - Standard Search Results",
+  "venue": "全国标准信息公共服务平台",
+  "methodology": "not_applicable"
+ }
+}

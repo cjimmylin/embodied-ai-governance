@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1553",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:49:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0451878,
+  "in": 2,
+  "out": 1768,
+  "cache_read": 11758,
+  "cache_create": 6582,
+  "api_ms": 12781,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Persons or Property? Legal Status of Humanoid Robots in Three Contemporary Novels",
+  "title_en": "Persons or Property? Legal Status of Humanoid Robots in Three Contemporary Novels",
+  "language": "en",
+  "authors_or_issuer": "Carlsson, A.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "De Lege (Uppsala Faculty of Law yearbook)",
+  "jurisdiction_country": "SE",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "domestic_consumer",
+   "research_science"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "human_dignity_autonomy",
+   "human_robot_interaction_social_effects",
+   "ethics_principles"
+  ],
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Law-and-literature chapter analysing whether humanoid robots in McEwan's Machines Like Me, Winterson's Frankissstein and Ishiguro's Klara and the Sun are legal objects or subjects. It uses the homo juridicus concept and argues that fictional treatment of robots can inform how law should treat real robots, and that the legal notion of \"person\" may need to change.",
+  "key_provisions_or_claims": [
+   "Robots in the novels are legally property, with owners bearing liability for their actions.",
+   "Fiction offers a way to study robot legal status that real life cannot yet provide.",
+   "Analysis draws on the homo juridicus concept to discuss legal subjecthood.",
+   "Granting robots full legal subject status would require changing who counts as a legal person.",
+   "Humans decide whether AI is treated as a tool or a new life form."
+  ],
+  "confidence": 0.8
+ }
+}

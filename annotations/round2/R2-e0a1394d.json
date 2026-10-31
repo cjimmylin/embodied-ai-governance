@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-e0a1394d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0613138,
+  "in": 2,
+  "out": 1779,
+  "cache_read": 11758,
+  "cache_create": 10586,
+  "api_ms": 9133,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Central Bank of 29 December 2021 on a proposal for a regulation laying down harmonised rules on artificial intelligence (CON/2021/40)",
+  "title_en": "Opinion of the European Central Bank of 29 December 2021 on a proposal for a regulation laying down harmonised rules on artificial intelligence (CON/2021/40)",
+  "language": "en",
+  "authors_or_issuer": "European Central Bank",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, C 115/5",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "finance"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "fairness_bias_discrimination",
+   "standards_interoperability",
+   "other"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "oversight_body_creation",
+   "risk_based_tiering",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "ECB opinion on the Commission's proposed AI Act, focused on banking. It seeks clarity on the ECB's role in market surveillance and conformity assessment, alignment with CRD governance rules, narrower high-risk treatment of simple credit scoring models, and suggests a future EU AI authority.",
+  "key_provisions_or_claims": [
+   "ECB should be expressly not designated a market surveillance authority.",
+   "Conformity assessment for credit scoring should be limited to prudential aspects within SREP.",
+   "Consider a future independent EU-level AI authority.",
+   "Simple regression or decision-tree credit scoring with minor impact should not be high-risk.",
+   "Delay high-risk credit scoring requirements until Commission common specifications are adopted."
+  ],
+  "confidence": 0.9
+ }
+}

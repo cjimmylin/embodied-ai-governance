@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0249",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:48:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028421800000000004,
+  "in": 2,
+  "out": 1669,
+  "cache_read": 11758,
+  "cache_create": 2638,
+  "api_ms": 8148,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Readiness Assessment Methodology",
+  "title_en": "AI Readiness Assessment Methodology",
+  "language": "en",
+  "authors_or_issuer": "UNESCO",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "UNESCO Global AI Ethics and Governance Observatory",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "fairness_bias_discrimination",
+   "education_training"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UNESCO web page describing the AI Readiness Assessment Methodology (RAM), a tool helping countries assess preparedness to govern AI ethically and implement the UNESCO Recommendation on the Ethics of AI. Over 70 countries have implemented or are implementing it. No robotics content.",
+  "key_provisions_or_claims": [
+   "RAM helps countries operationalise the UNESCO Recommendation on the Ethics of AI",
+   "Three steps: ecosystem assessment, multi-stakeholder process, country report with policy recommendations",
+   "Covers legal, social, economic, educational, scientific and technological dimensions",
+   "More than 70 countries have implemented or are implementing the RAM"
+  ],
+  "confidence": 0.9
+ }
+}

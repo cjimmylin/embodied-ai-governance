@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-7792debe",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0370138,
+  "in": 2,
+  "out": 1779,
+  "cache_read": 11758,
+  "cache_create": 4511,
+  "api_ms": 8651,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "14 CFR Part 22—Design, Production, and Airworthiness Requirements for Non-Type Certificated Aircraft",
+  "title_en": "14 CFR Part 22—Design, Production, and Airworthiness Requirements for Non-Type Certificated Aircraft",
+  "language": "en",
+  "authors_or_issuer": "Federal Aviation Administration (US Department of Transportation)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Code of Federal Regulations (eCFR)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "US FAA regulation (14 CFR Part 22, adopted July 2025) setting design, production and airworthiness requirements for light-sport category non-type-certificated aircraft, using FAA-accepted consensus standards. Explicitly excludes unmanned aircraft. Covers eligibility, structural, propulsion, controls, quality assurance, and testing requirements, including simplified flight controls.",
+  "key_provisions_or_claims": [
+   "Applies to special airworthiness certificates for light-sport non-type-certificated aircraft; excludes unmanned aircraft.",
+   "Compliance via FAA-accepted consensus standards, found by trained compliance staff.",
+   "Performance-based design requirements: structure, propulsion, fuel, fire protection, evacuation.",
+   "Simplified flight controls aircraft must automate flight path and prevent loss of control.",
+   "Requires documented quality assurance and ground/flight production acceptance testing."
+  ],
+  "confidence": 0.9
+ }
+}

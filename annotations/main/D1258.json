@@ -1,0 +1,110 @@
+{
+ "doc_id": "D1258",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:40:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0699642,
+  "in": 4,
+  "out": 3805,
+  "cache_read": 29547,
+  "cache_create": 7962,
+  "api_ms": 19288,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "authors_or_issuer": "European Agency for Safety and Health at Work (EU-OSHA); author Huelke, M. (IFA, Germany)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "collaborative_robots",
+   "industrial_manipulators"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "human_oversight_requirement",
+   "conformity_assessment_certification",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "labor_employment",
+   "human_robot_interaction_social_effects",
+   "certification_conformity_assessment",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Cobot manufacturers must comply with Machinery Directive 2006/42/EC, replaced by Regulation (EU) 2023/1230 from 20 January 2027.",
+   "AI-enabled cobots may be high-risk under the EU AI Act when used as safety components.",
+   "EN ISO 10218-1/2 (2025) now incorporate ISO/TS 15066 collaborative requirements.",
+   "A comprehensive risk assessment must cover physical, organisational and psychosocial risks.",
+   "Four collaborative methods: monitored standstill, hand guiding, speed and separation monitoring, power and force limiting."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU Machinery Regulation",
+   "EU AI Act",
+   "ISO 10218",
+   "ISO/TS 15066"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "collaborative_robots",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "EU-OSHA OSHwiki article on collaborative robots in industry. It explains cobot types, applicable EU law (Machinery Regulation 2023/1230, AI Act) and standards (EN ISO 10218), and sets out hazard identification, risk assessment and collaborative operation methods, including psychosocial risks such as work intensity and surveillance.",
+  "title_clean": "Collaborating robots",
+  "title_en": "Collaborating robots",
+  "venue": "OSHwiki, European Agency for Safety and Health at Work"
+ }
+}

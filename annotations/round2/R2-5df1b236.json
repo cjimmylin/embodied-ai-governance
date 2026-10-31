@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-5df1b236",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:40:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2502118,
+  "in": 2,
+  "out": 1688,
+  "cache_read": 11758,
+  "cache_create": 58038,
+  "api_ms": 9862,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国土交通省関係地域再生法施行規則",
+  "title_en": "Ordinance for Enforcement of the Act on Regional Revitalization, Relating to the Ministry of Land, Infrastructure, Transport and Tourism",
+  "language": "ja",
+  "authors_or_issuer": "Ministry of Land, Infrastructure, Transport and Tourism (Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2015,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Japanese Law Database",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japanese MLIT ministerial ordinance implementing the Regional Revitalization Act: land-use notifications, housing-estate regeneration plans, registration of paid private passenger transport, and freight consolidation approvals. Only passing mention of automated driving passenger transport (自動運行装置, 特定自動運行) in application documents.",
+  "key_provisions_or_claims": [
+   "Specifies notification forms and attachments for development and building acts under regional land-use plans",
+   "Requires plans for housing-estate private paid passenger transport to describe automated-operation passenger transport and its operating conditions",
+   "Requires documentation of the permit prospects for specified automated operation under the Road Traffic Act",
+   "Establishes registration and certificate procedures for housing-estate paid passenger transport operators",
+   "Delegates ministerial powers to regional transport bureau heads"
+  ],
+  "confidence": 0.9
+ }
+}

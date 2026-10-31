@@ -1,0 +1,110 @@
+{
+ "doc_id": "D1696",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:23:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0431038,
+  "in": 2,
+  "out": 1818,
+  "cache_read": 11758,
+  "cache_create": 5936,
+  "api_ms": 9885,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People",
+  "title_en": "Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People",
+  "language": "en",
+  "authors_or_issuer": "White House Office of Science and Technology Policy (OSTP)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "The White House",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "ethical_framework_or_principles",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "finance",
+   "education",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "human_oversight_control",
+   "safety_physical_harm",
+   "human_dignity_autonomy",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement",
+   "data_governance_requirements",
+   "testing_sandboxes",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "US Executive Order 14110"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Non-binding White House OSTP white paper setting out five principles for automated systems: safe and effective systems, algorithmic discrimination protections, data privacy, notice and explanation, and human alternatives. It includes a technical companion with practical steps. General AI civil-rights framing with no robotics-specific provisions.",
+  "key_provisions_or_claims": [
+   "Five principles: safe and effective systems; algorithmic discrimination protections; data privacy; notice and explanation; human alternatives, consideration and fallback",
+   "Non-binding; creates no legal rights and does not change existing law or agency policy",
+   "Technical companion gives concrete steps for governments and companies",
+   "Calls for pre-deployment testing, risk identification, ongoing monitoring and public reporting",
+   "Heightened protections for sensitive domains such as health, employment, education and criminal justice"
+  ],
+  "confidence": 0.93
+ }
+}

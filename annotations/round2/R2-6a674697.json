@@ -1,0 +1,114 @@
+{
+ "doc_id": "R2-6a674697",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:56:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0452578,
+  "in": 2,
+  "out": 1903,
+  "cache_read": 11758,
+  "cache_create": 6262,
+  "api_ms": 10741,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "European Economic and Social Committee",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU",
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "parliamentary_material",
+  "doi": null,
+  "embodied_categories": [
+   "surgical_medical_robots",
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "liability_regime",
+   "data_governance_requirements",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "transparency_disclosure_labelling"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "human_oversight_control",
+   "ethics_principles",
+   "privacy_data_protection",
+   "cybersecurity",
+   "education_training",
+   "industrial_policy_innovation",
+   "safety_physical_harm",
+   "fairness_bias_discrimination",
+   "labor_employment"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Comprehensive EU regulatory framework for robotics and metaverse in healthcare, addressing liability for failures in remote or robot-assisted surgery",
+   "Human oversight must remain core, with ability to pause, adjust or override AI or robotic processes",
+   "Ethical guidelines and patient consent protocols; address bias in AI systems",
+   "Invest in 5G/6G infrastructure and a Horizon Europe-style SME investment strategy",
+   "Strong data privacy and cybersecurity rules; training and social dialogue for healthcare staff"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "surgical_medical_robots",
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Opinion of the European Economic and Social Committee on robotics combined with the metaverse in healthcare. It calls for an EU regulatory framework covering liability, human oversight, patient consent, privacy and cybersecurity, plus investment in infrastructure, SMEs, and training to ensure equitable access and European technological autonomy.",
+  "title_clean": "The contribution of the robotics metaverse in the medical sector",
+  "title_en": "The contribution of the robotics metaverse in the medical sector",
+  "venue": "Official Journal of the European Union (C series)",
+  "methodology": "not_applicable"
+ }
+}

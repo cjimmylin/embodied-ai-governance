@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-3ee8b70a",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:07:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0566956,
+  "in": 2,
+  "out": 2022,
+  "cache_read": 11758,
+  "cache_create": 1737,
+  "api_ms": 14949,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "农业农村部关于大力发展智慧农业的指导意见（农市发〔2024〕3号）",
+  "title_en": "Guiding Opinions of the Ministry of Agriculture and Rural Affairs on Vigorously Developing Smart Agriculture (Nong Shi Fa [2024] No. 3)",
+  "language": "zh",
+  "authors_or_issuer": "Ministry of Agriculture and Rural Affairs of the People's Republic of China",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Ministry of Agriculture and Rural Affairs (moa.gov.cn)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "agricultural_robots"
+  ],
+  "primary_embodied_category": "agricultural_robots",
+  "application_sectors": [
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Excerpt from China's Ministry of Agriculture and Rural Affairs policy document Nong Shi Fa [2024] No. 3, which promotes smart agriculture. It sets targets for 2030 and 2035: breakthroughs in core technologies, a standards and testing system, wide use of reliable domestically made intelligent equipment, and 35–40% digitalisation of agricultural production.",
+  "key_provisions_or_claims": [
+   "By 2030, major breakthroughs in key smart agriculture technologies and a basic standards and testing system",
+   "Wide use of advanced, reliable, domestically produced technology equipment",
+   "Agricultural production informatisation rate of about 35% by 2030",
+   "By 2035, technology equipment at an internationally advanced level and informatisation above 40%",
+   "Full digital transformation of agriculture to support building an agricultural powerhouse"
+  ],
+  "confidence": 0.5
+ }
+}

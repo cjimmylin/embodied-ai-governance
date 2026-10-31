@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-1d32ad89",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:43:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0280578,
+  "in": 2,
+  "out": 1727,
+  "cache_read": 11758,
+  "cache_create": 2402,
+  "api_ms": 12242,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Council Implementing Decision of 16 December 2014 authorising Croatia to apply a tax exemption to gas oil used to operate machinery in humanitarian demining in accordance with Article 19 of Directive 2003/96/EC",
+  "title_en": "Council Implementing Decision of 16 December 2014 authorising Croatia to apply a tax exemption to gas oil used to operate machinery in humanitarian demining in accordance with Article 19 of Directive 2003/96/EC",
+  "language": "en",
+  "authors_or_issuer": "Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2014,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 363/150",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "HR",
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "other"
+  ],
+  "governance_topics": [
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "taxation_economic_policy",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "Directive 2003/96/EC"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Council Implementing Decision authorising Croatia to exempt from energy taxation the gas oil used in accredited special-purpose humanitarian demining machinery, for six years under Article 19 of Directive 2003/96/EC. It is a tax measure, not about AI or robotics.",
+  "key_provisions_or_claims": [
+   "Croatia authorised to exempt gas oil used in humanitarian demining machinery from taxation",
+   "Limited to accredited special-purpose machines built for clearing mined areas",
+   "Applies to all demining operators in Croatia, without favouring any operator",
+   "Takes effect on notification and expires after six years",
+   "Without prejudice to EU State aid rules"
+  ],
+  "confidence": 0.93
+ }
+}

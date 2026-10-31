@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0834",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:29:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0898636,
+  "in": 4,
+  "out": 3475,
+  "cache_read": 35306,
+  "cache_create": 13556,
+  "api_ms": 21606,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "domestic_consumer",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "The Conversation Africa (article by faculty of Arizona State University School of Interdisciplinary Forensics)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "TW",
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "news_article",
+  "doi": null,
+  "embodied_categories": [
+   "domestic_household_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "civil_liability",
+   "consumer_protection",
+   "cybersecurity",
+   "criminal_liability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "news_media",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Robot vacuums are mobile sensor platforms with cameras, microphones and mapping that generate evidence continuously.",
+   "A Taiwanese husband won damages using robot vacuum footage but was jailed for recording private activity without consent.",
+   "2022 iRobot Roomba J7 test images leaked via a data-labeling contractor, showing training pipeline privacy risks.",
+   "Governing law for home-robot data and evidence remains a patchwork that has not kept pace."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "domestic_household_robots",
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "The Conversation article arguing that home robot vacuums with cameras and microphones act as continuous, invisible witnesses. Using a Taiwan court case and the iRobot image leak, it shows a patchwork of privacy and evidence law lagging behind household robot data collection.",
+  "title_clean": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
+  "title_en": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
+  "venue": "The Conversation Africa"
+ }
+}

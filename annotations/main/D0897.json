@@ -1,0 +1,93 @@
+{
+ "doc_id": "D0897",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:31:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.10495470000000001,
+  "in": 4,
+  "out": 3681,
+  "cache_read": 38227,
+  "cache_create": 16899,
+  "api_ms": 27679,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "research_science",
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Lei, N.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.5,
+  "countries_discussed": [],
+  "date_basis": "unknown",
+  "doc_class": "research_output",
+  "doc_type": "thesis_or_dissertation",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "mobile_industrial_logistics"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Develops radar-based ego-motion estimation evaluated on RadarScenes, simulation and real robot data",
+   "Proposes millimeter-wave radar SLAM for autonomous navigation",
+   "Includes a component on the ethics of AI in autonomous navigation"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": null,
+  "publication_stage": "thesis",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "University of Virginia Libra ETD record for a thesis on radar-based ego-motion estimation and millimeter-wave radar SLAM using RadarScenes, simulation and real robot data, with a title reference to the ethics of AI in autonomous navigation. Mostly a technical engineering work; only an excerpt is available.",
+  "methodology": "technical_or_engineering",
+  "title_clean": "Radar-Based Ego-Motion Estimation Using RadarScenes, Simulation, and Real-World Robot Data; Ego-Motion Estimation via Millimeter-Wave Radar SLAM Reconstructing Perception: Radar SLAM and the Ethics of Artificial Intelligence in Autonomous Navigation",
+  "title_en": "Radar-Based Ego-Motion Estimation Using RadarScenes, Simulation, and Real-World Robot Data; Ego-Motion Estimation via Millimeter-Wave Radar SLAM Reconstructing Perception: Radar SLAM and the Ethics of Artificial Intelligence in Autonomous Navigation",
+  "venue": "Libra ETD, University of Virginia"
+ }
+}

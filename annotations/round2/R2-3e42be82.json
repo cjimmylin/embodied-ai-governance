@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-3e42be82",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:57:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07128670000000001,
+  "in": 4,
+  "out": 3712,
+  "cache_read": 30097,
+  "cache_create": 8511,
+  "api_ms": 18092,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Australia's System of Control and applications for Autonomous Weapon Systems",
+  "title_en": "Australia's System of Control and applications for Autonomous Weapon Systems",
+  "language": "en",
+  "authors_or_issuer": "Australia (Government), submitted to the CCW Group of Governmental Experts on LAWS",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN CCW GGE on LAWS (CCW/GGE.1/2019/WP.2)",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "education_training_programs",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Australian working paper to the CCW GGE on LAWS describing its nine-stage system of control over military weapons, applied to autonomous weapon systems from legal framework through design, Article 36 review, certification, deployment and after-action review. It argues existing international law and internal processes suffice, so no specific ban is needed.",
+  "key_provisions_or_claims": [
+   "A layered nine-stage system of control covers weapons from design to after-action evaluation.",
+   "Article 36 weapons review is required before any new weapon, including AWS, enters service.",
+   "Existing IHL and national regulation suffice; no specific ban on AWS is needed at this time.",
+   "Rules of engagement and targeting directives apply to AWS as to any weapon or operator.",
+   "The term 'human control' is considered inadequate as a basis for GGE discussions without common understanding."
+  ],
+  "confidence": 0.9
+ }
+}

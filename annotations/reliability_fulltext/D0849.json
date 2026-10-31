@@ -1,0 +1,112 @@
+{
+ "doc_id": "D0849",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:14:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1050948,
+  "in": 4,
+  "out": 3931,
+  "cache_read": 37688,
+  "cache_create": 16300,
+  "api_ms": 23558,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Navigating the sociotechnical labyrinth: Dynamic certification for responsible embodied AI",
+  "title_en": "Navigating the sociotechnical labyrinth: Dynamic certification for responsible embodied AI",
+  "language": "en",
+  "authors_or_issuer": "Bakirtzis, G.; Aler Tubella, A.; Theodorou, A.; Danks, D.; Topcu, U.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "arXiv (cs.CY), book chapter preprint",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "EU",
+   "US"
+  ],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots",
+   "drones_uas",
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "ethics_principles",
+   "trust_acceptance",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "human_oversight_control"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "NIST AI RMF",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Book-chapter preprint proposing dynamic certification, an adaptive regulatory approach for embodied AI. Certified operational envelopes expand or contract based on evidence from staged testing (early-stage simulation, transitional, confirmatory). Illustrated with an urban delivery robot and drones, it also sets out open technical, sociotechnical and regulatory research problems.",
+  "key_provisions_or_claims": [
+   "Static one-time certification is inadequate for learning, adaptive embodied AI systems.",
+   "Dynamic certification incrementally expands or revokes a system's operational envelope based on monitored performance.",
+   "Staged process: formal models, simulation, transitional testing in controlled settings, confirmatory real-world testing.",
+   "Illustrated with an urban delivery robot and an autonomous drone certified first for limited contexts.",
+   "Open problems: model-based design, multidisciplinary teams, and AI-tailored standards and testing regimes."
+  ],
+  "confidence": 0.9
+ }
+}

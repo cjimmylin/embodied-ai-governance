@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-e5037d75",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:30:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.042057800000000006,
+  "in": 2,
+  "out": 1737,
+  "cache_read": 11758,
+  "cache_create": 5877,
+  "api_ms": 8559,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院办公厅关于进一步扩大旅游文化体育健康养老教育培训等领域消费的意见",
+  "title_en": "Opinions of the General Office of the State Council on Further Expanding Consumption in Tourism, Culture, Sports, Health, Elderly Care, Education and Training",
+  "language": "zh",
+  "authors_or_issuer": "国务院办公厅 (General Office of the State Council)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2016,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "国办发〔2016〕85号",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "elder_care_social_care",
+   "education",
+   "healthcare",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "consumer_protection",
+   "standards_interoperability",
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "2016 State Council General Office opinion setting 35 measures to expand consumption in tourism, culture, sports, health, elderly care, education, automobiles, green goods and the consumer environment. Not about AI or robotics; only passing mention of wearable-device and smart-home standards.",
+  "key_provisions_or_claims": [
+   "Expand service consumption in tourism, culture, sports, health, elderly care and education",
+   "Relax market access for elderly care services and explore long-term care insurance",
+   "Promote green product certification and energy-efficiency standards",
+   "Accelerate standards for smart home, VR/AR and wearable devices",
+   "Strengthen product traceability and market supervision"
+  ],
+  "confidence": 0.95
+ }
+}

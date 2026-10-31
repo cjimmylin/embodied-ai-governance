@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1529",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:48:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0427658,
+  "in": 2,
+  "out": 1723,
+  "cache_read": 11758,
+  "cache_create": 6089,
+  "api_ms": 9917,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Identifying key ethical debates for autonomous robots in agri-food: a research agenda",
+  "title_en": "Identifying key ethical debates for autonomous robots in agri-food: a research agenda",
+  "language": "en",
+  "authors_or_issuer": "Ryan, M.; van der Burg, S.; Bogaardt, M.-J.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2021,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s43681-021-00104-w",
+  "venue": "AI and Ethics",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "NL"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "agricultural_robots",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "agricultural_robots",
+  "application_sectors": [
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "labor_employment",
+   "sustainability_environment",
+   "safety_physical_harm",
+   "research_ethics"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "systematic_or_scoping_review",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Narrative literature review of ethical issues raised by AI robots, assessing their relevance for agricultural robots and proposing a research agenda. Draws on policy reports and 134 scholarly papers organised into five themes, noting that agri-food robot ethics is little researched.",
+  "key_provisions_or_claims": [
+   "Ethics of agri-food AI robots is under-researched.",
+   "Generic AI robot ethics literature is mapped to agro-robot relevance.",
+   "Narrative review of policy reports (300) and 134 scholarly papers.",
+   "Identifies five thematic areas needing further research, including machine moral agency.",
+   "Proposes a research agenda toward a more mature ethics of agro-robots."
+  ],
+  "confidence": 0.8
+ }
+}

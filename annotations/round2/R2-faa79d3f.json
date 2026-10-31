@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-faa79d3f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:40:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0373838,
+  "in": 2,
+  "out": 1832,
+  "cache_read": 11758,
+  "cache_create": 4471,
+  "api_ms": 9131,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "工业和信息化部 / 全国汽车标准化技术委员会智能网联汽车分会 (TC114/SC34)",
+  "binding_nature": "technical_standard_mandated",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "instrument_status": "adopted_not_yet_in_force",
+  "is_governance_document": true,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Mandatory national standard GB 44721-2026 on safety requirements for automated driving systems in intelligent connected vehicles",
+   "Published 2026-07-30, takes effect 2027-07-01",
+   "Fully replaces recommended standard GB/T 44721-2024 (general technical requirements), upgrading it to mandatory",
+   "Drafted by CATARC, MIIT, major automakers and universities",
+   "Related standards cover data recording systems, combined driver assistance and simulation testing"
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Catalogue page on China's mandatory national standard GB 44721-2026, Safety requirements for automated driving systems in intelligent connected vehicles. Published 2026-07-30, effective 2027-07-01, it replaces recommended standard GB/T 44721-2024. The page lists metadata, drafters and related standards, not the technical text.",
+  "title_clean": "智能网联汽车 自动驾驶系统安全要求",
+  "title_en": "Intelligent and Connected Vehicle—Safety Requirements for Automated Driving System",
+  "venue": "全国标准信息公共服务平台",
+  "methodology": "not_applicable"
+ }
+}

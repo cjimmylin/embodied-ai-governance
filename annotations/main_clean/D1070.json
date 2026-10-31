@@ -1,0 +1,106 @@
+{
+ "doc_id": "D1070",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:01:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.035275799999999996,
+  "in": 2,
+  "out": 1798,
+  "cache_read": 11758,
+  "cache_create": 4029,
+  "api_ms": 8805,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Etiske retningslinjer for pålidelig kunstig intelligens",
+  "title_en": "Ethics Guidelines for Trustworthy AI",
+  "language": "da",
+  "authors_or_issuer": "European Commission, High-Level Expert Group on AI (DG CONNECT)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2019,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Digital Strategy, European Commission",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "ethical_framework_or_principles",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_oversight_control",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "cybersecurity",
+   "sustainability_environment",
+   "trust_acceptance",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 2,
+   "trust": 2,
+   "sustainability": 2,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "audits_impact_assessment",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Danish-language European Commission page presenting the April 2019 Ethics Guidelines for Trustworthy AI by the High-Level Expert Group: AI should be lawful, ethical and robust, with seven key requirements, a pilot of the assessment list, and the 2020 ALTAI self-assessment tool.",
+  "key_provisions_or_claims": [
+   "Trustworthy AI should be lawful, ethical and robust",
+   "Seven key requirements: human agency and oversight, technical robustness and safety, privacy and data governance, transparency, diversity and non-discrimination, societal and environmental wellbeing, accountability",
+   "Assessment list piloted from June to December 2019",
+   "Final ALTAI self-assessment checklist published July 2020",
+   "Guidelines followed 500+ consultation comments on the December 2018 draft"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "doc_id": "R2-a856068b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:40:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.091562,
+  "in": 4,
+  "out": 4138,
+  "cache_read": 33630,
+  "cache_create": 12656,
+  "api_ms": 20441,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "工业和信息化部; 公安部; 交通运输部",
+  "binding_nature": "legally_binding",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "insurance_requirement",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "liability_regime",
+   "transparency_disclosure_labelling",
+   "prohibitions_bans"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "criminal_liability"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Testing and demonstration entities must be Chinese legal persons with civil compensation capacity, remote monitoring, event recording and cybersecurity capability",
+   "Vehicles need third-party testing, a safety self-declaration confirmed by provincial/municipal authorities, and temporary plates",
+   "Minimum insurance of RMB 5 million per vehicle or equivalent guarantee",
+   "Safety drivers must monitor continuously and be able to take over; vehicles need manual/autonomous switching and data recording of 90 seconds before incidents",
+   "Serious accidents must be reported within 24 hours; non-reporting can suspend activities for 24 months; authorities can terminate testing"
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [
+   "智能网联汽车道路测试管理规范(试行) 2018",
+   "中华人民共和国道路交通安全法",
+   "中华人民共和国公路法",
+   "机动车登记规定"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Trial administrative norms issued by MIIT, the Ministry of Public Security and the Ministry of Transport governing road testing and demonstration application of intelligent connected (autonomous) vehicles in China. They set entity, driver and vehicle requirements, self-declaration and plate procedures, insurance, operating rules, termination, and accident reporting and liability. Effective 1 September 2021, replacing the 2018 norms.",
+  "title_clean": "智能网联汽车道路测试与示范应用管理规范(试行)",
+  "title_en": "Administrative Specification for Road Testing and Demonstration Application of Intelligent Connected Vehicles (Trial)",
+  "venue": "工业和信息化部联通装〔2021〕97号",
+  "methodology": "not_applicable"
+ }
+}

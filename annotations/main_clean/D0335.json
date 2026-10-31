@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0335",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:52:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06707180000000001,
+  "in": 4,
+  "out": 3498,
+  "cache_read": 29608,
+  "cache_create": 7994,
+  "api_ms": 17963,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Guidance on privacy and developing and training generative AI models",
+  "title_en": "Guidance on privacy and developing and training generative AI models",
+  "language": "en",
+  "authors_or_issuer": "Office of the Australian Information Commissioner (OAIC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "OAIC website",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "transparency_explainability",
+   "risk_management_risk_tiers",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 2,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "OAIC guidance explaining how the Australian Privacy Act 1988 and Australian Privacy Principles apply to developing and training generative AI models. It stresses accuracy, caution with scraped public data, sensitive information consent, secondary-use limits, notice and privacy by design, with no robotics content.",
+  "key_provisions_or_claims": [
+   "Privacy Act applies to collection, use and disclosure of personal information for training generative AI.",
+   "Publicly available data is not automatically usable for training; scraping is generally covert collection.",
+   "Sensitive information, including many images, generally requires consent.",
+   "Secondary use for AI training requires reasonable expectation and relatedness, or consent/opt-out.",
+   "Developers should take privacy by design approach, conduct PIAs, and take reasonable accuracy steps under APP 10."
+  ],
+  "confidence": 0.85
+ }
+}

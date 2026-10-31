@@ -1,0 +1,89 @@
+{
+ "doc_id": "D0481",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:54:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.025373800000000002,
+  "in": 2,
+  "out": 1525,
+  "cache_read": 11758,
+  "cache_create": 2236,
+  "api_ms": 7274,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Personal Information Protection Commission - Notice / Press Release",
+  "title_en": "Personal Information Protection Commission - Notice / Press Release",
+  "language": "en",
+  "authors_or_issuer": "Personal Information Protection Commission (Korea)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "PIPC Korea website",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "privacy_data_protection"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Navigation and listing page of Korea's Personal Information Protection Commission press release section. It shows only headlines on sanctions against Meta/Instagram and a National MyData Innovation Promotion Strategy. No AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Headline: PIPC imposes new sanctions on Meta Inc, Meta Ireland and Instagram",
+   "Headline: National MyData Innovation Promotion Strategy announced to support data portability"
+  ],
+  "confidence": 0.85
+ }
+}

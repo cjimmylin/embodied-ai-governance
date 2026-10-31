@@ -1,0 +1,113 @@
+{
+ "doc_id": "D1586",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.046529799999999996,
+  "in": 2,
+  "out": 1867,
+  "cache_read": 11758,
+  "cache_create": 6670,
+  "api_ms": 9527,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Technology at Work v2.0: The Future Is Not What It Used to Be",
+  "title_en": "Technology at Work v2.0: The Future Is Not What It Used to Be",
+  "language": "en",
+  "authors_or_issuer": "Frey, C.B.; Osborne, M.A.; Holmes, C.; Rahbari, E.; Curmi, E.; et al.",
+  "issuer_type": "industry_company",
+  "pub_year": 2016,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.64628/ab.ajsn9jamf",
+  "venue": "Citi GPS: Global Perspectives & Solutions (Citi and Oxford Martin School)",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "US",
+   "GB",
+   "CN",
+   "IN",
+   "JP"
+  ],
+  "doc_type": "industry_or_ngo_report",
+  "doc_class": "grey_literature",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "professional_service_robots",
+   "autonomous_road_vehicles",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "logistics_transport",
+   "finance"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "taxation_economic_policy",
+   "education_training",
+   "industrial_policy_innovation",
+   "civil_liability",
+   "privacy_data_protection",
+   "ethics_principles"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "mixed",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Citi GPS and Oxford Martin School report on automation's labour-market effects: jobs at risk across countries and cities, new job creation, productivity, inflation, and policy responses including education. It includes a section on robot laws covering privacy, ethics and liability. The URL title suggests a different article, but the content is this report.",
+  "key_provisions_or_claims": [
+   "Extends the finding that 47% of US jobs are at risk to other countries and cities.",
+   "Perception/manipulation, creativity and social intelligence are the main bottlenecks to automation.",
+   "Recommends investment in education and skills and support for technological dynamism and job creation in cities.",
+   "Considers whether robot laws on privacy, ethics and liability will slow adoption.",
+   "Questions whether traditional measures capture productivity and GDP gains from automation."
+  ],
+  "confidence": 0.8
+ }
+}

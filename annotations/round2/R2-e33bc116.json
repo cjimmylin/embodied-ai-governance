@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-e33bc116",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:28:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.057881800000000004,
+  "in": 2,
+  "out": 1795,
+  "cache_read": 11758,
+  "cache_create": 9688,
+  "api_ms": 9513,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院关于印发《现代化应急体系建设“十五五”规划》的通知",
+  "title_en": "State Council Notice on Issuing the 15th Five-Year Plan for Building a Modernized Emergency Management System",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中国政府网 (State Council)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "public_administration_justice",
+   "defense_security",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "cybersecurity",
+   "education_training"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "funding_or_incentives",
+   "insurance_requirement",
+   "education_training_programs",
+   "international_cooperation",
+   "audits_impact_assessment",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "China's State Council issues the 15th Five-Year Plan for a modernized emergency management system, covering prevention-first risk governance, legal and standards building, rescue forces and equipment, and grassroots capacity. AI and large models, drones, unmanned boats and rescue robots feature only as supporting tools.",
+  "key_provisions_or_claims": [
+   "Shift to prevention-first governance by 2030, modernized system by 2035",
+   "Accelerate revision of emergency, fire and safety laws and standards",
+   "Promote drones, unmanned boats and rescue robots in rescue equipment",
+   "Integrate AI and a 'Jiu'an' large-model base into emergency management, with data security",
+   "Build low-altitude plus emergency rescue applications and the safety equipment industry"
+  ],
+  "confidence": 0.9
+ }
+}

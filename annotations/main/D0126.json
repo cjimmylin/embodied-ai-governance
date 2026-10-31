@@ -1,0 +1,113 @@
+{
+ "doc_id": "D0126",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:09:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0457958,
+  "in": 2,
+  "out": 1898,
+  "cache_read": 11758,
+  "cache_create": 6409,
+  "api_ms": 10807,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Estratégia Brasileira de Inteligência Artificial (EBIA)",
+  "title_en": "Brazilian Artificial Intelligence Strategy (EBIA)",
+  "language": "pt",
+  "authors_or_issuer": "Ministério da Ciência, Tecnologia e Inovações (MCTI), Secretaria de Empreendedorismo e Inovação",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 4,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Ministério da Ciência, Tecnologia e Inovações",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "education",
+   "healthcare",
+   "defense_security",
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "education_training",
+   "labor_employment",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "oversight_body_creation",
+   "technical_standards_reference",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Brazil's national AI strategy (EBIA) from the Ministry of Science, Technology and Innovation. It gives a diagnosis and sets nine thematic axes (legislation and ethics, governance, international aspects, skills, workforce, R&D, productive sectors, public sector, public security) with strategic actions to promote ethical, innovation-driven AI development and use.",
+  "key_provisions_or_claims": [
+   "Nine thematic axes structure the strategy, with strategic actions for each",
+   "Promotes ethical, responsible AI use aligned with OECD AI Principles, to which Brazil adheres",
+   "Supports regulatory sandboxes, R&D funding and startup incentives",
+   "Calls for AI governance structures and proactive international cooperation",
+   "Treated as a living policy to be continuously monitored and adjusted"
+  ],
+  "confidence": 0.85
+ }
+}

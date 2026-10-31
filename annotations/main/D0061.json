@@ -1,0 +1,92 @@
+{
+ "doc_id": "D0061",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:08:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0512393,
+  "in": 4,
+  "out": 3357,
+  "cache_read": 26208,
+  "cache_create": 4401,
+  "api_ms": 17485,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "finance",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Câmara dos Deputados (Dep. Vinicius Carvalho)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "BR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_proposal_or_draft",
+  "doc_type": "bill_or_draft_law",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "prohibitions_bans"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "other"
+  ],
+  "instrument_status": "draft_or_bill_under_consideration",
+  "is_governance_document": true,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Amends Art. 36 of Lei 12.529/2011 to add use of AI for unfair competition practices as an infraction against the economic order.",
+   "Targets AI-enabled price manipulation, cartels and industrial espionage.",
+   "Law would take effect on publication."
+  ],
+  "language": "pt",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Brazilian bill PL 2008/2024 proposes amending the Competition Defense Law (Lei 12.529/2011) to make the use of artificial intelligence for unfair competition practices, such as cartels, price manipulation and industrial espionage, an infraction against the economic order.",
+  "title_clean": "PL 2008/2024 - Dispõe sobre a prevenção e repressão às infrações contra a ordem econômica através do uso de Inteligência Artificial (IA) para efetuar práticas desleais de concorrência",
+  "title_en": "Bill 2008/2024 - On the prevention and repression of infractions against the economic order through the use of Artificial Intelligence for unfair competition practices",
+  "venue": "Câmara dos Deputados do Brasil"
+ }
+}

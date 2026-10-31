@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-e589d498",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1292281,
+  "in": 4,
+  "out": 3459,
+  "cache_read": 44951,
+  "cache_create": 23193,
+  "api_ms": 18975,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Federal Aviation Administration (FAA), U.S. Department of Transportation",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Aircraft must be registered with the FAA Registry by eligible owners (U.S. citizens, resident aliens, qualifying corporations) before operation.",
+   "Certificates of Aircraft Registration expire seven years after issue and can be renewed.",
+   "Section 47.14 requires manufacturer-issued serial numbers for unmanned aircraft with remote identification, unique to one registration.",
+   "Dealer's Aircraft Registration Certificates allow manufacturers and dealers to flight test and demonstrate aircraft.",
+   "Applicants must submit evidence of ownership, pay fees, and notify the Registry of changes in status."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Title 14 CFR Part 47, FAA aircraft registration rules: eligibility, ownership evidence, registration numbers, fees, certificate duration and renewal, and dealer certificates. Only a passing provision (§47.14) addresses serial numbers for unmanned aircraft with remote identification; otherwise it is conventional manned-aircraft registration administration.",
+  "title_clean": "14 CFR Part 47—Aircraft Registration",
+  "title_en": "14 CFR Part 47—Aircraft Registration",
+  "venue": "Code of Federal Regulations (eCFR)"
+ }
+}

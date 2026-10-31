@@ -1,0 +1,93 @@
+{
+ "doc_id": "D1317",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:42:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030779800000000003,
+  "in": 2,
+  "out": 1634,
+  "cache_read": 11758,
+  "cache_create": 3315,
+  "api_ms": 7979,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "A guide to using artificial intelligence in the public sector",
+  "title_en": "A guide to using artificial intelligence in the public sector",
+  "language": "en",
+  "authors_or_issuer": "Government Digital Service (GDS) and Office for Artificial Intelligence (OAI), UK Government, with The Alan Turing Institute",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 6,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "GOV.UK collection landing page for joint GDS/Office for AI guidance on assessing, planning and using AI in the UK public sector, with Alan Turing Institute guidance on ethics and safety. Includes a ministerial foreword stressing economic opportunity and productivity gains. No robotics content.",
+  "key_provisions_or_claims": [
+   "Joint GDS/OAI guidance on assessing whether AI meets user needs",
+   "Guidance on ethical, fair and safe AI implementation, produced with the Alan Turing Institute",
+   "Ministerial foreword emphasises AI's economic and productivity benefits",
+   "Based on a 2018-2019 review of AI in the public sector"
+  ],
+  "confidence": 0.85
+ }
+}

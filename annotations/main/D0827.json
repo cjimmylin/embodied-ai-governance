@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0827",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:28:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.043623800000000004,
+  "in": 2,
+  "out": 1854,
+  "cache_read": 11758,
+  "cache_create": 5976,
+  "api_ms": 10845,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Draft Memorandum: Guidance for Regulation of Artificial Intelligence Applications",
+  "title_en": "Draft Memorandum: Guidance for Regulation of Artificial Intelligence Applications",
+  "language": "en",
+  "authors_or_issuer": "Office of Management and Budget (OMB), Executive Office of the President",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 1,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "White House / OMB",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "consultation_open",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "trust_acceptance",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "self_regulation_codes",
+   "funding_or_incentives",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "US Executive Order 13859"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Draft OMB memorandum implementing Executive Order 13859, directing US federal agencies on regulatory and non-regulatory approaches to private-sector AI applications. It stresses innovation, avoiding precautionary regulation, risk-based cost-benefit assessment, public trust, and reduced barriers, and asks agencies to submit AI regulatory plans.",
+  "key_provisions_or_claims": [
+   "Agencies must avoid regulatory actions that needlessly hamper AI innovation and growth.",
+   "Agencies should avoid a precautionary approach and weigh benefits and costs against the systems AI replaces.",
+   "Ten principles including public trust, public participation, scientific integrity, risk assessment, fairness and non-discrimination, and transparency.",
+   "Agencies should consider non-regulatory approaches and private-sector standards and conformity assessment before new regulation.",
+   "Agencies submit plans listing statutory authorities, AI use cases, regulatory barriers, and planned actions."
+  ],
+  "confidence": 0.85
+ }
+}

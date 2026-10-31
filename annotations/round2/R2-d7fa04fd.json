@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-d7fa04fd",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:32:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0696146,
+  "in": 4,
+  "out": 3938,
+  "cache_read": 29091,
+  "cache_create": 7582,
+  "api_ms": 19259,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "retail_hospitality",
+   "domestic_consumer",
+   "elder_care_social_care",
+   "healthcare",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "商务部、国家发展改革委、工业和信息化部、财政部、农业农村部、文化和旅游部、市场监管总局",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [
+   "care_assistive_robots",
+   "rehabilitation_exoskeleton_prosthetic",
+   "domestic_household_robots",
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "licensing_registration"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "consumer_protection",
+   "sustainability_environment",
+   "certification_conformity_assessment"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "language": "zh",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Seven-ministry implementation opinion on expanding and upgrading goods consumption in China to 2030. Covers autos, appliances, silver-economy products, green and AI-enabled smart consumption, standards and financial support. Embodied AI appears incidentally: exoskeleton robots for elderly homes, smart robots, smart-connected vehicles, and smart-home standards.",
+  "title_clean": "商务部等7部门关于推动商品消费扩容升级的实施意见",
+  "title_en": "Implementation Opinions of the Ministry of Commerce and Six Other Departments on Promoting the Expansion and Upgrading of Goods Consumption",
+  "venue": "商务部 (Ministry of Commerce of China)",
+  "issuer_type": "national_government_executive",
+  "key_provisions_or_claims": [
+   "Target retail sales of about 60 trillion yuan by 2030, with green, smart and health consumption as ten-trillion-yuan markets",
+   "Promote exoskeleton robots, electric wheelchairs and smart care devices in elderly households; explore a silver-product certification system",
+   "Build national AI application pilot bases for consumer products and promote smart robots, smart homes and wearables",
+   "Accelerate standards for smart-connected vehicles, smart home interoperability and AI terminals",
+   "Provide fiscal interest subsidies and financial support for autos, appliances and smart-home consumption"
+  ]
+ }
+}

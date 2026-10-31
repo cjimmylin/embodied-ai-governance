@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-2754246d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0254098,
+  "in": 2,
+  "out": 1705,
+  "cache_read": 11758,
+  "cache_create": 1795,
+  "api_ms": 9416,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The impact of using exoskeletons on occupational safety and health",
+  "title_en": "The impact of using exoskeletons on occupational safety and health",
+  "language": "en",
+  "authors_or_issuer": "European Agency for Safety and Health at Work (EU-OSHA)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2019,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "EU-OSHA",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "primary_embodied_category": "rehabilitation_exoskeleton_prosthetic",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "labor_employment",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "EU-OSHA discussion paper (2019) on how workplace exoskeletons may affect occupational safety and health, their potential to prevent musculoskeletal disorders, and associated risks. It notes uncertain long-term health effects and difficulty creating uniform certification, and stresses the hierarchy of prevention over relying on exoskeletons.",
+  "key_provisions_or_claims": [
+   "Exoskeletons may help prevent musculoskeletal disorders but pose potential new risks",
+   "Long-term health effects remain uncertain; more studies needed",
+   "Uniform certification is difficult to establish",
+   "Hierarchy of prevention should guide workplace design rather than exoskeleton reliance"
+  ],
+  "confidence": 0.8
+ }
+}

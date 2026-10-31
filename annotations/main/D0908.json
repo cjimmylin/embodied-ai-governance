@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0908",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:31:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045417799999999994,
+  "in": 2,
+  "out": 1751,
+  "cache_read": 11758,
+  "cache_create": 6682,
+  "api_ms": 11477,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security",
+   "education"
+  ],
+  "authors_or_issuer": "Syse, H.; Cook, M.L.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.12681/cjp.35684",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "military_use_ihl",
+   "education_training",
+   "human_oversight_control",
+   "transparency_explainability",
+   "trust_acceptance"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "NO",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Military ethics education must cultivate virtues such as prudence and courage for AI-driven warfare.",
+   "Proposes a new virtue: good and proper storytelling/translation of technology into understandable narratives.",
+   "Courage is knowing what one ought to fear, including loss of meaningful human control.",
+   "Critically examines the ideal of explainable AI.",
+   "Fear and competition shape the ethics of AI-enabled weapons."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "pub_month": 12,
+  "pub_year": 2023,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Philosophical article arguing that AI-driven militaries require reconsidered virtues, notably prudence and courage, plus a new virtue of skilled storytelling that translates technology into understandable narratives. It discusses explainable AI, meaningful human control, and fear, with implications for military ethics education.",
+  "title_clean": "Robotic Virtue, Military Ethics Education, and the Need for Proper Storytellers",
+  "title_en": "Robotic Virtue, Military Ethics Education, and the Need for Proper Storytellers",
+  "venue": "Conatus - Journal of Philosophy"
+ }
+}

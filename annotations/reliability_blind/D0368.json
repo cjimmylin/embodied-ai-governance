@@ -1,0 +1,108 @@
+{
+ "doc_id": "D0368",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:38:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0698133,
+  "in": 4,
+  "out": 3926,
+  "cache_read": 29173,
+  "cache_create": 7657,
+  "api_ms": 24401,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "defense_security"
+  ],
+  "authors_or_issuer": "African Commission on Human and Peoples' Rights (ACHPR)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.85,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "other_embodied"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "ethics_principles",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "transparency_explainability",
+   "human_dignity_autonomy",
+   "military_use_ihl",
+   "research_ethics"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Calls on States to ensure AI and robotics are compatible with the African Charter and uphold dignity, equality, transparency and accountability",
+   "Urges adaptation of imported technologies to African context and inclusion of African values such as Ubuntu",
+   "Calls on the AU to develop a regional regulatory framework for AI and robotics",
+   "Appeals for meaningful human control to be codified as a human rights principle",
+   "Commits the Commission to a study with an African Group of Experts on AI and new technologies"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "pub_month": 2,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Resolution of the African Commission on Human and Peoples' Rights (Feb 2021) calling for a study on AI, robotics and emerging technologies and human rights in Africa. It urges rights-compatible development, transparency, African values, a regional regulatory framework, and meaningful human control codified as a human rights principle.",
+  "title_clean": "Resolution on the need to undertake a Study on human and peoples' rights and artificial intelligence (AI), robotics and other new and emerging technologies in Africa - ACHPR/Res. 473 (EXT.OS/ XXXI) 2021",
+  "title_en": "Resolution on the need to undertake a Study on human and peoples' rights and artificial intelligence (AI), robotics and other new and emerging technologies in Africa - ACHPR/Res. 473 (EXT.OS/ XXXI) 2021",
+  "issuer_type": "intergovernmental_org",
+  "venue": "African Commission on Human and Peoples' Rights website (achpr.au.int)"
+ }
+}

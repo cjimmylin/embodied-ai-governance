@@ -1,0 +1,107 @@
+{
+ "doc_id": "D0609",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:23:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0456398,
+  "in": 2,
+  "out": 1916,
+  "cache_read": 11758,
+  "cache_create": 6325,
+  "api_ms": 9567,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Unintended Consequences of Biased Robotic and Artificial Intelligence Systems [Ethical, Legal, and Societal Issues]",
+  "title_en": "Unintended Consequences of Biased Robotic and Artificial Intelligence Systems [Ethical, Legal, and Societal Issues]",
+  "language": "en",
+  "authors_or_issuer": "Righetti, L.; Madhavan, R.; Chatila, R.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2019,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": "10.1109/MRA.2019.2926996",
+  "venue": "IEEE Robotics & Automation Magazine",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "editorial_or_commentary",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "surgical_medical_robots",
+   "professional_service_robots",
+   "security_policing_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "healthcare",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "fairness_bias_discrimination",
+   "ethics_principles",
+   "transparency_explainability",
+   "human_robot_interaction_social_effects",
+   "safety_physical_harm",
+   "trust_acceptance"
+  ],
+  "primary_topic": "fairness_bias_discrimination",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "education_training_programs",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Opinion piece by the IEEE RAS ethics committee on how algorithmic bias seen in vision, hiring and recidivism systems will carry into robotics, including autonomous cars, service and medical robots, and human-robot interaction. It argues for multidisciplinary, technical and ethical approaches to fair deployment.",
+  "key_provisions_or_claims": [
+   "Biased algorithms such as face recognition, COMPAS and hiring tools show discrimination risks that transfer to robotics.",
+   "Biased perception in autonomous vehicles could unfairly distribute accident risk across groups.",
+   "Interacting biased algorithms in complex robots, and feedback in human-robot interaction, can amplify bias and make it harder to detect.",
+   "Causes include non-diverse training data, historical bias and implicit bias of designers.",
+   "Calls for multidisciplinary approaches, fairness methods, audits and ethics-in-action initiatives."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "doc_id": "D0384",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:16:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.046399800000000005,
+  "in": 2,
+  "out": 1866,
+  "cache_read": 11758,
+  "cache_create": 6640,
+  "api_ms": 9311,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "National Artificial Intelligence Strategy 2024",
+  "title_en": "National Artificial Intelligence Strategy 2024",
+  "language": "en",
+  "authors_or_issuer": "Federal Ministry of Communications, Innovation and Digital Economy (FMCIDE), Nigeria",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Ministry of Communications, Innovation and Digital Economy",
+  "jurisdiction_country": "NG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "NG"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "agriculture_food",
+   "finance",
+   "education",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "education_training",
+   "risk_management_risk_tiers",
+   "privacy_data_protection",
+   "labor_employment",
+   "fairness_bias_discrimination",
+   "transparency_explainability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "audits_impact_assessment",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "NIST AI RMF"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Nigeria's draft National AI Strategy (August 2024) from the Federal Ministry of Communications, Innovation and Digital Economy. It sets a vision of responsible, ethical and inclusive AI leadership, with guiding principles, strategic pillars, an implementation plan, and risk mitigation. It focuses on talent, infrastructure, research and ethics governance. Robotics appears only incidentally.",
+  "key_provisions_or_claims": [
+   "Vision: global leader in harnessing AI through responsible, ethical and inclusive innovation.",
+   "Sets strategic objectives, pillars and an implementation plan with measurable targets.",
+   "Builds talent and AI literacy, including the 3 Million Technical Talent programme.",
+   "Creates governance structures, including an AI Ethics Expert Group and a National Centre for AI and Robotics.",
+   "Includes a risk and mitigation section drawing on the NIST AI RMF."
+  ],
+  "confidence": 0.8
+ }
+}

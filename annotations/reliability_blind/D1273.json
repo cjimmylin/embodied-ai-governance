@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1273",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:44:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0460418,
+  "in": 2,
+  "out": 1795,
+  "cache_read": 11758,
+  "cache_create": 6728,
+  "api_ms": 9129,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Stratégie nationale pour l'intelligence artificielle – 2e phase",
+  "title_en": "National Strategy for Artificial Intelligence – Phase 2",
+  "language": "fr",
+  "authors_or_issuer": "Gouvernement français (Ministère de l'Économie, des Finances et de la Relance; Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation; Secrétariat d'État chargé de la Transition numérique; SGPI)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "France 2030 / Gouvernement français",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "FR"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "education",
+   "research_science"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "trust_acceptance",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "French government's second-phase national AI strategy under France 2030, committing €2.22bn over five years (€1.5bn public), mostly for AI training and talent, plus support for embedded, frugal and trustworthy AI and AI diffusion in the economy. Robotics is mentioned only in passing.",
+  "key_provisions_or_claims": [
+   "€2.22bn total over five years, including €1.5bn public funding and €506M private co-financing",
+   "More than half of public funds go to AI training and talent attraction",
+   "Target of 10–15% of the global embedded AI market by 2025",
+   "Support for trustworthy AI technologies to evaluate, audit and certify algorithms",
+   "Governance via SGPI and a public-private ecosystem partnership led by French Tech"
+  ],
+  "confidence": 0.9
+ }
+}

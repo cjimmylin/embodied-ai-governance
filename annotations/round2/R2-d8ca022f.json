@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-d8ca022f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:45:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06352379999999999,
+  "in": 2,
+  "out": 1844,
+  "cache_read": 11758,
+  "cache_create": 10976,
+  "api_ms": 11832,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Regulation (EU) No 722/2012 concerning particular requirements as regards the requirements laid down in Council Directives 90/385/EEC and 93/42/EEC with respect to active implantable medical devices and medical devices manufactured utilising tissues of animal origin",
+  "title_en": "Commission Regulation (EU) No 722/2012 concerning particular requirements as regards the requirements laid down in Council Directives 90/385/EEC and 93/42/EEC with respect to active implantable medical devices and medical devices manufactured utilising tissues of animal origin",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2012,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 212/3",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Regulation setting particular requirements for active implantable and other medical devices made with animal tissue, to minimise TSE transmission risk. It mandates manufacturer risk analysis, notified-body conformity assessment, and Member State scrutiny. It is unrelated to AI or robotics. It replaced Directive 2003/32/EC.",
+  "key_provisions_or_claims": [
+   "Manufacturers must carry out TSE risk analysis and risk management before conformity assessment.",
+   "Notified bodies must assess benefit versus residual risk and consider alternatives to animal tissue.",
+   "Summary evaluation reports go to other Member States, with 4- or 12-week comment periods.",
+   "Member States must verify notified bodies' expertise.",
+   "Repeals Directive 2003/32/EC from 29 August 2013."
+  ],
+  "confidence": 0.9
+ }
+}

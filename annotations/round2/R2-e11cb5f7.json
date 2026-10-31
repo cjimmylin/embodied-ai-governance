@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-e11cb5f7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:16:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.039947800000000006,
+  "in": 2,
+  "out": 1840,
+  "cache_read": 11758,
+  "cache_create": 5092,
+  "api_ms": 11318,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Executive Order 2018-13: Executive Order Establishing the Autonomous Illinois Initiative",
+  "title_en": "Executive Order 2018-13: Executive Order Establishing the Autonomous Illinois Initiative",
+  "language": "en",
+  "authors_or_issuer": "Governor of Illinois (Bruce Rauner)",
+  "issuer_type": "subnational_government",
+  "pub_year": 2018,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "State of Illinois, Office of the Governor",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "safety_physical_harm",
+   "civil_liability",
+   "labor_employment",
+   "education_training",
+   "privacy_data_protection",
+   "cybersecurity",
+   "human_oversight_control"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "human_oversight_requirement",
+   "insurance_requirement",
+   "technical_standards_reference",
+   "incident_reporting",
+   "education_training_programs",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Illinois Governor's executive order creating the Autonomous Illinois Initiative led by IDOT to promote connected and automated vehicle development, and establishing a voluntary testing program requiring registration, a licensed safety driver, federal safety standard compliance and insurance, with semiannual reporting and suspension authority.",
+  "key_provisions_or_claims": [
+   "IDOT leads Autonomous Illinois initiative coordinating agencies, industry and universities",
+   "Voluntary Autonomous Illinois Testing Program with annual registration/notification to IDOT",
+   "Licensed driver must remain in driver's seat able to take control at all times",
+   "Vehicles must comply with FMVSS/FMCSA rules and carry required insurance",
+   "IDOT may suspend participants for unsafe technology; reports to Governor twice yearly"
+  ],
+  "confidence": 0.93
+ }
+}

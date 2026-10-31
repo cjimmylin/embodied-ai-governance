@@ -1,0 +1,98 @@
+{
+ "doc_id": "D0831",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:28:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.050507800000000005,
+  "in": 2,
+  "out": 1742,
+  "cache_read": 11758,
+  "cache_create": 7977,
+  "api_ms": 8766,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Fan, X.; Salehzadeh, R.; Korivand, S.; Bordbar, F.; Cousin, C.; Griffin, D.J.; et al.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.14254/1795-6889.2024.20-1.2",
+  "embodied_categories": [
+   "security_policing_robots",
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "trust_acceptance",
+   "human_robot_interaction_social_effects",
+   "education_training"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Law enforcement officers show general skepticism and low trust toward communication robots.",
+   "Most officers still see robots as potentially improving communication effectiveness in policing.",
+   "Public education about police robots is needed to increase acceptance.",
+   "Greater robot performance accuracy is needed to address officers' concerns.",
+   "Findings come from open-ended questionnaires (N=37) and focus groups (N=14)."
+  ],
+  "language": "en",
+  "methodology": "empirical_qualitative",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "security_policing_robots",
+  "primary_topic": "trust_acceptance",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2024,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Peer-reviewed study of law enforcement officers' attitudes toward communication robots in police work, using open-ended questionnaires (N=37) and focus groups (N=14). Officers are skeptical and have low trust, though most see communication benefits. It recommends public education and better robot accuracy to improve acceptance.",
+  "title_clean": "Exploring law enforcement officers' expectations and attitudes about communication robots in police work",
+  "title_en": "Exploring law enforcement officers' expectations and attitudes about communication robots in police work",
+  "venue": "Human Technology"
+ }
+}

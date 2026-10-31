@@ -1,0 +1,114 @@
+{
+ "doc_id": "D1509",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:47:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.046023800000000004,
+  "in": 2,
+  "out": 1976,
+  "cache_read": 11758,
+  "cache_create": 6271,
+  "api_ms": 12577,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Gathering Expert Opinions for Social Robots' Ethical, Legal, and Societal Concerns: Findings from Four International Workshops",
+  "title_en": "Gathering Expert Opinions for Social Robots' Ethical, Legal, and Societal Concerns: Findings from Four International Workshops",
+  "language": "en",
+  "authors_or_issuer": "Fosch-Villaronga, E.; Lutz, C.; Tamò-Larrieux, A.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s12369-019-00605-z",
+  "venue": "International Journal of Social Robotics",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "JP",
+   "ES",
+   "GB"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "care_assistive_robots",
+   "educational_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care",
+   "education"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "human_robot_interaction_social_effects",
+   "labor_employment",
+   "civil_liability",
+   "human_dignity_autonomy",
+   "ethics_principles",
+   "cybersecurity",
+   "children_vulnerable_groups"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017",
+   "GDPR",
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "empirical_qualitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Journal article synthesising expert deliberations from four international workshops (2015–2017) on ethical, legal and societal concerns of social robots in therapy and education. It identifies challenges such as privacy, autonomy, dehumanisation, job replacement and responsibility, compiles expert recommendations, and contrasts them with recent EU AI and robot policy.",
+  "key_provisions_or_claims": [
+   "Experts identify privacy and security, autonomy, dehumanisation of interaction and job replacement as key ELS challenges of social robots.",
+   "Uncertainty and responsibility are framed as two meta-challenges.",
+   "Recommends interdisciplinary living labs informing policy, as in Japanese Tokku zones.",
+   "Argues current AI and robot strategies scarcely cover social robot ELS issues.",
+   "Provides definitions of social, healthcare and therapeutic robots to support policymaking."
+  ],
+  "confidence": 0.85
+ }
+}

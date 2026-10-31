@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-174737fc",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0267498,
+  "in": 2,
+  "out": 1699,
+  "cache_read": 11758,
+  "cache_create": 2145,
+  "api_ms": 7903,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/TR 20218-2:2017 Robotics — Safety design for industrial robot systems — Part 2: Manual load/unload stations",
+  "title_en": "ISO/TR 20218-2:2017 Robotics — Safety design for industrial robot systems — Part 2: Manual load/unload stations",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 299 (International Organization for Standardization)",
+  "issuer_type": "standards_body",
+  "pub_year": 2017,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Standards Catalogue",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 10218"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "ISO catalogue page for ISO/TR 20218-2:2017, a technical report supplementing ISO 10218-2 with guidance on safeguarding manual load/unload stations of industrial robot systems, focusing on preventing access to hazard zones and ergonomic workplace design.",
+  "key_provisions_or_claims": [
+   "Applies to robot systems for manual load/unload where hazard zone is safeguarded by preventing access",
+   "Supplements ISO 10218-2:2011 with additional guidance",
+   "Addresses reducing risk of intrusion into hazard zones",
+   "Considers ergonomically suitable workplaces alongside access restrictions"
+  ],
+  "confidence": 0.9
+ }
+}

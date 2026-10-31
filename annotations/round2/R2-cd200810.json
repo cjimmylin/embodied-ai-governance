@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-cd200810",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:30:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0616618,
+  "in": 2,
+  "out": 1893,
+  "cache_read": 11758,
+  "cache_create": 10388,
+  "api_ms": 9959,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院办公厅关于印发新能源汽车产业发展规划（2021—2035年）的通知",
+  "title_en": "Notice of the General Office of the State Council on Issuing the New Energy Vehicle Industry Development Plan (2021–2035)",
+  "language": "zh",
+  "authors_or_issuer": "国务院办公厅 (General Office of the State Council of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中国政府网 (State Council)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "manufacturing",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "safety_physical_harm",
+   "cybersecurity",
+   "standards_interoperability",
+   "sustainability_environment",
+   "civil_liability",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "data_governance_requirements",
+   "international_cooperation",
+   "education_training_programs",
+   "insurance_requirement"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "China's State Council General Office issues the New Energy Vehicle Industry Development Plan 2021–2035, setting goals for electrification, connectivity and intelligence, including commercial deployment of highly automated vehicles by 2025 and scale use by 2035, with support for standards, cybersecurity, data management, safety and liability rules for intelligent connected vehicles.",
+  "key_provisions_or_claims": [
+   "By 2025 highly automated vehicles commercialised in limited areas and scenarios; large-scale application by 2035",
+   "Accelerate road traffic, accident liability and data-use laws suited to intelligent connected vehicles",
+   "Build vehicle cybersecurity management, identity authentication, and data classification systems",
+   "Develop integrated standards system for vehicle OS, V2X, maps and cloud control platforms",
+   "Demonstrations of driverless logistics delivery, sanitation and valet parking in smart cities"
+  ],
+  "confidence": 0.88
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-b2c62399",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:13:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0251058,
+  "in": 2,
+  "out": 1679,
+  "cache_read": 11758,
+  "cache_create": 1784,
+  "api_ms": 8971,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Public Law 117-203: Advanced Air Mobility Coordination and Leadership Act",
+  "title_en": "Public Law 117-203: Advanced Air Mobility Coordination and Leadership Act",
+  "language": "en",
+  "authors_or_issuer": "United States Congress",
+  "issuer_type": "legislature",
+  "pub_year": 2022,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "U.S. Government Publishing Office (govinfo)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "safety_physical_harm",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Cover and legislative-history page for US Public Law 117-203 (S. 516, enacted October 17, 2022), an act to plan and coordinate integration of advanced air mobility aircraft into the national airspace system. Only the slip-law header and legislative history are included, not the operative text.",
+  "key_provisions_or_claims": [
+   "Act to plan and coordinate integration of advanced air mobility aircraft into the national airspace system",
+   "Enacted October 17, 2022 as Public Law 117-203 (136 Stat. 2227)",
+   "Amends 49 U.S.C. 47102",
+   "Passed Senate Mar. 23, House June 2022 (amended), Senate concurred Sept. 21, 2022"
+  ],
+  "confidence": 0.6
+ }
+}

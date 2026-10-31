@@ -1,0 +1,11 @@
+/home/user/embodied-ai-governance-v4/scripts/07c_v4_units_and_tiers.py:37: UserWarning: This pattern is interpreted as a regular expression, and has match groups. To actually get the groups, use str.extract.
+  dev=t.str.contains(r"\b(AWI|PWI|WD|CD|DIS|FDIS|DTS|DTR|PRF)\b",regex=True)&m.doc_type.eq("technical_standard")
+v4 doc-level overrides applied: 157
+instrument_unit among embodied instruments: {'principal': 463, 'catalogue_page': 222, 'amendment': 42, 'stub': 35, 'ancillary': 30, 'dependent': 10, 'incorporation': 6, 'language_copy': 2}
+instrument_unit among binding embodied: {'principal': 164, 'amendment': 31, 'ancillary': 28, 'catalogue_page': 28, 'stub': 25, 'dependent': 7, 'incorporation': 6, 'language_copy': 2}
+embodied instruments: all=810 families=799 ai_explicit=170 autonomy_or_ai=536
+principal embodied instruments: all=505 families=504 ai_explicit=153 autonomy_or_ai=395
+binding embodied: all=291 families=280 ai_explicit=15 autonomy_or_ai=194
+principal binding embodied: all=195 families=194 ai_explicit=15 autonomy_or_ai=140
+                                                                                            family_key  family_size
+2083  decision of the eea joint committee of 28 april annex xiii (transport) to the eea agreement | EU            5

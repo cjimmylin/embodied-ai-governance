@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-d012a8fb",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.032147800000000004,
+  "in": 2,
+  "out": 1894,
+  "cache_read": 11758,
+  "cache_create": 3007,
+  "api_ms": 9908,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Resolución del Presidente de la República aprobando las Resoluciones N° 595-2024 y 663-2024 de DINACIA (autorización a DRONFIES LABS SAS para transporte aéreo de carga con drones)",
+  "title_en": "Presidential Resolution approving DINACIA Resolutions No. 595-2024 and 663-2024 (authorization of DRONFIES LABS SAS for drone cargo air transport)",
+  "language": "es",
+  "authors_or_issuer": "Presidente de la República; Ministerio de Defensa Nacional; Ministerio de Economía y Finanzas; Ministerio de Transporte y Obras Públicas (Uruguay)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "UY",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "UY"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "healthcare",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "Decreto-Ley N° 14.305",
+   "Decreto N° 15/024",
+   "Resolución DINACIA N° 291/014"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Uruguayan presidential resolution (16 April 2026) approving DINACIA Resolutions 595-2024 and 663-2024, which authorize DRONFIES LABS SAS to operate non-regular national cargo air transport with remotely piloted drones delivering medical supplies in urban and rural areas, after a successful feasibility-testing phase.",
+  "key_provisions_or_claims": [
+   "Approves DINACIA Resolution 595-2024 and its amendment 663-2024.",
+   "Authorizes DRONFIES LABS SAS to run drone delivery of medical supplies on predetermined routes.",
+   "Authorization follows a successful technical feasibility trial phase.",
+   "Based on favorable technical reports and Junta Nacional de Aeronáutica Civil recommendation.",
+   "Grounded in Decreto-Ley 14.305 and Decreto 15/024."
+  ],
+  "confidence": 0.9
+ }
+}

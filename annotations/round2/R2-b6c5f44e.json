@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-b6c5f44e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:49:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1887878,
+  "in": 2,
+  "out": 1858,
+  "cache_read": 11758,
+  "cache_create": 42257,
+  "api_ms": 13811,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Delegated Regulation (EU) 2021/1958 of 23 June 2021 supplementing Regulation (EU) 2019/2144 ... intelligent speed assistance systems",
+  "title_en": "Commission Delegated Regulation (EU) 2021/1958 laying down test procedures and technical requirements for type-approval of intelligent speed assistance systems",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 409",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "cybersecurity"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "data_governance_requirements",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "EU delegated regulation setting test procedures and technical requirements for type-approval of intelligent speed assistance (ISA) systems in motor vehicles, applicable from 6 July 2022. It keeps the driver responsible, requires privacy safeguards, updates and real-world reliability testing, and includes a catalogue of national speed-limit signs.",
+  "key_provisions_or_claims": [
+   "ISA systems must include a speed limit information function plus either a warning or speed control function.",
+   "Real-world reliability: correct speed limit for at least 90% of distance, over a 400 km test drive.",
+   "No biometric use and no continuous recording or retention of speeding data.",
+   "Manufacturers must provide map/software updates (free for 7 years) and maintain reliability for 14 years.",
+   "Manufacturers report ISA usage data via approval authorities to the Commission from July 2024."
+  ],
+  "confidence": 0.9
+ }
+}

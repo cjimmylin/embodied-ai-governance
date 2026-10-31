@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0320",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:15:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07094500000000001,
+  "in": 4,
+  "out": 3640,
+  "cache_read": 30235,
+  "cache_create": 8574,
+  "api_ms": 20426,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing"
+  ],
+  "authors_or_issuer": "SafeWork NSW / NSW Government (Centre for WHS, Department of Customer Service)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "AU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [
+   "collaborative_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "education_training_programs",
+   "human_oversight_requirement"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_robot_interaction_social_effects",
+   "risk_management_risk_tiers",
+   "labor_employment",
+   "education_training",
+   "human_dignity_autonomy"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "subnational_government",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "subnational",
+  "key_provisions_or_claims": [
+   "Cobots are not inherently safe; safety depends on end effector, task, workspace and the whole cobot system.",
+   "Identifies physical, psychological and ethical harms (collisions, mental strain, lack of worker agency).",
+   "Defines roles and responsibilities of stakeholders across the cobot lifecycle.",
+   "Five guiding principles for a cobot-safe workplace plus checklists and risk assessment tools.",
+   "Guidance is not exhaustive and does not replace PCBU duties to assess risks."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "ISO 10218",
+   "ISO/TS 15066"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "collaborative_robots",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Introductory document of NSW best-practice guidelines for safe design and implementation of collaborative robots in Australian workplaces. It defines cobots, cobot systems and workplaces, outlines physical, psychological and ethical harms, safety measures and five guiding principles, and introduces the companion flyers, guidance, checklists and risk assessment.",
+  "title_clean": "Guidelines for Safe Collaborative Robot Design and Implementation: Introduction",
+  "title_en": "Guidelines for Safe Collaborative Robot Design and Implementation: Introduction",
+  "venue": "SafeWork NSW"
+ }
+}

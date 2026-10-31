@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-785c9ea7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:18:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.05022080000000001,
+  "in": 4,
+  "out": 3414,
+  "cache_read": 25723,
+  "cache_create": 4076,
+  "api_ms": 16873,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Article 18. Regulation of Fully Autonomous Vehicles (N.C. Gen. Stat. § 20-400 Definitions)",
+  "title_en": "Article 18. Regulation of Fully Autonomous Vehicles (N.C. Gen. Stat. § 20-400 Definitions)",
+  "language": "en",
+  "authors_or_issuer": "North Carolina General Assembly",
+  "issuer_type": "legislature",
+  "pub_year": 2017,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "North Carolina General Statutes",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Definitions section of North Carolina's Article 18 on fully autonomous vehicles (enacted 2017), defining automated driving system, dynamic driving task, fully autonomous vehicle, minimal risk condition, operator, operational design domain and strategic driving functions. Provides the definitional basis for regulating driverless vehicles.",
+  "key_provisions_or_claims": [
+   "Defines fully autonomous vehicle as requiring no occupant performance of any dynamic driving task",
+   "Manual control equipment must be stowed or disabled when ADS engaged",
+   "Defines minimal risk condition as a safe complete stop after ADS failure",
+   "Occupants performing only strategic driving functions are not operators",
+   "Defines operational design domain limits"
+  ],
+  "confidence": 0.85
+ }
+}

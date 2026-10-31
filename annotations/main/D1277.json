@@ -1,0 +1,96 @@
+{
+ "doc_id": "D1277",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:41:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0429238,
+  "in": 2,
+  "out": 1734,
+  "cache_read": 11758,
+  "cache_create": 6101,
+  "api_ms": 9516,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Guidelines for providers and deployers of AI high-risk systems",
+  "title_en": "Guidelines for providers and deployers of AI high-risk systems",
+  "language": "en",
+  "authors_or_issuer": "European Commission, DG CONNECT",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Shaping Europe's digital future (digital-strategy.ec.europa.eu)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission web page presenting draft, non-binding guidelines on classifying AI systems as high-risk under the AI Act, with practical examples. A targeted consultation is open until 23 July 2026. Following the AI Omnibus, rules for products integrated with AI, such as robotics and machinery, apply from 2 August 2028.",
+  "key_provisions_or_claims": [
+   "Draft guidelines clarify classification of high-risk AI systems under the AI Act, with non-exhaustive examples",
+   "Guidelines are not legally binding but reflect the Commission's interpretation and will guide enforcement",
+   "Targeted stakeholder consultation open until 23 July 2026",
+   "Rules for high-risk areas such as biometrics, education and employment apply from 2 December 2027",
+   "Rules for AI integrated in products such as robotics and industrial machinery apply from 2 August 2028"
+  ],
+  "confidence": 0.8
+ }
+}

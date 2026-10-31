@@ -1,0 +1,118 @@
+{
+ "doc_id": "R2-c411aaf8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:58:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0962913,
+  "in": 4,
+  "out": 4243,
+  "cache_read": 34728,
+  "cache_create": 13425,
+  "api_ms": 22836,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "authors_or_issuer": "Australia, Canada, Estonia, Japan, Latvia, Lithuania, Poland, Republic of Korea, United Kingdom, United States (submitted to CCW GGE on LAWS)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "AU",
+   "CA",
+   "EE",
+   "JP",
+   "LV",
+   "LT",
+   "PL",
+   "KR",
+   "GB",
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_proposal_or_draft",
+  "doc_type": "consultation_or_white_paper",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "human_oversight_requirement",
+   "testing_sandboxes",
+   "incident_reporting",
+   "education_training_programs",
+   "international_cooperation",
+   "conformity_assessment_certification"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "civil_liability",
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "education_training",
+   "fairness_bias_discrimination"
+  ],
+  "instrument_status": "draft_or_bill_under_consideration",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Autonomous weapon systems must not be designed to target civilians, cause excessive incidental harm, or act outside commanders' responsibility.",
+   "Development requires rigorous testing, legal reviews and precautions such as limiting targets, duration and scope, self-destruct features, and reducing automation and AI bias.",
+   "Use must comply with distinction, proportionality and precautions in attack, with good-faith, due-diligence reliance on autonomous functions.",
+   "States must ensure accountability via responsible human command and control, incident reporting, investigation, understandable interfaces and training.",
+   "The draft articles clarify existing IHL and create no new legal obligations."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "page_quality": "substantive_document",
+  "pub_month": 8,
+  "pub_year": 2024,
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Working paper submitted by ten states to the CCW Group of Governmental Experts proposing seven draft articles on autonomous weapon systems. They clarify how IHL principles of distinction, proportionality and precautions apply and set design, command and accountability measures. The articles create no new obligations. Annexes reproduce the Guiding Principles and consensus conclusions.",
+  "title_clean": "Draft articles on autonomous weapon systems – prohibitions and other regulatory measures on the basis of international humanitarian law",
+  "title_en": "Draft articles on autonomous weapon systems – prohibitions and other regulatory measures on the basis of international humanitarian law",
+  "venue": "UN CCW Group of Governmental Experts on LAWS (CCW/GGE.1/2024/WP.10)"
+ }
+}

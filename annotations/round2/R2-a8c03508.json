@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-a8c03508",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:43:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0286158,
+  "in": 2,
+  "out": 1740,
+  "cache_read": 11758,
+  "cache_create": 2509,
+  "api_ms": 11803,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Decision of the European Parliament and of the Council of 25 October 2011 on mobilisation of the European Globalisation Adjustment Fund (application EGF/2010/017 DK/Midtjylland Machinery from Denmark) (2011/725/EU)",
+  "title_en": "Decision of the European Parliament and of the Council of 25 October 2011 on mobilisation of the European Globalisation Adjustment Fund (application EGF/2010/017 DK/Midtjylland Machinery from Denmark) (2011/725/EU)",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2011,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 289/31",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "DK",
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU decision mobilising EUR 3,944,606 from the European Globalisation Adjustment Fund to support workers made redundant in six machinery manufacturing firms in Midtjylland, Denmark. It has no AI or robotics content; \"machinery\" refers only to the NACE manufacturing sector.",
+  "key_provisions_or_claims": [
+   "Mobilises EUR 3,944,606 from the EGF for the 2011 EU budget",
+   "Supports workers made redundant in machinery manufacturing in Midtjylland, Denmark",
+   "Application meets Article 10 of Regulation (EC) No 1927/2006",
+   "Decision to be published in the Official Journal"
+  ],
+  "confidence": 0.95
+ }
+}

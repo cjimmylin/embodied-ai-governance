@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-873de2ab",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:36:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0201624,
+  "in": 2,
+  "out": 1833,
+  "cache_read": 18284,
+  "cache_create": 0,
+  "api_ms": 10531,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "education",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Civil Aviation Safety Authority (CASA), Australia",
+  "binding_nature": "legally_binding",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "AU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "education_training_programs",
+   "audits_impact_assessment",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "education_training",
+   "human_oversight_control",
+   "standards_interoperability"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Sets RePL remote pilot training course content, aeronautical knowledge and practical competency standards",
+   "Regulates examinations, instructors (CRI), and flight tests",
+   "Requires certificates of airworthiness for large RPA",
+   "Restricts RPA operations near controlled and non-controlled aerodromes",
+   "Sets conditions for beyond-VLOS (EVLOS) operations, record keeping, identification and foreign-registered RPA"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Australia's Part 101 Manual of Standards 2019 (compilation dated October 2026), made under the Civil Aviation Safety Regulations 1998. Only the table of contents is shown. It sets remote pilot licence training, examinations and flight test standards, large RPA airworthiness certificates, aerodrome airspace limits, beyond-VLOS operations, record keeping and RPA identification.",
+  "title_clean": "Part 101 (Unmanned Aircraft and Rockets) Manual of Standards 2019",
+  "title_en": "Part 101 (Unmanned Aircraft and Rockets) Manual of Standards 2019",
+  "venue": "Federal Register of Legislation (Australia)",
+  "methodology": "not_applicable"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-31fbdf75",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:37:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.30781549999999996,
+  "in": 4,
+  "out": 3620,
+  "cache_read": 88040,
+  "cache_create": 66407,
+  "api_ms": 19589,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "logistics_transport",
+   "agriculture_food"
+  ],
+  "authors_or_issuer": "農林水産省・経済産業省・国土交通省 (MAFF, METI, MLIT)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "mobile_industrial_logistics",
+   "industrial_manipulators"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "technical_standards_reference",
+   "funding_or_incentives"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Sets facility criteria for specific distribution facilities under the Act on Efficiency of Distribution of Goods, including location near highways, ports and rail freight stations.",
+   "Warehouse criteria list automated guided vehicles, automated storage devices and industrial robots for handling as qualifying efficiency equipment.",
+   "Sets application contents and documents for approval of comprehensive efficiency plans and their changes.",
+   "Sets a five-year validity period for facility confirmation.",
+   "Routes applications through regional bureaus or prefectural governors."
+  ],
+  "language": "ja",
+  "named_instruments_referenced": [],
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2005,
+  "page_quality": "substantive_document",
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "summary_en": "Japanese ministerial ordinance implementing the Act on Efficiency of Distribution of Goods. It sets criteria for specific distribution facilities, application procedures for plan approval, and a five-year facility confirmation period. Warehouse criteria list AGVs, automated storage and industrial robots as qualifying equipment; no AI governance content.",
+  "title_clean": "物資の流通の効率化に関する法律施行規則",
+  "title_en": "Ordinance for Enforcement of the Act on Efficiency of Distribution of Goods",
+  "venue": "e-Gov Law Search"
+ }
+}

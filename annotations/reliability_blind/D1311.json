@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1311",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:44:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028193800000000005,
+  "in": 2,
+  "out": 1691,
+  "cache_read": 11758,
+  "cache_create": 2526,
+  "api_ms": 8245,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Hungary's Artificial Intelligence Strategy 2020-2030",
+  "title_en": "Hungary's Artificial Intelligence Strategy 2020-2030",
+  "language": "en",
+  "authors_or_issuer": "Digital Counsellor, Permanent Delegation of Hungary to the OECD (presentation)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "OECD Network of Experts on AI presentation",
+  "jurisdiction_country": "HU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "HU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Slide presentation by Hungary's OECD delegation on Hungary's AI Strategy 2020-2030, showing its alignment with the OECD AI Principles. It covers R&D investment, data economy, SME uptake, education, ecosystem building, transformative programmes (including self-driving vehicles), policy environment and international cooperation.",
+  "key_provisions_or_claims": [
+   "Strategy announced 2020 and claimed aligned with OECD AI Principles",
+   "Promotes AI R&D investment, data economy and SME uptake",
+   "Transformative programmes include autonomous systems and self-driving vehicles",
+   "Establishes AI Coalition stakeholder forum and EDIH network",
+   "Funded by national and European budgets"
+  ],
+  "confidence": 0.85
+ }
+}

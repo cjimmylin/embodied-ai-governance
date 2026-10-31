@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1415",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:44:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0436498,
+  "in": 2,
+  "out": 1923,
+  "cache_read": 11758,
+  "cache_create": 5810,
+  "api_ms": 11030,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing"
+  ],
+  "authors_or_issuer": "López Cañellas, N.; Kerr, A.; Vaughan, B.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.3850/978-981-18-8071-1_P665-cd",
+  "embodied_categories": [
+   "collaborative_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "labor_employment",
+   "human_robot_interaction_social_effects",
+   "human_dignity_autonomy"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "IE",
+  "jurisdiction_scope": "supranational_regional",
+  "language": "en",
+  "methodology": "systematic_or_scoping_review",
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "collaborative_robots",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2023,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Short conference paper presenting a thematic review of 40 Web of Science articles on AI ethics and policy in workplace human-robot collaboration. It finds EU value-sensitive design dominant but criticised as insufficient, and argues regulation needs interdisciplinary approaches, scrutiny of underlying narratives, and worker and union involvement.",
+  "key_provisions_or_claims": [
+   "Thematic review of 40 peer-reviewed articles selected from 2753 Web of Science entries.",
+   "EU policy combines consequentialist risk tiers (AI Act) and virtue-based ethics guidelines.",
+   "Value-sensitive design is dominant but criticised as insufficient to prevent harms.",
+   "Calls for interdisciplinary policymaking and stakeholder exchange, which remain scarce in practice.",
+   "Recommends shifting from automation to augmentation, with trade unions involved in design and decisions."
+  ],
+  "title_clean": "Building Resilient Governance Frameworks for Human-Robot Collaboration: Towards a More Interdisciplinary Understanding of Risk and Ethics in European Regulation",
+  "title_en": "Building Resilient Governance Frameworks for Human-Robot Collaboration: Towards a More Interdisciplinary Understanding of Risk and Ethics in European Regulation",
+  "venue": "Proceedings of the 33rd European Safety and Reliability Conference (ESREL 2023)"
+ }
+}

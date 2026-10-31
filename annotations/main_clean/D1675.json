@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1675",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:06:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0451178,
+  "in": 2,
+  "out": 1689,
+  "cache_read": 11758,
+  "cache_create": 6762,
+  "api_ms": 8704,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Use cases for Autonomous Networks",
+  "title_en": "Use cases for Autonomous Networks",
+  "language": "en",
+  "authors_or_issuer": "ITU-T Focus Group on Autonomous Networks (FG-AN)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "International Telecommunication Union (ITU-T)",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "other",
+   "finance"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "human_oversight_control",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "ITU-T Y.3172",
+   "ITU-T Y.3173",
+   "ITU-T Y.3174",
+   "ITU-T Y.3176",
+   "ITU-T Y.3179"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "ITU-T Focus Group on Autonomous Networks technical specification describing use cases for AI/ML-driven autonomous telecommunication networks, with per-use-case requirements, priorities and actor diagrams. It concerns network software, not robots or physical AI. The filename suggests a robotics report but the content is telecom.",
+  "key_provisions_or_claims": [
+   "Defines autonomous network components such as AN sandbox and knowledge base",
+   "Lists dozens of use cases with critical requirements and priorities",
+   "Builds on ITU-T Y.3172-series ML-in-networks Recommendations",
+   "Covers closed-loop automation, multi-agent network fault handling, and human-in-the-loop"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "doc_id": "D0810",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:30:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0403338,
+  "in": 2,
+  "out": 1569,
+  "cache_read": 11758,
+  "cache_create": 5866,
+  "api_ms": 7950,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "과기정통부, 「인공지능(AI) 윤리기준」마련",
+  "title_en": "Ministry of Science and ICT establishes the \"National Guidelines for AI Ethics\"",
+  "language": "ko",
+  "authors_or_issuer": "과학기술정보통신부 (Ministry of Science and ICT)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 12,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "과학기술정보통신부 (msit.go.kr) 보도자료",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Korean Ministry of Science and ICT press release page announcing the establishment of the national AI ethics guidelines (December 2020). The page body only points to attached HWP/ODT files; the substantive content is not in the excerpt, which is mostly site navigation.",
+  "key_provisions_or_claims": [
+   "Announces creation of national AI ethics guidelines by MSIT",
+   "Substantive text only in attached HWP/ODT files, not shown",
+   "Issued by the AI-based Policy Division"
+  ],
+  "confidence": 0.6
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "doc_id": "D0571",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:22:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.048329800000000006,
+  "in": 2,
+  "out": 1823,
+  "cache_read": 11758,
+  "cache_create": 7230,
+  "api_ms": 10104,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "배달 서비스 등 제공 '실외이동로봇 시대' 열려 [정책인터뷰]",
+  "title_en": "Delivery and other services: The 'Outdoor Mobile Robot Era' Opens [Policy Interview]",
+  "language": "ko",
+  "authors_or_issuer": "KTV 국민방송 (Korea Policy Broadcasting Institute)",
+  "issuer_type": "news_media",
+  "pub_year": 2023,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "KTV 국민방송 (국민리포트)",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "news_article",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots",
+   "professional_service_robots",
+   "security_policing_robots"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "civil_liability",
+   "criminal_liability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "insurance_requirement",
+   "liability_regime",
+   "licensing_registration",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "Korea Intelligent Robots Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "KTV policy interview transcript with a Ministry of Trade, Industry and Energy official explaining Korea's new outdoor mobile robot regime under the Intelligent Robots Act: safety-certified robots are treated as pedestrians, may use sidewalks, and operators must carry mandatory liability insurance.",
+  "key_provisions_or_claims": [
+   "Operational safety-certified outdoor mobile robots are treated as pedestrians under the Road Traffic Act.",
+   "Robots must pass 16 safety tests (speed limit, obstacle avoidance, emergency stop) to get certification.",
+   "Operators must carry mandatory liability insurance.",
+   "Traffic violations by robots incur a 30,000 won fine; operator negligence up to 200,000 won.",
+   "Certified robots must display a certification mark."
+  ],
+  "confidence": 0.9
+ }
+}

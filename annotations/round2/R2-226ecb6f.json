@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-226ecb6f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0262378,
+  "in": 2,
+  "out": 1689,
+  "cache_read": 11758,
+  "cache_create": 2042,
+  "api_ms": 13602,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "JSP 936: Dependable Artificial Intelligence (AI) in defence (part 1: directive)",
+  "title_en": "JSP 936: Dependable Artificial Intelligence (AI) in defence (part 1: directive)",
+  "language": "en",
+  "authors_or_issuer": "UK Ministry of Defence",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_oversight_control",
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "military_use_ihl",
+   "cybersecurity"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "GOV.UK landing page for the UK Ministry of Defence's JSP 936 part 1 directive, the principal policy framework for safe and responsible AI adoption in defence. It sets directives on governance, development and assurance across the AI lifecycle, implementing MOD AI ethical principles with appropriate human oversight.",
+  "key_provisions_or_claims": [
+   "Principal MOD policy framework for safe and responsible AI adoption",
+   "Directives on governance, development and assurance across the AI lifecycle",
+   "Operationalises MOD AI ethical principles",
+   "Requires appropriate level of human oversight",
+   "Guides industry partners on alignment with defence expectations"
+  ],
+  "confidence": 0.75
+ }
+}

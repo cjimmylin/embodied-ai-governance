@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1169",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:48:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1352798,
+  "in": 2,
+  "out": 1812,
+  "cache_read": 11758,
+  "cache_create": 28995,
+  "api_ms": 15337,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Clearview AI Inc v The Information Commissioner [2023] UKFTT 00819 (GRC)",
+  "title_en": "Clearview AI Inc v The Information Commissioner [2023] UKFTT 00819 (GRC)",
+  "language": "en",
+  "authors_or_issuer": "First-tier Tribunal (General Regulatory Chamber), Information Rights",
+  "issuer_type": "court_or_judiciary",
+  "pub_year": 2023,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UK First-tier Tribunal (General Regulatory Chamber)",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "US",
+   "EU"
+  ],
+  "doc_type": "court_decision_or_judicial_notice",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UK First-tier Tribunal decision allowing Clearview AI's appeal against the ICO's enforcement and monetary penalty notices. It held that Clearview's facial-recognition scraping was related to behavioural monitoring under Article 3(2)(b) UK GDPR, but fell outside GDPR material scope because its clients are foreign law-enforcement and national-security bodies, so the ICO lacked jurisdiction.",
+  "key_provisions_or_claims": [
+   "ICO lacked jurisdiction to issue the Enforcement Notice and Monetary Penalty Notice to Clearview.",
+   "Processing was related to clients' monitoring of UK data subjects' behaviour under Article 3(2)(b).",
+   "Article 3(2)(b) can apply where monitoring is done by a third party rather than the controller.",
+   "Clearview is joint controller with clients for search (Activity 2) processing.",
+   "Processing for foreign government law-enforcement and national-security functions is outside material scope (Art 2(2)(a) GDPR; Art 3(2A) UK GDPR)."
+  ],
+  "confidence": 0.93
+ }
+}

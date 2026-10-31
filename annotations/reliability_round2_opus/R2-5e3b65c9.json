@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-5e3b65c9",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:08:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.052475600000000004,
+  "in": 2,
+  "out": 1901,
+  "cache_read": 11758,
+  "cache_create": 1512,
+  "api_ms": 14146,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "京经信发〔2025〕44号（北京市经济和信息化局关于自动驾驶汽车安全评估及道路应用试点相关文件，节选）",
+  "title_en": "Beijing Municipal Bureau of Economy and Information Technology Document Jing Jing Xin Fa [2025] No. 44 (excerpt on autonomous vehicle safety assessment and road application pilots)",
+  "language": "zh",
+  "authors_or_issuer": "北京市经济和信息化局 (Beijing Municipal Bureau of Economy and Information Technology)",
+  "issuer_type": "subnational_government",
+  "pub_year": 2025,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "unknown",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "A fragment of Beijing Municipal Bureau of Economy and Information Technology document [2025] No. 44, dated 24 October 2025. The only clause shown lists one condition: an applicant that passed the safety assessment but did not apply to transport authorities for a road application pilot within one year. This appears to concern autonomous or intelligent connected vehicles.",
+  "key_provisions_or_claims": [
+   "Document number Jing Jing Xin Fa [2025] No. 44, dated 24 October 2025",
+   "Lists, among enumerated conditions, failure to apply to transport authorities for a road application pilot within one year of passing the safety assessment",
+   "Connects safety assessment to a later road application pilot handled by transport authorities"
+  ],
+  "confidence": 0.35
+ }
+}

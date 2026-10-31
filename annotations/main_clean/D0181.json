@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0181",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:46:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0513825,
+  "in": 4,
+  "out": 3251,
+  "cache_read": 26535,
+  "cache_create": 4673,
+  "api_ms": 18260,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "International Labour Organization (ILO)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "VN",
+   "CN"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "education_training",
+   "fairness_bias_discrimination",
+   "transparency_explainability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "AI at work either automates tasks or automates managerial functions (algorithmic management).",
+   "Automation vs augmentation depends on task centrality, integration and management choices.",
+   "Unequal access to AI widens productivity divides between countries and between large and small firms.",
+   "Invisible data-labelling workers, largely in the Global South, need fair labour practices and transparency.",
+   "Skills in machine learning, data science and AI ethics are crucial."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "ILO topic page on artificial intelligence and work. It distinguishes task automation from algorithmic management, discusses automation versus augmentation, AI divides, skills, and the invisible data-labelling workforce, and links to ILO publications. No robotics content or binding governance provisions.",
+  "title_clean": "Artificial intelligence | International Labour Organization",
+  "title_en": "Artificial intelligence | International Labour Organization",
+  "venue": "ilo.org"
+ }
+}

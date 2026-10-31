@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-e70dd913",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0251698,
+  "in": 2,
+  "out": 1653,
+  "cache_read": 11758,
+  "cache_create": 1865,
+  "api_ms": 12957,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Defence Artificial Intelligence Strategy",
+  "title_en": "Defence Artificial Intelligence Strategy",
+  "language": "en",
+  "authors_or_issuer": "UK Ministry of Defence",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "military_use_ihl",
+   "ethics_principles",
+   "trust_acceptance"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "GOV.UK page for the UK Ministry of Defence's Defence AI Strategy (June 2022, 72 pages). The excerpt states a vision for the MOD to be the world's most effective, efficient, trusted and influential defence organisation in AI, stressing safe, reliable, lawful and ethical AI use.",
+  "key_provisions_or_claims": [
+   "Vision: most effective, efficient, trusted and influential Defence AI organisation for its size",
+   "Effective: battle-winning capability and allied collaboration",
+   "Trusted: safety, reliability and lawful, ethical AI use",
+   "Influential: shaping global AI development and leading by example"
+  ],
+  "confidence": 0.7
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0457",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:42:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0832175,
+  "in": 4,
+  "out": 3665,
+  "cache_read": 33135,
+  "cache_create": 11527,
+  "api_ms": 19415,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "General Understanding on AI and Copyright in Japan (Overview)",
+  "title_en": "General Understanding on AI and Copyright in Japan (Overview)",
+  "language": "en",
+  "authors_or_issuer": "Copyright Division, Agency for Cultural Affairs, Japan (Legal Subcommittee, Copyright Subdivision, Cultural Council)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Agency for Cultural Affairs, Japan",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "intellectual_property",
+   "civil_liability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "intellectual_property",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "Japan Copyright Act"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Overview slides of the Japanese Agency for Cultural Affairs' non-binding General Understanding on how the existing Copyright Act applies to generative AI: training-stage exploitation under Article 30-4, infringement at the generation stage, liability of AI businesses, and copyrightability of AI-generated material.",
+  "key_provisions_or_claims": [
+   "Article 30-4 generally permits copyrighted works to be used for AI training for non-enjoyment purposes without permission.",
+   "Article 30-4 does not apply where an enjoyment purpose coexists, such as fine-tuning to reproduce specific works, or where it unreasonably prejudices rights holders.",
+   "Infringement by AI outputs is judged by the usual similarity and dependence criteria.",
+   "AI developers and providers may be liable, depending on measures taken to prevent infringing outputs.",
+   "Purely AI-generated material is not copyrightable, but AI used as a tool with human creative contribution can be, and only natural or legal persons can be authors."
+  ],
+  "confidence": 0.9
+ }
+}

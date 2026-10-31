@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0391",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:17:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0670438,
+  "in": 2,
+  "out": 1788,
+  "cache_read": 11758,
+  "cache_create": 11996,
+  "api_ms": 12560,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare"
+  ],
+  "authors_or_issuer": "Bourzam, R.; Boukharouba, H.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "DZ",
+   "FR",
+   "EG",
+   "JO",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": null,
+  "embodied_categories": [
+   "surgical_medical_robots",
+   "professional_service_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "liability_regime",
+   "insurance_requirement"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "legal_personhood_robot_rights",
+   "consumer_protection",
+   "trust_acceptance"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "DZ",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Current legislation, including the Algerian Civil Code, is insufficient to cover all damages caused by intelligent robots.",
+   "Traditional theories (principal's liability for subordinate, guardianship of things, defective product) fit poorly because robots lack legal personality.",
+   "Modern approaches such as the 'human deputy' and a limited legal personality with an independent patrimony are examined.",
+   "Compensation funds financed by levies on designers and owners are proposed.",
+   "Legislators should settle compensation for robot-caused harm to secure legal certainty."
+  ],
+  "language": "ar",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "professional_service_robots",
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2025,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Algerian law journal article analysing civil liability for harm caused by intelligent robots under the Algerian Civil Code and comparative law. It tests traditional theories and modern approaches (human deputy, legal personality, compensation funds), concluding current legislation is insufficient and new liability bases are needed.",
+  "title_clean": "المسؤولية المدنية عن أخطاء الروبوت",
+  "title_en": "Civil Liability for Robot Errors",
+  "venue": "مجلة الأستاذ الباحث للدراسات القانونية والسياسية"
+ }
+}

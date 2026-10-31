@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0820",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:28:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0457738,
+  "in": 2,
+  "out": 1811,
+  "cache_read": 11758,
+  "cache_create": 6621,
+  "api_ms": 13200,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Grounded Instruction Understanding with Large Language Models: Toward Trustworthy Human-Robot Interaction",
+  "title_en": "Grounded Instruction Understanding with Large Language Models: Toward Trustworthy Human-Robot Interaction",
+  "language": "en",
+  "authors_or_issuer": "Ogbadu, E.; Lukin, S.; Matuszek, C.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": 11,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "AAAI Fall Symposium Series (FSS-25)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "space_or_extreme_environment"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "defense_security",
+   "research_science"
+  ],
+  "governance_topics": [
+   "trust_acceptance",
+   "human_robot_interaction_social_effects",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "trust_acceptance",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Technical symposium paper building SCOUT++ (11,000+ frames aligned with commands and robot actions) and comparing a neural network, text-only GPT-4 and vision-enabled GPT-4 on classifying instructions for disaster-response robots. Finds multimodal GPT-4 less accurate and prone to hallucination, raising trustworthiness concerns in safety-critical HRI. No governance provisions.",
+  "key_provisions_or_claims": [
+   "Introduces SCOUT++, a time-aligned multimodal benchmark extending the SCOUT corpus.",
+   "Text-only GPT-4 outperforms a GloVe-based neural network baseline in instruction classification.",
+   "GPT-4 with vision degrades in accuracy and sometimes gives vague or hallucinated outputs.",
+   "Ambiguous instructions expose trustworthiness limits of foundation models in safety-critical robotics."
+  ],
+  "confidence": 0.85
+ }
+}

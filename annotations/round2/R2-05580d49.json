@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-05580d49",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:47:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0648598,
+  "in": 2,
+  "out": 1768,
+  "cache_read": 11758,
+  "cache_create": 11500,
+  "api_ms": 9443,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2024/2699 laying down detailed procedural rules for the cooperation of the Member State Coordination Group on Health Technology Assessment and the Commission with the European Medicines Agency",
+  "title_en": "Commission Implementing Regulation (EU) 2024/2699 laying down detailed procedural rules for the cooperation of the Member State Coordination Group on Health Technology Assessment and the Commission with the European Medicines Agency",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "data_governance_requirements",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission implementing regulation setting procedural rules for information exchange between the HTA Coordination Group/secretariat and the European Medicines Agency on joint clinical assessments and scientific consultations of medicines and medical devices, including confidentiality, personal data protection and professional secrecy breaches. Not about AI or robotics.",
+  "key_provisions_or_claims": [
+   "EMA must provide annual planning and forecast information on medicines and devices by 30 April.",
+   "Quarterly EMA reporting on medical devices with expert panel opinions.",
+   "Commission is controller for experts' personal data; retention up to 3 years for unselected experts.",
+   "Confidential information must be protected, used only for joint work, and breaches reported.",
+   "Commission may exclude individuals for breaching professional secrecy; applies from 12 January 2025."
+  ],
+  "confidence": 0.95
+ }
+}

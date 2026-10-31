@@ -1,0 +1,101 @@
+{
+ "doc_id": "D0077",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:37:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0390918,
+  "in": 2,
+  "out": 1822,
+  "cache_read": 11758,
+  "cache_create": 4923,
+  "api_ms": 11335,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Projeto de Lei nº 1559/2024 - Altera a Lei nº 9.394/1996 (LDB) para vedar o uso de inteligência artificial como parâmetro de referência e métrica para material pedagógico e avaliação de desempenho escolar",
+  "title_en": "Bill No. 1559/2024 - Amending the National Education Guidelines and Framework Law to prohibit use of artificial intelligence as a reference and metric for teaching materials and school performance assessment",
+  "language": "pt",
+  "authors_or_issuer": "Dep. Professora Luciene Cavalcante, Câmara dos Deputados (Brazil)",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Câmara dos Deputados",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "education_training",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "labor_employment",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "human_oversight_requirement",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Brazilian bill amending the Education Guidelines and Framework Law to ban use of AI-generated content as a reference or metric for public-school teaching materials and for performance assessment. It limits AI to optional teacher-supervised research support and requires the Ministry of Education to ensure secure AI with privacy by design.",
+  "key_provisions_or_claims": [
+   "Bans AI or media-platform content as reference/metric for public-school pedagogical material at all education levels",
+   "Bans AI as a school performance assessment tool",
+   "AI platforms only optional research support requested by teachers, never mandatory",
+   "Teacher supervision of AI outputs to prevent algorithmic discrimination",
+   "Ministry of Education must ensure secure, trustworthy AI with privacy by design"
+  ],
+  "confidence": 0.9
+ }
+}

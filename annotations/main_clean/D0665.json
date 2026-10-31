@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0665",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:56:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.038287800000000004,
+  "in": 2,
+  "out": 1676,
+  "cache_read": 11758,
+  "cache_create": 5087,
+  "api_ms": 9344,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Advisory on Risks associated with Frontier AI Models",
+  "title_en": "Advisory on Risks associated with Frontier AI Models",
+  "language": "en",
+  "authors_or_issuer": "Cyber Security Agency of Singapore",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Cyber Security Agency of Singapore website",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Singapore Cyber Security Agency advisory warning that frontier AI models can cut vulnerability discovery and exploit development from months to hours, and could be misused by threat actors. It recommends organisations patch quickly, use MFA, segment networks, monitor attack paths, enforce least privilege and use AI-powered detection.",
+  "key_provisions_or_claims": [
+   "Frontier AI can compress vulnerability discovery and exploit engineering from months to hours.",
+   "Patch critical and high-severity vulnerabilities on internet-facing systems quickly.",
+   "Enforce MFA, least-privilege access and network segmentation.",
+   "Adopt defence-in-depth, attack path monitoring and anomaly detection.",
+   "Use AI-powered vulnerability detection and maintain asset inventories."
+  ],
+  "confidence": 0.9
+ }
+}

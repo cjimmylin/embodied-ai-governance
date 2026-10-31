@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-08f0c30f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:13:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0373178,
+  "in": 2,
+  "out": 1879,
+  "cache_read": 11758,
+  "cache_create": 4337,
+  "api_ms": 9463,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ASTM F3269-21 Standard Practice for Methods to Safely Bound Behavior of Aircraft Systems Containing Complex Functions Using Run-Time Assurance",
+  "title_en": "ASTM F3269-21 Standard Practice for Methods to Safely Bound Behavior of Aircraft Systems Containing Complex Functions Using Run-Time Assurance",
+  "language": "en",
+  "authors_or_issuer": "ASTM International, Committee F38",
+  "issuer_type": "standards_body",
+  "pub_year": 2021,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": "10.1520/F3269-21",
+  "venue": "ASTM International Book of Standards Vol. 15.09",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "human_oversight_control"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "ASTM F3178",
+   "SAE ARP4754A",
+   "SAE ARP4761",
+   "DO-178",
+   "DO-254"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "ASTM F3269-21 is a voluntary standard practice giving an architectural framework for run-time assurance (RTA), which bounds the behavior of aircraft systems, especially UAS, containing complex or unassured functions such as machine-learning autopilots. It offers an alternative to design-time assurance to ease certification.",
+  "key_provisions_or_claims": [
+   "Defines architecture and components of a run-time assurance system that bounds unassured complex functions.",
+   "Provides an alternative to design-time assurance for functions hard to certify under DO-178/DO-254.",
+   "Three-step process: derive RTA requirements, capture them in the larger system specification, then verify and validate.",
+   "Applies to all sizes and classes of UAS; may apply to manned aircraft and ground systems.",
+   "Appendices include examples such as GCAS, a machine-learning AI autopilot and neural-network adaptive flight control."
+  ],
+  "confidence": 0.85
+ }
+}

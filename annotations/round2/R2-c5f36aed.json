@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-c5f36aed",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029579800000000003,
+  "in": 2,
+  "out": 1770,
+  "cache_read": 11758,
+  "cache_create": 2675,
+  "api_ms": 14615,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Projeto em análise na Câmara regulamenta carros autônomos no Brasil",
+  "title_en": "Bill under review in the Chamber regulates autonomous cars in Brazil",
+  "language": "pt",
+  "authors_or_issuer": "Agência Câmara (Câmara dos Deputados)",
+  "issuer_type": "legislature",
+  "pub_year": 2023,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Agência Câmara de Notícias",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "cybersecurity"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "insurance_requirement",
+   "liability_regime",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "testing_sandboxes",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "News item from the Brazilian Chamber of Deputies' agency on Bill 1317/23, which would regulate autonomous vehicles: mandatory insurance, Contran technical rules, Detran homologation and testing, a licensed driver on board, shared or exclusive liability of manufacturer and owner, and a national accident registry.",
+  "key_provisions_or_claims": [
+   "Mandatory accident insurance with third-party coverage for all autonomous vehicles",
+   "Contran sets technical requirements; Detran homologates vehicles after mandatory national testing",
+   "Licensed driver must be on board; use as ambulance banned",
+   "Liability exclusive or joint between manufacturer and owner depending on negligence",
+   "National registry of autonomous vehicle accidents to be created"
+  ],
+  "confidence": 0.9
+ }
+}

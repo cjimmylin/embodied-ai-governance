@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-93bc4cf8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:55:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.041209800000000005,
+  "in": 2,
+  "out": 1621,
+  "cache_read": 11758,
+  "cache_create": 5955,
+  "api_ms": 11191,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "Department of Health and Social Care (UK Secretary of State); King's Printer of Acts of Parliament",
+  "binding_nature": "legally_binding",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Raises the medical device registration fee from £261 to £300.",
+   "Introduces an annual registration maintenance fee of £300 per device, charged by GMDN category.",
+   "No fee for additional devices in the same registration category.",
+   "Devices cannot be placed on the market unless all fees are paid.",
+   "Applies to Great Britain and Northern Ireland, including custom-made devices; in force 1 April 2026."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 2,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "UK statutory instrument amending the Medical Devices Regulations 2002 and the NI Protocol Regulations 2021 to raise registration fees and introduce an annual registration maintenance fee based on GMDN categories, effective 1 April 2026. It is not about AI or robotics.",
+  "title_clean": "The Medical Devices (Fees Amendment) Regulations 2026",
+  "title_en": "The Medical Devices (Fees Amendment) Regulations 2026",
+  "venue": "legislation.gov.uk",
+  "methodology": "not_applicable"
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "doc_id": "D0980",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:46:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0376378,
+  "in": 2,
+  "out": 1873,
+  "cache_read": 11758,
+  "cache_create": 4432,
+  "api_ms": 9680,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems",
+  "title_en": "Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems",
+  "language": "en",
+  "authors_or_issuer": "Innovation, Science and Economic Development Canada",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Government of Canada (ISED)",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "human_oversight_control",
+   "cybersecurity",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "incident_reporting",
+   "testing_sandboxes",
+   "human_oversight_requirement",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "G7 Data Protection and Privacy Authorities' Statement on Generative AI",
+   "PIPEDA"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Canada's voluntary code of conduct for developers and operators of advanced generative AI systems, setting six outcomes (accountability, safety, fairness, transparency, human oversight, robustness) with concrete measures such as risk assessment, red-teaming, watermarking and incident databases. It does not alter existing legal obligations.",
+  "key_provisions_or_claims": [
+   "Signatories commit voluntarily to six principles: accountability, safety, fairness and equity, transparency, human oversight, validity and robustness",
+   "Implement proportionate risk management frameworks and third-party audits prior to release",
+   "Develop reliable detection of AI-generated content (e.g., watermarking) and label systems that could be mistaken for humans",
+   "Monitor post-deployment and maintain a database of reported incidents",
+   "Perform red-teaming, cybersecurity risk assessment and benchmarking; does not change existing legal obligations such as PIPEDA"
+  ],
+  "confidence": 0.93
+ }
+}

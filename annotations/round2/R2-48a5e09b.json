@@ -1,0 +1,115 @@
+{
+ "doc_id": "R2-48a5e09b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:40:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0682072,
+  "in": 4,
+  "out": 4183,
+  "cache_read": 28002,
+  "cache_create": 6736,
+  "api_ms": 20461,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "工业和信息化部 公安部 住房和城乡建设部 交通运输部关于开展智能网联汽车准入和上路通行试点工作的通知",
+  "title_en": "Notice of the MIIT, Ministry of Public Security, MOHURD and Ministry of Transport on Launching Pilot Work on Market Access and On-Road Passage of Intelligent Connected Vehicles",
+  "language": "zh",
+  "authors_or_issuer": "工业和信息化部; 公安部; 住房和城乡建设部; 交通运输部",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "privacy_data_protection",
+   "civil_liability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "insurance_requirement",
+   "incident_reporting",
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "GB/T 40429-2021 Taxonomy of driving automation for vehicles",
+   "Road Traffic Safety Law of China",
+   "Cybersecurity Law of China",
+   "Data Security Law of China",
+   "Work Safety Law of China",
+   "Provisions on Automobile Data Security Management (Trial)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Chinese four-ministry notice launching a pilot for market access and limited-area on-road operation of Level 3 and Level 4 intelligent connected vehicles. It sets application, testing and safety assessment, access approval, insurance, registration, emergency handling, suspension and exit rules, and allocates safety, cybersecurity and data responsibilities to manufacturers and operators.",
+  "key_provisions_or_claims": [
+   "Pilot covers L3/L4 (GB/T 40429-2021) vehicles by consortia of manufacturers and operators, applying via provincial authorities.",
+   "Manufacturers must complete testing and safety assessment before MIIT grants product access with validity and area limits.",
+   "Operators must insure vehicles, register them and monitor operation; transport operations need operating qualifications.",
+   "Incidents and system failures must be handled under emergency plans and reported up to the four ministries.",
+   "Pilots are suspended or terminated for safety, cybersecurity or data violations; manufacturers bear product quality and software update filing responsibility."
+  ],
+  "confidence": 0.9
+ }
+}

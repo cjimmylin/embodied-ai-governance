@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-803f6478",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0266618,
+  "in": 2,
+  "out": 1699,
+  "cache_read": 11758,
+  "cache_create": 2123,
+  "api_ms": 8914,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/TS 23374-2:2023 Intelligent transport systems — Automated valet parking systems (AVPS) — Part 2: Security integration for type 3 AVP",
+  "title_en": "ISO/TS 23374-2:2023 Intelligent transport systems — Automated valet parking systems (AVPS) — Part 2: Security integration for type 3 AVP",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 204 (International Organization for Standardization)",
+  "issuer_type": "standards_body",
+  "pub_year": 2023,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Online Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "standards_interoperability"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 23374-1"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO store catalogue page for ISO/TS 23374-2:2023, a technical specification on security integration for Type 3 automated valet parking systems. It covers security means and procedures for operation and management interfaces defined in ISO 23374-1. Published August 2023 by ISO/TC 204 and currently under systematic review.",
+  "key_provisions_or_claims": [
+   "Specifies security means and procedures for AVPS Type 3",
+   "Focuses on operation and management interfaces defined in ISO 23374-1",
+   "Published 2023-08 by ISO/TC 204; under systematic review (stage 90.20)"
+  ],
+  "confidence": 0.85
+ }
+}

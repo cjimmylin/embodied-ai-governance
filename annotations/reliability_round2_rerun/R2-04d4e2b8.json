@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-04d4e2b8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:10:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.050537700000000005,
+  "in": 4,
+  "out": 3489,
+  "cache_read": 25607,
+  "cache_create": 3977,
+  "api_ms": 16732,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/AWI 25929 Ships and marine technology — Method to determine minimum safe lookout area for MASS",
+  "title_en": "ISO/AWI 25929 Ships and marine technology — Method to determine minimum safe lookout area for MASS",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 8/SC 26",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "under_development",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_maritime_or_rail"
+  ],
+  "primary_embodied_category": "autonomous_maritime_or_rail",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "human_oversight_control"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO/AWI 25929, a standard under development by ISO/TC 8/SC 26 defining a method to determine the Minimum Safe Lookout Area for maritime autonomous surface ships, supporting verifiable situational awareness and collision avoidance for autonomous navigation systems or remote operating centres.",
+  "key_provisions_or_claims": [
+   "Defines the Minimum Safe Lookout Area (MSLA) around a vessel",
+   "Quantifies conditions under which unattended lookout is possible",
+   "Accounts for ship characteristics and environmental conditions",
+   "Supports requirements for bandwidth and display at remote operating centres",
+   "Project registered 2026-04-13 at preliminary stage 20.00"
+  ],
+  "confidence": 0.85
+ }
+}

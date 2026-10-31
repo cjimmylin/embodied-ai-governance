@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1638",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:51:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.044693800000000006,
+  "in": 2,
+  "out": 1769,
+  "cache_read": 11758,
+  "cache_create": 6456,
+  "api_ms": 9096,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "authors_or_issuer": "Nickelsen, N.C.M.; Simonsen Abildgaard, J.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "DK",
+   "SE"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.1111/1467-9566.13434",
+  "embodied_categories": [
+   "care_assistive_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "human_robot_interaction_social_effects",
+   "industrial_policy_innovation",
+   "human_dignity_autonomy",
+   "labor_employment",
+   "trust_acceptance"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "DK",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Policy, design and care scripts entwine, enabling and preventing use of feeding robots.",
+   "Danish policy promotes self-reliance; designers promote empowerment, but reality is more nuanced.",
+   "Care robots create choice-dependency situations for end-users and care providers.",
+   "Robots offer humble but important choices rather than realising bioethical principles.",
+   "Sustaining feeding robot use is difficult despite large-scale dissemination strategies."
+  ],
+  "language": "en",
+  "methodology": "empirical_qualitative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2022,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Ethnographic study in Denmark and Sweden of the Bestic feeding robot, using script theory to trace how policy strategies (self-reliance), design visions (empowerment) and care practices interact. It finds care robots create choice-dependency situations for users and care providers, making sustained use difficult yet sometimes useful.",
+  "title_clean": "The entwinement of policy, design and care scripts: Providing alternative choice-dependency situations with care robots",
+  "title_en": "The entwinement of policy, design and care scripts: Providing alternative choice-dependency situations with care robots",
+  "venue": "Sociology of Health & Illness"
+ }
+}

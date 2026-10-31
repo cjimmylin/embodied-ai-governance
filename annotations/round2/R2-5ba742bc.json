@@ -1,0 +1,88 @@
+{
+ "doc_id": "R2-5ba742bc",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:43:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026227800000000003,
+  "in": 2,
+  "out": 1494,
+  "cache_read": 11758,
+  "cache_create": 2527,
+  "api_ms": 7652,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "국가법령정보센터 (법제처) 현행법령 페이지",
+  "title_en": "Korea Law Information Center (Ministry of Government Legislation) – Current Statutes Page",
+  "language": "ko",
+  "authors_or_issuer": "법제처 (Ministry of Government Legislation)",
+  "issuer_type": "national_government_executive",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "국가법령정보센터",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Navigation and search interface of Korea's National Law Information Center (Ministry of Government Legislation), showing menus for statutes, administrative rules, and ordinances. The excerpt contains no substantive legal text, and nothing on AI or robotics is visible.",
+  "key_provisions_or_claims": [
+   "Portal page only; no statutory text captured",
+   "Page includes a definition of 'implementing administrative rules'"
+  ],
+  "confidence": 0.4
+ }
+}

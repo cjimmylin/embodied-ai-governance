@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1328",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:42:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.067425,
+  "in": 4,
+  "out": 3599,
+  "cache_read": 29410,
+  "cache_create": 7858,
+  "api_ms": 19637,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "agriculture_food"
+  ],
+  "authors_or_issuer": "Defra (UK Department for Environment, Food and Rural Affairs); co-chairs George Eustice MP and Professor Simon Pearson",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [
+   "agricultural_robots",
+   "industrial_manipulators",
+   "mobile_industrial_logistics"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "labor_employment",
+   "education_training",
+   "standards_interoperability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Identifies six technology clusters, from optimised production systems and packhouse automation to autonomous selective harvesting.",
+   "Autonomous selective harvesting offers high labour savings but is unlikely to be commercially available well before 2030 if left to market forces.",
+   "Many systems sit at TRL 5-6 in the 'valley of death', where capital for development is scarce.",
+   "Barriers include fragmented knowledge sharing, lack of independent business advice, and limited investment capital.",
+   "Recommendations are non-binding and are meant to create an enabling environment for robotics development and adoption."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "agricultural_robots",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Defra-led UK government review, co-chaired by the Secretary of State and Prof. Simon Pearson, on accelerating automation and agri-robotics in horticulture to reduce reliance on seasonal migrant labour. It sets out technology clusters, adoption barriers such as the 'valley of death' and knowledge gaps, and non-binding recommendations to government.",
+  "title_clean": "Automation in horticulture review",
+  "title_en": "Automation in horticulture review",
+  "venue": "GOV.UK"
+ }
+}

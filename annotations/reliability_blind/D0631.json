@@ -1,0 +1,105 @@
+{
+ "doc_id": "D0631",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:40:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0435478,
+  "in": 2,
+  "out": 1758,
+  "cache_read": 11758,
+  "cache_create": 6197,
+  "api_ms": 9084,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Pros and Cons of AI Robot as a Legal Subject",
+  "title_en": "Pros and Cons of AI Robot as a Legal Subject",
+  "language": "en",
+  "authors_or_issuer": "Tarumanagara University authors (TICASH 2019)",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Advances in Social Science, Education and Humanities Research, vol. 439 (TICASH 2019), Atlantis Press",
+  "jurisdiction_country": "ID",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "SA",
+   "JP",
+   "RU",
+   "SG",
+   "US"
+  ],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "civil_liability",
+   "ethics_principles",
+   "human_oversight_control",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Normative legal conference paper examining whether AI robots should be treated as legal objects or legal subjects, prompted by the Facebook chatbot case and Sophia's Saudi citizenship. It argues AI robots occupy a legal grey area and calls for legislators and academics to develop legal and social rules.",
+  "key_provisions_or_claims": [
+   "AI robots with learning ability may act beyond owner control",
+   "Treatment has shifted from goods to pets to possible legal subjects",
+   "Regulation is lagging, leaving AI robots in a legal grey area",
+   "Sophia's citizenship and Shibuya Mirai's residency raise unresolved legal questions",
+   "Lawmakers should collaborate with AI experts to create fair, supportive regulation"
+  ],
+  "confidence": 0.7
+ }
+}

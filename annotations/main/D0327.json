@@ -1,0 +1,105 @@
+{
+ "doc_id": "D0327",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:15:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0440858,
+  "in": 2,
+  "out": 1855,
+  "cache_read": 11758,
+  "cache_create": 6089,
+  "api_ms": 14825,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Privacy First: Designing Responsible and Inclusive Social Robot Applications for in the Wild Studies",
+  "title_en": "Privacy First: Designing Responsible and Inclusive Social Robot Applications for in the Wild Studies",
+  "language": "en",
+  "authors_or_issuer": "Tonkin, M.; Vitale, J.; Herse, S.; Raza, S.A.; Madhisetty, S.; Kang, L.; et al.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2019,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "IEEE conference (RO-MAN 2019 likely); UTS OPUS repository",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "public_administration_justice",
+   "retail_hospitality",
+   "research_science"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "transparency_explainability",
+   "trust_acceptance",
+   "human_robot_interaction_social_effects",
+   "fairness_bias_discrimination",
+   "research_ethics"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 2,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "data_governance_requirements",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Conference paper presenting a privacy-first user registration and login system for a Pepper social robot deployed in a government-run startup centre. Users chose face recognition or a QR code; the QR option increased adoption. It argues for transparent, privacy-compliant, inclusive social robot applications.",
+  "key_provisions_or_claims": [
+   "Social robots in public spaces are effectively surveillance devices, so privacy must be addressed before deployment.",
+   "A registration system gave users control by offering a choice of face recognition or QR code.",
+   "81% of participants registering on the robot chose face identification, significantly above chance.",
+   "The QR code option increased the number of users adopting the technology.",
+   "Applications should be transparent, comply with local privacy law and be inclusive."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-4abb3665",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:09:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0270318,
+  "in": 2,
+  "out": 1678,
+  "cache_read": 11758,
+  "cache_create": 2268,
+  "api_ms": 8729,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 24352:2023 Technical requirements for small unmanned aircraft electric energy systems",
+  "title_en": "ISO 24352:2023 Technical requirements for small unmanned aircraft electric energy systems",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 20/SC 16",
+  "issuer_type": "standards_body",
+  "pub_year": 2023,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 21895"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO 24352:2023, an international standard setting technical requirements and test methods for electric energy systems (batteries) of small unmanned aircraft under 25 kg MTOM, covering UAS levels I–IV per ISO 21895. Published May 2023 by ISO/TC 20/SC 16.",
+  "key_provisions_or_claims": [
+   "Specifies technical requirements and test methods for small UA electric energy systems",
+   "Applies to unmanned aircraft with MTOM below 25 kg",
+   "Covers UAS levels I-IV as graded in ISO 21895:2020",
+   "Addresses secondary lithium batteries and potentially new battery types",
+   "Published May 2023, edition 1, ICS 49.020"
+  ],
+  "confidence": 0.9
+ }
+}

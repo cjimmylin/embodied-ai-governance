@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-722a71ec",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:08:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.10307160000000001,
+  "in": 2,
+  "out": 2072,
+  "cache_read": 11758,
+  "cache_create": 7409,
+  "api_ms": 14992,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Medical Devices (Amendment) Regulations 2008",
+  "title_en": "The Medical Devices (Amendment) Regulations 2008",
+  "language": "en",
+  "authors_or_issuer": "UK Secretary of State for Health",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2008,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "legislation.gov.uk",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "consumer_protection"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "Medical Devices Regulations 2002",
+   "Directive 2007/47/EC",
+   "EU Machinery Directive 2006/42/EC",
+   "Directive 93/42/EEC",
+   "Directive 90/385/EEC",
+   "Directive 89/686/EEC",
+   "Consumer Protection Act 1987",
+   "European Communities Act 1972"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "UK statutory instrument amending the Medical Devices Regulations 2002 to implement Directive 2007/47/EC. It updates definitions, including software in the definition of a medical device, applies machinery safety requirements to devices that are also machines, and revises rules on conformity assessment, clinical investigation notification and authorised representatives. It does not address AI or robotics.",
+  "key_provisions_or_claims": [
+   "Medical device definition expanded to include standalone software intended for diagnosis or therapy",
+   "Devices that are also machinery must meet Machinery Directive 2006/42/EC essential health and safety requirements where more specific",
+   "Manufacturers must notify the Secretary of State of the end of clinical investigations and justify premature termination",
+   "Non-EU manufacturers must designate a single authorised representative",
+   "Patients must be able to obtain the statement for custom-made devices on request"
+  ],
+  "confidence": 0.88
+ }
+}

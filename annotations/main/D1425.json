@@ -1,0 +1,103 @@
+{
+ "doc_id": "D1425",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:45:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.03202580000000001,
+  "in": 2,
+  "out": 1783,
+  "cache_read": 11758,
+  "cache_create": 3254,
+  "api_ms": 9186,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Child sex dolls and robots: exploring the legal challenges",
+  "title_en": "Child sex dolls and robots: exploring the legal challenges",
+  "language": "en",
+  "authors_or_issuer": "Unknown (research/commentary piece)",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2017,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.64628/ab.hhqvk6uxj",
+  "venue": null,
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "JP"
+  ],
+  "doc_type": "editorial_or_commentary",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "unknown",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "sex_robots"
+  ],
+  "primary_embodied_category": "sex_robots",
+  "application_sectors": [
+   "domestic_consumer",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "children_vulnerable_groups",
+   "human_robot_interaction_social_effects",
+   "ethics_principles"
+  ],
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "Customs Consolidation Act 1876",
+   "Coroners and Justice Act 2009"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Short legal commentary on child-like sex dolls and sex robots in England and Wales. It notes the 2017 Chester import prosecution under the 1876 Customs Act, finds possession and creation are not offences, and argues for adapting the Coroners and Justice Act 2009 or creating new offences, plus international action.",
+  "key_provisions_or_claims": [
+   "Import of a child-like sex doll was prosecuted under s.42 Customs Consolidation Act 1876 (Chester, June 2017).",
+   "Possession and creation of child sex dolls and robots are apparently not currently criminal offences.",
+   "No consensus on the 'therapeutic' safety-valve argument; Foundation for Responsible Robotics report questions it.",
+   "Consider extending the Coroners and Justice Act 2009 offence or creating new offences covering dolls and robots.",
+   "International-level action is needed alongside domestic legislation."
+  ],
+  "confidence": 0.6
+ }
+}

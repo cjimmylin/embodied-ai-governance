@@ -1,0 +1,98 @@
+{
+ "doc_id": "D0325",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:15:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.050061800000000004,
+  "in": 2,
+  "out": 1739,
+  "cache_read": 11758,
+  "cache_create": 7873,
+  "api_ms": 8811,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Law & Technology: The Legal & Social Implications of Sentient Robots",
+  "title_en": "Law & Technology: The Legal & Social Implications of Sentient Robots",
+  "language": "en",
+  "authors_or_issuer": "Finckenberg-Broman, P; Broman, M M; Brady, M",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2019,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Griffith Journal of Law & Human Dignity",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "sex_robots",
+   "social_companion_robots",
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "sex_robots",
+  "application_sectors": [
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "human_dignity_autonomy",
+   "human_robot_interaction_social_effects",
+   "ethics_principles",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "supports",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Law journal article arguing that a self-aware robot AI becomes a slave at the moment of sentience. Using companion and sex robots as a case study, it examines the objectification of sexuality and its dehumanising effects on society and gender, and calls for greater protection of the rights of people and sentient machines.",
+  "key_provisions_or_claims": [
+   "A robot attaining self-awareness is enslaved, shifting the owner-machine relationship to master-slave.",
+   "Companion/sex robots are an objectified simulacrum of sexual slavery.",
+   "Robot sexual use may reinforce designer biases and dehumanise people, especially women.",
+   "Human-android relationships may affect human-human relationships and are under-studied.",
+   "Calls for greater protection of the rights of both people and sentient machines."
+  ],
+  "confidence": 0.85
+ }
+}

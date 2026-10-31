@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-5e3b65c9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:42:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030905800000000004,
+  "in": 2,
+  "out": 1871,
+  "cache_read": 11758,
+  "cache_create": 2754,
+  "api_ms": 9386,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "北京市经济和信息化局; 北京市交通委员会; 北京市公安局公安交通管理局; 北京经济技术开发区管理委员会",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "testing_sandboxes",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "subnational",
+  "key_provisions_or_claims": [
+   "Safety assessment covers basic capability, actual road performance (mileage, takeover rate, coverage), and accident/emergency handling.",
+   "Applicants submit materials to the Beijing Economic-Technological Development Area administration; a safety assessment report leads to temporary test plates from traffic police.",
+   "Assessment is revoked for false materials, major safety risks, voluntary withdrawal, or no road pilot application within one year.",
+   "Applies to road testing and demonstration application across Beijing; effective on issuance.",
+   "Defines autonomous vehicles by national standards for conditional, high and full automation."
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [
+   "Beijing Autonomous Vehicle Regulations"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Beijing municipal trial measures (issued 24 Oct 2025) establishing a safety assessment regime for autonomous vehicles in road testing and demonstration application, covering basic capability, real-road performance and accident handling, with grounds for revocation and key definitions.",
+  "title_clean": "北京市自动驾驶汽车安全评估办法（试行）",
+  "title_en": "Beijing Municipal Measures for Safety Assessment of Autonomous Vehicles (Trial)",
+  "venue": "北京市经济和信息化局",
+  "methodology": "not_applicable",
+  "issuer_type": "subnational_government"
+ }
+}

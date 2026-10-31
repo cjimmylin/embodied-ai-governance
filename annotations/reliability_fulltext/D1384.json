@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1384",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:16:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.050901800000000004,
+  "in": 2,
+  "out": 1775,
+  "cache_read": 11758,
+  "cache_create": 7993,
+  "api_ms": 11896,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Berg, J.; Gmyrek, P. (International Labour Organization)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "PK",
+   "KE"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "grey_literature",
+  "doc_type": "industry_or_ngo_report",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "software_agent_called_robot",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "education_training_programs",
+   "funding_or_incentives",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "education_training",
+   "fairness_bias_discrimination",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Generative AI more likely to transform knowledge workers' tasks than eliminate jobs.",
+   "Between 644 and 997 million jobs worldwide are knowledge work (19.6-30.4% of employment).",
+   "Invisible data-labelling workers face precarity and psychosocial risks needing OSH regulation.",
+   "Tripartite social dialogue should guide technology adoption, with social protection and active labour market policies.",
+   "Invest in digital literacy and infrastructure to reduce the digital divide."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2023,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "summary_en": "ILO policy brief (captured via a podcast page) on how ChatGPT and LLMs affect knowledge work. It argues task transformation is likelier than mass job loss, stresses job quality and invisible data-labelling workers, and recommends social dialogue, social protection, adapted labour regulation, and digital literacy and infrastructure investment.",
+  "title_clean": "Automation hits the knowledge worker: ChatGPT and the future of work",
+  "title_en": "Automation hits the knowledge worker: ChatGPT and the future of work",
+  "venue": "ILO Future of Work Podcast / ILO Research Department Policy Brief"
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-864a45f5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.025903799999999998,
+  "in": 2,
+  "out": 1682,
+  "cache_read": 11758,
+  "cache_create": 1976,
+  "api_ms": 9712,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ethics of connected and automated vehicles",
+  "title_en": "Ethics of connected and automated vehicles",
+  "language": "en",
+  "authors_or_issuer": "European Commission, Directorate-General for Research and Innovation",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2020,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": "10.2777/93984",
+  "venue": "EU Publications Office",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "safety_physical_harm",
+   "sustainability_environment"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "EU publications-portal page for the European Commission's 2020 report on the ethics of connected and automated vehicles. It places the report within the CCAM strategy. The page says CAVs could cut road fatalities, improve accessibility and reduce emissions, and that societal, regulatory, environmental and ethical challenges must be addressed. Only the abstract is shown.",
+  "key_provisions_or_claims": [
+   "CAVs could bring road fatalities down to near zero",
+   "CAVs could increase accessibility of mobility services",
+   "CAVs could reduce emissions by making traffic more efficient",
+   "Societal, technical, regulatory, economic, environmental and ethical challenges must be addressed",
+   "Report supports the EU CCAM strategy to make Europe a leader in CAVs"
+  ],
+  "confidence": 0.7
+ }
+}

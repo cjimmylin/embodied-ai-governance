@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-14d1a87f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1632778,
+  "in": 2,
+  "out": 1887,
+  "cache_read": 11758,
+  "cache_create": 35807,
+  "api_ms": 12726,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Staff Working Document Impact Assessment: Proposal for a Regulation establishing the Digital Europe programme for the period 2021-2027",
+  "title_en": "Commission Staff Working Document Impact Assessment: Proposal for a Regulation establishing the Digital Europe programme for the period 2021-2027",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2018,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Commission SWD(2018) 305 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "US",
+   "CN"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "healthcare",
+   "research_science"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Commission impact assessment accompanying the proposal for the Digital Europe programme (2021-2027, EUR 9.194bn). It justifies EU-level investment in high-performance computing, AI, cybersecurity, advanced digital skills and digital deployment, and covers delivery mechanisms, state aid and monitoring. Robotics appears only in passing, as AI testing sites.",
+  "key_provisions_or_claims": [
+   "Proposes a EUR 9.194bn Digital Europe programme for 2021-2027 built on five pillars: HPC, AI, cybersecurity, advanced skills, and deployment/interoperability.",
+   "Argues EU-level action is needed because Member States cannot reach the scale of investment alone, citing the US and China.",
+   "AI pillar funds common data spaces, algorithm libraries and testing sites that include robotics.",
+   "Delivery relies on procurement, grants, financial instruments, the EuroHPC Joint Undertaking and Digital Innovation Hubs.",
+   "Monitoring uses the DESI index and programme-specific indicators, with a mid-term evaluation by 2024 and a final evaluation by 2028."
+  ],
+  "confidence": 0.9
+ }
+}

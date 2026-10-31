@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-bdae7a53",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:45:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0406218,
+  "in": 2,
+  "out": 1855,
+  "cache_read": 11758,
+  "cache_create": 5223,
+  "api_ms": 9458,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO13482 로봇 및 로봇 장치 ― 개인지원로봇 안전 요구사항",
+  "title_en": "ISO 13482 Robots and robotic devices – Safety requirements for personal care robots (Korean National Standard KS)",
+  "language": "ko",
+  "authors_or_issuer": "국가기술표준원 (Korean Agency for Technology and Standards)",
+  "issuer_type": "standards_body",
+  "pub_year": 2014,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "KS 국가표준 (e-나라표준인증)",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "domestic_household_robots",
+   "rehabilitation_exoskeleton_prosthetic",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "domestic_consumer",
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "ISO 13482",
+   "ISO 10218"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Korean Standards catalogue entry for KS ISO 13482, an identical adoption of ISO 13482:2014 on safety requirements for personal care robots (mobile servant, physical assistant, person carrier). Enacted 2014, reconfirmed 2024; lists normative references and history, but shows only metadata, not the full text.",
+  "key_provisions_or_claims": [
+   "Specifies inherent safe design, protective measures and usage information for personal care robots.",
+   "Covers mobile servant, physical assistant and person carrier robots, including physical human-robot contact.",
+   "Limited to ground-based robots.",
+   "Identical (IDT) adoption of ISO 13482:2014, enacted 2014-12-30 and reconfirmed 2024-05-27.",
+   "Cites many machinery safety standards, including ISO 10218, ISO 13849-1 and IEC 60204-1."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0141",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:10:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07905680000000001,
+  "in": 4,
+  "out": 3441,
+  "cache_read": 32758,
+  "cache_create": 11000,
+  "api_ms": 18550,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "UNESCO (Oficina Regional de Montevideo)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "AR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "press_release_or_government_news",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "human_dignity_autonomy"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "language": "es",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2023,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "UNESCO news item reporting that Argentina's Undersecretariat of Information Technologies adopted Disposición 2/23 on 2 June 2023, incorporating UNESCO's Recommendation on the Ethics of AI into national practice. It highlights ethical principles to prevent bias, inequality and rights erosion. No robotics content.",
+  "key_provisions_or_claims": [
+   "Argentina's Disposición 2/23 (2 June 2023) is based on UNESCO's AI ethics Recommendation",
+   "The measure aims to set clear rules so technology benefits all sectors and strengthens innovation",
+   "UNESCO urges ethical principles to counter manipulation, inequality, bias and rights erosion",
+   "The Recommendation was approved by 193 member states in 2021"
+  ],
+  "title_clean": "Argentina implementa normativa en base a la Recomendación sobre la Ética de la Inteligencia Artificial de la UNESCO",
+  "title_en": "Argentina implements regulation based on UNESCO's Recommendation on the Ethics of Artificial Intelligence",
+  "venue": "UNESCO website"
+ }
+}

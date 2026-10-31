@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-ea96dea3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026097800000000004,
+  "in": 2,
+  "out": 1673,
+  "cache_read": 11758,
+  "cache_create": 2047,
+  "api_ms": 10842,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Implementing advanced robotics and AI-based systems for task automation: drivers, barriers and recommendations",
+  "title_en": "Implementing advanced robotics and AI-based systems for task automation: drivers, barriers and recommendations",
+  "language": "en",
+  "authors_or_issuer": "EU-OSHA (European Agency for Safety and Health at Work)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "EU-OSHA website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "collaborative_robots",
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "collaborative_robots",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "labor_employment",
+   "trust_acceptance",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "EU-OSHA publication listing page for a 2023 policy brief on barriers and drivers to implementing cobots and AI-based automation from an occupational safety and health perspective, with links to related case studies and reports. Notes outdated regulations and worker resistance as barriers.",
+  "key_provisions_or_claims": [
+   "Outdated regulations and worker resistance are barriers to cobot adoption for OSH.",
+   "Early action on cross-company communication, worker inclusion and regulatory dialogue aids integration.",
+   "Brief draws on company case studies of advanced robotics and AI automation."
+  ],
+  "confidence": 0.7
+ }
+}

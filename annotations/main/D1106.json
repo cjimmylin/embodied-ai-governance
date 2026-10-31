@@ -1,0 +1,118 @@
+{
+ "doc_id": "D1106",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:36:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045851800000000005,
+  "in": 2,
+  "out": 1988,
+  "cache_read": 11758,
+  "cache_create": 6198,
+  "api_ms": 13815,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Staff Working Document Impact Assessment Report accompanying the Proposal for a Directive on adapting non-contractual civil liability rules to artificial intelligence",
+  "title_en": "Commission Staff Working Document Impact Assessment Report accompanying the Proposal for a Directive on adapting non-contractual civil liability rules to artificial intelligence",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Commission website (SWD(2022) 319 final)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "domestic_household_robots",
+   "educational_robots",
+   "autonomous_road_vehicles",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "domestic_consumer",
+   "logistics_transport",
+   "healthcare",
+   "education"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "risk_management_risk_tiers",
+   "consumer_protection",
+   "transparency_explainability",
+   "trust_acceptance",
+   "fairness_bias_discrimination",
+   "industrial_policy_innovation",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "insurance_requirement",
+   "transparency_disclosure_labelling",
+   "risk_based_tiering",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "EU Product Liability Directive",
+   "EU AI Liability Directive (proposal)",
+   "GDPR",
+   "EU Machinery Regulation"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "European Commission impact assessment accompanying the proposed AI Liability Directive. It defines problems of proof burden, legal uncertainty and fragmentation for AI harm, compares three policy options, and prefers easing the burden of proof with a later review of strict liability and insurance. Examples include robot vacuum cleaners and educational robots.",
+  "key_provisions_or_claims": [
+   "AI opacity, autonomy and complexity make proving fault and causation difficult for victims under national liability rules.",
+   "PO1 eases burden of proof via disclosure of evidence and rebuttable presumptions of causality.",
+   "PO2 adds strict liability for specific-risk AI use cases, possibly with mandatory insurance.",
+   "Preferred option PO3: PO1 now, with targeted review of strict liability and insurance later (staged approach).",
+   "Complements the revised Product Liability Directive and the AI Act; includes vacuum cleaner and educational robot scenarios."
+  ],
+  "confidence": 0.85
+ }
+}

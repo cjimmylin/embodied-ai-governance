@@ -1,0 +1,103 @@
+{
+ "doc_id": "D1337",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8fa172c1ecd5",
+ "annotated_at": "2026-10-30T15:05:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07723,
+  "in": 2,
+  "out": 1735,
+  "cache_read": 0,
+  "cache_create": 14969,
+  "api_ms": 10273,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/PWI 13482 - Robotics - Safety requirements for service robots",
+  "title_en": "ISO/PWI 13482 - Robotics - Safety requirements for service robots",
+  "language": "en",
+  "authors_or_issuer": "British Standards Institution (BSI), committee AMT/10 Robotics; source ISO",
+  "issuer_type": "standards_body",
+  "pub_year": 2021,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "BSI Standards Development portal",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "under_development",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "domestic_household_robots",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "human_robot_interaction_social_effects",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "ISO 13482"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "BSI project page for the ISO preliminary work item to revise ISO 13482, setting safety requirements for personal and professional service robots. It offers type-specific requirements, covers physical human-robot contact and functional safety, and opens a public proposal comment period (Aug–Oct 2021).",
+  "key_provisions_or_claims": [
+   "Specifies safety requirements for personal and professional/commercial service robots",
+   "Considers conditions for physical human-robot contact and functional safety",
+   "Excludes industrial and medical robots",
+   "Revises ISO 13482:2014 with robot-type-specific requirements reflecting certification experience and parts market limits",
+   "Proposal comment period 24/08/2021 to 11/10/2021"
+  ],
+  "confidence": 0.9
+ }
+}

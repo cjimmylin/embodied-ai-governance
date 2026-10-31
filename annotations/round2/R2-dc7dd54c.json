@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-dc7dd54c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:18:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.025607800000000003,
+  "in": 2,
+  "out": 1606,
+  "cache_read": 11758,
+  "cache_create": 2092,
+  "api_ms": 10032,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "North Dakota Century Code Chapter 39-01: Motor Vehicles – General Provisions (table of contents)",
+  "title_en": "North Dakota Century Code Chapter 39-01: Motor Vehicles – General Provisions (table of contents)",
+  "language": "en",
+  "authors_or_issuer": "North Dakota Legislative Branch",
+  "issuer_type": "subnational_government",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "North Dakota Century Code",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Table of contents for Chapter 39-01 of the North Dakota Century Code, covering general motor vehicle provisions: state vehicle markings and use, insurance, nonresident motorist service of process, mobility-impaired parking, dealer bonds and rest-area vending permits. No AI or robotics content.",
+  "key_provisions_or_claims": [
+   "State-owned vehicles must display the state's name, with exceptions",
+   "State vehicles may not be used for private or political purposes",
+   "State and political subdivisions may carry vehicle insurance with limited immunity waiver",
+   "Service of process rules for nonresident motor vehicle users",
+   "Parking privileges for mobility-impaired persons"
+  ],
+  "confidence": 0.8
+ }
+}

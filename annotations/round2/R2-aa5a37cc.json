@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-aa5a37cc",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:56:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0570118,
+  "in": 2,
+  "out": 1732,
+  "cache_read": 11758,
+  "cache_create": 9628,
+  "api_ms": 11194,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "Department of Health and Social Care (UK Secretary of State); King's Printer of Acts of Parliament",
+  "binding_nature": "legally_binding",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "funding_or_incentives"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Raises most medical device regulatory fees by roughly 9-16%, with clinical investigation fees rising more.",
+   "Introduces an optional hourly-fee regulatory advice meeting service (£987/hour) and omits pre-consultation meeting fees.",
+   "Lets small companies pay clinical investigation fees in two instalments (50% up front, 50% within six months).",
+   "Amends Medical Devices Regulations 2002, Blood Safety and Quality Regulations 2005, and NI Protocol Regulations 2021."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "UK statutory instrument (SI 2025/749) amending medical device, blood safety and Northern Ireland Protocol regulations to raise MHRA fees for device registration, notified/approved body designation and clinical investigations, add a paid regulatory advice service, and allow small companies to pay in instalments. No AI or robotics content.",
+  "title_clean": "The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025",
+  "title_en": "The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025",
+  "venue": "legislation.gov.uk",
+  "methodology": "not_applicable"
+ }
+}

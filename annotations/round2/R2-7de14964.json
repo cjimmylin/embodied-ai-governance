@@ -1,0 +1,116 @@
+{
+ "doc_id": "R2-7de14964",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.048597800000000003,
+  "in": 2,
+  "out": 1997,
+  "cache_read": 11758,
+  "cache_create": 6862,
+  "api_ms": 12292,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Transport Canada",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "CA",
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "incident_reporting",
+   "international_cooperation",
+   "audits_impact_assessment",
+   "self_regulation_codes"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Federal, provincial/territorial and municipal governments share responsibility for CAV road safety.",
+   "Motor Vehicle Safety Act requires imported and sold vehicles to comply with Motor Vehicle Safety Regulations; 2018 update added flexibility and enforcement powers.",
+   "Section 9 allows exemptions from safety standards for new technologies; temporary import allowed for testing.",
+   "Voluntary tools: Safety Assessment for ADS, Vehicle Cyber Security Guidance, VCAT, testing guidelines 2.0.",
+   "Manufacturers must notify Transport Canada of defects; Transport Canada works with ISO, UNECE WP.29 and US DOT."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Canada Motor Vehicle Safety Act",
+   "Canada Motor Vehicle Safety Regulations",
+   "Canadian Environmental Protection Act, 1999",
+   "On-Road Vehicle and Engine Emission Regulations",
+   "National Policy Framework on Connected and Automated Vehicles",
+   "Canada's Safety Framework for Connected and Automated Vehicles 2.0",
+   "Canada Vehicle Cyber Security Guidance"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Transport Canada web page explaining how federal, provincial/territorial and municipal governments share responsibility for connected and automated vehicle safety. It lists voluntary frameworks and guidance (cyber security, safety assessment, testing guidelines) and explains exemptions and temporary import rules for testing non-compliant vehicles.",
+  "title_clean": "Connected and automated vehicle safety: what you need to know",
+  "title_en": "Connected and automated vehicle safety: what you need to know",
+  "venue": "Transport Canada (canada.ca)"
+ }
+}

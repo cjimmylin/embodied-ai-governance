@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-1ccf0ac2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:06:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.035007800000000006,
+  "in": 2,
+  "out": 1846,
+  "cache_read": 11758,
+  "cache_create": 3842,
+  "api_ms": 9679,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "自動運転の実証実験に係る基準緩和認定制度(遠隔型自動運転・歩行型ロボット等)申請ガイド",
+  "title_en": "Standards Relaxation Certification System for Automated Driving Demonstration Tests (Remote-type Automated Driving, Walking-type Robots, etc.) – Application Guide",
+  "language": "ja",
+  "authors_or_issuer": "Ministry of Land, Infrastructure, Transport and Tourism (MLIT), Japan",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "MLIT",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "human_oversight_control"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "MLIT application guide for Japan's standards-relaxation certification system for automated driving demonstration tests, covering remote-type automated driving and walking-type delivery robots treated as Class 1 motorized bicycles. It explains application documents, safety-standard compliance, alternative safety measures, and regional contact offices.",
+  "key_provisions_or_claims": [
+   "Since Feb 2017, demonstration vehicles may be exempted from safety standards other than emissions/noise if alternative safety measures are taken.",
+   "April 2020: relaxation system extended to motorized bicycles for automated driving trials.",
+   "Walking-type robots at 6 km/h or below are treated as Class 1 motorized bicycles.",
+   "Applicants must submit forms, safety-standard conformity review results and alternative safety measures.",
+   "Regional transport bureaus provide consultation."
+  ],
+  "confidence": 0.7
+ }
+}

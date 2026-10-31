@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0954",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:00:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0503582,
+  "in": 4,
+  "out": 3382,
+  "cache_read": 25887,
+  "cache_create": 4154,
+  "api_ms": 23303,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Accountability Policy Request for Comment",
+  "title_en": "AI Accountability Policy Request for Comment",
+  "language": "en",
+  "authors_or_issuer": "National Telecommunications and Information Administration (NTIA)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2023,
+  "pub_month": 4,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "NTIA website (ntia.gov)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "consultation_open",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "trust_acceptance",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "trust_acceptance",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "conformity_assessment_certification",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "NTIA web page announcing its 2023 Request for Comment on AI accountability policy, seeking input on audits, assessments and certifications to create earned trust in AI systems, including data access and sector-specific approaches. Comments were due June 12, 2023.",
+  "key_provisions_or_claims": [
+   "NTIA seeks input on policies supporting AI audits, assessments and certifications",
+   "Analogy drawn between financial audits and AI system assurance",
+   "Questions cover data access needed for audits and incentives for credible assurance",
+   "Sector-specific approaches (employment, health care) considered",
+   "Comments due June 12, 2023 via regulations.gov"
+  ],
+  "confidence": 0.85
+ }
+}

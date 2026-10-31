@@ -1,0 +1,102 @@
+{
+ "doc_id": "D1196",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:15:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0637858,
+  "in": 2,
+  "out": 1753,
+  "cache_read": 11758,
+  "cache_create": 11269,
+  "api_ms": 12543,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Ministerstwo Cyfryzacji (Ministry of Digital Affairs, Poland)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "PL",
+   "EU"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "risk_based_tiering",
+   "international_cooperation",
+   "funding_or_incentives"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "transparency_explainability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "PL",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Consultation on draft Polish AI systems act drew 2000+ comments from 110 entities.",
+   "Accepted changes include simplified supervision, role of the Commission and Social Council on AI, and AI Factories funding.",
+   "Pre-consultations favoured a new market surveillance authority; stakeholders split on the notifying authority.",
+   "AI Act phased application: bans Feb 2025, GPAI/governance Aug 2025, high-risk Aug 2026/2027.",
+   "Revised draft to be published on the Government Legislation Centre site."
+  ],
+  "language": "pl",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Polish Ministry of Digital Affairs web page compiling news on implementing the EU AI Act in Poland: the end of consultations on the draft AI systems act (2000+ comments), earlier pre-consultation results on supervisory and notifying authorities, and the AI Act's phased timeline.",
+  "title_clean": "Wdrożenie Aktu o AI",
+  "title_en": "Implementation of the AI Act",
+  "venue": "Gov.pl – Ministerstwo Cyfryzacji"
+ }
+}

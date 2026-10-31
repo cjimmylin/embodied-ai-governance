@@ -1,0 +1,94 @@
+{
+ "doc_id": "D0545",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:21:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1108798,
+  "in": 2,
+  "out": 1794,
+  "cache_read": 11758,
+  "cache_create": 22940,
+  "api_ms": 14462,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "JUDGE-ROBOT AS OVERCOMING CONTRADICTIONS OF JUDICIAL DISCRETION (LEGAL ASPECTS)",
+  "title_en": "Judge-Robot as Overcoming Contradictions of Judicial Discretion (Legal Aspects)",
+  "language": "en",
+  "authors_or_issuer": "Kovalenko, K.E.; Pechatnova, Yu.V.; Statsenko, D.A.; Kovalenko, N.E.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": "10.21779/2224-0241-2020-36-4-169-173",
+  "venue": "Yuridicheskii Vestnik DGU",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "RU"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "software_agent_called_robot",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "fairness_bias_discrimination",
+   "human_dignity_autonomy",
+   "legal_personhood_robot_rights"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Russian journal article assessing the prospects of a \"robot judge\" in Russia's judicial system, analysing judicial discretion in criminal procedure and its negative effects. It concludes that digitalisation is positive, but replacing judges with robots is undesirable because it eliminates judicial discretion and conscience. The \"robot\" is software, not physical.",
+  "key_provisions_or_claims": [
+   "Judicial discretion in the Russian Criminal Procedure Code is abstract and can produce inconsistent decisions.",
+   "Digital technologies (AI, blockchain, automated standard rulings) could reduce judicial workload and discretion-related errors.",
+   "Human judges should use digital tools as legal assistants rather than be replaced.",
+   "Replacing judges with robots would exclude judicial discretion and conscience."
+  ],
+  "confidence": 0.85
+ }
+}

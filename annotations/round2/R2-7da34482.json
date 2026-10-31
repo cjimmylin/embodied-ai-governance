@@ -1,0 +1,114 @@
+{
+ "doc_id": "R2-7da34482",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1461198,
+  "in": 2,
+  "out": 1986,
+  "cache_read": 11758,
+  "cache_create": 31270,
+  "api_ms": 12010,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Remotely Piloted Aircraft (RPA) Operations, Design Specification, Maintenance and Training of Human Resources for Operations in Nigerian Airspace",
+  "title_en": "Remotely Piloted Aircraft (RPA) Operations, Design Specification, Maintenance and Training of Human Resources for Operations in Nigerian Airspace",
+  "language": "en",
+  "authors_or_issuer": "Nigeria Civil Aviation Authority (NCAA)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2023,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Nigeria Civil Aviation Authority Advisory Circular NCAA-AC-AWS061",
+  "jurisdiction_country": "NG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "NG"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "education_training",
+   "civil_liability",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "cybersecurity"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "insurance_requirement",
+   "incident_reporting",
+   "human_oversight_requirement",
+   "education_training_programs",
+   "audits_impact_assessment",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "Nigeria Civil Aviation Act 2006",
+   "Nig. CARs 2015"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Nigerian Civil Aviation Authority advisory circular (April 2023) guiding operation, design, certification, maintenance and pilot training for remotely piloted aircraft, with operator certificate (ROC) procedures, mandatory third-party insurance, incident reporting and enforcement. It requires RPA safety equivalent to manned aircraft.",
+  "key_provisions_or_claims": [
+   "RPA operations must pose no greater risk than manned aircraft; non-certificated RPAs barred from controlled airspace.",
+   "RPA Operators Certificate required for all commercial and government civil operations, with ONSA security clearance and 2-year validity.",
+   "Design guidance: fail-safe flight termination/autonomous recovery, redundancy, data-link loss procedures.",
+   "Mandatory third-party insurance and accident/incident reporting within 72 hours.",
+   "Weight classes (micro, small, medium, large) set approval requirements; remote pilot training and examination required."
+  ],
+  "confidence": 0.9
+ }
+}

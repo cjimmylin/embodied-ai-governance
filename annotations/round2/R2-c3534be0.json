@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-c3534be0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0527698,
+  "in": 2,
+  "out": 1715,
+  "cache_read": 11758,
+  "cache_create": 8610,
+  "api_ms": 9283,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Committee of the Regions – Recommendations for the next Framework Programme for Research and Innovation (FP10)",
+  "title_en": "Opinion of the European Committee of the Regions – Recommendations for the next Framework Programme for Research and Innovation (FP10)",
+  "language": "en",
+  "authors_or_issuer": "European Committee of the Regions",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (C series)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "sustainability_environment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Opinion of the EU Committee of the Regions with policy recommendations for FP10, the next EU research and innovation framework programme. It stresses a place-based approach, smart specialisation, regional involvement in partnerships and missions, widening participation, and a protected budget. AI is mentioned only briefly.",
+  "key_provisions_or_claims": [
+   "Place-based approach should guide FP10 strategic programming",
+   "Cities and regions should be involved in FP governance, partnerships and missions",
+   "Link FP10 with smart specialisation and cohesion policy through multi-fund programming",
+   "Ringfence the FP budget in line with the Barcelona 3% GDP objective",
+   "AI should operate under ethical guidelines and a robust regulatory framework"
+  ],
+  "confidence": 0.9
+ }
+}

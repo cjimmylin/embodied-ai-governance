@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-c8c6ae79",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:53:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.09384200000000001,
+  "in": 4,
+  "out": 3591,
+  "cache_read": 35955,
+  "cache_create": 14268,
+  "api_ms": 19215,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Council of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "binding_nature": "legally_binding",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "technical_standards_reference",
+   "liability_regime",
+   "transparency_disclosure_labelling",
+   "incident_reporting",
+   "oversight_body_creation",
+   "prohibitions_bans",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "consumer_protection",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "children_vulnerable_groups"
+  ],
+  "instrument_status": "superseded_or_repealed",
+  "is_governance_document": true,
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Producers must place only safe products on the market (general safety requirement).",
+   "Safety is assessed against national law, European standards, codes of good practice and state of the art.",
+   "Member States must designate authorities empowered to ban, withdraw and recall dangerous products.",
+   "Rapid exchange of information system (RAPEX) for serious and immediate risks, with Commission-level emergency decisions.",
+   "Without prejudice to Directive 85/374/EEC on product liability; measures must be challengeable in court."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "EU Product Liability Directive"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 1992,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Council Directive 92/59/EEC established a horizontal general safety requirement for consumer products in the EU, obliging producers and distributors to market only safe products, empowering national authorities to withdraw dangerous goods, and creating a rapid information exchange system and Commission emergency measures. Later replaced by Directive 2001/95/EC.",
+  "title_clean": "Council Directive 92/59/EEC of 29 June 1992 on general product safety",
+  "title_en": "Council Directive 92/59/EEC of 29 June 1992 on general product safety",
+  "venue": "Official Journal of the European Communities L 228",
+  "methodology": "not_applicable"
+ }
+}

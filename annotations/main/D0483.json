@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0483",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0476678,
+  "in": 2,
+  "out": 1888,
+  "cache_read": 11758,
+  "cache_create": 6902,
+  "api_ms": 9583,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Evolving Skill Modules under a Fixed Planner: Versioning, Rollback, and Runtime Governance for Long-Lived Robot Systems",
+  "title_en": "Evolving Skill Modules under a Fixed Planner: Versioning, Rollback, and Runtime Governance for Long-Lived Robot Systems",
+  "language": "en",
+  "authors_or_issuer": "Qin, X.; Luan, S.; Yang, C.; Li, Z.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "arXiv (preprint submitted to Journal of Systems and Software)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "other"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Robotics software-engineering preprint on versioning, promotion gating, rollback and a runtime action shield for continually retrained robot skill modules, tested on six robosuite tasks. It reports negative results (unstable seeds, modules were whole-task policies, shield blocked all success) and that a promotion gate rejected all injected regressions.",
+  "key_provisions_or_claims": [
+   "Peak task success varies widely across seeds (23.3 to 73.3%), so single-run peaks cannot rank methods.",
+   "The four 'modules' were whole-task policies rotated on a clock, not a phase decomposition; retention was 0.734 versus 0.023 for the rotation.",
+   "The runtime shield cut violations 98-100% on five tasks but left success at zero, because its acceptance criterion omitted task completions.",
+   "A promotion gate rejected all twelve injected regressions, at a 22.5% cost in rejected clean candidates.",
+   "A dip detector with rollback caught nine of twelve regressions and missed all three on one seed."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-95eadaba",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:19:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0280718,
+  "in": 2,
+  "out": 1780,
+  "cache_read": 11758,
+  "cache_create": 2273,
+  "api_ms": 8859,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "§ 46.2-908.1:1. Personal delivery devices",
+  "title_en": "§ 46.2-908.1:1. Personal delivery devices",
+  "language": "en",
+  "authors_or_issuer": "Virginia General Assembly (Code of Virginia)",
+  "issuer_type": "legislature",
+  "pub_year": 2020,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Code of Virginia (Virginia Law Information System)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "criminal_liability",
+   "human_robot_interaction_social_effects",
+   "consumer_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "insurance_requirement",
+   "liability_regime",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "Hazardous Materials Transportation Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Virginia statute authorizing personal delivery devices on sidewalks, crosswalks and low-speed roadways, setting operating requirements (10 mph limit, identification, brakes), pedestrian rights, hazardous materials compliance, $100,000 liability insurance, and criminal liability for misuse.",
+  "key_provisions_or_claims": [
+   "Devices may operate on sidewalks, crosswalks, and roads with speed limit of 25 mph or less; localities cannot prohibit them.",
+   "Devices must obey traffic signals, not block rights-of-way, stay under 10 mph on sidewalks, carry unique ID and operator identification, and have brakes.",
+   "Devices on sidewalks have pedestrian rights and responsibilities.",
+   "Operators must carry at least $100,000 general liability insurance.",
+   "Persons using devices for criminal activity are criminally liable."
+  ],
+  "confidence": 0.9
+ }
+}

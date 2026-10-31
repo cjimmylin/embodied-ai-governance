@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-67d77a8a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:01:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.053888500000000006,
+  "in": 4,
+  "out": 3584,
+  "cache_read": 26145,
+  "cache_create": 4593,
+  "api_ms": 17796,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Safe use of Automated Lane Keeping System on GB motorways: call for evidence",
+  "title_en": "Safe use of Automated Lane Keeping System on GB motorways: call for evidence",
+  "language": "en",
+  "authors_or_issuer": "Centre for Connected and Autonomous Vehicles (UK)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "human_oversight_control",
+   "consumer_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "liability_regime",
+   "education_training_programs",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "Automated and Electric Vehicles Act 2018"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "UK Centre for Connected and Autonomous Vehicles call for evidence (Aug–Oct 2020) on safe use of Automated Lane Keeping Systems on GB motorways, including whether ALKS meets the Automated and Electric Vehicles Act 2018 definition and driver responsibility. Outcome released April 2021 with next steps on insurer data sharing, driver understanding and Highway Code changes.",
+  "key_provisions_or_claims": [
+   "Seeks views on whether ALKS meets the AEV Act 2018 definition of automation",
+   "Asks about fair delegation and residual driver responsibility",
+   "Examines performance of other activities in conditionally automated vehicles",
+   "Next steps: data sharing agreement between insurers and manufacturers",
+   "Next steps: consult on Highway Code changes and driver understanding"
+  ],
+  "confidence": 0.85
+ }
+}

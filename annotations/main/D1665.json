@@ -1,0 +1,102 @@
+{
+ "doc_id": "D1665",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:52:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0687759,
+  "in": 4,
+  "out": 3483,
+  "cache_read": 30059,
+  "cache_create": 8447,
+  "api_ms": 19557,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Which Liability Laws for Robots?",
+  "title_en": "Which Liability Laws for Robots?",
+  "language": "en",
+  "authors_or_issuer": "Langlais, É.; Li, N.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.3917/reco.761.0013",
+  "venue": "Revue économique",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "US"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "EU Product Liability Directive",
+   "EU AI Liability Directive (proposal)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Economic theory paper modelling how combinations of product liability and tort law (strict liability vs negligence) affect a monopolist's R&D investment in AI robot autonomy and output, with autonomous and human-driven modes. Finds all regimes give efficient care but distort output and autonomy by market size; extensive strict liability never dominates.",
+  "key_provisions_or_claims": [
+   "Any combination of product liability and tort law yields first-best care and maintenance efforts when autonomous mode is limited to the ODD.",
+   "Monopoly output and autonomy levels are suboptimal, with regime-specific distortions.",
+   "Ranking of liability regimes depends on market size.",
+   "Extensive use of strict liability never dominates.",
+   "Liability design should be adapted to the stage of robot technology development."
+  ],
+  "confidence": 0.85
+ }
+}

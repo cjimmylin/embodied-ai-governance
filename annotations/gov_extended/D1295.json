@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1295",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:50:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1977798,
+  "in": 2,
+  "out": 1720,
+  "cache_read": 11758,
+  "cache_create": 44850,
+  "api_ms": 14664,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "España Digital 2025",
+  "title_en": "Digital Spain 2025",
+  "language": "es",
+  "authors_or_issuer": "Gobierno de España (Ministerio de Asuntos Económicos y Transformación Digital)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 7,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Gobierno de España",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ES",
+   "EU"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "education_training",
+   "privacy_data_protection",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Spain's 2020 national digital agenda with ten strategic axes (connectivity, 5G, digital skills, cybersecurity, public sector, SMEs, sectoral projects, investment, data economy and AI, digital rights) and about 50 measures. AI appears as an enabler and in a national digital rights charter; no robotics-specific provisions.",
+  "key_provisions_or_claims": [
+   "Ten strategic axes with 2025 targets, e.g. 100% of the population with 100 Mbps coverage.",
+   "About 50 measures mobilising roughly 70 billion euros of public and private investment in 2020-2022.",
+   "Target of 25% of companies using AI and Big Data by 2025.",
+   "Plans a national charter on digital rights.",
+   "Creates a Consultative Council for Digital Transformation and uses the AI Advisory Council."
+  ],
+  "confidence": 0.85
+ }
+}

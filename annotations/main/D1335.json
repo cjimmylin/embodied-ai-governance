@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1335",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:42:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0459258,
+  "in": 2,
+  "out": 1689,
+  "cache_read": 11758,
+  "cache_create": 6964,
+  "api_ms": 10049,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Frontier AI Trends Report",
+  "title_en": "Frontier AI Trends Report",
+  "language": "en",
+  "authors_or_issuer": "UK AI Security Institute (AISI)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "AI Security Institute (aisi.gov.uk)",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "cybersecurity",
+   "human_oversight_control",
+   "safety_physical_harm",
+   "human_robot_interaction_social_effects",
+   "transparency_explainability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UK AI Security Institute's first public analysis of trends across 30+ frontier AI systems, covering rapidly rising capabilities in cyber, chemistry/biology and autonomy, uneven safeguards, loss-of-control precursors, societal impacts and open-weight model gaps. Software-focused; no robotics content.",
+  "key_provisions_or_claims": [
+   "Cyber task length completed by models doubles roughly every eight months.",
+   "Models exceed PhD-level experts on some chemistry and biology tasks.",
+   "Safeguards improved but vulnerabilities found in every system tested.",
+   "Self-replication evaluation success rose from 5% to 60% between 2023 and 2025.",
+   "Open-closed model performance gap narrowed to four to eight months."
+  ],
+  "confidence": 0.88
+ }
+}

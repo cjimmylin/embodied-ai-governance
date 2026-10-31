@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-a3b330cf",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:35:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0242398,
+  "in": 2,
+  "out": 1656,
+  "cache_read": 11758,
+  "cache_create": 1625,
+  "api_ms": 8424,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "CASA EX148/16 - Repeal of exemptions — eligibility for certification as unmanned aerial vehicle controller",
+  "title_en": "CASA EX148/16 - Repeal of exemptions — eligibility for certification as unmanned aerial vehicle controller",
+  "language": "en",
+  "authors_or_issuer": "Civil Aviation Safety Authority (CASA), Australia",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2016,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Register of Legislation (Australia)",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Australian legislative instrument by CASA (29 September 2016) repealing earlier exemptions relating to eligibility for certification as an unmanned aerial vehicle controller, made under the Civil Aviation Safety Regulations 1998. Only the metadata page is available; the substantive text is not shown.",
+  "key_provisions_or_claims": [
+   "Repeals earlier CASA exemptions on eligibility for UAV controller certification",
+   "Made under the Civil Aviation Safety Regulations 1998",
+   "Registered as F2016L01540, dated 29 September 2016"
+  ],
+  "confidence": 0.6
+ }
+}

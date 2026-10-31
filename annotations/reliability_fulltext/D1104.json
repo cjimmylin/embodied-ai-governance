@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1104",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:15:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0290498,
+  "in": 2,
+  "out": 1745,
+  "cache_read": 11758,
+  "cache_create": 2605,
+  "api_ms": 12836,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Leitlinien zu Transparenzverpflichtungen für Anbieter und Betreiber von KI-Systemen",
+  "title_en": "Guidelines on transparency obligations for providers and deployers of AI systems",
+  "language": "de",
+  "authors_or_issuer": "European Commission, DG CONNECT",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Gestaltung der digitalen Zukunft Europas (digital-strategy.ec.europa.eu)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "risk_management_risk_tiers",
+   "consumer_protection"
+  ],
+  "primary_topic": "transparency_explainability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "risk_based_tiering",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission web page announcing guidelines on the scope of transparency obligations for providers and deployers of AI systems under Article 50 of the AI Act, applicable from 2 August 2026. Links to the guidelines, Q&A, fact sheet and a code of practice on AI-generated content transparency.",
+  "key_provisions_or_claims": [
+   "Guidelines clarify scope of Article 50 AI Act transparency duties for providers and deployers",
+   "Article 50 transparency obligations apply from 2 August 2026",
+   "AI Act uses a risk-based approach with four risk categories, one covering transparency risks",
+   "Aims to support coherent, effective, proportionate and uniform compliance by authorities and operators",
+   "Companion code of practice on transparency of AI-generated content"
+  ],
+  "confidence": 0.85
+ }
+}

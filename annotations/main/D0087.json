@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0087",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:08:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0497918,
+  "in": 2,
+  "out": 1864,
+  "cache_read": 11758,
+  "cache_create": 7493,
+  "api_ms": 13898,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AILA: Evaluación del Panorama de la Inteligencia Artificial en Colombia",
+  "title_en": "AILA: Artificial Intelligence Landscape Assessment of Colombia",
+  "language": "es",
+  "authors_or_issuer": "Programa de las Naciones Unidas para el Desarrollo (PNUD) Colombia",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UNDP Colombia",
+  "jurisdiction_country": "CO",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CO"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "education_training",
+   "fairness_bias_discrimination",
+   "transparency_explainability",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "education_training_programs",
+   "funding_or_incentives",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "empirical_qualitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "UNDP Colombia's AI Landscape Assessment (AILA, Nov 2024) rates Colombia's AI readiness at 3.4/5 (\"Differentiator\"). It assesses government as enabler, government as user, and ethical AI use, and recommends integrated AI governance, advanced infrastructure planning, digital skills, data quality and ethics-compliance mechanisms. It has no robotics content.",
+  "key_provisions_or_claims": [
+   "Colombia scores 3.4/5 overall AI readiness, 'Differentiator' level.",
+   "Recommends an integrated government AI governance model with monitoring and compliance verification.",
+   "Calls for a National Plan for advanced AI infrastructure and stronger digital skills.",
+   "Highlights gaps in connectivity, data quality, and interoperability platform implementation.",
+   "Notes the ethical framework lacks mechanisms to verify compliance and promote cultural diversity."
+  ],
+  "confidence": 0.88
+ }
+}

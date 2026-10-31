@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-943609b1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:34:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0525538,
+  "in": 2,
+  "out": 1953,
+  "cache_read": 11758,
+  "cache_create": 7961,
+  "api_ms": 10020,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "关于印发《安全应急装备重点领域发展行动计划（2023－2025年）》的通知",
+  "title_en": "Notice on Issuing the Action Plan for the Development of Key Areas of Safety and Emergency Equipment (2023-2025)",
+  "language": "zh",
+  "authors_or_issuer": "工业和信息化部; 国家发展和改革委员会; 科学技术部; 财政部; 应急管理部",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Industry and Information Technology (MIIT)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "drones_uas",
+   "space_or_extreme_environment",
+   "autonomous_road_vehicles",
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "defense_security",
+   "energy_environment",
+   "public_administration_justice",
+   "healthcare",
+   "domestic_consumer",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "safety_physical_harm",
+   "education_training",
+   "consumer_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "education_training_programs",
+   "testing_sandboxes",
+   "insurance_requirement",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Chinese five-ministry action plan (2023–2025) promoting the safety and emergency equipment industry, including rescue robots, firefighting robots, drones and unmanned mining vehicles. It sets industry targets (over 1 trillion yuan), R&D priorities, promotion catalogues, standards-building, insurance compensation, tax and financing support, and talent training.",
+  "key_provisions_or_claims": [
+   "Target: key-area industry scale above 1 trillion yuan by 2025, 10+ internationally competitive leading firms",
+   "Priority R&D on rescue robots, firefighting robots, emergency drones and unmanned mining equipment",
+   "Publish catalogues of advanced and recommended equipment and household emergency products",
+   "Build standards system and standardisation bodies for safety emergency equipment",
+   "Include eligible equipment in first-set insurance compensation, tax credits, procurement and fund support"
+  ],
+  "confidence": 0.9
+ }
+}

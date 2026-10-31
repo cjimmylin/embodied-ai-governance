@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-5e1b0b98",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1544398,
+  "in": 2,
+  "out": 1856,
+  "cache_read": 11758,
+  "cache_create": 33675,
+  "api_ms": 9997,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Recommendation (EU) 2024/915 of 19 March 2024 on measures to combat counterfeiting and enhance the enforcement of intellectual property rights",
+  "title_en": "Commission Recommendation (EU) 2024/915 of 19 March 2024 on measures to combat counterfeiting and enhance the enforcement of intellectual property rights",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "logistics_transport",
+   "finance",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "intellectual_property",
+   "consumer_protection",
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "cybersecurity",
+   "criminal_liability",
+   "sustainability_environment",
+   "education_training"
+  ],
+  "primary_topic": "intellectual_property",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "international_cooperation",
+   "education_training_programs",
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Recommendation encouraging Member States, rightsholders and intermediaries to combat counterfeiting and piracy and improve IP enforcement through voluntary cooperation, trusted flaggers, dynamic injunctions, criminal penalties, and technology use. A short chapter encourages AI for detection and an SME AI checklist; no robotics content.",
+  "key_provisions_or_claims": [
+   "Encourages voluntary cooperation via MoUs and trusted flagger status under the Digital Services Act",
+   "Good practices for transport, payment, social media and domain name providers",
+   "Promotes dynamic injunctions, right of information, appropriate and punitive damages",
+   "Encourages stronger criminal penalties and specialised IP crime units",
+   "Encourages AI and blockchain tools against counterfeiting and an SME AI/IP checklist; review within three years"
+  ],
+  "confidence": 0.95
+ }
+}

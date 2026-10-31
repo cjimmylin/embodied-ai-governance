@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0309",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:37:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0405698,
+  "in": 2,
+  "out": 1835,
+  "cache_read": 11758,
+  "cache_create": 5260,
+  "api_ms": 9286,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial Intelligence in Policing: AI technologies currently used to improve the efficiency and service delivery of police's corporate or enabling functions (Research report 2)",
+  "title_en": "Artificial Intelligence in Policing: AI technologies currently used to improve the efficiency and service delivery of police's corporate or enabling functions (Research report 2)",
+  "language": "en",
+  "authors_or_issuer": "Evidence Based Policing Centre, New Zealand Police",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "New Zealand Police",
+  "jurisdiction_country": "NZ",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "NZ"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "trust_acceptance",
+   "labor_employment",
+   "transparency_explainability"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "data_governance_requirements",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "systematic_or_scoping_review",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "New Zealand Police research report reviewing AI tools used in policing's corporate and enabling functions (documentation, audio/video analysis, data integration, biometrics, call management, community interaction, recruiting). It identifies challenges in performance, integration and governance, privacy, and internal trust, and recommends human-in-the-loop oversight and better governance.",
+  "key_provisions_or_claims": [
+   "Explain causes of AI performance inaccuracies such as bias, poor data and lack of context understanding.",
+   "Keep a human in the loop with training and continuous oversight of AI outputs.",
+   "Ensure effective integration, governance and data architecture, including workflow re-engineering.",
+   "Address data privacy and protection concerns, e.g. biometrics and SearchX.",
+   "Consider internal trust impacts including deskilling and job-loss fears."
+  ],
+  "confidence": 0.85
+ }
+}

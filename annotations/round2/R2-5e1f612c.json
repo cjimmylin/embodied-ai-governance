@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-5e1f612c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:31:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0397078,
+  "in": 2,
+  "out": 1814,
+  "cache_read": 11758,
+  "cache_create": 5097,
+  "api_ms": 9630,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院办公厅关于印发《政府采购领域“整顿市场秩序、建设法规体系、促进产业发展”三年行动方案（2024—2026年）》的通知",
+  "title_en": "Notice of the General Office of the State Council on Issuing the Three-Year Action Plan (2024–2026) for Government Procurement: Rectifying Market Order, Building a Legal System, Promoting Industrial Development",
+  "language": "zh",
+  "authors_or_issuer": "国务院办公厅 (General Office of the State Council of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中华人民共和国中央人民政府网站",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "sustainability_environment",
+   "other"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "General Office of the State Council notice issuing a 2024–2026 three-year action plan on government procurement: cracking down on violations, building the legal and standards system, and using procurement to support innovation, SMEs and green products. It contains no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Special campaigns against discriminatory clauses, agency overcharging, false materials and bid rigging",
+   "Amend the Government Procurement Law and align it with the Bidding Law, GPA and CPTPP",
+   "Establish domestic-product and procurement demand standards, including green procurement",
+   "Support innovation via mandatory/priority purchasing and first-purchase orders",
+   "Extend SME set-aside of 40%+ for large projects to end-2026"
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-505bfca4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:49:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1929178,
+  "in": 2,
+  "out": 1895,
+  "cache_read": 11758,
+  "cache_create": 43197,
+  "api_ms": 20276,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Regulation (EC) No 692/2008 implementing and amending Regulation (EC) No 715/2007 on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information",
+  "title_en": "Commission Regulation (EC) No 692/2008 implementing and amending Regulation (EC) No 715/2007 on type-approval of motor vehicles with respect to emissions (Euro 5 and Euro 6) and access to vehicle repair and maintenance information",
+  "language": "en",
+  "authors_or_issuer": "Commission of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2008,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union L 199/1",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "sustainability_environment",
+   "standards_interoperability",
+   "consumer_protection",
+   "cybersecurity"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission implementing regulation setting technical and administrative rules for type-approval of light passenger and commercial vehicles under Euro 5/6 emission standards, including on-board diagnostics, conformity of production, in-service conformity, replacement pollution control devices, and access to repair and maintenance information. Not related to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Manufacturers must obtain EC type-approval demonstrating compliance with Euro 5/6 emission test procedures.",
+   "All vehicles must have an OBD system detecting malfunctions over the vehicle's life.",
+   "Conformity of production and in-service conformity checks up to 5 years or 100,000 km.",
+   "Manufacturers must give independent operators access to OBD and repair/maintenance information.",
+   "Establishes Forum on Access to Vehicle Information and tamper-protection rules for emission control computers."
+  ],
+  "confidence": 0.9
+ }
+}

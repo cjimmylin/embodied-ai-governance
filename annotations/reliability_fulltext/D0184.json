@@ -1,0 +1,107 @@
+{
+ "doc_id": "D0184",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:11:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1012398,
+  "in": 2,
+  "out": 1870,
+  "cache_read": 11758,
+  "cache_create": 20340,
+  "api_ms": 11543,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Problem of Establishing Civil Liability for Harmful Effects of Smart Robots",
+  "title_en": "The Problem of Establishing Civil Liability for Harmful Effects of Smart Robots",
+  "language": "en",
+  "authors_or_issuer": "Alayaydeh, H.A.; Awaisheh, S.M.; Al-Taani, M.; Al-Dabbas, N.A.; Alqudah, A.M.; Awaisheh, S.M.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Indian Journal of Information Sources and Services",
+  "jurisdiction_country": "JO",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JO",
+   "FR"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "professional_service_robots",
+   "autonomous_road_vehicles",
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "legal_personhood_robot_rights",
+   "consumer_protection",
+   "risk_management_risk_tiers",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "insurance_requirement",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Doctrinal study of whether Jordanian (and French) civil law rules on custody of things and defective product liability can govern damage caused by smart robots. It finds both inadequate given robot autonomy and calls for specific legislation, registration, insurance or compensation funds, and examination of robot legal personhood.",
+  "key_provisions_or_claims": [
+   "Custody-of-things liability (Jordanian Civil Code Art. 291) fits poorly because autonomous robots escape a guardian's actual control.",
+   "Defective product liability under Consumer Protection Law is closest but struggles with intangible software and proving causation.",
+   "Calls for specific smart-robot legislation and mandatory registration of robots.",
+   "Proposes interim amendment of Art. 291 to include smart robots.",
+   "Recommends mandatory insurance or compensation funds and study of legal personhood for robots."
+  ],
+  "confidence": 0.9
+ }
+}

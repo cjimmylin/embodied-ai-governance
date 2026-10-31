@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0069",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:37:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0669924,
+  "in": 4,
+  "out": 3590,
+  "cache_read": 29324,
+  "cache_create": 7776,
+  "api_ms": 18977,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Resolución 161/2023 - Programa de transparencia y protección de datos personales en el uso de la Inteligencia Artificial",
+  "title_en": "Resolution 161/2023 - Programme for transparency and personal data protection in the use of Artificial Intelligence",
+  "language": "es",
+  "authors_or_issuer": "Agencia de Acceso a la Información Pública (AAIP), Argentina",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2023,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Boletín Oficial de la República Argentina",
+  "jurisdiction_country": "AR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AR"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "transparency_explainability",
+   "ethics_principles"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles",
+   "UNESCO Recommendation on the Ethics of AI"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Argentine AAIP Resolution 161/2023 creates a Programme for transparency and personal data protection in the use of AI, citing OECD AI Principles and the UNESCO Recommendation. It tasks the transparency and data protection directorates with implementing, monitoring and evaluating the programme across public and private sectors. The annex is published separately.",
+  "key_provisions_or_claims": [
+   "Creates the Programme for transparency and personal data protection in the use of AI",
+   "Directs the National Directorates of Transparency Policy Evaluation and Personal Data Protection to implement it jointly",
+   "Requires monitoring and evaluation mechanisms",
+   "Grounded in OECD AI Principles, UNESCO Recommendation and Argentina's Trustworthy AI recommendations (Disposición 2/2023)",
+   "Covers AI use in both public and private sectors"
+  ],
+  "confidence": 0.93
+ }
+}

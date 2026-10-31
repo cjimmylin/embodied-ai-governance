@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1182",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:16:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0631996,
+  "in": 2,
+  "out": 1780,
+  "cache_read": 11758,
+  "cache_create": 3155,
+  "api_ms": 12276,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "New ETSI standard protects AI systems from evolving cyber threats",
+  "title_en": "New ETSI standard protects AI systems from evolving cyber threats",
+  "language": "en",
+  "authors_or_issuer": "National Cyber Security Centre (NCSC), UK",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "NCSC blog",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "blog_or_opinion",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "standards_interoperability",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "international_cooperation",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [
+   "ETSI TS 104 223 Securing AI Baseline Cyber Security Requirements",
+   "UK AI Cyber Security Code of Practice",
+   "NCSC Guidelines for Secure AI System Development"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UK NCSC blog post (May 2025) announcing ETSI's technical specification on baseline cyber security requirements for AI models and systems, plus an implementation report, developed with DSIT and ETSI TC SAI. It sets 13 security principles across five lifecycle stages and will be mirrored in the UK AI Cyber Security Code of Practice.",
+  "key_provisions_or_claims": [
+   "ETSI specification is described as the first global standard setting minimum AI security requirements across the full lifecycle",
+   "Defines 13 core security principles across secure design, development, deployment, maintenance and end of life",
+   "Addresses AI-specific threats such as prompt injection and data poisoning",
+   "UK will update its AI Cyber Security Code of Practice to mirror the ETSI documents",
+   "Next step is progression toward a European standard"
+  ],
+  "confidence": 0.88
+ }
+}

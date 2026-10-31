@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0857",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:29:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0478238,
+  "in": 2,
+  "out": 1890,
+  "cache_read": 11758,
+  "cache_create": 6936,
+  "api_ms": 20679,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "education"
+  ],
+  "authors_or_issuer": "Mitchell, J.J.; Dong, J.; Yu, S.; Harmon, M.; Holstein, A.; Shim, J.H. et al.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.1145/3610978.3640581",
+  "embodied_categories": [
+   "educational_robots",
+   "social_companion_robots",
+   "humanoid_general_purpose"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "education_training",
+   "ethics_principles",
+   "children_vulnerable_groups",
+   "human_robot_interaction_social_effects",
+   "fairness_bias_discrimination",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "trust_acceptance"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Child-robot theater afterschool program introduced robot and AI ethics to 30 underprivileged elementary students.",
+   "Curriculum covered bias, fairness, transparency, privacy, responsibility, and technology abuse via robots and AI tools.",
+   "Preliminary findings show children engaged in meaningful ethical discussions.",
+   "Children favored robots explaining choices only when asked and were less comfortable sharing address, speech and search history.",
+   "Existing AI education tools target older students and rarely cover ethics."
+  ],
+  "language": "en",
+  "methodology": "empirical_qualitative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "educational_robots",
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2024,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "HRI'24 companion paper describing a child-robot theater afterschool program with 30 underprivileged US elementary students that taught robot and AI ethics (bias, transparency, privacy, responsibility). Preliminary findings show engaged ethical discussion, supporting early ethics education with robots.",
+  "title_clean": "Bridging the Gap: Early Education on Robot and AI Ethics through the Robot Theater Platform in an Informal Learning Environment",
+  "title_en": "Bridging the Gap: Early Education on Robot and AI Ethics through the Robot Theater Platform in an Informal Learning Environment",
+  "venue": "HRI '24 Companion (ACM/IEEE International Conference on Human-Robot Interaction)"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-a846a9fc",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:17:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0497085,
+  "in": 4,
+  "out": 3341,
+  "cache_read": 25795,
+  "cache_create": 4117,
+  "api_ms": 20542,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Iowa Code §321.514 Definitions (automated driving systems)",
+  "title_en": "Iowa Code §321.514 Definitions (automated driving systems)",
+  "language": "en",
+  "authors_or_issuer": "Iowa General Assembly",
+  "issuer_type": "subnational_government",
+  "pub_year": 2019,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Iowa Code 2026",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Iowa Code section 321.514 (enacted 2019) defines key terms for automated driving systems and driverless-capable vehicles, including dynamic driving task, operational design domain, minimal risk condition and on-demand driverless-capable vehicle networks, supporting sections 321.515–321.519 on driverless vehicle operation.",
+  "key_provisions_or_claims": [
+   "Defines automated driving system as hardware and software performing the entire dynamic driving task",
+   "Defines driverless-capable vehicle as operating without conventional human driver intervention or supervision",
+   "Defines minimal risk condition as a reasonably safe state after system failure",
+   "Defines operational design domain constraints",
+   "Defines on-demand driverless-capable vehicle networks including for-hire and public transport"
+  ],
+  "confidence": 0.9
+ }
+}

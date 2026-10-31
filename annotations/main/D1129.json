@@ -1,0 +1,90 @@
+{
+ "doc_id": "D1129",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:37:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028371800000000003,
+  "in": 2,
+  "out": 1526,
+  "cache_read": 11758,
+  "cache_create": 2983,
+  "api_ms": 10160,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "TRV article: Artificial intelligence in EU securities markets",
+  "title_en": "TRV article: Artificial intelligence in EU securities markets",
+  "language": "en",
+  "authors_or_issuer": "European Securities and Markets Authority (ESMA)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "ESMA website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "software_agent_called_robot",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "finance"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "ESMA web page listing a Trends, Risks and Vulnerabilities (TRV) article on artificial intelligence in EU securities markets (reference ESMA50-164-6247). Only metadata and site navigation are captured; the report text, a PDF, is not included.",
+  "key_provisions_or_claims": [
+   "Page lists ESMA report ESMA50-164-6247 on AI in securities markets",
+   "Filed under Digital Finance and Innovation",
+   "Substantive content is in a linked PDF not captured"
+  ],
+  "confidence": 0.6
+ }
+}

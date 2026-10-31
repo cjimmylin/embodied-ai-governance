@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-66e0ee79",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.15052580000000002,
+  "in": 2,
+  "out": 1965,
+  "cache_read": 11758,
+  "cache_create": 32424,
+  "api_ms": 11644,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Circular de Asesoramiento CA-101-A: Operación de Sistemas de Aeronaves No Tripuladas – UAS",
+  "title_en": "Advisory Circular CA-101-A: Operation of Unmanned Aircraft Systems – UAS",
+  "language": "es",
+  "authors_or_issuer": "Dirección General de Aviación Civil (DGAC) Ecuador – Dirección de Certificación Aeronáutica y Vigilancia Continua",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "DGAC Ecuador",
+  "jurisdiction_country": "EC",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "EC"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "agriculture_food",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "civil_liability",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "human_oversight_control"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "human_oversight_requirement",
+   "insurance_requirement",
+   "audits_impact_assessment",
+   "prohibitions_bans",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Ecuador's DGAC advisory circular guiding compliance with RDAC 101 (approved 11 Dec 2024) for drones up to 250 kg. It explains open and specific operating categories, registration, remote pilot authorisation, UAS operator certificates, special flight authorisations, and rules on BVLOS, swarms, autonomous flight, cargo and spraying. It is non-binding guidance.",
+  "key_provisions_or_claims": [
+   "Drones over 250 g must be registered and marked with a QR/registration number.",
+   "Open category (recreational, under 4 kg, VLOS, 122 m max) needs no authorisation; specific category needs a UAS Operator Certificate and remote pilot authorisation.",
+   "Autonomous pre-programmed flights are allowed up to 1000 m from takeoff; beyond that a UOC is required.",
+   "Swarm, BVLOS and cargo operations require special authorisation, safety risk assessment and third-party liability insurance.",
+   "Remote pilot is directly civilly liable for damage to third parties; restricted and prohibited airspace zones defined."
+  ],
+  "confidence": 0.9
+ }
+}

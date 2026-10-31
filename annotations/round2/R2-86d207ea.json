@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-86d207ea",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:41:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0305518,
+  "in": 2,
+  "out": 1696,
+  "cache_read": 11758,
+  "cache_create": 3103,
+  "api_ms": 8613,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "全国智能运输系统标准化技术委员会 (TC268); 全国网络安全标准化技术委员会; 国家标准化管理委员会",
+  "binding_nature": "technical_standard_voluntary",
+  "confidence": 0.6,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "GB/Z 265-2026 is a national guiding technical document on application security of AI in transportation.",
+   "Jointly administered by TC268 (ITS) and the national cybersecurity standardization committee.",
+   "Published 2026-08-27 and currently in force; drafted by transport, port, airline, airport and Huawei entities.",
+   "Related planned standards cover AI application security in other sectors and AI classification/grading."
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Catalogue page for Chinese national guiding technical document GB/Z 265-2026, 'Application security guidelines for AI+transportation', published 2026-08-27 and current. Shows metadata, drafters and related AI application security standards; the standard's text is not included.",
+  "title_clean": "“人工智能+交通运输”应用安全指引",
+  "title_en": "Application security guidelines for “artificial intelligence+transportation”",
+  "venue": "全国标准信息公共服务平台",
+  "methodology": "not_applicable"
+ }
+}

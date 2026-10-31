@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0261",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:13:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0671403,
+  "in": 4,
+  "out": 3515,
+  "cache_read": 29568,
+  "cache_create": 7979,
+  "api_ms": 18179,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial Intelligence – National Preparedness",
+  "title_en": "Artificial Intelligence – National Preparedness",
+  "language": "en",
+  "authors_or_issuer": "State Comptroller of Israel",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "State Comptroller of Israel – Report on Cyber and Information Systems",
+  "jurisdiction_country": "IL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IL"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "research_science"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "State Comptroller audit of Israel's national AI preparedness (2018–2024). It finds no long-term national AI strategy, no integrating government body, low budget realization of the Telem program, declining international rankings, and delays on a Hebrew/Arabic language model. It recommends a comprehensive national program with clear responsibilities, budget and oversight.",
+  "key_provisions_or_claims": [
+   "Israel lacks a long-term national AI strategy and master implementation plan.",
+   "No integrating government body leads the national AI program; the Telem structure is voluntary and without budgetary authority.",
+   "Only about 40% of the first-phase NIS 550 million was realized; supercomputing only 11%.",
+   "Israel fell in the Tortoise (5th to 9th) and Oxford readiness (20th to 30th) indices.",
+   "Recommends a detailed national plan with milestones, budget, periodic assessment, and Prime Minister/NSC monitoring."
+  ],
+  "confidence": 0.85
+ }
+}

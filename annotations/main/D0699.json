@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0699",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:25:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.09916029999999999,
+  "in": 4,
+  "out": 3829,
+  "cache_read": 36568,
+  "cache_create": 15051,
+  "api_ms": 19960,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "research_science"
+  ],
+  "authors_or_issuer": "House of Representatives of Japan (Shugiin), Cabinet-submitted bill",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_proposal_or_draft",
+  "doc_type": "bill_or_draft_law",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "education_training",
+   "research_ethics",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "intellectual_property"
+  ],
+  "instrument_status": "draft_or_bill_under_consideration",
+  "is_governance_document": true,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Sets basic principles: AI R&D and use promoted for economic growth and national security, while keeping domestic R&D capacity and international competitiveness.",
+   "Requires comprehensive and planned promotion, with transparency in the R&D and use process to counter misuse such as crime, privacy leaks and copyright infringement.",
+   "Defines responsibilities of the State, local governments, R&D institutions, businesses and citizens.",
+   "Requires the government to adopt an AI Basic Plan approved by Cabinet.",
+   "Establishes an AI Strategy Headquarters in the Cabinet, headed by the Prime Minister, and requires investigation of rights violations and guidance."
+  ],
+  "language": "ja",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Japan AI Promotion Act"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "pub_month": 2,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Text of the Cabinet bill on promoting research, development and use of AI-related technologies, submitted to Japan's 217th Diet session. It sets basic principles, duties of government, local bodies, institutions, businesses and citizens, an AI Basic Plan, and an AI Strategy Headquarters under the Cabinet. It is promotion-oriented, with no robot-specific provisions.",
+  "title_clean": "人工知能関連技術の研究開発及び活用の推進に関する法律案",
+  "title_en": "Bill on the Promotion of Research and Development and Utilization of Artificial Intelligence-Related Technologies",
+  "venue": "Shugiin (House of Representatives) Bill Database"
+ }
+}

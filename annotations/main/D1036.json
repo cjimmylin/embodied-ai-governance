@@ -1,0 +1,102 @@
+{
+ "doc_id": "D1036",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:34:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0352478,
+  "in": 2,
+  "out": 1776,
+  "cache_read": 11758,
+  "cache_create": 4077,
+  "api_ms": 9346,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Calendario para la aplicación de la Ley de IA de la UE",
+  "title_en": "Timeline for the implementation of the EU AI Act",
+  "language": "es",
+  "authors_or_issuer": "European Commission, AI Act Service Desk",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "AI Act Service Desk",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission AI Act Service Desk page (machine-translated Spanish) presenting the phased application timeline of the EU AI Act from entry into force in August 2024 to August 2028, noting Digital Omnibus proposals to link high-risk rules to availability of harmonised standards.",
+  "key_provisions_or_claims": [
+   "Entry into force 1 Aug 2024; prohibitions and AI literacy apply from 2 Feb 2025",
+   "GPAI obligations and governance structures apply from 2 Aug 2025",
+   "Most rules, including Annex III high-risk and Article 50 transparency, apply from 2 Aug 2026",
+   "High-risk AI embedded in regulated products (Annex I) applies from 2 Aug 2027, with later dates shown under the Digital Omnibus",
+   "Digital Omnibus proposes linking high-risk rules to availability of harmonised standards"
+  ],
+  "confidence": 0.85
+ }
+}

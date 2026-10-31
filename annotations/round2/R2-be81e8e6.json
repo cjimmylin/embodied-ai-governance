@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-be81e8e6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:55:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1758658,
+  "in": 2,
+  "out": 1819,
+  "cache_read": 11758,
+  "cache_create": 39124,
+  "api_ms": 10840,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Supply of Machinery (Safety) Regulations 1992",
+  "title_en": "The Supply of Machinery (Safety) Regulations 1992",
+  "language": "en",
+  "authors_or_issuer": "UK Secretary of State / Department of Trade and Industry (published by legislation.gov.uk)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 1992,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "legislation.gov.uk",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "civil_liability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "licensing_registration",
+   "transparency_disclosure_labelling",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Directive 89/392/EEC"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "UK statutory instrument implementing the EC Machinery Directive 89/392/EEC. It sets essential health and safety requirements for machinery design and construction, conformity assessment, CE marking, approved bodies, technical files, and enforcement offences and penalties. It is later superseded by the 2008 Regulations. It contains no AI content but covers machine control, emergency stops and robot-related safety.",
+  "key_provisions_or_claims": [
+   "No person may supply machinery unless it meets essential health and safety requirements and is safe.",
+   "Conformity assessment via technical file, approved-body certificate of adequacy or EC type-examination for Schedule 4 machinery.",
+   "CE mark and EC declaration of conformity required; declaration of incorporation for partly completed machinery.",
+   "Schedule 3 sets control, emergency stop, guarding and instruction requirements, including robot training consoles.",
+   "Offences carry up to 3 months' imprisonment or fines, with a due diligence defence."
+  ],
+  "confidence": 0.85
+ }
+}

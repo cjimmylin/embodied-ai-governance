@@ -1,0 +1,92 @@
+{
+ "doc_id": "D0896",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:30:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0780458,
+  "in": 2,
+  "out": 1709,
+  "cache_read": 11758,
+  "cache_create": 14944,
+  "api_ms": 10599,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ASME 2026 Competition Waste Sorting Robot Ethical Modeling",
+  "title_en": "ASME 2026 Competition Waste Sorting Robot Ethical Modeling",
+  "language": "en",
+  "authors_or_issuer": "University of Virginia Library",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "University of Virginia Library Guides",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "energy_environment",
+   "education"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "education_training",
+   "sustainability_environment"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "University of Virginia library guide page apparently about ethical modeling for the ASME 2026 student competition waste-sorting robot. The available excerpt is almost entirely encoded image data, so content is inferred from the title; it appears to be educational guidance rather than a governance instrument.",
+  "key_provisions_or_claims": [
+   "Page relates to ethical modeling for an ASME 2026 waste-sorting robot competition",
+   "Text content is largely unavailable in the excerpt (embedded SVG images)"
+  ],
+  "confidence": 0.3
+ }
+}

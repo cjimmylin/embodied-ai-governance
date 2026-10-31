@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-2c7b7826",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:07:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.05002970000000001,
+  "in": 4,
+  "out": 3438,
+  "cache_read": 25602,
+  "cache_create": 3981,
+  "api_ms": 16525,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Safe use rules for automated vehicles (AV)",
+  "title_en": "Safe use rules for automated vehicles (AV)",
+  "language": "en",
+  "authors_or_issuer": "Department for Transport (UK Government)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "The Highway Code",
+   "Road Vehicles (Construction and Use) (Automated Vehicles) Order 2022"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "UK GOV.UK landing page for the consultation on amending The Highway Code to set rules for safe use of automated vehicles on motorways, linking to the consultation outcome, government response, a letter to Parliament, an explanatory memorandum, and the 2022 Automated Vehicles Order.",
+  "key_provisions_or_claims": [
+   "Consultation (April–May 2021) proposed new Highway Code section on automated vehicles on motorways",
+   "Government response and summary of consultation responses published 20 April 2022",
+   "Explanatory memorandum on Highway Code self-driving amendment published 25 April 2022",
+   "Road Vehicles (Construction and Use) (Automated Vehicles) Order 2022 published",
+   "Follows August 2020 call for evidence on Automated Lane Keeping Systems"
+  ],
+  "confidence": 0.8
+ }
+}

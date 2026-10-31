@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1216",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:39:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0595362,
+  "in": 4,
+  "out": 3547,
+  "cache_read": 27717,
+  "cache_create": 5994,
+  "api_ms": 18237,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector",
+   "finance",
+   "healthcare"
+  ],
+  "authors_or_issuer": "Ballarin, A. (SOGEI S.p.A., for Italian Ministry of Economy and Finance)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "IT",
+   "EU",
+   "US"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "other",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "testing_sandboxes"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "industry_company",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Machine learning relies on correlation over causality and abandons explainability, making errors opaque.",
+   "AI errors are inevitable, citing Gödel's incompleteness, so ethical questions arise.",
+   "Data are reductions of reality, so AI decides on simplified representations.",
+   "AI artefacts should follow non-maleficence and choose the lesser evil (trolley problem).",
+   "Proposes an 'ethical test' for AI, analogous to the Turing test, using the norms of the cognitive domain concerned."
+  ],
+  "language": "it",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2019,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "summary_en": "Slide presentation by a SOGEI author, hosted on the Italian Ministry of Economy and Finance site, on the ethical urgency of AI. It argues that data-driven machine learning sacrifices explainability and errs unavoidably. It proposes an 'ethical test' for AI artefacts, based on non-maleficence and domain norms, instead of rules-first ethics.",
+  "title_clean": "L'urgenza etica dell'Intelligenza Artificiale",
+  "title_en": "The Ethical Urgency of Artificial Intelligence",
+  "venue": "Ministero dell'Economia e delle Finanze (MEF) website"
+ }
+}

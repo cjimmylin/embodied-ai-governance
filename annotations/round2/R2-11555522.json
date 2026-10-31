@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-11555522",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:49:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.046787800000000004,
+  "in": 2,
+  "out": 1886,
+  "cache_read": 11758,
+  "cache_create": 6687,
+  "api_ms": 22143,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Delegated Regulation (EU) 2022/545 of 26 January 2022 supplementing Regulation (EU) 2019/2144 ... type-approval of motor vehicles with regard to their event data recorder",
+  "title_en": "Commission Delegated Regulation (EU) 2022/545 on type-approval of motor vehicles with regard to their event data recorder",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 107/18",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "privacy_data_protection",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "data_governance_requirements",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [
+   "UN Regulation No 160",
+   "UN Regulation No 155",
+   "Regulation (EU) 2019/2144",
+   "Regulation (EU) 2018/858",
+   "Directive 2014/45/EU",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EU delegated regulation setting test procedures and technical requirements for type-approval of M1 passenger cars and separate units regarding event data recorders, incorporating UN Regulation 160, with added requirements on data protection from manipulation, anonymisation, retrieval, and roadworthiness checks.",
+  "key_provisions_or_claims": [
+   "EDR systems must comply with UN Regulation No 160 plus additional EU requirements",
+   "Recorded data must be protected against manipulation per UN Regulation No 155 cybersecurity rules",
+   "Data must be retrievable via the standard connector in machine-readable form and not linked to a natural person",
+   "Periodic roadworthiness tests must verify EDR status and software integrity",
+   "Non-compliant new vehicles barred from registration from 6 July 2024; applies from 6 July 2022"
+  ],
+  "confidence": 0.9
+ }
+}

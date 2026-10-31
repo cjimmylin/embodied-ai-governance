@@ -1,0 +1,118 @@
+{
+ "doc_id": "R2-b2dc1e84",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1591638,
+  "in": 2,
+  "out": 1926,
+  "cache_read": 11758,
+  "cache_create": 34681,
+  "api_ms": 11624,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Standing Senate Committee on Transport and Communications (Senate of Canada)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "CA",
+   "US",
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "parliamentary_material",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "agricultural_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "international_cooperation",
+   "data_governance_requirements",
+   "audits_impact_assessment",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "privacy_data_protection",
+   "labor_employment",
+   "industrial_policy_innovation",
+   "consumer_protection",
+   "standards_interoperability",
+   "education_training",
+   "sustainability_environment"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Create a joint Transport Canada–ISED policy unit to coordinate a national AV/CV strategy",
+   "Transport Canada to urgently develop vehicle safety guidelines for automated and connected vehicles",
+   "Develop cybersecurity guidance and a real-time crisis network with CSE and Public Safety Canada",
+   "Empower the Privacy Commissioner to enforce PIPEDA proactively and assess connected-car privacy rules",
+   "Monitor insurance, infrastructure, competition and jobs impacts; strengthen retraining and R&D funding"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Personal Information Protection and Electronic Documents Act",
+   "Ontario Regulation 306/15",
+   "SAE J3016"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2018,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Canadian Senate committee report on automated and connected vehicles, based on 78 witnesses. It reviews benefits and challenges (safety, jobs, privacy, cybersecurity, infrastructure) and makes 16 recommendations for federal leadership, safety guidelines, cybersecurity, privacy enforcement, R&D, insurance monitoring and workforce retraining.",
+  "title_clean": "Driving Change: Technology and the Future of the Automated Vehicle",
+  "title_en": "Driving Change: Technology and the Future of the Automated Vehicle",
+  "venue": "Senate of Canada"
+ }
+}

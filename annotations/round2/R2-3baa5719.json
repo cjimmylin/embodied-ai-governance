@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-3baa5719",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:42:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0851718,
+  "in": 2,
+  "out": 1856,
+  "cache_read": 11758,
+  "cache_create": 16358,
+  "api_ms": 9631,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "介護ロボットの開発・普及の促進",
+  "title_en": "Promotion of the Development and Dissemination of Nursing Care Robots",
+  "language": "ja",
+  "authors_or_issuer": "厚生労働省 (Ministry of Health, Labour and Welfare, Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Ministry of Health, Labour and Welfare website (mhlw.go.jp)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "safety_physical_harm",
+   "labor_employment",
+   "certification_conformity_assessment",
+   "research_ethics"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "insurance_requirement",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "ISO 13482"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Japan's Ministry of Health, Labour and Welfare portal on promoting development and adoption of nursing care robots. It defines care robots, lists priority areas set with METI, project reports, subsidies, tax and financial support, safety standards (ISO 13482, JIS), ethics review guidelines, insurance and care-fee incentives.",
+  "key_provisions_or_claims": [
+   "Defines care robots as intelligent machines with sensing, control and actuation supporting independence and reducing caregiver burden.",
+   "MHLW and METI designate priority areas (6 fields, 13 items) for robot technology in care.",
+   "Subsidies, tax measures and loans support development and introduction of care robots.",
+   "Safety standards referenced: ISO 13482 and JIS B8445/B8446 series; ethics review and demonstration guidelines.",
+   "Platform for needs-seeds matching, demonstration and dissemination; care-fee evaluation for monitoring technologies."
+  ],
+  "confidence": 0.85
+ }
+}

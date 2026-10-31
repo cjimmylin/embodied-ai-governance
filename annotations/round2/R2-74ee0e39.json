@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-74ee0e39",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0493012,
+  "in": 4,
+  "out": 3345,
+  "cache_read": 25742,
+  "cache_create": 3972,
+  "api_ms": 17567,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 23629-9:2023 UAS traffic management (UTM) — Part 9: Interface between UTM service providers and users",
+  "title_en": "ISO 23629-9:2023 UAS traffic management (UTM) — Part 9: Interface between UTM service providers and users",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 20/SC 16",
+  "issuer_type": "standards_body",
+  "pub_year": 2023,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Online Browsing Platform / ISO Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO store catalogue page for ISO 23629-9:2023, an international standard published December 2023 by ISO/TC 20/SC 16. It specifies information exchange elements between UAS traffic management service providers and users, excluding protocols and USP-to-USP interfaces.",
+  "key_provisions_or_claims": [
+   "Specifies information exchange between UTM service providers (USP) and users",
+   "Excludes protocol and transmission requirements at operational level",
+   "Excludes USP-USP and USP-operation support provider interfaces",
+   "Edition 1, published 2023-12 (stage 60.60)"
+  ],
+  "confidence": 0.9
+ }
+}

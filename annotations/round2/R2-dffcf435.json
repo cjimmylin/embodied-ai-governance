@@ -1,0 +1,119 @@
+{
+ "doc_id": "R2-dffcf435",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.21004499999999998,
+  "in": 4,
+  "out": 4185,
+  "cache_read": 62660,
+  "cache_create": 41282,
+  "api_ms": 26462,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "research_science",
+   "manufacturing"
+  ],
+  "authors_or_issuer": "Dirección General de Tráfico (DGT), Subdirección General de Gestión de la Movilidad",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "ES",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "insurance_requirement",
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "testing_sandboxes"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "civil_liability",
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "standards_interoperability"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Special DGT authorisation required for testing automation levels 3-5 vehicles on open roads, valid up to 2 years, renewable.",
+   "Applicants must hold insurance covering mandatory motor limits plus civil liability for test damage.",
+   "Vehicles must be certified by an ENAC-accredited technical service (documentation, inspection, dynamic tests) or hold an equivalent EU member state authorisation.",
+   "Designated driver remains responsible and must be able to take full control at any time; override and emergency stop must take priority.",
+   "Risk assessment (HARA/FMEA per ISO 26262), cybersecurity, EMC, and software version control are required."
+  ],
+  "language": "es",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "ISO 26262",
+   "Real Decreto 2822/1998 Reglamento General de Vehículos",
+   "Real Decreto 750/2010",
+   "UNECE Regulation 13",
+   "UNECE Regulation 13-H",
+   "Euro NCAP AEB protocols",
+   "Regulation (EC) 765/2008"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 11,
+  "pub_year": 2015,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Spanish DGT Instruction 15/V-113 (13 Nov 2015) sets the procedure for special authorisations to test automated vehicles (levels 3-5) on open roads. It defines applicant, vehicle and driver requirements, mandatory insurance, ENAC-accredited certification, and detailed safety, override, braking, lateral-control and cybersecurity tests.",
+  "title_clean": "Instrucción 15/V-113: Autorización de pruebas o ensayos de investigación realizados con vehículos de conducción automatizada en vías abiertas al tráfico en general",
+  "title_en": "Instruction 15/V-113: Authorisation of research tests or trials with automated driving vehicles on roads open to general traffic",
+  "venue": "Dirección General de Tráfico"
+ }
+}

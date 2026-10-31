@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-b926ee00",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:35:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0471553,
+  "in": 4,
+  "out": 3352,
+  "cache_read": 25143,
+  "cache_create": 3469,
+  "api_ms": 17702,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "CASA 22/22 – Operation of Certain Unmanned Aircraft – Renewal of Directions Instrument 2022",
+  "title_en": "CASA 22/22 – Operation of Certain Unmanned Aircraft – Renewal of Directions Instrument 2022",
+  "language": "en",
+  "authors_or_issuer": "Civil Aviation Safety Authority (CASA), Australia",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2022,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Register of Legislation (Australia)",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Metadata page for an Australian CASA legislative instrument renewing directions on the operation of certain unmanned aircraft, made under the Civil Aviation Safety Regulations 1998. Registered 31 March 2022 with a 31 March 2025 date shown; the substantive text is not included.",
+  "key_provisions_or_claims": [
+   "Renews CASA directions governing operation of certain unmanned aircraft",
+   "Authorised under the Civil Aviation Safety Regulations 1998",
+   "Registered 31 March 2022 as F2022L00449; 31 March 2025 date shown (likely sunset)"
+  ],
+  "confidence": 0.6
+ }
+}

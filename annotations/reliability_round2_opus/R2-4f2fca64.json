@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-4f2fca64",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:15:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1755476,
+  "in": 2,
+  "out": 1967,
+  "cache_read": 11758,
+  "cache_create": 16731,
+  "api_ms": 14519,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Chapter 837 — Aircraft Operation (Oregon Revised Statutes, 2025 Edition)",
+  "title_en": "Chapter 837 — Aircraft Operation (Oregon Revised Statutes, 2025 Edition)",
+  "language": "en",
+  "authors_or_issuer": "Oregon Legislative Assembly",
+  "issuer_type": "subnational_government",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Oregon Revised Statutes",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "public_administration_justice",
+   "defense_security",
+   "logistics_transport",
+   "energy_environment",
+   "education"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "safety_physical_harm",
+   "criminal_liability",
+   "civil_liability",
+   "military_use_ihl",
+   "cybersecurity"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "data_governance_requirements",
+   "insurance_requirement",
+   "liability_regime",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Oregon Revised Statutes Chapter 837 (2025 edition) governing aircraft operation, including a substantial unmanned aircraft systems (drone) part: warrant requirements for law enforcement drone use, public-body drone registration and data policies, bans on weaponized drones, critical-infrastructure overflight offences, civil trespass remedies, and state preemption of local drone regulation.",
+  "key_provisions_or_claims": [
+   "Law enforcement may use drones only with a warrant, consent, exigent circumstances, search and rescue, emergencies or accident reconstruction; unlawfully obtained evidence is inadmissible.",
+   "Public bodies must register drones with the Oregon Department of Aviation, report use annually, and publish data retention and sharing policies.",
+   "Operating weaponized drones is a misdemeanor or felony, with narrow exceptions requiring FAA authorization, notice, and $1 million liability insurance; projectile drones are banned for crowd management.",
+   "Offences for drone overflight of critical infrastructure, harassment over private property, and interference with aircraft or emergency response.",
+   "Property owners may sue for treble damages for repeated drone trespass; regulation of drones is preempted from local governments except in local parks."
+  ],
+  "confidence": 0.88
+ }
+}

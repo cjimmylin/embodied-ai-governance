@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-fa3a0626",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.024021800000000003,
+  "in": 2,
+  "out": 1599,
+  "cache_read": 11758,
+  "cache_create": 1713,
+  "api_ms": 7602,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ustawa z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych",
+  "title_en": "Act of 11 January 2018 on Electromobility and Alternative Fuels",
+  "language": "pl",
+  "authors_or_issuer": "Sejm of the Republic of Poland (Dziennik Ustaw)",
+  "issuer_type": "legislature",
+  "pub_year": 2018,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Dziennik Ustaw 2018 poz. 317",
+  "jurisdiction_country": "PL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "PL"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "sustainability_environment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Metadata page for Poland's Act of 11 January 2018 on electromobility and alternative fuels (Dz.U. 2018 poz. 317, published 7 February 2018). Only the header and cookie notice are shown; the statutory text is not included. It is not about AI or robotics.",
+  "key_provisions_or_claims": [
+   "Polish act on electromobility and alternative fuels, Dz.U. 2018 poz. 317",
+   "Announced 2018-02-07",
+   "Full statutory text not included in excerpt"
+  ],
+  "confidence": 0.8
+ }
+}

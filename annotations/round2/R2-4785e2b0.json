@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-4785e2b0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:45:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.049987000000000004,
+  "in": 4,
+  "out": 3393,
+  "cache_read": 25805,
+  "cache_create": 4014,
+  "api_ms": 16263,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "国家市场监督管理总局国家标准技术审评中心 (National Public Service Platform for Standards Information)",
+  "binding_nature": "technical_standard_mandated",
+  "confidence": 0.6,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "standards_interoperability"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Search result lists GB 44495-2024, mandatory national standard on vehicle cybersecurity technical requirements",
+   "Published 2024-08-23; effective 2026-01-01; status current",
+   "Classified under ICS 43 road vehicle engineering"
+  ],
+  "language": "zh",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Search-results page from China's National Standards Information Public Service Platform listing GB 44495-2024, the mandatory national standard on technical requirements for vehicle cybersecurity (whole-vehicle information security), published 2024-08-23 and effective 2026-01-01. Only metadata is shown, not the standard text.",
+  "title_clean": "全国标准信息公共服务平台 标准检索结果：GB 44495-2024 汽车整车信息安全技术要求",
+  "title_en": "National Standards Information Public Service Platform – Search Results: GB 44495-2024 Technical Requirements for Vehicle Cybersecurity",
+  "venue": "全国标准信息公共服务平台"
+ }
+}

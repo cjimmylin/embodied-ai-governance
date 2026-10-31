@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-d7fa04fd",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:06:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.05581560000000001,
+  "in": 2,
+  "out": 1858,
+  "cache_read": 11758,
+  "cache_create": 2037,
+  "api_ms": 13459,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "商务部等7部门关于推动商品消费扩容升级的实施意见",
+  "title_en": "Implementation Opinions of the Ministry of Commerce and Six Other Departments on Promoting the Expansion and Upgrading of Goods Consumption",
+  "language": "zh",
+  "authors_or_issuer": "Ministry of Commerce of the People's Republic of China and six other departments",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Commerce of the PRC",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "retail_hospitality",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "intellectual_property",
+   "consumer_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "15th Five-Year Plan Outline"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese Ministry of Commerce and six other departments issued implementation opinions (Aug 2026) to expand and upgrade goods consumption during the 15th Five-Year Plan. They target about 60 trillion yuan in retail sales by 2030 and promote green, smart and health consumption, including cultural, sports and 3D-printing goods. Robotics is not addressed.",
+  "key_provisions_or_claims": [
+   "Target retail sales of consumer goods of about 60 trillion yuan by 2030",
+   "Cultivate trillion-yuan-scale markets in green, smart and health consumption",
+   "Promote consumption of bulk durables such as autos, home appliances and communications equipment",
+   "Expand consumption of cultural, sports and smart musical instrument products and 3D printing",
+   "Strengthen IP protection for designs and trademarks in IP-derived products"
+  ],
+  "confidence": 0.8
+ }
+}

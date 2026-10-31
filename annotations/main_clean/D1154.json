@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1154",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:03:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.053401000000000004,
+  "in": 4,
+  "out": 3363,
+  "cache_read": 26720,
+  "cache_create": 4914,
+  "api_ms": 21550,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Agencia Española de Supervisión de Inteligencia Artificial (AESIA)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "ES",
+   "PL",
+   "LT"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "transparency_explainability",
+   "education_training",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "AESIA is Spain's public body ensuring ethical and safe AI use.",
+   "Monitors compliance with national and European AI rules.",
+   "Offers training and public-engagement services.",
+   "Advises other countries (Poland, Lithuania) on applying the EU AI Regulation.",
+   "Values: ethics, transparency, innovation."
+  ],
+  "language": "es",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Landing page of Spain's AI Supervision Agency (AESIA), describing its mission to ensure ethical, safe AI use, its values (ethics, transparency, innovation), services (supervision, training, public engagement) and recent news, including advising Poland and Lithuania on the EU AI Regulation.",
+  "title_clean": "Garantizando una IA ética y responsable",
+  "title_en": "Ensuring ethical and responsible AI",
+  "venue": "AESIA website"
+ }
+}

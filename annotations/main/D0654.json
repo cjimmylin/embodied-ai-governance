@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0654",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:24:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0412578,
+  "in": 2,
+  "out": 1747,
+  "cache_read": 11758,
+  "cache_create": 5652,
+  "api_ms": 9289,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "新保, 史生",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.32235/alis.3.0_44",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "domestic_household_robots",
+   "professional_service_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "civil_liability",
+   "ethics_principles",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "none",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2018,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Journal article (abstract page) by Shinpo surveying principal Japanese AI and robot law, strategy and research trends toward establishing basic principles. It argues that spreading autonomous AI robots and automated vehicles require legal re-examination, since security problems from the Internet could recur with physical danger.",
+  "key_provisions_or_claims": [
+   "AI and robots are currently tools operating by human intent, but autonomy requires legal re-examination.",
+   "Information security countermeasures for intelligent robots need scrutiny.",
+   "Security problems of the Internet may recur as physical danger from AI-driven actions.",
+   "Runaway autonomous AI poses a potential threat to humans.",
+   "Surveys Japanese AI/robot law, strategy and research toward basic principles."
+  ],
+  "title_clean": "The Principal Japanese AI and Robot Law. Strategy and Research toward Establishing Basic Principles",
+  "title_en": "The Principal Japanese AI and Robot Law. Strategy and Research toward Establishing Basic Principles",
+  "venue": "情報法制研究 (Journal of the Association of Law and Information Systems)",
+  "methodology": "legal_doctrinal"
+ }
+}

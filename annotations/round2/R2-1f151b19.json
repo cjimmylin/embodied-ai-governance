@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-1f151b19",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0286058,
+  "in": 2,
+  "out": 1817,
+  "cache_read": 11758,
+  "cache_create": 2314,
+  "api_ms": 8798,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Council Decision (CFSP) 2025/2539 of 11 December 2025 amending Decision (CFSP) 2022/2269 on Union support for the implementation of a project 'Promoting Responsible Innovation in Artificial Intelligence for Peace and Security'",
+  "title_en": "Council Decision (CFSP) 2025/2539 of 11 December 2025 amending Decision (CFSP) 2022/2269 on Union support for the implementation of a project 'Promoting Responsible Innovation in Artificial Intelligence for Peace and Security'",
+  "language": "en",
+  "authors_or_issuer": "Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "military_use_ihl"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EU Council CFSP decision granting a no-cost extension, to 31 March 2026, of the UNODA-implemented project on responsible AI innovation for peace and security. The extension addresses diversity problems, including visa difficulties for Global South participants, and allows capacity-building for civilian AI and policy communities there.",
+  "key_provisions_or_claims": [
+   "Amends Article 5 of Decision (CFSP) 2022/2269 so the project expires 39 months after the contribution agreement.",
+   "Extends the UNODA project to 31 March 2026 at no additional cost.",
+   "Extension responds to diversity challenges, including visa difficulties for Global South participants.",
+   "Adds dissemination and capacity-building for civilian AI and policy communities in a Global South region.",
+   "Enters into force on adoption, 11 December 2025."
+  ],
+  "confidence": 0.9
+ }
+}

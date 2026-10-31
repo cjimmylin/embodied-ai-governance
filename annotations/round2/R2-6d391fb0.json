@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-6d391fb0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:47:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0368858,
+  "in": 2,
+  "out": 1843,
+  "cache_read": 11758,
+  "cache_create": 4319,
+  "api_ms": 8995,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2023/2713 of 5 December 2023 designating European Union reference laboratories in the field of in vitro diagnostic medical devices",
+  "title_en": "Commission Implementing Regulation (EU) 2023/2713 of 5 December 2023 designating European Union reference laboratories in the field of in vitro diagnostic medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "DE",
+   "ES",
+   "SE"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU In Vitro Diagnostic Regulation (EU) 2017/746",
+   "Commission Implementing Regulation (EU) 2022/944"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission implementing regulation designating EU reference laboratories under the In Vitro Diagnostic Regulation (EU) 2017/746 for hepatitis/retrovirus, herpesvirus, bacterial and respiratory virus test devices. Applies from 1 October 2024 for performance verification and batch testing tasks in conformity assessment. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Designates laboratories in Germany, Spain and Sweden as EU reference laboratories for four IVD scopes.",
+   "Enters into force on the third day after publication in the Official Journal.",
+   "Tasks under Article 100(2) of Regulation 2017/746 apply from 1 October 2024.",
+   "Reference labs perform performance verification only for devices with conformity assessment applications lodged from 1 October 2024.",
+   "Class D devices undergo performance verification and batch testing by EU reference laboratories."
+  ],
+  "confidence": 0.95
+ }
+}

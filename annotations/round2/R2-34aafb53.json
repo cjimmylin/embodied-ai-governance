@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-34aafb53",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026705800000000002,
+  "in": 2,
+  "out": 1775,
+  "cache_read": 11758,
+  "cache_create": 1944,
+  "api_ms": 8792,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Folleto: Nuevas tecnologías, nuevos riesgos laborales. Exoesqueletos: características, riesgos y medidas preventivas - Año 2023",
+  "title_en": "Leaflet: New technologies, new occupational risks. Exoskeletons: characteristics, risks and preventive measures - 2023",
+  "language": "es",
+  "authors_or_issuer": "Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2023,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "INSST publications catalogue",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ES"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "rehabilitation_exoskeleton_prosthetic",
+   "drones_uas",
+   "collaborative_robots",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "rehabilitation_exoskeleton_prosthetic",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_robot_interaction_social_effects",
+   "labor_employment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Catalogue page for a 2023 Spanish INSST leaflet series on new technologies and occupational risks, covering exoskeletons, drones, collaborative robots and automated guided vehicles. It aims to raise awareness of the devices, their risks and preventive measures. Only the descriptive blurb is shown, not the leaflet content.",
+  "key_provisions_or_claims": [
+   "Leaflet series presents characteristics, risks and preventive measures of exoskeletons, drones, cobots and autoguided vehicles",
+   "Aims to raise awareness of new workplace technologies and their occupational risks",
+   "Promotes preventive measures to eliminate or reduce risks"
+  ],
+  "confidence": 0.6
+ }
+}

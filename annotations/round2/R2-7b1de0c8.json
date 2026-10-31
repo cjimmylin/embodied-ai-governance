@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-7b1de0c8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:36:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.28823580000000004,
+  "in": 2,
+  "out": 1750,
+  "cache_read": 11758,
+  "cache_create": 67389,
+  "api_ms": 10694,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "道路運送法施行規則",
+  "title_en": "Enforcement Regulations of the Road Transport Act (Japan)",
+  "language": "ja",
+  "authors_or_issuer": "Ministry of Land, Infrastructure, Transport and Tourism (formerly Ministry of Transport), Japan",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search (Japan)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "consumer_protection",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japan's Ministerial Ordinance implementing the Road Transport Act (1951), as amended effective 16 Oct 2026. It sets licensing, business plan, fare, and registration procedures for passenger road transport. It includes provisions on automated-operation passenger transport (autonomous vehicle services) in business plans and permit documents.",
+  "key_provisions_or_claims": [
+   "Business plans must cover automated-operation passenger transport using automated driving devices under their operating conditions.",
+   "Permit applications for automated passenger transport must include documents stating the automated driving device's operating conditions.",
+   "Specified automated operation applicants must submit a copy of the Road Traffic Act permit application.",
+   "Applicants must show measures to compensate for damage to life, body or property from vehicle operation.",
+   "Regulates licensing, fares, and registration of private-vehicle paid passenger transport."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "doc_id": "D0657",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:56:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0371378,
+  "in": 2,
+  "out": 1869,
+  "cache_read": 11758,
+  "cache_create": 4317,
+  "api_ms": 16773,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "manufacturing",
+   "healthcare",
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "National Robotics Programme (Singapore)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "SG"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots",
+   "mobile_industrial_logistics",
+   "professional_service_robots",
+   "domestic_household_robots",
+   "care_assistive_robots",
+   "surgical_medical_robots",
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "international_cooperation",
+   "conformity_assessment_certification"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "NRP is lead organisation for robotics standards in Singapore and an ASTM International member.",
+   "Represents Singapore in ASTM committees F45 and F48.",
+   "TR93 elevated to SS713 national standard for robot-to-infrastructure communications.",
+   "Lists adopted/referenced standards including ISO 10218, ISO/TS 15066, ISO 13482, IEC 80601-2-77.",
+   "Covers exoskeleton ASTM standards and medical robot standards."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "ISO 10218",
+   "ISO 13482",
+   "ISO/TS 15066"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "industrial_manipulators",
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Singapore National Robotics Programme page on robotics standards. It describes NRP's role as lead for robotics standards and ASTM F45/F48 representative, announces SS713 for robot-to-infrastructure communications, and catalogues relevant ISO, IEC, IEEE, ASTM and JIS standards for industrial, service, personal care, medical and exoskeleton robots.",
+  "title_clean": "Standards – NRP - National Robotics Programme",
+  "title_en": "Standards – NRP - National Robotics Programme",
+  "venue": "National Robotics Programme website (nrp.gov.sg)",
+  "methodology": "not_applicable"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "doc_id": "D0128",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:43:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0270138,
+  "in": 2,
+  "out": 1609,
+  "cache_read": 11758,
+  "cache_create": 2436,
+  "api_ms": 8010,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/IEC 23894:2023 - Information technology — Artificial intelligence — Guidance on risk management",
+  "title_en": "ISO/IEC 23894:2023 - Information technology — Artificial intelligence — Guidance on risk management",
+  "language": "en",
+  "authors_or_issuer": "ISO/IEC JTC 1/SC 42",
+  "issuer_type": "standards_body",
+  "pub_year": 2023,
+  "pub_month": 2,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "ISO.org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "ISO store catalogue page for ISO/IEC 23894:2023, an international standard giving guidance to organisations on managing AI-specific risk and integrating risk management into AI-related activities. Only metadata and abstract are shown; the standard is published and generic across sectors.",
+  "key_provisions_or_claims": [
+   "Guidance for organisations developing, deploying or using AI on managing AI-related risk",
+   "Describes processes for implementing and integrating AI risk management",
+   "Customizable to any organisation and context",
+   "Status: International Standard published (60.60)"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-46349d12",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:11:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0563356,
+  "in": 2,
+  "out": 1720,
+  "cache_read": 11758,
+  "cache_create": 2447,
+  "api_ms": 11910,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 18646-3:2021 Robotics — Performance criteria and related test methods for service robots — Part 3: Manipulation",
+  "title_en": "ISO 18646-3:2021 Robotics — Performance criteria and related test methods for service robots — Part 3: Manipulation",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 299 Robotics (International Organization for Standardization)",
+  "issuer_type": "standards_body",
+  "pub_year": 2021,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO 18646-3:2021, from ISO/TC 299. It sets out methods for specifying and testing how well service robots manipulate objects: grasp size, grasp strength, slip resistance, and opening hinged and sliding doors. It covers indoor environments only and does not apply to verifying safety requirements. The standard was under systematic review as of 2026.",
+  "key_provisions_or_claims": [
+   "Specifies test methods for service robots' grasp size, grasp strength and grasp slip resistance",
+   "Includes door-opening tests for hinged and sliding doors",
+   "Covers indoor environments only, though the tests may also apply outdoors",
+   "Not applicable to verifying or validating safety requirements",
+   "Edition 1 published June 2021; under systematic review from April 2026"
+  ],
+  "confidence": 0.85
+ }
+}

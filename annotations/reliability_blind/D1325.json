@@ -1,0 +1,95 @@
+{
+ "doc_id": "D1325",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:45:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0441198,
+  "in": 2,
+  "out": 1800,
+  "cache_read": 11758,
+  "cache_create": 6235,
+  "api_ms": 9442,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "100 Days Mission to respond to future pandemic threats: Reducing the impact of future pandemics by making Diagnostics, Therapeutics and Vaccines available within 100 days",
+  "title_en": "100 Days Mission to respond to future pandemic threats: Reducing the impact of future pandemics by making Diagnostics, Therapeutics and Vaccines available within 100 days",
+  "language": "en",
+  "authors_or_issuer": "Pandemic Preparedness Partnership (report to the UK G7 Presidency)",
+  "issuer_type": "other",
+  "pub_year": 2021,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "G7 Summit 2021 (UK Presidency)",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Independent report by the Pandemic Preparedness Partnership to the UK G7 Presidency proposing a 100 Days Mission to make diagnostics, therapeutics and vaccines available within 100 days of a pandemic threat. It draws on COVID-19 lessons and gives recommendations on R&D, surveillance, manufacturing, financing and global rules. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Aim to deploy safe, effective diagnostics, therapeutics and vaccines within 100 days of a WHO PHEIC declaration.",
+   "Invest in R&D targeting critical viral families and innovative, modular vaccine manufacturing.",
+   "Establish agreed 'rules of the road' for data sharing, regulatory approvals and procurement during a pandemic.",
+   "Secure pre-arranged financing so DTVs reach low-income countries equitably.",
+   "Strengthen global surveillance and an international clinical trials network."
+  ],
+  "confidence": 0.9
+ }
+}

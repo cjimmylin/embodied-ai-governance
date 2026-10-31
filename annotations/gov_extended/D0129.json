@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0129",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:38:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0310958,
+  "in": 2,
+  "out": 1766,
+  "cache_read": 11758,
+  "cache_create": 3064,
+  "api_ms": 10959,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "ISO (ISO/TC 22/SC 32)",
+  "binding_nature": "technical_standard_voluntary",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Applies to safety-related E/E systems using AI in series production road vehicles, excluding mopeds",
+   "Addresses risk of undesired behaviour from AI output insufficiencies, systematic errors and random hardware errors",
+   "Describes safety-related properties of AI systems to build a safety assurance claim for absence of unreasonable risk",
+   "Focuses primarily on machine learning; does not cover AI software tools",
+   "Published December 2024 as a Publicly Available Specification"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "ISO store catalogue page for ISO/PAS 8800:2024, Road vehicles — Safety and artificial intelligence (Edition 1, December 2024). It sets out safety-related properties of AI/ML elements in series production road vehicles to support safety assurance claims of absence of unreasonable risk.",
+  "title_clean": "ISO/PAS 8800:2024 Road vehicles — Safety and artificial intelligence",
+  "title_en": "ISO/PAS 8800:2024 Road vehicles — Safety and artificial intelligence",
+  "venue": "ISO Store",
+  "methodology": "not_applicable"
+ }
+}

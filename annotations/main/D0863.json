@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0863",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:29:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0380138,
+  "in": 2,
+  "out": 1805,
+  "cache_read": 11758,
+  "cache_create": 4696,
+  "api_ms": 12160,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robotics in Service and the Responsibility to Society",
+  "title_en": "Robotics in Service and the Responsibility to Society",
+  "language": "en",
+  "authors_or_issuer": "Bajcsy, R.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2018,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": "10.1109/MRA.2018.2873029",
+  "venue": "IEEE Robotics & Automation Magazine",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "editorial_or_commentary",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "research_science",
+   "education",
+   "healthcare",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "education_training",
+   "research_ethics",
+   "transparency_explainability",
+   "trust_acceptance"
+  ],
+  "primary_topic": "research_ethics",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "A column in IEEE Robotics & Automation Magazine by Ruzena Bajcsy on roboticists' ethical responsibilities to society in academia and industry. It calls for honesty about what robotics and AI can deliver, clear statement of assumptions and safe operating ranges, sound robotics education, and less marketing hype.",
+  "key_provisions_or_claims": [
+   "Roboticists must be honest about current and future capabilities of robotics and AI.",
+   "Systems should state assumptions, safe and reliable parameter ranges, error analysis, robustness and privacy guarantees.",
+   "Robotics education should keep fundamentals of physics, math and transduction alongside new data-driven methods.",
+   "Warns against over-optimistic claims and marketing in academia and startups, e.g. 85% accuracy versus market requirements.",
+   "Data-driven methods are suited to narrow, well-defined tasks; robotic surgery needs real-time patient-specific measurement."
+  ],
+  "confidence": 0.85
+ }
+}

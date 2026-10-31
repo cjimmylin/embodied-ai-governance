@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0117",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:09:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.043359800000000004,
+  "in": 2,
+  "out": 1758,
+  "cache_read": 11758,
+  "cache_create": 6150,
+  "api_ms": 13313,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Se realizó el encuentro “Oportunidades y desafíos en Inteligencia Artificial”",
+  "title_en": "The meeting \"Opportunities and Challenges in Artificial Intelligence\" was held",
+  "language": "es",
+  "authors_or_issuer": "Agencia I+D+i / Ministerio de Ciencia, Tecnología e Innovación (Argentina)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "argentina.gob.ar",
+  "jurisdiction_country": "AR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AR"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "agriculture_food",
+   "energy_environment",
+   "logistics_transport",
+   "healthcare",
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Argentine government news item on a workshop held by the Science Ministry, Agencia I+D+i and the IDB on AI opportunities and challenges, with sector tables on agroindustry, bioinformatics, logistics and mining. It announces a US$35 million IDB-backed AI investment programme; no robotics or regulatory content.",
+  "key_provisions_or_claims": [
+   "IDB agreement of US$35 million to invest in AI applications in agriculture, medical equipment, industry and education",
+   "Agencia I+D+i aims for an integrated AI programme; FONTAR has 22% of projects linked to AI",
+   "Sector working tables identified limits: public-private-academic articulation, scarce skilled staff, data/compute and ethical responsibility",
+   "National CTI Plan 2030 includes AI as an axis",
+   "Public-private consortia call to be shaped by workshop conclusions"
+  ],
+  "confidence": 0.9
+ }
+}

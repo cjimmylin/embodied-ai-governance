@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-17781d83",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:02:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2090478,
+  "in": 4,
+  "out": 3551,
+  "cache_read": 64168,
+  "cache_create": 42454,
+  "api_ms": 19097,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Federal Aviation Administration (FAA), U.S. Department of Transportation",
+  "issuer_type": "regulator_or_agency",
+  "methodology": "not_applicable",
+  "binding_nature": "legally_binding",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "incident_reporting",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Pilot in command is directly responsible and final authority for aircraft operation (91.3).",
+   "Right-of-way, minimum safe altitude, speed and airspace class operating rules (91.113-91.135).",
+   "Special flight rules for Grand Canyon, including flight-free zones and minimum altitudes (SFAR 50-2).",
+   "Temporary flight restrictions via NOTAM for disasters, events and space operations.",
+   "Equipment, recorder (CVR/FDR), and RVSM requirements; excludes part 107 small UAS except specific sections (91.1(f))."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "none",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Text of 14 CFR Part 91, the FAA's General Operating and Flight Rules for U.S. civil aircraft, including Special Federal Aviation Regulations (Grand Canyon, ATC emergency operation, Alaska RNAV), right-of-way, altitude, airspace class, equipment and RVSM rules. It concerns conventional piloted aviation, with only a passing exclusion of part 107 drones.",
+  "title_clean": "14 CFR Part 91—General Operating and Flight Rules",
+  "title_en": "14 CFR Part 91—General Operating and Flight Rules",
+  "venue": "Electronic Code of Federal Regulations"
+ }
+}

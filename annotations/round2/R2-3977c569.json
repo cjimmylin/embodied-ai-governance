@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-3977c569",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:37:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.048849300000000005,
+  "in": 4,
+  "out": 3512,
+  "cache_read": 25108,
+  "cache_create": 3529,
+  "api_ms": 19544,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "CASA 67/24 — Operation of RPA in Sydney Harbour Restricted Areas, R405A and R405B (CASA-Verified Drone Safety App) Instrument 2024",
+  "title_en": "CASA 67/24 — Operation of RPA in Sydney Harbour Restricted Areas, R405A and R405B (CASA-Verified Drone Safety App) Instrument 2024",
+  "language": "en",
+  "authors_or_issuer": "Civil Aviation Safety Authority (CASA), Australia",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Register of Legislation (F2024L01461)",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Australian CASA legislative instrument (2024) under the Civil Aviation Safety Regulations 1998 governing operation of remotely piloted aircraft (drones) in the Sydney Harbour restricted areas R405A and R405B, tied to use of a CASA-verified drone safety app. Only metadata is available in the excerpt.",
+  "key_provisions_or_claims": [
+   "Authorises RPA operations in Sydney Harbour restricted areas R405A and R405B",
+   "Made under the Civil Aviation Safety Regulations 1998",
+   "Links permission to use of a CASA-verified drone safety app",
+   "Registered as F2024L01461 on 15 November 2024"
+  ],
+  "confidence": 0.6
+ }
+}

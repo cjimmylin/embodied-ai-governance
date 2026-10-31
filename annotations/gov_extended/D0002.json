@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0002",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:35:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.032843800000000006,
+  "in": 2,
+  "out": 1752,
+  "cache_read": 11758,
+  "cache_create": 3536,
+  "api_ms": 9366,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "PL n. 357/2024 - Altera a Lei nº 9.394/1996 para dispor sobre a inclusão das atividades de Inteligência Artificial em cursos destinados a quem tenha concluído o ensino médio",
+  "title_en": "Bill No. 357/2024 - Amends Law No. 9,394/1996 to provide for the inclusion of Artificial Intelligence activities in courses for those who have completed secondary education",
+  "language": "pt",
+  "authors_or_issuer": "Câmara dos Deputados (Dep. Lucio Mosquini, MDB/RO)",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Câmara dos Deputados do Brasil",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education"
+  ],
+  "governance_topics": [
+   "education_training",
+   "industrial_policy_innovation",
+   "labor_employment"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Brazilian bill amending the national education guidelines law (LDB, Law 9,394/1996) to add Art. 36-E, making AI education, including digital literacy, computing, programming and robotics, a curricular component of post-secondary technical vocational courses. Justified by labour-market demand, competitiveness and sustainable development.",
+  "key_provisions_or_claims": [
+   "Adds Art. 36-E to LDB making AI education a curricular component of subsequent technical vocational courses",
+   "AI education covers digital literacy, computing, programming, robotics and other digital skills",
+   "Education systems have one year to regulate and implement",
+   "Law takes effect after regulation",
+   "Justification stresses workforce demand, global competitiveness and sustainable development"
+  ],
+  "confidence": 0.93
+ }
+}

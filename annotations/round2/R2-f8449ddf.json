@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-f8449ddf",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0521068,
+  "in": 4,
+  "out": 3558,
+  "cache_read": 25783,
+  "cache_create": 4216,
+  "api_ms": 19865,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Resolución 319/2025 - Administración Nacional de Aviación Civil - Regulaciones Argentinas de Aviación Civil - Apruébase (Parte 100 RPAS)",
+  "title_en": "Resolution 319/2025 - National Civil Aviation Administration - Argentine Civil Aviation Regulations - Approved (Part 100 RPAS)",
+  "language": "es",
+  "authors_or_issuer": "Administración Nacional de Aviación Civil (ANAC)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Boletín Oficial de la República Argentina",
+  "jurisdiction_country": "AR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AR"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Summary record of ANAC Resolution 319/2025 (Argentina), approving Part 100 of the Argentine Civil Aviation Regulations on general requirements for remotely piloted aircraft (RPA/RPAS, drones) and repealing Resolution 880/2019. Notes it was itself repealed by Resolution 550/2025 in August 2025.",
+  "key_provisions_or_claims": [
+   "Approves RAAC Part 100: general requirements for operating remotely piloted aircraft (RPA/RPAS).",
+   "Repeals ANAC Resolution 880/2019 and its amendments.",
+   "Repeals ANAC rules contrary to Decrees 639/2024 and 663/2024.",
+   "Later repealed by Resolution 550/2025 (B.O. 08/08/2025)."
+  ],
+  "confidence": 0.85
+ }
+}

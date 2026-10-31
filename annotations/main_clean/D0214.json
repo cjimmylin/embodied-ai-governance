@@ -1,0 +1,105 @@
+{
+ "doc_id": "D0214",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:47:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.058915800000000004,
+  "in": 2,
+  "out": 1872,
+  "cache_read": 11758,
+  "cache_create": 9754,
+  "api_ms": 10657,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Associate Professor of Civil Law, College of Law, University of Bahrain",
+  "binding_nature": "not_applicable",
+  "confidence": 0.6,
+  "countries_discussed": [
+   "BH",
+   "EU"
+  ],
+  "date_basis": "unknown",
+  "doc_class": "research_output",
+  "doc_type": "other",
+  "doi": null,
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "insurance_requirement",
+   "liability_regime",
+   "licensing_registration",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "legal_personhood_robot_rights",
+   "safety_physical_harm",
+   "transparency_explainability",
+   "consumer_protection"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "BH",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Robots could be treated as persons, things, animals, or a sui generis entity for liability purposes.",
+   "Bahraini Civil Code Article 175(b) on things requiring special care may cover robots as mechanical machines, making their guardian liable.",
+   "Proposes mandatory insurance for robot users covering all damage.",
+   "Proposes regulating robot manufacture and use before circulation in the state.",
+   "Proposes adding to Article 175 a joint liability of AI maker and programmer, plus a black-box mechanism to trace harmful AI acts."
+  ],
+  "language": "ar",
+  "named_instruments_referenced": [
+   "EU Civil Law Rules on Robotics 2017"
+  ],
+  "pub_month": null,
+  "pub_year": null,
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "publication_stage": "unknown",
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Lecture-style excerpt by a University of Bahrain civil law professor on civil liability for harm caused by robots. It reviews treating robots as persons, things (Bahraini Civil Code Art. 175), animals, or a special entity, and proposes mandatory insurance, pre-market regulation, joint maker/programmer liability, and a black-box mechanism.",
+  "title_clean": "المسؤولية المدنية عن الأخطاء المترتبة على الروبوت",
+  "title_en": "Civil Liability for Errors Resulting from Robots",
+  "venue": "Legal and Legislative Studies Center (lloc.gov.bh), Lectures",
+  "methodology": "legal_doctrinal"
+ }
+}

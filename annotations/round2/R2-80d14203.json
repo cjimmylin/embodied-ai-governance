@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-80d14203",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026033800000000003,
+  "in": 2,
+  "out": 1677,
+  "cache_read": 11758,
+  "cache_create": 2021,
+  "api_ms": 9221,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/AWI 22166-302 Robotics — Modularity for service robots — Part 302: Mobility module",
+  "title_en": "ISO/AWI 22166-302 Robotics — Modularity for service robots — Part 302: Mobility module",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 299",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "under_development",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 22166-1"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO/AWI 22166-302, a standard under development by ISO/TC 299 specifying requirements and guidelines for mobility modules in modular service robots. It covers interfaces, properties, composition and execution information, and is explicitly not a safety standard.",
+  "key_provisions_or_claims": [
+   "Specifies requirements and guidelines for mobility-related composite modules in service robots",
+   "Builds on the nine principles of ISO 22166-1 and on ISO 22166-201, -202 and WD -203",
+   "Covers interfaces, properties, composition and execution-specific information",
+   "Not a safety standard, but may include information needed for safety aspects",
+   "Project at stage 20.00, registered in the TC 299 work programme"
+  ],
+  "confidence": 0.9
+ }
+}

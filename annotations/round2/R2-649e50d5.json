@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-649e50d5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:35:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04691110000000001,
+  "in": 4,
+  "out": 3383,
+  "cache_read": 25081,
+  "cache_create": 3287,
+  "api_ms": 16768,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "defense_security"
+  ],
+  "authors_or_issuer": "Civil Aviation Safety Authority (CASA); Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+  "binding_nature": "legally_binding",
+  "confidence": 0.55,
+  "countries_discussed": [
+   "AU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Directions instrument under the Civil Aviation Safety Regulations 1998 governing operation of certain unmanned aircraft and rockets.",
+   "Registered on the Federal Register of Legislation as F2025L00457, dated 28 March 2025.",
+   "Full operative text not shown in excerpt."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Australian legislative instrument (CASA 20/25) issuing directions on the operation of certain unmanned aircraft and rockets under the Civil Aviation Safety Regulations 1998. Only the title page metadata is available, so the substantive directions are not visible.",
+  "title_clean": "CASA 20/25 – Operation of Certain Unmanned Aircraft and Rockets – Directions Instrument 2025",
+  "title_en": "CASA 20/25 – Operation of Certain Unmanned Aircraft and Rockets – Directions Instrument 2025",
+  "venue": "Federal Register of Legislation (Australia)"
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "doc_id": "D0463",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:42:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1329958,
+  "in": 2,
+  "out": 1822,
+  "cache_read": 11758,
+  "cache_create": 28399,
+  "api_ms": 10847,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Guide for Using Generative AI in the Legal Sector",
+  "title_en": "Guide for Using Generative AI in the Legal Sector",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Law, Singapore",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Law, Singapore",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "risk_management_risk_tiers",
+   "cybersecurity",
+   "intellectual_property",
+   "education_training"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "self_regulation_codes",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles",
+   "ISO/IEC 27001"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Singapore Ministry of Law's non-binding guide on responsible use of generative AI in legal services. It sets principles on professional ethics, confidentiality and transparency, offers a five-step implementation framework, and provides sample policies, clauses and vendor checklists. No robotics or physical AI content.",
+  "key_provisions_or_claims": [
+   "Legal professionals remain fully accountable for GenAI-assisted work product and must verify outputs.",
+   "Apply risk-based, proportionate human oversight (human-in-the-loop or on-the-loop).",
+   "Protect client confidentiality via tool selection, vendor terms review, anonymisation and no model training on client data.",
+   "Consider disclosing GenAI use to clients and offering opt-out.",
+   "Five-step adoption framework with sample governance policy, engagement letter clauses and vendor checklist."
+  ],
+  "confidence": 0.93
+ }
+}

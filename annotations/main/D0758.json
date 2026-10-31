@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0758",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:27:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.052873800000000006,
+  "in": 2,
+  "out": 1793,
+  "cache_read": 11758,
+  "cache_create": 8441,
+  "api_ms": 11070,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice",
+   "healthcare",
+   "finance"
+  ],
+  "authors_or_issuer": "Hendriana, D.Y. (Marinews, Mahkamah Agung RI)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "ID",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "blog_or_opinion",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [],
+  "governance_topics": [
+   "civil_liability",
+   "criminal_liability",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "legal_personhood_robot_rights",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "ethics_principles"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "ID",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "AI is not a legal subject; liability falls on developers, providers/owners and operators.",
+   "Criminal liability is indirect, targeting humans who design or negligently deploy high-risk AI.",
+   "Indonesia lacks comprehensive AI regulation; ITE Law and PDP Law serve as partial bases.",
+   "EU AI Act's risk-based approach is a model for Indonesia: proportionate obligations and classification.",
+   "Calls for an AI legal framework based on accountability, transparency, precaution and human rights."
+  ],
+  "language": "id",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 2,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "opposes",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Opinion article on the Indonesian Supreme Court's Marinews site examining who bears legal responsibility for AI errors in Indonesia. It argues AI is not a legal subject, assigns liability to developers, providers and users, notes the regulatory gap, and recommends a risk-based framework inspired by the EU AI Act.",
+  "title_clean": "Mencari Arah Pertanggungjawaban Hukum Artificial Intelligence di Indonesia",
+  "title_en": "Seeking the Direction of Legal Liability for Artificial Intelligence in Indonesia",
+  "venue": "Marinews (Mahkamah Agung RI)"
+ }
+}

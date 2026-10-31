@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-7e501c83",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:13:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028475800000000002,
+  "in": 2,
+  "out": 1684,
+  "cache_read": 11758,
+  "cache_create": 2614,
+  "api_ms": 11611,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "FAA Modernization and Reform Act of 2012 (Public Law 112-95)",
+  "title_en": "FAA Modernization and Reform Act of 2012 (Public Law 112-95)",
+  "language": "en",
+  "authors_or_issuer": "United States Congress",
+  "issuer_type": "legislature",
+  "pub_year": 2012,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "U.S. Statutes at Large / GovInfo",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Public Law 112-95, the FAA Modernization and Reform Act of 2012, authorizes FAA appropriations for fiscal years 2011-2014, streamlines programs, and improves aviation safety and capacity. The excerpt shows only the cover, statutory citations and legislative history. The full Act includes unmanned aircraft system provisions, which the excerpt does not show.",
+  "key_provisions_or_claims": [
+   "Authorizes FAA appropriations for fiscal years 2011 through 2014",
+   "Aims to streamline programs, reduce waste and improve aviation safety and capacity",
+   "Amends title 49 U.S.C. and related titles",
+   "Enacted February 14, 2012 (H.R. 658, conference report H. Rept. 112-381)"
+  ],
+  "confidence": 0.6
+ }
+}

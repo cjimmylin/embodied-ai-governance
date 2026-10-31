@@ -1,0 +1,106 @@
+{
+ "doc_id": "D1212",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:39:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.052241800000000005,
+  "in": 2,
+  "out": 1745,
+  "cache_read": 11758,
+  "cache_create": 8403,
+  "api_ms": 11258,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "healthcare",
+   "public_administration_justice",
+   "education",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Dipartimento per la trasformazione digitale, Presidenza del Consiglio dei Ministri",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "IT",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "press_release_or_government_news",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_oversight_control",
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "labor_employment",
+   "transparency_explainability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Senate gave final approval to Italy's national AI law on 17 September 2025.",
+   "Law based on human-centric, transparent and safe AI use, aligned with the EU AI Act.",
+   "ACN and AgID designated national competent authorities.",
+   "National AI Strategy updated every two years with annual report to Parliament.",
+   "EUR 1 billion investment programme for startups and SMEs."
+  ],
+  "language": "it",
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Italian government news item announcing the Senate's final approval of Italy's national AI law, aligned with the EU AI Act. It sets human-centric principles, sectoral safeguards, ACN and AgID as competent authorities, a biennial national AI strategy, and a EUR 1 billion fund for startups and SMEs.",
+  "title_clean": "Approvata in via definitiva la legge italiana sull'Intelligenza Artificiale",
+  "title_en": "Italian Artificial Intelligence Law Definitively Approved",
+  "venue": "innovazione.gov.it",
+  "methodology": "not_applicable"
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "doc_id": "D1600",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0465038,
+  "in": 2,
+  "out": 1998,
+  "cache_read": 11758,
+  "cache_create": 6336,
+  "api_ms": 11894,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector",
+   "domestic_consumer",
+   "healthcare",
+   "research_science"
+  ],
+  "authors_or_issuer": "Fosch-Villaronga, E.; Shaffique, M.R.; Schwed-Shenker, M.; Mut-Piña, A.; van der Hof, S.; Custers, B.H.M.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "EU",
+   "US",
+   "JP",
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.1016/j.techfore.2025.124202",
+  "embodied_categories": [
+   "professional_service_robots",
+   "domestic_household_robots",
+   "care_assistive_robots",
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers",
+   "consumer_protection",
+   "human_robot_interaction_social_effects"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "supranational_regional",
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "ISO 13482",
+   "EU Machinery Regulation",
+   "GDPR"
+  ],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "professional_service_robots",
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2025,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Journal article proposing \"Science for Robot Policy,\" a five-step evidence-based model applying the EU science-for-policy approach to service robotics. It combines risk identification, experimentation in simulators, testing zones and living labs, stakeholder engagement and knowledge brokering to produce anticipatory regulation and address gaps in standards such as ISO 13482.",
+  "key_provisions_or_claims": [
+   "Service robotics regulation is fragmented and reactive, lacking evidence-based policymaking found in health or consumer protection.",
+   "Proposes a five-step model: risk identification, controlled experimentation, policy-relevant information, knowledge for policymakers.",
+   "Experimentation occurs in simulators, testing zones, living labs and real markets.",
+   "ISO 13482 has definitional gaps and weak user representation in standardisation.",
+   "Builds on the EU Better Regulation Agenda and the AI Act's push for stakeholder participation."
+  ],
+  "title_clean": "Science for Robot Policy: Advancing robotics policy through the EU science for policy approach",
+  "title_en": "Science for Robot Policy: Advancing robotics policy through the EU science for policy approach",
+  "venue": "Technological Forecasting & Social Change"
+ }
+}

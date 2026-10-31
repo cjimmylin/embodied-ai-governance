@@ -1,0 +1,96 @@
+{
+ "doc_id": "D1643",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:06:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026889800000000002,
+  "in": 2,
+  "out": 1719,
+  "cache_read": 11758,
+  "cache_create": 2130,
+  "api_ms": 8806,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "authors_or_issuer": "Misselhorn, C.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.6,
+  "countries_discussed": [],
+  "date_basis": "inferred_from_content",
+  "doc_class": "research_output",
+  "doc_type": "book_or_chapter",
+  "doi": "10.3233/faia220599",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "prohibitions_bans"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "ethics_principles",
+   "civil_liability",
+   "human_dignity_autonomy",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Responsibility gap argument (Sparrow) against LAWS",
+   "Human agency argument (Leveringhaus)",
+   "Moral duty argument (Misselhorn)",
+   "Use of killer robots is argued to be morally wrong in itself, not only for bad consequences",
+   "Many AI researchers call for a ban on LAWS"
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "pub_month": null,
+  "pub_year": 2022,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Abstract of a chapter in Frontiers in AI and Applications vol. 366 (Social Robots in Social Institutions) presenting three ethical objections to lethal autonomous weapon systems: Sparrow's responsibility gap, Leveringhaus's human agency argument, and Misselhorn's moral duty argument. It argues that using killer robots is intrinsically wrong.",
+  "title_clean": "Three Ethical Arguments Against Killer Robots",
+  "title_en": "Three Ethical Arguments Against Killer Robots",
+  "venue": "Frontiers in Artificial Intelligence and Applications (IOS Press)"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "D0485",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0483118,
+  "in": 2,
+  "out": 1904,
+  "cache_read": 11758,
+  "cache_create": 7023,
+  "api_ms": 11565,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Blockchain Infrastructure for Intelligent Cyber–Physical–Social Systems: Post-Quantum Security, Interoperability, and Trustworthy Data Economies in the Era of Embodied AI",
+  "title_en": "Blockchain Infrastructure for Intelligent Cyber–Physical–Social Systems: Post-Quantum Security, Interoperability, and Trustworthy Data Economies in the Era of Embodied AI",
+  "language": "en",
+  "authors_or_issuer": "Guo, S.; Huang, H.; Liu, D.; Zhang, A.; Zhang, L.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "arXiv (tutorial, IEEE ICBC 2026)",
+  "jurisdiction_country": "HK",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "standards_interoperability",
+   "privacy_data_protection",
+   "industrial_policy_innovation",
+   "intellectual_property",
+   "trust_acceptance"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "data_governance_requirements",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "technical_or_engineering",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Tutorial proposal for IEEE ICBC 2026 presenting blockchain as a trust and coordination layer for embodied AI and cyber-physical-social systems, covering post-quantum security migration, cross-shard interoperability, and trustworthy robotic data provenance using Croissant metadata. Technical rather than regulatory; governance appears only as open challenges.",
+  "key_provisions_or_claims": [
+   "Blockchain should evolve into trust and coordination layer for embodied AI and CPSS.",
+   "Crypto-agility and hybrid migration needed against quantum threats to ECDSA signatures.",
+   "BrokerChain cross-shard protocols enable scalable interoperability.",
+   "Croissant metadata and blockchain provenance support trustworthy robotic datasets.",
+   "Open challenges: governance of cryptographic transitions, standards-aware interoperability, incentive alignment."
+  ],
+  "confidence": 0.8
+ }
+}

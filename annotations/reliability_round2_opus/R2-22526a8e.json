@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-22526a8e",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:05:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2573956,
+  "in": 2,
+  "out": 1973,
+  "cache_read": 11758,
+  "cache_create": 26947,
+  "api_ms": 13788,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Recommendation (EU) 2026/510 of 6 March 2026 on revising the European assessment framework for ‘safe and sustainable by design’ chemicals and materials",
+  "title_en": "Commission Recommendation (EU) 2026/510 of 6 March 2026 on revising the European assessment framework for ‘safe and sustainable by design’ chemicals and materials",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "research_science",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "safety_physical_harm",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers",
+   "labor_employment"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "funding_or_incentives",
+   "education_training_programs",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "REACH Regulation",
+   "CLP Regulation",
+   "Ecodesign for Sustainable Products Regulation",
+   "Commission Recommendation (EU) 2022/2510",
+   "Chemicals Strategy for Sustainability",
+   "Regulation (EU) 2025/2455 common data platform on chemicals"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission Recommendation revising the voluntary 'safe and sustainable by design' (SSbD) framework for chemicals and materials, adding scoping analysis, tiered safety, environmental (LCA) and socioeconomic assessments, and encouraging Member States, industry and research bodies to apply it in R&I. Not about AI or robotics.",
+  "key_provisions_or_claims": [
+   "Revises Recommendation (EU) 2022/2510 establishing the SSbD framework",
+   "Adds scoping analysis and socioeconomic sustainability dimension",
+   "Tiered, iterative safety and environmental assessment based on hazard criteria and LCA/PEF",
+   "Encourages FAIR data sharing via EU common data platform on chemicals",
+   "Voluntary; creates no new legal obligations"
+  ],
+  "confidence": 0.92
+ }
+}

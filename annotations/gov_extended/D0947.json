@@ -1,0 +1,120 @@
+{
+ "doc_id": "D0947",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:46:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1608678,
+  "in": 2,
+  "out": 1988,
+  "cache_read": 11758,
+  "cache_create": 34952,
+  "api_ms": 11663,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "National Artificial Intelligence Research and Development Strategic Plan: 2023 Update",
+  "title_en": "National Artificial Intelligence Research and Development Strategic Plan: 2023 Update",
+  "language": "en",
+  "authors_or_issuer": "Select Committee on Artificial Intelligence, National Science and Technology Council (OSTP), United States",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "White House OSTP / NSTC",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots",
+   "space_or_extreme_environment"
+  ],
+  "primary_embodied_category": "collaborative_robots",
+  "application_sectors": [
+   "cross_sector",
+   "research_science",
+   "healthcare",
+   "manufacturing",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "safety_physical_harm",
+   "cybersecurity",
+   "standards_interoperability",
+   "education_training",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "trust_acceptance",
+   "human_oversight_control",
+   "sustainability_environment",
+   "labor_employment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "international_cooperation",
+   "education_training_programs",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "NIST AI RMF",
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "The 2023 update of the US federal national AI R&D strategic plan reaffirms eight strategies and adds a ninth on international collaboration. It sets research priorities including trustworthy, safe, secure AI, standards and benchmarks, workforce and partnerships. Robotics appears only as one research line (more capable, reliable, safe robots). It expressly leaves regulation to other documents.",
+  "key_provisions_or_claims": [
+   "Reaffirms eight 2019 strategies and adds Strategy 9 on principled international AI research collaboration",
+   "Prioritizes federal R&D investment in responsible, trustworthy, safe and secure AI",
+   "Calls for research on more capable, reliable and safe robots collaborating with humans",
+   "Promotes standards, benchmarks, testbeds and auditing aligned with the NIST AI RMF and AI Bill of Rights Blueprint",
+   "Leaves regulation and governance to other federal documents"
+  ],
+  "confidence": 0.9
+ }
+}

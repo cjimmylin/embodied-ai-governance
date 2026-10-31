@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-7adea257",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:30:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08331179999999999,
+  "in": 2,
+  "out": 1714,
+  "cache_read": 11758,
+  "cache_create": 16248,
+  "api_ms": 9446,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院办公厅关于加快推进政务服务“跨省通办”的指导意见",
+  "title_en": "Guiding Opinions of the General Office of the State Council on Accelerating the \"Cross-Province Handling\" of Government Services",
+  "language": "zh",
+  "authors_or_issuer": "国务院办公厅 (General Office of the State Council of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中国政府网",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "data_governance_requirements",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese State Council General Office guideline (Guobanfa [2020] No. 35) on accelerating cross-province handling of government services, setting targets, service models, data-sharing and platform support, and a 140-item list of services. It is not about AI or robotics beyond a passing mention of big data and AI as tools.",
+  "key_provisions_or_claims": [
+   "First batch of services handled cross-province by end-2020; high-frequency items by end-2021",
+   "Three models: full online handling, remote receipt and agency handling, multi-location joint handling",
+   "National integrated government service platform to host a cross-province portal and e-licence mutual recognition",
+   "Establish data-sharing coordination mechanism while protecting state secrets, trade secrets and privacy",
+   "Annex lists 140 high-frequency services with lead agencies and deadlines"
+  ],
+  "confidence": 0.93
+ }
+}

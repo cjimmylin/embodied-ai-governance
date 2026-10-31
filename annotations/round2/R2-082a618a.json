@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-082a618a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:36:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.038141800000000003,
+  "in": 2,
+  "out": 1947,
+  "cache_read": 11758,
+  "cache_create": 4373,
+  "api_ms": 9763,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "关于印发《关于培育养老服务经营主体 促进银发经济发展的若干措施》的通知",
+  "title_en": "Notice on Issuing the Several Measures on Cultivating Elderly Care Service Business Entities and Promoting the Silver Economy",
+  "language": "zh",
+  "authors_or_issuer": "民政部; 国家发展改革委; 工业和信息化部; 财政部; 自然资源部; 商务部; 市场监管总局; 国家知识产权局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "rehabilitation_exoskeleton_prosthetic",
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "consumer_protection",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "other"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "licensing_registration",
+   "audits_impact_assessment",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Chinese multi-ministry notice (Dec 2025) issuing measures to cultivate elderly-care service businesses and the silver economy. Covers branding, market matching, fair competition, voluntary standards and certification, and support for technology including elderly-care robots, embodied intelligence, exoskeletons and brain-computer interfaces, with pilot trials in care institutions.",
+  "key_provisions_or_claims": [
+   "Encourages development of elderly-care robots for daily nursing, emotional companionship and social support.",
+   "Accelerates R&D of embodied intelligence, exoskeleton robots, brain-computer interfaces and rehabilitation aids.",
+   "Supports embedding smart care devices and rehabilitation robots in care institutions via leasing and pilot trials.",
+   "Establishes voluntary certification and standards system for silver-economy products with traceability and credit evaluation.",
+   "Strengthens elderly consumer protection, fair competition, land supply and subsidies for care providers."
+  ],
+  "confidence": 0.9
+ }
+}

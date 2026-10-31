@@ -1,0 +1,101 @@
+{
+ "doc_id": "D0484",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0731452,
+  "in": 4,
+  "out": 3869,
+  "cache_read": 30082,
+  "cache_create": 8636,
+  "api_ms": 20673,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "EmbodiedGovBench: A Benchmark for Governance, Recovery, and Upgrade Safety in Embodied Agent Systems",
+  "title_en": "EmbodiedGovBench: A Benchmark for Governance, Recovery, and Upgrade Safety in Embodied Agent Systems",
+  "language": "en",
+  "authors_or_issuer": "Qin, X.; Luan, S.; See, J.; Yang, C.; Li, Z.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "arXiv (cs.RO)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "mobile_industrial_logistics",
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "safety_physical_harm",
+   "transparency_explainability",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "technical_or_engineering",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Preprint proposing EmbodiedGovBench, a benchmark evaluating whether embodied agent systems are technically governable, using seven dimensions (unauthorized invocation, drift, recovery, policy portability, upgrade safety, human override, audit completeness). Governance is meant as runtime enforcement, not law. It reports experiments on four baseline systems.",
+  "key_provisions_or_claims": [
+   "Embodied governance should be a first-class evaluation target beyond task success.",
+   "Defines seven governance dimensions: invocation legality, drift, recovery, policy portability, upgrade safety, human override, audit completeness.",
+   "Benchmark covers single-robot and fleet settings with scenario templates, perturbation operators and GovScore metrics.",
+   "Experiments on 125 scenarios show systems with similar task success differ widely in GovScore.",
+   "Governed baseline scores highest on GovScore (0.94) but lower task success (0.70)."
+  ],
+  "confidence": 0.9
+ }
+}

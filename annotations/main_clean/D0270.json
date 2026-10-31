@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0270",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:49:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0553316,
+  "in": 4,
+  "out": 3567,
+  "cache_read": 26561,
+  "cache_create": 4972,
+  "api_ms": 18215,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/IEC 42005:2025 - Information technology — Artificial intelligence (AI) — AI system impact assessment",
+  "title_en": "ISO/IEC 42005:2025 - Information technology — Artificial intelligence (AI) — AI system impact assessment",
+  "language": "en",
+  "authors_or_issuer": "ISO/IEC (International Organization for Standardization)",
+  "issuer_type": "standards_body",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO website",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "ethics_principles",
+   "transparency_explainability",
+   "trust_acceptance"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "ISO/IEC 42001",
+   "ISO/IEC 23894"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "ISO store page for ISO/IEC 42005:2025, an international standard giving guidance for organisations conducting AI system impact assessments on individuals, groups and society across the AI lifecycle. It complements ISO/IEC 42001, 38507 and 23894. General AI, with no robotics-specific content.",
+  "key_provisions_or_claims": [
+   "Guidance for AI system impact assessments on individuals, groups and society",
+   "Assessments recommended throughout the lifecycle, from design to post-market monitoring",
+   "Applies to any organisation developing, providing or using AI regardless of sector or size",
+   "Complements ISO/IEC 42001, 38507 and 23894",
+   "Supports transparency, accountability and trust through documented impacts"
+  ],
+  "confidence": 0.85
+ }
+}

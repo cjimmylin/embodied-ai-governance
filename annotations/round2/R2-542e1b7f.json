@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-542e1b7f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0584871,
+  "in": 4,
+  "out": 3261,
+  "cache_read": 28216,
+  "cache_create": 6399,
+  "api_ms": 18155,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Road Traffic and Roads Act 2023",
+  "title_en": "Road Traffic and Roads Act 2023",
+  "language": "en",
+  "authors_or_issuer": "Oireachtas (Ireland)",
+  "issuer_type": "legislature",
+  "pub_year": 2023,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Irish Statute Book",
+  "jurisdiction_country": "IE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IE"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Irish Road Traffic and Roads Act 2023, amending the Road Traffic Acts and Roads Acts. It covers driving licence categories, fixed charge offences, powered personal transporters, road cameras, national managed roads and speed limits, and ministerial functions on zero and low emission vehicles. No AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Amends Road Traffic Acts 1961 to 2018 and Roads Act 1993",
+   "Part 12 regulates powered personal transporters and pedal cycles",
+   "Section 46 allows use of cameras on roads to obtain data",
+   "Creates national managed roads with special speed limits",
+   "Confers Minister for Transport functions on zero to low emission vehicles"
+  ],
+  "confidence": 0.9
+ }
+}

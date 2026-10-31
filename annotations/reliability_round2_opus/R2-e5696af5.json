@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-e5696af5",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:07:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0578916,
+  "in": 2,
+  "out": 1777,
+  "cache_read": 11758,
+  "cache_create": 2499,
+  "api_ms": 12750,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "关于开展基层医疗卫生机构医疗质量改善三年行动（2026—2028年）的通知",
+  "title_en": "Notice on Launching the Three-Year Action for Medical Quality Improvement in Primary Healthcare Institutions (2026–2028)",
+  "language": "zh",
+  "authors_or_issuer": "National Health Commission of the PRC (General Office); National Administration of Traditional Chinese Medicine",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "National Health Commission website",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Notice from China's National Health Commission (Guo Wei Ban Ji Ceng Fa [2026] No. 4) launching a three-year action plan (2026–2028) to improve medical quality management in township health centres, community health centres and village clinics. It sets phased targets, annual self-inspection and correction, and evaluations. It does not cover AI or robotics.",
+  "key_provisions_or_claims": [
+   "By end-2026, central township health centres and community health centres with 30+ beds establish medical quality management systems",
+   "By end-2027, other township and community health centres follow suit",
+   "By end-2028, a national primary-care quality management system covering village clinics and community health stations",
+   "Annual cycle: self-inspection and correction (Jan–Mar), quality improvement (Apr–Oct), annual evaluation (Nov–Dec)",
+   "Provincial health authorities draft implementation plans; medical consortium lead hospitals support oversight"
+  ],
+  "confidence": 0.9
+ }
+}

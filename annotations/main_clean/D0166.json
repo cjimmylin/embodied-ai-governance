@@ -1,0 +1,98 @@
+{
+ "doc_id": "D0166",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:46:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.034673800000000005,
+  "in": 2,
+  "out": 1691,
+  "cache_read": 11758,
+  "cache_create": 4146,
+  "api_ms": 13139,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Inter-American Framework on Data Governance and Artificial Intelligence (MIGDIA)",
+  "title_en": "Inter-American Framework on Data Governance and Artificial Intelligence (MIGDIA)",
+  "language": "en",
+  "authors_or_issuer": "Organization of American States (OAS), Department for Effective Public Management",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "OAS website",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "BR",
+   "AR"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "education_training"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "education_training_programs",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "OAS web page describing MIGDIA, a regional framework to guide member states in data governance for AI, comprising 104 guidelines in 12 thematic areas, a regional study and a model policy, co-created via working groups and public consultation. No robotics content.",
+  "key_provisions_or_claims": [
+   "MIGDIA offers guidelines in 12 thematic areas as a roadmap for national data and AI governance",
+   "Includes a study on the state of data and AI governance in the Americas",
+   "Includes a model data and AI governance policy (draft) as a reference",
+   "Developed via co-creation with government, civil society and private sector working groups plus public consultation",
+   "Technical assistance provided to Brazil and Argentina on data governance policy"
+  ],
+  "confidence": 0.8
+ }
+}

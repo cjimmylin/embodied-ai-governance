@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0531",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8fa172c1ecd5",
+ "annotated_at": "2026-10-30T15:05:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.090618,
+  "in": 2,
+  "out": 1779,
+  "cache_read": 0,
+  "cache_create": 18206,
+  "api_ms": 9431,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "finance"
+  ],
+  "authors_or_issuer": "Pradana, F.E.; Arifin, Z.; Manfaluthi, A.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "ID"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": "10.21070/acopen.11.2026.14125",
+  "embodied_categories": [],
+  "embodiment_status": "software_agent_called_robot",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "criminal_liability",
+   "transparency_explainability",
+   "education_training"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "ID",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Trading robot sales in the case functioned as a structured investment fraud, not a legitimate investment instrument.",
+   "The practice met the fraud elements of Article 378 of the Criminal Code and was linked to money laundering under Law 8/2010.",
+   "Supreme Court Decision 5522 K/Pid.Sus/2024 used a substantive approach, but consumer protection reasoning needs stronger integration.",
+   "Regulatory gaps, weak oversight and low financial literacy enable recurrence.",
+   "Recommends adaptive legal reform, specific digital investment regulation, stronger supervision, early warning mechanisms and financial literacy."
+  ],
+  "language": "en",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2026,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Normative legal study of Indonesian Supreme Court Decision 5522 K/Pid.Sus/2024, treating trading robot sales as investment fraud under Criminal Code Article 378 and money laundering law. Argues for adaptive reform, stronger supervision, specific digital investment rules and financial literacy. The robots are software trading tools, not physical systems.",
+  "title_clean": "Trading Robot Sales as Investment Fraud Under Indonesian Law",
+  "title_en": "Trading Robot Sales as Investment Fraud Under Indonesian Law",
+  "venue": "Academia Open"
+ }
+}

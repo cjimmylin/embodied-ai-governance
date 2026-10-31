@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-43bd35c0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:08:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0672176,
+  "in": 4,
+  "out": 3777,
+  "cache_read": 28846,
+  "cache_create": 7424,
+  "api_ms": 18631,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Working paper on the \"human element\"",
+  "title_en": "Working paper on the \"human element\"",
+  "language": "en",
+  "authors_or_issuer": "Bulgaria, Denmark, Finland, France, Germany, Italy, Luxembourg, the Netherlands, Norway, Spain, and Sweden (submitted to CCW GGE on LAWS)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN CCW Group of Governmental Experts on LAWS (CCW/GGE.1/2025/WP.4)",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "BG",
+   "DK",
+   "FI",
+   "FR",
+   "DE",
+   "IT",
+   "LU",
+   "NL",
+   "NO",
+   "ES"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Working paper by eleven European states to the CCW GGE on lethal autonomous weapons, arguing that \"context-appropriate human judgement and control\" is the key concept for ensuring IHL compliance across the weapon system lifecycle, without requiring direct continuous human oversight, and urging consensus language by 2026.",
+  "key_provisions_or_claims": [
+   "Frames the issue as human-machine interaction with context-appropriate human judgement and control to comply with IHL.",
+   "Human judgement and control apply across lifecycle: design, legal review (Art. 36 AP I), testing, deployment limits.",
+   "Direct or continuous human oversight is not required by IHL; control over parameters before deployment can suffice.",
+   "Control includes approval of mission changes, safety stop ability, and adequate operator situational awareness.",
+   "Calls on GGE members to turn convergence into concrete language before the 2026 mandate ends."
+  ],
+  "confidence": 0.85
+ }
+}

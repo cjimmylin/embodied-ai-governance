@@ -1,0 +1,117 @@
+{
+ "doc_id": "R2-98a10849",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2231478,
+  "in": 2,
+  "out": 1926,
+  "cache_read": 11758,
+  "cache_create": 50677,
+  "api_ms": 11762,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Plán autonomní mobility do roku 2025 s výhledem do roku 2030",
+  "title_en": "Autonomous Mobility Plan to 2025 with an Outlook to 2030",
+  "language": "cs",
+  "authors_or_issuer": "Vláda České republiky / Ministerstvo dopravy",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Government of the Czech Republic (Resolution No. 234)",
+  "jurisdiction_country": "CZ",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CZ",
+   "EU"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "research_science",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "safety_physical_harm",
+   "cybersecurity",
+   "ethics_principles",
+   "civil_liability",
+   "certification_conformity_assessment",
+   "privacy_data_protection",
+   "education_training",
+   "standards_interoperability",
+   "trust_acceptance",
+   "labor_employment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "international_cooperation",
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "education_training_programs",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Czech government plan, approved by Resolution No. 234 of 10 April 2024, for autonomous road mobility to 2025 with an outlook to 2030. It sets 13 measures across transport-technical infrastructure, legislation/standardisation/ethics, research and innovation, and public education. The aims are to enable automated vehicle operation safely and to make the Czech Republic a Central European leader.",
+  "key_provisions_or_claims": [
+   "Ministry of Transport coordinates 13 measures and reports to government by end of 2025",
+   "Amend Road Traffic Act 361/2000 to permit automated vehicles, defining driver, remote operator and operational domain",
+   "Support testing environments, proving grounds and pilot projects",
+   "Create cybersecurity platform and certification approach for autonomous mobility, with the National Cyber Security Authority",
+   "Continue work of the Ethics Commission and fund R&D (at least CZK 100 million), plus driver training and retraining"
+  ],
+  "confidence": 0.9
+ }
+}

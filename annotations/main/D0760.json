@@ -1,0 +1,90 @@
+{
+ "doc_id": "D0760",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:27:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0802244,
+  "in": 4,
+  "out": 3151,
+  "cache_read": 33844,
+  "cache_create": 11932,
+  "api_ms": 16251,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "과학기술정보통신부 (Ministry of Science and ICT)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.55,
+  "countries_discussed": [
+   "KR"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "press_release_or_government_news",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "self_regulation_codes"
+  ],
+  "governance_topics": [
+   "ethics_principles"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Press release announcing Korea's National AI Ethics Standards (Dec 2020)",
+   "Full body text not captured; page mostly navigation menus",
+   "Attachments are HWP/ODT files of the press release"
+  ],
+  "language": "ko",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2020,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Press release page from Korea's Ministry of Science and ICT announcing the preparation of the National AI Ethics Standards (December 2020, inferred from attachment filename). The captured text is mostly site navigation; the substantive content is in attached HWP/ODT files.",
+  "title_clean": "국가 인공지능 윤리기준 마련 (보도자료)",
+  "title_en": "Establishment of National AI Ethics Standards (Press Release)",
+  "venue": "과학기술정보통신부 (msit.go.kr)"
+ }
+}

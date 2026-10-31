@@ -1,0 +1,115 @@
+{
+ "doc_id": "R2-a85e7f8c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:58:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0390138,
+  "in": 2,
+  "out": 1841,
+  "cache_read": 11758,
+  "cache_create": 4856,
+  "api_ms": 8762,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Addressing Bias in Autonomous Weapons",
+  "title_en": "Addressing Bias in Autonomous Weapons",
+  "language": "en",
+  "authors_or_issuer": "Austria, Belgium, Canada, Costa Rica, Germany, Ireland, Luxembourg, Mexico, Panama and Uruguay (CCW GGE on LAWS)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UN CCW Group of Governmental Experts on Lethal Autonomous Weapons Systems (CCW/GGE.1/2024/WP.5)",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "AT",
+   "BE",
+   "CA",
+   "CR",
+   "DE",
+   "IE",
+   "LU",
+   "MX",
+   "PA",
+   "UY"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "proposal_or_concept",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "fairness_bias_discrimination",
+   "military_use_ihl",
+   "transparency_explainability",
+   "human_dignity_autonomy",
+   "education_training"
+  ],
+  "primary_topic": "fairness_bias_discrimination",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "education_training_programs",
+   "international_cooperation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Working paper submitted by ten states to the CCW GGE on LAWS, documenting gender and racial bias in AI and its amplified risks in autonomous weapons. It urges that a future normative framework include positive obligations on bias, including testing, dataset documentation, benchmarking and training.",
+  "key_provisions_or_claims": [
+   "Future LAWS framework should include positive obligations on algorithmic bias",
+   "Comprehensive testing and review to identify and correct biases",
+   "Rigorous documentation of datasets for traceability and transparency",
+   "Benchmark models against gender, age and race in scenarios distinct from training data",
+   "Training and awareness for those testing and using systems"
+  ],
+  "confidence": 0.9
+ }
+}

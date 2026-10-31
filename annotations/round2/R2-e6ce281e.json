@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-e6ce281e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:01:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0529918,
+  "in": 2,
+  "out": 1858,
+  "cache_read": 11758,
+  "cache_create": 8308,
+  "api_ms": 11469,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Economic and Social Committee on 'Digitalisation, AI and Equity — How to strengthen the EU in the global race of future skills and education, while ensuring social inclusion'",
+  "title_en": "Opinion of the European Economic and Social Committee on 'Digitalisation, AI and Equity — How to strengthen the EU in the global race of future skills and education, while ensuring social inclusion'",
+  "language": "en",
+  "authors_or_issuer": "European Economic and Social Committee",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2019,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, C 14/46 (15.1.2020)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "FI"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "education_training",
+   "labor_employment",
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 2,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "European Pillar of Social Rights"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Economic and Social Committee exploratory opinion, requested by the Finnish Presidency, on education and skills for the AI era. It recommends an EU strategy for continuous, learner-centred learning as an individual right, more EU funding, cooperation among Member States, and inclusiveness. Robots are mentioned only in passing.",
+  "key_provisions_or_claims": [
+   "Access to continuous, lifelong learning should be an individual right for everyone.",
+   "Develop an EU strategy for continuous, learner-centred learning with trustworthy AI at its heart.",
+   "Increase EU funds (Erasmus+, ESF, Globalisation Adjustment Fund) for AI-related education and training.",
+   "Ensure inclusiveness regardless of gender, age or socioeconomic background.",
+   "Involve social partners and civil society in decisions on technologies and work organisation."
+  ],
+  "confidence": 0.9
+ }
+}

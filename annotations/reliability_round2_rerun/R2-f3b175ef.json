@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-f3b175ef",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:02:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.047675800000000004,
+  "in": 2,
+  "out": 1760,
+  "cache_read": 11758,
+  "cache_create": 7224,
+  "api_ms": 9120,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "PART 48—REGISTRATION AND MARKING REQUIREMENTS FOR SMALL UNMANNED AIRCRAFT",
+  "title_en": "Part 48—Registration and Marking Requirements for Small Unmanned Aircraft",
+  "language": "en",
+  "authors_or_issuer": "Federal Aviation Administration (FAA), U.S. Department of Transportation",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2021,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Code of Federal Regulations (14 CFR Part 48)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "US FAA regulation (14 CFR Part 48) requiring registration and marking of small unmanned aircraft. It sets eligibility, applicant information, fees, three-year renewal, update duties and display of a unique identifier. It is a drone accountability and identification measure rather than AI-specific.",
+  "key_provisions_or_claims": [
+   "Small unmanned aircraft must be registered unless recreational and 0.55 lb or less, or military.",
+   "Registration is open to US citizens, permanent residents and certain US-organized entities; the fee is $5 per aircraft.",
+   "Certificates expire after 3 years and require renewal; information changes must be updated within 14 days.",
+   "Applicants must provide contact details, manufacturer, model and remote ID serial numbers.",
+   "A unique identifier must be legibly and durably displayed on the aircraft's external surface."
+  ],
+  "confidence": 0.9
+ }
+}

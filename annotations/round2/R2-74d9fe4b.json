@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-74d9fe4b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:30:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0591278,
+  "in": 2,
+  "out": 1772,
+  "cache_read": 11758,
+  "cache_create": 10057,
+  "api_ms": 8926,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院关于印发《加快农业农村现代化“十五五”规划》的通知",
+  "title_en": "State Council Notice on Issuing the 15th Five-Year Plan for Accelerating Agricultural and Rural Modernization",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the People's Republic of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "agricultural_robots",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "agricultural_robots",
+  "application_sectors": [
+   "agriculture_food",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "sustainability_environment",
+   "labor_employment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "China State Council's 15th Five-Year Plan (2026-2030) for agricultural and rural modernization. It covers food security, poverty prevention, rural revitalization and green transition. Embodied-AI content is limited to promoting intelligent farm machinery, low-altitude economy in agriculture, and agricultural AI and smart farming development.",
+  "key_provisions_or_claims": [
+   "Promote high-end intelligent farm machinery suited to hilly areas and new-energy agricultural machinery.",
+   "Orderly develop the low-altitude economy in agriculture and rural areas.",
+   "Accelerate agricultural AI innovation, application scenarios, and multimodal datasets and standards.",
+   "Build an integrated sky-air-ground agricultural observation network.",
+   "Targets for 2030 and 2035: agricultural modernization and strong agricultural nation."
+  ],
+  "confidence": 0.85
+ }
+}

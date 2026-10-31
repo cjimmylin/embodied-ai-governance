@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-c1a0fce3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2076198,
+  "in": 2,
+  "out": 1914,
+  "cache_read": 11758,
+  "cache_create": 46825,
+  "api_ms": 10882,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "NR 12 - Segurança no Trabalho em Máquinas e Equipamentos",
+  "title_en": "Regulatory Standard NR 12 - Occupational Safety in Machinery and Equipment",
+  "language": "pt",
+  "authors_or_issuer": "Ministério do Trabalho e Previdência (Brazil)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Diário Oficial da União",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots",
+   "agricultural_robots"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "manufacturing",
+   "agriculture_food",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "labor_employment",
+   "education_training",
+   "risk_management_risk_tiers",
+   "human_robot_interaction_social_effects"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "prohibitions_bans",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [
+   "ISO 10218",
+   "ISO/TS 15066"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Brazil's binding Regulatory Standard NR-12 sets minimum occupational safety requirements for the design, manufacture, import, sale and use of machinery and equipment, with annexes for specific machines. It requires risk assessment, safety systems, emergency stops, training and manuals. Robotic systems complying with ISO 10218 and ISO/TS 15066 are deemed compliant.",
+  "key_provisions_or_claims": [
+   "Employers must adopt collective protection first, then administrative, then individual protection measures.",
+   "Safety systems, interlocks, emergency stops and manual reset are required for hazard zones.",
+   "Robotic systems complying with ABNT ISO 10218-1/-2 and ISO/TS 15066 are deemed compliant (12.1.12).",
+   "Manufacture, import, sale, lease or exposure of non-compliant machines is prohibited.",
+   "Operators need training; manuals in Portuguese, labelling and maintenance records are required."
+  ],
+  "confidence": 0.9
+ }
+}

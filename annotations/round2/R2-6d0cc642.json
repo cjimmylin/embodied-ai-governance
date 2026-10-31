@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-6d0cc642",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:48:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1633418,
+  "in": 2,
+  "out": 1959,
+  "cache_read": 11758,
+  "cache_create": 35643,
+  "api_ms": 12365,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "legally_binding",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "incident_reporting",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "consumer_protection",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Adopts updated RAPEX guidelines in the Annex and repeals Decision 2010/15/EU.",
+   "Member States must notify serious-risk product measures with cross-border effects via RAPEX (GPSD Art. 12, Reg. 765/2008 Art. 22).",
+   "Sets deadlines: 3 days for emergency notifications, 10 days for standard ones, with follow-up within 20 to 45 days.",
+   "Includes Appendix 6 risk assessment guidelines for identifying serious risks.",
+   "Sets rules on public disclosure (Safety Gate), confidentiality and national RAPEX contact points."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "General Product Safety Directive 2001/95/EC",
+   "Regulation (EC) No 765/2008",
+   "Commission Decision 2010/15/EU",
+   "Directive (EU) 2015/1535",
+   "Regulation (EU) 2017/745"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2018,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Commission Implementing Decision (EU) 2019/417 adopts updated guidelines for managing RAPEX, the EU rapid alert system for dangerous non-food consumer products. It sets notification criteria, content, deadlines, follow-up, confidentiality and publication rules, plus risk assessment methods under the General Product Safety Directive and Regulation 765/2008. It has no AI or robotics content.",
+  "title_clean": "Commission Implementing Decision (EU) 2019/417 laying down guidelines for the management of the European Union Rapid Information System 'RAPEX'",
+  "title_en": "Commission Implementing Decision (EU) 2019/417 laying down guidelines for the management of the European Union Rapid Information System 'RAPEX'",
+  "venue": "Official Journal of the European Union, L 73",
+  "issuer_type": "intergovernmental_org",
+  "methodology": "not_applicable"
+ }
+}

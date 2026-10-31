@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-fb1f06b2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027171800000000003,
+  "in": 2,
+  "out": 1654,
+  "cache_read": 11758,
+  "cache_create": 2363,
+  "api_ms": 9765,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "authors_or_issuer": "ISO",
+  "binding_nature": "technical_standard_voluntary",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "technical_standard",
+  "doi": null,
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "standards_interoperability"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "standards_body",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Defines main dimensions, designation and marking for shaft with cylindrical projection as mechanical interface",
+   "Ensures exchangeability and orientation of hand-mounted end effectors",
+   "Does not correlate load-carrying ranges",
+   "Also applicable to simple handling systems such as pick-and-place",
+   "Confirmed current after 2024 review"
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "industrial_manipulators",
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 11,
+  "pub_year": 2002,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "ISO store page for ISO 9409-2:2002, a standard for manipulating industrial robots specifying mechanical interface shafts (dimensions, designation, marking) to ensure end-effector exchangeability. Edition 2, confirmed in 2024 and still current; developed by ISO/TC 299.",
+  "title_clean": "ISO 9409-2:2002 Manipulating industrial robots — Mechanical interfaces — Part 2: Shafts",
+  "title_en": "ISO 9409-2:2002 Manipulating industrial robots — Mechanical interfaces — Part 2: Shafts",
+  "venue": "ISO"
+ }
+}

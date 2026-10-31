@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0461",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0449678,
+  "in": 2,
+  "out": 1804,
+  "cache_read": 11758,
+  "cache_create": 6437,
+  "api_ms": 9248,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Redefining Financial Frontiers: Ethical Imperatives and Regulatory Dynamics in Robotic Investment Platforms",
+  "title_en": "Redefining Financial Frontiers: Ethical Imperatives and Regulatory Dynamics in Robotic Investment Platforms",
+  "language": "en",
+  "authors_or_issuer": "Sharma, M.; Gupta, S.; Kumar T, M.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.4108/eai.23-11-2023.2343222",
+  "venue": "IACIDS 2023 (EAI)",
+  "jurisdiction_country": "IN",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "EU",
+   "GB",
+   "ID"
+  ],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "software_agent_called_robot",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "finance"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "privacy_data_protection",
+   "cybersecurity",
+   "transparency_explainability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "insurance_requirement"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "mixed",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Conference paper on voice-enabled robo-advisors in investment management, using Design Science Research. It covers client targeting, KYC, onboarding, and regulatory compliance, data privacy and cybersecurity requirements (EU-focused). Robo-advisors are software agents, not physical robots, so the paper has no embodied-AI relevance.",
+  "key_provisions_or_claims": [
+   "Robo-advisors need tailored regulation addressing investor protection, algorithmic accuracy and systemic risk",
+   "KYC procedures are essential for compliant, personalised advice",
+   "Robust governance frameworks, third-party risk assessments and record-keeping are recommended",
+   "Data privacy policies, cybersecurity strategies and cyber insurance are advised",
+   "Proposes a conceptual model for a voice-enabled robo-advisor"
+  ],
+  "confidence": 0.9
+ }
+}

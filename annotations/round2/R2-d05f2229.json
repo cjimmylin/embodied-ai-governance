@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-d05f2229",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:46:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.09306880000000001,
+  "in": 4,
+  "out": 3506,
+  "cache_read": 36003,
+  "cache_create": 14268,
+  "api_ms": 20799,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "not_applicable",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_proposal_or_draft",
+  "doc_type": "bill_or_draft_law",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "taxation_economic_policy"
+  ],
+  "instrument_status": "draft_or_bill_under_consideration",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "New Article 129a lets Member States apply a zero rate to COVID-19 vaccines and related services.",
+   "Member States may apply reduced or zero VAT rates to COVID-19 in vitro diagnostic devices.",
+   "Eligible devices must conform to Regulation (EU) 2017/745 (CE marking); vaccines must be authorised.",
+   "Measure applies until 31 December 2022, subject to review.",
+   "No consultation or impact assessment was carried out because of urgency."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "taxation_economic_policy",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2020,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "European Commission proposal for a Council Directive amending the VAT Directive 2006/112/EC to let Member States temporarily apply zero or reduced VAT rates to COVID-19 vaccines and in vitro diagnostic devices until end-2022. It has no connection to AI or robotics.",
+  "title_clean": "Proposal for a Council Directive amending Directive 2006/112/EC as regards temporary measures in relation to value added tax for COVID-19 vaccines and in vitro diagnostic medical devices in response to the COVID-19 pandemic",
+  "title_en": "Proposal for a Council Directive amending Directive 2006/112/EC as regards temporary measures in relation to value added tax for COVID-19 vaccines and in vitro diagnostic medical devices in response to the COVID-19 pandemic",
+  "venue": "EUR-Lex / COM(2020) 688 final"
+ }
+}

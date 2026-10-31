@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0223",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:12:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.047515800000000004,
+  "in": 2,
+  "out": 1794,
+  "cache_read": 11758,
+  "cache_create": 7099,
+  "api_ms": 11415,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "authors_or_issuer": "Penati, S.; Pistarini Teixeira Nunes, L.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "SY",
+   "RU",
+   "US",
+   "CN",
+   "TR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "grey_literature",
+  "doc_type": "industry_or_ngo_report",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas",
+   "security_policing_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "safety_physical_harm",
+   "ethics_principles",
+   "privacy_data_protection"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "ngo_or_civil_society",
+  "jurisdiction_country": "HU",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "AI is increasingly used in the Syrian conflict, including autonomous weapons, drones and surveillance, and enables human rights violations.",
+   "Russia, the US, China and Turkey have deployed AI-enabled or autonomous systems in Syria.",
+   "AI can also support genocide prevention, evidence documentation (e.g. video analytics) and reconstruction.",
+   "Calls for a universal regulation on AI development and misuse in conflict.",
+   "Highlights the difficulty of applying IHL proportionality to autonomous systems."
+  ],
+  "language": "en",
+  "methodology": "case_study",
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "pub_month": 7,
+  "pub_year": 2021,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Budapest Centre report compiling public information on AI use in the Syrian war, including autonomous weapons, drones and surveillance by Russia, the US, China and Turkey. It argues for universal regulation of AI development and misuse in conflict from a mass atrocity prevention view, while noting positive uses.",
+  "title_clean": "On the Use of Artificial Intelligence in the framework of the Syrian War",
+  "title_en": "On the Use of Artificial Intelligence in the framework of the Syrian War",
+  "venue": "Budapest Centre for Mass Atrocities Prevention"
+ }
+}

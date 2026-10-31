@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-77e55f86",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0636638,
+  "in": 2,
+  "out": 1852,
+  "cache_read": 11758,
+  "cache_create": 10991,
+  "api_ms": 9708,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "UN Regulation No 156 – Uniform provisions concerning the approval of vehicles with regards to software update and software updates management system",
+  "title_en": "UN Regulation No 156 – Uniform provisions concerning the approval of vehicles with regards to software update and software updates management system",
+  "language": "en",
+  "authors_or_issuer": "United Nations Economic Commission for Europe (UN/ECE) WP.29; published in the Official Journal of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 82/60",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "EU",
+   "NL"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "safety_physical_harm",
+   "transparency_explainability",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "technical_standards_reference",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "UN Regulation No 156 (as published in the EU Official Journal) sets uniform type-approval requirements for vehicles regarding software updates, including over-the-air updates. Manufacturers must hold a certified Software Update Management System covering documentation, security, update safety, and user information.",
+  "key_provisions_or_claims": [
+   "Applies to vehicle categories M, N, O, R, S and T that permit software updates.",
+   "Manufacturers need a Certificate of Compliance for a Software Update Management System, valid up to three years.",
+   "Requires RXSWIN identifiers, auditable registers of software versions and integrity validation data.",
+   "OTA updates must be secure, recoverable to a safe state, and not unsafe during driving, with user information.",
+   "Approval can be withdrawn for non-conformity; conformity of production is checked every three years."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-82c0668e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:28:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0535018,
+  "in": 2,
+  "out": 1735,
+  "cache_read": 11758,
+  "cache_create": 8743,
+  "api_ms": 8744,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国务院关于印发《知识产权保护和运用“十五五”规划》的通知",
+  "title_en": "State Council Notice on Issuing the 15th Five-Year Plan for Intellectual Property Protection and Utilization",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "intellectual_property",
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "education_training"
+  ],
+  "primary_topic": "intellectual_property",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "international_cooperation",
+   "education_training_programs",
+   "technical_standards_reference",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "China's State Council notice issuing the 15th Five-Year Plan (2026–2030) for intellectual property protection and utilization. It covers legal reform, enforcement, commercialization, services, and international cooperation. AI appears only in passing, e.g., refining IP rules for AI-generated content and algorithms and joining international AI IP rule-making. No robotics content.",
+  "key_provisions_or_claims": [
+   "Targets a world-class IP powerhouse by 2035, with major progress by 2030.",
+   "Improve IP rules for algorithms, AI-generated content, and data.",
+   "Participate in international rule and standard-setting on AI IP.",
+   "Strengthen judicial and administrative IP enforcement, including punitive damages.",
+   "Promote IP commercialization, IP finance, and the IP service industry."
+  ],
+  "confidence": 0.9
+ }
+}

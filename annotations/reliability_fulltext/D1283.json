@@ -1,0 +1,106 @@
+{
+ "doc_id": "D1283",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:16:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06367650000000001,
+  "in": 4,
+  "out": 3597,
+  "cache_read": 28500,
+  "cache_create": 6949,
+  "api_ms": 24161,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Latvia AI Strategy Report - AI Watch - European Commission",
+  "title_en": "Latvia AI Strategy Report - AI Watch - European Commission",
+  "language": "en",
+  "authors_or_issuer": "European Commission, AI Watch (Joint Research Centre)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "AI Watch, European Commission",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "LV"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "logistics_transport",
+   "agriculture_food",
+   "healthcare",
+   "energy_environment",
+   "education"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "Directive 2001/95/EC (General Product Safety)",
+   "Directive 85/374/EEC (Product Liability)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EU AI Watch summary of Latvia's February 2020 national AI strategy, which focuses on promoting AI uptake, especially in public administration. It covers education, research, data infrastructure, international cooperation, and a planned legal and ethical framework with regulatory sandboxes, relying meanwhile on EU product safety and liability directives.",
+  "key_provisions_or_claims": [
+   "Latvia's 2020 strategy aims to promote AI uptake across the economy, especially public administration.",
+   "Government plans a new legal environment for AI and regulatory sandboxes.",
+   "Current reliance on EU product safety and product liability directives.",
+   "Plans for AI education reforms, an online AI course and a National Research Programme.",
+   "Drones are mentioned for environmental observation; robotics appears only in research mentions."
+  ],
+  "confidence": 0.85
+ }
+}

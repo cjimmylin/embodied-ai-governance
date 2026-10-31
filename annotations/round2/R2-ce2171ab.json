@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-ce2171ab",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:40:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.12779580000000001,
+  "in": 2,
+  "out": 1738,
+  "cache_read": 11758,
+  "cache_create": 27309,
+  "api_ms": 9268,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国土交通省関係国家戦略特別区域法施行規則",
+  "title_en": "Ordinance for Enforcement of the National Strategic Special Zones Act (MLIT-related)",
+  "language": "ja",
+  "authors_or_issuer": "Ministry of Land, Infrastructure, Transport and Tourism (Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2014,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japanese MLIT ministerial ordinance implementing the National Strategic Special Zones Act's provisions on paid private-vehicle passenger transport for tourists. It sets eligible operators, application and registration requirements, and includes provisions covering automated-operation passenger transport and specified automated operation under the Road Traffic Act. Amended 2026.",
+  "key_provisions_or_claims": [
+   "Lists eligible entities for special-zone paid private tourist passenger transport (municipalities, NPOs, cooperatives, etc.).",
+   "Application must include operation management, maintenance, accident response and damage compensation documents.",
+   "Operators of automated-operation passenger transport must submit automated driving device use conditions.",
+   "Specified automated operation requires documents showing likelihood of Road Traffic Act permit.",
+   "Applies Road Transport Act enforcement rules with substitutions for special-zone transport."
+  ],
+  "confidence": 0.8
+ }
+}

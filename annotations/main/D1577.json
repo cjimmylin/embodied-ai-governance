@@ -1,0 +1,90 @@
+{
+ "doc_id": "D1577",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:49:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0892545,
+  "in": 4,
+  "out": 3136,
+  "cache_read": 36280,
+  "cache_create": 14045,
+  "api_ms": 16726,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robot law: what happens if intelligent machines commit crimes?",
+  "title_en": "Robot law: what happens if intelligent machines commit crimes?",
+  "language": "en",
+  "authors_or_issuer": "The Conversation Africa",
+  "issuer_type": "news_media",
+  "pub_year": 2015,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": "10.64628/ab.3gdtxncve",
+  "venue": "The Conversation",
+  "jurisdiction_country": "XX",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "news_article",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "other_embodied"
+  ],
+  "primary_embodied_category": "other_embodied",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "civil_liability",
+   "legal_personhood_robot_rights"
+  ],
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "A 2015 The Conversation Africa article on criminal responsibility when intelligent machines commit crimes. The excerpt shows only the title and page boilerplate, so the substance is inferred from the title: who bears legal liability when autonomous robots cause criminal harm.",
+  "key_provisions_or_claims": [
+   "Asks who is criminally liable when intelligent machines commit crimes (inferred from title; body text not in excerpt)"
+  ],
+  "confidence": 0.4
+ }
+}

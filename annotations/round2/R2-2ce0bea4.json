@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-2ce0bea4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:12:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0316958,
+  "in": 2,
+  "out": 1812,
+  "cache_read": 11758,
+  "cache_create": 3099,
+  "api_ms": 11396,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2026/2308 on the request for registration of the European citizens' initiative 'Creation of a European Digital Space (.IA) for Sovereign AI Governance'",
+  "title_en": "Commission Implementing Decision (EU) 2026/2308 on the request for registration of the European citizens' initiative 'Creation of a European Digital Space (.IA) for Sovereign AI Governance'",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "transparency_explainability",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission Implementing Decision registering a European citizens' initiative calling for an EU framework for high-trust digital spaces and AI sandboxes and for negotiating protection of the .IA domain. It concerns only admissibility and registration, not the initiative's merits. No robotics content.",
+  "key_provisions_or_claims": [
+   "Registers the European citizens' initiative on a European Digital Space (.IA) for Sovereign AI Governance.",
+   "Finds the initiative not manifestly outside the Commission's powers (Arts 16, 114, 172, 173 TFEU).",
+   "Registration does not confirm the factual correctness or Commission endorsement of the initiative's content.",
+   "Initiative seeks AI sandboxes, negotiation with ISO and ICANN over .IA, and integration of eIDAS 2.0, AI Act auditing and GDPR.",
+   "Addressed to the organisers' contact persons, under Regulation (EU) 2019/788."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "doc_id": "D1623",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:51:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.046009800000000003,
+  "in": 2,
+  "out": 1863,
+  "cache_read": 11758,
+  "cache_create": 6550,
+  "api_ms": 12765,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Cambridge Handbook of the Law, Policy, and Regulation for Human-Robot Interaction",
+  "title_en": "The Cambridge Handbook of the Law, Policy, and Regulation for Human-Robot Interaction",
+  "language": "en",
+  "authors_or_issuer": "Anand, R.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.1017/err.2025.2",
+  "venue": "European Journal of Risk Regulation",
+  "jurisdiction_country": "IE",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "EU",
+   "US",
+   "CA",
+   "AE"
+  ],
+  "doc_type": "editorial_or_commentary",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose",
+   "social_companion_robots",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "civil_liability",
+   "criminal_liability",
+   "trust_acceptance",
+   "standards_interoperability",
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Book review in the European Journal of Risk Regulation of the 2024 Cambridge Handbook on law, policy and regulation for human-robot interaction. It praises the interdisciplinary, cross-cultural coverage of personhood, ethics, tort, criminal and tax law, while noting Western bias, jargon, overlap and weak treatment of enforcement.",
+  "key_provisions_or_claims": [
+   "Handbook covers legal personhood, ethics, culture, and civil/criminal liability for human-robot interaction.",
+   "Highlights value-sensitive design and ethical standardisation for robot governance.",
+   "Relevant to European regulators designing future-proof digital regulation.",
+   "Criticises Western-centric coverage and limited discussion of enforcement and political feasibility.",
+   "Notes repeated reliance on Asimov's laws and the UAE citizenship of Sophia."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0838",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:29:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.042791800000000005,
+  "in": 2,
+  "out": 1786,
+  "cache_read": 11758,
+  "cache_create": 5938,
+  "api_ms": 9157,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Data protection for networked and robotic toys – a legal perspective",
+  "title_en": "Data protection for networked and robotic toys – a legal perspective",
+  "language": "en",
+  "authors_or_issuer": "Panetta, R.; Sartore, F.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2018,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "International Review of Information Ethics (IRIE)",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "DE",
+   "GB",
+   "ES"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "toys_entertainment_robots",
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "toys_entertainment_robots",
+  "application_sectors": [
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "children_vulnerable_groups",
+   "cybersecurity",
+   "consumer_protection",
+   "ethics_principles"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "data_governance_requirements",
+   "self_regulation_codes",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Legal analysis of European protection of children's data in connection with networked and robotic toys such as 'My Friend Cayla'. It reviews child-protection principles and compares earlier data protection law with the GDPR. It argues that privacy by design, security measures and codes of conduct, enforced by Data Protection Authorities, can protect children.",
+  "key_provisions_or_claims": [
+   "The 'My Friend Cayla' case and other toy security failures show the privacy and security risks of connected toys.",
+   "GDPR Article 8 requires parental consent for children under 16, and controllers must make reasonable efforts to verify it.",
+   "Privacy by design, adequate security measures and codes of conduct support accountability in IoT toys.",
+   "Data Protection Authorities should play a key role in enforcing children's data protection.",
+   "Protecting children's data is both a legal and an ethical matter, grounded in fundamental rights."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1002",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:33:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0410938,
+  "in": 2,
+  "out": 1695,
+  "cache_read": 11758,
+  "cache_create": 5741,
+  "api_ms": 8782,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Stratégie pancanadienne en matière d'intelligence artificielle",
+  "title_en": "Pan-Canadian Artificial Intelligence Strategy",
+  "language": "fr",
+  "authors_or_issuer": "Innovation, Science and Economic Development Canada (ISED)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ised-isde.canada.ca",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "research_science"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Government of Canada web page describing the Pan-Canadian AI Strategy launched in 2017, with three pillars (commercialization, standards, talent and research) and associated funding for AI institutes, innovation clusters, the Standards Council of Canada, CIFAR and computing capacity. No robotics content.",
+  "key_provisions_or_claims": [
+   "Strategy launched in 2017 to strengthen AI research leadership and talent",
+   "Three pillars: commercialization, standards, talent and research",
+   "Budget 2021 funding: $60M for national AI institutes, $125M for innovation clusters, $8.6M for standards, $208M for CIFAR, $40M for compute",
+   "Fall Economic Statement 2024 added $24M for institutes and $150M for clusters",
+   "Standards Council of Canada supports development and adoption of AI standards"
+  ],
+  "confidence": 0.9
+ }
+}

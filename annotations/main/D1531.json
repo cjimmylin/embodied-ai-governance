@@ -1,0 +1,102 @@
+{
+ "doc_id": "D1531",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:48:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0468698,
+  "in": 2,
+  "out": 1779,
+  "cache_read": 11758,
+  "cache_create": 6975,
+  "api_ms": 9329,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare",
+   "domestic_consumer"
+  ],
+  "authors_or_issuer": "Menon, C.; Carta, S.; Foerster, F.; Holthaus, P.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.1007/978-3-031-41962-1_4",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "social_companion_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "trust_acceptance",
+   "human_robot_interaction_social_effects",
+   "research_ethics",
+   "education_training"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Presents EETAS, a structured workshop methodology to improve public understanding of ethical complexities of assistive robots.",
+   "Presents DEETAS, a digital design-centric variant for users reluctant to join workshops.",
+   "Pilot and usability studies indicate the methods engage users and improve understanding.",
+   "End-user voices should feed into robot development and in guiding preferred robot behaviours."
+  ],
+  "language": "en",
+  "methodology": "empirical_qualitative",
+  "named_instruments_referenced": [
+   "IEEE 7000 series"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2023,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Conference paper presenting EETAS, a structured-workshop methodology, and DEETAS, a digital design-centric variant, for improving public understanding of ethical complexities of assistive robots and involving end users in development. Pilot and usability studies indicate the approaches are effective at engaging users.",
+  "title_clean": "Improving Public Engagement with Ethical Complexities of Assistive Robots",
+  "title_en": "Improving Public Engagement with Ethical Complexities of Assistive Robots",
+  "venue": "Computer-Human Interaction Research and Applications (CHIRA 2021/2022), CCIS vol. 1882, Springer",
+  "issuer_type": "academic_or_research"
+ }
+}

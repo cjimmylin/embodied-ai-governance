@@ -1,0 +1,92 @@
+{
+ "doc_id": "R2-9dab7587",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:50:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027077800000000003,
+  "in": 2,
+  "out": 1675,
+  "cache_read": 11758,
+  "cache_create": 2287,
+  "api_ms": 8136,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "European Parliament legislative resolution on the proposal for a directive amending Directive 97/68/EC on emissions from internal combustion engines in non-road mobile machinery",
+  "title_en": "European Parliament legislative resolution on the proposal for a directive amending Directive 97/68/EC on emissions from internal combustion engines in non-road mobile machinery",
+  "language": "en",
+  "authors_or_issuer": "European Parliament",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2001,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Communities C 87 E",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Official Journal excerpt of a 2001 European Parliament legislative resolution approving, as amended, a Commission proposal amending Directive 97/68/EC on pollutant emissions from engines in non-road mobile machinery, plus an amendment on ECSC Treaty expiry financial consequences. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Parliament approves the Commission proposal amending Directive 97/68/EC as amended",
+   "Asks to be consulted again if the proposal is substantially amended",
+   "Forwards position to Council and Commission",
+   "Separate item: amendment on ECSC Treaty expiry and Research Fund for Coal and Steel"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-2d2b3dd1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:31:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.050415800000000004,
+  "in": 2,
+  "out": 1666,
+  "cache_read": 11758,
+  "cache_create": 8144,
+  "api_ms": 8367,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "集成电路布图设计保护条例",
+  "title_en": "Regulations on the Protection of Integrated Circuit Layout Designs",
+  "language": "zh",
+  "authors_or_issuer": "国务院 (State Council of the People's Republic of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中华人民共和国国务院令第842号",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "research_science"
+  ],
+  "governance_topics": [
+   "intellectual_property",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "intellectual_property",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "State Council Order No. 842 promulgating the revised Regulations on the Protection of Integrated Circuit Layout Designs, effective 15 October 2026. It sets exclusive rights, registration, exercise, compulsory licensing and liability for layout designs, and extends protection to photonic and quantum integrated circuits. It is unrelated to AI or robotics governance.",
+  "key_provisions_or_claims": [
+   "Exclusive rights in layout designs arise upon registration with the IP administration department",
+   "Protection lasts 10 years, capped at 15 years from creation",
+   "Extends protection to integrated photonic and quantum circuit layout designs",
+   "Allows compulsory licensing in emergencies, for public interest or to remedy monopoly conduct",
+   "Damages up to 1–5 times for serious wilful infringement"
+  ],
+  "confidence": 0.95
+ }
+}

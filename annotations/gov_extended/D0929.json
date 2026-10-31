@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0929",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:46:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.037253800000000004,
+  "in": 2,
+  "out": 1823,
+  "cache_read": 11758,
+  "cache_create": 4461,
+  "api_ms": 9667,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Executive Order 14409: Promoting Advanced Artificial Intelligence Innovation and Security",
+  "title_en": "Executive Order 14409: Promoting Advanced Artificial Intelligence Innovation and Security",
+  "language": "en",
+  "authors_or_issuer": "The White House (President of the United States)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Register",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "defense_security",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "industrial_policy_innovation",
+   "criminal_liability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "international_cooperation",
+   "self_regulation_codes",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "US Executive Order of June 2, 2026 promoting AI innovation and security. It directs agencies to harden federal systems, create an AI cybersecurity clearinghouse, set up a voluntary framework for government pre-release access to covered frontier models, and prioritize prosecution of AI-enabled cybercrime, while rejecting mandatory licensing.",
+  "key_provisions_or_claims": [
+   "Agencies must prioritize cyber defense of National Security Systems and federal information systems within 30 days.",
+   "Treasury, War/NSA and DHS/CISA to form a voluntary AI cybersecurity clearinghouse for vulnerability scanning and patching.",
+   "Classified benchmarking process to designate 'covered frontier models'; NSA Director makes the determination.",
+   "Voluntary framework for developers to give government up to 30 days pre-release access to covered frontier models.",
+   "Explicitly no mandatory licensing, preclearance or permitting for AI model development or release."
+  ],
+  "confidence": 0.93
+ }
+}

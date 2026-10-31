@@ -1,0 +1,103 @@
+{
+ "doc_id": "D1147",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:03:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0316178,
+  "in": 2,
+  "out": 1727,
+  "cache_read": 11758,
+  "cache_create": 3292,
+  "api_ms": 8650,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AESIA consolidates its role in Europe in promoting ethical, sustainable and reliable AI",
+  "title_en": "AESIA consolidates its role in Europe in promoting ethical, sustainable and reliable AI",
+  "language": "en",
+  "authors_or_issuer": "Spanish Artificial Intelligence Supervisory Agency (AESIA)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "AESIA website",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ES",
+   "EU"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "education_training",
+   "transparency_explainability",
+   "trust_acceptance"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "education_training_programs",
+   "international_cooperation",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Press release from Spain's AI supervisory agency AESIA marking one year since its director's appointment. It reviews staffing, AI literacy, EU AI Office participation, the Citizen Mailbox, the draft national AI governance bill, and its prospective role as market surveillance authority under the EU AI Act.",
+  "key_provisions_or_claims": [
+   "AESIA has about 30 staff in A Coruña and took part in over 100 events.",
+   "Spain has maximum participation in EU AI Office working groups.",
+   "Government approved the draft AI good use and governance bill on 11 March 2025.",
+   "AESIA to be designated market surveillance authority and Single Point of Contact with the EU.",
+   "GPAI model provider obligations apply from 2 August 2025."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-5723d843",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:01:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0241798,
+  "in": 2,
+  "out": 1632,
+  "cache_read": 11758,
+  "cache_create": 1670,
+  "api_ms": 10018,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Automated passenger service permits: local authority and transport body roles",
+  "title_en": "Automated passenger service permits: local authority and transport body roles",
+  "language": "en",
+  "authors_or_issuer": "Centre for Connected and Autonomous Vehicles",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "UK government guidance from the Centre for Connected and Autonomous Vehicles explaining the roles of local authorities and transport bodies in the automated passenger services permitting scheme in Great Britain, including consent and consultation requirements for deployments.",
+  "key_provisions_or_claims": [
+   "Automated passenger service deployers need consent from the local taxi/private hire licensing authority or bus franchising body.",
+   "Traffic authorities must be consulted on proposed deployments.",
+   "Guidance clarifies local authority and transport body roles in the permit process.",
+   "Applies to England, Scotland and Wales."
+  ],
+  "confidence": 0.8
+ }
+}

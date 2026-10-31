@@ -1,0 +1,93 @@
+{
+ "doc_id": "D0910",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:31:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0341158,
+  "in": 2,
+  "out": 1666,
+  "cache_read": 11758,
+  "cache_create": 4069,
+  "api_ms": 10360,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robot, Do No Harm: Ethics, Credibility and the Legal Future of Journalism",
+  "title_en": "Robot, Do No Harm: Ethics, Credibility and the Legal Future of Journalism",
+  "language": "en",
+  "authors_or_issuer": "Rogers, C.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2018,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": "10.17615/g52y-zr64",
+  "venue": "UNC Carolina Digital Repository (Hussman School of Journalism and Media)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "thesis_or_dissertation",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "thesis",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "software_agent_called_robot",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "other"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "transparency_explainability",
+   "labor_employment"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "empirical_qualitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Master's thesis (UNC, 2018) examining 2018 newsroom ethics policies in light of AI-driven automated journalism. It produces an ethics field guide merging journalistic standards with technological change to avoid ethical and legal challenges. Concerns software AI, not physical robots.",
+  "key_provisions_or_claims": [
+   "Newsroom ethics policies as of 2018 have not adapted to AI use in reporting",
+   "AI can write articles autonomously with high accuracy within seconds",
+   "Proposes an ethics field guide merging journalistic standards with AI changes",
+   "Warns of ethical and legal risks from machines handling sensitive or inaccurate information"
+  ],
+  "confidence": 0.85
+ }
+}

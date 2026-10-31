@@ -1,0 +1,112 @@
+{
+ "doc_id": "D1293",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:41:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.030719800000000002,
+  "in": 2,
+  "out": 1846,
+  "cache_read": 11758,
+  "cache_create": 2770,
+  "api_ms": 14995,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robotics | Shaping Europe's digital future",
+  "title_en": "Robotics | Shaping Europe's digital future",
+  "language": "en",
+  "authors_or_issuer": "European Commission (DG CONNECT), Shaping Europe's digital future",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Shaping Europe's digital future (European Commission)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "professional_service_robots",
+   "surgical_medical_robots",
+   "domestic_household_robots",
+   "autonomous_road_vehicles",
+   "agricultural_robots",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "healthcare",
+   "logistics_transport",
+   "agriculture_food",
+   "domestic_consumer",
+   "energy_environment",
+   "defense_security",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "labor_employment",
+   "ethics_principles",
+   "safety_physical_harm",
+   "research_ethics"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "European Commission policy web page on robotics, explaining why the EU funds robotics research and innovation for competitiveness, jobs and societal challenges. It mentions over 120 projects and the SPARC public-private partnership, plus Horizon Europe funding news. Ethical and safety aspects are noted only briefly; no regulatory provisions.",
+  "key_provisions_or_claims": [
+   "EU promotes research, jobs and innovation through better and safer robots while safeguarding ethical aspects",
+   "Robotics is essential for manufacturing competitiveness, reindustrialisation and addressing ageing and health challenges",
+   "Commission funds over 120 robotics research projects and coordination actions",
+   "SPARC public-private partnership coordinates the robotics community",
+   "Horizon Europe calls allocate €307.3 million to digital innovation"
+  ],
+  "confidence": 0.85
+ }
+}

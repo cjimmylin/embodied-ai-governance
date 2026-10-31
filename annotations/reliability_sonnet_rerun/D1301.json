@@ -1,0 +1,116 @@
+{
+ "doc_id": "D1301",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:48:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0210885,
+  "in": 2,
+  "out": 1907,
+  "cache_read": 20145,
+  "cache_create": 0,
+  "api_ms": 12555,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Tehisintellekti käsitlev õigusakt",
+  "title_en": "The Artificial Intelligence Act (Regulatory framework for AI)",
+  "language": "et",
+  "authors_or_issuer": "European Commission, DG CONNECT (Shaping Europe's digital future)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Shaping Europe's digital future",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "human_oversight_control",
+   "privacy_data_protection",
+   "cybersecurity",
+   "industrial_policy_innovation",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "conformity_assessment_certification",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement",
+   "data_governance_requirements",
+   "oversight_body_creation",
+   "incident_reporting",
+   "testing_sandboxes",
+   "self_regulation_codes",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission web page (Estonian machine translation) explaining the EU AI Act: its four-tier risk-based approach, prohibited practices, high-risk obligations, GPAI rules, governance bodies, implementation timeline and the Digital Omnibus simplification. Robotic surgery is cited only as a high-risk example.",
+  "key_provisions_or_claims": [
+   "AI Act (Regulation 2024/1689) is the first comprehensive AI legal framework, using four risk levels",
+   "Nine prohibited practices; bans 1-8 apply since February 2025",
+   "High-risk systems face risk management, data quality, logging, documentation and human oversight obligations",
+   "Annex I product-embedded high-risk rules delayed to August 2028; Annex III to December 2027 under the Digital Omnibus",
+   "GPAI model obligations apply since August 2025; AI Pact and service desk support implementation"
+  ],
+  "confidence": 0.85
+ }
+}

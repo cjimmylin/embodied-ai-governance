@@ -1,0 +1,91 @@
+{
+ "doc_id": "D0837",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:29:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0642152,
+  "in": 4,
+  "out": 3287,
+  "cache_read": 29807,
+  "cache_create": 7568,
+  "api_ms": 17461,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "On the Existence of Robot Zombies and our Ethical Obligations to AI Systems",
+  "title_en": "On the Existence of Robot Zombies and our Ethical Obligations to AI Systems",
+  "language": "en",
+  "authors_or_issuer": "Hansen, L.R.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2023,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": "10.23919/JSC.2023.0023",
+  "venue": "Journal of Social Computing",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "legal_personhood_robot_rights"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Philosophical essay arguing that, because AI sentience may never be verifiable, we should adopt epistemic humility and a precautionary principle: take seriously the possibility that some AI systems are sentient and have moral status, to avoid a moral catastrophe.",
+  "key_provisions_or_claims": [
+   "Sentience of AI systems is unlikely ever to be verified with certainty.",
+   "Sentience theories split into substrate-independent and substrate-dependent camps; AI is sentient only if the former holds.",
+   "Sentient entities have some moral status, though not equal to humans.",
+   "Precautionary principle: treat the prospect of AI sentience seriously.",
+   "Treating sentient systems as non-sentient would be a moral catastrophe."
+  ],
+  "confidence": 0.9
+ }
+}

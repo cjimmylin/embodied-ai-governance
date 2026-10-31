@@ -1,0 +1,95 @@
+{
+ "doc_id": "D0061",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:37:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0525082,
+  "in": 4,
+  "out": 3523,
+  "cache_read": 26037,
+  "cache_create": 4354,
+  "api_ms": 22520,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "PL n. 2008/2024 - Dispõe sobre a prevenção e repressão às infrações contra a ordem econômica através do uso de Inteligência Artificial (IA)",
+  "title_en": "Bill No. 2008/2024 - On the prevention and repression of infringements against the economic order through the use of Artificial Intelligence (AI)",
+  "language": "pt",
+  "authors_or_issuer": "Câmara dos Deputados (Dep. Vinicius Carvalho, Republicanos/SP)",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Câmara dos Deputados do Brasil",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "finance",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "criminal_liability",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Brazilian bill PL 2008/2024 amends Law 12.529/2011 (competition law) by adding to Article 36 an infringement against the economic order: using artificial intelligence to carry out unfair competition practices such as price manipulation, cartels and industrial espionage. It has no embodied or robotics content.",
+  "key_provisions_or_claims": [
+   "Amends Art. 36 of Law 12.529/2011 to add use of AI for unfair competition practices as an infringement of the economic order",
+   "Justification cites price manipulation, cartels and industrial espionage as examples",
+   "Law would take effect on the date of publication",
+   "Penalties remain those in Arts. 37-45 of Law 12.529/2011"
+  ],
+  "confidence": 0.93
+ }
+}

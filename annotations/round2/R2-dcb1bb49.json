@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-dcb1bb49",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:41:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0310958,
+  "in": 2,
+  "out": 1748,
+  "cache_read": 11758,
+  "cache_create": 3109,
+  "api_ms": 8343,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "运动康复训练机器人通用技术条件",
+  "title_en": "General specifications for motion rehabilitation training robot (GB/T 37704-2019)",
+  "language": "zh",
+  "authors_or_issuer": "全国机器人标准化技术委员会 (TC591); 国家市场监督管理总局 / 国家标准化管理委员会",
+  "issuer_type": "standards_body",
+  "pub_year": 2019,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "rehabilitation_exoskeleton_prosthetic",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "rehabilitation_exoskeleton_prosthetic",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Catalogue page on China's national recommended standard GB/T 37704-2019 for motion rehabilitation training robots, published 2019-08-30, effective 2020-03-01, reviewed 2025-12-08 and confirmed current. Shows metadata, drafting bodies under TC591/SC1 and related standards; the standard's technical text is not shown.",
+  "key_provisions_or_claims": [
+   "GB/T 37704-2019 is a recommended (voluntary) national standard, currently in force",
+   "Published 2019-08-30, effective 2020-03-01",
+   "Last reviewed 2025-12-08 with conclusion 'continue valid'",
+   "Administered by TC591 national robot standardization committee, SC1 special equipment robots",
+   "Drafters include Southeast University and special equipment inspection institutes"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "doc_id": "R2-5012a4b8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:58:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06319380000000001,
+  "in": 2,
+  "out": 1923,
+  "cache_read": 11758,
+  "cache_create": 10696,
+  "api_ms": 24473,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "logistics_transport",
+   "defense_security"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "EU",
+   "US",
+   "IL",
+   "JP",
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "government_report_or_review",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "international_cooperation",
+   "incident_reporting",
+   "technical_standards_reference",
+   "testing_sandboxes"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Commission inspections show compliance with aviation security rules stable around 80% since 2010.",
+   "Seven Commission inspectors plus about 80 national auditors carried out compliance monitoring in 2021.",
+   "Implementing Regulation 2021/255 amended rules on supply chain security and PLACI.",
+   "Counter-drone measures: EASA guidance, U-space framework and Drone Strategy 2.0.",
+   "Workshop with ECAC on AI impact on aviation security screening equipment."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "Regulation (EC) 300/2008",
+   "Commission Regulation (EU) 72/2010",
+   "Implementing Regulation (EU) 2015/1998",
+   "Directive (EU) 2016/1148 (NIS)",
+   "Drone Strategy 2.0"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2023,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Commission report to Parliament and Council on 2021 implementation of Regulation 300/2008 on civil aviation security. It covers inspections, compliance rates, legislative updates, cybersecurity, counter-drone measures, an AI workshop on screening equipment, and international dialogue, with COVID-19 impacts. Drones and AI are only tangential themes.",
+  "title_clean": "2021 Annual Report on the Implementation of Regulation (EC) No 300/2008 on Common Rules in the Field of Civil Aviation Security",
+  "title_en": "2021 Annual Report on the Implementation of Regulation (EC) No 300/2008 on Common Rules in the Field of Civil Aviation Security",
+  "venue": "COM(2023) 186 final",
+  "methodology": "not_applicable"
+ }
+}

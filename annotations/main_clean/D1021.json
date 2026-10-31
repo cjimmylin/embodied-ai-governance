@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1021",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:00:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0281758,
+  "in": 2,
+  "out": 1660,
+  "cache_read": 11758,
+  "cache_create": 2599,
+  "api_ms": 10899,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Apply AI Alliance",
+  "title_en": "Apply AI Alliance",
+  "language": "en",
+  "authors_or_issuer": "European Commission, DG CONNECT (Futurium)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Futurium (European Commission)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "international_cooperation",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Landing page of the European Commission's Apply AI Alliance on Futurium, a multi-stakeholder forum for EU AI policy discussion. It lists news, a stakeholder catalogue, AI Act Service Desk link, the Apply AI Strategy, AI Innovation Month and a European AI Observatory tender. No robotics content.",
+  "key_provisions_or_claims": [
+   "Forum coordinating AI stakeholders and policymakers on EU AI policy",
+   "Hosts Stakeholders' Catalogue of AI actors shaping EU policy",
+   "Links to AI Act Service Desk",
+   "Promotes Apply AI Strategy for public administration AI adoption",
+   "European AI Observatory call for tenders to monitor AI uptake"
+  ],
+  "confidence": 0.85
+ }
+}

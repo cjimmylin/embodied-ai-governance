@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-b456797f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:33:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0399558,
+  "in": 2,
+  "out": 1736,
+  "cache_read": 11758,
+  "cache_create": 5354,
+  "api_ms": 8865,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "交通运输部办公厅 公安部办公厅 工业和信息化部办公厅关于印发《车辆运输车专项治理行动方案》的通知",
+  "title_en": "Notice of the General Offices of the Ministry of Transport, Ministry of Public Security and Ministry of Industry and Information Technology on Issuing the Special Governance Action Plan for Vehicle Transporters",
+  "language": "zh",
+  "authors_or_issuer": "交通运输部办公厅; 公安部办公厅; 工业和信息化部办公厅",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "other"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "audits_impact_assessment",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese joint ministerial notice issuing a July–December 2025 special enforcement campaign against overloaded car-transporter trucks. It tightens registration, source loading supervision, road enforcement and penalties. Unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Six-month joint campaign July–December 2025 on illegal overloading of vehicle transporters",
+   "Non-compliant new transporters denied registration and road transport permits",
+   "Load limits: flat-head 6, long-head 7, centre-axle 8 cars; overloaded vehicles barred from expressways",
+   "Vehicles with over 3 violations a year face road transport permit revocation",
+   "Firms with over 10% violating fleet ordered to suspend operations"
+  ],
+  "confidence": 0.93
+ }
+}

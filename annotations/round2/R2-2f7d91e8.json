@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-2f7d91e8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:43:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0308618,
+  "in": 2,
+  "out": 1731,
+  "cache_read": 11758,
+  "cache_create": 3093,
+  "api_ms": 8631,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "物流分野におけるドローンの活用",
+  "title_en": "Use of Drones in the Logistics Sector",
+  "language": "ja",
+  "authors_or_issuer": "国土交通省 物流・自動車局 物流政策課 (Ministry of Land, Infrastructure, Transport and Tourism, Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "MLIT website",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "sustainability_environment",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japanese MLIT portal page on drone use in logistics, listing subsidy calls for drone delivery in depopulated areas, study group materials, versions 1.0–4.0 of drone delivery guidelines, and demonstration project reports (FY2018, FY2022, FY2023) on CO2 reduction and last-mile delivery including Level 4 flights and delivery robots.",
+  "key_provisions_or_claims": [
+   "Supports introduction of drones in depopulated areas to cut transport CO2 and sustain logistics networks",
+   "Links to Drone Delivery Guidelines Ver.1.0–4.0 and a drug-delivery guideline",
+   "Reports demonstration projects incl. Level 4 flights and delivery robots",
+   "Call for applications for the drone logistics commercialization project has closed"
+  ],
+  "confidence": 0.8
+ }
+}

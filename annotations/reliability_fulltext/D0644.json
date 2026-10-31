@@ -1,0 +1,93 @@
+{
+ "doc_id": "D0644",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:13:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.11821380000000001,
+  "in": 2,
+  "out": 1733,
+  "cache_read": 11758,
+  "cache_create": 24926,
+  "api_ms": 13016,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Machine Learning for Learning Machines (Technology and Language 7(3), full issue incl. editorial; collected as a review of Cheng Lin's RoboHumanities)",
+  "title_en": "Machine Learning for Learning Machines",
+  "language": "en",
+  "authors_or_issuer": "Baykov, A.; Nguyen, N.V.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": "10.48417/technolang.2026.03.01",
+  "venue": "Technology and Language (Peter the Great St. Petersburg Polytechnic University)",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "editorial_or_commentary",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education",
+   "research_science"
+  ],
+  "governance_topics": [
+   "education_training",
+   "human_dignity_autonomy",
+   "transparency_explainability",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Front matter, editorial and article excerpts from the journal issue Technology and Language 7(3) on machine learning, language and pedagogy. It covers LLMs in education, Ramon Llull and Borges, AI detection and AI literacy. The metadata title points to a review of RoboHumanities, but the text contains no robotics or embodied-AI governance content.",
+  "key_provisions_or_claims": [
+   "Educational automation redistributes epistemic labour rather than showing linear growth in machine intelligence.",
+   "AI text detectors have high false-positive rates (up to 41% on academic texts), so a three-level human-centred review framework is proposed.",
+   "Generative AI in education should prioritise learners' epistemic agency and judgement.",
+   "The issue frames the relationship between human and machine learning as two-way."
+  ],
+  "confidence": 0.6
+ }
+}

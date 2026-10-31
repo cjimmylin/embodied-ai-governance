@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0813",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:45:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2032459,
+  "in": 4,
+  "out": 3653,
+  "cache_read": 62384,
+  "cache_create": 40867,
+  "api_ms": 22473,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Public Consultation Feedback: Proposed Artificial Intelligence (AI) Governance Bill",
+  "title_en": "Public Consultation Feedback: Proposed Artificial Intelligence (AI) Governance Bill",
+  "language": "en",
+  "authors_or_issuer": "National AI Office (NAIO), Ministry of Digital, Malaysia",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Unified Public Consultation (UPC) platform, Malaysia",
+  "jurisdiction_country": "MY",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "MY"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "consultation_open",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "ethics_principles",
+   "transparency_explainability",
+   "civil_liability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 2,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "oversight_body_creation",
+   "incident_reporting",
+   "testing_sandboxes",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "ISO/IEC 42001",
+   "NIST AI RMF"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Malaysia's National AI Office consultation page on a proposed AI Governance Bill, with a Central AI Authority, Sectoral Leads, five principles, a three-tier risk framework, incident reporting and an AI Sandbox. The page mainly reproduces about 66 stakeholder comments, which criticise narrow harm categories, intent-based Tier 1, missing liability allocation and environmental gaps.",
+  "key_provisions_or_claims": [
+   "Proposes a Central AI Authority with Sectoral Leads for oversight",
+   "Five principle-based baseline requirements, including human dignity and transparency",
+   "Three-tier risk framework with harm categories limited to death, bodily injury, deprivation of liberty and breach of law",
+   "Developer/Deployer duties allocated by degree of control",
+   "AI incident reporting mechanism and supervised AI Sandbox"
+  ],
+  "confidence": 0.8
+ }
+}

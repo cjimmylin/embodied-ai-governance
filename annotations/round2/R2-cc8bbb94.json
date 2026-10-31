@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-cc8bbb94",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:49:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.048493800000000004,
+  "in": 2,
+  "out": 1949,
+  "cache_read": 11758,
+  "cache_create": 6956,
+  "api_ms": 10507,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "COMMISSION REGULATION (EU) No 523/2012 of 20 June 2012 amending Regulation (EC) No 661/2009 as regards the inclusion of certain Regulations of the United Nations Economic Commission for Europe on the type-approval of motor vehicles",
+  "title_en": "COMMISSION REGULATION (EU) No 523/2012 of 20 June 2012 amending Regulation (EC) No 661/2009 as regards the inclusion of certain Regulations of the United Nations Economic Commission for Europe on the type-approval of motor vehicles",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2012,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 160/8",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "safety_physical_harm",
+   "sustainability_environment"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [
+   "Regulation (EC) No 661/2009",
+   "Directive 2007/46/EC",
+   "UNECE Revised 1958 Agreement",
+   "Regulation (EU) No 407/2011"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Regulation amending Annex IV of Regulation (EC) No 661/2009 to make UNECE Regulations on tyres (Nos 30, 54, 117), tyre pressure monitoring (No 64), braking and other items compulsory for vehicle type-approval. Conventional vehicle safety and tyre rules with no AI or autonomy content.",
+  "key_provisions_or_claims": [
+   "Adds UNECE Regulations 30, 54, 64 and 117 to compulsory type-approval list in Annex IV",
+   "Phased dates 2012-2020 for tyre rolling sound, wet grip and rolling resistance requirements",
+   "Mandatory TPMS on M1 vehicles for type-approval from Nov 2012 and for registration/sale from Nov 2014",
+   "Clarifies application of UNECE Regulations 13, 13-H, 34 and 55",
+   "Transitional 30-month sell-off period for tyres manufactured before the dates"
+  ],
+  "confidence": 0.93
+ }
+}

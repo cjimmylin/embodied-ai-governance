@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1657",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:52:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0425098,
+  "in": 2,
+  "out": 1735,
+  "cache_read": 11758,
+  "cache_create": 5995,
+  "api_ms": 8558,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Urban robotics and responsible urban innovation",
+  "title_en": "Urban robotics and responsible urban innovation",
+  "language": "en",
+  "authors_or_issuer": "Nagenborg, M.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2018,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s10676-018-9446-8",
+  "venue": "Ethics and Information Technology",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "autonomous_road_vehicles",
+   "other_embodied"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "construction",
+   "logistics_transport",
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "research_ethics",
+   "fairness_bias_discrimination",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Philosophical paper on integrating robots into cities, distinguishing responsible design and use of urban robots from robots as part of responsible urban innovation. Introduces \"cityness\" and urban justice, drawing on Responsible Research and Innovation, and calls for participatory approaches and dialogue with architects and urban planners.",
+  "key_provisions_or_claims": [
+   "Robots are spatial entities that must find a place in the city and may require redesign of urban space.",
+   "Robots should be designed for 'cityness', the desirable qualities of city life.",
+   "Responsible urban innovation should apply RRI with participatory approaches and procedural justice.",
+   "Dialogue with architects, urban designers and planners is needed to address spatial issues.",
+   "The paper maps topics for discussion rather than offering final guidelines."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-799ce2e7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:46:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07072780000000001,
+  "in": 2,
+  "out": 1808,
+  "cache_read": 11758,
+  "cache_create": 12867,
+  "api_ms": 9403,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Decision (EU) 2018/1617 of 25 October 2018 concerning a measure adopted by France pursuant to Council Directive 93/42/EEC with regard to the Terrafor and Defiligne medical devices",
+  "title_en": "Commission Decision (EU) 2018/1617 of 25 October 2018 concerning a measure adopted by France pursuant to Council Directive 93/42/EEC with regard to the Terrafor and Defiligne medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2018,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 270/29",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "FR",
+   "BE",
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "consumer_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission Decision under the safeguard clause of Directive 93/42/EEC finding justified France's suspension and withdrawal of the lead-containing oral capsules Terrafor and Defiligne. It is unrelated to AI or robotics; it concerns medical device risk/benefit, clinical evaluation and incorrect application of harmonised standards.",
+  "key_provisions_or_claims": [
+   "France's 16 August 2016 measure suspending and withdrawing Terrafor and Defiligne is justified",
+   "Lead content exceeded the ICH Q3D 5 µg/day threshold, so the risk/benefit ratio was unfavourable",
+   "Manufacturer failed to minimise risk and to provide clinical data for the claimed benefits",
+   "Harmonised ISO 10993 standards were incorrectly applied, so no presumption of conformity",
+   "Decision is addressed to the Member States"
+  ],
+  "confidence": 0.97
+ }
+}

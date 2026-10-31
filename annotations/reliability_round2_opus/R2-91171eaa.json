@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-91171eaa",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:07:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.053087600000000006,
+  "in": 2,
+  "out": 1788,
+  "cache_read": 11758,
+  "cache_create": 1871,
+  "api_ms": 13342,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "发改价格〔2026〕1476号（养老服务收费政策通知）",
+  "title_en": "NDRC Price [2026] No. 1476 (Notice on Elderly Care Service Fee Policy)",
+  "language": "zh",
+  "authors_or_issuer": "国家发展和改革委员会 (National Development and Reform Commission)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "taxation_economic_policy",
+   "consumer_protection"
+  ],
+  "primary_topic": "taxation_economic_policy",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Excerpt of a Chinese NDRC pricing notice (dated 12 October 2026) on elderly care service fees. It sets market-regulated pricing for small community care facilities and home-visit services, requires price monitoring, and requires fee policies to be reviewed at least every three years. It does not concern AI or robotics.",
+  "key_provisions_or_claims": [
+   "Community elderly care facilities with fewer than 10 full-care beds generally use market-regulated prices; government-guided prices are possible if the provincial government approves",
+   "Home-visit service fees are market-regulated, and authorities may publish reference ranges for them",
+   "Local development and reform departments must improve price monitoring for elderly care services",
+   "Fee policies must be evaluated regularly, generally at least every 3 years, through self-assessment or third-party assessment",
+   "Provinces must report the results of fee-policy evaluations to the State Council's development and reform and sector departments"
+  ],
+  "confidence": 0.8
+ }
+}

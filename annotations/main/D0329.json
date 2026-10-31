@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0329",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:15:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0653378,
+  "in": 4,
+  "out": 3377,
+  "cache_read": 29593,
+  "cache_create": 7794,
+  "api_ms": 19130,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "Mehr, H.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "US",
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "grey_literature",
+  "doc_type": "industry_or_ngo_report",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "labor_employment",
+   "industrial_policy_innovation",
+   "trust_acceptance"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "AI use cases in citizen services fall into five categories: answering questions, filling/searching documents, routing requests, translation, drafting documents.",
+   "Governments should make AI part of a goals-based, citizen-centric program and seek citizen input.",
+   "Be data-prepared and tread carefully with privacy.",
+   "Mitigate ethical risks and avoid AI decision making.",
+   "Augment employees rather than replace them."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2017,
+  "publication_stage": "grey_literature",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Harvard Ash Center report surveying AI applications in government citizen services (chatbots, document processing, routing, translation, drafting) and recommending six implementation strategies, including privacy care, ethical risk mitigation, avoiding AI decision-making and augmenting rather than replacing employees. Software AI only; no robotics content.",
+  "title_clean": "Artificial Intelligence for Citizen Services and Government",
+  "title_en": "Artificial Intelligence for Citizen Services and Government",
+  "venue": "Harvard Kennedy School Ash Center for Democratic Governance and Innovation (hosted via OVIC)"
+ }
+}

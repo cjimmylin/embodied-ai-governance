@@ -1,0 +1,93 @@
+{
+ "doc_id": "D0528",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:20:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.023191800000000002,
+  "in": 2,
+  "out": 1572,
+  "cache_read": 11758,
+  "cache_create": 1573,
+  "api_ms": 8898,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "authors_or_issuer": "Unknown (Russian journal Uzakugu, elpub.ru)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.3,
+  "countries_discussed": [
+   "RU"
+  ],
+  "date_basis": "unknown",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": null,
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "military_use_ihl",
+   "human_oversight_control"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Text unavailable; inferred from title only",
+   "Likely examines ethical regulation mechanisms for military robots"
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "error_or_blocked_page",
+  "pub_month": null,
+  "pub_year": null,
+  "primary_embodied_category": "military_autonomous_weapons",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "publication_stage": "unknown",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Text unavailable. Based on the title and source, this appears to be a journal article on mechanisms of ethical regulation of military robotics, likely from a Russian academic journal. No content could be verified.",
+  "title_clean": "Key mechanisms of ethical regulation in military robotics",
+  "title_en": "Key mechanisms of ethical regulation in military robotics",
+  "venue": "Uzakugu (elpub.ru journal)"
+ }
+}

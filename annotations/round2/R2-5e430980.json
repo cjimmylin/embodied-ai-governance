@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-5e430980",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0793241,
+  "in": 4,
+  "out": 3538,
+  "cache_read": 32561,
+  "cache_create": 10845,
+  "api_ms": 23501,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "other"
+  ],
+  "authors_or_issuer": "European Parliament",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "international_cooperation",
+   "data_governance_requirements"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "intellectual_property",
+   "fairness_bias_discrimination",
+   "industrial_policy_innovation",
+   "consumer_protection",
+   "sustainability_environment"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "intellectual_property",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "European Parliament resolution on cultural diversity and authors' conditions in the European music streaming market. It calls for fairer revenue distribution, prominence of European works, algorithm transparency, labelling of AI-generated music, deepfake detection, and copyright reservation and training-data transparency for generative AI.",
+  "title_clean": "Cultural diversity and the conditions for authors in the European music streaming market",
+  "title_en": "Cultural diversity and the conditions for authors in the European music streaming market",
+  "venue": "Official Journal of the European Union (C series)",
+  "key_provisions_or_claims": [
+   "Calls for assessment of fairer streaming revenue allocation models and remuneration for authors and performers",
+   "Calls for a legal framework ensuring prominence and discoverability of European musical works, possibly quotas",
+   "Calls for legal provisions on transparency of recommendation algorithms and tackling streaming fraud",
+   "Calls for clear labelling of purely AI-generated music and deepfake detection tools",
+   "Authors may reserve AI training rights; generative AI providers must publish training data summaries"
+  ]
+ }
+}

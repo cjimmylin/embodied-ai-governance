@@ -1,0 +1,107 @@
+{
+ "doc_id": "D0767",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:57:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.043171799999999996,
+  "in": 2,
+  "out": 1870,
+  "cache_read": 11758,
+  "cache_create": 5823,
+  "api_ms": 9775,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Kecerdasan Buatan Dan Tantangan Regulasi Di Indonesia: Antara Inovasi Dan Ketidakpastian Hukum",
+  "title_en": "Artificial Intelligence and Regulatory Challenges in Indonesia: Between Innovation and Legal Uncertainty",
+  "language": "id",
+  "authors_or_issuer": "Badan Pembinaan Hukum Nasional (BPHN), Jurnal Rechtsvinding",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Jurnal Rechtsvinding (BPHN)",
+  "jurisdiction_country": "ID",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ID",
+   "EU"
+  ],
+  "doc_type": "blog_or_opinion",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "finance"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "cybersecurity",
+   "civil_liability",
+   "legal_personhood_robot_rights",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "ethics_principles",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "OECD AI Principles",
+   "UNESCO Recommendation on the Ethics of AI",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Opinion article in Jurnal Rechtsvinding on Indonesia's AI regulatory gaps. It reviews the ITE and Personal Data Protection laws, notes there is no AI-specific law, and urges technology-neutral, principle-based regulation (OECD, UNESCO), clear liability rules, algorithmic transparency and non-discrimination.",
+  "key_provisions_or_claims": [
+   "Indonesia has no law specifically regulating AI standards, audits and liability.",
+   "Recommends adaptive, technology-neutral, principle-based regulation drawing on OECD and UNESCO principles.",
+   "Liability for AI harm is unclear under Article 1365 of the Civil Code.",
+   "Suggests considering limited legal status for AI systems.",
+   "Calls for algorithmic transparency standards, non-discrimination and public-private participation."
+  ],
+  "confidence": 0.8
+ }
+}

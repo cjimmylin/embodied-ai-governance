@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1083",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:42:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0266078,
+  "in": 2,
+  "out": 1736,
+  "cache_read": 11758,
+  "cache_create": 2017,
+  "api_ms": 8858,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "European Commission, Directorate-General for Communications Networks, Content and Technology (G7 Hiroshima AI Process)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.75,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "ethical_framework_or_principles",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "risk_management_risk_tiers",
+   "transparency_explainability"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Non-exhaustive, living list of guiding principles for organizations developing advanced AI systems",
+   "Builds on the OECD AI Principles",
+   "Applies to all AI actors across design, development, deployment and use",
+   "Targets foundation models and generative AI",
+   "Accompanied by a voluntary Code of Conduct for AI developers"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "OECD AI Principles",
+   "Hiroshima Process"
+  ],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2023,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "European Commission web page announcing the G7 Hiroshima Process International Guiding Principles for Organizations Developing Advanced AI Systems (30 Oct 2023). Voluntary, living principles building on the OECD AI Principles, covering foundation models and generative AI, to promote safe, secure and trustworthy AI. The page links to the full text and the Code of Conduct.",
+  "title_clean": "Hiroshima Process International Guiding Principles for Advanced AI system",
+  "title_en": "Hiroshima Process International Guiding Principles for Advanced AI system",
+  "venue": "European Commission Digital Strategy",
+  "methodology": "not_applicable"
+ }
+}

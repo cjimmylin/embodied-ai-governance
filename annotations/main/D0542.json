@@ -1,0 +1,106 @@
+{
+ "doc_id": "D0542",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:21:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045343800000000004,
+  "in": 2,
+  "out": 1802,
+  "cache_read": 11758,
+  "cache_create": 6536,
+  "api_ms": 13289,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Ethical implications of AI in robotic surgical training: A Delphi consensus statement",
+  "title_en": "Ethical implications of AI in robotic surgical training: A Delphi consensus statement",
+  "language": "en",
+  "authors_or_issuer": "Collins, J.W.; Marcus, H.J.; Ghazi, A.; Sridhar, A.; Hashimoto, D.; Hager, G.; et al.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": "10.1016/j.euf.2021.04.006",
+  "venue": "European Urology Focus",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare",
+   "education"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "education_training",
+   "research_ethics",
+   "civil_liability"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "data_governance_requirements",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "empirical_quantitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Three-round Delphi consensus study of 30 international experts producing ethical guidance for developing narrow AI applications in robotic surgical training. Consensus covers data protection and privacy, reproducibility and transparency, predictive analytics, bias, and responsibility for harm, and notes a current lack of guidance.",
+  "key_provisions_or_claims": [
+   "100% consensus that guidance on AI in robotic surgical training is currently lacking",
+   "Consensus on data protection, privacy by design and consent for data collection",
+   "Responsibility for harm from an AI training platform should be defined from the outset",
+   "Need for shared open-source metrics and data labelling standards",
+   "Lab-based training evaluation reduces ethical concerns compared with direct patient involvement"
+  ],
+  "confidence": 0.9
+ }
+}

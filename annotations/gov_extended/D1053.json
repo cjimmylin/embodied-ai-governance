@@ -1,0 +1,99 @@
+{
+ "doc_id": "D1053",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:47:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.051137600000000005,
+  "in": 4,
+  "out": 3453,
+  "cache_read": 25921,
+  "cache_create": 4160,
+  "api_ms": 21605,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "European Commission, Directorate-General for Communications Networks, Content and Technology",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_proposal_or_draft",
+  "doc_type": "consultation_or_white_paper",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "consultation_open",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "page_quality": "landing_or_index_page",
+  "primary_embodied_category": "none",
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "European Commission landing page for draft guidelines on classifying high-risk AI systems under Article 6 of the AI Act, published 19 May 2026 for stakeholder feedback. Covers Annex I (product safety components needing third-party conformity assessment) and Annex III use cases, with practical examples.",
+  "key_provisions_or_claims": [
+   "Guidelines interpret Article 6 AI Act high-risk classification concepts",
+   "Two routes: Annex I product safety components requiring third-party conformity assessment, and Annex III use cases",
+   "Includes non-exhaustive practical examples of high-risk and non-high-risk systems per Article 6(5)",
+   "Draft released for targeted stakeholder consultation",
+   "Split into general principles, Annex I and Annex III sections"
+  ],
+  "title_clean": "Draft Commission guidelines on the classification of high-risk AI systems",
+  "title_en": "Draft Commission guidelines on the classification of high-risk AI systems",
+  "venue": "European Commission Digital Strategy"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "doc_id": "D1474",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:51:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0329438,
+  "in": 2,
+  "out": 1620,
+  "cache_read": 11758,
+  "cache_create": 3891,
+  "api_ms": 8661,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Publication Ethics and Malpractice Statement, Irish Journal of Applied Social Studies",
+  "title_en": "Publication Ethics and Malpractice Statement, Irish Journal of Applied Social Studies",
+  "language": "en",
+  "authors_or_issuer": "Irish Journal of Applied Social Studies (Dublin Institute of Technology)",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2011,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Irish Journal of Applied Social Studies (Arrow@DIT)",
+  "jurisdiction_country": "IE",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education"
+  ],
+  "governance_topics": [
+   "research_ethics"
+  ],
+  "primary_topic": "research_ethics",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Publication ethics and malpractice statement of the Irish Journal of Applied Social Studies, based on COPE guidelines. It sets duties for editors, reviewers and authors on peer review, conflicts of interest, plagiarism, data availability and corrections. It has no connection to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Editors decide on academic merit, without discrimination",
+   "Blind peer review by at least two expert reviewers",
+   "Conflict of interest disclosure for editors, reviewers and authors",
+   "Authors must ensure originality, avoid plagiarism and redundant publication",
+   "Open access under CC-BY licence"
+  ],
+  "confidence": 0.85
+ }
+}

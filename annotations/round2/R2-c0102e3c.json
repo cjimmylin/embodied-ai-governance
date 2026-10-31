@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-c0102e3c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:46:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0630388,
+  "in": 4,
+  "out": 3809,
+  "cache_read": 27853,
+  "cache_create": 6260,
+  "api_ms": 19925,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "legally_binding",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Amends the Annex of Implementing Decision (EU) 2021/1182 on harmonised standards for medical devices.",
+   "Adds EN 285:2015+A1:2021 (steam sterilizers) and EN ISO 14971:2019 with amendment A11:2021 (risk management).",
+   "Includes corrigendum EN ISO 13485:2016/AC:2018 to the quality management standard, retroactively from 5 January 2022.",
+   "Compliance with listed standards gives presumption of conformity with Regulation (EU) 2017/745.",
+   "Enters into force on the day of publication."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU Medical Devices Regulation 2017/745",
+   "Regulation (EU) 1025/2012",
+   "Implementing Decision (EU) 2021/1182"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Commission Implementing Decision (EU) 2022/757 amends the list of harmonised standards supporting the EU Medical Devices Regulation 2017/745, adding sterilisation and risk management standards and a quality management corrigendum, so that conforming devices benefit from a presumption of conformity. It contains no AI or robotics content.",
+  "title_clean": "Commission Implementing Decision (EU) 2022/757 of 11 May 2022 amending Implementing Decision (EU) 2021/1182 as regards harmonised standards for quality management systems, sterilisation and application of risk management to medical devices",
+  "title_en": "Commission Implementing Decision (EU) 2022/757 of 11 May 2022 amending Implementing Decision (EU) 2021/1182 as regards harmonised standards for quality management systems, sterilisation and application of risk management to medical devices",
+  "venue": "Official Journal of the European Union"
+ }
+}

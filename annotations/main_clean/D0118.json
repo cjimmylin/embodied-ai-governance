@@ -1,0 +1,97 @@
+{
+ "doc_id": "D0118",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:43:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0357458,
+  "in": 2,
+  "out": 1661,
+  "cache_read": 11758,
+  "cache_create": 4489,
+  "api_ms": 8165,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Chile: Leader in Artificial Intelligence in Latin America",
+  "title_en": "Chile: Leader in Artificial Intelligence in Latin America",
+  "language": "en",
+  "authors_or_issuer": "InvestChile (Juan Pablo Gárnica)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "InvestChile",
+  "jurisdiction_country": "CL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CL",
+   "BR",
+   "UY",
+   "AR",
+   "MX"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Investment-promotion article by Chile's InvestChile arguing Chile leads Latin America in AI per the ILIA 2024 index, citing its national AI policy, data center infrastructure, and R&D funding, with brief comparison to Brazil, Uruguay, Argentina and Mexico. It notes upcoming 2025 congressional debate on AI regulation.",
+  "key_provisions_or_claims": [
+   "Chile ranks first in Latin America in ILIA 2024.",
+   "National AI Policy launched 2021 and updated 2024.",
+   "US$116 million allocated to AI research over a decade; National Data Center Plan.",
+   "Chilean Congress to debate AI regulation in 2025.",
+   "Brazil, Uruguay, Argentina, Mexico compared on strategies and infrastructure."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1630",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:18:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06977560000000001,
+  "in": 2,
+  "out": 1946,
+  "cache_read": 11758,
+  "cache_create": 3562,
+  "api_ms": 13867,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Human Control Over Autonomous Robotic Systems: What Ethical and Legal Lessons for Judicial Uses of AI?",
+  "title_en": "The Human Control Over Autonomous Robotic Systems: What Ethical and Legal Lessons for Judicial Uses of AI?",
+  "language": "en",
+  "authors_or_issuer": "Amoroso, D.; Tamburrini, G.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2021,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Book chapter (ISBN 9783030666361), deposited in IRIS UNICA (University of Cagliari)",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "book",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security",
+   "healthcare",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "military_use_ihl",
+   "civil_liability",
+   "ethics_principles"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "case_study",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Book chapter (repository abstract page) examining normative problems of increasingly autonomous robotic systems through two case studies, autonomous weapons and autonomous surgical robots, to draw lessons on shared human-machine control, acceptability of autonomous decisions, and human responsibility for harms, applied to judicial uses of AI.",
+  "key_provisions_or_claims": [
+   "Autonomous weapons systems raise the issue of acceptability of autonomous decision-making in ethically and legally sensitive domains",
+   "Increasingly autonomous surgical robots raise the issue of human responsibility for harms caused by autonomous agents",
+   "The shared control relationship between human and machine is central to governing autonomous systems",
+   "Lessons from robotics apply to the judge-software relationship in judicial AI"
+  ],
+  "confidence": 0.6
+ }
+}

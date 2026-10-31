@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-1bd40d9d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:33:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0296778,
+  "in": 2,
+  "out": 1823,
+  "cache_read": 11758,
+  "cache_create": 2567,
+  "api_ms": 9241,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "商务部等8部门关于印发《促进智能家居消费行动方案》的通知",
+  "title_en": "Notice of Eight Departments including the Ministry of Commerce on Issuing the Action Plan for Promoting Smart Home Consumption",
+  "language": "zh",
+  "authors_or_issuer": "商务部、国家发展改革委、工业和信息化部、民政部、财政部、自然资源部、住房城乡建设部、市场监管总局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "domestic_household_robots",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "domestic_household_robots",
+  "application_sectors": [
+   "domestic_consumer",
+   "elder_care_social_care",
+   "retail_hospitality",
+   "construction"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "consumer_protection",
+   "certification_conformity_assessment",
+   "sustainability_environment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Chinese eight-ministry action plan to boost smart home consumption through expanded supply, mandatory interoperability standards, trade-in subsidies, age-friendly products including household service robots, recycling services, community services and consumer finance support. Robots appear only as one age-friendly product category.",
+  "key_provisions_or_claims": [
+   "Accelerate mandatory national standards for smart home interoperability and a graded intelligence evaluation system",
+   "Local subsidies for smart home purchases under the 2026 consumer goods trade-in policy",
+   "Promote household service robots, health monitoring and smart care products for elderly with age-friendly design",
+   "Promote silver-product certification in age-friendly smart home field",
+   "Financial subsidies on consumer loans and recycling network construction"
+  ],
+  "confidence": 0.85
+ }
+}

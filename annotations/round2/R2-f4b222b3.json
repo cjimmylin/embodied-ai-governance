@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-f4b222b3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:48:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0363378,
+  "in": 2,
+  "out": 1939,
+  "cache_read": 11758,
+  "cache_create": 3942,
+  "api_ms": 17704,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "EFTA Surveillance Authority Decision No 146/25/COL of 9 September 2025 adopting Guidelines for the Safety Gate Rapid Alert System as established under Directive 2001/95/EC on general product safety",
+  "title_en": "EFTA Surveillance Authority Decision No 146/25/COL of 9 September 2025 adopting Guidelines for the Safety Gate Rapid Alert System as established under Directive 2001/95/EC on general product safety",
+  "language": "en",
+  "authors_or_issuer": "EFTA Surveillance Authority",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (EEA Section / EEA Supplement)",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "NO",
+   "IS",
+   "LI"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "consumer_protection"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "incident_reporting",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU General Product Safety Directive 2001/95/EC",
+   "EU General Product Safety Regulation 2023/988",
+   "EEA Agreement",
+   "Commission Implementing Decision (EU) 2023/975",
+   "Commission Delegated Regulation (EU) 2024/3173"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EFTA Surveillance Authority decision adopting revised Guidelines for the Safety Gate Rapid Alert System (formerly RAPEX) for EFTA States under the General Product Safety Directive, aligning them with EU guidelines. The text contains no AI or robotics content; the Guidelines annex is not reproduced in the excerpt.",
+  "key_provisions_or_claims": [
+   "Adopts amended Safety Gate (RAPEX) Guidelines for EFTA States under Directive 2001/95/EC.",
+   "Renames RAPEX as Safety Gate, following the EFTA Committee's suggestion.",
+   "Notes the GPSR 2023/988 is not yet incorporated into the EEA Agreement, so the Directive still applies.",
+   "Aligns EFTA guidelines with EU Commission rules for uniform application.",
+   "Addressed to the EFTA States; English text is authentic."
+  ],
+  "confidence": 0.9
+ }
+}

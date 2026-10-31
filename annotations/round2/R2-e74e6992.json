@@ -1,0 +1,92 @@
+{
+ "doc_id": "R2-e74e6992",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:01:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0233058,
+  "in": 2,
+  "out": 1573,
+  "cache_read": 11758,
+  "cache_create": 1599,
+  "api_ms": 9905,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Official Aviation Forms, Checklists and Documents (Drone Registration Forms)",
+  "title_en": "Official Aviation Forms, Checklists and Documents (Drone Registration Forms)",
+  "language": "en",
+  "authors_or_issuer": "Civil aviation authority (unspecified)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "Civil aviation authority forms portal",
+  "jurisdiction_country": "XX",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Aviation authority forms portal listing downloadable documents, including a drone registration application form (UAS001), unmanned aircraft registration instructions (UAS002) and a Voluntary Occurrence Reporting System. Issuer and country are not identified in the excerpt.",
+  "key_provisions_or_claims": [
+   "Drone registration application form (UAS001)",
+   "Unmanned aircraft registration instructions (UAS002)",
+   "Voluntary Occurrence Reporting System listed"
+  ],
+  "confidence": 0.4
+ }
+}

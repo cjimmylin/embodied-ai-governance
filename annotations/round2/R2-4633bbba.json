@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-4633bbba",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:44:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06363750000000001,
+  "in": 4,
+  "out": 3465,
+  "cache_read": 28910,
+  "cache_create": 7199,
+  "api_ms": 21122,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "authors_or_issuer": "European Parliament",
+  "binding_nature": "not_applicable",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "BE",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "intergovernmental_recommendation_or_resolution",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "taxation_economic_policy",
+   "education_training"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Approves EGF contribution of EUR 1,824,041 (60% of EUR 3,040,069) to Belgium",
+   "Covers 488 redundant workers and 300 NEETs in Hainaut",
+   "Calls for extending NEET access to EGF beyond 2017",
+   "Calls for revision of state aid and trade defence instruments",
+   "Requests public access to EGF case documents and impact data"
+  ],
+  "language": "en",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2016,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "European Parliament resolution of 23 June 2016 approving mobilisation of the European Globalisation Adjustment Fund for Belgium (Hainaut Machinery), supporting workers made redundant at Caterpillar Belgium, Carwall and Doosan, plus young NEETs. Unrelated to AI or robotics; concerns labour market adjustment funding.",
+  "title_clean": "Mobilisation of the European Globalisation Adjustment Fund: application EGF/2015/012 BE/Hainaut Machinery",
+  "title_en": "Mobilisation of the European Globalisation Adjustment Fund: application EGF/2015/012 BE/Hainaut Machinery",
+  "venue": "Official Journal of the European Union, C 91",
+  "methodology": "not_applicable"
+ }
+}

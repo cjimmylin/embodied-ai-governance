@@ -1,0 +1,102 @@
+{
+ "doc_id": "D1111",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:36:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04436380000000001,
+  "in": 2,
+  "out": 1860,
+  "cache_read": 11758,
+  "cache_create": 6146,
+  "api_ms": 9057,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models",
+  "title_en": "Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models",
+  "language": "en",
+  "authors_or_issuer": "European Data Protection Board",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Data Protection Board",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "IE"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "data_governance_requirements",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU AI Act",
+   "EDPB Guidelines 1/2024 on Article 6(1)(f) GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EDPB Article 64(2) GDPR opinion, requested by the Irish authority, on personal data in AI models. It covers when a model is anonymous, legitimate interest as a legal basis in development and deployment, mitigating measures, and the effect of unlawful development-phase processing on later use. It addresses general AI, with no robotics content.",
+  "key_provisions_or_claims": [
+   "AI models trained on personal data are not automatically anonymous; supervisory authorities assess anonymity case by case.",
+   "Anonymity requires insignificant likelihood of extraction or of obtaining personal data through queries.",
+   "Legitimate interest requires a three-step test: legitimate interest, necessity, and balancing.",
+   "Mitigating measures may tip the balancing test but must go beyond measures GDPR already requires.",
+   "Unlawful development-phase processing may affect later processing, depending on three scenarios, with supervisory authorities using corrective powers."
+  ],
+  "confidence": 0.9
+ }
+}

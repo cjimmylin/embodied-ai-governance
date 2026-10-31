@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-b0d4346b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:42:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1607578,
+  "in": 2,
+  "out": 1917,
+  "cache_read": 11758,
+  "cache_create": 35102,
+  "api_ms": 18701,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Delegated Regulation (EU) 2024/1107 laying down detailed rules for the continuing airworthiness of certified unmanned aircraft systems and their components, and on the approval of organisations and personnel involved in these tasks",
+  "title_en": "Commission Delegated Regulation (EU) 2024/1107 laying down detailed rules for the continuing airworthiness of certified unmanned aircraft systems and their components, and on the approval of organisations and personnel involved in these tasks",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "audits_impact_assessment",
+   "incident_reporting",
+   "technical_standards_reference",
+   "risk_based_tiering",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "EU Delegated Regulation 2024/1107 sets continuing airworthiness rules for certified unmanned aircraft systems operated in the 'specific' category, with Part-ML.UAS (owner accountability, maintenance, records, airworthiness review certificates) and Part-CAO.UAS (organisation approval, staff, occurrence reporting, information security). Applies from 1 May 2025.",
+  "key_provisions_or_claims": [
+   "Owner of the UA is accountable for continuing airworthiness; no flight unless airworthy and certificate valid.",
+   "Maintenance must be done by Part-CAO.UAS approved organisations with principal place of business in the EU.",
+   "Airworthiness review certificate valid 1 year, extendable twice by approved organisations.",
+   "Organisations must report occurrences and information security incidents (within 72 hours) to authorities.",
+   "Applies from 1 May 2025; CAO.UAS.102 information security from 22 February 2026."
+  ],
+  "confidence": 0.93
+ }
+}

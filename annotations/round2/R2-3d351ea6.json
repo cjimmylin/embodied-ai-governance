@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-3d351ea6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0542838,
+  "in": 2,
+  "out": 1820,
+  "cache_read": 11758,
+  "cache_create": 8726,
+  "api_ms": 9653,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Committee of the Regions – Digital simplification and Data Union Strategy",
+  "title_en": "Opinion of the European Committee of the Regions – Digital simplification and Data Union Strategy",
+  "language": "en",
+  "authors_or_issuer": "European Committee of the Regions",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (C series)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "parliamentary_material",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers",
+   "privacy_data_protection",
+   "cybersecurity",
+   "sustainability_environment",
+   "education_training"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "incident_reporting",
+   "funding_or_incentives",
+   "education_training_programs",
+   "technical_standards_reference",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Committee of the Regions opinion on the Commission's Digital Omnibus, Digital Omnibus on AI and Data Union Strategy. It proposes amendments easing AI Act burdens for small municipalities, opening EU sandboxes to local authorities, and calls for guidance, training and an AI fund, while welcoming simplification.",
+  "key_provisions_or_claims": [
+   "Exempt municipalities under 50,000 inhabitants from 'provider' status for non-high-risk AI systems.",
+   "Open EU-level AI regulatory sandboxes to local and regional authorities.",
+   "Exempt small local authorities from Article 26 deployer fines for non-high-risk systems.",
+   "Calls for guidance, templates, training and an AI fund for local and regional authorities.",
+   "Regrets absence of impact assessments and public consultation for the Omnibus proposals."
+  ],
+  "confidence": 0.9
+ }
+}

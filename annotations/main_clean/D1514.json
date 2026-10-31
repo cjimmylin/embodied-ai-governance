@@ -1,0 +1,94 @@
+{
+ "doc_id": "D1514",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:05:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.047593300000000005,
+  "in": 4,
+  "out": 3354,
+  "cache_read": 25573,
+  "cache_create": 3361,
+  "api_ms": 21054,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Granting Negative Rights to Humanoid Robots",
+  "title_en": "Granting Negative Rights to Humanoid Robots",
+  "language": "en",
+  "authors_or_issuer": "Unknown (research paper)",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.3233/faia220613",
+  "venue": "Frontiers in Artificial Intelligence and Applications (IOS Press)",
+  "jurisdiction_country": "XX",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "supports",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Abstract of a philosophical paper arguing that humanoid robots should be granted negative rights (non-interference, e.g. freedom from violence or discrimination), primarily for human benefit, to prevent moral degradation of society caused by mistreating human-like robots.",
+  "key_provisions_or_claims": [
+   "Humanoid robots should be granted negative rights such as freedom from violence and discrimination.",
+   "Takes a human-centred rather than robot-consciousness-based justification.",
+   "Human-like robots elicit human-like relations, so mistreatment may damage society's moral fibre.",
+   "Advocates a nuanced approach to robot rights rather than black-and-white positions."
+  ],
+  "confidence": 0.75
+ }
+}

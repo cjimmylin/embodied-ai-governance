@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-46e9ae67",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:58:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028019800000000004,
+  "in": 2,
+  "out": 1768,
+  "cache_read": 11758,
+  "cache_create": 2290,
+  "api_ms": 8392,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Decision of the EEA Joint Committee No 141/2023 of 28 April 2023 amending Annex XIII (Transport) to the EEA Agreement",
+  "title_en": "Decision of the EEA Joint Committee No 141/2023 of 28 April 2023 amending Annex XIII (Transport) to the EEA Agreement",
+  "language": "en",
+  "authors_or_issuer": "EEA Joint Committee",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "IS",
+   "NO"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "Commission Implementing Regulation (EU) 2022/425",
+   "Commission Implementing Regulation (EU) 2019/947",
+   "EEA Agreement"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "EEA Joint Committee decision incorporating Commission Implementing Regulation (EU) 2022/425, which postpones transition dates for unmanned aircraft systems in the 'open' category and standard scenarios for operations in or beyond visual line of sight, into Annex XIII (Transport) of the EEA Agreement.",
+  "key_provisions_or_claims": [
+   "Adds Regulation (EU) 2022/425 to point 66zbc of Annex XIII of the EEA Agreement",
+   "Regulation postpones UAS open-category transition dates and standard scenario application dates",
+   "Icelandic and Norwegian texts of the regulation are authentic",
+   "Enters into force 29 April 2023 or with Decision 115/2023, whichever is later"
+  ],
+  "confidence": 0.9
+ }
+}

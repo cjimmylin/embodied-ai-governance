@@ -1,0 +1,93 @@
+{
+ "doc_id": "D0112",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:09:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0728059,
+  "in": 4,
+  "out": 3372,
+  "cache_read": 31334,
+  "cache_create": 9687,
+  "api_ms": 18071,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "UNESCO Supports Trinidad and Tobago in Advancing AI Readiness",
+  "title_en": "UNESCO Supports Trinidad and Tobago in Advancing AI Readiness",
+  "language": "en",
+  "authors_or_issuer": "UNESCO Office for the Caribbean (Kingston)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UNESCO website",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "TT"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "ethics_principles"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "UNESCO news item announcing a national AI readiness assessment in Trinidad and Tobago, using UNESCO's Readiness Assessment Methodology and UNDP's AI Landscape Assessment, funded by Japan. It evaluates legal, social, economic, scientific and technological dimensions for ethical, inclusive AI governance. No robotics content.",
+  "key_provisions_or_claims": [
+   "UNESCO RAM launched in Trinidad and Tobago with UNDP and the government",
+   "RAM assesses legal/regulatory, social/cultural, economic, scientific/educational and technological dimensions",
+   "RAM already deployed in 77 countries",
+   "Combined with UNDP AILA for a dual-method baseline",
+   "Funded by the Government of Japan"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1023",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:34:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.051991800000000005,
+  "in": 2,
+  "out": 1738,
+  "cache_read": 11758,
+  "cache_create": 8358,
+  "api_ms": 11437,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Article 26: Obligations of deployers of high-risk AI systems",
+  "title_en": "Article 26: Obligations of deployers of high-risk AI systems",
+  "language": "en",
+  "authors_or_issuer": "European Commission, AI Act Service Desk (DG CONNECT)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 6,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "AI Act Service Desk (European Commission)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "transparency_explainability",
+   "risk_management_risk_tiers",
+   "privacy_data_protection",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "incident_reporting",
+   "data_governance_requirements",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "AI Act Service Desk page reproducing Article 26 of the EU AI Act, which sets obligations for deployers of high-risk AI systems: use per instructions, assign competent human oversight, monitor operation, keep logs, inform workers and affected persons, and report serious incidents. The excerpt shows mostly navigation, not the article text.",
+  "key_provisions_or_claims": [
+   "Deployers must use high-risk AI systems according to provider instructions",
+   "Deployers must assign human oversight to competent, trained persons",
+   "Deployers must monitor operation and keep automatically generated logs",
+   "Deployers must inform workers and affected persons about high-risk AI use",
+   "Deployers must report serious incidents and risks to providers and authorities"
+  ],
+  "confidence": 0.6
+ }
+}

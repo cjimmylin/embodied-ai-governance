@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-da244fbc",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:32:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0367718,
+  "in": 2,
+  "out": 1822,
+  "cache_read": 11758,
+  "cache_create": 4343,
+  "api_ms": 9458,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "商务部等7部门关于实施品质电商“五优”行动的通知",
+  "title_en": "Notice of the Ministry of Commerce and Six Other Departments on Implementing the \"Five Excellences\" Action for Quality E-commerce",
+  "language": "zh",
+  "authors_or_issuer": "商务部; 中央网信办; 国家发展改革委; 工业和信息化部; 农业农村部; 市场监管总局; 国家邮政局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Commerce of China",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "retail_hospitality",
+   "logistics_transport",
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "industrial_policy_innovation",
+   "standards_interoperability"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "self_regulation_codes",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese notice from the Ministry of Commerce and six other departments launching a \"Five Excellences\" action to foster quality e-commerce: platform quality governance, merchant support, quality consumption, Silk Road e-commerce, and standards and self-regulation. AI appears only in passing, for example AI-enabled e-commerce agents and consumption scenarios.",
+  "key_provisions_or_claims": [
+   "Platforms to publish quality commitments and quality governance reports and to establish chief quality officers",
+   "Support for SME merchants through training and brand building",
+   "Promote AI integration with e-commerce, including intelligent agent service models",
+   "Accelerate e-commerce standards and curb disorderly price competition such as auto-price-matching",
+   "Build national e-commerce industry organisation and self-regulation codes"
+  ],
+  "confidence": 0.9
+ }
+}

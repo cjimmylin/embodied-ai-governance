@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-f8c7bef9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:04:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0258018,
+  "in": 2,
+  "out": 1643,
+  "cache_read": 11758,
+  "cache_create": 2048,
+  "api_ms": 9271,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/CD 22166-303 Robotics — Modularity for service robots — Part 303: Perception modules",
+  "title_en": "ISO/CD 22166-303 Robotics — Modularity for service robots — Part 303: Perception modules",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 299",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "under_development",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for draft ISO/CD 22166-303, a Committee Draft standard from ISO/TC 299 specifying requirements and guidelines for perception modules (sensor and software modules) in modular service robots. It is not a safety standard and is at the comment-period stage.",
+  "key_provisions_or_claims": [
+   "Specifies requirements for perception modules as composite modules in service robots",
+   "Builds on the nine principles of ISO 22166-1 and parts 201, 202 and 203",
+   "Covers interfaces, properties, composition and execution-specific information",
+   "Not a safety standard, though it may include safety-relevant information",
+   "Excludes recognition outcomes such as identification or categorization"
+  ],
+  "confidence": 0.85
+ }
+}

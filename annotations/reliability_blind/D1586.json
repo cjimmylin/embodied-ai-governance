@@ -1,0 +1,110 @@
+{
+ "doc_id": "D1586",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:47:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0443798,
+  "in": 2,
+  "out": 1826,
+  "cache_read": 11758,
+  "cache_create": 6235,
+  "api_ms": 21770,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Technology at Work v2.0: The Future Is Not What It Used to Be",
+  "title_en": "Technology at Work v2.0: The Future Is Not What It Used to Be",
+  "language": "en",
+  "authors_or_issuer": "Citi GPS (Citigroup) and Oxford Martin School, University of Oxford (Frey, C.B.; Osborne, M.; Holmes, C.)",
+  "issuer_type": "industry_company",
+  "pub_year": 2016,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Citi GPS: Global Perspectives & Solutions",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "US",
+   "GB",
+   "CN",
+   "IN"
+  ],
+  "doc_type": "industry_or_ngo_report",
+  "doc_class": "grey_literature",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "autonomous_road_vehicles",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "industrial_manipulators",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "finance",
+   "education",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "education_training",
+   "industrial_policy_innovation",
+   "taxation_economic_policy",
+   "privacy_data_protection",
+   "ethics_principles"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "mixed",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Citi GPS and Oxford Martin School report assessing automation's labour-market impact globally, extending the 47% US jobs-at-risk estimate to other countries and cities. It covers productivity, inflation, sector effects, barriers to automation, and policy responses such as education and job creation, with a brief section on robot laws, privacy and ethics.",
+  "key_provisions_or_claims": [
+   "Estimates share of jobs at risk of automation across countries and cities, extending the 47% US figure.",
+   "Perception/manipulation, creative and social intelligence are the main bottlenecks to automation.",
+   "Technological dynamism and skilled industries best protect cities and regions.",
+   "Education must adapt to accelerated technological change.",
+   "Questions whether robot laws on privacy and ethics will slow adoption."
+  ],
+  "confidence": 0.8
+ }
+}

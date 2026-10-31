@@ -1,0 +1,94 @@
+{
+ "doc_id": "D1545",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:06:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0697516,
+  "in": 4,
+  "out": 3492,
+  "cache_read": 30636,
+  "cache_create": 8432,
+  "api_ms": 22923,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Model Predictive Degree of Automation Regulation for Mobile Robots Using Robot Vitals and Robot Health",
+  "title_en": "Model Predictive Degree of Automation Regulation for Mobile Robots Using Robot Vitals and Robot Health",
+  "language": "en",
+  "authors_or_issuer": "Braun, C.A.; Ramesh, A.; Rothfuss, S.; Chiou, M.; Stolkin, R.; Hohmann, S.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2023,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.1016/j.ifacol.2023.10.1025",
+  "venue": "IFAC-PapersOnLine",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "professional_service_robots",
+  "application_sectors": [
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "safety_physical_harm",
+   "other"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "technical_or_engineering",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Engineering paper proposing a model-predictive controller that automatically regulates a mobile robot's degree and level of automation in human-robot teams, using 'robot vitals' and 'robot health' as performance-degradation metrics. Preliminary feasibility studies are reported. It contains no governance or legal content.",
+  "key_provisions_or_claims": [
+   "Model predictive architecture for degree-of-automation (DOA) and level-of-automation (LOA) regulation",
+   "Robot health, computed from robot vitals, is the optimisation objective",
+   "With linear blending, the optimum lies at the boundaries of alpha, so traded control is optimal",
+   "Preliminary simulation studies with sensor noise and operator distraction show feasibility"
+  ],
+  "confidence": 0.9
+ }
+}

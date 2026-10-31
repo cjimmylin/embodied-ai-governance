@@ -1,0 +1,103 @@
+{
+ "doc_id": "D1612",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.036677799999999997,
+  "in": 2,
+  "out": 1797,
+  "cache_read": 11758,
+  "cache_create": 4382,
+  "api_ms": 11272,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Special Issue on Elderly Care Robotics – Technology and Ethics",
+  "title_en": "Special Issue on Elderly Care Robotics – Technology and Ethics",
+  "language": "en",
+  "authors_or_issuer": "Torresen, J.; Kurazume, R.; Prestes, E.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s10846-020-01148-6",
+  "venue": "Journal of Intelligent & Robotic Systems",
+  "jurisdiction_country": "NO",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "editorial_or_commentary",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "social_companion_robots",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "human_dignity_autonomy",
+   "human_robot_interaction_social_effects",
+   "standards_interoperability",
+   "trust_acceptance"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "IEEE 7000 series"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Guest editorial introducing a Journal of Intelligent & Robotic Systems special issue on elderly care robotics, summarising eight papers on companion robot design, human sensing and ethics-oriented standardisation (IEEE P7007). It notes ethical concerns such as privacy, loss of control and dehumanisation.",
+  "key_provisions_or_claims": [
+   "Ageing populations, e.g. Japan, create need for robotic support for independent living.",
+   "Care robots raise ethical concerns: privacy, reduced interpersonal contact, loss of control, feeling treated like an object.",
+   "Eight peer-reviewed papers cover companion robot design, human sensing and standardisation.",
+   "Final paper proposes a development methodology applied to IEEE P7007 ontological standard for ethically driven robotics."
+  ],
+  "confidence": 0.9
+ }
+}

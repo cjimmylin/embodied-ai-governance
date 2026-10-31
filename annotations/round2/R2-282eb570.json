@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-282eb570",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.031481800000000004,
+  "in": 2,
+  "out": 1815,
+  "cache_read": 11758,
+  "cache_create": 3038,
+  "api_ms": 8958,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "UAE Government issues new federal decree-law on traffic regulation",
+  "title_en": "UAE Government issues new federal decree-law on traffic regulation",
+  "language": "en",
+  "authors_or_issuer": "Emirates News Agency (WAM)",
+  "issuer_type": "news_media",
+  "pub_year": 2024,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "WAM (Emirates News Agency)",
+  "jurisdiction_country": "AE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "AE"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "criminal_liability",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "liability_regime",
+   "insurance_requirement"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "WAM news report on the UAE's new federal decree-law on traffic regulation, which updates vehicle classifications and expands the use of self-driving vehicles. A cabinet resolution will set licensing and trial rules for them. It also covers licensing, insurance liability, a Federal Traffic Council and penalties.",
+  "key_provisions_or_claims": [
+   "Cabinet resolution to set inspection, licensing and renewal requirements for self-driving cars and rules for new vehicle technology trials",
+   "Decree-law allows new technologies for road safety and for issuing fines",
+   "Creates a Federal Traffic Council, with its formation and duties set by Cabinet resolution",
+   "Insurers may not reduce coverage of full civil liability for death, injury or damage caused by a vehicle",
+   "Sets penalties for offences such as impaired driving, fleeing accident scenes and negligent death"
+  ],
+  "confidence": 0.85
+ }
+}

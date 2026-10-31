@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-19f23b47",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0674738,
+  "in": 2,
+  "out": 1827,
+  "cache_read": 11758,
+  "cache_create": 12006,
+  "api_ms": 12042,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2026/1755 on detailed arrangements for the conduct of certain proceedings by the Commission pursuant to Regulation (EU) 2024/1689",
+  "title_en": "Commission Implementing Regulation (EU) 2026/1755 on detailed arrangements for the conduct of certain proceedings by the Commission pursuant to Regulation (EU) 2024/1689",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "human_oversight_control",
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "incident_reporting",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission Implementing Regulation setting procedural rules under the EU AI Act for evaluating general-purpose AI models (including model access and independent experts) and for fining proceedings against GPAI providers, covering access to file, confidentiality, written observations, limitation periods and transmission of documents.",
+  "key_provisions_or_claims": [
+   "Commission decisions requesting GPAI model access specify technical means, and may include source code, weights and infrastructure access.",
+   "Independent experts must meet independence, confidentiality and security criteria; the Commission may terminate appointments.",
+   "Interim measures may be ordered before proceedings open, including preventing a model being made available.",
+   "Providers may submit written observations on preliminary findings (min. 21 days, 50-page limit) with access to file and confidentiality safeguards.",
+   "Five-year limitation periods apply to imposing and enforcing fines under Article 101(1)."
+  ],
+  "confidence": 0.9
+ }
+}

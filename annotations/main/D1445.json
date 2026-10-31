@@ -1,0 +1,103 @@
+{
+ "doc_id": "D1445",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:45:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0438158,
+  "in": 2,
+  "out": 1754,
+  "cache_read": 11758,
+  "cache_create": 6274,
+  "api_ms": 10049,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Designing a Novel Robot Activist Model for Interactive Child Rights Education",
+  "title_en": "Designing a Novel Robot Activist Model for Interactive Child Rights Education",
+  "language": "en",
+  "authors_or_issuer": "Chew, E.; Khan, U.S.; Lee, P.H.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2021,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s12369-021-00751-3",
+  "venue": "International Journal of Social Robotics",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "MY"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "educational_robots",
+   "humanoid_general_purpose",
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "educational_robots",
+  "application_sectors": [
+   "education",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "children_vulnerable_groups",
+   "education_training",
+   "human_robot_interaction_social_effects",
+   "research_ethics"
+  ],
+  "primary_topic": "education_training",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "UN Convention on the Rights of the Child",
+   "Malaysia Human Rights Commission Act 597"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "case_study",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Journal article describing the design and deployment of a NAO-based 'Robot Activist' for child rights education in Malaysian schools, in partnership between SUHAKAM (the national human rights institution) and Monash University Malaysia. It reports phased pilot interactions, constraints and recommendations; it is not a governance document.",
+  "key_provisions_or_claims": [
+   "NAO humanoid robot used to teach the UN Convention on the Rights of the Child via Q&A and Simon Says game",
+   "Robot is intended to extend, not replace, human educators",
+   "Phased pilots led to fewer questions and a performance-tracking feature to sustain children's attention",
+   "Cost-effectiveness of educational robots is a key constraint",
+   "Recommendations proposed for the next phase of model design"
+  ],
+  "confidence": 0.85
+ }
+}

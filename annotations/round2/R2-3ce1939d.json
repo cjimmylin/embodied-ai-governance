@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-3ce1939d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:39:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.29373180000000004,
+  "in": 2,
+  "out": 1750,
+  "cache_read": 11758,
+  "cache_create": 68763,
+  "api_ms": 10341,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "道路運送車両法",
+  "title_en": "Road Vehicles Act (Act on Road Transport Vehicles)",
+  "language": "ja",
+  "authors_or_issuer": "Government of Japan (National Diet)",
+  "issuer_type": "legislature",
+  "pub_year": 1951,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "sustainability_environment",
+   "consumer_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japan's Road Vehicles Act (1951, current revision effective 2026-04-01) governs vehicle registration, safety standards, inspection, maintenance and certification. Article 41 includes \"automatic operation devices\" (自動運行装置) among regulated vehicle equipment, giving a legal basis for certifying autonomous driving systems.",
+  "key_provisions_or_claims": [
+   "Vehicles must be registered and meet MLIT safety and environmental standards (保安基準) before operation.",
+   "Article 41(1)(20) and (2) define and regulate 'automatic operation devices' replacing the driver's cognition, judgment and operation, usable under MLIT-set conditions and with operating-state recording.",
+   "Periodic and new vehicle inspections, certification and designated maintenance operators ensure compliance.",
+   "Penalties and administrative oversight by the Minister of Land, Infrastructure, Transport and Tourism."
+  ],
+  "confidence": 0.85
+ }
+}

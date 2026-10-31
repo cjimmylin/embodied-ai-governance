@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-65539cdf",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.024971800000000002,
+  "in": 2,
+  "out": 1706,
+  "cache_read": 11758,
+  "cache_create": 1683,
+  "api_ms": 9065,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Unmanned Aircraft System Operations in UK Airspace - Guidance (CAP 722)",
+  "title_en": "Unmanned Aircraft System Operations in UK Airspace - Guidance (CAP 722)",
+  "language": "en",
+  "authors_or_issuer": "UK Civil Aviation Authority",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "UK CAA publications",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "UK CAA landing page for CAP 722 Edition 9 (April 2024), guidance and policy on unmanned aircraft system operations in UK airspace. This edition reflects regulatory changes, moves the pre-defined risk assessment section into a separate CAP, and removes annexes superseded by Acceptable Means of Compliance and Guidance Material.",
+  "key_provisions_or_claims": [
+   "Provides guidance and policy for UAS development and operation in UK airspace",
+   "Edition 9 incorporates amendments following regulatory changes",
+   "Pre-defined risk assessment section moved to a separate CAP document",
+   "Annexes A-D removed following publication of formal AMC and Guidance Material for UAS"
+  ],
+  "confidence": 0.85
+ }
+}

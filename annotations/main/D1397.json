@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1397",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:44:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0436058,
+  "in": 2,
+  "out": 1767,
+  "cache_read": 11758,
+  "cache_create": 6189,
+  "api_ms": 10447,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "research_science",
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "authors_or_issuer": "Markelius, A.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "preprint_or_working_paper",
+  "doi": null,
+  "embodied_categories": [
+   "social_companion_robots",
+   "humanoid_general_purpose"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "human_robot_interaction_social_effects",
+   "transparency_explainability",
+   "trust_acceptance",
+   "research_ethics",
+   "human_dignity_autonomy"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "not_applicable",
+  "language": "en",
+  "methodology": "empirical_qualitative",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "social_companion_robots",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 2024,
+  "publication_stage": "preprint",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Qualitative co-design and interaction study with young adults using a design justice approach to identify ethical considerations when a humanoid social robot serves as the interface for an LLM. It maps considerations across four dimensions: interaction, co-design, terms of service and relationship.",
+  "key_provisions_or_claims": [
+   "LLM-based social robots risk misinformation, emotional disruption, dependence and bias, possibly amplified by physical embodiment.",
+   "Ethical considerations are mapped across four dimensions: interaction, co-design, terms of service, relationship.",
+   "Participants raised concerns about gender, race and stereotypes in robot design choices.",
+   "Design justice methodology is evaluated as an empirical approach for LLM-based social robotics.",
+   "Users should have a say in design, including terms of service."
+  ],
+  "title_clean": "An Empirical Design Justice Approach to Identifying Ethical Considerations in the Intersection of Large Language Models and Social Robotics",
+  "title_en": "An Empirical Design Justice Approach to Identifying Ethical Considerations in the Intersection of Large Language Models and Social Robotics",
+  "venue": "arXiv"
+ }
+}

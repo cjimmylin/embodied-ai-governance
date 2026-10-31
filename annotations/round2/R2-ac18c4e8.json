@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-ac18c4e8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:46:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08863109999999999,
+  "in": 4,
+  "out": 3742,
+  "cache_read": 34256,
+  "cache_create": 12667,
+  "api_ms": 21321,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "audits_impact_assessment",
+   "risk_based_tiering",
+   "oversight_body_creation",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "consumer_protection"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Notified bodies should perform product assessments and quality system assessments per Annexes I and II.",
+   "Unannounced audits at least every third year, more often for high-risk devices, by at least two auditors for a day or more.",
+   "Audits may extend to critical subcontractors and crucial suppliers; manufacturers cannot outsource their core obligations.",
+   "Member States should supervise notified bodies and consider this in designation, renewal or withdrawal.",
+   "Recommendation creates no new rights or obligations."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "Directive 90/385/EEC",
+   "Directive 93/42/EEC",
+   "Directive 98/79/EC",
+   "Directive 2006/42/EC"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 9,
+  "pub_year": 2013,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "European Commission Recommendation 2013/473/EU setting benchmarks for audits, product and quality system assessments, and unannounced audits by notified bodies under the EU medical device directives. It urges Member States to supervise notified bodies and includes detailed annexes. It creates no new legal obligations.",
+  "title_clean": "Commission Recommendation of 24 September 2013 on the audits and assessments performed by notified bodies in the field of medical devices (2013/473/EU)",
+  "title_en": "Commission Recommendation of 24 September 2013 on the audits and assessments performed by notified bodies in the field of medical devices (2013/473/EU)",
+  "venue": "Official Journal of the European Union",
+  "methodology": "not_applicable"
+ }
+}

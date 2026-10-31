@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-aaa5d541",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:11:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0311098,
+  "in": 2,
+  "out": 1733,
+  "cache_read": 11758,
+  "cache_create": 3150,
+  "api_ms": 8564,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2026/2274 on the harmonised standards for high-risk AI systems drafted in support of Regulation (EU) 2024/1689",
+  "title_en": "Commission Implementing Decision (EU) 2026/2274 on the harmonised standards for high-risk AI systems drafted in support of Regulation (EU) 2024/1689",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Commission Implementing Decision publishing in the Official Journal the reference of harmonised standard EN 18286:2026 (AI quality management system) drafted by CEN and Cenelec in support of the EU AI Act. Compliance gives presumption of conformity with the corresponding high-risk AI requirements. Enters into force on publication.",
+  "key_provisions_or_claims": [
+   "Publishes the reference of EN 18286:2026 (AI quality management system) in the Official Journal",
+   "Compliance with the standard gives presumption of conformity under AI Act Article 40",
+   "Standard assessed as satisfying the requirements of Implementing Decision C(2025) 3871 standardisation request",
+   "Decision enters into force on the day of publication"
+  ],
+  "confidence": 0.93
+ }
+}

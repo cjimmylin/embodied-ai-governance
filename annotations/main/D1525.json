@@ -1,0 +1,110 @@
+{
+ "doc_id": "D1525",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:48:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.070521,
+  "in": 4,
+  "out": 3779,
+  "cache_read": 29695,
+  "cache_create": 8194,
+  "api_ms": 21252,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "domestic_consumer",
+   "manufacturing",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Chatzimichali, A.; Chrysostomou, D.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.92,
+  "countries_discussed": [
+   "EU",
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.13180/icres.2019.29-30.07.014",
+  "embodied_categories": [
+   "domestic_household_robots",
+   "social_companion_robots",
+   "collaborative_robots",
+   "humanoid_general_purpose"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "data_governance_requirements"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "intellectual_property",
+   "transparency_explainability",
+   "trust_acceptance",
+   "consumer_protection"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Boundary between personal and non-personal data is blurred for personal robots, e.g. robot vacuum data",
+   "Existing GDPR and non-personal data regulation may be ill-suited to robot data",
+   "Transparency about data sharing underpins user trust in human-robot interaction",
+   "Comparison of four robot firms' privacy policies finds more interactive robots offer the most limited user privacy and IP rights",
+   "Calls for moving from ethical principles to implementation of data governance"
+  ],
+  "language": "en",
+  "methodology": "mixed",
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU Civil Law Rules on Robotics 2017",
+   "EU Regulation on free flow of non-personal data",
+   "EU Ethics Guidelines for Trustworthy AI"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "domestic_household_robots",
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2019,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Conference paper examining privacy, personal versus non-personal data, and IP rights for personal and collaborative robots under EU law. It compares the privacy policies and terms of four robot manufacturers, finding that more interactive robots offer the most limited user privacy and rights, and argues for privacy-sensitive robotics.",
+  "title_clean": "Human-data interaction and user rights at the personal robot era",
+  "title_en": "Human-data interaction and user rights at the personal robot era",
+  "venue": "ICRES 2019: International Conference on Robot Ethics and Standards, London"
+ }
+}

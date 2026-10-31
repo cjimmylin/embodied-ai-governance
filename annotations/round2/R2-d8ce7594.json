@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-d8ce7594",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:47:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0750698,
+  "in": 2,
+  "out": 1905,
+  "cache_read": 11758,
+  "cache_create": 13710,
+  "api_ms": 13528,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices",
+  "title_en": "Regulation (EU) 2024/1860 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "transparency_explainability",
+   "consumer_protection"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "incident_reporting",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Regulation amending the Medical Device Regulation and In Vitro Diagnostic Regulation to allow gradual roll-out of the Eudamed database, require advance notice of supply interruptions, and extend transitional periods for in vitro diagnostic devices. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Introduces Article 10a: manufacturers must give 6 months' notice of anticipated supply interruption likely to cause serious harm",
+   "Allows gradual roll-out of individual Eudamed electronic systems, applying 6 months after notice of functionality",
+   "Extends IVDR transitional periods to 2027-2029 by device class, subject to conditions",
+   "Sets deadlines for quality management systems, notified body applications and written agreements",
+   "Enters into force on publication; Article 10a applies from 10 January 2025"
+  ],
+  "confidence": 0.95
+ }
+}

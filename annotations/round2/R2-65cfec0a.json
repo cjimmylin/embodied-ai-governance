@@ -1,0 +1,91 @@
+{
+ "doc_id": "R2-65cfec0a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0275478,
+  "in": 2,
+  "out": 1550,
+  "cache_read": 11758,
+  "cache_create": 2717,
+  "api_ms": 8838,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Daftar Peraturan Kementerian Perhubungan Tahun 2026 (Database Peraturan)",
+  "title_en": "List of Ministry of Transportation Regulations 2026 (Regulation Database)",
+  "language": "id",
+  "authors_or_issuer": "Kementerian Perhubungan Republik Indonesia (JDIH)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Kementerian Perhubungan legal database",
+  "jurisdiction_country": "ID",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ID"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Index page of Indonesia's Ministry of Transportation legal database listing 2026 ministerial regulations and decisions (civil aviation safety, organisation, business licensing, audit guidelines). No AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Lists 2026 transport ministerial regulations (PM) and decrees (KM)",
+   "Includes civil aviation safety regulations on aircraft registration and safety management",
+   "No AI or robotics provisions"
+  ],
+  "confidence": 0.85
+ }
+}

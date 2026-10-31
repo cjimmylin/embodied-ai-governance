@@ -1,0 +1,110 @@
+{
+ "doc_id": "D1436",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:45:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0447538,
+  "in": 2,
+  "out": 1873,
+  "cache_read": 11758,
+  "cache_create": 6211,
+  "api_ms": 15254,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "D1.2 Ethics Framework: Managing active and healthy aging with use of caring service robots",
+  "title_en": "D1.2 Ethics Framework: Managing active and healthy aging with use of caring service robots",
+  "language": "en",
+  "authors_or_issuer": "Beyan, T.; Felzmann, H.; Ryan, M.; Lang, N.; Beyan, O.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2015,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "MARIO project (H2020 643808) deliverable; University of Twente repository",
+  "jurisdiction_country": "IE",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "IE",
+   "EU",
+   "JP"
+  ],
+  "doc_type": "ethical_framework_or_principles",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "social_companion_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "healthcare",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "human_robot_interaction_social_effects",
+   "human_dignity_autonomy",
+   "civil_liability",
+   "children_vulnerable_groups",
+   "research_ethics",
+   "trust_acceptance",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 2,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Ethics framework deliverable for the EU H2020 MARIO project on care robots for older people with dementia. It reviews literature and care-robot ethics and builds a layered framework (care process, quality of care, functionalities, design features), then applies it to MARIO use cases, with attention to privacy, dignity, autonomy and responsibility.",
+  "key_provisions_or_claims": [
+   "Multi-layered ethical framework: care integration, quality of care, robotic functionalities, design features",
+   "Care robots are double-edged, with both ethical risks and improvements",
+   "Data protection and privacy integrated into design",
+   "Humanoid morphology should be limited to what design objectives require",
+   "Framework applied to dementia-focused MARIO use case scenarios, with informed consent guidance for trials"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-130a3dc7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029747799999999998,
+  "in": 2,
+  "out": 1862,
+  "cache_read": 11758,
+  "cache_create": 2487,
+  "api_ms": 10480,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Easy Access Rules for Unmanned Aircraft Systems (Regulation (EU) 2019/947 and Regulation (EU) 2019/945)",
+  "title_en": "Easy Access Rules for Unmanned Aircraft Systems (Regulation (EU) 2019/947 and Regulation (EU) 2019/945)",
+  "language": "en",
+  "authors_or_issuer": "European Union Aviation Safety Agency (EASA)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "EASA website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "Commission Implementing Regulation (EU) 2019/947",
+   "Commission Delegated Regulation (EU) 2019/945",
+   "EASA ED Decision 2025/018/R",
+   "JARUS SORA 2.5"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "EASA web page announcing the June 2026 revision of the Easy Access Rules for Unmanned Aircraft Systems, consolidating Regulations (EU) 2019/947 and 2019/945 with AMC/GM, including SORA 2.5 from ED Decision 2025/018/R. Offers PDF, online and XML downloads.",
+  "key_provisions_or_claims": [
+   "Consolidates Implementing Regulation (EU) 2019/947 and Delegated Regulation (EU) 2019/945 on UAS.",
+   "June 2026 revision incorporates AMC and GM from ED Decision 2025/018/R.",
+   "Introduces JARUS SORA 2.5 for specific-category operations risk assessment.",
+   "Available in PDF, online and machine-readable XML formats."
+  ],
+  "confidence": 0.85
+ }
+}

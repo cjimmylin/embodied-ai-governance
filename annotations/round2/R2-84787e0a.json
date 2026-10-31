@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-84787e0a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028601800000000004,
+  "in": 2,
+  "out": 1719,
+  "cache_read": 11758,
+  "cache_create": 2558,
+  "api_ms": 8555,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Robotics (European Commission research and innovation page)",
+  "title_en": "Robotics (European Commission research and innovation page)",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "European Commission digital-strategy website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "professional_service_robots",
+   "surgical_medical_robots",
+   "domestic_household_robots",
+   "autonomous_road_vehicles",
+   "agricultural_robots",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "healthcare",
+   "logistics_transport",
+   "agriculture_food",
+   "research_science"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "labor_employment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "European Commission web page on EU robotics policy, explaining why it funds robotics research and innovation for competitiveness, jobs and societal challenges. It describes over 120 projects and the SPARC public-private partnership, with news items on Horizon Europe funding. Ethical aspects are mentioned only briefly.",
+  "key_provisions_or_claims": [
+   "EU promotes robotics research and innovation for competitiveness and jobs",
+   "Over 120 research projects and coordination actions funded",
+   "SPARC public-private partnership on robotics",
+   "Robotics addresses ageing, health, transport, security, energy and environment",
+   "Ethical aspects to be safeguarded alongside progress"
+  ],
+  "confidence": 0.8
+ }
+}

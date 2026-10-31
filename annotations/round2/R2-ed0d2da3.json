@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-ed0d2da3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:17:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045099799999999995,
+  "in": 2,
+  "out": 1834,
+  "cache_read": 11758,
+  "cache_create": 6395,
+  "api_ms": 10536,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "House Bill 7 (2024 Regular Session): AN ACT relating to autonomous vehicles",
+  "title_en": "House Bill 7 (2024 Regular Session): AN ACT relating to autonomous vehicles",
+  "language": "en",
+  "authors_or_issuer": "Kentucky General Assembly",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Kentucky Legislature website (Legislative Research Commission)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "safety_physical_harm",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "consumer_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "insurance_requirement",
+   "human_oversight_requirement",
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "liability_regime",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Kentucky HB 7 (Acts Ch. 176, 2024) establishes a regulatory framework for fully autonomous vehicles on public highways, including insurance, registration, law enforcement interaction plans, operator definition, a human driver requirement for heavy trucks until 2026, and state preemption of local regulation. The page shows legislative history, including veto override.",
+  "key_provisions_or_claims": [
+   "Fully autonomous vehicles over 62,000 lbs need a credentialed human driver until July 31, 2026",
+   "Requires $1 million insurance or self-insurance for personal and commercial AVs",
+   "Owner is deemed operator and the automated driving system is deemed licensed when engaged",
+   "Requires law enforcement interaction plan, titling and registration; Transportation Cabinet sole administering agency",
+   "Preempts local government regulation; only lead truck in platoon needs a human driver from Aug 1, 2026"
+  ],
+  "confidence": 0.85
+ }
+}

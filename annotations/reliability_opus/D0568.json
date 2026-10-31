@@ -1,0 +1,110 @@
+{
+ "doc_id": "D0568",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:12:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.11379960000000001,
+  "in": 2,
+  "out": 1968,
+  "cache_read": 11758,
+  "cache_create": 9010,
+  "api_ms": 14285,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "子供の特性を考慮した安全規格に基づく生活支援ロボットの安全設計",
+  "title_en": "Safety Design of Personal Care Robots Based on Safety Standard Considering Characteristics of Children",
+  "language": "ja",
+  "authors_or_issuer": "Wakita, H.; Kimura, T.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Proceedings of the 2020 JSME Conference on Robotics and Mechatronics (ROBOMECH 2020), Kanazawa",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "children_vulnerable_groups",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "JIS B 8445 (ISO 13482)",
+   "JIS B 8446",
+   "JIS B 9700 (ISO 12100)",
+   "JIS Z 8051",
+   "JIS Z 8050 (ISO/IEC Guide 50)",
+   "JIS Z 8071",
+   "JIS Z 8150",
+   "ST Toy Safety Standard",
+   "JIS B 9715"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "mixed",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japanese conference paper mapping personal care robot safety standards (JIS B 8445/ISO 13482 etc.) and child-safety standards onto risk assessment steps. It identifies gaps concerning children's active contact with moving robots, and reports basic low-speed collision experiments with a dummy robot and cushioning materials to support simple child-oriented collision safety evaluation.",
+  "key_provisions_or_claims": [
+   "Existing personal care robot standards require consideration of children but do not specify methods.",
+   "A correspondence table maps robot, machinery and child-safety standards to each risk assessment and risk reduction step.",
+   "Standards do not address children actively contacting moving robots, so additional criteria are needed.",
+   "Caregivers should receive residual-risk information in an easily understood form to reduce risk.",
+   "Low-speed collision tests showed that cushioning materials reduce impact force but sometimes increase impulse."
+  ],
+  "confidence": 0.85
+ }
+}

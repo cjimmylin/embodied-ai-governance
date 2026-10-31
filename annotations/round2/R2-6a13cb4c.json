@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-6a13cb4c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027833800000000006,
+  "in": 2,
+  "out": 1793,
+  "cache_read": 11758,
+  "cache_create": 2181,
+  "api_ms": 14087,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "BS 8611:2016 Robots and robotic devices. Guide to the ethical design and application of robots and robotic systems",
+  "title_en": "BS 8611:2016 Robots and robotic devices. Guide to the ethical design and application of robots and robotic systems",
+  "language": "en",
+  "authors_or_issuer": "British Standards Institution (BSI)",
+  "issuer_type": "standards_body",
+  "pub_year": 2016,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "BSI Knowledge",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators",
+   "care_assistive_robots",
+   "surgical_medical_robots",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "human_dignity_autonomy",
+   "human_robot_interaction_social_effects",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "BSI catalogue page for BS 8611:2016, a British standard guiding ethical design and application of robots and robotic systems. It identifies ethical hazards beyond physical ones, such as privacy, surveillance, bias and erosion of human judgment, and gives protective measures. Withdrawn 27 March 2023.",
+  "key_provisions_or_claims": [
+   "Guides identification of potential ethical harm in robot design and application",
+   "Ethical hazards are broader than physical hazards, including psychological harm",
+   "Builds on safety requirements for industrial, personal care and medical robots",
+   "Flags privacy and surveillance, bias and discrimination, and human judgment as key concerns",
+   "Standard withdrawn on 27 March 2023"
+  ],
+  "confidence": 0.85
+ }
+}

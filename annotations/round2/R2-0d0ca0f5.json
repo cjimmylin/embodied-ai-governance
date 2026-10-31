@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-0d0ca0f5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1630998,
+  "in": 2,
+  "out": 2150,
+  "cache_read": 11758,
+  "cache_create": 35105,
+  "api_ms": 14111,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "PART 124—COUNTER-UNMANNED AIRCRAFT SYSTEM AUTHORITY FOR STATE, LOCAL, TRIBAL, AND TERRITORIAL LAW ENFORCEMENT AND CORRECTIONAL AGENCIES",
+  "title_en": "PART 124—COUNTER-UNMANNED AIRCRAFT SYSTEM AUTHORITY FOR STATE, LOCAL, TRIBAL, AND TERRITORIAL LAW ENFORCEMENT AND CORRECTIONAL AGENCIES",
+  "language": "en",
+  "authors_or_issuer": "Department of Homeland Security; Department of Justice",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Federal Register / Code of Federal Regulations (6 CFR part 124; 28 CFR part 124)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "security_policing_robots"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "privacy_data_protection",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "civil_liability",
+   "cybersecurity",
+   "standards_interoperability"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "human_oversight_requirement",
+   "data_governance_requirements",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "education_training_programs",
+   "technical_standards_reference",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Joint DHS/DOJ regulation (6 CFR/28 CFR part 124) implementing the SAFER SKIES Act, governing how state, local, tribal and territorial law enforcement and correctional agencies detect, warn against and mitigate threatening drones. It sets certification, authorized technologies, operations plans, FAA/FCC coordination, reporting, privacy limits and compliance enforcement.",
+  "key_provisions_or_claims": [
+   "Mitigation requires NCUTC Mitigation Certification plus a Part 107 pilot certificate; contractors may not operate mitigation systems.",
+   "Mitigation needs a real-time credible-threat determination and must be proportionate, using the least disruptive effective means.",
+   "Only technologies on the Authorized Technologies/Systems Lists may be used; advance notification 30 days before and a signed Operations Plan are required.",
+   "Mitigation using RF systems requires notifying FAA air traffic control within five minutes; post-operation reports are due within 48 hours.",
+   "Control communications are retained at most 180 days absent exceptions; First and Fourth Amendment protections apply; authority terminates December 31, 2031."
+  ],
+  "confidence": 0.9
+ }
+}

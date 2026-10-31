@@ -1,0 +1,96 @@
+{
+ "doc_id": "D1044",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:34:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0286658,
+  "in": 2,
+  "out": 1653,
+  "cache_read": 11758,
+  "cache_create": 2739,
+  "api_ms": 8250,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Croatia AI Strategy Report - AI Watch - European Commission",
+  "title_en": "Croatia AI Strategy Report - AI Watch - European Commission",
+  "language": "en",
+  "authors_or_issuer": "European Commission, AI Watch",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "AI Watch, European Commission",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "HR"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "healthcare",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "sustainability_environment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Commission AI Watch country page on Croatia's AI strategy. It reports that a working group drafted the National plan for AI development 2021-2025, with the final version due in 2021. It also notes AI examples in environment (machine learning, Earth observation) and the Andrija COVID-19 chatbot.",
+  "key_provisions_or_claims": [
+   "Croatia was finalising a national AI strategy; a first draft National plan for AI 2021-2025 was prepared.",
+   "Working group of academia, business, civil society and public sector developed the draft.",
+   "AI used for environmental monitoring via machine learning and Earth observation.",
+   "Andrija, a WhatsApp AI digital assistant, supported COVID-19 triage."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-31ee0d60",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:41:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0600499,
+  "in": 4,
+  "out": 3616,
+  "cache_read": 27624,
+  "cache_create": 5983,
+  "api_ms": 17073,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "人形机器人 仿真测试平台技术规范",
+  "title_en": "Humanoid robots—Technical specification of simulation testing platform",
+  "language": "zh",
+  "authors_or_issuer": "全国机器人标准化技术委员会人形机器人分会 (TC591/SC5); 国家市场监督管理总局 / 国家标准化管理委员会",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "全国标准信息公共服务平台",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "humanoid_general_purpose",
+  "application_sectors": [
+   "manufacturing",
+   "research_science",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Catalogue page for Chinese recommended national standard GB/T 48316-2026, a technical specification for simulation testing platforms for humanoid robots. Published 2026-09-28, effective 2027-04-01, under TC591/SC5. Only metadata, drafters and related humanoid standard plans are shown, not the standard text.",
+  "key_provisions_or_claims": [
+   "GB/T 48316-2026 is a recommended national standard on humanoid robot simulation testing platforms",
+   "Published 2026-09-28; takes effect 2027-04-01",
+   "Administered by TC591 and its humanoid robot subcommittee TC591/SC5",
+   "Drafted by labs, universities and firms including Unitree, UBTech and Xiaomi Robotics",
+   "Related planned standards cover humanoid controllers, operating systems, EMC and pilot validation platforms"
+  ],
+  "confidence": 0.85
+ }
+}

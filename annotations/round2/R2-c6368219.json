@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-c6368219",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029693800000000006,
+  "in": 2,
+  "out": 1791,
+  "cache_read": 11758,
+  "cache_create": 2651,
+  "api_ms": 9343,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "PAS 1884:2021 Safety operators in automated vehicle testing and trialling. Guide",
+  "title_en": "PAS 1884:2021 Safety operators in automated vehicle testing and trialling. Guide",
+  "language": "en",
+  "authors_or_issuer": "British Standards Institution (BSI)",
+  "issuer_type": "standards_body",
+  "pub_year": 2021,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "BSI Knowledge",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "education_training",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "education_training_programs",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "CCAV/DfT Code of Practice",
+   "BSI PAS 1880",
+   "BSI PAS 1881",
+   "BSI PAS 1882",
+   "BSI PAS 1883",
+   "BSI Flex 1890"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "BSI catalogue page for PAS 1884:2021, a UK guide on responsibilities, selection, competencies and training of safety operators in automated vehicle trials and developmental testing. It is part of BSI's CAV standards programme supported by CCAV and aligned with the CCAV/DfT Code of Practice.",
+  "key_provisions_or_claims": [
+   "Defines responsibilities of trialling organisations and safety operators",
+   "Covers safety operator selection, fitness to drive and prior experience",
+   "Training on ODD, expected/unexpected vehicle behaviour, abort criteria, remote operation",
+   "Includes monitoring, skills testing and refresher training",
+   "Applies to public and private road trials, including prototype and freight vehicles"
+  ],
+  "confidence": 0.9
+ }
+}

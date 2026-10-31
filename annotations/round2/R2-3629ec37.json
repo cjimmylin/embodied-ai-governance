@@ -1,0 +1,92 @@
+{
+ "doc_id": "R2-3629ec37",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028857800000000003,
+  "in": 2,
+  "out": 1689,
+  "cache_read": 11758,
+  "cache_create": 2697,
+  "api_ms": 8746,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Incentivising defence-related investments in the EU budget to implement the ReArm Europe Plan",
+  "title_en": "Incentivising defence-related investments in the EU budget to implement the ReArm Europe Plan",
+  "language": "en",
+  "authors_or_issuer": "European Parliament",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (C series)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "European Parliament legislative resolution of 16 December 2025 adopting its first-reading position on amending several EU programme regulations to incentivise defence-related investment under the ReArm Europe Plan. Parliament's position matches the final act, Regulation (EU) 2025/2653. It contains no AI or robotics provisions.",
+  "key_provisions_or_claims": [
+   "Parliament adopts first-reading position on COM(2025)0188 amending Regulations (EU) 2021/694, 2021/695, 2021/697, 2021/1153 and 2024/795.",
+   "Aims to incentivise defence-related investment through the EU budget for the ReArm Europe Plan.",
+   "Position corresponds to the final act, Regulation (EU) 2025/2653, following agreement with Council.",
+   "Document is a procedural resolution; the excerpt does not reproduce the operative articles."
+  ],
+  "confidence": 0.85
+ }
+}

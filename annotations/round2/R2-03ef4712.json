@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-03ef4712",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:01:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.050413799999999995,
+  "in": 2,
+  "out": 1759,
+  "cache_read": 11758,
+  "cache_create": 7911,
+  "api_ms": 9642,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Economic and Social Committee on 'Communication from the Commission ... Digitalisation of justice in the European Union. A toolbox of opportunities' (COM(2020) 710 final)",
+  "title_en": "Opinion of the European Economic and Social Committee on 'Communication from the Commission ... Digitalisation of justice in the European Union. A toolbox of opportunities' (COM(2020) 710 final)",
+  "language": "en",
+  "authors_or_issuer": "European Economic and Social Committee",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, C 286/88",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "standards_interoperability",
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EESC opinion welcoming the Commission's 2020 Communication on digitalisation of justice in the EU. It urges harmonised rules, funding, a directive on remote judicial proceedings, wider cross-border enforcement and data access, while safeguarding privacy. It does not address AI or robotics.",
+  "key_provisions_or_claims": [
+   "Proposes a Commission directive on judicial proceedings held at distance via any video-call medium protecting privacy",
+   "Calls for more homogeneous rules across Member States, e.g. for e-CODEX use",
+   "Urges digital enforcement of judgments across Member States",
+   "Calls for EU funding and training, excluding states breaching rule of law",
+   "Wants electronic transmission as default and safeguards for data protection"
+  ],
+  "confidence": 0.9
+ }
+}

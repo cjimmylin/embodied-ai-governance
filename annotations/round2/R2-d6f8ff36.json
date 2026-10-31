@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-d6f8ff36",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:08:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.16775579999999998,
+  "in": 2,
+  "out": 1836,
+  "cache_read": 11758,
+  "cache_create": 37054,
+  "api_ms": 10794,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Automated Vehicles in Canada",
+  "title_en": "Automated Vehicles in Canada",
+  "language": "en",
+  "authors_or_issuer": "Canadian Council of Motor Transport Administrators (CCMTA)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2016,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "CCMTA",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA",
+   "US",
+   "GB",
+   "SG",
+   "NL"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "cybersecurity",
+   "privacy_data_protection",
+   "labor_employment",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "ethics_principles"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "technical_standards_reference",
+   "international_cooperation",
+   "incident_reporting",
+   "insurance_requirement"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "CCMTA white paper giving Canadian motor vehicle administrators a high-level overview of automated vehicles: SAE automation levels, benefits, regulatory roles across federal, provincial and municipal governments, and risks including safety, cybersecurity, privacy, liability, labour and ethics. It includes a pilot-testing checklist and an international environmental scan.",
+  "key_provisions_or_claims": [
+   "Adopts SAE six-level automation classification, aligned with NHTSA.",
+   "Federal government sets vehicle safety standards; provinces/territories regulate operation, licensing, registration and insurance.",
+   "Appendix B checklist guides jurisdictions on piloting AVs: permits, reporting, liability, insurance, cybersecurity.",
+   "Identifies key risks: cybersecurity, data privacy, liability shifts, labour disruption, winter weather performance.",
+   "Plans a 'Canadianized' version of AAMVA guidelines to ensure reciprocity with the U.S."
+  ],
+  "confidence": 0.85
+ }
+}

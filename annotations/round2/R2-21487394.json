@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-21487394",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:07:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026747800000000002,
+  "in": 2,
+  "out": 1732,
+  "cache_read": 11758,
+  "cache_create": 2062,
+  "api_ms": 12838,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/DPAS 34507 Road vehicles — Test scenarios for automated driving systems — Controlled natural language for description for ADS scenarios",
+  "title_en": "ISO/DPAS 34507 Road vehicles — Test scenarios for automated driving systems — Controlled natural language for description for ADS scenarios",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 22/SC 33",
+  "issuer_type": "standards_body",
+  "pub_year": 2026,
+  "pub_month": 8,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "under_development",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "ISO 34501"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for draft ISO/DPAS 34507, specifying a controlled natural language for describing test scenarios of automated driving systems (SAE Level 3–5), covering architecture, process, hierarchy, status, timing and sentence structure. The draft is in the approval phase under ISO/TC 22/SC 33.",
+  "key_provisions_or_claims": [
+   "Specifies architecture, description process, scenario hierarchy, status, timing and sentence structure for controlled natural language scenario descriptions",
+   "Applies to ADS of road vehicles at SAE Level 3 to 5",
+   "Covers functional and abstract scenario levels defined in ISO 34501",
+   "Draft is at approval stage (50.00)"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0905",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:31:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.050243800000000005,
+  "in": 2,
+  "out": 1702,
+  "cache_read": 11758,
+  "cache_create": 8011,
+  "api_ms": 9455,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "How should the law think about robots?",
+  "title_en": "How should the law think about robots?",
+  "language": "en",
+  "authors_or_issuer": "Richards, N.M.; Smart, W.D.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2016,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": "10.4337/9781783476732.00007",
+  "venue": "Robot Law (Edward Elgar Publishing)",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "book",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "domestic_household_robots",
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "legal_personhood_robot_rights",
+   "human_robot_interaction_social_effects",
+   "ethics_principles",
+   "other"
+  ],
+  "primary_topic": "legal_personhood_robot_rights",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "opposes",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Opening chapter of the edited volume Robot Law. It defines robots as nonbiological autonomous agents and draws on cyberlaw's lessons about legal metaphors. The authors reject the \"Android Fallacy\" that robots are like people, arguing robots are tools and that anthropomorphic analogies distort legislative design.",
+  "key_provisions_or_claims": [
+   "Defines robots as nonbiological autonomous agents with at least apparent agency in the physical world.",
+   "Cyberlaw shows that the metaphors used to frame a technology shape the law.",
+   "The 'Android Fallacy' (robots as just like people) should be rejected outright.",
+   "Robots are tools, despite human tendency to anthropomorphize them.",
+   "Anthropomorphic misunderstanding can have pernicious effects on legislative design."
+  ],
+  "confidence": 0.85
+ }
+}

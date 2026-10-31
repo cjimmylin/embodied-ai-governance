@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-78a50f21",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:33:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0355878,
+  "in": 2,
+  "out": 1804,
+  "cache_read": 11758,
+  "cache_create": 4092,
+  "api_ms": 9534,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "关于印发《可能影响未成年人身心健康的网络信息分类办法》的通知",
+  "title_en": "Notice on Issuing the Measures for Classifying Online Information That May Affect the Physical and Mental Health of Minors",
+  "language": "zh",
+  "authors_or_issuer": "国家互联网信息办公室 et al. (CAC, NPPA, NFA, MoE, MIIT, MPS, MCT, NRTA)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "children_vulnerable_groups",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "consumer_protection"
+  ],
+  "primary_topic": "children_vulnerable_groups",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [
+   "China Generative AI Measures"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese multi-agency measures (effective 1 March 2026) classifying online information that may harm minors' physical and mental health, requiring prominent warning labels, barring such content from prominent placements, and requiring algorithmic recommendation and generative AI services not to push it to minors.",
+  "key_provisions_or_claims": [
+   "Defines categories of information that may affect minors: inducing bad behaviour, harmful values, improper use of minors' images, improper disclosure of personal information.",
+   "Producers and distributors must add conspicuous warning labels before display; platforms must provide labelling functions.",
+   "Such content barred from homepage, pop-ups, trending lists, recommendations and other prominent placements.",
+   "Algorithmic recommendation and generative AI services must have safety management and technical measures to avoid pushing it to minors.",
+   "Effective 1 March 2026; violations handled under the Cybersecurity Law and Minors Online Protection Regulations."
+  ],
+  "confidence": 0.9
+ }
+}

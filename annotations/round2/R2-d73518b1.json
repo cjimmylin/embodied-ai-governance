@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-d73518b1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:31:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0657315,
+  "in": 4,
+  "out": 3521,
+  "cache_read": 29300,
+  "cache_create": 7563,
+  "api_ms": 17190,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "国务院办公厅 (General Office of the State Council of China)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "international_cooperation",
+   "technical_standards_reference",
+   "licensing_registration",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "privacy_data_protection",
+   "taxation_economic_policy",
+   "labor_employment"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Fully implement a negative list management system for cross-border trade in services",
+   "Align with RCEP, CPTPP and WTO domestic regulation reference paper",
+   "Facilitate cross-border flow of talent, capital, technology and data under the national data export security framework",
+   "Implement services trade standardization action plan",
+   "Provide financial, tax and insurance support and improve statistics monitoring"
+  ],
+  "language": "zh",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Opinion of the General Office of the State Council (Guobanfa [2024] No. 44) on promoting high-quality services trade development through high-level opening up. It sets out a negative list system, rule alignment, cross-border flows of talent, capital, technology and data, key sector development, and supporting policies. AI is mentioned only in passing.",
+  "title_clean": "国务院办公厅关于以高水平开放推动服务贸易高质量发展的意见",
+  "title_en": "Opinions of the General Office of the State Council on Promoting High-Quality Development of Trade in Services through High-Level Opening-Up",
+  "venue": "国务院办公厅 (State Council General Office)"
+ }
+}

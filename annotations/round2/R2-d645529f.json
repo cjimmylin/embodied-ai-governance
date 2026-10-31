@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-d645529f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0524082,
+  "in": 4,
+  "out": 3564,
+  "cache_read": 25862,
+  "cache_create": 4262,
+  "api_ms": 18784,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO 22737:2021 Intelligent transport systems — Low-speed automated driving (LSAD) systems for predefined routes — Performance requirements, system requirements and performance test procedures",
+  "title_en": "ISO 22737:2021 Intelligent transport systems — Low-speed automated driving (LSAD) systems for predefined routes — Performance requirements, system requirements and performance test procedures",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 204",
+  "issuer_type": "standards_body",
+  "pub_year": 2021,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO/SAE PAS 22736"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO store catalogue page for ISO 22737:2021, an international standard on low-speed automated driving (LSAD) systems on predefined routes. It sets operational design domain and minimum performance requirements and test procedures for Level 4 vehicles. Published July 2021; currently under systematic review.",
+  "key_provisions_or_claims": [
+   "Specifies operational design domain requirements for LSAD systems",
+   "Sets minimum performance requirements for safe operation on predefined routes",
+   "Applies to Level 4 ADS-dedicated vehicles and dual-mode vehicles",
+   "Does not specify sensor technology",
+   "Under systematic review (stage 90.20)"
+  ],
+  "confidence": 0.9
+ }
+}

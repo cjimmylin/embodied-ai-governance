@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1449",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:45:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.031883800000000004,
+  "in": 2,
+  "out": 1782,
+  "cache_read": 11758,
+  "cache_create": 3221,
+  "api_ms": 9184,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Drones in humanitarian contexts, robot ethics, and the human–robot interaction",
+  "title_en": "Drones in humanitarian contexts, robot ethics, and the human–robot interaction",
+  "language": "en",
+  "authors_or_issuer": "Robbins-van Wynsberghe, A.; Comes, T.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2019,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s10676-019-09514-1",
+  "venue": "Ethics and Information Technology",
+  "jurisdiction_country": "NL",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "other",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_dignity_autonomy",
+   "human_robot_interaction_social_effects",
+   "transparency_explainability",
+   "labor_employment"
+  ],
+  "primary_topic": "human_dignity_autonomy",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Journal article applying robot ethics to humanitarian drone use, complementing the humanitarian principles approach. It identifies risks of lost contextualization and de-skilling for aid actors, and threats to beneficiaries' dignity, and calls for tailored ethical guidelines informed by studies of drones' physiological and behavioral impacts.",
+  "key_provisions_or_claims": [
+   "Humanitarian principles should be complemented by a robot ethics approach to drones.",
+   "Risks for humanitarian actors: loss of contextualization and de-skilling.",
+   "Threats to beneficiary dignity: reduced human-to-human interaction, lack of informational transparency, unaccounted physiological and behavioral impacts.",
+   "Moral acceptability of humanitarian drones depends on empirical study of physiological and behavioral impacts.",
+   "Calls for tailored ethical guidelines for humanitarian drone deployment."
+  ],
+  "confidence": 0.85
+ }
+}

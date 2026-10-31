@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-f3bb0c4f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:05:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.16789980000000002,
+  "in": 2,
+  "out": 1684,
+  "cache_read": 11758,
+  "cache_create": 37470,
+  "api_ms": 9695,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "14 CFR Part 13—Investigative and Enforcement Procedures",
+  "title_en": "14 CFR Part 13—Investigative and Enforcement Procedures",
+  "language": "en",
+  "authors_or_issuer": "Federal Aviation Administration (US Department of Transportation)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 12,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Electronic Code of Federal Regulations",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "US FAA procedural regulations (14 CFR Part 13) governing aviation investigations, complaints, civil penalties, certificate actions, consent orders, hearings and appeals. Not AI-specific; only a civil penalty table entry touches unmanned aircraft interfering with emergency response.",
+  "key_provisions_or_claims": [
+   "FAA may investigate, subpoena, and issue orders; authority delegated to Chief Counsel.",
+   "Civil penalties assessed administratively or via district court, with dollar thresholds.",
+   "Certificate actions appealable to NTSB; emergency orders effective immediately for 80 days.",
+   "Rules of practice for hearings before hearing officers and ALJs, with appeal to the Administrator.",
+   "FOQA data protected from use in enforcement actions."
+  ],
+  "confidence": 0.85
+ }
+}

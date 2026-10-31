@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-af897f0f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:43:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.17344779999999999,
+  "in": 2,
+  "out": 1786,
+  "cache_read": 11758,
+  "cache_create": 38602,
+  "api_ms": 10581,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Directive 2012/46/EU of 6 December 2012 amending Directive 97/68/EC on emissions from internal combustion engines to be installed in non-road mobile machinery",
+  "title_en": "Commission Directive 2012/46/EU of 6 December 2012 amending Directive 97/68/EC on emissions from internal combustion engines to be installed in non-road mobile machinery",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2012,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union L 353/80",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "construction",
+   "energy_environment",
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "other"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "ISO 8178"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Commission Directive amending the EU non-road mobile machinery engine emissions directive (97/68/EC). It sets Stage IV type-approval test requirements, NOx control and operator warning/inducement systems, durability and deterioration factors, CO2 reporting and crankcase emissions rules. It is unrelated to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Adds Stage IV NOx control measures with operator warning and two-stage inducement (torque reduction, disablement) systems",
+   "Revises durability requirements with deterioration factors for Stage IIIA/IIIB/IV engines",
+   "Introduces control area testing and crankcase emission rules",
+   "Requires CO2 reporting and aligns tests with UNECE Regulation 96.03",
+   "Member States must transpose by 21 December 2013"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0486",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:19:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045663800000000004,
+  "in": 2,
+  "out": 1894,
+  "cache_read": 11758,
+  "cache_create": 6386,
+  "api_ms": 10511,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "Raharjo, S.W.; Suwadi, P.; Novianto, W.T.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "ID",
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "conference_paper",
+  "doi": "10.2991/978-2-38476-218-7_106",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "legal_personhood_robot_rights",
+   "safety_physical_harm",
+   "human_oversight_control",
+   "consumer_protection"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "ID",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Indonesia has almost no legislation specifically governing AI or robotic surgery; the ITE Law only defines electronic systems.",
+   "Risks include flawed third-party AI, virus-infected or rarely updated systems, and insufficiently trained surgeons.",
+   "Recommends a specialized committee of legal experts, medical professionals and government representatives to examine robotic surgery errors.",
+   "Argues for explicit legislation and accountability for AI, discussing recognition of AI as a legal subject.",
+   "Cites US data on robotic surgery deaths, injuries and device malfunctions to show liability risks."
+  ],
+  "language": "en",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "pub_month": null,
+  "pub_year": 2024,
+  "primary_embodied_category": "surgical_medical_robots",
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "discusses_neutral",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Conference paper examining legal liability and regulatory gaps for robotic surgery in Indonesia using normative legal research. It finds little specific legislation, identifies risks from flawed AI, outdated systems and unskilled surgeons, and recommends explicit regulation and a specialized committee to review surgical errors.",
+  "title_clean": "An Ideal Regulatory Framework for Robotic Surgery Utilization in Indonesia",
+  "title_en": "An Ideal Regulatory Framework for Robotic Surgery Utilization in Indonesia",
+  "venue": "Proceedings of the International Conference on Law, Economic & Good Governance (IC-LAW 2023), Atlantis Press"
+ }
+}

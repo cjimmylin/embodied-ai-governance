@@ -1,0 +1,101 @@
+{
+ "doc_id": "D1009",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:47:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0282918,
+  "in": 2,
+  "out": 1714,
+  "cache_read": 11758,
+  "cache_create": 2493,
+  "api_ms": 8310,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Act: Have Your Say on Trustworthy General-Purpose AI",
+  "title_en": "AI Act: Have Your Say on Trustworthy General-Purpose AI",
+  "language": "en",
+  "authors_or_issuer": "European AI Office, European Commission (DG CONNECT)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Digital Strategy, European Commission",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "intellectual_property",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European AI Office web page announcing a multi-stakeholder consultation (30 July–18 September 2024) on trustworthy general-purpose AI models under the AI Act. It informs the first GPAI Code of Practice, covering transparency and copyright, systemic risk taxonomy and mitigation, and review of codes.",
+  "key_provisions_or_claims": [
+   "Consultation open 30 July 2024, extended to 18 September 2024",
+   "Questionnaire covers transparency/copyright, systemic-risk assessment and mitigation, and code review",
+   "Informs first General-Purpose AI Code of Practice (Sept 2024–April 2025)",
+   "Also informs template for training-content summary",
+   "AI Office will publish aggregated results without direct quotes"
+  ],
+  "confidence": 0.9
+ }
+}

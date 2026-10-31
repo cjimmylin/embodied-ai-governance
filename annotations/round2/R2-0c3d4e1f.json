@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-0c3d4e1f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0280438,
+  "in": 2,
+  "out": 1748,
+  "cache_read": 11758,
+  "cache_create": 2346,
+  "api_ms": 10868,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/TS 5083:2025 Road vehicles — Safety for automated driving systems — Design, verification and validation",
+  "title_en": "ISO/TS 5083:2025 Road vehicles — Safety for automated driving systems — Design, verification and validation",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 22/SC 32 (International Organization for Standardization)",
+  "issuer_type": "standards_body",
+  "pub_year": 2025,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "ISO/SAE PAS 22736",
+   "ISO/TR 4804"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "ISO catalogue page for ISO/TS 5083:2025, a technical specification giving guidance on achieving and demonstrating safety of Level 3 and 4 automated driving systems in road vehicles, covering safety by design, verification and validation, post-deployment activities and cybersecurity considerations.",
+  "key_provisions_or_claims": [
+   "Guidance for safety of Level 3 and 4 automated driving systems",
+   "Covers safety by design, verification, validation and post-deployment activities",
+   "Outlines cybersecurity considerations",
+   "Applies to road vehicles incl. trucks and buses, excluding motorcycles and mopeds",
+   "Systems in operation or development before publication are exempted"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-b53e54f5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:53:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0491638,
+  "in": 2,
+  "out": 1756,
+  "cache_read": 11758,
+  "cache_create": 7606,
+  "api_ms": 8534,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Council Directive amending Directive 84/529/EEC on the approximation of the laws of the Member States relating to electrically operated lifts",
+  "title_en": "Proposal for a Council Directive amending Directive 84/529/EEC on the approximation of the laws of the Member States relating to electrically operated lifts",
+  "language": "en",
+  "authors_or_issuer": "Commission of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 1989,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(89) 638 final - SYN 234",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "withdrawn_or_lapsed",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "construction"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "Directive 84/529/EEC",
+   "Directive 86/312/EEC",
+   "EN 81-1",
+   "EN 81-2"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "1989 European Commission proposal to amend Directive 84/529/EEC so that hydraulic and electro-hydraulic lifts fall within its scope, by referencing CEN standard EN 81-2. It aims to remove trade barriers in the internal market. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Extends Directive 84/529/EEC scope to hydraulic and electro-hydraulic lifts",
+   "Adds EN 81-2 to Annex I alongside EN 81-1",
+   "Member States have three months to transpose",
+   "Aims to remove trade barriers and differing national inspection rules",
+   "Safety level for hydraulic lifts equals that of existing electric lifts"
+  ],
+  "confidence": 0.85
+ }
+}

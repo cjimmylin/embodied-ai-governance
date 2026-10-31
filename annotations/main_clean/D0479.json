@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0479",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:54:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0553758,
+  "in": 2,
+  "out": 1934,
+  "cache_read": 11758,
+  "cache_create": 8714,
+  "api_ms": 10101,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Kementerian Komunikasi dan Informatika Republik Indonesia",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "ID"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "ID",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Provides ethical guidance for businesses and electronic system operators (public and private) engaged in AI programming.",
+   "Requires internal company policies on data and AI ethics, per MCI Regulation 3/2021.",
+   "Defines AI ethics values: inclusivity, transparency, humanity, security.",
+   "AI must not be the determinant or decision-maker on matters concerning humanity; prevent racism and harm.",
+   "Calls for risk and crisis management, user data protection, and information disclosure by developers."
+  ],
+  "language": "id",
+  "named_instruments_referenced": [
+   "Indonesia Personal Data Protection Law 27/2022",
+   "Indonesia ITE Law 11/2008",
+   "MCI Regulation 3/2021",
+   "Government Regulation 71/2019"
+  ],
+  "page_quality": "substantive_document",
+  "pub_month": 12,
+  "pub_year": 2023,
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Circular Letter No. 9 of 2023 from Indonesia's Minister of Communication and Informatics on AI ethics. It gives non-binding ethical guidance to AI programming businesses and public and private electronic system operators. It sets values (inclusivity, transparency, humanity, security) and requires internal data and ethics policies. It mentions robotics only as an AI subset.",
+  "title_clean": "Surat Edaran Menteri Komunikasi dan Informatika Nomor 9 Tahun 2023 tentang Etika Kecerdasan Artifisial",
+  "title_en": "Circular Letter of the Minister of Communication and Informatics No. 9 of 2023 on Artificial Intelligence Ethics",
+  "venue": "JDIH Kemkomdigi",
+  "methodology": "not_applicable"
+ }
+}

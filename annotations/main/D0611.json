@@ -1,0 +1,101 @@
+{
+ "doc_id": "D0611",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:23:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0491938,
+  "in": 2,
+  "out": 1889,
+  "cache_read": 11758,
+  "cache_create": 7281,
+  "api_ms": 9637,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ЭТИЧЕСКИЕ АСПЕКТЫ ПРОИЗВОДСТВА РОБОТОВ С ФУНКЦИЕЙ ФИЗИОЛОГИЧЕСКОГО ВЗАИМОДЕЙСТВИЯ С ЧЕЛОВЕКОМ",
+  "title_en": "Ethical Aspects of Creating Robots with the Function of Physiological Interaction with a Person",
+  "language": "ru",
+  "authors_or_issuer": "Шарыпов, Ю.С.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2017,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": "10.17223/23046082/12/7",
+  "venue": "Гуманитарная информатика (Humanitarian Informatics), No. 12",
+  "jurisdiction_country": "RU",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "sex_robots",
+   "social_companion_robots",
+   "humanoid_general_purpose"
+  ],
+  "primary_embodied_category": "sex_robots",
+  "application_sectors": [
+   "domestic_consumer",
+   "other"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "human_dignity_autonomy",
+   "fairness_bias_discrimination",
+   "children_vulnerable_groups",
+   "legal_personhood_robot_rights",
+   "trust_acceptance"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Russian journal article surveying researchers' positions on the ethics of sex robots and physiological human-robot interaction. It contrasts opponents such as Richardson, who stress harm to women and risks of paedophilia, with proponents such as Levy and Pearson. It draws on bioethics and Maslow's hierarchy, and calls for an ethical approach that maximises benefits and minimises risks.",
+  "key_provisions_or_claims": [
+   "Sex robots are already mass-produced and the social robotics market is growing.",
+   "Richardson opposes sex robots as objectifying women and risking the spread of paedophilia.",
+   "Levy and Pearson see sex robots as a natural development.",
+   "Under universal bioethics principles, sex robots are acceptable.",
+   "Further study of expert and public opinion is needed to build an ethical approach."
+  ],
+  "confidence": 0.85
+ }
+}

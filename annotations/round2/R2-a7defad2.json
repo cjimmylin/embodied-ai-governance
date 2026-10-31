@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-a7defad2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:03:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1740438,
+  "in": 2,
+  "out": 1812,
+  "cache_read": 11758,
+  "cache_create": 38686,
+  "api_ms": 14617,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Part 772—Definitions of Terms (15 CFR Part 772, Export Administration Regulations)",
+  "title_en": "Part 772—Definitions of Terms (15 CFR Part 772, Export Administration Regulations)",
+  "language": "en",
+  "authors_or_issuer": "U.S. Department of Commerce, Bureau of Industry and Security",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Electronic Code of Federal Regulations",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas",
+   "industrial_manipulators",
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "defense_security",
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "Export Administration Regulations",
+   "Wassenaar Arrangement",
+   "Missile Technology Control Regime",
+   "Chemical Weapons Convention",
+   "Export Administration Act of 1979"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "15 CFR Part 772 supplies definitions of terms used in the US Export Administration Regulations and Commerce Control List, covering dual-use items, advanced-node semiconductors, model weights, encryption, UAVs, missiles, end-effectors and robots. It underpins US export licensing, including controls relevant to AI chips and drones.",
+  "key_provisions_or_claims": [
+   "Defines terms used across the EAR and Commerce Control List",
+   "Defines advanced-node integrated circuits relevant to AI compute controls",
+   "Defines unmanned aerial vehicle, missiles, and MTCR-related terms",
+   "Defines end-effectors and flexible manufacturing unit with robot references",
+   "Cross-references Model Weights to ECCN 4E091"
+  ],
+  "confidence": 0.7
+ }
+}

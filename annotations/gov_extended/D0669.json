@@ -1,0 +1,101 @@
+{
+ "doc_id": "D0669",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:43:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0619758,
+  "in": 2,
+  "out": 1748,
+  "cache_read": 11758,
+  "cache_create": 10829,
+  "api_ms": 9767,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Cyber Security Agency of Singapore",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "SG"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "incident_reporting",
+   "education_training_programs",
+   "technical_standards_reference",
+   "self_regulation_codes"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "education_training"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "AI should be secure by design and secure by default.",
+   "Guidelines are voluntary and non-prescriptive, applying across five AI lifecycle stages.",
+   "Four-step risk assessment: assess, prioritise, implement controls, evaluate residual risk.",
+   "Covers supply chain security, asset protection, incident management, input/output monitoring, vulnerability disclosure, and secure disposal.",
+   "Excludes AI safety, fairness, and AI-enabled attacks; complemented by a Companion Guide."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "NIST AI RMF"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Voluntary guidelines from Singapore's Cyber Security Agency for system owners on securing AI systems across five lifecycle stages. They use a risk-assessment-first approach and cover supply chain, assets, incident management, monitoring and disposal. AI safety, fairness and AI-enabled attacks are out of scope.",
+  "title_clean": "Guidelines on Securing AI Systems",
+  "title_en": "Guidelines on Securing AI Systems",
+  "venue": "Cyber Security Agency of Singapore",
+  "methodology": "not_applicable"
+ }
+}

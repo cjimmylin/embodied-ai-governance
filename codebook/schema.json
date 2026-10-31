@@ -1,0 +1,633 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "properties": {
+  "title_clean": {
+   "type": "string"
+  },
+  "title_en": {
+   "type": "string"
+  },
+  "language": {
+   "type": "string"
+  },
+  "authors_or_issuer": {
+   "type": "string"
+  },
+  "issuer_type": {
+   "type": "string",
+   "enum": [
+    "national_government_executive",
+    "legislature",
+    "regulator_or_agency",
+    "court_or_judiciary",
+    "subnational_government",
+    "intergovernmental_org",
+    "standards_body",
+    "industry_company",
+    "industry_association",
+    "academic_or_research",
+    "ngo_or_civil_society",
+    "think_tank",
+    "news_media",
+    "professional_body",
+    "other",
+    "unknown"
+   ]
+  },
+  "pub_year": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "pub_month": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "date_basis": {
+   "type": "string",
+   "enum": [
+    "stated_in_document",
+    "inferred_from_content",
+    "unknown"
+   ]
+  },
+  "doi": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "venue": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "jurisdiction_country": {
+   "type": "string"
+  },
+  "jurisdiction_scope": {
+   "type": "string",
+   "enum": [
+    "international",
+    "supranational_regional",
+    "national",
+    "subnational",
+    "not_applicable"
+   ]
+  },
+  "countries_discussed": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "maxItems": 10
+  },
+  "doc_type": {
+   "type": "string",
+   "enum": [
+    "statute_or_act",
+    "regulation_or_decree",
+    "international_treaty_or_convention",
+    "court_decision_or_judicial_notice",
+    "bill_or_draft_law",
+    "consultation_or_white_paper",
+    "national_strategy_or_action_plan",
+    "policy_guideline_or_code_of_practice",
+    "ethical_framework_or_principles",
+    "technical_standard",
+    "intergovernmental_recommendation_or_resolution",
+    "government_report_or_review",
+    "parliamentary_material",
+    "procurement_or_internal_policy",
+    "journal_article",
+    "conference_paper",
+    "review_or_survey_article",
+    "book_or_chapter",
+    "preprint_or_working_paper",
+    "thesis_or_dissertation",
+    "editorial_or_commentary",
+    "industry_or_ngo_report",
+    "news_article",
+    "press_release_or_government_news",
+    "blog_or_opinion",
+    "web_page_informational",
+    "other",
+    "unusable"
+   ]
+  },
+  "doc_class": {
+   "type": "string",
+   "enum": [
+    "governance_instrument_binding",
+    "governance_instrument_soft",
+    "governance_proposal_or_draft",
+    "government_report_or_parliamentary",
+    "research_output",
+    "grey_literature",
+    "communication_or_news",
+    "unusable"
+   ]
+  },
+  "is_governance_document": {
+   "type": "boolean"
+  },
+  "instrument_status": {
+   "type": "string",
+   "enum": [
+    "proposal_or_concept",
+    "draft_or_bill_under_consideration",
+    "consultation_open",
+    "adopted_not_yet_in_force",
+    "in_force",
+    "published_current",
+    "under_development",
+    "superseded_or_repealed",
+    "withdrawn_or_lapsed",
+    "unknown",
+    "not_applicable"
+   ]
+  },
+  "binding_nature": {
+   "type": "string",
+   "enum": [
+    "legally_binding",
+    "voluntary_soft_law",
+    "technical_standard_voluntary",
+    "technical_standard_mandated",
+    "not_applicable"
+   ]
+  },
+  "publication_stage": {
+   "type": "string",
+   "enum": [
+    "peer_reviewed",
+    "preprint",
+    "book",
+    "thesis",
+    "grey_literature",
+    "unknown",
+    "not_applicable"
+   ]
+  },
+  "ai_scope": {
+   "type": "string",
+   "enum": [
+    "general_ai_only",
+    "general_ai_with_embodied_provisions",
+    "embodied_ai_robotics_general",
+    "embodied_ai_specific_category",
+    "not_ai"
+   ]
+  },
+  "embodiment_status": {
+   "type": "string",
+   "enum": [
+    "physical_embodied",
+    "software_agent_called_robot",
+    "mixed",
+    "none"
+   ]
+  },
+  "embodied_categories": {
+   "type": "array",
+   "items": {
+    "type": "string",
+    "enum": [
+     "industrial_manipulators",
+     "collaborative_robots",
+     "mobile_industrial_logistics",
+     "delivery_robots",
+     "professional_service_robots",
+     "domestic_household_robots",
+     "social_companion_robots",
+     "educational_robots",
+     "care_assistive_robots",
+     "toys_entertainment_robots",
+     "sex_robots",
+     "surgical_medical_robots",
+     "rehabilitation_exoskeleton_prosthetic",
+     "biohybrid_or_cyborg",
+     "humanoid_general_purpose",
+     "autonomous_road_vehicles",
+     "drones_uas",
+     "autonomous_maritime_or_rail",
+     "agricultural_robots",
+     "space_or_extreme_environment",
+     "military_autonomous_weapons",
+     "security_policing_robots",
+     "other_embodied"
+    ]
+   },
+   "uniqueItems": true
+  },
+  "primary_embodied_category": {
+   "type": "string",
+   "enum": [
+    "industrial_manipulators",
+    "collaborative_robots",
+    "mobile_industrial_logistics",
+    "delivery_robots",
+    "professional_service_robots",
+    "domestic_household_robots",
+    "social_companion_robots",
+    "educational_robots",
+    "care_assistive_robots",
+    "toys_entertainment_robots",
+    "sex_robots",
+    "surgical_medical_robots",
+    "rehabilitation_exoskeleton_prosthetic",
+    "biohybrid_or_cyborg",
+    "humanoid_general_purpose",
+    "autonomous_road_vehicles",
+    "drones_uas",
+    "autonomous_maritime_or_rail",
+    "agricultural_robots",
+    "space_or_extreme_environment",
+    "military_autonomous_weapons",
+    "security_policing_robots",
+    "other_embodied",
+    "none"
+   ]
+  },
+  "application_sectors": {
+   "type": "array",
+   "items": {
+    "type": "string",
+    "enum": [
+     "healthcare",
+     "elder_care_social_care",
+     "manufacturing",
+     "logistics_transport",
+     "agriculture_food",
+     "defense_security",
+     "public_administration_justice",
+     "education",
+     "finance",
+     "retail_hospitality",
+     "construction",
+     "energy_environment",
+     "domestic_consumer",
+     "research_science",
+     "cross_sector",
+     "other"
+    ]
+   },
+   "uniqueItems": true
+  },
+  "governance_topics": {
+   "type": "array",
+   "items": {
+    "type": "string",
+    "enum": [
+     "ethics_principles",
+     "civil_liability",
+     "criminal_liability",
+     "legal_personhood_robot_rights",
+     "safety_physical_harm",
+     "cybersecurity",
+     "privacy_data_protection",
+     "human_oversight_control",
+     "transparency_explainability",
+     "fairness_bias_discrimination",
+     "labor_employment",
+     "human_dignity_autonomy",
+     "human_robot_interaction_social_effects",
+     "military_use_ihl",
+     "certification_conformity_assessment",
+     "standards_interoperability",
+     "risk_management_risk_tiers",
+     "intellectual_property",
+     "consumer_protection",
+     "industrial_policy_innovation",
+     "research_ethics",
+     "sustainability_environment",
+     "children_vulnerable_groups",
+     "trust_acceptance",
+     "education_training",
+     "taxation_economic_policy",
+     "other"
+    ]
+   },
+   "uniqueItems": true
+  },
+  "primary_topic": {
+   "type": "string",
+   "enum": [
+    "ethics_principles",
+    "civil_liability",
+    "criminal_liability",
+    "legal_personhood_robot_rights",
+    "safety_physical_harm",
+    "cybersecurity",
+    "privacy_data_protection",
+    "human_oversight_control",
+    "transparency_explainability",
+    "fairness_bias_discrimination",
+    "labor_employment",
+    "human_dignity_autonomy",
+    "human_robot_interaction_social_effects",
+    "military_use_ihl",
+    "certification_conformity_assessment",
+    "standards_interoperability",
+    "risk_management_risk_tiers",
+    "intellectual_property",
+    "consumer_protection",
+    "industrial_policy_innovation",
+    "research_ethics",
+    "sustainability_environment",
+    "children_vulnerable_groups",
+    "trust_acceptance",
+    "education_training",
+    "taxation_economic_policy",
+    "other"
+   ]
+  },
+  "principles": {
+   "type": "object",
+   "additionalProperties": false,
+   "properties": {
+    "transparency": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "justice_fairness": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "non_maleficence": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "responsibility_accountability": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "privacy": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "beneficence": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "freedom_autonomy": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "trust": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "sustainability": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "dignity": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "solidarity": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "human_oversight": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "robustness_security": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "inclusive_growth": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "physical_safety": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "human_robot_proximity": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "liability_for_physical_damage": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "autonomy_level_control": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "conformity_assessment_certification": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    },
+    "dual_use_military": {
+     "type": "integer",
+     "minimum": 0,
+     "maximum": 2
+    }
+   },
+   "required": [
+    "transparency",
+    "justice_fairness",
+    "non_maleficence",
+    "responsibility_accountability",
+    "privacy",
+    "beneficence",
+    "freedom_autonomy",
+    "trust",
+    "sustainability",
+    "dignity",
+    "solidarity",
+    "human_oversight",
+    "robustness_security",
+    "inclusive_growth",
+    "physical_safety",
+    "human_robot_proximity",
+    "liability_for_physical_damage",
+    "autonomy_level_control",
+    "conformity_assessment_certification",
+    "dual_use_military"
+   ]
+  },
+  "governance_mechanisms": {
+   "type": "array",
+   "items": {
+    "type": "string",
+    "enum": [
+     "risk_based_tiering",
+     "prohibitions_bans",
+     "licensing_registration",
+     "conformity_assessment_certification",
+     "technical_standards_reference",
+     "liability_regime",
+     "insurance_requirement",
+     "human_oversight_requirement",
+     "transparency_disclosure_labelling",
+     "data_governance_requirements",
+     "testing_sandboxes",
+     "incident_reporting",
+     "audits_impact_assessment",
+     "oversight_body_creation",
+     "funding_or_incentives",
+     "education_training_programs",
+     "international_cooperation",
+     "self_regulation_codes",
+     "none"
+    ]
+   },
+   "uniqueItems": true
+  },
+  "named_instruments_referenced": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "maxItems": 15
+  },
+  "robot_legal_personhood_position": {
+   "type": "string",
+   "enum": [
+    "supports",
+    "opposes",
+    "discusses_neutral",
+    "not_discussed"
+   ]
+  },
+  "risk_framing": {
+   "type": "string",
+   "enum": [
+    "risk_based",
+    "rights_based",
+    "principle_or_ethics_based",
+    "innovation_promotion",
+    "liability_or_accountability_based",
+    "mixed",
+    "not_applicable"
+   ]
+  },
+  "stance_toward_regulation": {
+   "type": "string",
+   "enum": [
+    "calls_for_new_regulation",
+    "existing_law_sufficient_or_adapt",
+    "self_regulation_or_standards_preferred",
+    "descriptive_or_neutral",
+    "not_applicable"
+   ]
+  },
+  "methodology": {
+   "type": "string",
+   "enum": [
+    "conceptual_or_normative",
+    "legal_doctrinal",
+    "empirical_qualitative",
+    "empirical_quantitative",
+    "technical_or_engineering",
+    "systematic_or_scoping_review",
+    "case_study",
+    "mixed",
+    "not_applicable"
+   ]
+  },
+  "faith_or_religious_perspective": {
+   "type": "boolean"
+  },
+  "page_quality": {
+   "type": "string",
+   "enum": [
+    "substantive_document",
+    "partial_or_excerpt",
+    "landing_or_index_page",
+    "error_or_blocked_page",
+    "non_text"
+   ]
+  },
+  "relevance_to_embodied_ai_governance": {
+   "type": "integer",
+   "minimum": 0,
+   "maximum": 3
+  },
+  "summary_en": {
+   "type": "string"
+  },
+  "key_provisions_or_claims": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "maxItems": 5
+  },
+  "confidence": {
+   "type": "number",
+   "minimum": 0,
+   "maximum": 1
+  }
+ },
+ "required": [
+  "title_clean",
+  "title_en",
+  "language",
+  "authors_or_issuer",
+  "issuer_type",
+  "pub_year",
+  "pub_month",
+  "date_basis",
+  "doi",
+  "venue",
+  "jurisdiction_country",
+  "jurisdiction_scope",
+  "countries_discussed",
+  "doc_type",
+  "doc_class",
+  "is_governance_document",
+  "instrument_status",
+  "binding_nature",
+  "publication_stage",
+  "ai_scope",
+  "embodiment_status",
+  "embodied_categories",
+  "primary_embodied_category",
+  "application_sectors",
+  "governance_topics",
+  "primary_topic",
+  "principles",
+  "governance_mechanisms",
+  "named_instruments_referenced",
+  "robot_legal_personhood_position",
+  "risk_framing",
+  "stance_toward_regulation",
+  "methodology",
+  "faith_or_religious_perspective",
+  "page_quality",
+  "relevance_to_embodied_ai_governance",
+  "summary_en",
+  "key_provisions_or_claims",
+  "confidence"
+ ]
+}

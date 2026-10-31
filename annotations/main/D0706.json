@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0706",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:26:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0777839,
+  "in": 4,
+  "out": 3545,
+  "cache_read": 32164,
+  "cache_create": 10455,
+  "api_ms": 20156,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "UNESCO",
+  "binding_nature": "not_applicable",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "ID"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "press_release_or_government_news",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "education_training_programs",
+   "audits_impact_assessment",
+   "international_cooperation"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "labor_employment",
+   "education_training",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "key_provisions_or_claims": [
+   "Indonesia is the first Southeast Asian country to complete UNESCO's RAM.",
+   "Assessment covered legal, socio-cultural, economic, scientific/educational and technical dimensions with 500+ participants.",
+   "Recommends establishing a National Agency for Artificial Intelligence.",
+   "Finds low awareness of AI bias risk, labor displacement concerns and underfunded AI research.",
+   "Recommends ethical regulation aligned with global benchmarks and equitable AI education access."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "UNESCO Recommendation on the Ethics of AI"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "UNESCO news release announcing completion of the AI Readiness Assessment for Indonesia with KOMINFO using the Readiness Assessment Methodology. It summarises findings on labor displacement, low bias awareness and underfunded research, and recommends ethical regulation, a National AI Agency and equitable capacity-building.",
+  "title_clean": "UNESCO and KOMINFO Completed AI Readiness Assessment: Is Indonesia Ready for AI?",
+  "title_en": "UNESCO and KOMINFO Completed AI Readiness Assessment: Is Indonesia Ready for AI?",
+  "venue": "UNESCO website"
+ }
+}

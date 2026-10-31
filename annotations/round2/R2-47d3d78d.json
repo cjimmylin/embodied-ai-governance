@@ -1,0 +1,93 @@
+{
+ "doc_id": "R2-47d3d78d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:55:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.025625800000000004,
+  "in": 2,
+  "out": 1639,
+  "cache_read": 11758,
+  "cache_create": 2014,
+  "api_ms": 9819,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Supply of Machinery (Safety) (Amendment) Regulations 2005 (revoked)",
+  "title_en": "The Supply of Machinery (Safety) (Amendment) Regulations 2005 (revoked)",
+  "language": "en",
+  "authors_or_issuer": "UK Government (legislation.gov.uk)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2005,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "legislation.gov.uk",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UK statutory instrument (S.I. 2005/831) amending the Supply of Machinery (Safety) Regulations 1992. Revoked on 29 December 2009 by the Supply of Machinery (Safety) Regulations 2008. The excerpt shows only metadata and section headings, not the substantive text, and it doesn't mention AI or robots.",
+  "key_provisions_or_claims": [
+   "Amends the Supply of Machinery (Safety) Regulations 1992",
+   "Made 20 March 2005; in force 1 May 2005",
+   "Revoked 29 December 2009 by S.I. 2008/1597"
+  ],
+  "confidence": 0.8
+ }
+}

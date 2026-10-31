@@ -1,0 +1,118 @@
+{
+ "doc_id": "R2-92b0acef",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:03:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.36544360000000004,
+  "in": 2,
+  "out": 2637,
+  "cache_read": 11758,
+  "cache_create": 38793,
+  "api_ms": 19426,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards simplifying and reducing the burden of the rules on medical devices and in vitro diagnostic medical devices, and amending Regulation (EU) 2022/123 and Regulation (EU) 2024/1689 as regards the list of Union harmonisation legislation referred to in its Annex I",
+  "title_en": "Proposal for a Regulation amending the Medical Devices Regulation and IVD Regulation (simplification and burden reduction), Regulation (EU) 2022/123 and the AI Act Annex I",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2025) 1023 final; 2025/0404(COD)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "transparency_explainability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "incident_reporting",
+   "oversight_body_creation",
+   "international_cooperation",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "EU Medical Devices Regulation 2017/745",
+   "EU IVD Regulation 2017/746",
+   "EU Cyber Resilience Act",
+   "Regulation (EU) 2022/123",
+   "Regulation (EU) 2024/1938 SoHO",
+   "Clinical Trials Regulation 536/2014",
+   "Charter of Fundamental Rights of the EU"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "This is the European Commission's December 2025 proposal to simplify the EU Medical Devices (MDR) and In Vitro Diagnostics (IVDR) Regulations. It changes conformity assessment, notified-body oversight, clinical evidence and reporting rules. It adds regulatory sandboxes and cybersecurity incident reporting. It also moves the MDR and IVDR to Section B of AI Act Annex I, so only some AI Act provisions apply to AI-enabled devices.",
+  "key_provisions_or_claims": [
+   "Moves the MDR and IVDR from Section A to Section B of AI Act Annex I; the Commission must consider AI Act Chapter III Section 2 requirements when adopting rules for AI-enabled devices",
+   "Removes the 5-year maximum validity of certificates in favour of risk-proportionate periodic reviews; lowers notified-body involvement for lower and medium-risk devices",
+   "Introduces priority and rolling reviews for breakthrough and orphan devices, and lets Member States and the Commission set up regulatory sandboxes",
+   "Requires reporting of cybersecurity vulnerabilities and incidents to CSIRTs and ENISA through Eudamed",
+   "Uses joint assessment teams to strengthen oversight of notified bodies, and expands the roles of expert panels and EMA support"
+  ],
+  "confidence": 0.8
+ }
+}

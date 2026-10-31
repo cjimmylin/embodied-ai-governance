@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0509",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:20:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0446618,
+  "in": 2,
+  "out": 1823,
+  "cache_read": 11758,
+  "cache_create": 6313,
+  "api_ms": 13401,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_robotics_general",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Avliyoqulov, B.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "EU",
+   "US",
+   "UZ"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "research_output",
+  "doc_type": "journal_article",
+  "doi": null,
+  "embodied_categories": [
+   "industrial_manipulators",
+   "collaborative_robots"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "privacy_data_protection",
+   "civil_liability",
+   "fairness_bias_discrimination",
+   "safety_physical_harm",
+   "consumer_protection"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "UZ",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Balance employers' legitimate monitoring interests with employee privacy through transparent policies and consent.",
+   "Current legal frameworks need updating to allocate liability for accidents caused by robots and autonomous systems.",
+   "Legislation should protect workers' rights amid automation, including retraining and alternative employment.",
+   "Employers should implement data protection measures when using robots and AI.",
+   "Regulators should collaborate with industry to develop flexible yet comprehensive regulation."
+  ],
+  "language": "en",
+  "methodology": "legal_doctrinal",
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "industrial_manipulators",
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2023,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "Journal article reviewing legal implications of robots and AI in the workplace: AI surveillance and employee privacy, discrimination, automation and autonomous systems, liability, safety and insurance. Compares EU, US and ILO norms and calls for updated liability rules, worker protections and flexible regulation.",
+  "title_clean": "Navigating the Legal Landscape of Robots and AI in the Workplace: Challenges and Solutions",
+  "title_en": "Navigating the Legal Landscape of Robots and AI in the Workplace: Challenges and Solutions",
+  "venue": "Uzbek Journal of Law and Digital Policy"
+ }
+}

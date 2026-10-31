@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-192259ea",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:52:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08429720000000002,
+  "in": 4,
+  "out": 3813,
+  "cache_read": 33027,
+  "cache_create": 11436,
+  "api_ms": 22486,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "legally_binding",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "EU",
+   "FR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "consumer_protection"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Manufacturers must carry out TSE risk analysis and risk management before applying for conformity assessment.",
+   "Notified bodies must evaluate justification for animal tissue use, inactivation studies and sourcing controls.",
+   "Manufacturers must justify animal tissue use against clinical benefit and alternatives; high-infectivity tissues are restricted.",
+   "Existing certificate holders must obtain complementary certificates; transitional period to 30 September 2004.",
+   "Member States must transpose by 1 January 2004 and apply from 1 April 2004."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Council Directive 93/42/EEC (Medical Devices Directive)",
+   "Regulation (EC) No 1774/2002",
+   "Regulation (EC) No 999/2001"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2003,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Commission Directive 2003/32/EC sets detailed specifications under the Medical Devices Directive 93/42/EEC for devices made with animal tissues. It requires manufacturers to run TSE risk analysis and risk management, and notified bodies to assess it in conformity assessment. It has nothing on AI or robotics.",
+  "title_clean": "Commission Directive 2003/32/EC introducing detailed specifications as regards the requirements laid down in Council Directive 93/42/EEC with respect to medical devices manufactured utilising tissues of animal origin",
+  "title_en": "Commission Directive 2003/32/EC introducing detailed specifications as regards the requirements laid down in Council Directive 93/42/EEC with respect to medical devices manufactured utilising tissues of animal origin",
+  "venue": "Official Journal of the European Union"
+ }
+}

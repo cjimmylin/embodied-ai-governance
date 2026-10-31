@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-ef4c6c76",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:12:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0300078,
+  "in": 2,
+  "out": 1906,
+  "cache_read": 11758,
+  "cache_create": 2442,
+  "api_ms": 9947,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ICAO Model UAS Regulations (Parts 101, 102 and 149) with Advisory Circulars AC 101-1, AC 102-1, AC 102-37",
+  "title_en": "ICAO Model UAS Regulations (Parts 101, 102 and 149) with Advisory Circulars AC 101-1, AC 102-1, AC 102-37",
+  "language": "en",
+  "authors_or_issuer": "International Civil Aviation Organization (ICAO)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ICAO UAS Toolkit",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "oversight_body_creation",
+   "international_cooperation",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ICAO's model regulations for unmanned aircraft systems, offering States template rules: Part 101 (Open Category), Part 102 (Specific Category) and Part 149 (Approved Aviation Organizations), with advisory circulars on guidance, operator certificates and dangerous goods carriage. A living document intended to help States regulate drones.",
+  "key_provisions_or_claims": [
+   "Part 101 Open Category: all unmanned aircraft registered; up to 25 kg under standard conditions need no further operational review; over 15 kg require inspection/approval",
+   "Part 102 Specific Category covers aircraft over 25 kg or operations outside Part 101, via certification and authorizations",
+   "Part 149 enables Approved Aviation Organizations as designees for remote pilot licensing and aircraft inspection",
+   "AC 102-37 addresses carriage of dangerous goods by unmanned aircraft",
+   "Living document; ICAO invites States to share UAS regulations and may assist implementation"
+  ],
+  "confidence": 0.8
+ }
+}

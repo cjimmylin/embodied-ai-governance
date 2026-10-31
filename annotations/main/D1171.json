@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1171",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:38:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0449238,
+  "in": 2,
+  "out": 1760,
+  "cache_read": 11758,
+  "cache_create": 6536,
+  "api_ms": 12253,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Data regulation in the age of AI and other data-intensive technologies",
+  "title_en": "Data regulation in the age of AI and other data-intensive technologies",
+  "language": "en",
+  "authors_or_issuer": "Department for Science, Innovation and Technology; Department for Digital, Culture, Media & Sport (UK)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "EU"
+  ],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "consultation_open",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "industrial_policy_innovation",
+   "trust_acceptance",
+   "standards_interoperability"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "UK government call for evidence on how personal and non-personal data regulation interacts with AI and other data-intensive technologies, including agentic AI, synthetic data and PETs. It asks whether guidance, targeted changes or reform is needed, covering lawful basis, data minimisation, fairness, accuracy and data sharing.",
+  "key_provisions_or_claims": [
+   "Seeks practical evidence on friction between UK data protection law and AI development and adoption.",
+   "Themes include lawful bases, data minimisation, purpose limitation, special category data, data quality, accuracy and fairness.",
+   "Asks whether further guidance, targeted changes or fundamental reform is needed.",
+   "Interested in PETs, synthetic data and agentic AI as future challenges.",
+   "Aims to make the UK the fastest-adopting AI economy in the G7 while preserving public trust."
+  ],
+  "confidence": 0.85
+ }
+}

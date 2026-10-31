@@ -1,0 +1,94 @@
+{
+ "doc_id": "D1429",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:45:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0517912,
+  "in": 4,
+  "out": 3435,
+  "cache_read": 26392,
+  "cache_create": 4192,
+  "api_ms": 20173,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Cognitive Incompatibilities Between Law and Robotic Legal-Decision Making",
+  "title_en": "Cognitive Incompatibilities Between Law and Robotic Legal-Decision Making",
+  "language": "en",
+  "authors_or_issuer": "van Rompaey, L.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2018,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": "10.3233/978-1-61499-931-7-112",
+  "venue": "Frontiers in Artificial Intelligence and Applications, Vol. 311 (Robophilosophy 2018 / TRANSOR 2018), IOS Press",
+  "jurisdiction_country": "XX",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "conference_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "other_embodied"
+  ],
+  "primary_embodied_category": "other_embodied",
+  "application_sectors": [
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "fairness_bias_discrimination",
+   "trust_acceptance",
+   "human_robot_interaction_social_effects",
+   "transparency_explainability"
+  ],
+  "primary_topic": "trust_acceptance",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 2,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Conference paper (Robophilosophy 2018) comparing robotic and human legal decision-making. It argues people cannot relate to robot decision-makers, which undermines perceived fairness and trust in the legal system, creating cognitive incompatibilities between law and robotics. Only the abstract is available.",
+  "key_provisions_or_claims": [
+   "Identical legal decisions by a robot and a human differ in how fairness is perceived.",
+   "People can relate to human decision-makers but not to robots.",
+   "Reproducing relatability in robots is unforeseeable given current cognitive science.",
+   "Robot legal decisions would not recreate trust in the fairness of the legal system."
+  ],
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0668",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=10000|mid=2500|tail=1500|blind=True",
+ "annotated_at": "2026-10-30T17:40:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.043185799999999996,
+  "in": 2,
+  "out": 1797,
+  "cache_read": 11758,
+  "cache_create": 6009,
+  "api_ms": 11110,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Personal Data Protection Commission (Singapore)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "SG"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "data_governance_requirements",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "transparency_explainability",
+   "consumer_protection",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Publicly Available Exception may support web-scraping of unrestricted online personal data for model development, subject to a reasonable-person test.",
+   "Digital barriers such as paywalls or registration require case-by-case assessment of whether data is publicly available.",
+   "Organisations must provide AI-specific notification and cannot require excessive consent as a condition of service.",
+   "Model providers, system providers and deployers have distinct data protection responsibilities.",
+   "Access and correction obligations apply to training data and RAG databases; anonymisation and data minimisation are encouraged."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "Singapore PDPA 2012",
+   "Advisory Guidelines on Use of Personal Data in AI Recommendation and Decision Systems",
+   "Advisory Guidelines on Key Concepts in the PDPA"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Singapore PDPC advisory guidelines explaining how the PDPA applies to generative AI: use of publicly available data and consent exceptions in model development, data protection roles of model providers, system providers and deployers, and handling of access and correction requests. Non-binding.",
+  "title_clean": "Advisory Guidelines on Use of Personal Data in Generative AI",
+  "title_en": "Advisory Guidelines on Use of Personal Data in Generative AI",
+  "venue": "Personal Data Protection Commission Singapore",
+  "methodology": "not_applicable"
+ }
+}

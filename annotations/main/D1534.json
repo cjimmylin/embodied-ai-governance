@@ -1,0 +1,93 @@
+{
+ "doc_id": "D1534",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:48:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0264998,
+  "in": 2,
+  "out": 1656,
+  "cache_read": 11758,
+  "cache_create": 2190,
+  "api_ms": 9927,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Cherny, J.",
+  "binding_nature": "not_applicable",
+  "confidence": 0.6,
+  "countries_discussed": [],
+  "date_basis": "inferred_from_content",
+  "doc_class": "research_output",
+  "doc_type": "book_or_chapter",
+  "doi": "10.3233/FAIA220683",
+  "embodied_categories": [
+   "social_companion_robots"
+  ],
+  "embodiment_status": "mixed",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "human_robot_interaction_social_effects",
+   "other"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "academic_or_research",
+  "jurisdiction_country": "XX",
+  "jurisdiction_scope": "not_applicable",
+  "key_provisions_or_claims": [
+   "Shared decision making with algorithms and robots requires reconceptualised design approaches.",
+   "The role and responsibility of the algorithm needs better understanding.",
+   "Legal scholarship should supply the definitions.",
+   "Current legal research on the topic is polemic."
+  ],
+  "language": "en",
+  "methodology": "conceptual_or_normative",
+  "named_instruments_referenced": [],
+  "page_quality": "partial_or_excerpt",
+  "primary_embodied_category": "social_companion_robots",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2022,
+  "publication_stage": "peer_reviewed",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "summary_en": "Short conference chapter (Robophilosophy volume on social robots in social institutions) arguing that shared decision making with algorithms and robots requires reconceptualised design approaches and clearer understanding of algorithmic responsibility. It holds that legal scholarship should supply definitions, while noting current legal research is polemic. Only the abstract is available.",
+  "title_clean": "Institutions, Robots, Algorithms and Law",
+  "title_en": "Institutions, Robots, Algorithms and Law",
+  "venue": "Frontiers in Artificial Intelligence and Applications, Vol. 366: Social Robots in Social Institutions (IOS Press)"
+ }
+}

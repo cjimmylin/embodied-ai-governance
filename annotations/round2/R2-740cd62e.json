@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-740cd62e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:12:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0278738,
+  "in": 2,
+  "out": 1749,
+  "cache_read": 11758,
+  "cache_create": 2301,
+  "api_ms": 9559,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "IEEE 7000-2021 IEEE Standard Model Process for Addressing Ethical Concerns during System Design",
+  "title_en": "IEEE 7000-2021 IEEE Standard Model Process for Addressing Ethical Concerns during System Design",
+  "language": "en",
+  "authors_or_issuer": "IEEE Standards Association (C/S2ESC Software & Systems Engineering Standards Committee)",
+  "issuer_type": "standards_body",
+  "pub_year": 2021,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "IEEE Standards Association",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "transparency_explainability"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "IEEE 7000 series",
+   "ISO/IEC 22989"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "IEEE SA catalogue page for IEEE 7000-2021, a standard model process for addressing ethical concerns during system design. It sets processes for eliciting and prioritising ethical values with stakeholders and tracing them into requirements and risk-based design. Also lists the adopted IEEE/ISO/IEC 24748-7000-2022.",
+  "key_provisions_or_claims": [
+   "Establishes processes to include ethical values throughout concept exploration and development",
+   "Supports stakeholder engagement for ethical value elicitation and prioritization",
+   "Requires traceability of ethical values into concept of operations, ethical requirements and risk-based design",
+   "Applicable to organizations of all sizes and life cycle models",
+   "Adopted as IEEE/ISO/IEC 24748-7000-2022"
+  ],
+  "confidence": 0.85
+ }
+}

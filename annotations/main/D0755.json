@@ -1,0 +1,105 @@
+{
+ "doc_id": "D0755",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:27:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.053309800000000004,
+  "in": 2,
+  "out": 1835,
+  "cache_read": 11758,
+  "cache_create": 8445,
+  "api_ms": 10371,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Telaah Untuk Pertanyaan Regulasi Kecerdasan Artifisial",
+  "title_en": "Review of Questions on Artificial Intelligence Regulation",
+  "language": "id",
+  "authors_or_issuer": "Kementerian Komunikasi dan Digital (Komdigi), Biro Hukum",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "JDIH Komdigi",
+  "jurisdiction_country": "ID",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ID"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "education",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers",
+   "labor_employment",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "Indonesia Circular Letter No. 9/2023 on AI Ethics",
+   "Indonesia Law 11/2008 (ITE Law)",
+   "Indonesia Law 12/2011 on Legislative Drafting",
+   "ANRI Regulation 5/2021"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Komdigi Legal Bureau answers a university researcher's questions on Indonesian AI regulation. It explains reliance on soft-law Circular Letter 9/2023 on AI ethics, two draft Presidential Regulations (AI roadmap 2026-2029 and AI ethics) in preparation, and no plan to amend the ITE Law.",
+  "key_provisions_or_claims": [
+   "Two draft Presidential Regulations are being prepared: National AI Roadmap 2026-2029 and AI Ethics.",
+   "Circular Letter 9/2023 is soft law, outside the legislative hierarchy, used to fill a legal vacuum.",
+   "AI is treated as a strategic enabler with a risk-aware approach.",
+   "No current plan to amend the ITE Law to cover AI.",
+   "A hybrid soft-law and hard-law governance model is favored."
+  ],
+  "confidence": 0.85
+ }
+}

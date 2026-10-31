@@ -1,0 +1,121 @@
+{
+ "doc_id": "R2-cc3a603e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:59:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2153851,
+  "in": 4,
+  "out": 4133,
+  "cache_read": 64021,
+  "cache_create": 42755,
+  "api_ms": 23663,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "research_science"
+  ],
+  "authors_or_issuer": "Dirección General de Tráfico (DGT)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "ES",
+   "EU"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "insurance_requirement",
+   "human_oversight_requirement",
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "civil_liability",
+   "cybersecurity",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Special DGT authorization required for testing automated vehicles on open roads; valid max 2 years, renewable.",
+   "Vehicles must be certified by a designated Technological Recognition Centre (ENAC ISO 17025 accredited) or hold equivalent EU authorization.",
+   "Mandatory insurance covering civil liability, and DSSAD or EDR data recorder.",
+   "A trained operator must be able to take full control at all times, in-vehicle or remotely.",
+   "Annex V sets dynamic tests: override, emergency braking, lane control, signal recognition, HARA/FMEA risk assessment, cybersecurity."
+  ],
+  "language": "es",
+  "named_instruments_referenced": [
+   "ISO 26262",
+   "UNECE R157 ALKS",
+   "UNECE R155",
+   "UNECE R79",
+   "UNECE R13",
+   "UNECE R131",
+   "UNECE R152",
+   "UNECE R160",
+   "Spanish Reglamento General de Vehículos (RD 2822/1998)",
+   "Regulation (EU) 2019/2144"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Spanish DGT Instruction VEH 2022/07 regulating special authorizations for testing automated driving vehicles on open roads. It sets applicant, vehicle and operator requirements, designation of technological recognition centres, insurance, data recorders, and a detailed certification procedure with dynamic safety tests, replacing Instruction 15/V-113.",
+  "title_clean": "Instrucción VEH 2022/07: Autorización de pruebas o ensayos de investigación realizados con vehículos de conducción automatizada en vías abiertas al tráfico",
+  "title_en": "Instruction VEH 2022/07: Authorisation of research tests or trials with automated driving vehicles on roads open to traffic",
+  "issuer_type": "regulator_or_agency",
+  "venue": "Dirección General de Tráfico",
+  "methodology": "not_applicable"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-651e46fc",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:32:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0409618,
+  "in": 2,
+  "out": 1875,
+  "cache_read": 11758,
+  "cache_create": 5258,
+  "api_ms": 9833,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "关于印发《实施多式联运攻坚 打通堵点卡点行动方案（2026-2030年）》的通知",
+  "title_en": "Notice on Issuing the Action Plan for Tackling Key Challenges in Multimodal Transport and Clearing Bottlenecks (2026-2030)",
+  "language": "zh",
+  "authors_or_issuer": "交通运输部; 国家发展改革委; 财政部; 自然资源部; 国家铁路局; 中国民航局; 国家邮政局; 中国国家铁路集团有限公司",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "sustainability_environment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "funding_or_incentives",
+   "testing_sandboxes",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Chinese multi-ministry action plan (2026-2030) to clear multimodal freight transport bottlenecks across ports, inland ports, logistics parks and rail. It targets upgrading about 1,000 nodes, unified standards, data sharing and market actors. Digital and intelligent equipment such as unmanned container trucks, remote-controlled gantry cranes and AGVs is mentioned only in passing.",
+  "key_provisions_or_claims": [
+   "Upgrade about 1,000 major freight nodes within five years; 1-hour transshipment rate above 90%.",
+   "Deploy smart gates, remote-controlled gantry cranes, unmanned container trucks and AGV robots.",
+   "Mutual recognition and harmonisation of multimodal standards and single-document systems.",
+   "Build data-sharing and information platforms; open public data list.",
+   "Funding support and pilot programmes; provincial authorities guide node-specific implementation plans."
+  ],
+  "confidence": 0.85
+ }
+}

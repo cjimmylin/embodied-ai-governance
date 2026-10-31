@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-902a7430",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:10:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0275938,
+  "in": 2,
+  "out": 1785,
+  "cache_read": 11758,
+  "cache_create": 2141,
+  "api_ms": 11248,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/TR 22100-4:2018 Safety of machinery — Relationship with ISO 12100 — Part 4: Guidance to machinery manufacturers for consideration of related IT-security (cyber security) aspects",
+  "title_en": "ISO/TR 22100-4:2018 Safety of machinery — Relationship with ISO 12100 — Part 4: Guidance to machinery manufacturers for consideration of related IT-security (cyber security) aspects",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 199 (International Organization for Standardization)",
+  "issuer_type": "standards_body",
+  "pub_year": 2018,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Online Browsing Platform / ISO store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "manufacturing",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "safety_physical_harm",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 12100"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO/TR 22100-4:2018, a technical report guiding machinery manufacturers on IT-security (cyber security) threats that can affect machinery safety, in relation to ISO 12100 risk assessment. It gives guidance only, not detailed specifications, and excludes physical manipulation bypassing risk reduction measures.",
+  "key_provisions_or_claims": [
+   "Guides machine manufacturers on security aspects affecting machinery safety when placing machines on the market",
+   "Helps identify and address IT-security threats that can influence machine safety",
+   "Provides guidance only, not detailed specifications",
+   "Excludes bypass of risk reduction through physical manipulation",
+   "Published December 2018 by ISO/TC 199"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1319",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:16:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1198318,
+  "in": 2,
+  "out": 1778,
+  "cache_read": 11758,
+  "cache_create": 25218,
+  "api_ms": 10046,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI Foundation Models: Update paper",
+  "title_en": "AI Foundation Models: Update paper",
+  "language": "en",
+  "authors_or_issuer": "Competition and Markets Authority (CMA), United Kingdom",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2024,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "US"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "consumer_protection",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "intellectual_property",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "consumer_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "audits_impact_assessment",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UK Competition and Markets Authority update report on AI foundation models. It reviews market developments since September 2023, confirms competition and consumer-protection principles, identifies three key risks to fair, open and effective competition (control of inputs, incumbent distortion, partnerships), and sets next steps. Embodied AI is not addressed.",
+  "key_provisions_or_claims": [
+   "Confirms CMA principles to guide foundation model markets: access, diversity, choice, flexibility, fair dealing, transparency",
+   "Identifies three risks: restricted access to critical inputs, incumbents distorting choice, partnerships entrenching market power",
+   "Notes the Digital Markets, Competition and Consumers Bill would give CMA direct consumer enforcement powers with fines up to 10% of turnover",
+   "Observes growing presence of GAMMA firms across the foundation model value chain",
+   "Plans a paper on AI accelerator chips and further update in autumn 2024"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "doc_id": "D1285",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:41:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0412218,
+  "in": 2,
+  "out": 1727,
+  "cache_read": 11758,
+  "cache_create": 5693,
+  "api_ms": 9391,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Making artificial intelligence work for people",
+  "title_en": "Making artificial intelligence work for people",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "European Commission website",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "industrial_policy_innovation",
+   "education_training",
+   "trust_acceptance"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "prohibitions_bans",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement",
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "European Commission public information page on safe and trustworthy AI. It offers user safety tips, summarises the EU AI Act (transparency duties, labelling, high-risk requirements, prohibited practices; robot-assisted surgery as one example), and lists EU support for skills, AI factories, Apply AI strategy and innovation.",
+  "key_provisions_or_claims": [
+   "AI Act sets rules for risky AI systems; AI Office oversees implementation",
+   "Users must know when interacting with AI; AI-generated content labelled",
+   "High-risk AI, including robot-assisted surgery, needs safety requirements and human oversight",
+   "Harmful practices such as social scoring and manipulation are prohibited",
+   "EU supports AI skills, AI factories, Apply AI strategy and AI Act service desk"
+  ],
+  "confidence": 0.9
+ }
+}

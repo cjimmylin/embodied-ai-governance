@@ -1,0 +1,104 @@
+{
+ "doc_id": "D0013",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T17:36:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0670498,
+  "in": 2,
+  "out": 1825,
+  "cache_read": 11758,
+  "cache_create": 11905,
+  "api_ms": 9343,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proyecto de Ley que promueve el uso de la inteligencia artificial en el sistema de transporte terrestre del país",
+  "title_en": "Bill promoting the use of artificial intelligence in the country's land transport system",
+  "language": "es",
+  "authors_or_issuer": "Congreso de la República del Perú (Congresista Flavio Cruz Mamani, Perú Libre)",
+  "issuer_type": "legislature",
+  "pub_year": 2023,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Congreso de la República del Perú",
+  "jurisdiction_country": "PE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "PE"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "education_training",
+   "safety_physical_harm",
+   "labor_employment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs",
+   "audits_impact_assessment",
+   "funding_or_incentives",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Peruvian congressional bill (May 2023) promoting AI use in land transport for logistics optimisation, predictive maintenance and route planning. It requires worker training and periodic evaluation of AI use, and tasks the transport ministry with dissemination. The explanatory memorandum is mostly general AI background and benefits. It has little on autonomous vehicles or risk.",
+  "key_provisions_or_claims": [
+   "Article 3 authorises AI use in land transport for logistics, predictive maintenance, supply chain and route planning.",
+   "Article 4 sets up training programmes for transport workers on AI use.",
+   "Article 5 requires implementing institutions to run periodic evaluations and controls of AI use.",
+   "Article 6 makes the Ministry of Transport and Communications responsible for disseminating the law.",
+   "The memorandum cites a specialised commission and a National Authority for AI, but the articles do not create them."
+  ],
+  "confidence": 0.85
+ }
+}

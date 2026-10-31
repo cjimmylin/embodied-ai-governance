@@ -1,0 +1,98 @@
+{
+ "doc_id": "D1157",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:03:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026119800000000002,
+  "in": 2,
+  "out": 1678,
+  "cache_read": 11758,
+  "cache_create": 2040,
+  "api_ms": 8239,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Guides",
+  "title_en": "Guides",
+  "language": "en",
+  "authors_or_issuer": "AESIA (Spanish Agency for the Supervision of Artificial Intelligence)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "AESIA website",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ES",
+   "EU"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "AESIA landing page for non-binding Spanish guides (01–16) supporting compliance with the EU AI Act, developed in the Spanish AI regulatory sandbox pilot. Organised into introductory, technical and checklist guides, to be updated with Commission guidelines and the Digital Omnibus.",
+  "key_provisions_or_claims": [
+   "Guides are non-binding and do not replace or develop the AI regulations",
+   "Developed within the Spanish AI regulatory sandbox pilot with participants and expert advisory group",
+   "Organised as introductory guides 01-02, technical guides 03-15, checklist manual 16, plus checklist compendium",
+   "To be updated following the Digital Omnibus amending the AI Act and Commission guidelines",
+   "Spanish guidelines intended as a basis for the Commission's European guidelines"
+  ],
+  "confidence": 0.8
+ }
+}

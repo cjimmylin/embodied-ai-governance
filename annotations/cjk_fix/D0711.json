@@ -1,0 +1,110 @@
+{
+ "doc_id": "D0711",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:29:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0420378,
+  "in": 2,
+  "out": 1833,
+  "cache_read": 11758,
+  "cache_create": 5632,
+  "api_ms": 9639,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "生成式人工智能服务管理暂行办法",
+  "title_en": "Interim Measures for the Administration of Generative Artificial Intelligence Services",
+  "language": "zh",
+  "authors_or_issuer": "国家互联网信息办公室 (Cyberspace Administration of China) with NDRC, MoE, MoST, MIIT, MPS, NRTA",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "中国网信网 (cac.gov.cn)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "intellectual_property",
+   "children_vulnerable_groups",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers",
+   "ethics_principles"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "audits_impact_assessment",
+   "licensing_registration",
+   "incident_reporting",
+   "funding_or_incentives",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "China Generative AI Measures"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "China's Interim Measures for generative AI services (Order No. 15, effective 15 Aug 2023) regulate public-facing text, image, audio and video generation services. They set content, anti-discrimination, training data, labelling, personal information, complaint and security assessment duties, and balance innovation with prudent, tiered supervision.",
+  "key_provisions_or_claims": [
+   "Applies to generative AI services offered to the public in mainland China; R&D without public service is exempt",
+   "Providers must use lawfully sourced data and models, respect IP, and obtain consent for personal information",
+   "Generated images and videos must be labelled per deep synthesis rules",
+   "Services with public opinion or social mobilisation capacity need security assessment and algorithm filing",
+   "Inclusive, prudent, tiered supervision; penalties under existing cyber, data and personal information laws"
+  ],
+  "confidence": 0.95
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-1aaf11e2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:04:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0640218,
+  "in": 2,
+  "out": 1845,
+  "cache_read": 11758,
+  "cache_create": 11098,
+  "api_ms": 9359,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Opinion of the European Economic and Social Committee on the Communication from the Commission on the Quality Jobs Roadmap (COM(2025) 944 final)",
+  "title_en": "Opinion of the European Economic and Social Committee on the Quality Jobs Roadmap (COM(2025) 944 final)",
+  "language": "en",
+  "authors_or_issuer": "European Economic and Social Committee",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2026,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (C series)",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "safety_physical_harm",
+   "transparency_explainability",
+   "human_oversight_control",
+   "privacy_data_protection",
+   "education_training",
+   "human_dignity_autonomy",
+   "fairness_bias_discrimination"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs",
+   "audits_impact_assessment",
+   "funding_or_incentives"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EESC opinion on the Commission's Quality Jobs Roadmap, urging shared job-quality indicators, social dialogue, workplace health and safety, and enforcement. A short section addresses AI and algorithmic management at work, calling for full implementation of GDPR, the AI Act and consultation rules, and possible EU instruments on algorithmic management.",
+  "key_provisions_or_claims": [
+   "Calls for common job-quality indicators drawing on OECD, ILO and Eurofound work.",
+   "Social dialogue and collective bargaining should be central, including on AI in the workplace.",
+   "AI and algorithmic systems need safeguards against disproportionate surveillance, work intensification and deskilling.",
+   "Existing frameworks (GDPR, AI Act, information and consultation rules) must be fully implemented and strengthened where necessary.",
+   "Commission should assess whether EU instruments are needed on algorithmic management, psycho-social risks and the right to disconnect."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-b0bd2d29",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:06:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0419078,
+  "in": 2,
+  "out": 1752,
+  "cache_read": 11758,
+  "cache_create": 5802,
+  "api_ms": 8682,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Medical Devices (Amendment) Regulations 2013",
+  "title_en": "The Medical Devices (Amendment) Regulations 2013",
+  "language": "en",
+  "authors_or_issuer": "Secretary of State for Health (UK); published by King's Printer of Acts of Parliament",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2013,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "legislation.gov.uk",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "consumer_protection",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "Medical Devices Regulations 2002",
+   "Commission Regulation (EU) No 207/2012",
+   "Commission Regulation (EU) No 722/2012",
+   "Consumer Protection Act 1987"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "UK statutory instrument amending the Medical Devices Regulations 2002 to implement EU Regulations 207/2012 (electronic instructions for use) and 722/2012 (active implantable devices and devices using animal tissue). It adjusts CE marking, conformity assessment and notified body provisions, and requires a review by 2019. No AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Implements EU Regulation 207/2012 on electronic instructions for use of medical devices",
+   "Implements EU Regulation 722/2012 on devices using animal tissue",
+   "Amends CE marking and conformity assessment procedures",
+   "Requires Secretary of State review of the 2002 Regulations by 31 December 2019",
+   "In force 21 October 2013"
+  ],
+  "confidence": 0.93
+ }
+}

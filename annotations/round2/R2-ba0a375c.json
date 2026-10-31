@@ -1,0 +1,96 @@
+{
+ "doc_id": "R2-ba0a375c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:13:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.049160800000000004,
+  "in": 4,
+  "out": 3510,
+  "cache_read": 25198,
+  "cache_create": 3604,
+  "api_ms": 16311,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "H.R. 3388 - Safely Ensuring Lives Future Deployment and Research In Vehicle Evolution Act (SELF DRIVE Act)",
+  "title_en": "H.R. 3388 - Safely Ensuring Lives Future Deployment and Research In Vehicle Evolution Act (SELF DRIVE Act)",
+  "language": "en",
+  "authors_or_issuer": "U.S. Congress (115th Congress)",
+  "issuer_type": "legislature",
+  "pub_year": 2017,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "U.S. Congress / GovInfo",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "withdrawn_or_lapsed",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Cover page of H.R. 3388, the SELF DRIVE Act (115th Congress), as received in the Senate on September 7, 2017 and referred to the Commerce Committee. It amends title 49 U.S.C. on NHTSA authority over highly automated vehicles and provides safety measures. Only the header is available.",
+  "key_provisions_or_claims": [
+   "Amends title 49 U.S.C. on NHTSA authority over highly automated vehicles",
+   "Provides safety measures for highly automated vehicles",
+   "Referred to Senate Committee on Commerce, Science, and Transportation",
+   "Cites 49 U.S.C. 30102, 30103, 30111-30113, 30165"
+  ],
+  "confidence": 0.7
+ }
+}

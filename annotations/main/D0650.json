@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0650",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:24:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0511141,
+  "in": 4,
+  "out": 3299,
+  "cache_read": 26336,
+  "cache_create": 4501,
+  "api_ms": 17697,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "manufacturing",
+   "research_science"
+  ],
+  "authors_or_issuer": "english.beijing.gov.cn (The Beijing News)",
+  "binding_nature": "not_applicable",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "communication_or_news",
+  "doc_type": "press_release_or_government_news",
+  "doi": null,
+  "embodied_categories": [
+   "humanoid_general_purpose"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "funding_or_incentives"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "subnational_government",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "subnational",
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "humanoid_general_purpose",
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2025,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Beijing government news item reporting that China's first national standards for humanoid robot technical requirements (perception, decision-making and planning, motion control, task execution) have been approved for development, with the Beijing Humanoid Robot Innovation Center leading drafting, framed as supporting China's global leadership in embodied intelligence.",
+  "key_provisions_or_claims": [
+   "First national standards for humanoid robots approved for development in China",
+   "Cover environmental perception, decision-making and planning, motion control, task execution",
+   "BHRIC led motion control drafting and co-led other standards",
+   "Standardization combined with open-source strategies to promote embodied intelligence leadership"
+  ],
+  "title_clean": "China's First National Standards for Humanoid Robots Approved for Development",
+  "title_en": "China's First National Standards for Humanoid Robots Approved for Development",
+  "venue": "english.beijing.gov.cn"
+ }
+}

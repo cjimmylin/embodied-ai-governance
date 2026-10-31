@@ -1,0 +1,98 @@
+{
+ "doc_id": "D0268",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:49:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027347800000000002,
+  "in": 2,
+  "out": 1642,
+  "cache_read": 11758,
+  "cache_create": 2437,
+  "api_ms": 8979,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Artificial intelligence - ISO",
+  "title_en": "Artificial intelligence - ISO",
+  "language": "en",
+  "authors_or_issuer": "International Organization for Standardization (ISO)",
+  "issuer_type": "standards_body",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "ISO website",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "transparency_explainability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "ISO/IEC 42001",
+   "ISO/IEC 23894",
+   "ISO/IEC 22989"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "ISO's AI topic landing page listing top AI standards (concepts, management system, risk management, impact assessment, audit and certification bodies, lifecycle processes) and insight articles. It argues standards improving transparency, data quality and reliability can mitigate AI risks and bridge regulatory gaps.",
+  "key_provisions_or_claims": [
+   "Standards enhancing transparency, data quality and reliability mitigate AI risks",
+   "Standards can help bridge gaps in regulation",
+   "Lists key AI standards: terminology, management system, risk management, impact assessment, lifecycle",
+   "Promotes AI management systems as governance mechanism"
+  ],
+  "confidence": 0.85
+ }
+}

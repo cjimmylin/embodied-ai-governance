@@ -1,0 +1,97 @@
+{
+ "doc_id": "D1329",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T16:04:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0303618,
+  "in": 2,
+  "out": 1723,
+  "cache_read": 11758,
+  "cache_create": 2988,
+  "api_ms": 10366,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "CDEI publishes its first series of three snapshot papers on ethical issues in AI",
+  "title_en": "CDEI publishes its first series of three snapshot papers on ethical issues in AI",
+  "language": "en",
+  "authors_or_issuer": "Centre for Data Ethics and Innovation",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2019,
+  "pub_month": 9,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "web_page_informational",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "finance",
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "consumer_protection"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "GOV.UK page announcing the UK Centre for Data Ethics and Innovation's first three snapshot briefing papers on AI ethics: deepfakes, AI in personal insurance, and smart speakers. It explains the snapshot format and lists forthcoming CDEI work on facial recognition, micro-targeting and algorithmic bias.",
+  "key_provisions_or_claims": [
+   "First three CDEI snapshots cover deepfakes, AI in personal insurance and smart speakers.",
+   "Snapshots are briefing papers outlining risks, ethical issues and possible government and industry actions.",
+   "Topics were chosen by CDEI's independent Board based on public concern.",
+   "Further work planned: facial recognition, data sharing frameworks, online micro-targeting and algorithmic bias recommendations."
+  ],
+  "confidence": 0.85
+ }
+}

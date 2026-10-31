@@ -1,0 +1,102 @@
+{
+ "doc_id": "D0728",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:57:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0341998,
+  "in": 2,
+  "out": 1740,
+  "cache_read": 11758,
+  "cache_create": 3905,
+  "api_ms": 9020,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Singapore and the US to Deepen Cooperation In AI",
+  "title_en": "Singapore and the US to Deepen Cooperation In AI",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Digital Development and Information (Singapore)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 10,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Ministry of Digital Development and Information (mci.gov.sg)",
+  "jurisdiction_country": "SG",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "SG",
+   "US"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "ethics_principles",
+   "trust_acceptance",
+   "industrial_policy_innovation",
+   "cybersecurity"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "international_cooperation",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "NIST AI RMF"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Singapore government press release on the inaugural US-Singapore Critical and Emerging Technologies Dialogue. It announces a crosswalk making IMDA's AI Verify interoperable with NIST's AI RMF, a planned bilateral AI Governance Group, deeper AI safety research collaboration, and a business roundtable on AI safety and innovation.",
+  "key_provisions_or_claims": [
+   "AI Verify and NIST AI RMF mapped through a joint crosswalk, the first such government-to-government exercise",
+   "Planned bilateral AI Governance Group to advance shared principles",
+   "Expanded research and technical collaboration on AI safety, testing, validation and certification",
+   "Business roundtable called for reduced fragmentation of AI standards, sandboxes and trusted data flows",
+   "Public-private partnerships stressed for AI trust and safety"
+  ],
+  "confidence": 0.8
+ }
+}

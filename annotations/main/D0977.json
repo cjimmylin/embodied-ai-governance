@@ -1,0 +1,101 @@
+{
+ "doc_id": "D0977",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:33:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0475678,
+  "in": 2,
+  "out": 1822,
+  "cache_read": 11758,
+  "cache_create": 7042,
+  "api_ms": 12813,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "“Embodied AI” and the direct participation in hostilities: A legal analysis",
+  "title_en": "“Embodied AI” and the direct participation in hostilities: A legal analysis",
+  "language": "en",
+  "authors_or_issuer": "Grimal, F.; Pollard, M.J.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2020,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Georgetown Journal of International Law, Vol. 51",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "humanoid_general_purpose",
+   "autonomous_road_vehicles",
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "legal_personhood_robot_rights",
+   "human_oversight_control",
+   "criminal_liability"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics",
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "existing_law_sufficient_or_adapt",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Law journal article analysing whether civilian embodied AI (robots) can directly participate in hostilities under international humanitarian law. It critiques the ICRC Interpretive Guidance on DPH, proposes a Turing-like test, and explores consequences such as robot PMCs, spies, perfidy, levée en masse and POW status.",
+  "key_provisions_or_claims": [
+   "Questions whether the IHL concept of 'civilian' should be limited to humans.",
+   "Challenges the ICRC presumption of civilian status in cases of doubt, favouring case-by-case DPH assessment.",
+   "Proposes adding a Turing-like test to DPH assessment.",
+   "Applies the ICRC three-part DPH test to scenarios from current to long-term EAI (driverless vehicles, robot medics, personal assistants).",
+   "Warns that indistinguishable EAIs on the battlefield may need to be treated as civilians; raises POW and perfidy issues."
+  ],
+  "confidence": 0.9
+ }
+}

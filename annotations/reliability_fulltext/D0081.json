@@ -1,0 +1,113 @@
+{
+ "doc_id": "D0081",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T17:11:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1118178,
+  "in": 2,
+  "out": 1897,
+  "cache_read": 11758,
+  "cache_create": 22917,
+  "api_ms": 11718,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "AI for the Good of All: Brazilian Artificial Intelligence Plan (PBIA)",
+  "title_en": "AI for the Good of All: Brazilian Artificial Intelligence Plan (PBIA)",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Science, Technology and Innovation (MCTI); Center for Strategic Studies and Management (CGEE)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "MCTI / CGEE",
+  "jurisdiction_country": "BR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "BR"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "agriculture_food",
+   "education",
+   "public_administration_justice",
+   "energy_environment",
+   "manufacturing",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "education_training",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "sustainability_environment",
+   "labor_employment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 1,
+   "solidarity": 2,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "oversight_body_creation",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "OECD AI Principles"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Brazil's national AI plan (PBIA) by MCTI and CGEE commits R$23 billion through 2028 across five axes: infrastructure, training, public services, business innovation, and regulatory/governance support. It stresses human-centred, sovereign, sustainable and responsible AI. It has no robotics-specific provisions, only passing mention of autonomous mobility as high-risk.",
+  "key_provisions_or_claims": [
+   "R$23.03 billion investment 2024-2028 across immediate-impact actions and five structuring axes",
+   "Five pillars of 'AI for the Good of All': human-centred, sustainable, sovereign, transparent/responsible, globally cooperative",
+   "Sovereign cloud and Portuguese-language LLM development",
+   "Federal Government AI Core to coordinate ethical AI adoption in public administration",
+   "Axis 5 supports regulatory and governance process, aligned with LGPD and ongoing regulatory initiatives"
+  ],
+  "confidence": 0.88
+ }
+}

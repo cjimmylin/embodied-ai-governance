@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-3dd9643c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:02:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.05865460000000001,
+  "in": 4,
+  "out": 3777,
+  "cache_read": 26866,
+  "cache_create": 5266,
+  "api_ms": 19487,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Department of Transport and Major Infrastructure (DTMI), Government of Western Australia",
+  "binding_nature": "not_applicable",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "AU"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "communication_or_news",
+  "doc_type": "web_page_informational",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "civil_liability"
+  ],
+  "instrument_status": "not_applicable",
+  "is_governance_document": false,
+  "issuer_type": "subnational_government",
+  "jurisdiction_country": "AU",
+  "jurisdiction_scope": "subnational",
+  "key_provisions_or_claims": [
+   "National Automated Vehicle Safety Law (AVSL) to be a Commonwealth law administered by a new regulator.",
+   "AVSL regulates Automated Driving System Entities responsible for AV safety.",
+   "State laws must be amended to enable safe AV use.",
+   "WA law currently does not allow driverless vehicles; trials need exemptions and a DTMI permit per vehicle.",
+   "Trial guidelines based on NTC Guidelines for trials of Automated Vehicles in Australia."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "Automated Vehicle Safety Law (Australia, proposed)",
+   "NTC Guidelines for trials of Automated Vehicles in Australia",
+   "WA Road Traffic (Vehicles) Act 2012"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": null,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "mixed",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Western Australian government web page describing WA's preparation for automated vehicles: participation in the national regulatory framework (proposed Commonwealth Automated Vehicle Safety Law), 2024 consultation, and the permit and guideline process for on-road AV trials under existing exemptions.",
+  "title_clean": "Automated vehicles (Western Australia DTMI)",
+  "title_en": "Automated vehicles (Western Australia DTMI)",
+  "venue": "Government of Western Australia, DTMI website",
+  "methodology": "not_applicable"
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-60ead924",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:43:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0372738,
+  "in": 2,
+  "out": 1847,
+  "cache_read": 11758,
+  "cache_create": 4406,
+  "api_ms": 9122,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "｢대구 이동식 협동로봇 규제자유특구｣ 산업표준 제정으로, 이동식 협동로봇 상용화 길 열렸다!",
+  "title_en": "Establishment of industrial standard in the Daegu Mobile Collaborative Robot Regulation-Free Special Zone opens the way to commercialization of mobile cobots",
+  "language": "ko",
+  "authors_or_issuer": "중소벤처기업부 (Ministry of SMEs and Startups)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "정책브리핑 (Korea Policy Briefing)",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "collaborative_robots",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "collaborative_robots",
+  "application_sectors": [
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "testing_sandboxes",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "KS B 7327"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Korean Ministry of SMEs and Startups press release announcing that, after demonstration in the Daegu regulation-free special zone, a Korean Industrial Standard (KS B 7327) on safety requirements for mobile collaborative robots was enacted on 1 November 2024, removing the regulatory barrier to their use in industry.",
+  "key_provisions_or_claims": [
+   "KS B 7327 sets safety requirements for industrial mobile manipulators, effective 1 November 2024",
+   "Absent safety standards had forced fences and prevented work while moving",
+   "Regulatory sandbox (Daegu special zone, from 2020) validated safety through demonstrations",
+   "Safety inspection and certification rules linked to Occupational Safety and Health Standards Rule Art. 223",
+   "Participants reported 9.3% productivity gains and over 150 billion KRW investment"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0600",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:23:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0454458,
+  "in": 2,
+  "out": 1833,
+  "cache_read": 11758,
+  "cache_create": 6484,
+  "api_ms": 11796,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Verification-Gated Agentic Mission-State Governance for Intelligent Industrial Multi-Robot Systems",
+  "title_en": "Verification-Gated Agentic Mission-State Governance for Intelligent Industrial Multi-Robot Systems",
+  "language": "en",
+  "authors_or_issuer": "Tang, G.; Jia, Q.; Tan, Y.; Huang, Z.; Ji, N.; Chen, G.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "arXiv (cs.RO)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "preprint_or_working_paper",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "preprint",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "mobile_industrial_logistics",
+   "industrial_manipulators"
+  ],
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "application_sectors": [
+   "manufacturing",
+   "construction",
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "technical_or_engineering",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Technical preprint proposing a runtime mission-state governance framework for industrial multi-robot systems, in which agentic, heuristic or optimization proposals update committed state only after deterministic verification and atomic commit. Evaluated in simulation, it reduces invalid commitments, lock conflicts and disruptive repairs. It is an engineering framework, not a policy instrument.",
+  "key_provisions_or_claims": [
+   "Agentic AI is treated as a proposal-generating layer, not an unchecked execution authority.",
+   "Proposals commit to mission state only after deterministic verification and atomic commit.",
+   "A task forest and governed blackboard keep hierarchy, locks, traces and constraints synchronized.",
+   "Repair is bounded to the hard-coupled affected neighborhood to protect other work.",
+   "Guarantees cover only modeled predicates and do not ensure physical collision avoidance."
+  ],
+  "confidence": 0.9
+ }
+}

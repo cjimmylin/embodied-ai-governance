@@ -1,0 +1,100 @@
+{
+ "doc_id": "D1603",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:50:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0436638,
+  "in": 2,
+  "out": 1752,
+  "cache_read": 11758,
+  "cache_create": 6241,
+  "api_ms": 17217,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Should we Trust Social Robots? Trust without Trustworthiness in Human-Robot Interaction",
+  "title_en": "Should we Trust Social Robots? Trust without Trustworthiness in Human-Robot Interaction",
+  "language": "en",
+  "authors_or_issuer": "Massaguer Gómez, G.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": "10.1007/s13347-025-00850-3",
+  "venue": "Philosophy & Technology",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "social_companion_robots",
+   "care_assistive_robots",
+   "sex_robots"
+  ],
+  "primary_embodied_category": "social_companion_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "trust_acceptance",
+   "ethics_principles",
+   "human_robot_interaction_social_effects",
+   "civil_liability",
+   "children_vulnerable_groups"
+  ],
+  "primary_topic": "trust_acceptance",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "discusses_neutral",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "conceptual_or_normative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Philosophical article on trust, reliance and trustworthiness applied to social robots. It argues humans can trust social robots although the robots cannot be trustworthy, producing 'trust without trustworthiness'. It concludes we should not currently trust them, given potential harms and responsibility gaps.",
+  "key_provisions_or_claims": [
+   "Humans anthropomorphize and form attachment and proto-empathy towards social robots.",
+   "Social robots currently lack properties needed to be trustworthy or untrustworthy.",
+   "Paradox: trust without trustworthiness arises in human-robot interaction.",
+   "We should not, for now, trust social robots because of potential harms.",
+   "Responsibility gaps complicate repairing harms caused by trusted robots."
+  ],
+  "confidence": 0.85
+ }
+}

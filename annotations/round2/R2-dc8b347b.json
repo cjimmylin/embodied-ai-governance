@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-dc8b347b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:06:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0508263,
+  "in": 4,
+  "out": 3491,
+  "cache_read": 25653,
+  "cache_create": 4055,
+  "api_ms": 16911,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/TR 20545:2017 Intelligent transport systems — Vehicle/roadway warning and control systems — Report on standardisation for vehicle automated driving systems (RoVAS)/Beyond driver assistance systems",
+  "title_en": "ISO/TR 20545:2017 Intelligent transport systems — Vehicle/roadway warning and control systems — Report on standardisation for vehicle automated driving systems (RoVAS)/Beyond driver assistance systems",
+  "language": "en",
+  "authors_or_issuer": "ISO/TC 204",
+  "issuer_type": "standards_body",
+  "pub_year": 2017,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "ISO catalogue page for ISO/TR 20545:2017, a technical report from ISO/TC 204 identifying potential standardization areas for automated driving systems that control longitudinal and lateral vehicle motion simultaneously. It maps areas without assigning who standardizes or when.",
+  "key_provisions_or_claims": [
+   "Technical report on potential standardization areas for automated driving systems",
+   "Defines automated driving systems as controlling longitudinal and lateral motion simultaneously",
+   "Systematically extracts and organizes standardization items",
+   "Timing and responsibility for standardization are discussed separately",
+   "Published July 2017 by ISO/TC 204"
+  ],
+  "confidence": 0.85
+ }
+}

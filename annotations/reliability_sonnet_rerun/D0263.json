@@ -1,0 +1,103 @@
+{
+ "doc_id": "D0263",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:41:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045797199999999996,
+  "in": 4,
+  "out": 3699,
+  "cache_read": 41042,
+  "cache_create": 1878,
+  "api_ms": 26518,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "Ministry of Digital Economy and Entrepreneurship (Jordan)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "JO"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "ethical_framework_or_principles",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "self_regulation_codes",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "civil_liability",
+   "sustainability_environment",
+   "research_ethics",
+   "human_dignity_autonomy"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "JO",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Sets eight ethical principles: humanity and society, inclusiveness and justice, privacy and data, transparency, responsibility and accountability, reliability, integrity and non-fakeness, environment/green AI.",
+   "Includes principles for the virtual environment and metaverse.",
+   "Sets ethics rules for AI scientific research.",
+   "Ministry to receive complaints on AI ethics and assess damage from AI systems.",
+   "Encourages open-source models, open data, and disclosure of accuracy and error rates."
+  ],
+  "language": "ar",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 2,
+   "dignity": 1,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 8,
+  "pub_year": 2022,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "principle_or_ethics_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Jordan's National AI Code of Ethics, issued by the Ministry of Digital Economy and Entrepreneurship in bilingual Arabic/English. It sets voluntary ethical principles for responsible AI (humanity, justice, privacy, transparency, accountability, reliability, integrity, green AI), metaverse principles, research ethics, non-compliance risks, and a complaints channel at the Ministry.",
+  "title_clean": "الميثاق الوطني لأخلاقيات الذكاء الاصطناعي",
+  "title_en": "The National Artificial Intelligence Code of Ethics",
+  "venue": "Ministry of Digital Economy and Entrepreneurship (modee.gov.jo)"
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "doc_id": "R2-3a11a900",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:46:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0381338,
+  "in": 2,
+  "out": 1757,
+  "cache_read": 11758,
+  "cache_create": 4846,
+  "api_ms": 13337,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2022/6 of 4 January 2022 amending Implementing Decision (EU) 2021/1182 as regards harmonised standards for medical devices",
+  "title_en": "Commission Implementing Decision (EU) 2022/6 of 4 January 2022 amending Implementing Decision (EU) 2021/1182 as regards harmonised standards for medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission Implementing Decision amending Decision 2021/1182 to add references of revised harmonised standards (biological evaluation, sterilisation, aseptic processing, ISO 13485 quality management, symbols, home light therapy equipment) supporting the Medical Devices Regulation 2017/745, giving presumption of conformity. Not AI-related.",
+  "key_provisions_or_claims": [
+   "Adds nine harmonised standard references to the Annex of Implementing Decision (EU) 2021/1182.",
+   "Compliance with listed standards gives presumption of conformity with Regulation (EU) 2017/745.",
+   "Enters into force on the day of publication in the Official Journal.",
+   "Covers EN ISO 13485:2016/A11:2021 and EN IEC 60601-2-83:2020/A11:2021 among others."
+  ],
+  "confidence": 0.95
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-0b45e08e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-10-31T00:42:23",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0634778,
+  "in": 2,
+  "out": 1961,
+  "cache_read": 11758,
+  "cache_create": 10672,
+  "api_ms": 10215,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "無人航空機（ドローン、ラジコン機等）の安全な飛行のためのガイドライン",
+  "title_en": "Guidelines for the Safe Flight of Unmanned Aircraft (Drones, Radio-Controlled Aircraft, etc.)",
+  "language": "ja",
+  "authors_or_issuer": "国土交通省 航空局 無人航空機安全課 (MLIT, Civil Aviation Bureau)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Land, Infrastructure, Transport and Tourism (MLIT)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "civil_liability",
+   "certification_conformity_assessment",
+   "privacy_data_protection",
+   "human_oversight_control"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "incident_reporting",
+   "human_oversight_requirement",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japan's MLIT guidelines explain Aviation Act rules for unmanned aircraft: definition, registration, pilot licensing and aircraft certification, no-fly zones, flight methods, a three-tier risk category system, safety precautions, insurance recommendations, accident reporting duties, and related laws, for business, hobbyist and parent users.",
+  "key_provisions_or_claims": [
+   "Unmanned aircraft of 100g or more must be registered; pilot licence and aircraft certification systems exist since Dec 2022.",
+   "Flight prohibited near airports, in emergency airspace, above 150m, and over densely populated areas without permission.",
+   "Flight rules: daytime, visual line of sight, 30m distance from third parties, no dropping objects or carrying hazardous materials.",
+   "Risk-based Categories I–III depending on specified flights and third-party access control.",
+   "Accidents, injuries, loss of control or fire must be reported to MLIT; insurance and flight plan notification via DIPS recommended or required."
+  ],
+  "confidence": 0.85
+ }
+}

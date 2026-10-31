@@ -1,0 +1,12 @@
+**T17_trend_models. Logistic regressions: presence of embodied-specific principles (level >= 1) and two mechanisms on publication year, adjusting for region and document class (embodied-AI documents, 2015-2026)**
+
+| outcome                                        |    n |   events |   odds_ratio_per_year |   ci_low |   ci_high |      p |   p_holm |
+|:-----------------------------------------------|-----:|---------:|----------------------:|---------:|----------:|-------:|---------:|
+| principle: Physical safety                     | 1496 |      999 |                 0.999 |    0.959 |     1.041 | 0.9725 |   0.9725 |
+| principle: Human-robot proximity               | 1496 |      650 |                 0.937 |    0.901 |     0.975 | 0.0012 |   0.0099 |
+| principle: Liability for physical damage       | 1496 |      317 |                 0.938 |    0.897 |     0.98  | 0.0044 |   0.0306 |
+| principle: Autonomy level & control            | 1496 |      735 |                 0.979 |    0.944 |     1.015 | 0.246  |   0.492  |
+| principle: Conformity assessment               | 1496 |      572 |                 1.049 |    1.007 |     1.094 | 0.0233 |   0.1164 |
+| principle: Dual use & military                 | 1496 |      244 |                 0.96  |    0.915 |     1.008 | 0.1    |   0.3001 |
+| mechanism: Risk based tiering                  | 1496 |      124 |                 1.098 |    1.023 |     1.178 | 0.0097 |   0.0583 |
+| mechanism: Conformity assessment certification | 1496 |      291 |                 1.053 |    1.002 |     1.106 | 0.0401 |   0.1605 |

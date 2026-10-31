@@ -1,0 +1,111 @@
+{
+ "doc_id": "D1276",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:41:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0718223,
+  "in": 4,
+  "out": 3681,
+  "cache_read": 30263,
+  "cache_create": 8743,
+  "api_ms": 20829,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Getting the future right: artificial intelligence and fundamental rights",
+  "title_en": "Getting the future right: artificial intelligence and fundamental rights",
+  "language": "en",
+  "authors_or_issuer": "European Union Agency for Fundamental Rights (FRA)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2020,
+  "pub_month": 12,
+  "date_basis": "inferred_from_content",
+  "doi": "10.2811/774118",
+  "venue": "Publications Office of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "FI",
+   "EE",
+   "FR"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "public_administration_justice",
+   "healthcare",
+   "defense_security",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "human_dignity_autonomy",
+   "privacy_data_protection",
+   "fairness_bias_discrimination",
+   "transparency_explainability",
+   "consumer_protection",
+   "risk_management_risk_tiers",
+   "ethics_principles"
+  ],
+  "primary_topic": "human_dignity_autonomy",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 2,
+   "solidarity": 1,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "oversight_body_creation",
+   "education_training_programs",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU AI Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "empirical_qualitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "FRA report based on about 100 interviews examining AI use in EU public administration and private companies across social benefits, predictive policing, healthcare and targeted advertising. It assesses fundamental rights impacts and awareness, and calls for fundamental rights impact assessments and a rights-grounded EU AI regulatory framework.",
+  "key_provisions_or_claims": [
+   "Organisations using AI often lack awareness of rights beyond data protection and non-discrimination.",
+   "Recommends accessible fundamental rights impact assessments for AI systems.",
+   "People need to know AI is used and be able to seek remedies; systems must be explainable.",
+   "Technical expertise is needed in organisations and oversight bodies.",
+   "Future EU AI regulation should be grounded in fundamental rights."
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-5f7bef52",
+ "model": "claude-opus-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-31T00:10:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0945396,
+  "in": 2,
+  "out": 1923,
+  "cache_read": 11758,
+  "cache_create": 6715,
+  "api_ms": 13381,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Report of the 2023 session of the Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems",
+  "title_en": "Report of the 2023 session of the Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems",
+  "language": "en",
+  "authors_or_issuer": "Group of Governmental Experts on Emerging Technologies in the Area of LAWS, Convention on Certain Conventional Weapons (UN)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "United Nations Office at Geneva / CCW (CCW/GGE.1/2023/2)",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "education_training"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "international_cooperation",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE",
+   "Convention on Certain Conventional Weapons",
+   "UN Charter",
+   "CCW Guiding Principles on LAWS (2019)"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Final report of the 2023 CCW Group of Governmental Experts on lethal autonomous weapons systems. Records participation and procedure, and consensus conclusions: IHL fully applies to LAWS, systems that cannot comply with IHL must not be used, control is needed, States should limit targets, scope and duration and train operators, and weapons must undergo legal review.",
+  "key_provisions_or_claims": [
+   "IHL continues to apply fully to the potential development and use of LAWS",
+   "Weapon systems incapable of IHL-compliant use must not be used",
+   "Control over LAWS is needed to uphold distinction, proportionality and precautions",
+   "States should limit target types, duration, geographic scope and scale, and train human operators",
+   "Legal reviews of new weapons are required; voluntary exchange of best practices is encouraged"
+  ],
+  "confidence": 0.85
+ }
+}

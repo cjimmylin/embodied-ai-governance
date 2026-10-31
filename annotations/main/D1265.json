@@ -1,0 +1,104 @@
+{
+ "doc_id": "D1265",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:40:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.033015800000000005,
+  "in": 2,
+  "out": 1776,
+  "cache_read": 11758,
+  "cache_create": 3519,
+  "api_ms": 8741,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Establecer las normas para hacer más seguros los robots ponibles",
+  "title_en": "Laying down the rules for safer wearable robots",
+  "language": "es",
+  "authors_or_issuer": "CORDIS (European Commission)",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": null,
+  "pub_month": null,
+  "date_basis": "unknown",
+  "doi": null,
+  "venue": "CORDIS",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "rehabilitation_exoskeleton_prosthetic",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "rehabilitation_exoskeleton_prosthetic",
+  "application_sectors": [
+   "healthcare",
+   "manufacturing",
+   "elder_care_social_care"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "civil_liability",
+   "ethics_principles",
+   "fairness_bias_discrimination",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO 13482"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "CORDIS news article on an EU-funded study (SAFEandSOUND, EUROBENCH) assessing ISO 13482:2014 for lower-limb robotic exoskeletons. It finds the standard leaves gaps on safety, ethical and social issues, and recommends type-specific standards and shared stakeholder responsibility.",
+  "key_provisions_or_claims": [
+   "ISO 13482:2014 does not address safety sufficiently or comprehensively for wearable robots.",
+   "Scope, risk definition, and psychological and gender aspects of safety need improvement.",
+   "Covering diverse robot types in one standard creates confusion about required safeguards.",
+   "Separate standards per robot type (e.g., physical assistant vs social robots) are suggested.",
+   "All stakeholders must share responsibility for safety and functionality."
+  ],
+  "confidence": 0.85
+ }
+}

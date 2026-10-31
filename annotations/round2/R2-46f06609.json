@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-46f06609",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T20:00:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.10575799999999999,
+  "in": 4,
+  "out": 3773,
+  "cache_read": 38365,
+  "cache_create": 16764,
+  "api_ms": 25017,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "authors_or_issuer": "European Economic and Social Committee",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU",
+   "DE",
+   "FR"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "government_report_or_parliamentary",
+  "doc_type": "parliamentary_material",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "international_cooperation",
+   "education_training_programs",
+   "oversight_body_creation"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "human_oversight_control",
+   "transparency_explainability",
+   "fairness_bias_discrimination",
+   "privacy_data_protection",
+   "safety_physical_harm",
+   "education_training",
+   "industrial_policy_innovation"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Supports EP call for a dedicated EU proposal on algorithmic management at work after assessing existing law.",
+   "Calls for extending Platform Work Directive algorithmic management principles to all workers.",
+   "Requires algorithmic impact assessments with workers' representatives before AM deployment.",
+   "Insists on human-in-control, right to human review, and limits on intrusive monitoring such as emotional data.",
+   "Urges AI Office cooperation with social partners; psychosocial risks to be covered by OSH risk assessment."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 2,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 7,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "summary_en": "EESC exploratory opinion requested by the Cypriot Presidency on using AI and algorithmic management to improve job quality. It backs a dedicated EU proposal on algorithmic management, full enforcement of the GDPR and AI Act, workers' involvement, transparency, human-in-control, OSH coverage of psychosocial risks, and a stronger role for social dialogue.",
+  "title_clean": "Enhancing quality in employment and working conditions by introducing and promoting related tools (including AI) and strengthening social dialogue and collective bargaining",
+  "title_en": "Enhancing quality in employment and working conditions by introducing and promoting related tools (including AI) and strengthening social dialogue and collective bargaining",
+  "venue": "Official Journal of the European Union (C series)"
+ }
+}

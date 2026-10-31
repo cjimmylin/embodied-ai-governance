@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-33251e4a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:45:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07104579999999999,
+  "in": 2,
+  "out": 1849,
+  "cache_read": 11758,
+  "cache_create": 12844,
+  "api_ms": 14362,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) No 920/2013 on the designation and the supervision of notified bodies under Council Directive 90/385/EEC on active implantable medical devices and Council Directive 93/42/EEC on medical devices",
+  "title_en": "Commission Implementing Regulation (EU) No 920/2013 on the designation and the supervision of notified bodies under Council Directive 90/385/EEC on active implantable medical devices and Council Directive 93/42/EEC on medical devices",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2013,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 253/8",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "insurance_requirement",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "EU Commission implementing regulation of 2013 setting common rules for designating and supervising notified bodies under the active implantable and general medical devices directives. It prescribes joint assessments, surveillance intervals, Commission investigations, subcontracting limits, impartiality and competence criteria, and an application form. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Designation of notified bodies requires on-site assessment with assessors from two other Member States and the Commission.",
+   "Designations are valid for at most five years; renewal and scope extensions follow the same procedure.",
+   "Surveillance on-site assessments at least every 12 months (over 100 clients) or 18 months otherwise, plus unannounced visits.",
+   "Commission may investigate the competence of a notified body.",
+   "Annex I sets independence, subcontracting, competence, liability insurance and confidentiality criteria."
+  ],
+  "confidence": 0.85
+ }
+}

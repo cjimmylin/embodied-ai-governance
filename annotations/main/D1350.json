@@ -1,0 +1,105 @@
+{
+ "doc_id": "D1350",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:43:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0446418,
+  "in": 2,
+  "out": 1837,
+  "cache_read": 11758,
+  "cache_create": 6273,
+  "api_ms": 9163,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Unlocking the Potential of Robotics and Autonomous Systems (RAS) in Agriculture and Horticulture",
+  "title_en": "Unlocking the Potential of Robotics and Autonomous Systems (RAS) in Agriculture and Horticulture",
+  "language": "en",
+  "authors_or_issuer": "Regulatory Horizons Council (RHC), UK Department for Science, Innovation and Technology",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2023,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "GOV.UK",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "government_report_or_review",
+  "doc_class": "government_report_or_parliamentary",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "agricultural_robots",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "agricultural_robots",
+  "application_sectors": [
+   "agriculture_food"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "civil_liability",
+   "standards_interoperability",
+   "safety_physical_harm",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "data_governance_requirements",
+   "liability_regime",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "empirical_qualitative",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "UK Regulatory Horizons Council policy sprint report, with Defra, on regulatory barriers to robotics and autonomous systems in agriculture and horticulture. Based on industry and regulator workshops, it recommends seven interventions to enable adoption, including a sectoral network, regulatory sandboxes, data standards, atypical airspace for BVLOS drones, and clearer liability arrangements.",
+  "key_provisions_or_claims": [
+   "Create a Sectoral Network to coordinate stakeholders and regulators.",
+   "Establish regulatory sandboxes for agricultural and horticultural RAS.",
+   "Foster industry-led data standards and a data controller for data collection.",
+   "Designate 'atypical' airspace to expedite BVLOS drone approvals.",
+   "Clarify liability arrangements for RAS and align funding agencies with regulators."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-6db84260",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True",
+ "annotated_at": "2026-10-30T19:44:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0510578,
+  "in": 2,
+  "out": 1869,
+  "cache_read": 11758,
+  "cache_create": 7797,
+  "api_ms": 16278,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Decision (EU) 2020/480 of 1 April 2020 amending Implementing Decision (EU) 2019/436 on harmonised standards for machinery drafted in support of Directive 2006/42/EC",
+  "title_en": "Commission Implementing Decision (EU) 2020/480 of 1 April 2020 amending Implementing Decision (EU) 2019/436 on harmonised standards for machinery drafted in support of Directive 2006/42/EC",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2020,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 102/6",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "agricultural_robots",
+   "mobile_industrial_logistics"
+  ],
+  "primary_embodied_category": "agricultural_robots",
+  "application_sectors": [
+   "manufacturing",
+   "agriculture_food",
+   "construction",
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "standards_interoperability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "conformity_assessment_certification"
+  ],
+  "named_instruments_referenced": [
+   "ISO 3691-4"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Commission Implementing Decision amending the list of harmonised machinery standards under Directive 2006/42/EC. It adds references conferring presumption of conformity, including EN ISO 18497 on safety of highly automated agricultural machines, and schedules withdrawal of superseded standards.",
+  "key_provisions_or_claims": [
+   "Adds 27 harmonised standard references to Annex I of Decision 2019/436, conferring presumption of conformity with Directive 2006/42/EC.",
+   "Includes EN ISO 18497:2018 on safety of highly automated agricultural machines.",
+   "Adds superseded standards to Annex III with withdrawal dates, mostly 2 October 2021.",
+   "Enters into force on publication; point (1) of Annex I applies from 2 October 2021."
+  ],
+  "confidence": 0.9
+ }
+}

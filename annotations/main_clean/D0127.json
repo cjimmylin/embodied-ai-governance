@@ -1,0 +1,93 @@
+{
+ "doc_id": "D0127",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "annotated_at": "2026-10-30T15:43:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029739800000000004,
+  "in": 2,
+  "out": 1652,
+  "cache_read": 11758,
+  "cache_create": 3010,
+  "api_ms": 8420,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML) – ISO/IEC 23053:2022",
+  "title_en": "Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML) – ISO/IEC 23053:2022",
+  "language": "en",
+  "authors_or_issuer": "ISO/IEC JTC 1/SC 42",
+  "issuer_type": "standards_body",
+  "pub_year": 2022,
+  "pub_month": 6,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "ISO website",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "transparency_explainability"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "ISO/IEC 22989"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "ISO store page for ISO/IEC 23053:2022, an international standard providing a conceptual framework and shared terminology for AI systems using machine learning. It aims to give a common vocabulary supporting communication, transparency and the development of further AI governance standards. No robotics-specific content.",
+  "key_provisions_or_claims": [
+   "Defines components and functions of ML-based AI systems within the AI ecosystem",
+   "Establishes unified vocabulary and model for ML systems",
+   "Covers deep learning as a subset of ML",
+   "Provides foundation for risk management, governance and conformity assessment standards",
+   "Published International Standard with amendments in development"
+  ],
+  "confidence": 0.85
+ }
+}
