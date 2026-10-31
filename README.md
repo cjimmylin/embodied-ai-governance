@@ -18,7 +18,7 @@ This folder is the fourth version of a quantitative study of how robots, autonom
 | Supplement (codebook, taxonomies, reliability, instrument lists, data dictionary, datasheet) | `report/supplement.md`, `.pdf` |
 | Review log and changelog v1 to v2 | `review/adversarial_review_and_changes.md` |
 | Change logs v2 to v3 and v3 to v4 for each narrative document, and numbers audits | `review/v3_changes_*.md`, `review/v4_changes_*.md`, `review/v*_numbers_audit*.md` |
-| Interactive dashboard | `dashboard/index.html` (standalone), `dashboard/artifact.html` (fragment for claude.ai) |
+| Interactive dashboard | `dashboard/index.html` (standalone), `dashboard/artifact.html` (fragment for claude.ai); public copy at https://claude.ai/artifact/YKsXJRaT7tSfRXseuo5kuZ |
 | Master table (one row per document) | `data/master_table.csv`, `data/master_table.xlsx`, `data/data_dictionary.csv` |
 | Round-2 inventory (every candidate, fetch outcome, whether content-analysed) | `data/round2_inventory.csv` |
 | Figures (light and dark, PNG and SVG) and their data | `figures/`, `figures/data/` (F50 to F52 are the round-2 figures) |
