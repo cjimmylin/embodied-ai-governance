@@ -23,7 +23,7 @@ This folder is the fourth version of a quantitative study of how robots, autonom
 | Round-2 inventory (every candidate, fetch outcome, whether content-analysed) | `data/round2_inventory.csv` |
 | Figures (light and dark, PNG and SVG) and their data | `figures/`, `figures/data/` (F50 to F52 are the round-2 figures) |
 | Tables | `tables/` (CSV and Markdown; T50 to T60 are the round-2 tables) |
-| Per-document model annotations with model, prompt hash, policy and cost | `annotations/` (`main`, `main_clean`, `gov_extended`, `round2`, `reliability_*`) and the exact model inputs in `annotations/*/_inputs/` |
+| Per-document model annotations with model, prompt hash, policy and cost | `annotations/` (`main`, `main_clean`, `gov_extended`, `round2`, `reliability_*`) and, in the package archive only (not in the public GitHub repository, because they are excerpts of the source documents), the exact model inputs in `annotations/*/_inputs/` |
 | Manual corrections and de-duplication | `data/manual_overrides.csv`, `data/manual_overrides_v4.csv`, `data/overrides_applied.csv`, `data/duplicates_removed.csv` |
 | Counting-unit, family and AI-content flags per document; run manifest | columns `instrument_unit`, `principal_instrument`, `family_key`, `family_size`, `ai_explicit`, `autonomy_terms` in `data/master_table.csv`; `data/run_manifest.json` |
 | Round-2 reliability (second model and re-run on 160 round-2 documents) and reliability variants | `data/reliability_fields_r2opus.csv`, `data/reliability_fields_r2rerun.csv`, `data/reliability_variants.csv`, `tables/S09b_reliability_variants.md` |
