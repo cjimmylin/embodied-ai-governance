@@ -35,7 +35,7 @@ The binding count rises because round 3 read 80 binding instruments that round 2
 - The narrative documents (brief, analysis report, paper, supplement) were not rewritten: their tables and figures are regenerated and a v5 note at the top says that their sentences still state the v4 counts. Rewriting and re-auditing the narrative is the next writing task.
 - No person has labelled any document; the audits are model-on-model. The validation kit is ready.
 - Technical standards are still read from their public scope pages.
-- The 86 blocked targets, the one not found and the paid standards need a person (`HUMAN_ASSISTANCE.md`).
+- The 74 blocked targets, the two not found and the paid standards need a person (`HUMAN_ASSISTANCE.md`).
 
 ## Cost of the round (API, in US dollars)
 
