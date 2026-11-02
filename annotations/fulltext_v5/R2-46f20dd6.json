@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-46f20dd6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:55:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.9135438,
+  "in": 2,
+  "out": 1866,
+  "cache_read": 11758,
+  "cache_create": 223426,
+  "api_ms": 26723,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "旅客自動車運送事業運輸規則",
+  "title_en": "Ordinance on Transport Rules for Passenger Motor Vehicle Transport Business",
+  "language": "ja",
+  "authors_or_issuer": "Ministry of Land, Infrastructure, Transport and Tourism (formerly Ministry of Transport), Japan",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "civil_liability",
+   "labor_employment",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "licensing_registration",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japan's ministerial ordinance setting operational safety rules for passenger motor vehicle carriers (buses, taxis, charter), including operations managers, roll calls, records and accident handling. Latest revision (Oct 2026) retains provisions on 'specified automated operation' (Level 4) passenger transport requiring specified automated operation safety personnel on board or remote monitoring.",
+  "key_provisions_or_claims": [
+   "Operators of specified automated passenger transport must keep sufficient numbers of specified automated operation safety personnel (Art. 15-2).",
+   "Vehicles must carry safety personnel or have passenger emergency-contact/stop devices plus remote monitoring by personnel at an office.",
+   "Operators must establish systems ensuring safety measures and must have personnel handle accidents, prioritizing passenger life protection.",
+   "Roll-call checks of safety personnel include confirming automated driving system settings (Art. 24).",
+   "Operators must arrange compensation measures for damage from vehicle operation (Art. 19-2) and keep accident records."
+  ],
+  "confidence": 0.85
+ }
+}

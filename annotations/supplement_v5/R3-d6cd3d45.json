@@ -1,0 +1,35 @@
+{
+ "doc_id": "R3-d6cd3d45",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:26:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0361656,
+  "in": 2,
+  "out": 610,
+  "cache_read": 2656,
+  "cache_create": 7449,
+  "api_ms": 5229,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The opinion is addressed to provincial, autonomous region and municipal governments and State Council ministries and agencies, with civil affairs departments and other departments tasked with implementation.",
+  "bound_parties_quote": "各省、自治区、直辖市人民政府，国务院各部委、各直属机构：",
+  "entry_into_force_date": "2016-10-23",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "国务院\n2016年10月23日\n（此件公开发布）",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2016,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "支持人工智能、脑机接口、虚拟现实等新技术在康复辅助器具产品中的集成应用，支持外骨骼机器人、照护和康复机器人、仿生假肢、虚拟现实康复训练设备等产品研发",
+  "confidence": 0.6
+ }
+}

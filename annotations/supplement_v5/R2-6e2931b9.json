@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-6e2931b9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:01:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0221336,
+  "in": 2,
+  "out": 514,
+  "cache_read": 2656,
+  "cache_create": 4181,
+  "api_ms": 4491,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The document is a Russian Federation working paper stating national positions on LAWS and imposes no obligations on any party.",
+  "bound_parties_quote": "",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Considerations for the report of the Group of Governmental Experts of the High Contracting Parties to the Convention on Certain Conventional Weapons on emerging technologies in the area of Lethal Autonomous Weapons Systems",
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-168d6293",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0186056,
+  "in": 2,
+  "out": 602,
+  "cache_read": 2656,
+  "cache_create": 3079,
+  "api_ms": 4146,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "individuals_or_general_public",
+   "operators_or_deployers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "No person, entity or state agency may use an unmanned aircraft system to conduct unwarranted surveillance or photograph individuals without consent.",
+  "bound_parties_quote": "no person, entity or state agency shall use an unmanned aircraft system to conduct unwarranted surveillance or observation of:",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2013,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "RELATING TO AERONAUTICS; TO DEFINE A TERM, TO ESTABLISH PROVISIONS RELATING TO RESTRICTIONS ON THE USE OF UNMANNED AIRCRAFT SYSTEMS",
+  "confidence": 0.85
+ }
+}

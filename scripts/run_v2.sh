@@ -1,6 +1,6 @@
 #!/bin/bash
 # Full v2 pipeline from stored annotations to reports. Waits for the two blind annotation runs first.
-cd /home/user/embodied-ai-governance-v4
+cd /home/user/embodied-ai-governance-v5
 until grep -q "^finished" logs/annotate_gov_extended.log && grep -q "^finished" logs/annotate_blind160.log; do sleep 20; done
 set -e
 python3 scripts/07_assemble.py > logs/v2_07.log 2>&1

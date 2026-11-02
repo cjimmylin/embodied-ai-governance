@@ -1,0 +1,97 @@
+{
+ "doc_id": "R3-002e5473",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:10:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.05386980000000001,
+  "in": 2,
+  "out": 1613,
+  "cache_read": 11758,
+  "cache_create": 9140,
+  "api_ms": 9580,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "中华人民共和国自然保护区条例",
+  "title_en": "Regulations of the People's Republic of China on Nature Reserves",
+  "language": "zh",
+  "authors_or_issuer": "中华人民共和国国务院 (State Council of the PRC)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "other"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "State Council Decree No. 830 promulgating the third revision of China's Nature Reserves Regulations, effective 15 March 2026. It sets rules for establishing, zoning, protecting and managing nature reserves, with penalties for violations. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Nature reserves divided into core protection zones and general control zones with differentiated controls",
+   "Human activities in core zones prohibited except listed exceptions",
+   "Forestry and grassland authority supervises nature reserves nationwide",
+   "Fines up to 5 million yuan for ecological damage",
+   "Effective 15 March 2026"
+  ],
+  "confidence": 0.97
+ }
+}

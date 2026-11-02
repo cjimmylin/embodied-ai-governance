@@ -1,0 +1,96 @@
+{
+ "doc_id": "R3-9e1544ad",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:15:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0251918,
+  "in": 2,
+  "out": 1640,
+  "cache_read": 11758,
+  "cache_create": 1903,
+  "api_ms": 7882,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ISO/IEC 42001:2023 Information technology - Artificial intelligence - Management system",
+  "title_en": "ISO/IEC 42001:2023 Information technology - Artificial intelligence - Management system",
+  "language": "en",
+  "authors_or_issuer": "ISO/IEC JTC 1/SC 42 Artificial Intelligence",
+  "issuer_type": "standards_body",
+  "pub_year": 2023,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "ISO Store",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "technical_standard",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "technical_standard_voluntary",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "ethics_principles",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "standards_interoperability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "ISO/IEC 42001"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "landing_or_index_page",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "ISO store catalogue page for ISO/IEC 42001:2023, the international standard specifying requirements for establishing, implementing, maintaining and continually improving an AI management system in any organization providing or using AI-based products or services. Only metadata is shown, not the full text.",
+  "key_provisions_or_claims": [
+   "Specifies requirements for an AI management system within an organization",
+   "Applies to any organization regardless of size, type or nature",
+   "Aims to help organizations develop, provide or use AI responsibly",
+   "Published 2023-12-18, edition 1.0, priced CHF 225"
+  ],
+  "confidence": 0.9
+ }
+}

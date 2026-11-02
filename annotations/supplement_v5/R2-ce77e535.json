@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-ce77e535",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.10446359999999999,
+  "in": 2,
+  "out": 623,
+  "cache_read": 2656,
+  "cache_create": 24491,
+  "api_ms": 5586,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The roadmap is a policy strategy that sets out measures assigned to government ministries and agencies (e.g., Digital Agency, METI, MLIT) but imposes no binding obligations on any party.",
+  "bound_parties_quote": "今後は、ガイドラインの素案を作成し、関係省庁・団体とも連携し、その品質向上と、これを用いるユーザー層の拡大を図る。【内閣府】",
+  "entry_into_force_date": "2025-06-13",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "2025 年 6 月 13 日\n\nデジタル社会推進会議／モビリティワーキンググループ",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "モビリティ・ロードマップ 2025 ― 新たなモビリティサービスの事業化に向けた基本的な考え方と施策 ―",
+  "confidence": 0.7
+ }
+}

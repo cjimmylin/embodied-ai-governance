@@ -1,0 +1,40 @@
+{
+ "doc_id": "R2-fdecea6c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1806836,
+  "in": 2,
+  "out": 705,
+  "cache_read": 2656,
+  "cache_create": 43341,
+  "api_ms": 6976,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "manufacturers_or_producers",
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "certification_or_notified_bodies",
+   "public_bodies_or_government",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The Ordinance imposes obligations on aircraft owners and users, applicants for certificates and approvals, manufacturers and certified business sites, air transport operators, pilots and unmanned aircraft operators, and airworthiness inspectors.",
+  "bound_parties_quote": "航空機の所有者は、まつ消登録を受けた場合には、すみやかに航空機登録証明書を返納しなければならない。",
+  "entry_into_force_date": "1952-07-31",
+  "applicability_date": "2026-10-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "昭和二十七年運輸省令第五十六号 27 056 1952-07-31 ... 2026-10-01 2026-10-01 508M60000800082 船員法施行規則等の一部を改正する省令",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "第十一章　無人航空機 第一節　無人航空機の登録（第二百三十六条―第二百三十六条の十一）",
+  "confidence": 0.5
+ }
+}

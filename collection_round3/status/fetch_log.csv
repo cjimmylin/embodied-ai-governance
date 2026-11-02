@@ -1,0 +1,468 @@
+candidate_id,requested_url,final_url,method,outcome,words,note,time
+AS-077,https://laws.e-gov.go.jp/law/502M60000800066,https://laws.e-gov.go.jp/law/502M60000800066,requests+html,too_short,0,,2026-11-02T17:47:34.470697
+AS-077,https://laws.e-gov.go.jp/law/502M60000800066,https://laws.e-gov.go.jp/law/502M60000800066,playwright,ok,353,,2026-11-02T17:47:42.884641
+IG-112,https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/300009p.pdf,,requests,http_403,0,,2026-11-02T17:47:56.334990
+AS-079,https://laws.e-gov.go.jp/api/2/law_data/327M50000800056?response_format=xml,https://laws.e-gov.go.jp/api/2/law_data/327M50000800056?response_format=xml,requests+xml,ok,17332,,2026-11-02T17:47:56.606540
+ML-016,https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-24.2,,requests,http_403,0,,2026-11-02T17:47:56.772270
+ML-032,https://uaelegislation.gov.ae/en/legislations/1587,https://uaelegislation.gov.ae/en/legislations/1587,playwright,too_short,123,,2026-11-02T17:48:02.377049
+AS-081,https://laws.e-gov.go.jp/api/2/law_data/504M60000800057?response_format=xml,https://laws.e-gov.go.jp/api/2/law_data/504M60000800057?response_format=xml,requests+xml,ok,254,,2026-11-02T17:48:02.698683
+AS-082,https://laws.e-gov.go.jp/api/2/law_data/504M60000800058?response_format=xml,https://laws.e-gov.go.jp/api/2/law_data/504M60000800058?response_format=xml,requests+xml,ok,241,,2026-11-02T17:48:03.479261
+AP-001,https://ffo.gov.in/sites/default/files/2024-04/drone_rules_2021_with_2023_amendment_1.pdf,,requests,error,0,"ProxyError(MaxRetryError(""HTTPSConnectionPool(host='ffo.gov.in', port=443): Max retries exceeded with url: /sites/default/files/2024-04/drone_rules_2021_with_2023_amendment_1.pdf (Caused by ProxyError",2026-11-02T17:48:03.664594
+AP-001,https://www.pib.gov.in/PressReleasePage.aspx?PRID=1749154,,requests,http_403,0,primary URL (press release),2026-11-02T17:48:04.330549
+AS-083,https://laws.e-gov.go.jp/api/2/law_data/504M60000800059?response_format=xml,https://laws.e-gov.go.jp/api/2/law_data/504M60000800059?response_format=xml,requests+xml,ok,305,,2026-11-02T17:48:04.467347
+ML-033,https://uaelegislation.gov.ae/en/legislations/2177,https://uaelegislation.gov.ae/en/legislations/2177,playwright,too_short,123,,2026-11-02T17:48:07.340661
+AP-002,https://www.civilaviation.gov.in/sites/default/files/2025-11/drone-amendment-rules-2022-dated-11-feb-2022.pdf,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T17:48:11.471476
+AS-117,https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0030147,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='law.moj.gov.tw', port=443): Max retries exceeded with url: /LawClass/LawAll.aspx?pcode=J0030147 (Caused by SSLError(SSLCertVerificationError(1, '[SSL:",2026-11-02T17:48:12.093385
+AP-003,https://www.civilaviation.gov.in/sites/default/files/2024-04/Drone%20%28Amendment%29%20Rules%2C%202023.pdf,,requests,http_403,0,primary URL,2026-11-02T17:48:12.423903
+AP-009,https://www.civilaviation.gov.in/node/3246,,requests,http_403,0,primary URL,2026-11-02T17:48:13.506273
+AP-087,https://www.legislation.sa.gov.au/lz?path=/v/a/2016/motor%20vehicles%20(trials%20of%20automotive%20technologies)%20amendment%20act%202016_18,,requests,http_403,0,primary URL,2026-11-02T17:48:14.115522
+AP-088,https://legislation.nsw.gov.au/view/html/inforce/current/act-2017-022,,requests,http_403,0,primary URL,2026-11-02T17:48:14.626660
+ML-041,https://www.gaca.gov.sa/-/media/Files/PDF/LawsAndRegulation/Aviation-Safety-and-Environmental-Sustainability/GACAR-Safety-Regulations/107-v4.pdf,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T17:48:22.074667
+AP-089,https://www.legislation.vic.gov.au/as-made/acts/road-safety-amendment-automated-vehicles-act-2018,https://www.legislation.vic.gov.au/as-made/acts/road-safety-amendment-automated-vehicles-act-2018,playwright,too_short,22,primary URL rendered (earlier 200 no text),2026-11-02T17:48:22.447966
+ML-049,https://fs.knesset.gov.il/24/law/24_lsr_622750.pdf,https://fs.knesset.gov.il/24/law/24_lsr_622750.pdf,requests+pdftotext,ok,10995,,2026-11-02T17:48:23.905496
+ML-053,https://new.kenyalaw.org/akn/ke/act/ln/2019/76/eng@2019-06-14,,requests,http_202,0,,2026-11-02T17:48:24.454390
+ML-075,https://pergamum.anac.gov.br/arquivos/RA2026-0805.pdf,https://pergamum.anac.gov.br/arquivos/RA2026-0805.pdf,requests+pdftotext,too_short,0,,2026-11-02T17:48:25.842733
+ML-076,https://pergamum.anac.gov.br/pergamum/vinculos/RBACE94EMD03.pdf,https://pergamum.anac.gov.br/pergamum/vinculos/RBACE94EMD03.pdf,requests+pdftotext,too_short,0,,2026-11-02T17:48:27.201683
+AP-101,https://www.legislation.govt.nz/act/public/2023/0010/latest/whole.html,https://www.legislation.govt.nz/act/public/2023/10/en/latest/#LMS49346,playwright,ok,162425,primary URL rendered,2026-11-02T17:48:31.596739
+EN-046,https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/523062017001/consolide,https://www.riigiteataja.ee/en/akt/523062017001,requests+html,too_short,2,primary URL English consolidated Traffic Act,2026-11-02T17:48:33.277169
+EN-086,https://iha.shgm.gov.tr/,https://iha.shgm.gov.tr/public/index?ReturnUrl=%2F,requests+html,too_short,0,primary URL portal,2026-11-02T17:48:35.473410
+ML-067,https://ncaa.com.na/rpas.php,https://ncaa.com.na/404.php,requests+html,too_short,62,primary URL,2026-11-02T17:48:37.774050
+ML-069,https://civil-aviation.govmu.org/Pages/DRONE/Drone-Requirement.aspx,https://civil-aviation.govmu.org/Pages/DRONE/Drone-Requirement.aspx,requests+html,too_short,0,primary URL,2026-11-02T17:48:39.765475
+EUA-218,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31986L0312,,requests,http_202,0,,2026-11-02T17:49:12.796119
+EUA-161,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023C0123(01),,requests,http_202,0,,2026-11-02T17:49:13.534112
+ML-079,https://www.argentina.gob.ar/normativa/nacional/norma-401986,https://www.argentina.gob.ar/normativa/nacional/norma-401986,playwright,too_short,90,,2026-11-02T17:49:13.538797
+EU-010,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1139,,requests,http_202,0,,2026-11-02T17:49:14.038326
+EU-014,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2144,,requests,http_202,0,,2026-11-02T17:49:14.338364
+EU-017,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R0858,,requests,http_202,0,,2026-11-02T17:49:14.804302
+EU-019,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023L2661,,requests,http_202,0,,2026-11-02T17:49:15.202030
+EU-020,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853,,requests,http_202,0,,2026-11-02T17:49:15.685844
+EU-021,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985L0374,,requests,http_202,0,,2026-11-02T17:49:16.327406
+EU-024,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2509,,requests,http_202,0,,2026-11-02T17:49:16.941098
+EU-025,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0048,,requests,http_202,0,,2026-11-02T17:49:17.245814
+ML-087,https://dinacia.gub.uy/sites/default/files/2024-12/RESOLUCION_DINACIA_291_2014.pdf,https://dinacia.gub.uy/sites/default/files/2024-12/RESOLUCION_DINACIA_291_2014.pdf,requests+pdftotext,ok,1253,,2026-11-02T17:49:17.419017
+EU-027,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0104,,requests,http_202,0,,2026-11-02T17:49:17.651438
+EU-029,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0030,,requests,http_202,0,,2026-11-02T17:49:17.998496
+AS-151,https://www.elegislation.gov.hk/hk/cap374,,requests,error,0,"TimeoutError('Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to ""https://www.elegislation.gov.hk/hk/cap374"", waiting until ""networkidle""\n')",2026-11-02T17:49:18.220248
+ST-199,https://unece.org/transport/vehicle-regulations-wp29/standards/addenda-1958-agreement-regulations-161-180,,requests,http_403,0,,2026-11-02T17:49:18.234365
+EU-030,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2854,,requests,http_202,0,,2026-11-02T17:49:18.497122
+MW-068,https://eur-lex.europa.eu/eli/reg/2025/2509/oj,,requests,http_202,0,,2026-11-02T17:49:18.972209
+AS-134,https://www.beijing.gov.cn/zhengce/zhengcefagui/202508/t20250804_4165802.html,https://www.beijing.gov.cn/zhengce/zhengcefagui/202508/t20250804_4165802.html,requests+html,too_short,6,,2026-11-02T17:49:20.995273
+AP-013,https://www.caa.lk/images/stories/pdf/implementing_standards/sn053.pdf,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='www.caa.lk', port=443): Max retries exceeded with url: /images/stories/pdf/implementing_standards/sn053.pdf (Caused by SSLError(SSLCertVerificationErr",2026-11-02T17:49:22.424741
+AS-100,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276607,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276607,requests+html,too_short,0,,2026-11-02T17:49:23.961150
+AP-003,https://www.mea.gov.in/Images/CPV/Drone-Amendment-Rules-2023-a.pdf,https://www.mea.gov.in/error.htm,requests+pdftotext,too_short,0,secondary URL MEA copy of gazette notification,2026-11-02T17:49:24.219925
+AP-002,https://www.civilaviation.gov.in/sites/default/files/2025-11/drone-amendment-rules-2022-dated-11-feb-2022.pdf,,requests,http_403,0,primary URL retry after connection reset,2026-11-02T17:49:25.391240
+AS-012,https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE5MjdmMDkzMTAxOTQ0ZWVmZDQ2NzM3ZTE=,https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE5MjdmMDkzMTAxOTQ0ZWVmZDQ2NzM3ZTE=,playwright,too_short,8,,2026-11-02T17:49:29.129257
+AP-011,https://pcaa.gov.pk/,https://pcaa.gov.pk/,requests+html,too_short,0,,2026-11-02T17:49:31.018976
+EN-046,https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/523062017001/consolide,https://www.riigiteataja.ee/en/404.html,playwright,too_short,18,primary URL rendered,2026-11-02T17:49:31.251023
+AP-036,https://www.thailand.go.th/issue-focus-detail/caat-issues-rules-for-agricultural-drone-use,https://www.thailand.go.th/issue-focus-detail/caat-issues-rules-for-agricultural-drone-use,requests+html,too_short,0,,2026-11-02T17:49:31.745039
+AP-020,https://sso.agc.gov.sg/Acts-Supp/16-2015,,requests,http_403,0,,2026-11-02T17:49:32.356368
+EN-002,https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl117s1648.pdf,https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl117s1648.pdf#/text/bgbl117s1648.pdf?_ts=1793641768153,playwright,ok,856,,2026-11-02T17:49:32.622520
+AS-117,https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=J0030147,https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=J0030147,playwright,too_short,0,,2026-11-02T17:49:39.575490
+ML-069,https://civil-aviation.govmu.org/Pages/DRONE/Drone-Requirement.aspx,https://civil-aviation.govmu.org/Pages/DRONE/Drone-Requirement.aspx,playwright,too_short,0,primary URL rendered,2026-11-02T17:49:44.150698
+AP-087,https://www.legislation.sa.gov.au/__legislation/lz/v/a/2016/motor%20vehicles%20(trials%20of%20automotive%20technologies)%20amendment%20act%202016_18/2016.18.un.pdf,,requests,http_403,0,SA legislation PDF path,2026-11-02T17:49:44.798872
+EN-007,https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl117s0683.pdf,https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl117s0683.pdf#/text/bgbl117s0683.pdf?_ts=1793641781771,playwright,ok,777,,2026-11-02T17:49:46.270869
+EN-021,https://www.fedlex.admin.ch/eli/cc/2025/50/de,https://www.fedlex.admin.ch/eli/cc/2025/50/de,playwright,ok,7294,,2026-11-02T17:49:54.213729
+EN-022,https://www.fedlex.admin.ch/eli/oc/2023/453/de,https://www.fedlex.admin.ch/eli/oc/2023/453/de,playwright,ok,3627,,2026-11-02T17:50:02.185587
+EN-024,https://www.fedlex.admin.ch/eli/cc/2022/802/de,https://www.fedlex.admin.ch/eli/cc/2022/802/de,playwright,ok,4749,,2026-11-02T17:50:10.791151
+EN-026,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205,playwright,too_short,2,,2026-11-02T17:50:19.329859
+EN-028,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-09-23;132,https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-09-23;132,playwright,too_short,2,,2026-11-02T17:50:27.829390
+AP-087,https://www.legislation.sa.gov.au/lz?path=/v/a/2016/motor%20vehicles%20(trials%20of%20automotive%20technologies)%20amendment%20act%202016_18,,requests,error,0,"TimeoutError('Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to ""https://www.legislation.sa.gov.au/lz?path=/v/a/2016/motor%20vehicles%20(trials%20of%20automotive%20technologies)%20ame",2026-11-02T17:50:30.687853
+AP-088,https://legislation.nsw.gov.au/view/pdf/asmade/act-2017-22,,requests,http_403,0,NSW as-made PDF path,2026-11-02T17:50:31.111944
+EN-038,https://www.ejustice.just.fgov.be/eli/arrete/2016/04/10/2016014132/justel,https://www.ejustice.just.fgov.be/eli/arrete/2016/04/10/2016014132/justel,playwright,ok,815,,2026-11-02T17:50:32.213202
+EU-130,https://lovdata.no/dokument/NL/lov/2017-12-15-112,,requests,http_405,0,,2026-11-02T17:50:32.928507
+EU-131,https://lovdata.no/dokument/SF/forskrift/2017-12-19-2240,,requests,http_405,0,,2026-11-02T17:50:33.960774
+EU-132,https://www.luftfartstilsynet.no/lover-og-regler/bsl-a/forskrift-om-ubemannede-luftfartoyer/,https://www.luftfartstilsynet.no/lover-og-regler/bsl-a/forskrift-om-ubemannede-luftfartoyer/,requests+html,too_short,15,,2026-11-02T17:50:34.871335
+EU-133,https://www.luftfartstilsynet.no/lover-og-regler/bsl-a/forskrift-om-luftfartoy-som-ikke-har-forer-om-bord-mv/,https://www.luftfartstilsynet.no/lover-og-regler/bsl-a/forskrift-om-luftfartoy-som-ikke-har-forer-om-bord-mv/,requests+html,too_short,36,,2026-11-02T17:50:36.247947
+EU-134,https://www.luftfartstilsynet.no/lover-og-regler/bsl-a/forskrift-om-u-space-og-krav-til-en-integrert-digital-luftfartspublikasjon-for-brukere-av-luftrommet/,https://www.luftfartstilsynet.no/lover-og-regler/bsl-a/forskrift-om-u-space-og-krav-til-en-integrert-digital-luftfartspublikasjon-for-brukere-av-luftrommet/,requests+html,too_short,35,,2026-11-02T17:50:37.416972
+EN-014,https://www.legifrance.gouv.fr/eli/ordonnance/2016/8/3/2016-1057/jo/texte,,requests,http_403,0,,2026-11-02T17:50:38.044439
+EN-015,https://www.legifrance.gouv.fr/eli/decret/2018/3/28/2018-211/jo/texte,,requests,http_403,0,,2026-11-02T17:50:38.626862
+EN-016,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039666574,,requests,http_403,0,,2026-11-02T17:50:39.322204
+EN-017,https://www.legifrance.gouv.fr/eli/ordonnance/2021/4/14/2021-443/jo/texte,,requests,http_403,0,,2026-11-02T17:50:40.051595
+EN-018,https://www.legifrance.gouv.fr/eli/decret/2021/6/29/2021-873/jo/texte,,requests,http_403,0,,2026-11-02T17:50:40.622596
+EN-019,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033293745,,requests,http_403,0,,2026-11-02T17:50:41.194180
+EN-050,https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031044385/,,requests,http_403,0,,2026-11-02T17:50:41.759607
+EN-051,https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036868691/,,requests,http_403,0,,2026-11-02T17:50:42.317210
+EN-052,https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000038496320,,requests,http_403,0,,2026-11-02T17:50:42.915194
+EN-053,https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043370884,,requests,http_403,0,,2026-11-02T17:50:43.475263
+EN-054,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046081252,,requests,http_403,0,,2026-11-02T17:50:44.180891
+EN-055,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046151685,,requests,http_403,0,,2026-11-02T17:50:44.769980
+EN-056,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046216833,,requests,http_403,0,,2026-11-02T17:50:45.340679
+EN-057,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046828949,,requests,http_403,0,,2026-11-02T17:50:46.310005
+EN-058,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047867363,,requests,http_403,0,,2026-11-02T17:50:46.866915
+EN-059,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050662872,,requests,http_403,0,,2026-11-02T17:50:47.428120
+EN-060,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051484894,,requests,http_403,0,,2026-11-02T17:50:48.030123
+EN-075,https://legilux.public.lu/eli/etat/leg/agc/2024/10/25/a447/jo,https://legilux.public.lu/eli/etat/leg/agc/2024/10/25/a447/jo,playwright,ok,691,,2026-11-02T17:50:57.684305
+EN-076,https://legilux.public.lu/eli/etat/leg/rgd/2025/12/22/a629/jo,https://legilux.public.lu/eli/etat/leg/rgd/2025/12/22/a629/jo,playwright,ok,1007,,2026-11-02T17:51:05.496805
+EN-084,https://files.diariodarepublica.pt/1s/2018/08/14900/0351003512.pdf,https://diariodarepublica.pt/dr/error,requests+pdftotext,too_short,0,,2026-11-02T17:51:06.781274
+EN-085,https://files.diariodarepublica.pt/2s/2016/12/23900/3654636553.pdf,https://diariodarepublica.pt/dr/error,requests+pdftotext,too_short,0,,2026-11-02T17:51:07.959943
+IG-112,https://www.defense.gov/News/Releases/Release/Article/3278076/dod-updates-autonomy-in-weapon-systems-directive/,,requests,http_403,0,"secondary: DoD news release, not the directive",2026-11-02T17:51:13.236018
+ML-016,https://www.legisquebec.gouv.qc.ca/en/document/cs/C-24.2,,requests,http_403,0,,2026-11-02T17:51:13.560049
+ML-032,https://www.gcaa.gov.ae/en/Pages/aboutgcaa/Laws.aspx,https://www.gcaa.gov.ae/en/Pages/aboutgcaa/Laws.aspx,requests+html,too_short,0,,2026-11-02T17:51:16.703755
+AP-088,https://legislation.nsw.gov.au/view/html/inforce/current/act-2017-022,,requests,error,0,"TimeoutError('Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to ""https://legislation.nsw.gov.au/view/html/inforce/current/act-2017-022"", waiting until ""networkidle""\n')",2026-11-02T17:51:16.977795
+ML-041,https://new.gaca.gov.sa/-/media/Files/PDF/LawsAndRegulation/Aviation-Safety-and-Environmental-Sustainability/GACAR-Safety-Regulations/Part-107---Non-recreational-civil-small-unmanned-aircraft-systems.pdf,,requests,error,0,"ProxyError(MaxRetryError(""HTTPSConnectionPool(host='new.gaca.gov.sa', port=443): Max retries exceeded with url: /-/media/Files/PDF/LawsAndRegulation/Aviation-Safety-and-Environmental-Sustainability/GA",2026-11-02T17:51:17.128579
+AS-134,https://www.beijing.gov.cn/zhengce/zhengcefagui/202508/t20250804_4165802.html,https://www.beijing.gov.cn/zhengce/zhengcefagui/202508/t20250804_4165802.html,playwright,too_short,0,,2026-11-02T17:51:17.325142
+AP-089,https://www.legislation.vic.gov.au/as-made/acts/road-safety-amendment-automated-vehicles-act-2018,https://www.legislation.vic.gov.au/as-made/acts/road-safety-amendment-automated-vehicles-act-2018,requests+html,too_short,22,primary URL plain requests,2026-11-02T17:51:18.739097
+EN-046,https://www.riigiteataja.ee/akt/117032017001,https://www.riigiteataja.ee/akt/117032017001,requests+html,too_short,2,secondary URL Estonian text,2026-11-02T17:51:19.877192
+ML-053,https://new.kenyalaw.org/akn/ke/act/ln/2019/76/eng@2019-06-14,https://kenyalaw.org/akn/ke/act/ln/2019/76/eng@2019-06-14,playwright,ok,446,,2026-11-02T17:51:24.401844
+ML-075,https://www.gov.br/anac/pt-br/assuntos/drones,,requests,error,0,"ProxyError(MaxRetryError(""HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /anac/pt-br/assuntos/drones (Caused by ProxyError('Unable to connect to proxy', RemoteDisconn",2026-11-02T17:51:25.435569
+AS-100,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=71669&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=71669&lang=ENG,requests+html,ok,8650,,2026-11-02T17:51:26.382385
+AS-013,https://www.sz.gov.cn/zfgb/2022/gb1250/content/post_9967816.html,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='www.sz.gov.cn', port=443): Max retries exceeded with url: /zfgb/2022/gb1250/content/post_9967816.html (Caused by SSLError(SSLError(1, '[SSL: BAD_ECPOI",2026-11-02T17:51:27.612797
+ML-079,https://www.argentina.gob.ar/normativa/nacional/decreto-663-2024-401986/texto,,requests,http_500,0,,2026-11-02T17:51:31.035516
+ML-096,https://www.dgac.gob.cl/,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T17:51:38.288752
+EU-129,https://finlex.fi/fi/lainsaadanto/2014/864,https://www.finlex.fi/fi/lainsaadanto/2014/864,playwright,ok,21648,,2026-11-02T17:51:41.412982
+AP-011,https://pcaa.gov.pk/,https://pcaa.gov.pk/,playwright,ok,1781,,2026-11-02T17:51:42.175570
+US-096,https://leg.colorado.gov/bills/sb17-213,https://leg.colorado.gov/bills/sb17-213,playwright,ok,895,,2026-11-02T17:51:43.019530
+US-098,https://lims.dccouncil.gov/Legislation/B25-0709,https://lims.dccouncil.gov/Legislation/B25-0709,playwright,ok,586,,2026-11-02T17:51:47.826247
+EN-071,http://publication.pravo.gov.ru/Document/View/0001202007310024,http://publication.pravo.gov.ru/Document/View/0001202007310024,playwright,too_short,56,,2026-11-02T17:51:49.255075
+EU-136,https://www.retsinformation.dk/eli/lta/2024/1312,https://www.retsinformation.dk/eli/lta/2024/1312,playwright,too_short,49,,2026-11-02T17:51:54.198777
+US-105,https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH1/SECT49-117/,https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH1/SECT49-117/,playwright,too_short,0,,2026-11-02T17:51:55.167878
+US-106,https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH2/SECT21-213/,https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH2/SECT21-213/,playwright,too_short,0,,2026-11-02T17:52:02.277399
+US-112,https://www.legis.iowa.gov/docs/code/321.492B.pdf,https://www.legis.iowa.gov/docs/code/321.492B.pdf,requests+pdftotext,too_short,57,,2026-11-02T17:52:03.192380
+US-134,https://gc.nh.gov/rsa/html/XXI/265/265-163.htm,,requests,error,0,"ProxyError(MaxRetryError(""HTTPSConnectionPool(host='gc.nh.gov', port=443): Max retries exceeded with url: /rsa/html/XXI/265/265-163.htm (Caused by ProxyError('Unable to connect to proxy', RemoteDiscon",2026-11-02T17:52:03.616750
+US-143,https://ndlegis.gov/cencode/t29c29-4.html,https://ndlegis.gov/cencode/t29c29-4.html,requests+html,too_short,46,,2026-11-02T17:52:04.119356
+US-155,https://webserver.rilegislature.gov/Statutes/TITLE1/1-8/INDEX.htm,https://webserver.rilegislature.gov/Statutes/TITLE1/1-8/INDEX.htm,playwright,too_short,21,,2026-11-02T17:52:07.247304
+US-176,https://app.leg.wa.gov/RCW/default.aspx?cite=46.92&full=true,https://app.leg.wa.gov/RCW/default.aspx?cite=46.92&full=true,requests+html,ok,896,,2026-11-02T17:52:08.105409
+US-177,https://app.leg.wa.gov/RCW/default.aspx?cite=46.75&full=true,https://app.leg.wa.gov/RCW/default.aspx?cite=46.75&full=true,requests+html,ok,1356,,2026-11-02T17:52:09.169222
+US-182,https://docs.legis.wisconsin.gov/code/executive_orders/2011_scott_walker/2017-245.pdf,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T17:52:23.391515
+REF-07,https://webstore.iec.ch/en/publication/5515,https://webstore.iec.ch/en/publication/5515,requests+html,ok,333,scope page only,2026-11-02T17:52:23.949565
+REF-11,https://standards.ieee.org/ieee/7001/6929/,https://standards.ieee.org/ieee/7001/6929/,requests+html,ok,255,scope page only,2026-11-02T17:52:24.439032
+REF-15,https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449,https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449,requests+html,too_short,0,,2026-11-02T17:52:25.174450
+REF-06,https://www.iso.org/standard/62996.html,,requests,http_403,0,scope page only,2026-11-02T17:52:25.718831
+REF-08,https://www.iso.org/standard/68383.html,,requests,http_403,0,scope page only,2026-11-02T17:52:26.085592
+REF-09,https://www.iso.org/standard/77490.html,,requests,http_403,0,scope page only,2026-11-02T17:52:26.461478
+REF-10,https://www.iso.org/standard/42001,,requests,http_403,0,scope page only,2026-11-02T17:52:26.791520
+REF-12,https://www.a3automate.org/standards/ansi-ria-r15-06-2012/,,requests,error,0,"SSLError(MaxRetryError('HTTPSConnectionPool(host=\'www.a3automate.org\', port=443): Max retries exceeded with url: /standards/ansi-ria-r15-06-2012/ (Caused by SSLError(SSLCertVerificationError(1, ""[SS",2026-11-02T17:52:27.297828
+REF-13,https://www.a3automate.org/standards/ansi-a3-r15-08-1-2020/,,requests,error,0,"SSLError(MaxRetryError('HTTPSConnectionPool(host=\'www.a3automate.org\', port=443): Max retries exceeded with url: /standards/ansi-a3-r15-08-1-2020/ (Caused by SSLError(SSLCertVerificationError(1, ""[S",2026-11-02T17:52:27.601466
+US-086,https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=38750.,,requests,http_403,0,,2026-11-02T17:52:27.975581
+US-093,https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1708.8.,,requests,http_403,0,,2026-11-02T17:52:28.325413
+US-092,https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=LAB&division=2.&title=&part=8.6.&chapter=&article=,,requests,http_403,0,,2026-11-02T17:52:28.685236
+EUA-218,https://publications.europa.eu/resource/celex/31986L0312,http://publications.europa.eu/resource/cellar/8a79abda-1ecf-48df-a8d4-fee36f267ee1.0008/rdf/object/full,requests+xml,too_short,72,,2026-11-02T17:52:29.648839
+EUA-161,https://publications.europa.eu/resource/celex/32023C0123(01),,requests,http_404,0,,2026-11-02T17:52:30.434063
+EU-010,https://publications.europa.eu/resource/celex/32018R1139,http://publications.europa.eu/resource/cellar/71e4e668-a5cf-11e8-99ee-01aa75ed71a1.0006.03/DOC_1,requests+html,ok,71726,,2026-11-02T17:52:32.375956
+EU-014,https://publications.europa.eu/resource/celex/32019R2144,http://publications.europa.eu/resource/cellar/bfd5eba8-2058-11ea-95ab-01aa75ed71a1.0006.03/DOC_1,requests+html,ok,17931,,2026-11-02T17:52:34.456643
+US-090,https://openstates.org/ca/bills/20232024/AB1777/,https://pluralpolicy.com/app/legislative-tracking/bill/details/state-ca-20232024-ab1777/2446847,playwright,ok,3333,,2026-11-02T17:52:37.052344
+EU-017,https://publications.europa.eu/resource/celex/32018R0858,http://publications.europa.eu/resource/cellar/d828c80f-6f9d-11e8-9483-01aa75ed71a1.0006.03/DOC_1,requests+html,too_short,3,,2026-11-02T17:52:37.207543
+EU-019,https://publications.europa.eu/resource/celex/32023L2661,http://publications.europa.eu/resource/cellar/aba7930a-8f22-11ee-8aa6-01aa75ed71a1.0006.03/DOC_1,requests+html,ok,14875,,2026-11-02T17:52:38.412995
+EU-020,https://publications.europa.eu/resource/celex/32024L2853,http://publications.europa.eu/resource/cellar/10bdc8d8-a54e-11ef-85f0-01aa75ed71a1.0006.03/DOC_1,requests+html,ok,13926,,2026-11-02T17:52:39.859668
+EU-021,https://publications.europa.eu/resource/celex/31985L0374,http://publications.europa.eu/resource/cellar/b21bef4e-b528-49e2-a0f9-142dc503969a.0008.01/DOC_1,requests+html,ok,3108,,2026-11-02T17:52:40.943069
+EU-024,https://publications.europa.eu/resource/celex/32025R2509,http://publications.europa.eu/resource/cellar/f2294563-d703-11f0-8da2-01aa75ed71a1.0006.03/DOC_1,requests+html,ok,37434,,2026-11-02T17:52:42.441612
+EU-025,https://publications.europa.eu/resource/celex/32009L0048,http://publications.europa.eu/resource/cellar/ab7917e6-0d8a-42e4-b4df-0bbd7d927cc1.0006.02/DOC_1,requests+html,ok,19394,,2026-11-02T17:52:43.918367
+US-094,https://openstates.org/ca/bills/20212022/AB481/,https://pluralpolicy.com/app/legislative-tracking/bill/details/state-ca-20212022-ab481/786392,playwright,ok,3736,,2026-11-02T17:52:44.588311
+EU-027,https://publications.europa.eu/resource/celex/32009L0104,http://publications.europa.eu/resource/cellar/82c0fd2c-cfad-435c-8287-6f4bda656d7d.0006.02/DOC_1,requests+html,ok,6880,,2026-11-02T17:52:45.417662
+EU-029,https://publications.europa.eu/resource/celex/32022R0030,http://publications.europa.eu/resource/cellar/5f9d2be0-734b-11ec-9136-01aa75ed71a1.0006.03/DOC_1,requests+html,ok,3246,,2026-11-02T17:52:46.383312
+EU-030,https://publications.europa.eu/resource/celex/32023R2854,http://publications.europa.eu/resource/cellar/ef51c6ab-a06c-11ee-b164-01aa75ed71a1.0006.03/DOC_1,requests+html,ok,45965,,2026-11-02T17:52:48.083405
+MW-068,https://publications.europa.eu/resource/celex/32025R2509,http://publications.europa.eu/resource/cellar/f2294563-d703-11f0-8da2-01aa75ed71a1.0006.03/DOC_1,requests+html,ok,37434,,2026-11-02T17:52:49.650157
+REF-03,https://publications.europa.eu/resource/celex/32024L2853,http://publications.europa.eu/resource/cellar/10bdc8d8-a54e-11ef-85f0-01aa75ed71a1.0006.03/DOC_1,requests+html,ok,13926,,2026-11-02T17:52:50.806736
+EN-028,https://www.gazzettaufficiale.it/eli/id/2025/09/25/25G00143/sg,https://www.gazzettaufficiale.it/eli/id/2025/09/25/25G00143/sg,requests+html,too_short,77,,2026-11-02T17:52:51.731382
+EN-026,https://www.gazzettaufficiale.it/eli/id/2017/12/29/17G00222/sg,https://www.gazzettaufficiale.it/eli/id/2017/12/29/17G00222/sg,requests+html,too_short,122,,2026-11-02T17:52:52.426150
+US-095,https://openstates.org/ca/bills/20252026/SB243/,https://pluralpolicy.com/app/legislative-tracking/bill/details/state-ca-20252026-sb243/2805219,playwright,ok,1387,,2026-11-02T17:52:53.140518
+EU-130,https://lovdata.no/dokument/NL/lov/2017-12-15-112,https://lovdata.no/dokument/NL/lov/2017-12-15-112,playwright,too_short,19,,2026-11-02T17:52:56.257500
+EU-132,https://lovdata.no/dokument/SF/forskrift/2024-11-01-2777,,requests,http_405,0,,2026-11-02T17:52:56.874408
+EU-133,https://www.luftfartstilsynet.no/lover-og-regler/bsl-a/forskrift-om-luftfartoy-som-ikke-har-forer-om-bord-mv/,https://www.luftfartstilsynet.no/lover-og-regler/bsl-a/forskrift-om-luftfartoy-som-ikke-har-forer-om-bord-mv/,playwright,too_short,36,,2026-11-02T17:53:03.029397
+EN-084,https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2018-115898563,https://diariodarepublica.pt/dr/error,playwright,too_short,0,,2026-11-02T17:53:10.915543
+AP-002,https://www.civilaviation.gov.in/sites/default/files/2023-10/Drone%20%28Amendment%29%20Rules%2C%202022%20dated%2011%20Feb%202022_0.pdf,,requests,http_403,0,alternate MoCA path,2026-11-02T17:53:11.094877
+AP-002,https://civilaviation.gov.in/sites/default/files/2025-11/drone-amendment-rules-2022-dated-11-feb-2022.pdf,,requests,http_403,0,alternate MoCA path,2026-11-02T17:53:13.479891
+AP-003,https://civilaviation.gov.in/sites/default/files/2024-04/Drone%20%28Amendment%29%20Rules%2C%202023.pdf,,requests,http_403,0,alternate path,2026-11-02T17:53:15.991414
+AP-003,https://www.mea.gov.in/Images/CPV/Drone-Amendment-Rules-2023-a.pdf,https://www.mea.gov.in/error.htm,requests+pdftotext,too_short,0,alternate path,2026-11-02T17:53:17.591893
+AP-001,https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/jan/doc202212810701.pdf,https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/jan/doc202212810701.pdf,requests+pdftotext,ok,3286,candidate official copy of Drone Rules 2021,2026-11-02T17:53:18.441155
+EN-085,https://diariodarepublica.pt/dr/detalhe/regulamento/1093-2016-105507404,https://diariodarepublica.pt/dr/error,playwright,too_short,0,,2026-11-02T17:53:19.283500
+EN-071,http://publication.pravo.gov.ru/Document/Text/0001202007310024,,requests,http_500,0,,2026-11-02T17:53:20.051443
+AP-009,https://civilaviation.gov.in/node/3246,,requests,http_403,0,no-www variant,2026-11-02T17:53:20.800221
+EN-071,http://www.kremlin.ru/acts/bank/45800,http://www.kremlin.ru/acts/bank/45800,requests+html,ok,354,,2026-11-02T17:53:21.111733
+AP-087,https://www.legislation.sa.gov.au/_legislation-documents/lz/v/a/2016/motor-vehicles-trials-of-new-automotive-technologies-amendment-act-2016_10/2016.10.un.pdf,,requests,http_403,0,"SA legislation document path, Act No 10 of 2016",2026-11-02T17:53:21.298342
+EU-136,https://www.retsinformation.dk/api/document/eli/lta/2024/1312,https://www.retsinformation.dk/api/document/eli/lta/2024/1312,requests+html,too_short,0,,2026-11-02T17:53:21.681940
+AP-087,https://www.legislation.sa.gov.au/_legislation-documents/lz/v/a/2016/motor-vehicles-trials-of-new-automotive-technologies-amendment-act-2016_10/2016.10.un.rtf,,requests,http_403,0,"SA legislation document path, Act No 10 of 2016",2026-11-02T17:53:21.760601
+AP-088,https://legislation.nsw.gov.au/view/pdf/asmade/act-2017-41,,requests,http_403,0,NSW Act No 41 of 2017 (target listed No 22),2026-11-02T17:53:22.257916
+REF-01,https://www.gesetze-im-internet.de/stvg/BJNR004370909.html,https://www.gesetze-im-internet.de/stvg/BJNR004370909.html,requests+html,ok,42034,,2026-11-02T17:53:22.793416
+AP-088,https://legislation.nsw.gov.au/view/whole/pdf/repealed/2024-12-18/act-2017-041,,requests,http_403,0,NSW Act No 41 of 2017 (target listed No 22),2026-11-02T17:53:23.050656
+AP-088,https://www.parliament.nsw.gov.au/bill/files/3415/Passed%20by%20both%20Houses.pdf,,requests,http_403,0,NSW Act No 41 of 2017 (target listed No 22),2026-11-02T17:53:23.454484
+ML-032,https://uaelegislation.gov.ae/en/legislations/1587/download,,requests,http_403,0,,2026-11-02T17:53:48.839827
+ML-033,https://uaelegislation.gov.ae/en/legislations/2177/download,,requests,http_403,0,,2026-11-02T17:53:49.723922
+ML-075,https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-100,https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-100,requests+html,ok,9426,,2026-11-02T17:53:51.891630
+ML-076,https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-e-94,https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-e-94,requests+html,ok,8444,,2026-11-02T17:53:54.368993
+ML-079,https://servicios.infoleg.gob.ar/infolegInternet/anexos/400000-404999/401986/norma.htm,https://servicios.infoleg.gob.ar/infolegInternet/anexos/400000-404999/401986/norma.htm,requests+html,ok,2624,,2026-11-02T17:53:55.448123
+EN-086,https://web.shgm.gov.tr/documents/sivilhavacilik/files/mevzuat/SHT-IHA_Rev-05.pdf,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='web.shgm.gov.tr', port=443): Max retries exceeded with url: /documents/sivilhavacilik/files/mevzuat/SHT-IHA_Rev-05.pdf (Caused by SSLError(SSLEOFError",2026-11-02T17:53:55.532568
+US-096,https://leg.colorado.gov/sites/default/files/2017a_213_signed.pdf,https://content.leg.colorado.gov/sites/default/files/2017a_213_signed.pdf,requests+pdftotext,ok,1179,,2026-11-02T17:53:56.567593
+ML-067,https://ncaa.com.na/fullarticle.php?for=83,https://ncaa.com.na/fullarticle.php?for=83,requests+html,ok,502,NCAA RPAS page,2026-11-02T17:53:57.533692
+US-105,https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH1/SECT49-117/,https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH1/SECT49-117/,requests+html,too_short,0,,2026-11-02T17:53:57.703791
+US-106,https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH2/SECT21-213/,https://legislature.idaho.gov/statutesrules/idstat/Title21/T21CH2/SECT21-213/,requests+html,too_short,0,,2026-11-02T17:53:58.971172
+ML-067,https://ncaa.com.na/index.php/latest-news/69-remotely-piloted-aircraft-systems-rpas-or-drones,https://ncaa.com.na/,requests+html,ok,837,NCAA RPAS page,2026-11-02T17:54:00.135095
+US-108,https://iga.in.gov/laws/2024/ic/titles/9#9-21-11.5,https://iga.in.gov/laws/2024/ic/titles/9#9-21-11.5,playwright,too_short,0,,2026-11-02T17:54:02.306356
+US-109,https://iga.in.gov/laws/2024/ic/titles/35#35-33-5-9,https://iga.in.gov/laws/2024/ic/titles/35#35-33-5-9,playwright,too_short,0,,2026-11-02T17:54:05.700778
+EN-046,https://www.riigiteataja.ee/akt/117032017001,https://www.riigiteataja.ee/et/404.html,playwright,too_short,15,secondary URL rendered,2026-11-02T17:54:06.161595
+US-112,https://www.legis.iowa.gov/docs/publications/LGE/85/HF2289.pdf,https://www.legis.iowa.gov/docs/publications/LGE/85/HF2289.pdf,requests+pdftotext,ok,268,enrolled HF 2289 (2014) which enacted 321.492B; code section itself is under 150 words,2026-11-02T17:54:06.376221
+EN-046,https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/523062017001,https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/523062017001,requests+html,too_short,2,primary without /consolide,2026-11-02T17:54:07.332987
+US-115,https://www.legis.la.gov/legis/BillInfo.aspx?s=19RS&b=HB455,https://www.legis.la.gov/legis/BillInfo.aspx?s=19RS&b=HB455,playwright,too_short,0,,2026-11-02T17:54:10.267696
+US-116,https://www.legis.la.gov/legis/BillInfo.aspx?s=21RS&b=SB147,https://www.legis.la.gov/legis/BillInfo.aspx?s=21RS&b=SB147,playwright,too_short,0,,2026-11-02T17:54:28.251545
+US-119,https://mgaleg.maryland.gov/2021RS/Chapters_noln/CH_351_sb0726e.pdf,https://mgaleg.maryland.gov/2021RS/Chapters_noln/CH_351_sb0726e.pdf,requests+pdftotext,ok,2147,,2026-11-02T17:54:28.745844
+US-120,https://mgaleg.maryland.gov/2015RS/bills/sb/sb0370E.pdf,https://mgaleg.maryland.gov/2015RS/bills/sb/sb0370E.pdf,requests+pdftotext,ok,2157,,2026-11-02T17:54:29.222239
+US-122,https://www.legislature.mi.gov/documents/mcl/pdf/mcl-257-665.pdf,,requests,http_403,0,,2026-11-02T17:54:30.721632
+US-123,https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-Act-436-of-2016,,requests,error,0,"Error('Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-Act-436-of-2016\nCall log:\n  - navigating to ""https://www.legislature.mi.gov/Laws/MCL?o",2026-11-02T17:54:32.927835
+US-134,https://www.gencourt.state.nh.us/rsa/html/XXI/265/265-163.htm,,requests,error,0,"ProxyError(MaxRetryError(""HTTPSConnectionPool(host='gc.nh.gov', port=443): Max retries exceeded with url: /rsa/html/XXI/265/265-163.htm (Caused by ProxyError('Unable to connect to proxy', RemoteDiscon",2026-11-02T17:54:33.633404
+US-135,https://www.nmlegis.gov/Sessions/21%20Regular/final/HB0270.pdf,https://www.nmlegis.gov/Sessions/21%20Regular/final/HB0270.pdf,requests+pdftotext,ok,3364,,2026-11-02T17:54:34.669339
+US-137,https://www.nysenate.gov/legislation/laws/GBS/1700,,requests,error,0,"TimeoutError('Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to ""https://www.nysenate.gov/legislation/laws/GBS/1700"", waiting until ""networkidle""\n')",2026-11-02T17:55:20.603242
+US-143,https://ndlegis.gov/cencode/t29c29-4.pdf,https://ndlegis.gov/cencode/t29c29-4.pdf,requests+pdftotext,ok,1409,,2026-11-02T17:55:21.110484
+US-145,http://webserver1.lsb.state.ok.us/cf_pdf/2021-22%20ENR/SB/SB1541%20ENR.PDF,,requests,http_400,0,,2026-11-02T17:55:21.428187
+US-146,http://webserver1.lsb.state.ok.us/cf_pdf/2021-22%20ENR/SB/SB706%20ENR.PDF,http://webserver1.lsb.state.ok.us/cf_pdf/2021-22%20ENR/SB/SB706%20ENR.PDF,requests+pdftotext,ok,857,,2026-11-02T17:55:21.933287
+US-148,https://olis.oregonlegislature.gov/liz/2018R1/Downloads/MeasureDocument/HB4063/Enrolled,https://olis.oregonlegislature.gov/liz/2018R1/Downloads/MeasureDocument/HB4063/Enrolled,requests+pdftotext,ok,919,,2026-11-02T17:55:22.683119
+US-149,https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4127/Enrolled,https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4127/Enrolled,requests+pdftotext,ok,1931,,2026-11-02T17:55:23.662952
+EUA-218,https://publications.europa.eu/resource/cellar/8a79abda-1ecf-48df-a8d4-fee36f267ee1.0008.01/DOC_1,https://publications.europa.eu/resource/cellar/8a79abda-1ecf-48df-a8d4-fee36f267ee1.0008.01/DOC_1,requests+pdftotext,ok,575,,2026-11-02T17:55:24.010633
+US-155,https://webserver.rilegislature.gov/Statutes/TITLE1/1-8/1-8-1.htm,https://webserver.rilegislature.gov/Statutes/TITLE1/1-8/1-8-1.htm,requests+html,too_short,55,,2026-11-02T17:55:24.414018
+EUA-218,https://publications.europa.eu/resource/cellar/8a79abda-1ecf-48df-a8d4-fee36f267ee1.0008.02/DOC_1,,requests,http_404,0,,2026-11-02T17:55:24.778446
+EUA-218,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:31986L0312,,requests,http_202,0,,2026-11-02T17:55:25.096800
+EUA-161,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023C0123(01),,requests,http_202,0,,2026-11-02T17:55:25.599966
+EUA-161,https://publications.europa.eu/resource/oj/JOC_2023_023_R_0001,http://publications.europa.eu/resource/cellar/8ccd8232-9ac0-11ed-b508-01aa75ed71a1.0006.03/DOC_1,requests+html,ok,3247,,2026-11-02T17:55:27.048095
+EU-017,https://publications.europa.eu/resource/cellar/d828c80f-6f9d-11e8-9483-01aa75ed71a1.0006.03/DOC_2,,requests,http_404,0,,2026-11-02T17:55:27.866467
+EU-017,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858,,requests,http_202,0,,2026-11-02T17:55:28.188645
+EN-028,https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2025-09-25&atto.codiceRedazionale=25G00143,https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2025-09-25&atto.codiceRedazionale=25G00143,requests+html,too_short,76,,2026-11-02T17:55:29.219785
+US-157,https://sdlegislature.gov/Statutes/32-41,https://sdlegislature.gov/Statutes/32-41,playwright,ok,1638,,2026-11-02T17:55:29.928412
+EN-026,https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2017-12-29&atto.codiceRedazionale=17G00222,https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2017-12-29&atto.codiceRedazionale=17G00222,requests+html,too_short,121,,2026-11-02T17:55:30.143456
+EN-038,https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2016041006&table_name=loi,,requests,error,0,"ProxyError(MaxRetryError(""HTTPSConnectionPool(host='www.ejustice.just.fgov.be', port=443): Max retries exceeded with url: /cgi_loi/change_lg.pl?language=fr&la=F&cn=2016041006&table_name=loi (Caused by",2026-11-02T17:55:31.065500
+EN-038,https://www.ejustice.just.fgov.be/eli/arrete/2016/04/10/2016014132/moniteur,,requests,error,0,"ProxyError(MaxRetryError(""HTTPSConnectionPool(host='www.ejustice.just.fgov.be', port=443): Max retries exceeded with url: /eli/arrete/2016/04/10/2016014132/moniteur (Caused by ProxyError('Unable to co",2026-11-02T17:55:32.142563
+AS-013,https://www.sz.gov.cn/zfgb/2022/gb1250/content/post_9967816.html,https://www.sz.gov.cn/zfgb/2022/gb1250/content/post_9967816.html,playwright,too_short,0,,2026-11-02T17:55:33.262796
+EN-071,http://static.kremlin.ru/media/acts/files/0001202007310024.pdf,,requests,http_404,0,,2026-11-02T17:55:33.426070
+ML-067,https://ncaa.com.na/fullarticle.php?for=83,https://ncaa.com.na/fullarticle.php?for=83,requests+html,ok,502,NCAA RPAS article page (re-fetch; earlier fetch overwritten by homepage redirect),2026-11-02T17:55:33.842887
+EN-071,http://publication.pravo.gov.ru/Document/GetFile/0001202007310024?type=pdf,,requests,http_404,0,,2026-11-02T17:55:33.895499
+US-158,https://sdlegislature.gov/Statutes/50-15,https://sdlegislature.gov/Statutes/50-15,playwright,ok,1426,,2026-11-02T17:55:35.360358
+AP-009,https://civilaviation.gov.in/node/3286,,requests,http_403,0,MoCA node 3286 (Telangana BVLOS conditional exemption; target listed node 3246),2026-11-02T17:55:36.513841
+AP-009,https://www.civilaviation.gov.in/node/3286,,requests,http_403,0,MoCA node 3286 (Telangana BVLOS conditional exemption; target listed node 3246),2026-11-02T17:55:37.392563
+AP-009,https://civilaviation.gov.in/index.php/node/3286,,requests,http_403,0,MoCA node 3286 (Telangana BVLOS conditional exemption; target listed node 3246),2026-11-02T17:55:39.645350
+EU-132,https://www.luftfartstilsynet.no/lover-og-regler/bsl-a/forskrift-om-ubemannede-luftfartoyer/,https://www.luftfartstilsynet.no/lover-og-regler/bsl-a/forskrift-om-ubemannede-luftfartoyer/,playwright,too_short,15,,2026-11-02T17:55:39.684708
+US-170,https://le.utah.gov/xcode/Title72/Chapter14/72-14.html,https://le.utah.gov/xcode/Title72/Chapter14/72-14.html,playwright,too_short,2,,2026-11-02T17:55:39.766180
+AS-152,https://www.elegislation.gov.hk/hk/cap374AF!en,https://www.elegislation.gov.hk/hk/cap374AF!en?OS=Others&OS_S=false&BR=Others&BR_S=false&BRV=&BRV_S=false&JS_S=true&C_S=true&severity=warn,playwright,too_short,78,,2026-11-02T17:55:41.365378
+EU-134,https://www.luftfartstilsynet.no/lover-og-regler/bsl-a/forskrift-om-u-space-og-krav-til-en-integrert-digital-luftfartspublikasjon-for-brukere-av-luftrommet/,https://www.luftfartstilsynet.no/lover-og-regler/bsl-a/forskrift-om-u-space-og-krav-til-en-integrert-digital-luftfartspublikasjon-for-brukere-av-luftrommet/,playwright,too_short,35,,2026-11-02T17:55:45.384434
+US-182,https://docs.legis.wisconsin.gov/code/executive_orders/2011_scott_walker/2017-245.pdf,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T17:55:54.184387
+REF-15,https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449,https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449,playwright,ok,4224,,2026-11-02T17:56:00.462832
+REF-06,https://webstore.ansi.org/standards/iso/isots150662016,,requests,http_403,0,scope page only (ANSI webstore; iso.org blocked),2026-11-02T17:56:00.995068
+REF-08,https://webstore.ansi.org/standards/iso/iso262622018,,requests,http_403,0,scope page only (ANSI webstore; iso.org blocked),2026-11-02T17:56:01.351374
+REF-09,https://webstore.ansi.org/standards/iso/iso214482022,,requests,http_403,0,scope page only (ANSI webstore; iso.org blocked),2026-11-02T17:56:01.681330
+REF-12,https://webstore.ansi.org/standards/ria/ansiriar15062012,,requests,http_403,0,scope page only (ANSI webstore; a3automate.org blocked),2026-11-02T17:56:02.006755
+REF-13,https://webstore.ansi.org/standards/ria/ansia3r15082020,,requests,http_403,0,scope page only (ANSI webstore; a3automate.org blocked),2026-11-02T17:56:02.318432
+EN-086,https://web.shgm.gov.tr/documents/sivilhavacilik/files/mevzuat/SHT-IHA_Rev-05.pdf,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='web.shgm.gov.tr', port=443): Max retries exceeded with url: /documents/sivilhavacilik/files/mevzuat/SHT-IHA_Rev-05.pdf (Caused by SSLError(SSLEOFError",2026-11-02T17:56:11.228104
+EN-046,https://www.riigiteataja.ee/en/eli/501122025002/consolide,https://www.riigiteataja.ee/en/akt/501122025002,requests+html,too_short,2,Riigi Teataja English consolidated Traffic Act,2026-11-02T17:56:12.595880
+EN-046,https://www.riigiteataja.ee/en/eli/511042018004/consolide,https://www.riigiteataja.ee/en/akt/511042018004,requests+html,too_short,2,Riigi Teataja English consolidated Traffic Act,2026-11-02T17:56:13.906698
+US-105,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/legislation/H0204.pdf,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/legislation/H0204.pdf,requests+pdftotext,ok,5823,,2026-11-02T17:56:52.168316
+US-106,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2013/legislation/S1134.pdf,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2013/legislation/S1134.pdf,requests+pdftotext,ok,660,,2026-11-02T17:56:53.159602
+US-170,https://le.utah.gov/xcode/Title72/Chapter14/72-14-S102.html,https://le.utah.gov/xcode/Title72/Chapter14/72-14-S102.html,playwright,too_short,17,,2026-11-02T17:56:57.564558
+US-155,https://webserver.rilegislature.gov/Statutes/TITLE1/1-8/1-8-2.htm,,requests,http_404,0,,2026-11-02T17:56:58.142381
+AP-088,https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=3415,,requests,error,0,"TimeoutError('Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to ""https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=3415"", waiting until ""networkidle""\n')",2026-11-02T17:56:59.924826
+EU-017,http://publications.europa.eu/resource/oj/JOL_2018_151_R_0001,http://publications.europa.eu/resource/cellar/d828c80f-6f9d-11e8-9483-01aa75ed71a1.0006.03/DOC_1,requests+html,too_short,3,,2026-11-02T17:57:03.794230
+EU-017,https://publications.europa.eu/resource/cellar/d828c80f-6f9d-11e8-9483-01aa75ed71a1.0006.02/DOC_1,,requests,http_404,0,,2026-11-02T17:57:04.613404
+EU-017,https://publications.europa.eu/resource/cellar/d828c80f-6f9d-11e8-9483-01aa75ed71a1.0006.01/DOC_1,https://publications.europa.eu/resource/cellar/d828c80f-6f9d-11e8-9483-01aa75ed71a1.0006.01/DOC_1,requests+pdftotext,ok,95146,,2026-11-02T17:57:08.291498
+EN-028,https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2025-09-25&atto.codiceRedazionale=25G00143,https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2025-09-25&atto.codiceRedazionale=25G00143,playwright,too_short,76,,2026-11-02T17:57:16.714312
+EN-026,https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2017-12-29&atto.codiceRedazionale=17G00222,https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2017-12-29&atto.codiceRedazionale=17G00222,playwright,too_short,121,,2026-11-02T17:57:25.110032
+EN-038,https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2016041006&table_name=loi,,requests,error,0,"Error('Page.goto: net::ERR_EMPTY_RESPONSE at https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2016041006&table_name=loi\nCall log:\n  - navigating to ""https://www.ejustice.ju",2026-11-02T17:57:26.799479
+EU-136,https://www.lovtidende.dk/api/pdf/254826,https://www.lovtidende.dk/api/pdf/254826,requests+pdftotext,ok,40362,,2026-11-02T17:57:28.765261
+EU-136,https://www.retsinformation.dk/eli/lta/2024/1312/pdf,https://www.retsinformation.dk/eli/lta/2024/1312/pdf,requests+pdftotext,ok,39110,,2026-11-02T17:57:29.827223
+EN-085,https://diariodarepublica.pt/dr/detalhe/regulamento/1093-2016-105367104,https://diariodarepublica.pt/dr/detalhe/regulamento/1093-2016-105367104,playwright,too_short,0,,2026-11-02T17:57:41.114753
+ML-016,https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/fr/2018/2018C7F.PDF,https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/fr/2018/2018C7F.PDF,requests+pdftotext,ok,20691,Annual statutes 2018 c.7 (Bill 165) from Publications du Quebec; legisquebec consolidated code is 403,2026-11-02T17:58:10.257507
+ML-096,https://www.diariooficial.interior.gob.cl/publicaciones/2021/03/05/42897/01/1905323.pdf,,requests,http_403,0,,2026-11-02T17:58:11.305906
+ST-199,https://eur-lex.europa.eu/eli/reg/2024/2689/oj,,requests,http_202,0,,2026-11-02T17:58:11.658680
+US-098,https://code.dccouncil.gov/us/dc/council/laws/25-168,https://code.dccouncil.gov/us/dc/council/laws/25-168,requests+html,ok,469,,2026-11-02T17:58:12.015153
+US-104,https://www.legis.ga.gov/api/legislation/document/20172018/167556,https://www.legis.ga.gov/api/legislation/document/20172018/167556,requests+pdftotext,ok,1219,,2026-11-02T17:58:13.244528
+US-115,https://www.legis.la.gov/Legis/Law.aspx?d=1148306,https://www.legis.la.gov/Legis/Law.aspx?d=1148306,requests+html,too_short,0,,2026-11-02T17:58:13.922684
+US-128,https://archive.legmt.gov/content/Sessions/69th/Contractor_index/CH0355.pdf,https://archive.legmt.gov/content/Sessions/69th/Contractor_index/CH0355.pdf,requests+pdftotext,ok,1203,,2026-11-02T17:58:15.278891
+US-137,https://assembly.ny.gov/leg/?default_fld=&leg_video=&bn=A06767&term=2025&Text=Y,,requests,error,0,"ProxyError(MaxRetryError(""HTTPSConnectionPool(host='assembly.ny.gov', port=443): Max retries exceeded with url: /leg/?default_fld=&leg_video=&bn=A06767&term=2025&Text=Y (Caused by ProxyError('Unable t",2026-11-02T17:58:15.597640
+US-145,https://www.oklegislature.gov/cf_pdf/2021-22%20ENR/SB/SB1541%20ENR.PDF,https://www.oklegislature.gov/cf_pdf/2021-22%20ENR/SB/SB1541%20ENR.PDF,requests+pdftotext,ok,2875,,2026-11-02T17:58:16.320890
+US-170,https://le.utah.gov/~2017/bills/sbillenr/SB0111.pdf,https://le.utah.gov/~2017/bills/sbillenr/SB0111.pdf,requests+pdftotext,ok,4287,,2026-11-02T17:58:17.302556
+REF-10,https://webstore.iec.ch/publication/90574,https://webstore.iec.ch/en/publication/90574,requests+html,ok,250,scope page only,2026-11-02T17:58:18.100387
+AP-001,"https://www.thc.nic.in/Central%20Governmental%20Rules/Drone%20Rules,%202021.pdf","https://www.thc.nic.in/Central%20Governmental%20Rules/Drone%20Rules,%202021.pdf",requests+pdftotext,ok,234,Telangana High Court (nic.in) copy of the gazette notification; MoCA/DGCA copies refuse crawler,2026-11-02T17:58:46.646829
+EN-086,https://www.tkgm.gov.tr/sites/default/files/2020-10/sht-iha_web.pdf,https://www.tkgm.gov.tr/sites/default/files/2020-10/sht-iha_web.pdf,requests+pdftotext,too_short,0,TKGM (government) copy of SHT-IHA; web.shgm.gov.tr fails TLS via proxy,2026-11-02T17:58:48.586008
+EN-046,https://www.riigiteataja.ee/en/eli/501122025002/consolide,https://www.riigiteataja.ee/en/akt/501122025002,playwright,ok,112490,Riigi Teataja English consolidated Traffic Act rendered,2026-11-02T17:58:56.306089
+ML-032,https://www.gcaa.gov.ae/en/Pages/aboutgcaa/Laws.aspx,https://www.gcaa.gov.ae/en/Pages/aboutgcaa/Laws.aspx,playwright,too_short,18,,2026-11-02T17:58:57.101242
+ML-041,https://gaca.gov.sa/-/media/Files/PDF/LawsAndRegulation/Aviation-Safety-and-Environmental-Sustainability/GACAR-Safety-Regulations/107-v4.pdf,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T17:59:11.539658
+US-108,https://iga.in.gov/legislative/2021/bills/house/1072/details,https://iga.in.gov/legislative/2021/bills/house/1072/details,playwright,too_short,0,,2026-11-02T17:59:14.823404
+US-155,https://webserver.rilegislature.gov/Statutes/TITLE1/1-8/1-8-1.2.htm,https://webserver.rilegislature.gov/Statutes/TITLE1/1-8/1-8-1.2.htm,requests+html,ok,157,,2026-11-02T17:59:15.386660
+EN-028,https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf,https://www.gazzettaufficiale.it/eli/gu/2025/09/25/223/sg/pdf,requests+pdftotext,ok,73579,,2026-11-02T17:59:16.871614
+EN-026,https://www.gazzettaufficiale.it/eli/gu/2017/12/29/302/so/62/sg/pdf,https://www.gazzettaufficiale.it/eli/gu/2017/12/29/302/so/62/sg/pdf,requests+pdftotext,ok,205714,,2026-11-02T17:59:35.910445
+EN-002,https://dserver.bundestag.de/brd/2017/0299-17.pdf,https://dserver.bundestag.de/brd/2017/0299-17.pdf,requests+pdftotext,ok,855,,2026-11-02T17:59:36.967541
+EN-007,https://dserver.bundestag.de/brd/2017/0039-17.pdf,https://dserver.bundestag.de/brd/2017/0039-17.pdf,requests+pdftotext,ok,14740,,2026-11-02T17:59:38.137367
+EN-071,http://publication.pravo.gov.ru/Document/Text/0001202007310024,,requests,http_500,0,,2026-11-02T17:59:38.687613
+ST-199,https://publications.europa.eu/resource/celex/42024X2689,http://publications.europa.eu/resource/cellar/4104d2aa-9a54-11ef-a130-01aa75ed71a1.0006.03/DOC_1,requests+html,ok,31072,,2026-11-02T17:59:40.091903
+US-115,https://www.legis.la.gov/Legis/Law.aspx?d=1148306,https://www.legis.la.gov/Legis/Law.aspx?d=1148306,playwright,too_short,0,,2026-11-02T17:59:43.795299
+US-116,https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1235840,https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1235840,requests+html,too_short,0,,2026-11-02T17:59:44.552105
+US-137,https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=A06767&term=2025&Text=Y,https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=A06767&term=2025&Text=Y,requests+html,ok,952,,2026-11-02T17:59:45.706637
+US-137,https://legislation.nysenate.gov/pdf/bills/2025/A6767,https://legislation.nysenate.gov/pdf/bills/2025/A6767,requests+pdftotext,ok,934,,2026-11-02T17:59:46.220570
+EN-071,http://www.kremlin.ru/acts/bank/45778,http://www.kremlin.ru/acts/bank/45778,requests+html,ok,2723,,2026-11-02T18:00:45.264218
+REF-17,https://publications.europa.eu/resource/celex/42024X2689,http://publications.europa.eu/resource/cellar/4104d2aa-9a54-11ef-a130-01aa75ed71a1.0006.03/DOC_1,requests+html,ok,31072,same instrument as ST-199; OJ L 2024/2689 publication of UN Regulation No 171,2026-11-02T18:00:45.704996
+EN-038,https://www.ejustice.just.fgov.be/mopdf/2016/04/15_1.pdf,,requests,error,0,"ProxyError(MaxRetryError(""HTTPSConnectionPool(host='www.ejustice.just.fgov.be', port=443): Max retries exceeded with url: /mopdf/2016/04/15_1.pdf (Caused by ProxyError('Unable to connect to proxy', Re",2026-11-02T18:00:46.056294
+US-137,https://legislation.nysenate.gov/pdf/bills/2025/S3008C,https://legislation.nysenate.gov/pdf/bills/2025/S3008C,requests+pdftotext,ok,76054,enacted FY2026 budget bill S3008-C (Chapter 58 of 2025); Part U adds GBL Article 47; consolidated law page on nysenate.gov is 403,2026-11-02T18:00:46.595493
+EN-017,https://www.ecologie.gouv.fr/sites/default/files/documents/Ordonnance%20LOM%20Article%2031%20-%20synth%C3%A8se_0.pdf,https://www.ecologie.gouv.fr/sites/default/files/documents/Ordonnance%20LOM%20Article%2031%20-%20synth%C3%A8se_0.pdf,requests+pdftotext,ok,702,scope page only: ministry synthesis of ordonnance 2021-443; Legifrance blocks the crawler,2026-11-02T18:00:47.244334
+US-115,https://legis.la.gov/Legis/ViewDocument.aspx?d=1144095,https://legis.la.gov/Legis/ViewDocument.aspx?d=1144095,requests+pdftotext,ok,1868,,2026-11-02T18:00:47.490788
+US-115,https://legis.la.gov/Legis/ViewDocument.aspx?d=1142716,https://legis.la.gov/Legis/ViewDocument.aspx?d=1142716,requests+pdftotext,ok,1865,,2026-11-02T18:00:48.111547
+US-116,https://legis.la.gov/Legis/ViewDocument.aspx?d=1235351,https://legis.la.gov/Legis/ViewDocument.aspx?d=1235351,requests+pdftotext,ok,1249,,2026-11-02T18:00:48.653091
+US-104,https://www.legis.ga.gov/api/legislation/document/20172018/165992,https://www.legis.ga.gov/api/legislation/document/20172018/165992,requests+pdftotext,ok,5071,,2026-11-02T18:00:49.974644
+AP-003,"https://www.thc.nic.in/Central%20Governmental%20Rules/Drone%20Rules,%202021.pdf","https://www.thc.nic.in/Central%20Governmental%20Rules/Drone%20Rules,%202021.pdf",requests+pdftotext,ok,234,"Gazette notification G.S.R. 715(E) Drone (Amendment) Rules 2023; file on Telangana High Court (nic.in) is mislabelled 'Drone Rules, 2021'; MoCA and MEA copies refuse crawler",2026-11-02T18:01:00.161346
+AP-001,https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/jan/doc202212810701.pdf,https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/jan/doc202212810701.pdf,requests+pdftotext,ok,3286,"scope page only: PIB official backgrounder on Drone Rules 2021 (28 Jan 2022), not the rules text; MoCA/eGazette/ffo.gov.in unreachable",2026-11-02T18:01:00.870765
+US-155,https://webserver.rilegislature.gov/BillText16/SenateText16/S3099.pdf,https://webserver.rilegislature.gov/BillText16/SenateText16/S3099.pdf,requests+pdftotext,ok,263,2016 enacting bill S 3099 (effective 1 July 2016 without governor's signature); chapter 1-8 was rewritten in 2023 (H 5420) - current consolidated sections 1-8-1.1 and 1-8-1.2 at webserver.rilegislature.gov/Statutes/TITLE1/1-8/,2026-11-02T18:01:22.232047
+EN-086,https://web.shgm.gov.tr/documents/sivilhavacilik/files/mevzuat/sektorel/talimatlar/2019/IHA_talimati_revizyon3.pdf,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='web.shgm.gov.tr', port=443): Max retries exceeded with url: /documents/sivilhavacilik/files/mevzuat/sektorel/talimatlar/2019/IHA_talimati_revizyon3.pd",2026-11-02T18:01:34.602358
+AP-089,https://content.legislation.vic.gov.au/sites/default/files/2019-10/18-008aa%20authorised.pdf,,requests,http_404,0,guessed Vic authorised PDF path (18-008aa),2026-11-02T18:01:36.301446
+AP-089,https://content.legislation.vic.gov.au/sites/default/files/2020-04/18-008aa%20authorised.pdf,,requests,http_404,0,guessed Vic authorised PDF path (18-008aa),2026-11-02T18:01:38.011929
+EN-071,http://www.kremlin.ru/acts/bank/45777,http://www.kremlin.ru/acts/bank/45777,requests+html,ok,981,,2026-11-02T18:01:45.155344
+EN-071,http://www.kremlin.ru/acts/bank/45776,http://www.kremlin.ru/acts/bank/45776,requests+html,ok,2510,,2026-11-02T18:01:47.340662
+EN-071,http://www.kremlin.ru/acts/bank/45775,http://www.kremlin.ru/acts/bank/45775,requests+html,ok,384,,2026-11-02T18:01:48.728756
+US-104,https://www.legis.ga.gov/api/legislation/document/20172018/173029,https://www.legis.ga.gov/api/legislation/document/20172018/173029,requests+pdftotext,ok,210,,2026-11-02T18:01:49.218880
+EN-071,http://www.kremlin.ru/acts/bank/45774,http://www.kremlin.ru/acts/bank/45774,requests+html,ok,599,,2026-11-02T18:01:50.311403
+US-104,https://www.legis.ga.gov/api/legislation/document/20172018/171281,https://www.legis.ga.gov/api/legislation/document/20172018/171281,requests+pdftotext,ok,207,,2026-11-02T18:01:50.417012
+EN-071,http://www.kremlin.ru/acts/bank/45773,http://www.kremlin.ru/acts/bank/45773,requests+html,ok,2397,,2026-11-02T18:01:52.107465
+EN-071,http://www.kremlin.ru/acts/bank/45772,http://www.kremlin.ru/acts/bank/45772,requests+html,ok,412,,2026-11-02T18:01:53.637135
+EN-071,http://www.kremlin.ru/acts/bank/45771,http://www.kremlin.ru/acts/bank/45771,requests+html,ok,2355,,2026-11-02T18:01:55.339515
+EN-071,http://www.kremlin.ru/acts/bank/45770,http://www.kremlin.ru/acts/bank/45770,requests+html,ok,2689,,2026-11-02T18:01:57.060701
+EN-071,http://www.kremlin.ru/acts/bank/45769,http://www.kremlin.ru/acts/bank/45769,requests+html,ok,1922,,2026-11-02T18:01:58.710864
+EN-071,http://www.kremlin.ru/acts/bank/45768,http://www.kremlin.ru/acts/bank/45768,requests+html,ok,199,,2026-11-02T18:02:00.229404
+EN-071,http://www.kremlin.ru/acts/bank/45767,http://www.kremlin.ru/acts/bank/45767,requests+html,too_short,129,,2026-11-02T18:02:01.760565
+EN-071,http://www.kremlin.ru/acts/bank/45766,http://www.kremlin.ru/acts/bank/45766,requests+html,ok,2427,,2026-11-02T18:02:03.461980
+EN-071,http://www.kremlin.ru/acts/bank/45765,http://www.kremlin.ru/acts/bank/45765,requests+html,ok,970,,2026-11-02T18:02:04.990807
+EN-071,http://www.kremlin.ru/acts/bank/45764,http://www.kremlin.ru/acts/bank/45764,requests+html,ok,242,,2026-11-02T18:02:06.322244
+AS-152,https://www.legco.gov.hk/yr2023/english/subleg/negative/2023ln164-e.pdf,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='www.legco.gov.hk', port=443): Max retries exceeded with url: /yr2023/english/subleg/negative/2023ln164-e.pdf (Caused by SSLError(SSLCertVerificationEr",2026-11-02T18:02:06.822307
+EN-071,http://www.kremlin.ru/acts/bank/45763,http://www.kremlin.ru/acts/bank/45763,requests+html,ok,1785,,2026-11-02T18:02:07.729213
+AS-151,https://www.legco.gov.hk/yr2023/english/ord/2023ord011-e.pdf,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='www.legco.gov.hk', port=443): Max retries exceeded with url: /yr2023/english/ord/2023ord011-e.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SS",2026-11-02T18:02:07.762220
+AS-153,https://www.legco.gov.hk/yr20-21/english/subleg/negative/2021ln116-e.pdf,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='www.legco.gov.hk', port=443): Max retries exceeded with url: /yr20-21/english/subleg/negative/2021ln116-e.pdf (Caused by SSLError(SSLCertVerificationE",2026-11-02T18:02:08.646558
+US-104,https://www.legis.ga.gov/api/legislation/document/20172018/165992,https://www.legis.ga.gov/api/legislation/document/20172018/165992,requests+pdftotext,ok,5071,SB 219 bill text (LC 39 1490ER); enrolled/as-passed version id not located,2026-11-02T18:02:08.986709
+EN-071,http://www.kremlin.ru/acts/bank/45762,http://www.kremlin.ru/acts/bank/45762,requests+html,ok,202,,2026-11-02T18:02:09.246826
+EN-071,http://www.kremlin.ru/acts/bank/45761,http://www.kremlin.ru/acts/bank/45761,requests+html,ok,2850,,2026-11-02T18:02:10.795084
+EN-071,http://www.kremlin.ru/acts/bank/45760,http://www.kremlin.ru/acts/bank/45760,requests+html,ok,482,,2026-11-02T18:02:12.304052
+EN-071,http://www.kremlin.ru/acts/bank/45759,http://www.kremlin.ru/acts/bank/45759,requests+html,ok,766,,2026-11-02T18:02:13.685500
+EN-071,http://www.kremlin.ru/acts/bank/45758,http://www.kremlin.ru/acts/bank/45758,requests+html,ok,1855,,2026-11-02T18:02:15.226229
+EN-071,http://www.kremlin.ru/acts/bank/45757,http://www.kremlin.ru/acts/bank/45757,requests+html,ok,187,,2026-11-02T18:02:17.063323
+EN-071,http://www.kremlin.ru/acts/bank/45756,http://www.kremlin.ru/acts/bank/45756,requests+html,ok,2285,,2026-11-02T18:02:18.712440
+EN-071,http://www.kremlin.ru/acts/bank/45755,http://www.kremlin.ru/acts/bank/45755,requests+html,ok,1704,,2026-11-02T18:02:20.391542
+EN-071,http://www.kremlin.ru/acts/bank/45754,http://www.kremlin.ru/acts/bank/45754,requests+html,ok,834,,2026-11-02T18:02:21.774967
+EN-071,http://www.kremlin.ru/acts/bank/45753,http://www.kremlin.ru/acts/bank/45753,requests+html,ok,752,,2026-11-02T18:02:23.256067
+EN-071,http://www.kremlin.ru/acts/bank/45752,http://www.kremlin.ru/acts/bank/45752,requests+html,ok,285,,2026-11-02T18:02:24.765142
+EN-084,https://files.diariodarepublica.pt/1s/2018/07/14000/0351003512.pdf,https://diariodarepublica.pt/dr/error,requests+pdftotext,too_short,0,,2026-11-02T18:02:26.712005
+EN-085,https://files.diariodarepublica.pt/2s/2016/12/23800/3654636553.pdf,https://diariodarepublica.pt/dr/error,requests+pdftotext,too_short,0,,2026-11-02T18:02:27.930152
+AP-013,https://www.caa.lk/images/stories/pdf/implementing_standards/sn053.pdf,https://www.caa.lk/images/stories/pdf/implementing_standards/sn053.pdf,playwright,too_short,0,,2026-11-02T18:02:44.239343
+AP-002,"https://www.thc.nic.in/Central%20Governmental%20Rules/Drone%20(Amendment)%20Rules,%202022.pdf",,requests,http_404,0,guessed Telangana High Court copy,2026-11-02T18:02:46.814003
+EN-071,http://www.kremlin.ru/acts/bank/45751,http://www.kremlin.ru/acts/bank/45751,requests+html,ok,155,,2026-11-02T18:02:53.196199
+AP-013,https://caa.lk/en/drones,https://caa.lk/en/drones,playwright,too_short,0,,2026-11-02T18:02:53.599404
+EN-071,http://www.kremlin.ru/acts/bank/45750,http://www.kremlin.ru/acts/bank/45750,requests+html,ok,964,,2026-11-02T18:02:54.923221
+EN-071,http://www.kremlin.ru/acts/bank/45749,http://www.kremlin.ru/acts/bank/45749,requests+html,ok,187,,2026-11-02T18:02:56.426264
+EN-071,http://www.kremlin.ru/acts/bank/45748,http://www.kremlin.ru/acts/bank/45748,requests+html,ok,428,,2026-11-02T18:02:57.943886
+ML-069,https://civil-aviation.govmu.org/Pages/DRONE/Drone-Requirement.aspx,https://civil-aviation.govmu.org/Pages/DRONE/Drone-Requirement.aspx,playwright,too_short,0,DCA page second rendered attempt (page served 0 words plain and rendered),2026-11-02T18:02:58.381181
+EN-071,http://www.kremlin.ru/acts/bank/45747,http://www.kremlin.ru/acts/bank/45747,requests+html,ok,2765,,2026-11-02T18:02:59.477603
+EN-071,http://www.kremlin.ru/acts/bank/45746,http://www.kremlin.ru/acts/bank/45746,requests+html,ok,582,,2026-11-02T18:03:00.954460
+EN-071,http://www.kremlin.ru/acts/bank/45745,http://www.kremlin.ru/acts/bank/45745,requests+html,ok,705,,2026-11-02T18:03:02.522093
+EN-071,http://www.kremlin.ru/acts/bank/45744,http://www.kremlin.ru/acts/bank/45744,requests+html,ok,178,,2026-11-02T18:03:03.996430
+EN-071,http://www.kremlin.ru/acts/bank/45743,http://www.kremlin.ru/acts/bank/45743,requests+html,ok,1442,,2026-11-02T18:03:05.654721
+EN-071,http://www.kremlin.ru/acts/bank/45742,http://www.kremlin.ru/acts/bank/45742,requests+html,ok,233,,2026-11-02T18:03:07.450821
+EN-071,http://www.kremlin.ru/acts/bank/45741,http://www.kremlin.ru/acts/bank/45741,requests+html,too_short,132,,2026-11-02T18:03:08.961079
+EN-071,http://www.kremlin.ru/acts/bank/45740,http://www.kremlin.ru/acts/bank/45740,requests+html,ok,156,,2026-11-02T18:03:10.335595
+EN-071,http://www.kremlin.ru/acts/bank/45739,http://www.kremlin.ru/acts/bank/45739,requests+html,ok,359,,2026-11-02T18:03:12.159605
+EN-071,http://www.kremlin.ru/acts/bank/45738,http://www.kremlin.ru/acts/bank/45738,requests+html,too_short,146,,2026-11-02T18:03:13.732778
+EN-071,http://www.kremlin.ru/acts/bank/45737,http://www.kremlin.ru/acts/bank/45737,requests+html,ok,302,,2026-11-02T18:03:15.297697
+EN-071,http://www.kremlin.ru/acts/bank/45736,http://www.kremlin.ru/acts/bank/45736,requests+html,ok,838,,2026-11-02T18:03:17.165852
+EN-038,https://www.ejustice.just.fgov.be/eli/besluit/2016/04/10/2016014132/justel,,requests,error,0,"Error('Page.goto: net::ERR_EMPTY_RESPONSE at https://www.ejustice.just.fgov.be/eli/besluit/2016/04/10/2016014132/justel\nCall log:\n  - navigating to ""https://www.ejustice.just.fgov.be/eli/besluit/201",2026-11-02T18:03:21.727441
+EN-038,https://www.ejustice.just.fgov.be/eli/arrete/2016/04/10/2016014132/moniteur,https://www.ejustice.just.fgov.be/eli/arrete/2016/04/10/2016014132/moniteur,playwright,ok,815,,2026-11-02T18:03:27.069532
+EN-038,https://www.ejustice.just.fgov.be/eli/arrete/2016/04/10/2016014132,,requests,error,0,"Error('Page.goto: net::ERR_EMPTY_RESPONSE at https://www.ejustice.just.fgov.be/eli/arrete/2016/04/10/2016014132\nCall log:\n  - navigating to ""https://www.ejustice.just.fgov.be/eli/arrete/2016/04/10/2",2026-11-02T18:03:29.386453
+US-086,https://openstates.org/ca/bills/20112012/SB1298/,,requests,error,0,"TimeoutError('Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to ""https://openstates.org/ca/bills/20112012/SB1298/"", waiting until ""networkidle""\n')",2026-11-02T18:03:56.002693
+US-092,https://openstates.org/ca/bills/20212022/AB701/,https://pluralpolicy.com/app/legislative-tracking/bill/details/state-ca-20212022-ab701/783172,playwright,ok,4154,chaptered AB 701 (2021) text via openstates.org->pluralpolicy; consolidated LAB 2100-2112 on leginfo is 403,2026-11-02T18:04:04.975473
+REF-14,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=73499&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=73499&lang=ENG,requests+html,ok,10774,,2026-11-02T18:04:08.768813
+EN-071,http://www.kremlin.ru/acts/bank/45779,http://www.kremlin.ru/acts/bank/45779,requests+html,ok,1258,,2026-11-02T18:04:11.033001
+EN-071,http://www.kremlin.ru/acts/bank/45780,http://www.kremlin.ru/acts/bank/45780,requests+html,ok,2532,,2026-11-02T18:04:12.917126
+US-093,https://openstates.org/ca/bills/20152016/AB856/,https://pluralpolicy.com/app/legislative-tracking/bill/details/state-ca-20152016-ab856/1591034,playwright,ok,1810,chaptered AB 856 (2015) text via openstates.org->pluralpolicy; consolidated CIV 1708.8 on leginfo is 403,2026-11-02T18:04:13.162518
+AS-105,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=49483&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=49483&lang=ENG,requests+html,ok,53309,,2026-11-02T18:04:14.219452
+EN-071,http://www.kremlin.ru/acts/bank/45781,http://www.kremlin.ru/acts/bank/45781,requests+html,ok,181,,2026-11-02T18:04:14.468527
+EN-071,http://www.kremlin.ru/acts/bank/45782,http://www.kremlin.ru/acts/bank/45782,requests+html,ok,2247,,2026-11-02T18:04:16.154669
+EN-071,http://www.kremlin.ru/acts/bank/45783,http://www.kremlin.ru/acts/bank/45783,requests+html,ok,247,,2026-11-02T18:04:17.622734
+EN-071,http://www.kremlin.ru/acts/bank/45784,http://www.kremlin.ru/acts/bank/45784,requests+html,ok,1145,,2026-11-02T18:04:19.148303
+EN-071,http://www.kremlin.ru/acts/bank/45785,http://www.kremlin.ru/acts/bank/45785,requests+html,ok,432,,2026-11-02T18:04:20.718463
+EN-071,http://www.kremlin.ru/acts/bank/45786,http://www.kremlin.ru/acts/bank/45786,requests+html,ok,240,,2026-11-02T18:04:22.281725
+EN-071,http://www.kremlin.ru/acts/bank/45787,http://www.kremlin.ru/acts/bank/45787,requests+html,ok,274,,2026-11-02T18:04:23.811375
+EN-071,http://www.kremlin.ru/acts/bank/45788,http://www.kremlin.ru/acts/bank/45788,requests+html,ok,674,,2026-11-02T18:04:25.326774
+EN-071,http://www.kremlin.ru/acts/bank/45789,http://www.kremlin.ru/acts/bank/45789,requests+html,ok,1317,,2026-11-02T18:04:26.865552
+EN-071,http://www.kremlin.ru/acts/bank/45790,http://www.kremlin.ru/acts/bank/45790,requests+html,ok,2196,,2026-11-02T18:04:28.543183
+EN-071,http://www.kremlin.ru/acts/bank/45791,http://www.kremlin.ru/acts/bank/45791,requests+html,ok,559,,2026-11-02T18:04:30.072567
+EN-071,http://www.kremlin.ru/acts/bank/45792,http://www.kremlin.ru/acts/bank/45792,requests+html,ok,1416,,2026-11-02T18:04:32.059344
+EN-071,http://www.kremlin.ru/acts/bank/45793,http://www.kremlin.ru/acts/bank/45793,requests+html,ok,967,,2026-11-02T18:04:33.592395
+EN-071,http://www.kremlin.ru/acts/bank/45794,http://www.kremlin.ru/acts/bank/45794,requests+html,ok,176,,2026-11-02T18:04:35.100205
+EN-071,http://www.kremlin.ru/acts/bank/45795,http://www.kremlin.ru/acts/bank/45795,requests+html,ok,1129,,2026-11-02T18:04:36.622732
+EN-071,http://www.kremlin.ru/acts/bank/45796,http://www.kremlin.ru/acts/bank/45796,requests+html,ok,2233,,2026-11-02T18:04:38.288398
+US-086,https://openstates.org/ca/bills/20112012/SB1298/,,requests,error,0,"TimeoutError('Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to ""https://openstates.org/ca/bills/20112012/SB1298/"", waiting until ""networkidle""\n')",2026-11-02T18:05:05.274897
+AS-153,https://www.gld.gov.hk/egazette/pdf/20212528/cs220212528116.pdf,https://egazette.gld.gov.hk/,requests+pdftotext,too_short,0,,2026-11-02T18:06:02.268780
+AS-117,https://service.moea.gov.tw/EE514/wSite/public/Attachment/00104/f1713514941983.pdf,https://service.moea.gov.tw/EE514/wSite/public/Attachment/00104/f1713514941983.pdf,requests+pdftotext,ok,313,,2026-11-02T18:06:03.426169
+AS-107,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=72652&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=72652&lang=ENG,requests+html,ok,60280,,2026-11-02T18:06:09.634200
+AS-109,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=53139&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=53139&lang=ENG,requests+html,ok,3835,,2026-11-02T18:06:12.788970
+AS-105,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=69832&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=69832&lang=ENG,requests+html,ok,72244,,2026-11-02T18:06:18.701031
+AS-014,https://shanghai.gov.cn/cmsres/df/df8a61e6bf584686800446ce908b268b/f7af05d27765423b12790fdd550027ef.pdf,,requests,http_404,0,,2026-11-02T18:11:53.831668
+AS-012,https://www.beijing.gov.cn/zhengce/dfxfg/202501/t20250103_3980149.html,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T18:14:14.485898
+AS-035,https://www.beijing.gov.cn/zhengce/dfxfg/202609/t20260914_4862677.html,https://www.beijing.gov.cn/zhengce/dfxfg/202609/t20260914_4862677.html,requests+html,too_short,41,,2026-11-02T18:14:16.700570
+REF-05,https://www.beijing.gov.cn/zhengce/zhengcefagui/202503/t20250304_4024579.html,https://www.beijing.gov.cn/zhengce/zhengcefagui/202503/t20250304_4024579.html,requests+html,too_short,55,,2026-11-02T18:14:19.143117
+AS-021,https://www.jsrd.gov.cn/qwfb/cwhgb/d/202403/P020260113796785857736.pdf,https://www.jsrd.gov.cn/qwfb/cwhgb/d/202403/P020260113796785857736.pdf,requests+pdftotext,ok,47726,,2026-11-02T18:14:32.575187
+AS-012,https://www.beijing.gov.cn/zhengce/dfxfg/202501/t20250103_3980149.html,https://www.beijing.gov.cn/zhengce/dfxfg/202501/t20250103_3980149.html,requests+html,ok,3010,,2026-11-02T18:17:08.816702
+AS-035,https://www.beijing.gov.cn/zhengce/dfxfg/202609/t20260914_4862677.html,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T18:17:16.705436
+REF-05,https://www.beijing.gov.cn/zhengce/zhengcefagui/202503/t20250304_4024579.html,https://www.beijing.gov.cn/zhengce/zhengcefagui/202503/t20250304_4024579.html,requests+html,ok,2041,,2026-11-02T18:17:18.313512
+AS-134,https://www.beijing.gov.cn/zhengce/zhengcefagui/202508/t20250804_4165802.html,https://www.beijing.gov.cn/zhengce/zhengcefagui/202508/t20250804_4165802.html,requests+html,too_short,139,,2026-11-02T18:17:20.255210
+AS-022,https://www.hzrd.gov.cn/art/2024/4/25/art_1229690462_19702.html,https://www.hzrd.gov.cn/art/2024/4/25/art_1229690462_19702.html,requests+html,too_short,118,,2026-11-02T18:17:22.790521
+AS-037,https://www.gov.cn/yaowen/liebiao/202512/content_7052927.htm,https://www.gov.cn/yaowen/liebiao/202512/content_7052927.htm,requests+html,too_short,50,,2026-11-02T18:17:24.209341
+AS-122,https://www.president.gov.tw/File/Doc/ee44f853-488c-4bc7-8956-b22c94b8d735,https://www.president.gov.tw/File/Doc/ee44f853-488c-4bc7-8956-b22c94b8d735,requests+pdftotext,ok,2044,,2026-11-02T18:17:26.386649
+AS-108,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=8993&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=8993&lang=ENG,requests+html,ok,4893,,2026-11-02T18:17:58.454575
+AS-116,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=68282&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=68282&lang=ENG,requests+html,ok,10360,,2026-11-02T18:18:02.081427
+AS-108b,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=40982&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=40982&lang=ENG,requests+html,ok,15027,,2026-11-02T18:18:06.095448
+AS-102,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=73957&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=73957&lang=ENG,requests+html,ok,12175,,2026-11-02T18:20:17.770258
+AS-113,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=73654&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=73654&lang=ENG,requests+html,ok,9006,,2026-11-02T18:20:20.861113
+AS-109,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=71365&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=71365&lang=ENG,requests+html,ok,5086,,2026-11-02T18:20:24.147556
+AS-110,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=74246&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=74246&lang=ENG,requests+html,ok,7802,,2026-11-02T18:20:27.511165
+AS-101,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=72104&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=72104&lang=ENG,requests+html,ok,6366,,2026-11-02T18:20:31.106296
+AS-035,https://www.beijing.gov.cn/zhengce/dfxfg/202609/t20260914_4862677.html,https://www.beijing.gov.cn/zhengce/dfxfg/202609/t20260914_4862677.html,requests+html,ok,597,,2026-11-02T18:20:33.603150
+AS-134,https://www.beijing.gov.cn/zhengce/zhengcefagui/202508/W020250812422815692103.pdf,https://www.beijing.gov.cn/zhengce/zhengcefagui/202508/W020250812422815692103.pdf,requests+pdftotext,too_short,55,,2026-11-02T18:20:36.875812
+AS-037,https://www.caac.gov.cn/XXGK/XXGK/FLFG/202512/t20251227_229597.html,https://www.caac.gov.cn/XXGK/XXGK/FLFG/202512/t20251227_229597.html,requests+html,ok,15621,,2026-11-02T18:20:39.962046
+AS-013,https://www.sz.gov.cn/zfgb/2022/gb1250/content/post_9967816.html,https://www.sz.gov.cn/zfgb/2022/gb1250/content/post_9967816.html,playwright,ok,3529,,2026-11-02T18:21:15.965940
+AS-124,https://drone.caa.gov.tw/Default/DataDetail3/69,https://drone.caa.gov.tw/Default/DataDetail3/69,requests+html,ok,3374,,2026-11-02T18:21:18.014942
+AS-118,https://service.moea.gov.tw/EE514/wSite/public/Attachment/00104/f1728969364227.pdf,https://service.moea.gov.tw/EE514/wSite/public/Attachment/00104/f1728969364227.pdf,requests+pdftotext,ok,9090,MOEA application guide PDF; check attachments,2026-11-02T18:21:23.015182
+AS-103,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=73943&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=73943&lang=ENG,requests+html,ok,14266,,2026-11-02T18:24:50.226975
+AS-105,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=74673&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=74673&lang=ENG,requests+html,ok,76675,,2026-11-02T18:24:56.448796
+AS-108,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=71619&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=71619&lang=ENG,requests+html,ok,19136,,2026-11-02T18:25:00.948402
+AS-111,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=74396&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=74396&lang=ENG,requests+html,ok,65951,,2026-11-02T18:25:06.964608
+AS-116,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=74628&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=74628&lang=ENG,requests+html,ok,13441,,2026-11-02T18:25:10.699864
+AS-025,https://www.jsrd.gov.cn/qwfb/d_sjfg/202301/t20230130_1191686.shtml,https://www.jsrd.gov.cn/qwfb/d_sjfg/202301/t20230130_1191686.shtml,requests+html,ok,2518,,2026-11-02T18:26:38.991200
+AS-033,https://www.jsrd.gov.cn/qwfb/d_sjfg/202508/t20250805_1191908.shtml,https://www.jsrd.gov.cn/qwfb/d_sjfg/202508/t20250805_1191908.shtml,requests+html,ok,3027,,2026-11-02T18:26:41.532561
+AS-029,https://www.sz.gov.cn/zfgb/2022/gb1258/content/post_10166373.html,https://www.sz.gov.cn/zfgb/2022/gb1258/content/post_10166373.html,playwright,ok,3673,,2026-11-02T18:27:23.608970
+AS-030,https://www.sz.gov.cn/zfgb/2024/gb1319/content/post_11127288.html,https://www.sz.gov.cn/zfgb/2024/gb1319/content/post_11127288.html,playwright,ok,3292,,2026-11-02T18:27:48.606727
+REF-04,https://www.sz.gov.cn/zfgb/2022/gb1250/content/post_9967816.html,https://www.sz.gov.cn/zfgb/2022/gb1250/content/post_9967816.html,playwright,ok,3529,,2026-11-02T18:28:15.416105
+AS-018,https://www.hppc.gov.cn/rdgz/zyfb/jdjy/1863398603654348801.html,https://www.hppc.gov.cn/rdgz/zyfb/jdjy/1863398603654348801.html,requests+html,ok,268,,2026-11-02T18:28:17.458572
+AS-022,https://www.hzrd.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3798/site/attach/0/3cf755914a9d4ce5812e41051f458d4d.pdf,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T18:30:24.170760
+AS-017,http://www.ahrd.gov.cn/article.jsp?strId=7a876823fe4544c1a9850923d460665a&strColId=44861419b53244f8910cd00be098270d&strWebSiteId=1448865560847002,,requests,http_503,0,,2026-11-02T18:30:40.561846
+AS-031,https://ghzyj.gz.gov.cn/zwgk/newzcfg/ywly/content/post_10120201.html,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T18:30:48.391351
+AS-015,https://gyxxh.tj.gov.cn/ZWGK4147/ZCWJ6355/sjwj/202512/t20251204_7191311.html,,requests,http_403,0,,2026-11-02T18:30:51.156267
+AS-123,https://www.caa.gov.tw/article.aspx?a=4172&lang=1,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T18:30:58.513103
+AS-119,https://service.moea.gov.tw/EE514/wSite/public/Attachment/00104/f1728969364227.pdf,https://service.moea.gov.tw/EE514/wSite/public/Attachment/00104/f1728969364227.pdf,requests+pdftotext,ok,9090,MOEA application guide PDF (Apr 2020) whose annexes reproduce the regulation,2026-11-02T18:30:59.681747
+AS-120,https://service.moea.gov.tw/EE514/wSite/public/Attachment/00104/f1728969364227.pdf,https://service.moea.gov.tw/EE514/wSite/public/Attachment/00104/f1728969364227.pdf,requests+pdftotext,ok,9090,MOEA application guide PDF (Apr 2020) whose annexes reproduce the regulation,2026-11-02T18:31:00.695023
+AS-022,https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3798/site/attach/0/3cf755914a9d4ce5812e41051f458d4d.pdf,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T18:33:04.120596
+AS-034,http://www.jsrd.gov.cn/qwfb/d_sjfg/202508/t20250805_1191905.shtml,,requests,http_503,0,,2026-11-02T18:33:06.009514
+AS-123,https://www.caa.gov.tw/article.aspx?a=4172&lang=1,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='www.caa.gov.tw', port=443): Max retries exceeded with url: /article.aspx?a=4172&lang=1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFIC",2026-11-02T18:33:06.914640
+AS-017,http://www.ahrd.gov.cn/article.jsp?strId=7a876823fe4544c1a9850923d460665a&strColId=44861419b53244f8910cd00be098270d&strWebSiteId=1448865560847002,,requests,http_503,0,,2026-11-02T18:33:08.294442
+AS-152,https://www.legco.gov.hk/yr2023/english/subleg/negative/2023ln164-e.pdf,https://www.legco.gov.hk/yr2023/english/subleg/negative/2023ln164-e.pdf,requests+pdftotext,ok,14679,TLS chain completed with the CA's published intermediate certificate (server omits it),2026-11-02T18:36:42.030918
+AS-151,https://www.legco.gov.hk/yr2023/english/ord/2023ord011-e.pdf,https://www.legco.gov.hk/yr2023/english/ord/2023ord011-e.pdf,requests+pdftotext,ok,6219,TLS chain completed with the CA's published intermediate certificate (server omits it),2026-11-02T18:36:44.791748
+AS-153,https://www.legco.gov.hk/yr20-21/english/subleg/negative/2021ln116-e.pdf,https://www.legco.gov.hk/yr20-21/english/subleg/negative/2021ln116-e.pdf,requests+pdftotext,ok,17078,TLS chain completed with the CA's published intermediate certificate (server omits it),2026-11-02T18:36:47.583495
+AP-013,https://www.caa.lk/images/stories/pdf/implementing_standards/sn053.pdf,https://www.caa.lk/images/stories/pdf/implementing_standards/sn053.pdf,requests+pdftotext,ok,17752,TLS chain completed with the CA's published intermediate certificate (server omits it),2026-11-02T18:36:50.839825
+AS-022,https://www.hzrd.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3798/site/attach/0/3cf755914a9d4ce5812e41051f458d4d.pdf,https://zjjcmspublicnew.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/cms_files/jcms1/web3798/site/attach/0/3cf755914a9d4ce5812e41051f458d4d.pdf?fileName=3cf755914a9d4ce5812e41051f458d4d.pdf,requests+pdftotext,ok,3497,,2026-11-02T18:36:59.222867
+AS-034,https://www.jsrd.gov.cn/qwfb/d_sjfg/202508/t20250805_1191905.shtml,https://www.jsrd.gov.cn/qwfb/d_sjfg/202508/t20250805_1191905.shtml,requests+html,ok,2794,,2026-11-02T18:37:01.315946
+AS-017,http://www.ahrd.gov.cn/article.jsp?strId=7a876823fe4544c1a9850923d460665a&strColId=44861419b53244f8910cd00be098270d&strWebSiteId=1448865560847002,,requests,http_503,0,,2026-11-02T18:37:17.619545
+AS-123,https://www.caa.gov.tw/article.aspx?a=4172&lang=1,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='www.caa.gov.tw', port=443): Max retries exceeded with url: /article.aspx?a=4172&lang=1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFIC",2026-11-02T18:37:18.965343
+REF-02,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=71669&lang=ENG,https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=71669&lang=ENG,requests+html,ok,8650,same instrument as AS-100,2026-11-02T18:37:22.738291
+AP-036,https://www.caat.or.th/caat-media/167323/,,requests,http_403,0,,2026-11-02T18:37:23.450748
+AS-016,https://flk.npc.gov.cn/detail?id=ff8081818c24df58018cce7f027466b2,,requests,http_403,0,,2026-11-02T18:38:10.680290
+AS-019,https://flk.npc.gov.cn/detail?id=ff808181927f0e7b0194de2edeb60a92,,requests,http_403,0,,2026-11-02T18:38:12.798132
+AS-020,https://flk.npc.gov.cn/detail?id=ff8081819aedd63e019b495526357047,,requests,http_403,0,,2026-11-02T18:38:14.800248
+AS-023,https://flk.npc.gov.cn/detail?id=ff8081819bdff392019be3364efd0ab4,,requests,http_403,0,,2026-11-02T18:38:16.320891
+AS-026,https://flk.npc.gov.cn/detail?id=ff8081819f12cdb7019f3bae7cbf4adc,,requests,http_403,0,,2026-11-02T18:38:18.171608
+AS-027,https://flk.npc.gov.cn/detail?id=ff8081819dba1254019dce0118552f83,,requests,http_403,0,,2026-11-02T18:38:19.974699
+AS-028,https://flk.npc.gov.cn/detail?id=ff8081819dba0be4019dcdb255083187,,requests,http_403,0,,2026-11-02T18:38:22.055893
+AS-032,https://flk.npc.gov.cn/detail?id=ff808181927f093101939b3d540500a6,,requests,http_403,0,,2026-11-02T18:38:23.930943
+AS-036,https://flk.npc.gov.cn/detail?id=2c90e5ba6a291d8f016a4cc775c3034a,,requests,http_403,0,,2026-11-02T18:38:25.727637
+AS-038,https://flk.npc.gov.cn/detail?id=ff8081819f12cdb7019f369a9f932c52,,requests,http_403,0,,2026-11-02T18:38:27.221714
+AS-121,https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0090084,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='law.moj.gov.tw', port=443): Max retries exceeded with url: /LawClass/LawAll.aspx?pcode=K0090084 (Caused by SSLError(SSLCertVerificationError(1, '[SSL:",2026-11-02T18:38:28.052133
+AS-125,https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0090086,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='law.moj.gov.tw', port=443): Max retries exceeded with url: /LawClass/LawAll.aspx?pcode=K0090086 (Caused by SSLError(SSLCertVerificationError(1, '[SSL:",2026-11-02T18:38:29.336767
+AS-126,https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0090085,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='law.moj.gov.tw', port=443): Max retries exceeded with url: /LawClass/LawAll.aspx?pcode=K0090085 (Caused by SSLError(SSLCertVerificationError(1, '[SSL:",2026-11-02T18:38:30.007294
+AS-127,https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0080041,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='law.moj.gov.tw', port=443): Max retries exceeded with url: /LawClass/LawAll.aspx?pcode=K0080041 (Caused by SSLError(SSLCertVerificationError(1, '[SSL:",2026-11-02T18:38:30.835394
+REF-16,https://law.moj.gov.tw/LawClass/LawSearchContent.aspx?kw=工業用機器人危害預防標準,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='law.moj.gov.tw', port=443): Max retries exceeded with url: /LawClass/LawSearchContent.aspx?kw=%E5%B7%A5%E6%A5%AD%E7%94%A8%E6%A9%9F%E5%99%A8%E4%BA%BA%E",2026-11-02T18:38:31.451870
+AS-104,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=271493,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T18:38:45.729972
+AS-106,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=288083,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=288083,requests+html,too_short,56,,2026-11-02T18:38:48.490532
+AS-112,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=287951,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=287951,requests+html,too_short,56,,2026-11-02T18:38:51.265426
+AS-114,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=281889,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=281889,requests+html,too_short,56,,2026-11-02T18:38:54.132279
+AS-115,https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273603,,requests,error,0,"ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",2026-11-02T18:39:08.440461
+AS-123,https://www.caa.gov.tw/article.aspx?a=4172&lang=1,,requests,error,0,"SSLError(MaxRetryError(""HTTPSConnectionPool(host='www.caa.gov.tw', port=443): Max retries exceeded with url: /article.aspx?a=4172&lang=1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFIC",2026-11-02T18:39:09.714276
+AS-024,https://www.jsrd.gov.cn/qwfb/d_sjfg/202310/t20231012_1191735.shtml,https://www.jsrd.gov.cn/qwfb/d_sjfg/202310/t20231012_1191735.shtml,requests+html,ok,2782,,2026-11-02T18:40:31.692968
+AS-014,https://www.shanghai.gov.cn/nw12344/20221205/c975436eedbe4958bbf3a5aca41c24a1.html,https://www.shanghai.gov.cn/nw12344/20221205/c975436eedbe4958bbf3a5aca41c24a1.html,requests+html,ok,2976,,2026-11-02T18:40:34.192815
+AS-028,https://zjjcmspublicnew.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/cms_files/filemanager/1574019/attach/20264/2e5ce15e7f164ac8a353bdd2f82c25fa.pdf?fileName=%E3%80%8A%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%BF%83%E8%BF%9B%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E6%9D%A1%E4%BE%8B%E3%80%8B.pdf,https://zjjcmspublicnew.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/cms_files/filemanager/1574019/attach/20264/2e5ce15e7f164ac8a353bdd2f82c25fa.pdf?fileName=%E3%80%8A%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%BF%83%E8%BF%9B%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E6%9D%A1%E4%BE%8B%E3%80%8B.pdf,requests+pdftotext,ok,3056,,2026-11-02T18:46:34.602304

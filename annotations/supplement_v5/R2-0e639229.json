@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-0e639229",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0153936,
+  "in": 2,
+  "out": 568,
+  "cache_read": 2656,
+  "cache_create": 2361,
+  "api_ms": 4402,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users"
+  ],
+  "bound_parties_text": "Personal delivery devices and mobile carriers (and their operators and owners) must obey traffic signals, carry identification and brakes, and the person who owns and operates a personal delivery device must maintain insurance.",
+  "bound_parties_quote": "A person who owns and operates a personal delivery device in this state must maintain an insurance policy",
+  "entry_into_force_date": "2017",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "History.\ns. 3, ch. 2017-150; s. 3, ch. 2018-130.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2017,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "History.\ns. 3, ch. 2017-150; s. 3, ch. 2018-130.",
+  "confidence": 0.6
+ }
+}

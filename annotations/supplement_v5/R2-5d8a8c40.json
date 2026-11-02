@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-5d8a8c40",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:06:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0159336,
+  "in": 2,
+  "out": 588,
+  "cache_read": 2656,
+  "cache_create": 2446,
+  "api_ms": 6692,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "Law enforcement agencies are barred from using drones or drone-acquired information for investigating, detecting or prosecuting crime, except as provided.",
+  "bound_parties_quote": "a law enforcement agency shall not use a drone or information acquired through the use of a drone for the purpose of investigating, detecting, or prosecuting crime.",
+  "entry_into_force_date": "2016-10-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "(Added 2015, No. 169 (Adj. Sess.), § 2, eff. Oct. 1, 2016.)",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2015,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "(Added 2015, No. 169 (Adj. Sess.), § 2, eff. Oct. 1, 2016.)",
+  "confidence": 0.9
+ }
+}

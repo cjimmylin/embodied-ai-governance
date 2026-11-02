@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-f326a923",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0326996,
+  "in": 2,
+  "out": 631,
+  "cache_read": 2656,
+  "cache_create": 6530,
+  "api_ms": 3829,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The notice is addressed to provincial transport, industry and information technology, SASAC and market supervision authorities, relevant central enterprises, and units of the Ministry of Transport, who are asked to implement the action plan.",
+  "bound_parties_quote": "各省、自治区、直辖市、新疆生产建设兵团交通运输厅（局、委）、工业和信息化主管部门、国资委、市场监管局（厅、委），有关中央企业，交通运输部部属各单位、部内各司局",
+  "entry_into_force_date": "2026-02-28",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "2026年2月28日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "智能航运是以船舶自主化为重点，以基础设施数字化为支撑，以运行控制协同化为保障的水路运输系统。",
+  "confidence": 0.75
+ }
+}

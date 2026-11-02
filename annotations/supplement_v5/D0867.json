@@ -1,0 +1,34 @@
+{
+ "doc_id": "D0867",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:51:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0729676,
+  "in": 2,
+  "out": 583,
+  "cache_read": 2656,
+  "cache_create": 16717,
+  "api_ms": 5402,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The plan is a strategic R&D priorities document that sets expectations for Federal agency AI R&D investment but imposes no binding obligations on named parties.",
+  "bound_parties_quote": "While this Plan does not define specific research agendas for Federal agency investments, it does provide an expectation for the overall portfolio for Federal AI R&D investments.",
+  "entry_into_force_date": "2019-06",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Deputy Assistant to the President for Technology Policy\nJune 21, 2019",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "The National Artificial Intelligence R&D Strategic Plan: 2019 Update defines the priority areas for Federal investments in AI R&D.",
+  "confidence": 0.8
+ }
+}

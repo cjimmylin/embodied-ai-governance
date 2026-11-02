@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-5723d843",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0125776,
+  "in": 2,
+  "out": 558,
+  "cache_read": 2656,
+  "cache_create": 1682,
+  "api_ms": 5175,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "Organisations wanting to deploy an automated passenger service need consent from local licensing authorities or bus franchising bodies, and traffic authorities must be consulted.",
+  "bound_parties_quote": "Organisations that want to deploy an automated passenger service require consent from the appropriate local taxi and private hire vehicle licensing authority or bus franchising body",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "An overview of the automated passenger services scheme and the roles of local authorities and transport bodies in considering deployments.",
+  "confidence": 0.7
+ }
+}

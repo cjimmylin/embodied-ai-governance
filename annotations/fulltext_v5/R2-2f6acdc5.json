@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-2f6acdc5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 1.0213138000000002,
+  "in": 2,
+  "out": 1753,
+  "cache_read": 11758,
+  "cache_create": 250651,
+  "api_ms": 20830,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "道路交通法施行令",
+  "title_en": "Road Traffic Act Enforcement Order",
+  "language": "ja",
+  "authors_or_issuer": "内閣 (Cabinet of Japan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 1960,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov 法令検索",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "other"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japan's Cabinet Order implementing the Road Traffic Act (1960), as revised effective 2026-09-01. It sets traffic signals, speed limits, vehicle loading, licensing and penalty-point rules. It includes provisions on remotely operated small vehicles (delivery robots) and a chapter on specific automated operation (Level 4 autonomous driving).",
+  "key_provisions_or_claims": [
+   "Remotely operated small vehicles are treated as pedestrians for traffic signal purposes (Art. 2).",
+   "Chapter 4-3 sets special rules for specific automated operation (Arts. 27-7, 27-8), including custody of damaged items after accidents.",
+   "Stopped specific-automated-operation vehicles must show a prescribed stop-indicating device.",
+   "Sets maximum speeds, driver licensing, penalty point and licence suspension standards.",
+   "Defines walking-assist devices including motorised ones under Cabinet Office standards (Art. 1)."
+  ],
+  "confidence": 0.8
+ }
+}

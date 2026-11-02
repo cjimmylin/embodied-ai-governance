@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-d3b0fc1c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 1.1125095999999999,
+  "in": 4,
+  "out": 3735,
+  "cache_read": 283316,
+  "cache_create": 261705,
+  "api_ms": 31454,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "authors_or_issuer": "Japan (Reconstruction Agency / Cabinet; Diet)",
+  "application_sectors": [
+   "energy_environment",
+   "research_science",
+   "agriculture_food",
+   "public_administration_justice",
+   "manufacturing"
+  ],
+  "binding_nature": "legally_binding",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas",
+   "autonomous_road_vehicles",
+   "other_embodied"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "licensing_registration",
+   "testing_sandboxes",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "research_ethics",
+   "taxation_economic_policy",
+   "sustainability_environment",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Establishes the Fukushima reconstruction basic policy and a Prime Minister-certified Fukushima Reconstruction and Revitalization Plan.",
+   "Designates a Fukushima international research industrial city zone for robot, decommissioning, agriculture, and energy R&D.",
+   "Art. 81 allows discounted use of national research facilities for robot development.",
+   "Art. 88-2 provides support for demonstrating autonomous driving and drone operation, including guidance on procedures under road, traffic and aviation laws.",
+   "Establishes the Fukushima Institute for Research, Education and Innovation (F-REI) with mid-term goals and ministerial supervision."
+  ],
+  "language": "ja",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "other_embodied",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2012,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Japan's Act on Special Measures for the Reconstruction and Revitalization of Fukushima (2012, current revision July 2026). It covers recovery from the nuclear disaster, with provisions promoting robot R&D, autonomous driving and drone demonstration zones, and the F-REI research institute. Embodied AI appears only as an industrial-innovation theme.",
+  "title_clean": "福島復興再生特別措置法",
+  "title_en": "Act on Special Measures for the Reconstruction and Revitalization of Fukushima",
+  "venue": "e-Gov Law Search"
+ }
+}

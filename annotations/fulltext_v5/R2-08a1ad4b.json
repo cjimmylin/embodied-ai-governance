@@ -1,0 +1,112 @@
+{
+ "doc_id": "R2-08a1ad4b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.38939730000000006,
+  "in": 4,
+  "out": 4073,
+  "cache_read": 105753,
+  "cache_create": 84521,
+  "api_ms": 55882,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "domestic_consumer",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "European Commission; as retained and amended in UK law (legislation.gov.uk, King's Printer)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "GB",
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "licensing_registration",
+   "transparency_disclosure_labelling",
+   "oversight_body_creation",
+   "risk_based_tiering"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "risk_management_risk_tiers",
+   "privacy_data_protection",
+   "cybersecurity",
+   "consumer_protection",
+   "sustainability_environment"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Sets design and manufacture requirements for UAS classes UK0 to UK6 for the 'open' category, including mass limits, geo-awareness, remote identification, and noise limits.",
+   "Obliges manufacturers, importers and distributors to carry out conformity assessment, draw up declarations of conformity and affix UK marking and class labels.",
+   "Establishes approved conformity assessment bodies, accredited by UKAS, and market surveillance authorities.",
+   "Requires certification of UAS that carry people or dangerous goods, or are large and operated over assemblies of people.",
+   "Applies UK rules to third-country UAS operators; amended in 2025, with effect from 1 Jan 2026."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "EU Machinery Regulation"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2019,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "UK-retained version of Commission Delegated Regulation (EU) 2019/945 on unmanned aircraft systems, as amended through 2025 (effective 1 Jan 2026). It sets product requirements for UAS classes UK0 to UK6, economic operator duties, conformity assessment, approved bodies, market surveillance, certification triggers and third-country operator rules.",
+  "title_clean": "Commission Delegated Regulation (EU) 2019/945 of 12 March 2019 on unmanned aircraft systems and on third-country operators of unmanned aircraft systems",
+  "title_en": "Commission Delegated Regulation (EU) 2019/945 of 12 March 2019 on unmanned aircraft systems and on third-country operators of unmanned aircraft systems",
+  "venue": "legislation.gov.uk"
+ }
+}

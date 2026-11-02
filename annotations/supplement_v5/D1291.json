@@ -1,0 +1,40 @@
+{
+ "doc_id": "D1291",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:52:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0765916,
+  "in": 2,
+  "out": 915,
+  "cache_read": 2656,
+  "cache_create": 16793,
+  "api_ms": 10544,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers",
+   "operators_or_deployers",
+   "importers_or_distributors",
+   "manufacturers_or_producers",
+   "certification_or_notified_bodies",
+   "member_states_or_subnational_governments",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Regulation applies to providers of AI systems (whether established in the Union or a third country) and to deployers of AI systems established in the Union, as well as other operators, Union institutions and bodies acting as providers or deployers.",
+  "bound_parties_quote": "the rules established by this Regulation should apply to providers of AI systems in a non-discriminatory manner, irrespective of whether they are established within the Union or in a third country, and to deployers of AI systems established within the Union.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "REGULATION (EU) 2024/… OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 laying down harmonised rules on artificial intelligence",
+  "confidence": 0.8
+ }
+}

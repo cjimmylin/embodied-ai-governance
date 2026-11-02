@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-1c606663",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:16:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0401638,
+  "in": 2,
+  "out": 1672,
+  "cache_read": 11758,
+  "cache_create": 5566,
+  "api_ms": 8374,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Enrolled House Bill 4127: Relating to protections for warehouse workers",
+  "title_en": "Enrolled House Bill 4127: Relating to protections for warehouse workers",
+  "language": "en",
+  "authors_or_issuer": "Oregon Legislative Assembly",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Oregon Legislative Assembly, 2024 Regular Session",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "logistics_transport",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "transparency_explainability",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Oregon enrolled House Bill 4127 (2024) protects warehouse distribution center workers by requiring written disclosure of productivity quotas, barring discipline for undocumented quotas, and giving employees a right to request their work speed data. It sets civil penalties enforced by the Bureau of Labor and Industries. It does not mention AI or robots.",
+  "key_provisions_or_claims": [
+   "Employers must give written quota documentation, including consequences of missing it.",
+   "No adverse action for failing a quota that was not documented.",
+   "Employees can request 90 days of work speed data within 21 days, free of charge.",
+   "Violations of the records right bring civil penalties up to $1,000.",
+   "Collective bargaining agreements with equivalent rights are exempt."
+  ],
+  "confidence": 0.9
+ }
+}

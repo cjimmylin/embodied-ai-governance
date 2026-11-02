@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-b70da4e3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.17264580000000002,
+  "in": 2,
+  "out": 1823,
+  "cache_read": 11758,
+  "cache_create": 38309,
+  "api_ms": 11643,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Our Common Agenda Policy Brief 9: A New Agenda for Peace",
+  "title_en": "Our Common Agenda Policy Brief 9: A New Agenda for Peace",
+  "language": "en",
+  "authors_or_issuer": "United Nations Secretary-General",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2023,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "United Nations",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [],
+  "doc_type": "consultation_or_white_paper",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "proposal_or_concept",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "human_oversight_control",
+   "ethics_principles",
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "trust_acceptance"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 2,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "international_cooperation",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "UN Secretary-General's policy brief proposing a New Agenda for Peace ahead of the 2024 Summit of the Future. Mostly about nuclear disarmament, conflict prevention and UN reform. Embodied AI content is limited to a call for a legally binding ban on lethal autonomous weapons by 2026, plus military AI norms and a possible global AI body.",
+  "key_provisions_or_claims": [
+   "Conclude by 2026 a legally binding instrument prohibiting lethal autonomous weapon systems that operate without human control and cannot comply with IHL, and regulate all other autonomous weapons.",
+   "Develop national strategies on responsible military AI and multilateral norms for military AI applications.",
+   "Consider a new global body to mitigate peace and security risks of AI.",
+   "Agree a global framework regulating data-driven technology and AI for counter-terrorism.",
+   "Prevent weaponization of emerging domains (cyber, space, biotech)."
+  ],
+  "confidence": 0.9
+ }
+}

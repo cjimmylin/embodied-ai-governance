@@ -1,0 +1,116 @@
+{
+ "doc_id": "R2-1617d407",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:50:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.5532538,
+  "in": 2,
+  "out": 1995,
+  "cache_read": 11758,
+  "cache_create": 133031,
+  "api_ms": 13761,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Civil Aviation Directive 6011 Part (V) – Unmanned Aircraft System: Special UAS Project",
+  "title_en": "Civil Aviation Directive 6011 Part (V) – Unmanned Aircraft System: Special UAS Project",
+  "language": "en",
+  "authors_or_issuer": "Civil Aviation Authority of Malaysia (CAAM)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2022,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "CAAM Civil Aviation Directives",
+  "jurisdiction_country": "MY",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "MY"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "agriculture_food",
+   "research_science",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "privacy_data_protection",
+   "civil_liability",
+   "standards_interoperability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "insurance_requirement",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "education_training_programs",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Malaysian CAAM directive (Issue 01/Rev 01, Nov 2022) setting binding requirements and a five-phase approval process for Special UAS Project operations (BVLOS, carriage of dangerous goods, R&D). It adopts the JARUS SORA risk methodology, operator management and safety systems, UTM services, insurance, and occurrence reporting, and prohibits autonomous operations.",
+  "key_provisions_or_claims": [
+   "No person may conduct Special UAS Project operations without a valid CAAM SUP Approval, valid up to one year.",
+   "Operational risk assessment via JARUS SORA determines SAIL and operational safety objectives; SAIL III and above need the full five-phase process.",
+   "Autonomous operations (no remote pilot ability to intervene) are not allowed.",
+   "Operators must hold third-party liability insurance, a UTM service, an accountable manager and a safety management system.",
+   "Dangerous goods carriage needs a separate CAAM application, extra risk assessment and a DG SOP; contraventions are offences under the Civil Aviation Act 1969."
+  ],
+  "confidence": 0.9
+ }
+}

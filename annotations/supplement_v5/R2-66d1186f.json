@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-66d1186f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:02:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0285096,
+  "in": 2,
+  "out": 744,
+  "cache_read": 2656,
+  "cache_create": 5200,
+  "api_ms": 5191,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "public_bodies_or_government",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The law binds natural or legal persons and civil organizations operating remotely piloted aircraft systems (who need an operator/pilot licence), owners of RPA/RPAS (who must register them), and the MTC/DGAC, which licenses, regulates and sanctions.",
+  "bound_parties_quote": "Toda persona natural o jurídica u organización civil que opere un sistema de aeronaves pilotadas a distancia (RPAS), para uso diferente a la práctica aerodeportiva o recreativa, debe contar con una licencia de operador/piloto",
+  "entry_into_force_date": "2018-03-22",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "El Poder Ejecutivo reglamenta la presente ley en un plazo máximo de ciento veinte días contados a partir del día siguiente de su publicación.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2018,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "LEY QUE REGULA EL USO Y LAS OPERACIONES DE LOS SISTEMAS DE AERONAVES PILOTADAS A DISTANCIA (RPAS)",
+  "confidence": 0.6
+ }
+}

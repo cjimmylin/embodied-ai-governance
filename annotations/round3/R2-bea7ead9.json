@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-bea7ead9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:16:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0714804,
+  "in": 4,
+  "out": 3804,
+  "cache_read": 29164,
+  "cache_create": 7629,
+  "api_ms": 18834,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "House Bill No. 455 (Enrolled): Autonomous Commercial Motor Vehicles",
+  "title_en": "House Bill No. 455 (Enrolled): Autonomous Commercial Motor Vehicles",
+  "language": "en",
+  "authors_or_issuer": "Louisiana Legislature (Representative Terry Landry et al.)",
+  "issuer_type": "legislature",
+  "pub_year": 2019,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Louisiana Legislature, 2019 Regular Session",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "insurance_requirement",
+   "liability_regime",
+   "incident_reporting",
+   "oversight_body_creation",
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [
+   "49 CFR Part 567",
+   "Louisiana R.S. 32:398"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Louisiana Act (HB 455, 2019) enacting R.S. 32:400.1–400.8 to govern autonomous commercial motor vehicles. It lets them operate without a driver present if registered, federally certified, able to reach a minimal risk condition and insured for $2 million. It also covers remote drivers and teleoperation, and preserves existing liability law.",
+  "key_provisions_or_claims": [
+   "Autonomous commercial vehicles governed exclusively by this Part; Department of Transportation and Development is sole authority",
+   "Operation without a driver requires registration, FMVSS certification, minimal risk condition capability and $2M liability coverage",
+   "Operator must submit written certification statement to DOTD before driverless operation",
+   "Remote drivers are treated as vehicle operators, must hold proper licence, and teleoperated vehicles have similar criteria",
+   "Existing liability law is not preempted; Louisiana law resolves choice-of-law conflicts"
+  ],
+  "confidence": 0.9
+ }
+}

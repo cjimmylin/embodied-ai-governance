@@ -1,0 +1,35 @@
+{
+ "doc_id": "R3-7f8f3bef",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07676359999999999,
+  "in": 2,
+  "out": 627,
+  "cache_read": 2656,
+  "cache_create": 17556,
+  "api_ms": 3885,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "certification_or_notified_bodies"
+  ],
+  "bound_parties_text": "The vehicle manufacturer (or its authorized representative) must apply for approval and meet the DCAS requirements, and the Type Approval Authority must assess documentation and verify conformity of production.",
+  "bound_parties_quote": "The application for approval of a vehicle type with regard to the DCAS shall be submitted by the vehicle manufacturer or by the manufacturer’s authorized representative to the Type Approval Authority",
+  "entry_into_force_date": "2024-09-22",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Date of entry into force: 22 September 2024",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "UN Regulation No 171 – Uniform provisions concerning the approval of vehicles with regard to Driver Control Assistance Systems (DCAS) [2024/2689]",
+  "confidence": 0.85
+ }
+}

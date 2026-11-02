@@ -1,0 +1,123 @@
+{
+ "doc_id": "R3-6b52a4ea",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:17:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.060433799999999996,
+  "in": 2,
+  "out": 1957,
+  "cache_read": 11758,
+  "cache_create": 9921,
+  "api_ms": 9814,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "A new era for aviation: Opening the aviation market to the civil use of remotely piloted aircraft systems in a safe and sustainable manner",
+  "title_en": "A new era for aviation: Opening the aviation market to the civil use of remotely piloted aircraft systems in a safe and sustainable manner",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2014,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2014) 207 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "FR",
+   "JP",
+   "US",
+   "IL"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "agriculture_food",
+   "energy_environment",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "civil_liability",
+   "cybersecurity",
+   "industrial_policy_innovation",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "liability_regime",
+   "insurance_requirement",
+   "audits_impact_assessment",
+   "funding_or_incentives",
+   "international_cooperation",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [
+   "Regulation (EC) No 216/2008 (EASA Basic Regulation)",
+   "Data Protection Directive 95/46/EC",
+   "Regulation (EC) 785/2004",
+   "Chicago Convention",
+   "Directive 98/34/EC"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "European Commission Communication setting out an EU strategy to integrate civil remotely piloted aircraft systems (drones) into European airspace from 2016. It proposes harmonised, risk-proportionate EASA rules, R&D, security, privacy and data protection measures, liability and insurance review, and industrial support.",
+  "key_provisions_or_claims": [
+   "Integrate RPAS into civil airspace from 2016 with safety equivalent to manned aviation",
+   "EASA to develop risk-proportionate common rules; reconsider the 150 kg competence threshold",
+   "Address security, privacy and data protection of RPAS operations",
+   "Assess third-party liability and insurance rules for RPAS below 500 kg",
+   "Use Horizon 2020 and COSME to support the RPAS industry and SMEs"
+  ],
+  "confidence": 0.9
+ }
+}

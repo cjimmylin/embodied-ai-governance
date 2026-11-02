@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/user/embodied-ai-governance-v4
+cd /home/user/embodied-ai-governance-v5
 set -e
 python3 scripts/13_analysis_A.py > logs/v4_13.log 2>&1
 python3 scripts/14_analysis_B.py > logs/v4_14.log 2>&1

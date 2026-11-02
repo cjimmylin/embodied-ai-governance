@@ -1,6 +1,6 @@
 #!/bin/bash
 # v4 pipeline from stored annotations: assembly, overrides, v4 unit/tier rules, reliability, analyses, figures, round-2 report, dashboard.
-cd /home/user/embodied-ai-governance-v4
+cd /home/user/embodied-ai-governance-v5
 set -e
 mkdir -p logs
 python3 scripts/07_assemble.py > logs/v4_07.log 2>&1

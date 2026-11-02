@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-81ec4cf4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026575599999999998,
+  "in": 2,
+  "out": 621,
+  "cache_read": 2656,
+  "cache_create": 5024,
+  "api_ms": 13464,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The resolution binds operators of remotely operated aerial devices (drones/RPAS), whether recreational or commercial, including requirements on operators to hold permits, licences and insurance.",
+  "bound_parties_quote": "Para todos los dispositivos se prohíbe salvo autorización expresa de la Autoridad Aeronáutica",
+  "entry_into_force_date": "2014-08-29",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Aeropuerto Internacional de Carrasco \"Gral. Cesáreo L. Berisso\",        2 9 AGO 2014",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2014,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Los Dispositivos Aéreos         Operados a Distancia, cualquiera sea su denominación comercial o común se clasifican en :",
+  "confidence": 0.7
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-5e384b5b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.015681599999999997,
+  "in": 2,
+  "out": 658,
+  "cache_read": 2656,
+  "cache_create": 2208,
+  "api_ms": 4790,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "providers_or_developers",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The guidelines are aimed at manufacturers and developers of automated vehicles, of their sub-assemblies and components, and organizations involved in trials or test/validation activities on AVs.",
+  "bound_parties_quote": "Manufacturers and developers of automatic vehicles\nManufacturers and developers of automatic vehicle sub-assemblies and components\nOrganizations involved in trials or other test/validation activities on AVs",
+  "entry_into_force_date": "2020-04-30",
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2022-08-01",
+  "dates_quote": "Published:\n30 Apr 2020\nWithdrawn:\n1 Aug 2022",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "This document provides a set of initial guidelines for developers of control systems for the safe, secure and effective deployment of automated vehicles (AVs).",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Guidelines for developing and assessing control systems for automated vehicles",
+  "confidence": 0.8
+ }
+}

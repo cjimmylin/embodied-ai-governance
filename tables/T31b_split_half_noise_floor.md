@@ -2,10 +2,10 @@
 
 | region                    |   n |   split_half_distance_median |   p95 |
 |:--------------------------|----:|-----------------------------:|------:|
-| Europe                    | 634 |                        0.005 | 0.008 |
-| Asia                      | 329 |                        0.008 | 0.013 |
-| North America             | 211 |                        0.015 | 0.022 |
-| Latin America & Caribbean |  36 |                        0.067 | 0.111 |
-| Middle East               |  45 |                        0.046 | 0.082 |
-| Oceania                   |  80 |                        0.033 | 0.054 |
-| International             | 241 |                        0.009 | 0.023 |
+| Europe                    | 654 |                        0.004 | 0.008 |
+| Asia                      | 376 |                        0.007 | 0.011 |
+| North America             | 237 |                        0.013 | 0.022 |
+| Latin America & Caribbean |  40 |                        0.057 | 0.094 |
+| Middle East               |  46 |                        0.048 | 0.086 |
+| Oceania                   |  80 |                        0.033 | 0.063 |
+| International             | 242 |                        0.008 | 0.017 |

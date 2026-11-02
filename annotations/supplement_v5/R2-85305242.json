@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-85305242",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0333796,
+  "in": 2,
+  "out": 587,
+  "cache_read": 2656,
+  "cache_create": 6810,
+  "api_ms": 4292,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The opinion is addressed to provincial human resources and social security departments, development and reform commissions, industry and information technology authorities, and data management departments, which are to organize and implement the tasks.",
+  "bound_parties_quote": "省级人社、发展改革、工业和信息化、数据管理等部门要组织做好工作部署，分解具体任务和时间节点",
+  "entry_into_force_date": "2026-06-22",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "人力资源社会保障部 国家发展改革委 工业和信息化部 国家数据局 2026年6月22日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "现就加快推进“人工智能＋人社”应用发展提出如下实施意见。",
+  "confidence": 0.6
+ }
+}

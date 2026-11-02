@@ -1,0 +1,40 @@
+{
+ "doc_id": "R2-7e9640a0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.10992560000000001,
+  "in": 2,
+  "out": 756,
+  "cache_read": 2656,
+  "cache_create": 25524,
+  "api_ms": 6802,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "operators_or_deployers",
+   "owners_or_users",
+   "pilots_or_drivers",
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The ordinance binds manufacturers and importers of vehicles with an automation system, vehicle drivers, keepers, operators (Operatorinnen/Operatoren) of driverless vehicles, operators of parking areas, and authorities such as ASTRA, the cantons and the police.",
+  "bound_parties_quote": "Hersteller oder Importeure von führerlosen Fahrzeugen und von Fahrzeugen mit Automatisierungssystemen zum Parkieren müssen dem ASTRA sicherheitsrelevante Vorfälle melden.",
+  "entry_into_force_date": "2025-03-01",
+  "applicability_date": "2025-07-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 1. März 2025 in Kraft.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Diese Verordnung regelt die Voraussetzungen für die Zulassung und die Verwendung von Motorfahrzeugen mit einem Automatisierungssystem",
+  "confidence": 0.85
+ }
+}

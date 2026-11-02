@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-1617d407",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:52:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0732236,
+  "in": 2,
+  "out": 599,
+  "cache_read": 2656,
+  "cache_create": 16741,
+  "api_ms": 6584,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The CAD contains standards, requirements and procedures for individuals and operators in Malaysia seeking approval for Special UAS Project operations, including UAS operators and remote pilots.",
+  "bound_parties_quote": "This CAD contains the standards, requirements and procedures to individuals and operators in Malaysia seeking approval for operations categorised as ‘Special UAS Project’.",
+  "entry_into_force_date": "2022-11-15",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "comes into operation on 15 November 2022.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2022,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "This CAD is applicable to Special UAS Project operations utilising an Unmanned Aircraft System (UAS).",
+  "confidence": 0.85
+ }
+}

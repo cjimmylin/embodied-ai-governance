@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-a5d8c6ae",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.018101600000000002,
+  "in": 2,
+  "out": 596,
+  "cache_read": 2656,
+  "cache_create": 2968,
+  "api_ms": 4054,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The standard states no binding obligations; it is a voluntary specification for design, fabrication and testing of sUAS parachute recovery systems, with users responsible for their own safety practices.",
+  "bound_parties_quote": "It is the responsibility of the user of this standard to establish appropriate safety, health, and environmental practices and determine the applicability of regulatory limitations prior to use.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "unknown",
+  "legal_effect_quote": "Compliance with this specification is intended to support an applicant in obtaining permission from a civil aviation authority (CAA) to fly a sUA over people.",
+  "robot_provision_year": 2018,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Standard Specification for Small Unmanned Aircraft System (sUAS) Parachutes F3322-18",
+  "confidence": 0.6
+ }
+}

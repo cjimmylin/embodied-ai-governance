@@ -1,0 +1,24 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["bound_parties", "bound_parties_text", "bound_parties_quote", "entry_into_force_date", "applicability_date", "repeal_or_expiry_date", "dates_quote", "legal_effect_of_standard", "legal_effect_quote", "robot_provision_year", "robot_provision_basis", "robot_provision_quote", "confidence"],
+  "properties": {
+    "bound_parties": {
+      "type": "array",
+      "items": {"type": "string", "enum": ["manufacturers_or_producers", "importers_or_distributors", "providers_or_developers", "operators_or_deployers", "owners_or_users", "employers", "public_bodies_or_government", "certification_or_notified_bodies", "member_states_or_subnational_governments", "pilots_or_drivers", "researchers_or_institutions", "individuals_or_general_public", "none_stated", "not_applicable"]},
+      "description": "Who the instrument imposes obligations on, from the text. Empty is not allowed: use none_stated or not_applicable."
+    },
+    "bound_parties_text": {"type": "string", "description": "One sentence in English naming the parties bound, as the text names them. Empty string if none."},
+    "bound_parties_quote": {"type": "string", "description": "A verbatim quote (original language) of at most 300 characters showing who is bound, or empty string."},
+    "entry_into_force_date": {"type": ["string", "null"], "description": "Date the instrument enters into force, YYYY-MM-DD, YYYY-MM or YYYY, only if stated in the text; otherwise null."},
+    "applicability_date": {"type": ["string", "null"], "description": "Date from which the obligations apply if different from entry into force (for example EU regulations with a later application date), YYYY-MM-DD, YYYY-MM or YYYY; null if not stated or same as entry into force."},
+    "repeal_or_expiry_date": {"type": ["string", "null"], "description": "Date on which the instrument is repealed, expires or ceases to apply, if stated in the text; null otherwise. Do not infer."},
+    "dates_quote": {"type": "string", "description": "A verbatim quote of at most 300 characters supporting the dates, or empty string."},
+    "legal_effect_of_standard": {"type": "string", "enum": ["not_a_standard", "voluntary", "harmonised_or_designated", "incorporated_by_reference_in_law", "mandatory_by_its_own_terms", "unknown"], "description": "For technical standards only: their legal effect as stated in the text (a harmonised or designated standard gives presumption of conformity; a standard incorporated by reference in a law or regulation is binding through that law; a mandatory standard binds by its own terms, for example Chinese GB standards). For any other document use not_a_standard."},
+    "legal_effect_quote": {"type": "string", "description": "A verbatim quote of at most 300 characters supporting the legal effect, or empty string."},
+    "robot_provision_year": {"type": ["integer", "null"], "description": "The year in which the provisions about robots, autonomous or automated systems, drones or AI were added to this instrument, if the text states an amendment history (for example 'amended by Act No. 20 of 2019' next to an automated-driving article). If the whole instrument is about such systems, the year of the instrument itself. Null if not determinable from the text."},
+    "robot_provision_basis": {"type": "string", "enum": ["whole_instrument_is_about_such_systems", "amendment_history_in_text", "stated_in_provision", "not_determinable"], "description": "How robot_provision_year was determined."},
+    "robot_provision_quote": {"type": "string", "description": "A verbatim quote of at most 300 characters supporting robot_provision_year, or empty string."},
+    "confidence": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

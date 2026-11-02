@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-c5427e07",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0785756,
+  "in": 2,
+  "out": 623,
+  "cache_read": 2656,
+  "cache_create": 18019,
+  "api_ms": 16823,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "owners_or_users",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The rules bind remote pilots in command, persons manipulating flight controls, owners, operators and visual observers of small unmanned aircraft systems, and holders of declarations of compliance (applicants/producers).",
+  "bound_parties_quote": "A remote pilot in command, owner, or person manipulating the flight controls of a small unmanned aircraft system must—",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Source: Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, unless otherwise noted.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2016,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "PART 107—SMALL UNMANNED AIRCRAFT SYSTEMS",
+  "confidence": 0.8
+ }
+}

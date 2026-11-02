@@ -1,5 +1,5 @@
 findfont: Failed to find font weight semibold for DejaVu Sans, now using 700.
-/home/user/embodied-ai-governance-v4/scripts/13_analysis_A.py:37: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
+/home/user/embodied-ai-governance-v5/scripts/13_analysis_A.py:37: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
   t1=pd.crosstab(U.doc_type,U.setname).reindex(columns=["Embodied-AI set","General-AI set","Other"],fill_value=0); t1["total"]=t1.sum(1); t1=t1.sort_values("total",ascending=False).reset_index()
 findfont: Failed to find font weight semibold for DejaVu Sans, now using 700.
-Part A done: 63 result keys
+Part A done: 64 result keys

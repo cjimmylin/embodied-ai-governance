@@ -2,7 +2,7 @@
 """v4: compare the rule-based counting unit (principal instrument, robot-relevant, substantive capture) with the independent precision audit
 of 100 randomly sampled v3 binding embodied instruments, and derive precision-corrected counts with Wilson intervals. Writes T62 and results keys."""
 import sys, numpy as np, pandas as pd
-sys.path.insert(0,"/home/user/embodied-ai-governance-v4/scripts"); from analysis_common import *
+sys.path.insert(0,"/home/user/embodied-ai-governance-v5/scripts"); from analysis_common import *
 a=load(); m=a.set_index("doc_id")
 s=pd.read_csv(B+"review/v3_reviews/precision_audit_sample.csv",dtype=str,keep_default_na=False)
 yes=lambda col: s[col].str.strip().str.lower().str.startswith("y")

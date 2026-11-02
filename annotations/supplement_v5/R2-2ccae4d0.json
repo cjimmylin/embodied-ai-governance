@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-2ccae4d0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.023589600000000002,
+  "in": 2,
+  "out": 622,
+  "cache_read": 2656,
+  "cache_create": 4275,
+  "api_ms": 5452,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "A person operating an autonomous or fully autonomous vehicle under a pilot program must submit a program with required statements, and the State Highway Commission must adopt implementing rules.",
+  "bound_parties_quote": "The commission shall adopt rules necessary for the implementation of this section.",
+  "entry_into_force_date": "2019-03-14",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "shall become effective on: (1) The date of its approval by the Governor; APPROVED: 3/14/19",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "AN ACT TO AUTHORIZE THE OPERATION OF AUTONOMOUS VEHICLES OR FULLY AUTONOMOUS VEHICLES ON THE STREETS AND HIGHWAYS OF THIS STATE",
+  "confidence": 0.85
+ }
+}

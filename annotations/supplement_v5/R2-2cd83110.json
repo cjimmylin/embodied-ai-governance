@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-2cd83110",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:54:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0541316,
+  "in": 2,
+  "out": 623,
+  "cache_read": 2656,
+  "cache_create": 11908,
+  "api_ms": 3722,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "pilots_or_drivers",
+   "operators_or_deployers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Order binds persons who operate small unmanned aircraft (remote pilots), responsible persons of registered unmanned aircraft, and registered remote pilots (who must update information), and it empowers the Director-General of Civil Aviation and authorized officers.",
+  "bound_parties_quote": "Subdivision 2 requires responsible persons and registered remote pilots to update documents and information",
+  "entry_into_force_date": "2022-06-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Subject to subsection (2), this Order comes into operation on 1 June 2022.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Sections 2 to 6 define expressions used in the Order (including small unmanned aircraft, operate, flight and enclosed area).",
+  "confidence": 0.85
+ }
+}

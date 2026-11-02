@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-3b329b09",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0786176,
+  "in": 2,
+  "out": 650,
+  "cache_read": 2656,
+  "cache_create": 17962,
+  "api_ms": 8710,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "operators_or_deployers",
+   "providers_or_developers",
+   "certification_or_notified_bodies"
+  ],
+  "bound_parties_text": "The DGUV information is addressed to manufacturers, system integrators, operators (Betreiber), accident insurance bodies and certification bodies of collaborative robot systems with power and force limiting.",
+  "bound_parties_quote": "praktischen Handlungsanleitungen für Hersteller, Systemintegratoren, Betreiber, Unfallversicherungsträger und Zertifizierungsstellen.",
+  "entry_into_force_date": "2017-08",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Ausgabe 08/2017",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2017,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Im Rahmen dieser DGUV-Information werden nur Industrierobotersysteme der Kollaborationsart Leistungs- und Kraftbegrenzung (Power and Force Limiting) behandelt.",
+  "confidence": 0.6
+ }
+}

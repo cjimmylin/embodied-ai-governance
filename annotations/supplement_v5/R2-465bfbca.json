@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-465bfbca",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0230536,
+  "in": 2,
+  "out": 656,
+  "cache_read": 2656,
+  "cache_create": 4056,
+  "api_ms": 6795,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The guidance applies to organisations and individuals operating small unmanned aircraft (aerial work operators, recreational flyers, and pilots/operators of SUA and SUSA).",
+  "bound_parties_quote": "An organisation or individual offering services involving the use of a SUA (of any weight) in exchange for financial reward or commercial advantage (otherwise known as Aerial Work) must be in possession of a current Permission",
+  "entry_into_force_date": null,
+  "applicability_date": "2016-02-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "In addition and with effect from 1st February 2016 SUA are prohibited from flying within 3 nautical miles (nm) of the perimeter of:",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2017,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Small Unmanned Aircraft (SUA) is the generic term used in the aviation legislation covering a variety of similar names including, but not limited to, drones",
+  "confidence": 0.7
+ }
+}

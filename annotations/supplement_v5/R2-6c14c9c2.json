@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-6c14c9c2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0720716,
+  "in": 2,
+  "out": 641,
+  "cache_read": 2656,
+  "cache_create": 16348,
+  "api_ms": 8339,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "member_states_or_subnational_governments",
+   "certification_or_notified_bodies",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The Regulation imposes obligations on manufacturers, authorised representatives, importers and distributors (economic operators) of UAS, Member States and market surveillance authorities, notified conformity assessment bodies, and third-country UAS operators.",
+  "bound_parties_quote": "Manufacturers shall ensure that the product is accompanied by the manual and information notice required by Parts 1 to 6 of the Annex",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "COMMISSION DELEGATED REGULATION (EU) 2019/945 of 12 March 2019 on unmanned aircraft systems and on third-country operators of unmanned aircraft systems",
+  "confidence": 0.8
+ }
+}

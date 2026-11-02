@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-cd /home/user/embodied-ai-governance-v4
+cd /home/user/embodied-ai-governance-v5
 python3 scripts/07_assemble.py 2>&1 | grep -v "not found" | head -3
 python3 scripts/09_reliability.py annotations/reliability_opus 2>&1 | grep -v "not found" | tail -3
 python3 scripts/09_reliability.py annotations/reliability_sonnet_rerun _retest 2>&1 | grep -v "not found" | tail -3

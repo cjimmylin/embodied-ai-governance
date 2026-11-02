@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-84d1af71",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:46:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0790998,
+  "in": 2,
+  "out": 1956,
+  "cache_read": 11758,
+  "cache_create": 14590,
+  "api_ms": 12113,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Enforcement Decree of the Intelligent Robots Development and Distribution Promotion Act",
+  "title_en": "Enforcement Decree of the Intelligent Robots Development and Distribution Promotion Act",
+  "language": "en",
+  "authors_or_issuer": "Republic of Korea (Presidential Decree; Ministry of Trade, Industry and Resources)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Korea Law Translation Center",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_robotics_general",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "professional_service_robots",
+   "delivery_robots",
+   "other_embodied"
+  ],
+  "primary_embodied_category": "other_embodied",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "ethics_principles",
+   "civil_liability",
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "consumer_protection"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "insurance_requirement",
+   "liability_regime",
+   "self_regulation_codes",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "Korea Intelligent Robots Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Korean Presidential Decree implementing the Intelligent Robots Development and Distribution Promotion Act, as amended through October 2025. It sets basic and implementation plans, a Policy Council, a robot ethics advisory committee and charter, damage liability business, outdoor mobile robot safety certification and mandatory liability insurance, robotland designation, and specialized enterprise designation.",
+  "key_provisions_or_claims": [
+   "Minister of Trade, Industry and Resources formulates basic robot plan; Policy Council deliberates",
+   "Robot ethics advisory committee (max 20, two-thirds non-governmental) advises on intelligent robot ethics charter",
+   "Damage liability business covers third-party compensation, warranty and supply contract liabilities (Art. 11-2)",
+   "Outdoor mobile robots with safety certification may display certification mark and must buy liability insurance (Arts. 24-2, 24-3)",
+   "Robotland designation, specialized enterprise standards, and administrative fine criteria"
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-1ecd5f95",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:52:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07278559999999999,
+  "in": 2,
+  "out": 594,
+  "cache_read": 2656,
+  "cache_create": 16644,
+  "api_ms": 6304,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers"
+  ],
+  "bound_parties_text": "The AC applies to a person intending to conduct BVLOS operations using a UA in Singapore, i.e. operators (and UA pilots) applying for permits.",
+  "bound_parties_quote": "This AC is applicable for a person intending to conduct BVLOS operations using a UA in Singapore.",
+  "entry_into_force_date": "2020-01-02",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This AC is effective from 2 January 2020.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "This Advisory Circular provides an overview of CAAS’ assessment methodology for Beyond Visual Line of Sight (BVLOS) operations for Unmanned Aircraft (UA) in Singapore.",
+  "confidence": 0.85
+ }
+}

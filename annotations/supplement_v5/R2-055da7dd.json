@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-055da7dd",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:54:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1055496,
+  "in": 2,
+  "out": 618,
+  "cache_read": 2656,
+  "cache_create": 24775,
+  "api_ms": 7135,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "public_bodies_or_government",
+   "owners_or_users"
+  ],
+  "bound_parties_text": "The instrument binds applicants (natural persons, sole proprietorships, partnerships, legal persons) conducting unmanned vehicle innovation experiments, as well as unmanned vehicle owners and review committee members.",
+  "bound_parties_quote": "申請人應遵守本條例規定及主管機關核准創新實驗時要求申請人辦理之事項，並應依主管機關指示說明創新實驗情形。",
+  "entry_into_force_date": "2019-06-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "本辦法自中華民國一百零八年六月一日施行。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "無人載具科技創新實驗計畫 申請須知 經濟部產業技術司編印 109 年 4 月",
+  "confidence": 0.6
+ }
+}

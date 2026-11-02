@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-4076f1d4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:06:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.018485599999999998,
+  "in": 2,
+  "out": 636,
+  "cache_read": 2656,
+  "cache_create": 2964,
+  "api_ms": 10803,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "State or local government departments, agencies, or instrumentalities with jurisdiction over criminal law enforcement or regulatory violations, including the Department of State Police and local law enforcement departments, are barred from using unmanned aircraft systems without a warrant.",
+  "bound_parties_quote": "No state or local government department, agency, or instrumentality having jurisdiction over criminal law enforcement or regulatory violations, including the Department of State Police",
+  "entry_into_force_date": "2015",
+  "applicability_date": "2026-10-30",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "10/30/2026 ... 2015, cc. 764, 774; 2018, cc. 419, 546, 654; 2019, c. 781; 2025, c. 400; 2026, c. 245.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2015,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Use of unmanned aircraft systems by public bodies; search warrant required.",
+  "confidence": 0.6
+ }
+}

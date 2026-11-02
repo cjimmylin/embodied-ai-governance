@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-5999ddf3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.014785600000000001,
+  "in": 2,
+  "out": 586,
+  "cache_read": 2656,
+  "cache_create": 2164,
+  "api_ms": 3471,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The act grants the state of Rhode Island and the Rhode Island Airport Corporation exclusive legal authority to regulate unpiloted aerial vehicles; it imposes no direct obligations on others.",
+  "bound_parties_quote": "the state of Rhode Island and the Rhode Island Airport Corporation shall have exclusive legal authority to regulate any object capable of flying",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "SECTION 3. This act shall take effect upon passage.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2016,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "AN ACT RELATING TO AERONAUTICS -- UNPILOTED AERIAL VEHICLE REGULATION",
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-7fa23c8d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:59:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0630676,
+  "in": 2,
+  "out": 653,
+  "cache_read": 2656,
+  "cache_create": 14067,
+  "api_ms": 6373,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "public_bodies_or_government",
+   "certification_or_notified_bodies"
+  ],
+  "bound_parties_text": "The Regulation binds owners of highly automated vehicles (who must insure, record video, notify passengers, bear responsibility), the Ministry of Industry and Trade, the Ministry of Internal Affairs, and the test laboratory (NAMI), as participants in the experiment.",
+  "bound_parties_quote": "При проведении эксперимента собственник высокоавтоматизированного транспортного средства обязан:",
+  "entry_into_force_date": "2018-12-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2022-07-01",
+  "dates_quote": "г. Москвы и Республики Татарстан - с 1 декабря 2018 г. по 1 июля 2022 г.;",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2018,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Провести эксперимент по опытной эксплуатации на автомобильных дорогах общего пользования высокоавтоматизированных транспортных средств",
+  "confidence": 0.8
+ }
+}

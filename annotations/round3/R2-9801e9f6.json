@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-9801e9f6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:17:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.037351800000000004,
+  "in": 2,
+  "out": 1744,
+  "cache_read": 11758,
+  "cache_create": 4683,
+  "api_ms": 8880,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "South Dakota Codified Laws Chapter 50-15: Drones",
+  "title_en": "South Dakota Codified Laws Chapter 50-15: Drones",
+  "language": "en",
+  "authors_or_issuer": "South Dakota Legislature",
+  "issuer_type": "subnational_government",
+  "pub_year": 2026,
+  "pub_month": null,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "South Dakota Legislature - Codified Laws",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "cross_sector",
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "criminal_liability",
+   "civil_liability",
+   "other"
+  ],
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "technical_standards_reference",
+   "liability_regime",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "South Dakota Codified Laws Chapter 50-15 regulates drone operation: requires FAA compliance, criminalizes flights over prisons and military sites, contraband delivery, privacy violations, careless operation and trespass, authorizes counter-drone measures, and limits local and state regulation in deference to federal airspace authority.",
+  "key_provisions_or_claims": [
+   "Drone operations must comply with FAA regulations; military drones exempt.",
+   "Flying over prisons or military facilities is a Class 6 felony; law enforcement may use countermeasures.",
+   "Drone delivery of contraband to prisons is a felony.",
+   "Privacy invasion, careless/harassing operation and trespass landings are Class 1 misdemeanors.",
+   "State and local governments barred from regulating drone design, registration, airspace or pilot qualifications; federal airspace authority preserved."
+  ],
+  "confidence": 0.9
+ }
+}

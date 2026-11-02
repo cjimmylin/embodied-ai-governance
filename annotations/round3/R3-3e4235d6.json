@@ -1,0 +1,94 @@
+{
+ "doc_id": "R3-3e4235d6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:11:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0700998,
+  "in": 2,
+  "out": 1724,
+  "cache_read": 11758,
+  "cache_create": 12920,
+  "api_ms": 11325,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国家卫生健康委办公厅关于印发婴幼儿营养喂养评估服务指南（试行）的通知",
+  "title_en": "Notice of the General Office of the National Health Commission on Issuing the Infant and Young Child Nutrition and Feeding Assessment Service Guide (Trial)",
+  "language": "zh",
+  "authors_or_issuer": "国家卫生健康委办公厅 (General Office of the National Health Commission)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "National Health Commission of China",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "children_vulnerable_groups",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese National Health Commission trial guide on infant and toddler (0–3 years) nutrition and feeding assessment services in primary health institutions. It sets assessment schedules, feeding behaviour and nutrition status criteria, counselling, staffing and service indicators. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Nine assessments at 1, 3, 6, 8, 12, 18, 24, 30 and 36 months",
+   "Service covers health education, feeding behaviour evaluation, nutrition status evaluation and counselling",
+   "Uses WHO growth standards and haemoglobin thresholds to classify malnutrition, overweight and anaemia",
+   "Township hospitals, community centres and county maternal-child health institutions provide services with trained staff",
+   "Seven performance indicators, e.g. assessment rate and anaemia rate"
+  ],
+  "confidence": 0.95
+ }
+}

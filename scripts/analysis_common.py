@@ -1,10 +1,10 @@
 """Shared loaders, label maps, statistics and plotting helpers for the Stage 2 analysis."""
 import sys, os, json, numpy as np, pandas as pd
-sys.path.insert(0,"/home/user/embodied-ai-governance-v4/scripts"); import figstyle as fs
+sys.path.insert(0,"/home/user/embodied-ai-governance-v5/scripts"); import figstyle as fs
 import matplotlib.pyplot as plt
 from scipy import stats
 from statsmodels.stats.multitest import multipletests
-B="/home/user/embodied-ai-governance-v4/"; FD=B+"figures/data/"; TD=B+"tables/"
+B="/home/user/embodied-ai-governance-v5/"; FD=B+"figures/data/"; TD=B+"tables/"
 RESULTS={}
 def R(key,val): RESULTS[key]=val
 def dump_results():
@@ -52,7 +52,8 @@ def load():
     a["family_rep"]=a.family_rep.astype(bool); a["ai_explicit"]=a.ai_explicit.astype(bool); a["autonomy_terms"]=a.autonomy_terms.astype(bool); a["words_ok"]=a.words_ok.astype(bool)
     a["binding"]=a.binding_text&a.instrument                                 # v4 headline unit for binding counts: principal binding instruments
     a["content_capture"]=a.page_quality.isin(["substantive_document","partial_or_excerpt"])
-    a["round2"]=(a.collection_set=="round2")
+    a["round2"]=a.collection_set.isin(["round2","round3"])   # v5: database-harvested rounds (2 and 3) versus the web-collected round 1
+    a["round3"]=(a.collection_set=="round3")
     a["year"]=a.year_final
     a["period"]=pd.cut(a.year,[0,2014,2019,2022,2024,2026],labels=["to 2014","2015-2019","2020-2022","2023-2024","2025-2026"])
     a["setname"]=np.where(a.embodied_set,"Embodied-AI set",np.where(a.general_set,"General-AI set","Other"))

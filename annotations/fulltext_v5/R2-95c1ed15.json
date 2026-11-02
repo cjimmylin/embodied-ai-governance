@@ -1,0 +1,121 @@
+{
+ "doc_id": "R2-95c1ed15",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2317678,
+  "in": 2,
+  "out": 1926,
+  "cache_read": 11758,
+  "cache_create": 52832,
+  "api_ms": 11464,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "L'intelligence artificielle au service de la défense - Rapport de la Task Force IA",
+  "title_en": "Artificial Intelligence in the Service of Defence - AI Task Force Report",
+  "language": "fr",
+  "authors_or_issuer": "Ministère des Armées (France), Task Force IA",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministère des Armées",
+  "jurisdiction_country": "FR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "FR",
+   "US",
+   "CN",
+   "DE",
+   "GB"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [
+   "military_autonomous_weapons",
+   "drones_uas",
+   "professional_service_robots",
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "military_autonomous_weapons",
+  "application_sectors": [
+   "defense_security"
+  ],
+  "governance_topics": [
+   "military_use_ihl",
+   "ethics_principles",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "industrial_policy_innovation",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "education_training"
+  ],
+  "primary_topic": "military_use_ihl",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 2
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation",
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "funding_or_incentives",
+   "international_cooperation",
+   "data_governance_requirements",
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "UN LAWS/CCW GGE"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "principle_or_ethics_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "French Ministry of Armed Forces' 2019 AI strategy. It sets guiding principles for controlled, trustworthy defence AI and a roadmap: ministerial ethics committee, data governance, priority areas including robotics and autonomy, coordination cell (CCIAD), R&D investment and international cooperation. France rejects fully autonomous weapons beyond human control.",
+  "key_provisions_or_claims": [
+   "France will not develop fully autonomous lethal systems escaping human control; military command responsibility is maintained",
+   "Create a permanent ministerial ethics committee on defence emerging technologies in 2019",
+   "Risk analysis from design to set 'right level' of trust and robustness; mandatory human validation at some steps",
+   "Participate in civil and military standardisation and certification of AI",
+   "Create CCIAD within the Defence Innovation Agency; about 430 M€ upstream studies over 2019-2025"
+  ],
+  "confidence": 0.9
+ }
+}

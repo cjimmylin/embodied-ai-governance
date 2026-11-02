@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-1368b318",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0348796,
+  "in": 2,
+  "out": 597,
+  "cache_read": 2656,
+  "cache_create": 7160,
+  "api_ms": 7227,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The guideline directs national departments, provincial governments and city people's governments in metropolitan areas to coordinate and implement the comprehensive transport system measures, stressing city governments' primary responsibility.",
+  "bound_parties_quote": "形成国家部门指导、省级统筹、中心城市牵头、周边城市协同的都市圈交通协调机制，强化城市人民政府主体责任。",
+  "entry_into_force_date": "2026-06-11",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "2026年6月11日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "逐步依法推进末端无人配送接驳车辆规模化应用。因地制宜规划建设都市圈无人机物流起降场站和航线网络",
+  "confidence": 0.6
+ }
+}

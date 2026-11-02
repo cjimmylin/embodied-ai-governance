@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-32ddc0a1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:54:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0773676,
+  "in": 2,
+  "out": 583,
+  "cache_read": 2656,
+  "cache_create": 17817,
+  "api_ms": 4062,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "operators_or_deployers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "Motor vehicle owners must purchase mandatory liability insurance or mutual aid, and insurers, medical institutions and others have duties under the Act.",
+  "bound_parties_quote": "Any motor vehicle owner shall purchase a liability insurance policy or enter into a liability mutual aid agreement",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Wholly Amended by Act No. 9065, Mar. 28, 2008",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "The term \"autonomous driving motor vehicle accident\" means a motor vehicle accident that occurs while and in connection with operating an autonomous driving motor vehicle.",
+  "confidence": 0.5
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-b6c5f44e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:55:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08155559999999999,
+  "in": 2,
+  "out": 637,
+  "cache_read": 2656,
+  "cache_create": 18729,
+  "api_ms": 6932,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "Vehicle manufacturers must provide information to approval authorities and comply with the ISA technical requirements, and approval authorities must aggregate the information and provide it to the Commission.",
+  "bound_parties_quote": "Vehicle manufacturers shall provide the approval authorities granting type-approvals pursuant to this Regulation with the following information:",
+  "entry_into_force_date": "2021-12-07",
+  "applicability_date": "2022-07-06",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. It shall apply from 6 July 2022.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "COMMISSION DELEGATED REGULATION (EU) 2021/1958 of 23 June 2021 supplementing Regulation (EU) 2019/2144",
+  "confidence": 0.7
+ }
+}

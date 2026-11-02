@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-5de2dafe",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0683876,
+  "in": 2,
+  "out": 663,
+  "cache_read": 2656,
+  "cache_create": 15372,
+  "api_ms": 9705,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "manufacturers_or_producers",
+   "owners_or_users",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Part binds persons who own or operate remotely piloted aircraft, remote pilots, unmanned aircraft operator authorisation/certificate holders, and manufacturers of RPAS (elective declaration requirements).",
+  "bound_parties_quote": "A person who owns or operates a remotely piloted aircraft must, upon request, make available to the Director —",
+  "entry_into_force_date": "2017-05-01",
+  "applicability_date": "2025-11-19",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Part first came into force on 1 May 2017 and now incorporates the following amendment: Amendment 3 19 November 2025",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2017,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Part 102 prescribes the requirements for the certification and operation of unmanned aircraft type remotely piloted aircraft systems (RPAS) including radio-controlled model aircraft.",
+  "confidence": 0.85
+ }
+}

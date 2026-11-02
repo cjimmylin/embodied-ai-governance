@@ -1,0 +1,39 @@
+{
+ "doc_id": "R2-b39dc3bb",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0727516,
+  "in": 2,
+  "out": 601,
+  "cache_read": 2656,
+  "cache_create": 16618,
+  "api_ms": 12496,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "operators_or_deployers",
+   "member_states_or_subnational_governments",
+   "public_bodies_or_government",
+   "pilots_or_drivers",
+   "certification_or_notified_bodies"
+  ],
+  "bound_parties_text": "The Regulation binds persons and organisations involved in civil aviation (including operators of unmanned aircraft, designers and producers of aircraft and parts), Member States, their competent authorities, and the Agency and Commission.",
+  "bound_parties_quote": "Operators of unmanned aircraft shall be registered in accordance with the implementing acts referred to in Article 57, where they operate any of the following:",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2018,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "this Regulation should cover unmanned aircraft, regardless of their operating mass.",
+  "confidence": 0.6
+ }
+}

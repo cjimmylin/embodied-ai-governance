@@ -1,0 +1,36 @@
+{
+ "doc_id": "D0076",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:50:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0813116,
+  "in": 2,
+  "out": 633,
+  "cache_read": 2656,
+  "cache_create": 18678,
+  "api_ms": 5815,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers",
+   "operators_or_deployers",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The bill binds suppliers and operators of AI systems (together \"AI agents\"), and the Union, States, Federal District and Municipalities regarding AI education efforts.",
+  "bound_parties_quote": "Art. 8º Os agentes de inteligência artificial estabelecerão estruturas de governança e processos internos aptos a garantir a segurança dos sistemas",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Art. 15. Esta lei entra em vigor 90 (noventa) dias após a data da sua publicação.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Esta Lei estabelece princípios, garantias, direitos e deveres para o desenvolvimento, a implementação e a aplicação da inteligência artificial no Brasil",
+  "confidence": 0.85
+ }
+}

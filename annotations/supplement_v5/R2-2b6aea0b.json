@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-2b6aea0b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.13946360000000002,
+  "in": 2,
+  "out": 611,
+  "cache_read": 2656,
+  "cache_create": 33271,
+  "api_ms": 4532,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "importers_or_distributors"
+  ],
+  "bound_parties_text": "The designated manufacturers etc. of specified devices (指定製作者等) must ensure their devices have the structure and performance of the designated type, and persons listed in the table of Article 8 must notify the Minister of Land, Infrastructure, Transport and Tourism.",
+  "bound_parties_quote": "指定特定装置の製作者等（以下「指定製作者等」という。）は、当該特定装置が指定を受けた型式としての構造及び性能を有するようにしなければならない。",
+  "entry_into_force_date": "1998-10-09",
+  "applicability_date": "2026-10-20",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "この省令は、公布の日から施行する。ただし、次の各号に掲げる規定は、令和八年十月二十日から施行する。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.5
+ }
+}

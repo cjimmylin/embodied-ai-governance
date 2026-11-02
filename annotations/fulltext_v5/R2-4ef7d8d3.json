@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-4ef7d8d3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:55:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.3744559,
+  "in": 4,
+  "out": 3665,
+  "cache_read": 103379,
+  "cache_create": 81865,
+  "api_ms": 33282,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice",
+   "defense_security"
+  ],
+  "authors_or_issuer": "UK Parliament",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "GB"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation",
+   "prohibitions_bans",
+   "human_oversight_requirement"
+  ],
+  "governance_topics": [
+   "criminal_liability",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "privacy_data_protection",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Part 1 lets the Secretary of State direct airspace change proposals, enforced by the CAA with penalties.",
+   "Part 2 reforms air traffic services licence modification, enforcement and appeals.",
+   "Schedule 8 gives police powers to require unmanned aircraft to be grounded, and to stop, search, enter premises and seize.",
+   "Schedule 9 lets police demand evidence of remote pilot competency, operator registration and consents; failure is an offence.",
+   "Schedule 10 sets up fixed penalty notices for unmanned aircraft offences."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "criminal_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "liability_or_accountability_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "UK Act (2021 c.12, consolidated to March 2026) covering airspace change proposals, air traffic services licensing and enforcement, airport slots, and unmanned aircraft. It gives police powers to ground, search and seize drones, demand registration and competency evidence, and issue fixed penalty notices for drone offences.",
+  "title_clean": "Air Traffic Management and Unmanned Aircraft Act 2021",
+  "title_en": "Air Traffic Management and Unmanned Aircraft Act 2021",
+  "venue": "legislation.gov.uk",
+  "binding_nature": "legally_binding",
+  "methodology": "not_applicable"
+ }
+}

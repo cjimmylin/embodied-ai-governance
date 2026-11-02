@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-2e879111",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1524376,
+  "in": 2,
+  "out": 554,
+  "cache_read": 2656,
+  "cache_create": 36657,
+  "api_ms": 6288,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The handbook is a reference document for developers/manufacturers of robotic care devices and does not impose binding obligations on anyone.",
+  "bound_parties_quote": "重点５分野８項目のロボット介護機器開発を行う製造者にとっての参考資料となることを意図して作成したものである。",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "ロボット介護機器開発のための 安全ハンドブック AMED ロボット介護機器開発・導入促進事業 基準策定評価コンソーシアム 2021 年 3 月",
+  "confidence": 0.85
+ }
+}

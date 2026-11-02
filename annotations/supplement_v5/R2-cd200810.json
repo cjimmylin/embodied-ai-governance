@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-cd200810",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0480796,
+  "in": 2,
+  "out": 621,
+  "cache_read": 2656,
+  "cache_create": 10400,
+  "api_ms": 5201,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The notice is addressed to provincial, autonomous region and municipal governments and State Council ministries and agencies, who are asked to implement the plan; the plan also calls on relevant departments, regions, and enterprises to act.",
+  "bound_parties_quote": "各省、自治区、直辖市人民政府，国务院各部委、各直属机构：《新能源汽车产业发展规划（2021—2035年）》已经国务院同意，现印发给你们，请认真贯彻执行。",
+  "entry_into_force_date": "2020-10-20",
+  "applicability_date": "2021",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "国务院办公厅 2020年10月20日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "高度自动驾驶汽车实现限定区域和特定场景商业化应用",
+  "confidence": 0.6
+ }
+}

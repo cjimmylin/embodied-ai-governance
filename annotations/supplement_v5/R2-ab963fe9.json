@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-ab963fe9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.043825600000000006,
+  "in": 2,
+  "out": 590,
+  "cache_read": 2656,
+  "cache_create": 9414,
+  "api_ms": 5950,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The Beijing Municipal People's Government and the Ministry of Commerce, together with relevant State Council departments, are directed to implement and support the work plan.",
+  "bound_parties_quote": "北京市人民政府要根据目标任务，精心组织实施，扎实推进本工作方案各项措施落实。",
+  "entry_into_force_date": "2020-08-28",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "国务院\n2020年8月28日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "支持在北京高端制造业基地、北京创新产业集群示范区放宽自动驾驶测试道路和测试牌照管理权限，支持建设面向全国的第三方自动驾驶测试平台",
+  "confidence": 0.6
+ }
+}

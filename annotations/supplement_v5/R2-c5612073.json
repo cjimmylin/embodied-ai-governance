@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-c5612073",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0271236,
+  "in": 2,
+  "out": 627,
+  "cache_read": 2656,
+  "cache_create": 5146,
+  "api_ms": 6668,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers",
+   "public_bodies_or_government",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The guideline directs property insurance companies, local financial regulatory bureaus, insurance and actuarial associations, the automobile maintenance and industry associations, the data platform entities (银保信公司, 上海保交所), and new energy vehicle producers.",
+  "bound_parties_quote": "各财险公司要改革优化相关组织架构，提高经营管理效率",
+  "entry_into_force_date": "2025-01-13",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "金融监管总局 工业和信息化部 交通运输部 商务部 2025年1月13日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "（十一）主动顺应智能驾驶趋势。要统筹保险行业力量，全面系统研究智能驾驶、车型快速迭代等对车险经营的中长期影响",
+  "confidence": 0.6
+ }
+}

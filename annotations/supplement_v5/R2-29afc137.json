@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-29afc137",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0229783,
+  "in": 4,
+  "out": 1145,
+  "cache_read": 7443,
+  "cache_create": 2694,
+  "api_ms": 7808,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The page does not name bound parties; it says the protected terms can only be used legally to describe vehicles that are authorised or listed as self-driving.",
+  "bound_parties_quote": "so that they can only be used legally to describe vehicles that are authorised or listed in this way.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Automated vehicles: protecting marketing terms",
+  "confidence": 0.55
+ }
+}

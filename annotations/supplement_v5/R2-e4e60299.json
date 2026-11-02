@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-e4e60299",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:02:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0155876,
+  "in": 2,
+  "out": 687,
+  "cache_read": 2656,
+  "cache_create": 2112,
+  "api_ms": 8201,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users"
+  ],
+  "bound_parties_text": "The text approves a regulation on unmanned aerial vehicles (VANT) and their systems (SVANT); the excerpt does not name the bound parties, which are inferred as operators and users of such vehicles.",
+  "bound_parties_quote": "REGLAMENTO DE VEHICULOS AEREOS NO TRIPULADOS Y DE SISTEMAS DE VEHICULOS AEREOS NO TRIPULADOS",
+  "entry_into_force_date": "2019-12-10",
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2025-08-08",
+  "dates_quote": "Publicada en el Boletín Oficial: 10-12-2019",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "APRUEBESE EL TEXTO DEFINITIVO DEL “REGLAMENTO DE VEHICULOS AEREOS NO TRIPULADOS (VANT) Y DE SISTEMAS DE VEHICULOS AEREOS NO TRIPULADOS (SVANT)”",
+  "confidence": 0.6
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-885d8000",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.041157599999999996,
+  "in": 2,
+  "out": 588,
+  "cache_read": 2656,
+  "cache_create": 8752,
+  "api_ms": 6501,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "not_applicable"
+  ],
+  "bound_parties_text": "The Decision amends the list of harmonised standards references; it imposes no direct obligations, though the standards concern machinery manufacturers (presumption of conformity).",
+  "bound_parties_quote": "",
+  "entry_into_force_date": "2024-05-15",
+  "applicability_date": "2025-11-15",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Decision shall enter into force on the day of its publication in the Official Journal of the European Union.",
+  "legal_effect_of_standard": "harmonised_or_designated",
+  "legal_effect_quote": "Annex I to Implementing Decision (EU) 2023/1586 lists the references of harmonised standards conferring a presumption of conformity with Directive 2006/42/EC.",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "EN ISO 3691-4:2023 on safety requirements and verification of driverless industrial trucks and their systems",
+  "confidence": 0.5
+ }
+}

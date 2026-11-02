@@ -1,0 +1,120 @@
+{
+ "doc_id": "R2-f16a72e1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1869678,
+  "in": 2,
+  "out": 2088,
+  "cache_read": 11758,
+  "cache_create": 41227,
+  "api_ms": 15270,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "UN Regulation No 157 – Uniform provisions concerning the approval of vehicles with regards to Automated Lane Keeping Systems",
+  "title_en": "UN Regulation No 157 – Uniform provisions concerning the approval of vehicles with regards to Automated Lane Keeping Systems",
+  "language": "en",
+  "authors_or_issuer": "UN/ECE World Forum for Harmonization of Vehicle Regulations (WP.29), published in Official Journal of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2021,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (L 82/75)",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "EU",
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "cybersecurity",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "licensing_registration",
+   "data_governance_requirements",
+   "testing_sandboxes",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "UN Regulation No 155",
+   "UN Regulation No 156",
+   "UN Regulation No 10",
+   "UN Regulation No 13-H",
+   "UN Regulation No 121",
+   "ISO 26262",
+   "ISO/PAS 21448",
+   "ISO/SAE 21434",
+   "1958 Agreement"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "UN Regulation No 157 sets uniform type-approval provisions for Automated Lane Keeping Systems in M1 passenger cars up to 60 km/h. It covers system safety, fail-safe responses, driver handover, human-machine interface, object detection, data recording (DSSAD), cybersecurity, safety-management audits and test specifications.",
+  "key_provisions_or_claims": [
+   "Type approval of M1 vehicles with ALKS limited to 60 km/h on roads with physical separation and no pedestrians or cyclists.",
+   "System must manage all driving situations without unreasonable risk, perform minimum risk manoeuvre if the driver does not respond to a transition demand.",
+   "Driver availability monitoring, override and safe transition demand/HMI requirements.",
+   "Mandatory DSSAD data recording, cybersecurity (UN R155) and software update (UN R156) compliance.",
+   "Manufacturer safety management audit, incident reporting, and track and real-world testing by technical services."
+  ],
+  "confidence": 0.93
+ }
+}

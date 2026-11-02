@@ -1,0 +1,34 @@
+{
+ "doc_id": "D1383",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:52:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.021517599999999998,
+  "in": 2,
+  "out": 580,
+  "cache_read": 2656,
+  "cache_create": 3862,
+  "api_ms": 5690,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The standard specifies safety requirements for driverless industrial trucks and their systems, with hazards considered as foreseeable by the manufacturer, so it is addressed to manufacturers.",
+  "bound_parties_quote": "under conditions of misuse which are reasonably foreseeable by the manufacturer.",
+  "entry_into_force_date": "2023-06",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Edition 2\n2023-06",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "International Standard to be revised [90.92]",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Examples of driverless industrial trucks (trucks as defined in ISO 5053‑1:2020) include: “automated guided vehicle”, “autonomous mobile robot”",
+  "confidence": 0.7
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-a586cca8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0772496,
+  "in": 2,
+  "out": 586,
+  "cache_read": 2656,
+  "cache_create": 17780,
+  "api_ms": 5822,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "certification_or_notified_bodies",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The application for approval shall be submitted by the vehicle manufacturer or his accredited representative; the Type Approval Authority and Technical Services verify conformity, and the holder of the approval must ensure conformity of production.",
+  "bound_parties_quote": "The application for approval of a vehicle type with regard to the steering equipment shall be submitted by the vehicle manufacturer or by his duly accredited representative.",
+  "entry_into_force_date": "2018-10-16",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Incorporating all valid text up to: 03 series of amendments — Date of entry into force: 16 October 2018",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.6
+ }
+}

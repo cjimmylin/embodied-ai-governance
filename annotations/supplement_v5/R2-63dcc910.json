@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-63dcc910",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:06:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0178436,
+  "in": 2,
+  "out": 569,
+  "cache_read": 2656,
+  "cache_create": 2971,
+  "api_ms": 5578,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The section binds eligible entities (businesses) operating personal delivery devices and personal delivery device operators, and prohibits any person from operating such a device unless authorized.",
+  "bound_parties_quote": "No person shall operate a personal delivery device unless the person is authorized to do so under this section and complies with the requirements of this section.",
+  "entry_into_force_date": "2017-09-29",
+  "applicability_date": "2021-06-30",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "September 29, 2017 – Enacted  by House Bill 49 - 132nd General Assembly",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2017,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "September 29, 2017 – Enacted  by House Bill 49 - 132nd General Assembly",
+  "confidence": 0.8
+ }
+}

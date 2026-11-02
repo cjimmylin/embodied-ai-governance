@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-f9946905",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.014539600000000001,
+  "in": 2,
+  "out": 573,
+  "cache_read": 2656,
+  "cache_create": 2135,
+  "api_ms": 4749,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The specification's principal users are organizations conducting automated vehicle trials (Trialling Organizations), which it sets requirements for on collecting, storing and sharing information.",
+  "bound_parties_quote": "Principal users will be organizations conducting automated vehicle trials.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Published: 31 Mar 2021",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "PAS 1882:2021 details how information should be handled during automated vehicle trials to ensure it's collected consistently and improves the safety of UK trials.",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Data collection and management for automated vehicle trials for the purpose of incident investigation. Specification",
+  "confidence": 0.6
+ }
+}

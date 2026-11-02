@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-132b0ef8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.013941599999999998,
+  "in": 2,
+  "out": 466,
+  "cache_read": 2656,
+  "cache_create": 2253,
+  "api_ms": 4692,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The page is a consultation outcome announcement that imposes no obligations itself, though it describes proposals on drone operators and police powers.",
+  "bound_parties_quote": "",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2018,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Consultation proposing policies for drone use and enforcement.",
+  "confidence": 0.75
+ }
+}

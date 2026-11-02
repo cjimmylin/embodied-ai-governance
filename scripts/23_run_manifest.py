@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """v4: run manifest with tool versions, model identifiers, prompt hashes, policy tags, annotation counts and costs per annotation folder."""
 import json, glob, subprocess, datetime, os, collections
-B="/home/user/embodied-ai-governance-v4/"
+B="/home/user/embodied-ai-governance-v5/"
 man={"generated":datetime.datetime.now(datetime.timezone.utc).isoformat(),"python":subprocess.run(["python3","--version"],capture_output=True,text=True).stdout.strip(),"claude_cli":subprocess.run(["claude","--version"],capture_output=True,text=True).stdout.strip() or "unknown","folders":{}}
 for d in sorted(glob.glob(B+"annotations/*/")):
     files=glob.glob(d+"*.json"); 

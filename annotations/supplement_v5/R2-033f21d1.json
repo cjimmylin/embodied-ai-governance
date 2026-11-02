@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-033f21d1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.019831599999999998,
+  "in": 2,
+  "out": 689,
+  "cache_read": 2656,
+  "cache_create": 3168,
+  "api_ms": 4054,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "owners_or_users",
+   "pilots_or_drivers",
+   "operators_or_deployers",
+   "providers_or_developers"
+  ],
+  "bound_parties_text": "The ordinance imposes obligations on the driver, the vehicle manufacturer or its representative, the holder of the registration certificate, the designer of the automated road transport system, and persons authorised to intervene remotely.",
+  "bound_parties_quote": "lorsque le système est activé, la responsabilité pénale du constructeur du véhicule ou de son mandataire est engagée.",
+  "entry_into_force_date": null,
+  "applicability_date": "2022-09-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Si cet amendement n’est pas entré en vigueur au 1er septembre 2022, la France aura en tout état de cause d’ici là développé les règles techniques de sécurité nécessaires.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Ordonnance n° 2021-443 du 14 avril 2021 relative au régime de responsabilité pénale applicable en cas de circulation d’un véhicule à délégation de conduite",
+  "confidence": 0.6
+ }
+}

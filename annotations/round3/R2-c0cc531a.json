@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-c0cc531a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:16:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0714033,
+  "in": 4,
+  "out": 3822,
+  "cache_read": 29033,
+  "cache_create": 7568,
+  "api_ms": 20155,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "Colorado General Assembly",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "inferred_from_content",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "incident_reporting",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "industrial_policy_innovation",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "labor_employment"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "legislature",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "key_provisions_or_claims": [
+   "Defines automated driving systems as SAE J3016 level 4-5 systems operating without human intervention.",
+   "Permits ADS to drive if capable of complying with all applicable state and federal laws (safe harbor).",
+   "Preempts state agencies and local governments from setting ADS standards different from those for human drivers.",
+   "Testing of non-compliant ADS requires Colorado State Patrol and CDOT approval; violation is a Class B traffic infraction with possible impoundment.",
+   "CDOT must report annually on ADS testing; crash liability follows existing state, federal and common law."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "SAE J3016"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 5,
+  "pub_year": 2017,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 3,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Colorado Senate Bill 17-213 authorizes automated driving systems (SAE levels 4-5) to operate motor vehicles statewide, creating a safe harbor if systems comply with applicable laws, preempting local rules, requiring state approval for testing non-compliant systems, mandating annual CDOT reports, and leaving crash liability to existing law.",
+  "title_clean": "Senate Bill 17-213: Concerning Authorization for Automated Driving Systems to Control Motor Vehicles Throughout Colorado",
+  "title_en": "Senate Bill 17-213: Concerning Authorization for Automated Driving Systems to Control Motor Vehicles Throughout Colorado",
+  "venue": "Colorado General Assembly",
+  "methodology": "not_applicable"
+ }
+}

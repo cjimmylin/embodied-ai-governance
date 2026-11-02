@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-b74a9cad",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.025489599999999998,
+  "in": 2,
+  "out": 534,
+  "cache_read": 2656,
+  "cache_create": 4970,
+  "api_ms": 3348,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The text, a Korean national standard record for ISO 10218-1, does not state which parties are bound; it only describes requirements for industrial robot safety design, protective measures and usage information.",
+  "bound_parties_quote": "",
+  "entry_into_force_date": "2008-01-17",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "제정일 2008-01-17",
+  "legal_effect_of_standard": "unknown",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2008,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "이 표준은 산업용 로봇에 대한 본질적 안전설계, 보호수단 및 사용정보에 대한 요구사항과 지침을 규정한다.",
+  "confidence": 0.6
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "D0915",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:51:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0722836,
+  "in": 2,
+  "out": 629,
+  "cache_read": 2656,
+  "cache_create": 16431,
+  "api_ms": 7064,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "providers_or_developers",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The order directs executive departments and agencies and their heads (e.g., Secretaries of Commerce, Energy, Homeland Security), and via Commerce requires companies developing dual-use foundation models, large computing cluster operators, and US IaaS Providers to report.",
+  "bound_parties_quote": "Companies developing or demonstrating an intent to develop potential dual-use foundation models to provide the Federal Government, on an ongoing basis, with information, reports, or records",
+  "entry_into_force_date": "2023-10-30",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "THE WHITE HOUSE, October 30, 2023.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence",
+  "confidence": 0.8
+ }
+}

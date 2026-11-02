@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-f5e63b92",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0224276,
+  "in": 2,
+  "out": 621,
+  "cache_read": 2656,
+  "cache_create": 3987,
+  "api_ms": 4742,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Advisory Council, the Commissioners of Transportation and Public Safety, other relevant state agencies, and the Minnesota Department of Transportation (which convenes the Interagency Team) are directed to act.",
+  "bound_parties_quote": "The Commissioners of Transpo1iation and Public Safety in coordination with other relevant state agencies will:",
+  "entry_into_force_date": "2018-03-20",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Executive Order is effective fifteen days after publication in the State Register and filing with the Secretary of State, and shall remain in effect until rescinded by proper authority",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2018,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "The Governor's Advisory Council on Connected and Automated Vehicles (\"Advisory Council\") is established to study, assess, and prepare for the transformation",
+  "confidence": 0.5
+ }
+}

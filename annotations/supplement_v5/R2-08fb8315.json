@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-08fb8315",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:06:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.019255599999999998,
+  "in": 2,
+  "out": 571,
+  "cache_read": 2656,
+  "cache_create": 3319,
+  "api_ms": 9351,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The Act imposes requirements on personal delivery devices and the entities that operate them (personal delivery device operators), and allows local governments to prohibit such devices.",
+  "bound_parties_quote": "An entity that operates a personal delivery device must maintain an insurance policy that includes general liability coverage of not less than one hundred thousand",
+  "entry_into_force_date": "2020-07-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "SECTION 6. This act shall take effect July 1, 2020, the public welfare requiring it.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "relative to personal delivery devices.",
+  "confidence": 0.85
+ }
+}

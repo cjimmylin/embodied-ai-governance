@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-f5f8abd2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0267556,
+  "in": 2,
+  "out": 607,
+  "cache_read": 2656,
+  "cache_create": 5104,
+  "api_ms": 5289,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "public_bodies_or_government",
+   "manufacturers_or_producers",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The chapter binds owners of fully autonomous vehicles, persons operating vehicles with automated driving systems, applicants for title/registration, state agencies and political subdivisions, and the Transportation Commission.",
+  "bound_parties_quote": "no state agency, or political subdivision may prohibit the operation of fully autonomous vehicles, automated driving systems, or on-demand autonomous vehicle networks",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "CHAPTER 32-41 AUTOMATED MOTOR VEHICLES ... Source: SL 2024, ch 122, § 1.",
+  "confidence": 0.85
+ }
+}

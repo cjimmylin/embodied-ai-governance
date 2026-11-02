@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-27e5008c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:45:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0214271,
+  "in": 2,
+  "out": 1952,
+  "cache_read": 19031,
+  "cache_create": 0,
+  "api_ms": 25763,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "无锡市车联网发展促进条例",
+  "title_en": "Wuxi Municipal Regulations on Promoting the Development of the Internet of Vehicles",
+  "language": "zh",
+  "authors_or_issuer": "无锡市人民代表大会常务委员会 (Wuxi Municipal People's Congress Standing Committee); approved by Jiangsu Provincial People's Congress Standing Committee",
+  "issuer_type": "subnational_government",
+  "pub_year": 2023,
+  "pub_month": 1,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "江苏人大网",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "privacy_data_protection",
+   "safety_physical_harm",
+   "civil_liability",
+   "standards_interoperability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "testing_sandboxes",
+   "technical_standards_reference",
+   "data_governance_requirements",
+   "insurance_requirement",
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "education_training_programs",
+   "self_regulation_codes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Local regulation of Wuxi city promoting the Internet of Vehicles and intelligent connected (autonomous) vehicles, covering infrastructure, road testing and commercial deployment, industry innovation, and security. Effective 1 March 2023, it takes an inclusive, prudent regulatory approach and promotes the national IoV pilot zone.",
+  "key_provisions_or_claims": [
+   "Governments must plan and build IoV infrastructure and a unified data management platform.",
+   "Road tests and demonstrations are managed in tiers by risk, with vehicles required to record data, be monitored online and carry emergency devices.",
+   "Personal information and important data must be stored domestically, with a security assessment before any export.",
+   "Traffic violations and accidents involving intelligent connected vehicles are handled under road traffic safety law; insurance must meet national rules.",
+   "Encourages a social risk fund for victims and adopts tolerance-of-error, inclusive and prudent supervision."
+  ],
+  "confidence": 0.93
+ }
+}

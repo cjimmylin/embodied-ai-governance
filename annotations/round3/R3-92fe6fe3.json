@@ -1,0 +1,96 @@
+{
+ "doc_id": "R3-92fe6fe3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:12:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0627287,
+  "in": 4,
+  "out": 3415,
+  "cache_read": 28227,
+  "cache_create": 6437,
+  "api_ms": 17424,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "healthcare",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "国家卫生健康委 (National Health Commission of China)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.93,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Sets a 3-year cycle (to 2035) for naming national fertility-friendly cities and employers, with caps on numbers per cycle.",
+   "Procedure: voluntary application, provincial recommendation, expert review, public notice, formal naming.",
+   "Titles are valid for 3 years and subject to re-review; they are revoked if re-review fails or serious problems arise.",
+   "Bans fees for applicants and requires reducing the burden on grassroots units."
+  ],
+  "language": "zh",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 4,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Notice from China's National Health Commission issuing measures for creating and managing national fertility-friendly cities and employers. It sets application, review, naming, re-review and revocation procedures. It has nothing to do with AI or robotics.",
+  "title_clean": "国家卫生健康委关于印发全国生育友好城市、生育友好单位创建管理办法的通知",
+  "title_en": "Notice of the National Health Commission on Issuing the Administrative Measures for Creating National Fertility-Friendly Cities and Fertility-Friendly Employers",
+  "venue": "National Health Commission of the PRC"
+ }
+}

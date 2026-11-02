@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-7129fbe3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.09093760000000001,
+  "in": 2,
+  "out": 602,
+  "cache_read": 2656,
+  "cache_create": 21162,
+  "api_ms": 5686,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "manufacturers_or_producers",
+   "owners_or_users"
+  ],
+  "bound_parties_text": "The regulation binds UA operators, remote pilots and observers, UAS manufacturers, and owners/depositaries of UAS, as well as COE holders.",
+  "bound_parties_quote": "O operador de UAS é responsável pelo controle operacional, sendo o piloto remoto seu preposto durante as operações",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Aprovação: Resolução nº 805, de 15.06.2026 Emenda nº 00 ... Data de emissão: 16.06.2026",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Requisitos gerais para aeronaves não tripuladas de uso civil",
+  "confidence": 0.8
+ }
+}

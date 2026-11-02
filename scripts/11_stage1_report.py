@@ -2,7 +2,7 @@
 """Stage 1 checkpoint: taxonomies with counts, corpus/coverage statistics, reliability, QA flags.
 Outputs report/stage1_checkpoint.md, codebook/taxonomies.md, data/qa_flags.csv."""
 import json, re, os, pandas as pd, numpy as np
-B="/home/user/embodied-ai-governance-v4/"
+B="/home/user/embodied-ai-governance-v5/"
 m=pd.read_csv(B+"data/master_table.csv"); a=m[m.annotated].copy()
 reg=pd.read_csv(B+"data/registry.csv"); files=pd.read_csv(B+"data/files.csv")
 cov=pd.read_csv(B+"data/collector_coverage.csv"); nc=pd.read_csv(B+"data/not_captured.csv"); gaps=pd.read_csv(B+"data/download_gaps.csv")

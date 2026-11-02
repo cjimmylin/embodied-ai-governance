@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-d6561051",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0142456,
+  "in": 2,
+  "out": 552,
+  "cache_read": 2656,
+  "cache_create": 2114,
+  "api_ms": 5410,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "providers_or_developers"
+  ],
+  "bound_parties_text": "The guidance addresses the automotive sector, from designers and engineers through suppliers, sub-contractors and senior level executives, but is not binding.",
+  "bound_parties_quote": "The 8 principles in this guidance set out how the automotive sector can make sure cyber security is properly considered at every level, from designers and engineers, through to suppliers and senior level executives.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Published: 6 August 2017",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2017,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Principles of cyber security for connected and automated vehicles",
+  "confidence": 0.6
+ }
+}

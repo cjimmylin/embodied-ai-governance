@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-b2bf3977",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:55:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0296436,
+  "in": 2,
+  "out": 583,
+  "cache_read": 2656,
+  "cache_create": 5886,
+  "api_ms": 4328,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "member_states_or_subnational_governments",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Recommendation recommends that Member States together with the Commission assess the listed critical technology areas, and invites Member States to engage in dialogue.",
+  "bound_parties_quote": "it is recommended, as an initial step, that Member States together with the Commission assess, by the end of 2023, the following 4 technology areas",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Done at Strasbourg, 3 October 2023.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "ROBOTICS AND AUTONOMOUS SYSTEMS\nDrones and vehicles (air, land, surface and underwater)\nRobots and robot-controlled precision systems",
+  "confidence": 0.6
+ }
+}

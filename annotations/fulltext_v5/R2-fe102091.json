@@ -1,0 +1,98 @@
+{
+ "doc_id": "R2-fe102091",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:55:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.5262972,
+  "in": 4,
+  "out": 3462,
+  "cache_read": 141012,
+  "cache_create": 119392,
+  "api_ms": 20183,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "貨物自動車運送事業法施行規則",
+  "title_en": "Enforcement Regulations of the Motor Truck Transportation Business Act",
+  "language": "ja",
+  "authors_or_issuer": "Ministry of Land, Infrastructure, Transport and Tourism (formerly Ministry of Transport), Japan",
+  "issuer_type": "national_government_executive",
+  "pub_year": 1990,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Japanese Law Database",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "transparency_disclosure_labelling",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japan's ministerial ordinance implementing the Motor Truck Transportation Business Act, covering permits, business plans, tariffs, documentation and delegation of authority for general, specific and light freight operators. It includes limited provisions requiring business plans and documents for automated-operation freight transport (automated driving devices, specified automated operation permits).",
+  "key_provisions_or_claims": [
+   "Business plans must state number of vehicles used for automated-operation freight transport.",
+   "Applicants for automated freight must submit documents on the automated driving device's operating conditions.",
+   "Specified automated operation freight requires documents showing the likelihood of Road Traffic Act permit approval.",
+   "Changes to automated freight vehicle numbers require advance notification.",
+   "Establishes licensing, notification and delegation procedures for freight operators."
+  ],
+  "confidence": 0.85
+ }
+}

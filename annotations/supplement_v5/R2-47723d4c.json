@@ -1,0 +1,39 @@
+{
+ "doc_id": "R2-47723d4c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1275616,
+  "in": 2,
+  "out": 670,
+  "cache_read": 2656,
+  "cache_create": 30148,
+  "api_ms": 7440,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "manufacturers_or_producers",
+   "certification_or_notified_bodies",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Act binds aircraft owners, persons operating aircraft and unmanned aircraft, licensed aviation personnel, air transport businesses, registered inspection/training bodies, and the Minister of Land, Infrastructure, Transport and Tourism.",
+  "bound_parties_quote": "登録航空機の所有者は、左に掲げる場合には、その事由があつた日から十五日以内に、まつ消登録の申請をしなければならない。",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "この法律において「無人航空機」とは、航空の用に供することができる飛行機、回転翼航空機、滑空機、飛行船その他政令で定める機器であつて構造上人が乗ることができないもののうち、遠隔操作又は自動操縦",
+  "confidence": 0.4
+ }
+}

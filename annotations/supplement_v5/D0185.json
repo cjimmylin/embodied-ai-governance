@@ -1,0 +1,34 @@
+{
+ "doc_id": "D0185",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:50:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0183076,
+  "in": 2,
+  "out": 479,
+  "cache_read": 2656,
+  "cache_create": 3312,
+  "api_ms": 4754,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The excerpt is a catalogue page for a voluntary ISO standard on personal care robot safety and does not name any bound parties.",
+  "bound_parties_quote": "",
+  "entry_into_force_date": "2014-02",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Edition 1\n2014-02",
+  "legal_effect_of_standard": "unknown",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2014,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Robots and robotic devices — Safety requirements for personal care robots",
+  "confidence": 0.6
+ }
+}

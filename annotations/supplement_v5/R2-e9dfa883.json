@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-e9dfa883",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0252876,
+  "in": 2,
+  "out": 555,
+  "cache_read": 2656,
+  "cache_create": 4867,
+  "api_ms": 6973,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The opinion directs local authorities and relevant government departments (\"各地、各有关部门\") to strengthen leadership and coordination and implement the measures.",
+  "bound_parties_quote": "各地、各有关部门要充分认识科技对商贸创新发展的重要作用，加强组织领导、综合协调，强化企业创新主体地位，健全长效促进机制。",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "2026年10月13日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "推动具身智能技术在商贸领域落地，拓展家庭服务、商贸物流等应用场景。",
+  "confidence": 0.6
+ }
+}

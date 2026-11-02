@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-fb9fa5e1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07142760000000001,
+  "in": 2,
+  "out": 595,
+  "cache_read": 2656,
+  "cache_create": 16302,
+  "api_ms": 8253,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "member_states_or_subnational_governments",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "Member States must take measures to ensure specifications are applied to ITS deployment, and the Commission must adopt working programmes and implementing/delegated acts.",
+  "bound_parties_quote": "Member States shall take the necessary measures to ensure that the specifications adopted by the Commission in accordance with Article 6 are applied to ITS applications and services when those ITS applications and services are deployed",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "By 21 December 2024, the Commission shall, after consulting the European ITS Advisory Group set up by Commission Decision of 4 May 2011",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "ITS services for cooperative, connected and automated mobility.",
+  "confidence": 0.6
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-c9d310c1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:06:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0377296,
+  "in": 2,
+  "out": 698,
+  "cache_read": 2656,
+  "cache_create": 7620,
+  "api_ms": 4801,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "owners_or_users",
+   "member_states_or_subnational_governments",
+   "individuals_or_general_public",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The act binds motor vehicle manufacturers running SAVE projects, owners of ADS-operated vehicles, persons operating motor vehicles without a human driver, political subdivisions (barred from prohibiting or regulating ADS vehicles), and parents/guardians or accompanying persons for child restraint duties.",
+  "bound_parties_quote": "each motor vehicle manufacturer is responsible for the safe operation of its participating fleet.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "SECTION 20. This act shall take effect upon becoming a law, the public welfare requiring it.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "AN ACT to amend Tennessee Code Annotated, Title 5; Title 6; Title 7; Title 39; Title 40; Title 54; Title 55; Title 56; Title 65 and Title 67, relative to autonomous vehicles.",
+  "confidence": 0.6
+ }
+}

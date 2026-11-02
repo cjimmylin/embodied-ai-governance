@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-5a3ba5cd",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0218076,
+  "in": 2,
+  "out": 645,
+  "cache_read": 2656,
+  "cache_create": 3772,
+  "api_ms": 3707,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "individuals_or_general_public",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The Act binds any person who knowingly uses an unmanned aircraft system to conduct surveillance of or record critical infrastructure without the owner's written consent, and makes such violators liable to the infrastructure owner.",
+  "bound_parties_quote": "A person commits the offense of unlawful use of an unmanned aircraft system if he or she knowingly uses an unmanned aircraft system to conduct surveillance of",
+  "entry_into_force_date": "2015-04-02",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "APPROVED: 04/02/2015",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2015,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "AN ACT CONCERNING THE REGULATION OF AERONAUTICS; TO RESTRICT THE USE OF UNMANNED AIRCRAFT SYSTEMS UNDER CERTAIN CIRCUMSTANCES",
+  "confidence": 0.8
+ }
+}

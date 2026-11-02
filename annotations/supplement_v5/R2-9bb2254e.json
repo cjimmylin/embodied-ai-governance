@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-9bb2254e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0191436,
+  "in": 2,
+  "out": 581,
+  "cache_read": 2656,
+  "cache_create": 3266,
+  "api_ms": 3771,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The Act binds personal delivery device operators (who must carry liability insurance and identify the device) and political subdivisions (which are limited in regulating such devices).",
+  "bound_parties_quote": "A personal delivery device operator shall maintain an insurance policy that provides general liability coverage of at least One Hundred Thousand Dollars ($100,000.00)",
+  "entry_into_force_date": "2021-11-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This act shall become effective November 1, 2021.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "equipped with automated driving technology, including software and hardware, that enables the operation of the device with remote support and supervision;",
+  "confidence": 0.9
+ }
+}

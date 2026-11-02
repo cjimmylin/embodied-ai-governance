@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-7b6364dd",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.023013600000000002,
+  "in": 2,
+  "out": 614,
+  "cache_read": 2656,
+  "cache_create": 4151,
+  "api_ms": 4280,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "Business entities operating personal delivery devices (and their agents) must comply with operating, equipment and insurance requirements.",
+  "bound_parties_quote": "A person may operate a personal delivery device under this Subpart only if the person is a business entity, and an agent of the business entity is trained and capable to monitor or exercise physical control",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Act shall become effective upon signature by the governor or, if not signed by the governor, upon expiration of the time for bills to become law without signature of the governor",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "2021 Regular Session ENROLLED ACT No. 214 ... equipped with automated driving technology, including software and hardware, that enables the operation of the device with the remote support and supervision of a human being.",
+  "confidence": 0.85
+ }
+}

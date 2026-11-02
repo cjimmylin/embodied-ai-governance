@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-e21a9e3a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0435816,
+  "in": 2,
+  "out": 598,
+  "cache_read": 2656,
+  "cache_create": 9333,
+  "api_ms": 8680,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "operators_or_deployers",
+   "providers_or_developers"
+  ],
+  "bound_parties_text": "The guideline applies to Level 4 automated driving vehicles for transport services, i.e. to applicants for travel environment conditions (operators) and, as the text names them, vehicle manufacturers (自動車製作者等) and developers of automated driving systems.",
+  "bound_parties_quote": "自動車製作者等は、自動運行装置の点検及び整備に必要な各自動車に固有の技術上の情報（以下「技術情報」という。）を作成し",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "令和６年６月",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "自動運転車の安全確保に関するガイドライン 令和６年６月",
+  "confidence": 0.6
+ }
+}

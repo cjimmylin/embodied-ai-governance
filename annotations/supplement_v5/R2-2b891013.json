@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-2b891013",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0697676,
+  "in": 2,
+  "out": 689,
+  "cache_read": 2656,
+  "cache_create": 15652,
+  "api_ms": 5762,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "certification_or_notified_bodies",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "Manufacturers of motor vehicles of categories M and N (must meet DDAW requirements and carry out validation testing), and approval authorities and technical services (assess documentation and perform verification testing).",
+  "bound_parties_quote": "Manufacturers shall carry out validation testing to ensure that DDAW systems are able to monitor driver drowsiness in a manner which is accurate, robust and scientifically valid.",
+  "entry_into_force_date": null,
+  "applicability_date": "2022-07-06",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. It shall apply from 6 July 2022.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "COMMISSION DELEGATED REGULATION (EU) 2021/1341 of 23 April 2021 supplementing Regulation (EU) 2019/2144 ... with regard to their driver drowsiness and attention warning systems",
+  "confidence": 0.6
+ }
+}

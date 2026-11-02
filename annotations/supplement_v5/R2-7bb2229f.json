@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-7bb2229f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0677936,
+  "in": 2,
+  "out": 578,
+  "cache_read": 2656,
+  "cache_create": 15436,
+  "api_ms": 5934,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "certification_or_notified_bodies",
+   "member_states_or_subnational_governments",
+   "providers_or_developers"
+  ],
+  "bound_parties_text": "The Regulation imposes obligations on manufacturers (including authorised representatives), importers and distributors (economic operators), notified bodies and Member States for machinery and related products.",
+  "bound_parties_quote": "Economic operators should be responsible for the compliance of products within the scope of this Regulation with the requirements of this Regulation in relation to their respective roles in the supply chain",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "this Regulation should cover the safety risks stemming from new digital technologies.",
+  "confidence": 0.6
+ }
+}

@@ -2,9 +2,9 @@
 """Stage 2 analysis infrastructure: loads the master table, defines analysis sets, and provides figure/table helpers.
 Run with --smoke to produce the two landscape figures as a pipeline test."""
 import sys, os, json, argparse, numpy as np, pandas as pd
-sys.path.insert(0,"/home/user/embodied-ai-governance-v4/scripts"); import figstyle as fs
+sys.path.insert(0,"/home/user/embodied-ai-governance-v5/scripts"); import figstyle as fs
 import matplotlib.pyplot as plt
-B="/home/user/embodied-ai-governance-v4/"; FD=B+"figures/data/"
+B="/home/user/embodied-ai-governance-v5/"; FD=B+"figures/data/"
 def load():
     m=pd.read_csv(B+"data/master_table.csv"); a=m[m.annotated].copy()
     a["embodied_set"]=(a.relevance_to_embodied_ai_governance>=2)|(a.embodied_categories.fillna("")!="")

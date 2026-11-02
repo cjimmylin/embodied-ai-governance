@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-2344fe88",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:59:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0322616,
+  "in": 2,
+  "out": 622,
+  "cache_read": 2656,
+  "cache_create": 6443,
+  "api_ms": 6717,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The notice is addressed to the municipal, prefectural and county people's governments and provincial government departments and agencies, which are told to implement the policy measures and are named as responsible units.",
+  "bound_parties_quote": "各市州、县市区人民政府，省政府各厅委、各直属机构：《关于支持全省低空经济高质量发展的若干政策措施》已经省人民政府同意，现印发给你们，请认真贯彻执行。",
+  "entry_into_force_date": "2024-07-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2027-06-30",
+  "dates_quote": "本政策自2024年7月1日起施行，有效期至2027年6月30日。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "鼓励无人驾驶航空器（无人机）开展低空物流和配送业务",
+  "confidence": 0.8
+ }
+}

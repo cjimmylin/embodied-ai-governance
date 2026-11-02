@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-f47247d3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1227916,
+  "in": 2,
+  "out": 523,
+  "cache_read": 2656,
+  "cache_create": 29323,
+  "api_ms": 4618,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The ordinance binds freight forwarding business operators (貨物利用運送事業者) and persons applying for registration or filing notifications under the Act.",
+  "bound_parties_quote": "貨物利用運送事業者（貨物利用運送事業を経営する者をいう。以下同じ。）は、確実かつ適切に事業を遂行しなければならない。",
+  "entry_into_force_date": "1990-07-30",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "この省令は、公布の日から施行する。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.6
+ }
+}

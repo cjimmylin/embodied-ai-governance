@@ -1,0 +1,97 @@
+{
+ "doc_id": "R3-fafba488",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:11:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1061054,
+  "in": 4,
+  "out": 3567,
+  "cache_read": 38314,
+  "cache_create": 16649,
+  "api_ms": 20789,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "finance",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "国家税务总局 (State Taxation Administration of China)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "audits_impact_assessment",
+   "data_governance_requirements"
+  ],
+  "governance_topics": [
+   "taxation_economic_policy",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "regulator_or_agency",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Taxpayers must file export refund/exemption registration with the competent tax authority and update it within 30 days of changes.",
+   "Sets declaration materials for production enterprises and foreign trade enterprises under the exemption-credit-refund and exemption-refund methods.",
+   "Requires retention of record-filing documents for ten years and foreign exchange receipt evidence rules.",
+   "Provides for suspension, recovery of refunds and penalties of 1-5 times the amount for fraudulent export tax refunds, with suspension of refund rights up to three years.",
+   "Takes effect 1 January 2026 and repeals STA Announcement 2012 No. 24."
+  ],
+  "language": "zh",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "taxation_economic_policy",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "China's State Taxation Administration announcement issuing the Administrative Measures for VAT and Consumption Tax Refund (Exemption) on Export Business, effective 1 January 2026. It covers registration, declaration, certificates, document retention, verification and penalties. It is unrelated to AI or robotics.",
+  "title_clean": "国家税务总局关于发布《出口业务增值税和消费税退（免）税管理办法》的公告",
+  "title_en": "STA Announcement on Issuing the Administrative Measures for VAT and Consumption Tax Refund (Exemption) on Export Business",
+  "venue": "国家税务总局"
+ }
+}

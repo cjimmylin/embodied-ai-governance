@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-118bce75",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 1.0445898,
+  "in": 2,
+  "out": 1877,
+  "cache_read": 11758,
+  "cache_create": 256160,
+  "api_ms": 15578,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "道路交通法",
+  "title_en": "Road Traffic Act (Japan)",
+  "language": "ja",
+  "authors_or_issuer": "Japan (National Diet; National Public Safety Commission/Cabinet Office)",
+  "issuer_type": "legislature",
+  "pub_year": 1960,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search (Japan)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "criminal_liability",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "oversight_body_creation",
+   "prohibitions_bans",
+   "audits_impact_assessment",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japan's Road Traffic Act (1960), current revision enforced July 2026. Comprehensive road traffic rules, driver licensing and penalties. Includes embodied provisions: Chapter 2-2 on remotely operated small vehicles (delivery robots) with notification duties, and Chapter 4-3 on permits for Level 4 \"specific automated operation\", with supervisors, accident response and permit revocation.",
+  "key_provisions_or_claims": [
+   "Chapter 2-2 requires users of remotely operated small vehicles to notify the Public Safety Commission, display ID numbers, and fit emergency stop devices.",
+   "Article 75-12 requires a Public Safety Commission permit for specific automated operation (Level 4), based on an operation plan.",
+   "Specific automated operation operators must appoint supervisors, monitor remotely or ride along, and handle accidents and police instructions.",
+   "Permits can be revoked or suspended, and instructions and provisional suspension can be issued by police chiefs.",
+   "Drivers using automated driving systems must not use them outside the operating conditions and must be able to take over."
+  ],
+  "confidence": 0.9
+ }
+}

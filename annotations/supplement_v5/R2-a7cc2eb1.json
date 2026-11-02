@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-a7cc2eb1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:52:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07598959999999999,
+  "in": 2,
+  "out": 662,
+  "cache_read": 2656,
+  "cache_create": 17275,
+  "api_ms": 9751,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users",
+   "importers_or_distributors",
+   "public_bodies_or_government",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The Bill imposes obligations on authorised persons conducting approved autonomous vehicle trials, special uses and testbeds, sellers and advertisers of personal mobility devices, PABs, mobility vehicles and batteries (including online marketplace sellers), users of non-compliant devices on public paths, and vehicle owners under the Road Traffic Act.",
+  "bound_parties_quote": "No person may operate an approved testbed except the public authority that has the care, control and management of the approved testbed.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2031-09-30",
+  "dates_quote": "comes into operation on a date that the Minister appoints by notification in the Gazette.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "This Act is the Land Transport and Related Matters (No. 2) Act 2026 and comes into operation on a date that the Minister appoints",
+  "confidence": 0.8
+ }
+}

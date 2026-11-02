@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-0c2995ad",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.023937599999999996,
+  "in": 2,
+  "out": 606,
+  "cache_read": 2656,
+  "cache_create": 4402,
+  "api_ms": 5796,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The notice directs provincial-level commerce and related authorities and pilot cities/areas to organize, implement and report on the automobile circulation and consumption reform pilots.",
+  "bound_parties_quote": "试点地区应根据试点工作总体要求、具体任务等认真组织实施，明确任务分工，落实目标责任，做好过程管理和阶段总结",
+  "entry_into_force_date": "2025-01-20",
+  "applicability_date": "2025",
+  "repeal_or_expiry_date": "2027",
+  "dates_quote": "2025—2027年，将开展汽车流通消费改革试点工作。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "探索基于车、路、网、云、图等高效协同的自动驾驶技术多场景应用，加快智能网联汽车技术突破和产业化发展",
+  "confidence": 0.6
+ }
+}

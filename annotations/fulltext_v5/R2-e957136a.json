@@ -1,0 +1,117 @@
+{
+ "doc_id": "R2-e957136a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:55:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2287838,
+  "in": 2,
+  "out": 2150,
+  "cache_read": 11758,
+  "cache_create": 51526,
+  "api_ms": 16590,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Real Decreto 1036/2017, de 15 de diciembre, por el que se regula la utilización civil de las aeronaves pilotadas por control remoto, y se modifican el Real Decreto 552/2014 y el Real Decreto 57/2002",
+  "title_en": "Royal Decree 1036/2017 of 15 December regulating the civil use of remotely piloted aircraft, and amending Royal Decree 552/2014 and Royal Decree 57/2002",
+  "language": "es",
+  "authors_or_issuer": "Ministerio de la Presidencia y para las Administraciones Territoriales (España)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2017,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Boletín Oficial del Estado (BOE-A-2017-15721)",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ES"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "agriculture_food",
+   "public_administration_justice",
+   "research_science",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "civil_liability",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "education_training",
+   "cybersecurity",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "insurance_requirement",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "prohibitions_bans",
+   "technical_standards_reference",
+   "education_training_programs",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Spanish Royal Decree 1036/2017 sets the legal regime for civil remotely piloted aircraft (drones) under 150 kg and certain exempt categories. It covers identification, airworthiness, operator duties, insurance, airspace limits, pilot qualifications, prior notification and authorisation, and public-security rules. Autonomous aircraft are not permitted. It was repealed from 25 June 2024 by Royal Decree 517/2024.",
+  "key_provisions_or_claims": [
+   "RPAs must allow the pilot to intervene in flight control at all times; fully autonomous aircraft are not permitted.",
+   "RPAs up to 25 kg are exempt from registration and airworthiness certificates; heavier ones need restricted type or airworthiness certificates.",
+   "Operators need an aeronautical safety study, third-party liability insurance, and protections against unlawful interference and for data protection.",
+   "Specialised operations require prior notification (up to 25 kg, in VLOS) or AESA authorisation (night, controlled airspace, over built-up areas, BVLOS).",
+   "Pilots must be 18+, hold medical certificates and theoretical and practical training; the Ministry of the Interior must be notified before flights over urban areas."
+  ],
+  "confidence": 0.9
+ }
+}

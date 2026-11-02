@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-d85d64e1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0766096,
+  "in": 2,
+  "out": 650,
+  "cache_read": 2656,
+  "cache_create": 17460,
+  "api_ms": 4287,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "member_states_or_subnational_governments",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Regulation binds Member States, which must designate competent authorities, and the competent authorities and the Agency (EASA), which must meet the administration and management system requirements in the Annex.",
+  "bound_parties_quote": "A Member State shall designate one or more entities as the competent authority with the necessary powers and allocated responsibilities for the performance of certification, oversight and enforcement tasks",
+  "entry_into_force_date": null,
+  "applicability_date": "2025-05-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. It shall apply from 1 May 2025.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "rules for the application of Regulation (EU) 2018/1139 ... for the certification, oversight and enforcement of the continuing airworthiness of certified unmanned aircraft systems",
+  "confidence": 0.85
+ }
+}

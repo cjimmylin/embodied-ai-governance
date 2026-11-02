@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-fad4ccaf",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1258856,
+  "in": 2,
+  "out": 696,
+  "cache_read": 2656,
+  "cache_create": 29664,
+  "api_ms": 5973,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "manufacturers_or_producers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The ordinance binds vehicle owners, seal-attachment contractees (封印取付受託者), and others such as specified vehicle maintenance businesses under the Road Transport Vehicle Act.",
+  "bound_parties_quote": "自動車の所有者は、法第二十条第一項の規定により自動車登録番号標を自動車登録番号標交付代行者に返納したときは、その旨を信じさせるに足りる書面を運輸監理部長又は運輸支局長に提出しなければならない。",
+  "entry_into_force_date": "1951-08-16",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "道路運送車両法及び道路運送車両法施行法の規定に基き、並びにこれらの法律を実施するため道路運送車両法施行規則を次のように定める。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "自動運行装置を取り外して行う自動車の整備又は改造その他の当該自動運行装置の作動に影響を及ぼすおそれがある自動車の整備又は改造",
+  "confidence": 0.4
+ }
+}

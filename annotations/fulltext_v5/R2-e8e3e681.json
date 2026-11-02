@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-e8e3e681",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2180578,
+  "in": 2,
+  "out": 1959,
+  "cache_read": 11758,
+  "cache_create": 49322,
+  "api_ms": 11446,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2019/947 of 24 May 2019 on the rules and procedures for the operation of unmanned aircraft (UK retained/amended version)",
+  "title_en": "Commission Implementing Regulation (EU) 2019/947 of 24 May 2019 on the rules and procedures for the operation of unmanned aircraft (UK retained/amended version)",
+  "language": "en",
+  "authors_or_issuer": "European Commission (as retained and amended in UK law; published by legislation.gov.uk, King's Printer)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "legislation.gov.uk",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB",
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "privacy_data_protection",
+   "education_training",
+   "standards_interoperability"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "data_governance_requirements",
+   "insurance_requirement"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Consolidated UK version of Implementing Regulation (EU) 2019/947, as amended through 2026, setting rules for unmanned aircraft operation. It creates open, specific and certified categories by risk, with operator registration, remote pilot competency, risk assessments, operational authorisations and light UAS operator certificates overseen by the CAA.",
+  "key_provisions_or_claims": [
+   "Three risk-based operation categories: open, specific, certified.",
+   "Operators must register if aircraft is 250 g or more, or 100 g or more with a camera.",
+   "Specific category requires a risk assessment and CAA operational authorisation, targeting safety equivalent to manned aviation.",
+   "Open category subcategories A1/A2/A3 set distance limits, pilot competency and aircraft class requirements.",
+   "Light UAS operator certificates require a safety management system and allow self-authorisation."
+  ],
+  "confidence": 0.9
+ }
+}

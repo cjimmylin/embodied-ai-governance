@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Coverage accounting: collector rows vs captured vs usable, plus download gaps. Outputs data/coverage_summary.csv, data/not_captured.csv, data/download_gaps.csv"""
 import re, os, glob, pandas as pd
-SRC="/home/user/drive-src/AI Robotics (Filtered Sources)/Filtered Sources/"; B="/home/user/embodied-ai-governance-v4/"
+SRC="/home/user/drive-src/AI Robotics (Filtered Sources)/Filtered Sources/"; B="/home/user/embodied-ai-governance-v5/"
 # 1) README tables: rows/captured per set and region, plus not-captured lists
 summary=[]; notcap=[]
 for readme in glob.glob(SRC+"*/README.md")+glob.glob(SRC+"6. Europe/Oct 15 - Version 1/README.md"):

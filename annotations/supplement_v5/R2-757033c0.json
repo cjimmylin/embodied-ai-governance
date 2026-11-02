@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-757033c0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0545896,
+  "in": 2,
+  "out": 648,
+  "cache_read": 2656,
+  "cache_create": 11960,
+  "api_ms": 4907,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "researchers_or_institutions"
+  ],
+  "bound_parties_text": "The subsidized project operators (補助事業者, private companies etc. receiving development subsidies) must follow the guidance of METI, AMED and the standards-setting/evaluation operators, submit monthly reports, and commercialize results.",
+  "bound_parties_quote": "補助事業者は、事業期間終了後、開発成果を速やかに事業化すること。",
+  "entry_into_force_date": "2013-03",
+  "applicability_date": "2017-10",
+  "repeal_or_expiry_date": "2018-03-31",
+  "dates_quote": "ロボット介護機器開発・導入促進事業の実施期間は、平成２５年度から平成２９年度までの５年間とする。 平成２５年３月  制定 ... 平成２９年１０月   改訂",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2013,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "平成２５年度より、下記事業内容からなる「ロボット介護機器開発・導入促進事業」を実施する。",
+  "confidence": 0.6
+ }
+}

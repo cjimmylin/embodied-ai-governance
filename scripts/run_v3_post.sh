@@ -1,6 +1,6 @@
 #!/bin/bash
 # Re-run everything downstream of the override step (after a change to 07b or the overrides).
-cd /home/user/embodied-ai-governance-v4
+cd /home/user/embodied-ai-governance-v5
 set -e
 python3 scripts/09_reliability.py annotations/reliability_opus > logs/v3_09a.log 2>&1
 python3 scripts/09_reliability.py annotations/reliability_sonnet_rerun _retest > logs/v3_09b.log 2>&1

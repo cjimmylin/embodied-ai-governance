@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-f226b943",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:55:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07163560000000001,
+  "in": 2,
+  "out": 635,
+  "cache_read": 2656,
+  "cache_create": 16254,
+  "api_ms": 9858,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The instrument is a Parliament resolution with recommendations to the Commission; the proposed Regulation would bind operators (frontend and backend) of AI-systems, including mandatory liability insurance for operators of high-risk AI-systems.",
+  "bound_parties_quote": "all operators of high-risk AI-systems listed in the Annex to the proposed Regulation should hold liability insurance",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. It shall apply from 1 January 202X.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "European Parliament resolution of 20 October 2020 with recommendations to the Commission on a civil liability regime for artificial intelligence (2020/2014(INL))",
+  "confidence": 0.7
+ }
+}

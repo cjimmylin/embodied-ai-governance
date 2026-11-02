@@ -6,7 +6,7 @@ collection. Every candidate, with or without text, is written to data/round2_inv
 report can separate the discovered inventory from the content-analysed subset.
 """
 import pandas as pd, shutil, glob, os, sys
-V3="/home/user/embodied-ai-governance-v4/"; R2="/home/user/collection-round-2/"
+V3="/home/user/embodied-ai-governance-v5/"; R2="/home/user/collection-round-2/"
 sys.path.insert(0,V3+"scripts"); from regions import lookup
 
 reg=pd.read_csv(V3+"data/registry.csv",dtype=str,keep_default_na=False)

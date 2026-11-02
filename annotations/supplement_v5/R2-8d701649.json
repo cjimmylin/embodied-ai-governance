@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-8d701649",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0537616,
+  "in": 2,
+  "out": 580,
+  "cache_read": 2656,
+  "cache_create": 11923,
+  "api_ms": 3544,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "public_bodies_or_government",
+   "owners_or_users"
+  ],
+  "bound_parties_text": "The bill binds manufacturers of automated driving system operated vehicles (who conduct SAVE projects, report, insure and are liable), local governing authorities (barred from regulating), the commissioner of transportation, and parents or legal guardians of child passengers.",
+  "bound_parties_quote": "A manufacturer shall ensure that all participating motor vehicles comply with state motor vehicle liability insurance policy requirements.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2017,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "to provide for the operation of motor vehicles with automated driving systems on certain public roads",
+  "confidence": 0.6
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-1811243a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.028517599999999997,
+  "in": 2,
+  "out": 672,
+  "cache_read": 2656,
+  "cache_create": 5382,
+  "api_ms": 4367,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The guideline directs the General Administration of Customs, other State Council departments, and provincial and port-location people's governments to implement smart port construction.",
+  "bound_parties_quote": "各省（自治区、直辖市）及口岸所在地人民政府要切实履行主体责任，将智慧口岸建设纳入地方发展规划，明确责任分工，细化目标任务并落实到位。",
+  "entry_into_force_date": "2024-09-10",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "海关总署 国家发展改革委 工业和信息化部 财政部 交通运输部 国家移民局 国家铁路局 中国民航局 国铁集团\n2024年9月10日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "鼓励有条件的港口建设自动化无人码头，实现设施设备运行状态实时监测，集装箱自动化转运和堆垛，运输工具行驶路径智能规划调度",
+  "confidence": 0.55
+ }
+}

@@ -13,7 +13,7 @@ except ImportError:
 SRC="/home/user/drive-src/AI Robotics (Filtered Sources)/Filtered Sources"
 MD="/home/user/drive-md-out/AI Robotics (Filtered Sources-md)/Filtered Sources"
 REPORT="/home/user/drive-md-out/AI Robotics (Filtered Sources-md)/_conversion_report.csv"
-OUT="/home/user/embodied-ai-governance-v4/data"
+OUT="/home/user/embodied-ai-governance-v5/data"
 REGION_CODE={"1. Africa":"AF","2a. North America - USA":"US","2b. North America - Canada, Greenland":"CA",
  "3. Latin America - Caribbean":"LA","4. Asia":"AS","5. Middle East":"ME","6. Europe/Oct 15 - Version 1":"EU1",
  "6. Europe/Oct 29 - Version 2":"EU2","7. Oceania":"OC"}

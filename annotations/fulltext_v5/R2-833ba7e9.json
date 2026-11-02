@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-833ba7e9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:52:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2304671,
+  "in": 4,
+  "out": 3855,
+  "cache_read": 67851,
+  "cache_create": 46281,
+  "api_ms": 35907,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "authors_or_issuer": "Council of the European Communities",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "binding_nature": "legally_binding",
+  "confidence": 0.85,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "risk_based_tiering",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "incident_reporting",
+   "licensing_registration",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "consumer_protection",
+   "research_ethics"
+  ],
+  "instrument_status": "superseded_or_repealed",
+  "is_governance_document": true,
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Devices may be placed on the market only if they do not compromise patient, user or third-party safety and meet Annex I essential requirements.",
+   "Devices are classified into Classes I, IIa, IIb and III with conformity assessment routes scaled to risk, involving notified bodies.",
+   "CE marking is required and gives free movement across Member States; harmonised standards confer presumption of conformity.",
+   "Manufacturers and Member States must record and report serious incidents (vigilance system).",
+   "Clinical investigations require notification, ethics committee opinion and compliance with the Helsinki Declaration."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "Directive 90/385/EEC",
+   "Directive 89/336/EEC",
+   "Directive 65/65/EEC"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "surgical_medical_robots",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 6,
+  "pub_year": 1993,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Council Directive 93/42/EEC harmonises EU rules on medical devices: essential safety and performance requirements, four risk classes, notified-body conformity assessment, CE marking, vigilance reporting and clinical investigation rules. Not AI-specific, but it is the legacy framework for actuated medical devices, including software, later replaced by the Medical Devices Regulation.",
+  "title_clean": "Council Directive 93/42/EEC of 14 June 1993 concerning medical devices",
+  "title_en": "Council Directive 93/42/EEC of 14 June 1993 concerning medical devices",
+  "venue": "Official Journal of the European Communities L 169",
+  "issuer_type": "intergovernmental_org"
+ }
+}

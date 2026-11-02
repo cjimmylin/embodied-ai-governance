@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-4f2fca64",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:06:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07367760000000001,
+  "in": 2,
+  "out": 656,
+  "cache_read": 2656,
+  "cache_create": 16712,
+  "api_ms": 5160,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "operators_or_deployers",
+   "public_bodies_or_government",
+   "individuals_or_general_public",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The chapter binds aircraft owners, pilots and dealers, persons operating unmanned aircraft systems, law enforcement agencies, public bodies and educational institutions, and local governments.",
+  "bound_parties_quote": "a law enforcement agency may not operate an unmanned aircraft system, acquire information through the operation of an unmanned aircraft system or disclose information acquired through the operation of an unmanned aircraft system.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2013,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "“Unmanned aircraft system” means an unmanned flying machine, commonly known as a drone, and its associated elements, including communication links and the components that control the machine. [2013 c.686 §1; 2015 c.315 §1; 2016 c.72 §1]",
+  "confidence": 0.8
+ }
+}

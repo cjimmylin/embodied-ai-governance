@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-e039001f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:51:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2401278,
+  "in": 2,
+  "out": 2028,
+  "cache_read": 11758,
+  "cache_create": 54667,
+  "api_ms": 14180,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Commission Implementing Regulation (EU) 2022/1426 laying down rules for the application of Regulation (EU) 2019/2144 as regards uniform procedures and technical specifications for the type-approval of the automated driving system (ADS) of fully automated vehicles",
+  "title_en": "Commission Implementing Regulation (EU) 2022/1426 laying down rules for the application of Regulation (EU) 2019/2144 as regards uniform procedures and technical specifications for the type-approval of the automated driving system (ADS) of fully automated vehicles",
+  "language": "en",
+  "authors_or_issuer": "European Commission",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2022,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 221/1",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "risk_management_risk_tiers",
+   "cybersecurity",
+   "human_oversight_control",
+   "standards_interoperability",
+   "privacy_data_protection",
+   "transparency_explainability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "data_governance_requirements",
+   "human_oversight_requirement",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "EU implementing regulation setting uniform type-approval procedures and technical specifications for automated driving systems of fully automated vehicles (M and N categories) in predefined-area, hub-to-hub and valet-parking use cases. It requires performance tests, safety management system audits, virtual-toolchain credibility assessment, event data recording and in-service reporting.",
+  "key_provisions_or_claims": [
+   "Applies to type-approval of ADS of fully automated M and N category vehicles for predefined-area, hub-to-hub and automated valet parking use cases.",
+   "ADS must perform the entire dynamic driving task, execute minimal risk manoeuvres, and be free of unreasonable risk compared to manual driving.",
+   "In unavoidable harm situations, no weighting by personal characteristics, and outside lives not subordinated to occupants.",
+   "Manufacturers need a certified safety management system, cybersecurity (UN R155) and software update (UN R156) compliance.",
+   "Mandatory event data recording and in-service reporting of critical occurrences to authorities and the Commission."
+  ],
+  "confidence": 0.95
+ }
+}

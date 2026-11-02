@@ -2,17 +2,17 @@
 
 | principle                       |   strata |   mh_odds_ratio |   ci_low |   ci_high |      p |   p_holm |
 |:--------------------------------|---------:|----------------:|---------:|----------:|-------:|---------:|
-| Transparency                    |        7 |            0.28 |     0.23 |      0.34 | 0      |   0      |
-| Justice & fairness              |        7 |            0.16 |     0.13 |      0.2  | 0      |   0      |
-| Non-maleficence                 |        7 |            1.78 |     1.45 |      2.18 | 0      |   0      |
-| Responsibility & accountability |        7 |            0.55 |     0.46 |      0.67 | 0      |   0      |
-| Privacy                         |        7 |            0.26 |     0.22 |      0.32 | 0      |   0      |
-| Beneficence                     |        7 |            0.26 |     0.21 |      0.31 | 0      |   0      |
-| Freedom & autonomy              |        7 |            0.4  |     0.31 |      0.5  | 0      |   0      |
-| Trust                           |        7 |            0.29 |     0.24 |      0.36 | 0      |   0      |
-| Sustainability                  |        7 |            0.43 |     0.35 |      0.52 | 0      |   0      |
-| Dignity                         |        7 |            0.53 |     0.42 |      0.68 | 0      |   0      |
-| Solidarity                      |        7 |            0.3  |     0.24 |      0.38 | 0      |   0      |
-| Human oversight                 |        7 |            1.38 |     1.15 |      1.66 | 0.0003 |   0.0006 |
-| Robustness & security           |        7 |            0.94 |     0.78 |      1.14 | 0.5592 |   0.5592 |
-| Inclusive growth                |        7 |            0.29 |     0.24 |      0.35 | 0      |   0      |
+| Transparency                    |        7 |            0.29 |     0.24 |      0.35 | 0      |   0      |
+| Justice & fairness              |        7 |            0.17 |     0.14 |      0.2  | 0      |   0      |
+| Non-maleficence                 |        7 |            1.79 |     1.47 |      2.19 | 0      |   0      |
+| Responsibility & accountability |        7 |            0.58 |     0.48 |      0.7  | 0      |   0      |
+| Privacy                         |        7 |            0.28 |     0.23 |      0.34 | 0      |   0      |
+| Beneficence                     |        7 |            0.26 |     0.22 |      0.32 | 0      |   0      |
+| Freedom & autonomy              |        7 |            0.4  |     0.32 |      0.5  | 0      |   0      |
+| Trust                           |        7 |            0.29 |     0.24 |      0.35 | 0      |   0      |
+| Sustainability                  |        7 |            0.43 |     0.35 |      0.53 | 0      |   0      |
+| Dignity                         |        7 |            0.51 |     0.4  |      0.65 | 0      |   0      |
+| Solidarity                      |        7 |            0.3  |     0.24 |      0.37 | 0      |   0      |
+| Human oversight                 |        7 |            1.4  |     1.17 |      1.68 | 0.0001 |   0.0003 |
+| Robustness & security           |        7 |            0.94 |     0.78 |      1.13 | 0.519  |   0.519  |
+| Inclusive growth                |        7 |            0.31 |     0.26 |      0.37 | 0      |   0      |

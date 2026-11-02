@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-5df22073",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:02:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0140716,
+  "in": 2,
+  "out": 569,
+  "cache_read": 2656,
+  "cache_create": 2028,
+  "api_ms": 4030,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The notice only announces intended draft amendments to the Civil Aviation Regulations and Technical Standards and invites comments; it names no bound parties.",
+  "bound_parties_quote": "",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Interested persons are hereby invited to submit written comments on these draft Amendments on or before the 22 February 2023",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "intends, in terms of Section 155(1) of the Civil Aviation Act,2009 (Act No.13 of 2009) and on the recommendation of the Civil Aviation Regulations Committee (CARCom), to amend the Civil Aviation Regulations,2011",
+  "confidence": 0.6
+ }
+}

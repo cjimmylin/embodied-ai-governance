@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-cc18c46c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0603676,
+  "in": 2,
+  "out": 653,
+  "cache_read": 2656,
+  "cache_create": 13392,
+  "api_ms": 6068,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The circular is addressed to prefectural police headquarters heads and regional police bureaus, directing them to apply the standards for instructions to remote operators and users (使用者) of remotely operated small vehicles; the underlying rules bind remote operators and users.",
+  "bound_parties_quote": "都道府県警察においては、これを参考として、遠隔操作型小型車の遠隔操作を行う者及び使用者に対する指示の規定並びに報告等の求め及び立入検査に関する規定を適切に運用されたい。",
+  "entry_into_force_date": "2023-03-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "令 和 ５ 年 ３ 月 １ 日 警察庁交通局交通企画課長",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "遠隔操作型小型車の遠隔操作を行う者に対する指示の基準等について（通達）",
+  "confidence": 0.8
+ }
+}

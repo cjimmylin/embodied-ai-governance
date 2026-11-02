@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-d2567eac",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0771056,
+  "in": 2,
+  "out": 690,
+  "cache_read": 2656,
+  "cache_create": 17484,
+  "api_ms": 13077,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "providers_or_developers",
+   "pilots_or_drivers",
+   "certification_or_notified_bodies"
+  ],
+  "bound_parties_text": "The CAD applies to all Remote Pilot Training Organisations seeking to become Approved Training Organisations by CAAM (RPTO COA holders), and also to UAS operators and remote pilots; any person contravening it commits an offence.",
+  "bound_parties_quote": "This CAD is applicable to all Remote Pilot Training Organisation seeking to become an Approved Training Organisation by CAAM.",
+  "entry_into_force_date": "2022-11-15",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "These Directives are the Civil Aviation Directives 6011 (I) – Remote Pilot Training Organisation (CAD 6011 (I) – RPTO), Issue 01/Revision 01, and comes into operation on 15 November 2022.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2022,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "CAD 6011 (I) is a subset the ‘CAD 6011 series’ of UAS Directives and Guidance documentation",
+  "confidence": 0.85
+ }
+}

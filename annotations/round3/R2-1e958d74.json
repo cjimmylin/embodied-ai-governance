@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-1e958d74",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:17:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0350098,
+  "in": 2,
+  "out": 1789,
+  "cache_read": 11758,
+  "cache_create": 3985,
+  "api_ms": 8891,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Chapter 46.75 RCW: Personal Delivery Devices",
+  "title_en": "Chapter 46.75 RCW: Personal Delivery Devices",
+  "language": "en",
+  "authors_or_issuer": "Washington State Legislature",
+  "issuer_type": "subnational_government",
+  "pub_year": 2019,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Revised Code of Washington",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "consumer_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "insurance_requirement",
+   "incident_reporting",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "liability_regime",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Washington State statute (RCW 46.75, enacted 2019) regulating personal delivery devices, small automated sidewalk delivery robots supervised by remote operators. It sets operating requirements, insurance, incident reporting, self-certification with the Department of Licensing, device identification and equipment, cargo restrictions, and infraction liability through a registered agent.",
+  "key_provisions_or_claims": [
+   "Defines personal delivery devices: under 120 lbs, max 6 mph, automated driving with remote operator supervision.",
+   "Operators must carry at least $100,000 general liability insurance.",
+   "Incidents with injury or property damage must be reported to local police within 48 hours.",
+   "Annual self-certification to Department of Licensing with $50 fee per device; unique ID markers, brakes, lights required.",
+   "Bans transporting hazardous materials and alcohol; infractions go to registered agent and are treated like parking infractions."
+  ],
+  "confidence": 0.95
+ }
+}

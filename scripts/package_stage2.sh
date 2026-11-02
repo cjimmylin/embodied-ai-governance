@@ -1,8 +1,8 @@
 #!/bin/bash
 # Package all Stage 1 + Stage 2 deliverables into one zip.
-cd /home/user/embodied-ai-governance-v4
-rm -f /home/user/embodied-ai-governance-v4-full.zip
-zip -qr /home/user/embodied-ai-governance-v4-full.zip \
+cd /home/user/embodied-ai-governance-v5
+rm -f /home/user/embodied-ai-governance-v5-full.zip
+zip -qr /home/user/embodied-ai-governance-v5-full.zip \
   report/analysis_report.md report/analysis_report.pdf report/analysis_report.html \
   report/paper.md report/paper.pdf report/paper.html \
   report/supplement.md report/supplement.pdf report/supplement.html \
@@ -13,4 +13,4 @@ zip -qr /home/user/embodied-ai-governance-v4-full.zip \
   data/collector_coverage.csv data/not_captured.csv data/download_gaps.csv data/qa_flags.csv \
   data/openalex_summary.csv data/text_features.csv data/lexicon_features.csv data/recovered_docs.csv \
   annotations scripts -x "scripts/__pycache__/*" "annotations/test/*"
-ls -la /home/user/embodied-ai-governance-v4-full.zip
+ls -la /home/user/embodied-ai-governance-v5-full.zip

@@ -1,0 +1,34 @@
+{
+ "doc_id": "D0957",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:51:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07207160000000001,
+  "in": 2,
+  "out": 591,
+  "cache_read": 2656,
+  "cache_create": 16473,
+  "api_ms": 5355,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The plan recommends actions for Federal agencies (e.g., the NSTC ML/AI Subcommittee, OMB, Department of Commerce, and all agencies with AI-related needs), but it is a non-binding plan.",
+  "bound_parties_quote": "Except where specific agencies are noted, all agencies with AI-related needs and activities should consider their poss",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Prepared in response to Executive Order 13859\nSubmitted on August 9, 2019",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "U.S. LEADERSHIP IN AI:\nA Plan for Federal Engagement in Developing\nTechnical Standards and Related Tools",
+  "confidence": 0.7
+ }
+}

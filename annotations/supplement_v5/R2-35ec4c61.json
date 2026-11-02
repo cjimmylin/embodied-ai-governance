@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-35ec4c61",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.11199959999999999,
+  "in": 2,
+  "out": 719,
+  "cache_read": 2656,
+  "cache_create": 26135,
+  "api_ms": 5473,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "operators_or_deployers",
+   "public_bodies_or_government",
+   "certification_or_notified_bodies"
+  ],
+  "bound_parties_text": "The ordinance binds owners of model aircraft and unmanned aircraft systems (marking), operators/controllers (Steuerer) of unmanned aircraft and model aircraft, and recognised certifying bodies and state aviation authorities.",
+  "bound_parties_quote": "Steuerer von unbemannten Luftfahrtsystemen und Flugmodellen haben dafür Sorge zu tragen, dass diese bemannten Luftfahrzeugen und unbemannten Freiballonen",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Diese Verordnung tritt vorbehaltlich des Satzes 2 am Tag nach der Verkündung in Kraft. Ar-\ntikel 1 tritt am ersten Tag des sechsten auf die Verkündung folgenden Kalendermonats in\nKraft.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2017,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Verordnung zur Regelung des Betriebs von unbemannten Fluggeräten",
+  "confidence": 0.8
+ }
+}

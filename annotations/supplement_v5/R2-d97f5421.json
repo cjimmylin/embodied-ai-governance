@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-d97f5421",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07901559999999999,
+  "in": 2,
+  "out": 601,
+  "cache_read": 2656,
+  "cache_create": 18184,
+  "api_ms": 4250,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers",
+   "operators_or_deployers",
+   "public_bodies_or_government",
+   "owners_or_users"
+  ],
+  "bound_parties_text": "The Act imposes duties on the Secretary of State, authorised self-driving entities, licensed no-user-in-charge operators and other regulated bodies (including nominated individuals and senior managers), and users-in-charge.",
+  "bound_parties_quote": "A regulated body commits an offence if it— fails to provide information as required by an information notice",
+  "entry_into_force_date": "2024-05-20",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "S. 94  in force at Royal Assent, see s. 99(3)",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "An Act to regulate the use of automated vehicles on roads and in other public places; and to make other provision in relation to vehicle automation.",
+  "confidence": 0.8
+ }
+}

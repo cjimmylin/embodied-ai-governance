@@ -1,0 +1,102 @@
+{
+ "doc_id": "R3-174effa6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:17:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1779598,
+  "in": 2,
+  "out": 1896,
+  "cache_read": 11758,
+  "cache_create": 39455,
+  "api_ms": 11056,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport",
+   "manufacturing"
+  ],
+  "authors_or_issuer": "Commission of the European Communities",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "mobile_industrial_logistics"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "instrument_status": "superseded_or_repealed",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Stability, visibility and functional tests for self-propelled industrial trucks must follow the Annex methods.",
+   "Member States must transpose by the same date as Directive 86/663/EEC.",
+   "Annex sets 13 test methods, e.g. tilting-platform stability tests for counterbalanced, reach, order-picking and rough terrain trucks.",
+   "Functional tests include lowering speed (max 0.6 m/s) and lift/tilt leakage checks.",
+   "Visibility measured by a lamp-shadow method for counterbalanced fork lifts."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "Council Directive 86/663/EEC",
+   "Council Directive 84/528/EEC"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "mobile_industrial_logistics",
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 1988,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Commission Directive 89/240/EEC adapts Directive 86/663/EEC on self-propelled industrial trucks to technical progress by adopting test methods for stability, visibility and function. The Annex sets out 13 detailed methods for forklift-type trucks. It covers conventional manually operated trucks, not AI or autonomous systems.",
+  "title_clean": "Commission Directive 89/240/EEC of 16 December 1988 adapting to technical progress Council Directive 86/663/EEC on the approximation of the laws of the Member States relating to self-propelled industrial trucks",
+  "title_en": "Commission Directive 89/240/EEC of 16 December 1988 adapting to technical progress Council Directive 86/663/EEC on the approximation of the laws of the Member States relating to self-propelled industrial trucks",
+  "venue": "Official Journal of the European Communities L 100",
+  "methodology": "not_applicable"
+ }
+}

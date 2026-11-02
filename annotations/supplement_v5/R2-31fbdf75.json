@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-31fbdf75",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.12508160000000001,
+  "in": 2,
+  "out": 540,
+  "cache_read": 2656,
+  "cache_create": 29853,
+  "api_ms": 5029,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The ordinance binds comprehensive efficiency plan operators (総合効率化事業者) applying for plan certification and certified operators applying for changes, with procedures routed through regional bureau heads and prefectural governors.",
+  "bound_parties_quote": "法第六条第一項の規定により総合効率化計画の認定を受けようとする総合効率化事業者は、次に掲げる事項を記載した申請書を提出しなければならない。",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.55
+ }
+}

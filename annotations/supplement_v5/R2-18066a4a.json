@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-18066a4a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0448316,
+  "in": 2,
+  "out": 651,
+  "cache_read": 2656,
+  "cache_create": 9513,
+  "api_ms": 4535,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "pilots_or_drivers",
+   "operators_or_deployers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The order binds remote pilots flying drones (who must comply with distance, insurance and age requirements), with the Danish Transport, Construction and Housing Authority given powers to permit exemptions and designate zones.",
+  "bound_parties_quote": "Flyvning med droner skal ske i overensstemmelse med reglerne i EU-forordning 2019/947 om regler og procedurer for operation af ubemandede luftfartøjer",
+  "entry_into_force_date": "2021-01-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "§ 19. Bekendtgørelsen træder i kraft den 1. januar 2021.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Bekendtgørelse om supplerende bestemmelser til EU-forordning 2019/947 om regler og procedurer for operation af ubemandede luftfartøjer",
+  "confidence": 0.9
+ }
+}

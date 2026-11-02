@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-16343b99",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.9990977999999999,
+  "in": 2,
+  "out": 1849,
+  "cache_read": 11758,
+  "cache_create": 244857,
+  "api_ms": 42310,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "道路交通法施行規則",
+  "title_en": "Road Traffic Act Enforcement Regulations (Cabinet Office Order)",
+  "language": "ja",
+  "authors_or_issuer": "Cabinet Office (formerly Prime Minister's Office), Japan",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search (Japan)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "cybersecurity",
+   "education_training",
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "human_oversight_requirement",
+   "education_training_programs",
+   "transparency_disclosure_labelling",
+   "conformity_assessment_certification",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japan's Road Traffic Act Enforcement Regulations (1960, as amended; latest amendment effective 2026-09-01). It sets vehicle classes, licensing and driving tests, and includes chapter 2-7 on permits for 'specific automated operation' (Level 4 driverless vehicles), plus standards for remotely operated small vehicles (delivery robots).",
+  "key_provisions_or_claims": [
+   "Chapter 2-7 sets police commission permits for specific automated operation (Level 4), with application contents and plans.",
+   "Requires a specific automated operation chief, remote monitoring device (video, audio, location, cybersecurity), and on-site response personnel with training.",
+   "Vehicles must display an 'automated operation in progress' indicator.",
+   "Remotely operated small vehicles (sidewalk delivery robots) must meet size, 6 km/h speed, emergency stop button standards, and be notified a week before operation with third-party safety examination.",
+   "Sets driver licensing, test, and renewal procedures for conventional vehicles."
+  ],
+  "confidence": 0.85
+ }
+}

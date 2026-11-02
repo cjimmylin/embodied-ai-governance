@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-ccf22b6b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0215836,
+  "in": 2,
+  "out": 643,
+  "cache_read": 2656,
+  "cache_create": 3721,
+  "api_ms": 6275,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The standard sets design, construction and verification requirements for lightweight unmanned aircraft systems, for use in CAA, self- or third-party airworthiness determinations; it is a voluntary specification, so it implicitly addresses UAS designers/manufacturers.",
+  "bound_parties_quote": "This specification establishes the airworthiness requirements for the design of fixed-wing unmanned aircraft systems.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "It is the responsibility of the user of this standard to establish appropriate safety, health, and environmental practices and determine the applicability of regulatory limitations prior to use.",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "ASTM F3298-19 Standard Specification for Design, Construction, and Verification of Lightweight Unmanned Aircraft Systems (UAS)",
+  "confidence": 0.6
+ }
+}

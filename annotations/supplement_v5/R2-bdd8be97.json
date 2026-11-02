@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-bdd8be97",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0747596,
+  "in": 2,
+  "out": 603,
+  "cache_read": 2656,
+  "cache_create": 17115,
+  "api_ms": 4991,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "Persons applying for permission to conduct specified automated operation (特定自動運行実施者), including corporations and their officers, who must file applications, plans, and notifications; the prefectural public safety commissions review them.",
+  "bound_parties_quote": "特定自動運行実施者は、特定自動運行計画を変更しようとするとき（(2)の軽微な変更を除く。）は、変更許可申請書を提出し、管轄する都道府県公安委員会の許可を受けなければならない。",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "特定自動運行許可に係る申請書等の記載要領 令和８年３月 警察庁交通局",
+  "confidence": 0.7
+ }
+}

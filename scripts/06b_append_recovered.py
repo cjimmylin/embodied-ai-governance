@@ -3,7 +3,7 @@
 deduplicating among themselves (MinHash on prose) and attaching to existing docs when a title/content twin exists."""
 import os, re, json, collections, unicodedata, pandas as pd
 from datasketch import MinHash, MinHashLSH
-B="/home/user/embodied-ai-governance-v4/data/"
+B="/home/user/embodied-ai-governance-v5/data/"
 files=pd.read_csv(B+"files.csv"); reg=pd.read_csv(B+"registry.csv"); rec=pd.read_csv(B+"data/recovered_docs.csv".replace("data/data/","data/")) if False else pd.read_csv(B+"recovered_docs.csv")
 REGION_NAME={"AF":"Africa","US":"North America (USA)","CA":"North America (Canada, Greenland)","LA":"Latin America & Caribbean","AS":"Asia","ME":"Middle East","EU1":"Europe","EU2":"Europe","OC":"Oceania"}
 def norm(t):

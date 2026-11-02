@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-bb3fcf82",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029799600000000002,
+  "in": 2,
+  "out": 577,
+  "cache_read": 2656,
+  "cache_create": 5940,
+  "api_ms": 6843,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The specification is intended for use by USS developers, CAAs and others to assess USS conformance, and applies to UAS Service Suppliers (USSs).",
+  "bound_parties_quote": "This specification is intended to be used by USS developers, CAAs, and others to assess USS conformance with this UTM specification.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "In a region where participating UAS operators voluntarily agree to or are required by the competent authority to comply with this specification",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Standard Specification for UAS Traffic Management (UTM) UAS Service Supplier (USS) Interoperability",
+  "confidence": 0.6
+ }
+}

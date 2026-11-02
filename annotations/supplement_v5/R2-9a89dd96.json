@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-9a89dd96",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:02:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0713596,
+  "in": 2,
+  "out": 569,
+  "cache_read": 2656,
+  "cache_create": 16350,
+  "api_ms": 4969,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "owners_or_users"
+  ],
+  "bound_parties_text": "The Directive binds RPAS operators, remote pilots and any person operating, importing or maintaining an RPAS (including recreational operators).",
+  "bound_parties_quote": "No person shall import, operate or provide maintenance services for an RPAS without the written approval of the Authority.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2016,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "GHANA CIVIL AVIATION (SAFETY) DIRECTIVES, 2016 PART 28- REMOTELY PILOTED AIRCRAFT SYSTEMS",
+  "confidence": 0.8
+ }
+}

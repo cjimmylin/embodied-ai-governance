@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-1e958d74",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.021857599999999998,
+  "in": 2,
+  "out": 560,
+  "cache_read": 2656,
+  "cache_create": 3997,
+  "api_ms": 9204,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "Eligible entities (businesses) operating personal delivery devices are bound, and the department of licensing must create the self-certification form.",
+  "bound_parties_quote": "An eligible entity may operate a personal delivery device so long as all of the following requirements are met:",
+  "entry_into_force_date": "2019-09-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "\"This act takes effect September 1, 2019.\"",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "The device is equipped with automated driving technology, including software and hardware, enabling the operation of the device, with the support and supervision of a remote personal delivery device operator.",
+  "confidence": 0.93
+ }
+}

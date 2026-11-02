@@ -2,7 +2,7 @@
 """Deterministic multilingual lexicon features over the FULL text of each document's primary file.
 Outputs data/lexicon_features.csv: for each lexicon, raw count, density per 1,000 words, and presence."""
 import re, os, json, pandas as pd
-B="/home/user/embodied-ai-governance-v4/"
+B="/home/user/embodied-ai-governance-v5/"
 reg=pd.read_csv(B+"data/registry.csv")
 L={}
 # embodied categories

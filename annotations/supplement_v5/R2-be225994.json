@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-be225994",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:02:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0819516,
+  "in": 2,
+  "out": 711,
+  "cache_read": 2656,
+  "cache_create": 18643,
+  "api_ms": 5565,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users",
+   "pilots_or_drivers",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The regulations bind persons operating remotely piloted aircraft systems, including pilots, crew members, visual observers, registered owners of remotely piloted aircraft, and owners of systems who must keep records.",
+  "bound_parties_quote": "No pilot shall operate a remotely piloted aircraft system unless the registration number issued in accordance with section 901.05 is clearly visible on the remotely piloted aircraft.",
+  "entry_into_force_date": "2018-12-21",
+  "applicability_date": "2019-06-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Sections 900.06, 901.02, 901.03, 901.07 to 901.49, 901.54, 901.56, 901.57, 901.63, 901.65, 901.66, 901.69 to 901.73, 903.01 and 903.03 do not apply until June 1, 2019.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Regulations Amending the Canadian Aviation Regulations (Remotely Piloted Aircraft Systems): SOR/2019-11",
+  "confidence": 0.6
+ }
+}

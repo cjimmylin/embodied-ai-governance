@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-a99f1f33",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:54:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0582456,
+  "in": 2,
+  "out": 670,
+  "cache_read": 2656,
+  "cache_create": 12819,
+  "api_ms": 5741,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users",
+   "public_bodies_or_government",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The Regulation binds pilot proprietors (holders of pilot licences carrying out AV schemes), who must maintain pilot AVs, keep records and report events, applicants, and the Commissioner for Transport, and it prohibits interference with AVs.",
+  "bound_parties_quote": "section 33 requires, for safety, pilot proprietors to ensure pilot AVs are in a state of good and serviceable condition and that the relevant AV systems function properly;",
+  "entry_into_force_date": "2023",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Regulation comes into operation on the day on which the Road Traffic (Amendment) (Autonomous Vehicles) Ordinance 2023 (11 of 2023) comes into operation.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Road Traffic (Autonomous Vehicles) Regulation L.N. 164 of 2023",
+  "confidence": 0.8
+ }
+}

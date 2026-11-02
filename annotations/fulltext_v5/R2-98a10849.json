@@ -1,0 +1,114 @@
+{
+ "doc_id": "R2-98a10849",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.22559379999999998,
+  "in": 2,
+  "out": 1883,
+  "cache_read": 11758,
+  "cache_create": 51396,
+  "api_ms": 15296,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Plán autonomní mobility do roku 2025 s výhledem do roku 2030",
+  "title_en": "Autonomous Mobility Plan until 2025 with an Outlook to 2030",
+  "language": "cs",
+  "authors_or_issuer": "Vláda České republiky / Ministerstvo dopravy",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministerstvo dopravy ČR",
+  "jurisdiction_country": "CZ",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CZ",
+   "EU"
+  ],
+  "doc_type": "national_strategy_or_action_plan",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "safety_physical_harm",
+   "cybersecurity",
+   "ethics_principles",
+   "civil_liability",
+   "privacy_data_protection",
+   "standards_interoperability",
+   "education_training",
+   "trust_acceptance",
+   "labor_employment",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 2,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "oversight_body_creation",
+   "international_cooperation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Czech government plan (resolution no. 234 of 10 April 2024) setting 13 measures to enable automated road vehicles by 2030: testing infrastructure, cybersecurity, legal reform of road traffic law, UNECE/EU participation, an ethics commission, R&D funding, AI support, and driver education and public awareness.",
+  "key_provisions_or_claims": [
+   "Government approves the Plan; Minister of Transport must report on implementation and update by 31 Dec 2025",
+   "Prepare legislation amending Act 361/2000 to allow automated vehicles, covering liability, insurance and remote driver",
+   "Create a cybersecurity platform and certification for autonomous mobility systems by 2026",
+   "Active participation in UNECE WP.29/WP.1 and EU working groups",
+   "Ethics Commission follow-up; min. CZK 100 million for R&D projects and awareness campaigns"
+  ],
+  "confidence": 0.93
+ }
+}

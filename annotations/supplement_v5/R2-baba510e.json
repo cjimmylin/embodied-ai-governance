@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-baba510e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0139756,
+  "in": 2,
+  "out": 593,
+  "cache_read": 2656,
+  "cache_create": 1944,
+  "api_ms": 8483,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The statute limits the admissibility and use of information from unmanned aerial vehicles in prosecutions, proceedings, and search warrant affidavits, which constrains prosecutors, law enforcement and courts.",
+  "bound_parties_quote": "information from an unmanned aerial vehicle is not admissible as evidence unless the information was obtained",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "En. Sec. 1, Ch. 377, L. 2013; amd. Sec. 1, Ch. 178, L. 2019.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2013,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "En. Sec. 1, Ch. 377, L. 2013; amd. Sec. 1, Ch. 178, L. 2019.",
+  "confidence": 0.8
+ }
+}

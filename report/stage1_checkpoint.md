@@ -1,13 +1,13 @@
 # Stage 1 checkpoint: corpus, taxonomies, dashboard
 
-Generated from 3295 canonical documents (3295 annotated). Annotation spend so far: $97.64.
+Generated from 3450 canonical documents (3450 annotated). Annotation spend so far: $97.64.
 
 ## 1. Corpus construction
 
 - Files downloaded from Drive: 2557 (plus 26 recovered through the Drive text reader).
-- Unique documents after deduplication by content hash, URL, title and prose similarity: 3423.
+- Unique documents after deduplication by content hash, URL, title and prose similarity: 3586.
 - Documents listed in more than one regional folder: 78.
-- Documents with usable text: 3333; bot-walled or empty captures kept as metadata-only rows: 90.
+- Documents with usable text: 3496; bot-walled or empty captures kept as metadata-only rows: 90.
 
 | Collection region | Sprint | Database |
 |---|---|---|
@@ -21,6 +21,7 @@ Generated from 3295 canonical documents (3295 annotated). Annotation spend so fa
 | North America (Canada, Greenland) | 18 | 24 |
 | North America (USA) | 98 | 44 |
 | Oceania | 30 | 37 |
+| Unknown | 0 | 0 |
 
 ### Coverage against the collectors' own manifests
 
@@ -49,72 +50,72 @@ The collectors list 180 sprint sources they could not capture (bot walls, dead h
 
 | Document class | Documents | Share |
 |---|---|---|
-| governance_instrument_soft | 796 | 24.2% |
-| governance_instrument_binding | 705 | 21.4% |
-| research_output | 603 | 18.3% |
-| communication_or_news | 592 | 18.0% |
-| government_report_or_parliamentary | 261 | 7.9% |
-| governance_proposal_or_draft | 220 | 6.7% |
-| unusable | 62 | 1.9% |
-| grey_literature | 56 | 1.7% |
+| governance_instrument_soft | 826 | 23.9% |
+| governance_instrument_binding | 818 | 23.7% |
+| research_output | 603 | 17.5% |
+| communication_or_news | 595 | 17.2% |
+| government_report_or_parliamentary | 263 | 7.6% |
+| governance_proposal_or_draft | 227 | 6.6% |
+| unusable | 62 | 1.8% |
+| grey_literature | 56 | 1.6% |
 
 | AI scope | Documents | Share |
 |---|---|---|
-| general_ai_only | 1026 | 31.1% |
-| embodied_ai_specific_category | 997 | 30.3% |
-| not_ai | 576 | 17.5% |
-| embodied_ai_robotics_general | 388 | 11.8% |
-| general_ai_with_embodied_provisions | 308 | 9.3% |
+| embodied_ai_specific_category | 1073 | 31.1% |
+| general_ai_only | 1035 | 30.0% |
+| not_ai | 620 | 18.0% |
+| embodied_ai_robotics_general | 392 | 11.4% |
+| general_ai_with_embodied_provisions | 330 | 9.6% |
 
 | Jurisdiction region (from jurisdiction, not folder) | Documents | Share |
 |---|---|---|
-| Europe | 1347 | 40.9% |
-| Asia | 709 | 21.5% |
-| International | 387 | 11.7% |
-| North America | 369 | 11.2% |
-| Latin America & Caribbean | 156 | 4.7% |
-| Oceania | 130 | 3.9% |
-| Middle East | 110 | 3.3% |
-| Africa | 76 | 2.3% |
+| Europe | 1382 | 40.1% |
+| Asia | 789 | 22.9% |
+| North America | 399 | 11.6% |
+| International | 389 | 11.3% |
+| Latin America & Caribbean | 160 | 4.6% |
+| Oceania | 131 | 3.8% |
+| Middle East | 111 | 3.2% |
+| Africa | 78 | 2.3% |
 | Unknown | 11 | 0.3% |
 
 | Language | Documents | Share |
 |---|---|---|
-| en | 2479 | 75.2% |
-| zh | 280 | 8.5% |
-| es | 118 | 3.6% |
-| ja | 109 | 3.3% |
-| pt | 44 | 1.3% |
-| fr | 41 | 1.2% |
-| ko | 38 | 1.2% |
-| de | 26 | 0.8% |
-| ru | 18 | 0.5% |
+| en | 2554 | 74.0% |
+| zh | 332 | 9.6% |
+| es | 120 | 3.5% |
+| ja | 117 | 3.4% |
+| pt | 46 | 1.3% |
+| fr | 45 | 1.3% |
+| ko | 38 | 1.1% |
+| de | 32 | 0.9% |
+| ru | 19 | 0.6% |
 | ar | 17 | 0.5% |
 | pl | 16 | 0.5% |
-| id | 13 | 0.4% |
+| it | 14 | 0.4% |
 
 | Page quality | Documents | Share |
 |---|---|---|
-| substantive_document | 2256 | 68.5% |
-| partial_or_excerpt | 555 | 16.8% |
-| landing_or_index_page | 352 | 10.7% |
-| error_or_blocked_page | 124 | 3.8% |
+| substantive_document | 2411 | 69.9% |
+| partial_or_excerpt | 554 | 16.1% |
+| landing_or_index_page | 353 | 10.2% |
+| error_or_blocked_page | 124 | 3.6% |
 | non_text | 8 | 0.2% |
 
-Year known for 3137 of 3295 annotated documents (annotation 3118, OpenAlex 3, PDF metadata 17). Median year 2024.
+Year known for 3291 of 3450 annotated documents (annotation 3272, OpenAlex 3, PDF metadata 17). Median year 2024.
 
 Governance instruments by status:
 
 | Status | Documents |
 |---|---|
-| published_current | 754 |
-| in_force | 603 |
-| superseded_or_repealed | 118 |
-| draft_or_bill_under_consideration | 90 |
+| published_current | 783 |
+| in_force | 699 |
+| superseded_or_repealed | 124 |
+| draft_or_bill_under_consideration | 96 |
+| adopted_not_yet_in_force | 56 |
 | under_development | 51 |
-| adopted_not_yet_in_force | 44 |
 | consultation_open | 35 |
-| proposal_or_concept | 30 |
+| proposal_or_concept | 32 |
 | unknown | 5 |
 | withdrawn_or_lapsed | 5 |
 
@@ -181,19 +182,19 @@ Overlap documents: 160. Cohen's kappa (quadratic-weighted for ordinal fields; me
 | Europe collector 'Robot focus' (Robotics/Humanoid/Embodied vs General AI) vs annotated ai_scope (embodied incl. provisions vs general) | 684 | 0.82 | 0.61 |
 | Europe collector 'Robot focus' vs annotated embodiment_status (physical/mixed vs none/software) | 684 | 0.82 | 0.63 |
 | Europe collector 'Type' vs annotated issuer_type (4 collapsed classes) | 646 | 0.97 | 0.95 |
-| Collector 2-letter country vs annotated jurisdiction_country (research papers, first-author country) | 1594 | 0.98 |  |
-| Collector set (sprint=robotics vs database=general AI) vs annotated relevance>=2 | 3295 | 0.63 | 0.22 |
+| Collector 2-letter country vs annotated jurisdiction_country (research papers, first-author country) | 1746 | 0.98 |  |
+| Collector set (sprint=robotics vs database=general AI) vs annotated relevance>=2 | 3450 | 0.62 | 0.20 |
 | Collector tier Core vs annotated is_governance_document | 1250 | 0.78 | 0.32 |
 
 ## 4. Quality flags for review
 
-398 documents carry at least one flag (`data/qa_flags.csv`). Counts by flag:
+401 documents carry at least one flag (`data/qa_flags.csv`). Counts by flag:
 
 - sprint_doc_rated_irrelevant: 124
 - language_disagreement: 123
 - annotation_year_vs_openalex>1: 86
 - low_confidence_with_text: 54
-- year<1990: 36
+- year<1990: 39
 - jurisdiction_unknown: 11
 - governance_doc_in_news_or_research_class: 2
 

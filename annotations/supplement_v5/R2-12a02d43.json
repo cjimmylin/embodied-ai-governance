@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-12a02d43",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0284496,
+  "in": 2,
+  "out": 554,
+  "cache_read": 2656,
+  "cache_create": 5660,
+  "api_ms": 7264,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The opinion assigns tasks to the fourteen issuing departments (MIIT, Public Security, Emergency Management, etc.), local departments, and telecom enterprises.",
+  "bound_parties_quote": "各地有关部门要强化工作协同,将重点任务统筹纳入部门重点工作，细化落实举措。各电信企业要制定提升本企业应急通信能力发展规划，做好资源配套，强化任务落实。",
+  "entry_into_force_date": "2024-12-31",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "2024年12月31日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.6
+ }
+}

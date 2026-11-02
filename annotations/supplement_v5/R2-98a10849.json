@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-98a10849",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:59:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0986876,
+  "in": 2,
+  "out": 711,
+  "cache_read": 2656,
+  "cache_create": 22827,
+  "api_ms": 7153,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The Government resolution tasks the Minister of Transport, members of the government and heads of other central state administration bodies, and recommends cooperation by regional governors, the mayor of Prague, mayors of statutory cities and mayors of municipalities with extended powers.",
+  "bound_parties_quote": "členům vlády a vedoucím ostatních ústředních orgánů státní správy a) spolupracovat při realizaci, monitorování a evaluaci Plánu s ministrem dopravy",
+  "entry_into_force_date": "2024-04-10",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "ze dne 10. dubna 2024 č. 234 o Plánu autonomní mobility do roku 2025 s výhledem do roku 2030",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Plán autonomní mobility (dále jen „Plán“) navazuje na strategický dokument „Vize rozvoje autonomní mobility“ a primárně se týká autonomní mobility v silniční dopravě a automatizovaných silničních vozidel.",
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-0ff7bda7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:14:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0540138,
+  "in": 2,
+  "out": 1899,
+  "cache_read": 11758,
+  "cache_create": 8461,
+  "api_ms": 10070,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_only",
+  "application_sectors": [
+   "domestic_consumer",
+   "finance",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "European Commission",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "data_governance_requirements"
+  ],
+  "governance_topics": [
+   "cybersecurity",
+   "privacy_data_protection",
+   "consumer_protection",
+   "children_vulnerable_groups",
+   "certification_conformity_assessment",
+   "standards_interoperability"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Article 3(3)(d) network protection applies to all internet-connected radio equipment.",
+   "Article 3(3)(e) privacy and data protection applies to internet-connected, childcare, toy and wearable radio equipment processing personal data.",
+   "Article 3(3)(f) fraud protection applies to internet-connected equipment enabling money or virtual currency transfers.",
+   "Medical devices, vehicles, aviation and road toll equipment are exempted where covered by other EU legislation.",
+   "Applies from 1 August 2024; presumption of conformity via harmonised standards."
+  ],
+  "language": "en",
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "cybersecurity",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 10,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "EU Commission Delegated Regulation 2022/30 makes cybersecurity essential requirements of the Radio Equipment Directive (network protection, privacy, fraud) mandatory for internet-connected, childcare, toy and wearable radio equipment, with exemptions for medical devices, vehicles and aviation. It applies from 1 August 2024.",
+  "title_clean": "Commission Delegated Regulation (EU) 2022/30 supplementing Directive 2014/53/EU with regard to the application of the essential requirements referred to in Article 3(3), points (d), (e) and (f)",
+  "title_en": "Commission Delegated Regulation (EU) 2022/30 supplementing Directive 2014/53/EU with regard to the application of the essential requirements referred to in Article 3(3), points (d), (e) and (f)",
+  "venue": "Official Journal of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "methodology": "not_applicable"
+ }
+}

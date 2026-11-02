@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-78884c55",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0224076,
+  "in": 2,
+  "out": 611,
+  "cache_read": 2656,
+  "cache_create": 4007,
+  "api_ms": 4178,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "owners_or_users"
+  ],
+  "bound_parties_text": "The test method is intended for use by A-UGV manufacturers, installers, and users to confirm positioning or docking performance.",
+  "bound_parties_quote": "This test method is intended for use by A-UGV manufacturers, installers, and users to quantitatively confirm the maneuverability and repeatability of an A-UGV’s positioning or docking.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "This standard does not purport to address all of the safety concerns, if any, associated with its use. It is the responsibility of the user of this standard to establish appropriate safety, health, and environmental practices",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "ASTM F3499-21 Standard Test Method for Confirming the Docking Performance of A-UGVs",
+  "confidence": 0.7
+ }
+}

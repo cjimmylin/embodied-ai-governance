@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-5ce7d6f6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.016623600000000002,
+  "in": 2,
+  "out": 557,
+  "cache_read": 2656,
+  "cache_create": 2696,
+  "api_ms": 7336,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The SAE Recommended Practice binds no one; it provides metrics, and implementers choose the values for the quantities used.",
+  "bound_parties_quote": "In the interim, it will be the responsibility of the implementer of these metrics to choose values for these quantities.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "This SAE Recommended Practice provides DA metrics used to quantify the DDT performance of ADS-operated vehicles.",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "This SAE Recommended Practice provides DA metrics used to quantify the DDT performance of ADS-operated vehicles.",
+  "confidence": 0.8
+ }
+}

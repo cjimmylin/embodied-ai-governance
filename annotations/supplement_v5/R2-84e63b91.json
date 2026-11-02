@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-84e63b91",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0360436,
+  "in": 2,
+  "out": 607,
+  "cache_read": 2656,
+  "cache_create": 7426,
+  "api_ms": 4195,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "individuals_or_general_public",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The statute binds law enforcement agencies, persons, state agencies and political subdivisions using drones, and governmental agencies (which may only acquire drones from approved manufacturers).",
+  "bound_parties_quote": "A person, a state agency, or a political subdivision as defined in s. 11.45 may not use a drone equipped with an imaging device to record an image of privately owned real property",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2027-07-01",
+  "dates_quote": "This paragraph expires July 1, 2027.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2013,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "934.50 Searches and seizure using a drone. ... History. s. 1, ch. 2013-33; s. 1, ch. 2015-26;",
+  "confidence": 0.6
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-2a693f76",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0371896,
+  "in": 2,
+  "out": 638,
+  "cache_read": 2656,
+  "cache_create": 7635,
+  "api_ms": 3901,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users",
+   "manufacturers_or_producers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Act binds persons (including manufacturers and owners) operating fully autonomous vehicles, who must submit law enforcement interaction plans, proof of financial responsibility, and report accidents; it also preempts counties and municipalities.",
+  "bound_parties_quote": "Prior to operating a fully autonomous vehicle on the public roads of this state without a human driver, a person shall submit to the Department of Public Safety a law enforcement interaction plan",
+  "entry_into_force_date": "2022-11-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "SECTION 13.   This act shall become effective November 1, 2022.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2022,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "An Act relating to motor vehicles; allowing for operation of fully autonomous vehicles; stating conditions for operation",
+  "confidence": 0.93
+ }
+}

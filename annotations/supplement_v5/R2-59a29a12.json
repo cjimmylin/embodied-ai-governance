@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-59a29a12",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1261176,
+  "in": 2,
+  "out": 576,
+  "cache_read": 2656,
+  "cache_create": 30022,
+  "api_ms": 4713,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "individuals_or_general_public",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "Persons who intend to carry out the specified businesses (submitting business implementation plans to the Minister in charge of National Strategic Special Zones), and National Strategic Special Zone councils applying for plan approval to the Prime Minister.",
+  "bound_parties_quote": "第一条各号に規定する事業を実施しようとする者は、当該事業を行うことについての計画その他の事項について記載した別記様式第一による事業実施計画に、当該者の次に掲げる書類を添えて、これらを国家戦略特別区域担当大臣",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.4
+ }
+}

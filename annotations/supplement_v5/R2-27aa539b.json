@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-27aa539b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0139156,
+  "in": 2,
+  "out": 517,
+  "cache_read": 2656,
+  "cache_create": 2119,
+  "api_ms": 5604,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The draft technical specification states no obligations on specific parties; it sets minimum requirements and test procedures for ADS executing a road shoulder stop MRM.",
+  "bound_parties_quote": "",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "A draft is being reviewed by the committee.",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Minimal risk manoeuvre (MRM) for automated driving — Part 2: Road shoulder stop — Minimum requirements and test procedures",
+  "confidence": 0.6
+ }
+}

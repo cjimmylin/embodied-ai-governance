@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-1e92108f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0162576,
+  "in": 2,
+  "out": 588,
+  "cache_read": 2656,
+  "cache_create": 2527,
+  "api_ms": 3457,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers",
+   "operators_or_deployers",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The specification is intended for use by organizations, including private developers, OEMs and operators, who are developing safety cases for automated vehicle testing or trials.",
+  "bound_parties_quote": "including private developers, original equipment manufacturers (OEMs) and operators, who are developing safety cases for automated vehicle testing or trials.",
+  "entry_into_force_date": "2026-03-31",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "PAS 1881:2026 | 31 Mar 2026 | BSI Knowledge",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "The specification is intended for use by",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Assuring the operational safety of automated vehicle testing and trials – Specification",
+  "confidence": 0.7
+ }
+}

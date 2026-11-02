@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-2a896e72",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:02:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07816160000000001,
+  "in": 2,
+  "out": 670,
+  "cache_read": 2656,
+  "cache_create": 17798,
+  "api_ms": 4669,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "individuals_or_general_public",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The regulation applies to any natural or legal person, public or private, national or foreign, who conducts UAS operations for recreational, private or aerial work purposes (including UAS operators and remote pilots).",
+  "bound_parties_quote": "aplica a toda persona natural o jurídica, pública o privada, nacional o extranjera, que realiza operaciones con UAS, ya sea con fines recreativos, privados o de trabajos aéreos.",
+  "entry_into_force_date": "2024-12-11",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "La presente Resolución, sin perjuicio de su publicación en el Registro Oficial, entrará en vigencia a partir de su legalización.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Aprobar la Nueva Edición de la RDAC 101 - Sistemas de Aeronaves no Tripuladas (UAS).",
+  "confidence": 0.8
+ }
+}

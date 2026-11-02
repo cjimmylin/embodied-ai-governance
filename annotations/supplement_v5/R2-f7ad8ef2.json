@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-f7ad8ef2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0437096,
+  "in": 2,
+  "out": 714,
+  "cache_read": 2656,
+  "cache_create": 9075,
+  "api_ms": 4653,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "operators_or_deployers",
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The Act binds persons owning or operating autonomous motor vehicles (testing notification, accident notice, federal safety standards), the department of transportation (rulemaking), and political subdivisions (barred from prohibiting AV testing or operation solely because of the automated driving system).",
+  "bound_parties_quote": "a person owning or operating such a motor vehicle shall notify the department of transportation at least five calendar days in advance of such operation",
+  "entry_into_force_date": "2022-07-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "The effective date of the provisions of this act is July 1, 2022.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2022,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "AN ACT RELATING TO MOTOR VEHICLES; ADDING DEFINITIONS TO THE MOTOR VEHICLE CODE; PROVIDING FOR AUTONOMOUS MOTOR VEHICLES; REQUIRING PERMITS; ALLOWING PLATOONING OF MOTOR VEHICLES.",
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-0cc959bd",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026185600000000003,
+  "in": 2,
+  "out": 570,
+  "cache_read": 2656,
+  "cache_create": 5054,
+  "api_ms": 5615,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The opinion directs local governments and departments (各地区各有关部门) to implement it and guide instant delivery platform enterprises and related firms.",
+  "bound_parties_quote": "各地区各有关部门要坚持和加强党的全面领导，建立健全工作机制，加强协调指导，强化组织实施。",
+  "entry_into_force_date": "2024-01-27",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "国务院办公厅\n2024年1月27日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "探索自动配送车、无人机等新型配送模式，拓展智慧化、商业化应用场景。",
+  "confidence": 0.6
+ }
+}

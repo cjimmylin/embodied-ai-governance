@@ -1,0 +1,104 @@
+{
+ "doc_id": "R2-a91cea6f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:13:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2026078,
+  "in": 2,
+  "out": 1932,
+  "cache_read": 11758,
+  "cache_create": 45527,
+  "api_ms": 11247,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "LEGGE 27 dicembre 2017, n. 205. Bilancio di previsione dello Stato per l'anno finanziario 2018 e bilancio pluriennale per il triennio 2018-2020",
+  "title_en": "Law 27 December 2017, No. 205. State Budget Forecast for Financial Year 2018 and Multi-Year Budget for 2018-2020",
+  "language": "it",
+  "authors_or_issuer": "Parlamento della Repubblica Italiana (Gazzetta Ufficiale)",
+  "issuer_type": "legislature",
+  "pub_year": 2017,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Gazzetta Ufficiale della Repubblica Italiana, Supplemento ordinario n. 62/L, Serie generale n. 302",
+  "jurisdiction_country": "IT",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IT"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "collaborative_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "cross_sector",
+   "manufacturing",
+   "logistics_transport",
+   "education"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "taxation_economic_policy",
+   "education_training",
+   "labor_employment"
+  ],
+  "primary_topic": "taxation_economic_policy",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Italy's 2018 Budget Law (Law 205/2017), a broad fiscal statute. Only tangential embodied-AI content: Industry 4.0 training tax credit covering advanced and collaborative robotics, and authorisation of on-road testing of Smart Road and connected/automated driving solutions with funding of one million euro per year for 2018-2019.",
+  "key_provisions_or_claims": [
+   "Art.1 c.46-56: 40% tax credit for Industry 4.0 training, including advanced and collaborative robotics",
+   "Art.1 c.72: authorises road testing of Smart Road and connected and automated driving, with a ministerial decree on procedures",
+   "Art.1 c.72: spending of EUR 1 million per year for 2018 and 2019 for Smart Road testing",
+   "Art.1 c.29-35: super-depreciation for new capital goods and Industry 4.0 investments",
+   "Art.1 c.67-69: funding for Higher Technical Institutes aligned with Industry 4.0"
+  ],
+  "confidence": 0.9
+ }
+}

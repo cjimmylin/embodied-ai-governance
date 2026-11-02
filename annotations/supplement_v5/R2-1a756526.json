@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-1a756526",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0297236,
+  "in": 2,
+  "out": 607,
+  "cache_read": 2656,
+  "cache_create": 5846,
+  "api_ms": 4213,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The opinion directs local governments (provinces, autonomous regions, municipalities), State Council departments such as civil affairs, finance and health insurance authorities, the China Disabled Persons' Federation, and disabled-person care service institutions.",
+  "bound_parties_quote": "各地要加强组织领导，将重度残疾人托养照护服务作为重要民生工程，加大投入支持力度，统筹做好相关工作",
+  "entry_into_force_date": "2025-07-28",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "国务院办公厅\n2025年7月28日\n（此件公开发布）",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "推动照护机器人、人工智能等康复辅助器具产品研发应用。",
+  "confidence": 0.6
+ }
+}

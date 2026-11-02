@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-db0fd744",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:14:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1574498,
+  "in": 2,
+  "out": 1965,
+  "cache_read": 11758,
+  "cache_create": 34155,
+  "api_ms": 12552,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles",
+  "title_en": "Regulation (EU) 2018/858 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2018,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 151",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "manufacturing"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "consumer_protection",
+   "standards_interoperability",
+   "sustainability_environment",
+   "privacy_data_protection",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "licensing_registration",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "international_cooperation",
+   "incident_reporting"
+  ],
+  "named_instruments_referenced": [
+   "GDPR",
+   "EU Machinery Regulation"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "EU Regulation 2018/858 sets the framework for type-approval and market surveillance of motor vehicles (M, N, O categories), their systems and components. It strengthens oversight of approval authorities and technical services and adds Commission compliance testing, a Forum for enforcement, recalls and penalties. It is the base vehicle approval law, with no AI-specific provisions.",
+  "key_provisions_or_claims": [
+   "EU type-approval and certificate of conformity required before vehicles are placed on the market, registered or put into service",
+   "Member States must set up independent approval and market surveillance authorities and run minimum annual vehicle tests",
+   "Commission may run its own compliance tests, assess approval authorities and impose administrative fines",
+   "Forum for Exchange of Information on Enforcement established to coordinate enforcement",
+   "Technical services are designated and monitored under strict criteria; manufacturers must give access to software and algorithms on request"
+  ],
+  "confidence": 0.85
+ }
+}

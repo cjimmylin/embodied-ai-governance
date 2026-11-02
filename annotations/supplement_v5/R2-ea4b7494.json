@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-ea4b7494",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:02:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0709076,
+  "in": 2,
+  "out": 525,
+  "cache_read": 2656,
+  "cache_create": 16347,
+  "api_ms": 6871,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The framework is a policy and information document describing Transport Canada's approach; it imposes no new obligations itself, though it describes existing duties of manufacturers under the Motor Vehicle Safety Act.",
+  "bound_parties_quote": "Canada’s Safety Framework for Connected and Automated Vehicles 2.0 informs stakeholders of Transport Canada’s safety-focused approach to connected and automated vehicle technologies.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.6
+ }
+}

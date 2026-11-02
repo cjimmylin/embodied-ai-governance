@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-de2c179b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.042631600000000006,
+  "in": 2,
+  "out": 619,
+  "cache_read": 2656,
+  "cache_create": 9043,
+  "api_ms": 3766,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "Law enforcement agencies, state agencies, and governing bodies (e.g., city councils and county boards of supervisors) overseeing law enforcement agencies are bound.",
+  "bound_parties_quote": "A law enforcement agency shall obtain approval of the governing body, by an ordinance adopting a military equipment use policy",
+  "entry_into_force_date": "2021-09-30",
+  "applicability_date": "2022-01-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "No later than May 1, 2022, a law enforcement agency seeking to continue the use of any military equipment that was acquired prior to January 1, 2022, shall commence a governing body approval process",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "“Military equipment” means the following: (1) Unmanned, remotely piloted, powered aerial or ground vehicles.",
+  "confidence": 0.6
+ }
+}

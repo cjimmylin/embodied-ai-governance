@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-95a2d294",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.016255600000000002,
+  "in": 2,
+  "out": 577,
+  "cache_read": 2656,
+  "cache_create": 2554,
+  "api_ms": 4787,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The bill would criminalise the use of unmanned aerial vehicles (drones) to launch dangerous artefacts, so it would bind persons committing that conduct, including members of ultraviolent criminal organisations.",
+  "bound_parties_quote": "tornar crime o uso de veículos aéreos não tripulados (drones) para lançamento de artefatos perigosos, cria majorante para organização criminosa ultraviolenta",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "tornar crime o uso de veículos aéreos não tripulados (drones) para lançamento de artefatos perigosos",
+  "confidence": 0.7
+ }
+}

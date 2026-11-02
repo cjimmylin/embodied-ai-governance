@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-8816b436",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:01:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0609656,
+  "in": 2,
+  "out": 616,
+  "cache_read": 2656,
+  "cache_create": 13634,
+  "api_ms": 3998,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The report addresses the High Contracting Parties to the CCW (e.g., urged to honour financial obligations, pay arrears, and submit national reports on compliance), and the UN Secretariat/ISU.",
+  "bound_parties_quote": "urged all High Contracting Parties to honour their financial obligations under Convention.",
+  "entry_into_force_date": "2019-11-15",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "At the final plenary session, the Meeting adopted its final report, as contained in document CCW/MSP/2019/CRP.2/Rev.1, as orally amended, to be issued as document CCW/MSP/2019/9.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "The Meeting decided: • To endorse the guiding principles affirmed by the Group, as contained in Annex III of this Report.",
+  "confidence": 0.5
+ }
+}

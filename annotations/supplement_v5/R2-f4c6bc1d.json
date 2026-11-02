@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-f4c6bc1d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0204036,
+  "in": 2,
+  "out": 553,
+  "cache_read": 2656,
+  "cache_create": 3651,
+  "api_ms": 3602,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The standard states it is intended for use by A-UGV manufacturers, installers, and users, but it imposes no binding obligations on them.",
+  "bound_parties_quote": "This test method is intended for use by A-UGV manufacturers, installers, and users.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "This test method does not substitute for required safety testing under ANSI/ITSDF B56.5 or other normative standards.",
+  "robot_provision_year": 2017,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "This test method measures an automatic/automated/autonomous-unmanned ground vehicle (A-UGV) kinetic energy reduction",
+  "confidence": 0.7
+ }
+}

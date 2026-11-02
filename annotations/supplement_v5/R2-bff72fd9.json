@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-bff72fd9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:53:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0385056,
+  "in": 2,
+  "out": 628,
+  "cache_read": 2656,
+  "cache_create": 7989,
+  "api_ms": 5048,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers",
+   "owners_or_users",
+   "researchers_or_institutions"
+  ],
+  "bound_parties_text": "The ordinance binds municipal, county-level and district people's governments and their departments, infrastructure construction and operating units, and units or individuals carrying out low-altitude flight activities.",
+  "bound_parties_quote": "实施低空飞行活动的单位或者个人应当遵守有关法律、法规和规章制度，主动采取事故预防措施，对飞行安全承担主体责任。",
+  "entry_into_force_date": "2025-10-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "第五十四条   本条例自2025年10月1日起施行。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "无锡市低空经济发展促进条例（2025年6月27日无锡市第十七届人民代表大会常务委员会第二十八次会议通过",
+  "confidence": 0.85
+ }
+}

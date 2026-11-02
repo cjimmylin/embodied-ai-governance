@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-ab778283",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:02:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0367936,
+  "in": 2,
+  "out": 594,
+  "cache_read": 2656,
+  "cache_create": 7646,
+  "api_ms": 5443,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "pilots_or_drivers",
+   "public_bodies_or_government",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The regulation binds owners (including operators) of automated vehicles, drivers of automated vehicles, and the Minister who must conduct an evaluation of the pilot project.",
+  "bound_parties_quote": "No person shall drive or permit the operation of an automated vehicle on a highway, except as permitted by this Regulation.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2027-10-13",
+  "dates_quote": "18. This Regulation is revoked on October 13, 2027.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2015,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "ONTARIO REGULATION 306/15 PILOT PROJECT - AUTOMATED VEHICLES",
+  "confidence": 0.85
+ }
+}

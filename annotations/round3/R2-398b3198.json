@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-398b3198",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:13:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.037811800000000007,
+  "in": 2,
+  "out": 1898,
+  "cache_read": 11758,
+  "cache_create": 4413,
+  "api_ms": 10501,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Gesetz zur Änderung des Straßenverkehrsgesetzes (Beschluss des Deutschen Bundestages, Bundesrat Drucksache 299/17)",
+  "title_en": "Act Amending the Road Traffic Act (Bundestag resolution, Bundesrat Document 299/17)",
+  "language": "de",
+  "authors_or_issuer": "Deutscher Bundestag / Bundesrat",
+  "issuer_type": "legislature",
+  "pub_year": 2017,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Bundesrat Drucksache 299/17",
+  "jurisdiction_country": "DE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "DE"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "adopted_not_yet_in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "privacy_data_protection",
+   "certification_conformity_assessment",
+   "civil_liability",
+   "transparency_explainability"
+  ],
+  "primary_topic": "human_oversight_control",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "data_governance_requirements",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "Straßenverkehrsgesetz",
+   "Directive 2007/46/EC"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Bundesrat document recording the Bundestag's amendments to the German Road Traffic Act on highly and fully automated driving functions. It refines driver duties and takeover warnings, requires manufacturer system descriptions, mandates storage of position and time data at control handovers, sets deletion periods, and authorises implementing ordinances.",
+  "key_provisions_or_claims": [
+   "Automated vehicles must warn the driver with sufficient time reserve before handing back control, and signal use contrary to the system description.",
+   "Manufacturers must declare binding system descriptions that vehicles meet legal requirements.",
+   "Drivers may turn away from traffic while automated functions run but must stay perceptive enough to resume control.",
+   "Vehicles store satellite position and time data at control handovers; deleted after six months unless an accident occurred.",
+   "Federal transport ministry may issue ordinances on storage technology, addressees and data security."
+  ],
+  "confidence": 0.9
+ }
+}

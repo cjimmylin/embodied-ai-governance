@@ -1,0 +1,108 @@
+{
+ "doc_id": "R2-2cd83110",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:47:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1312578,
+  "in": 2,
+  "out": 1883,
+  "cache_read": 11758,
+  "cache_create": 27812,
+  "api_ms": 11186,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Small Unmanned Aircraft Order (L.N. 116 of 2021)",
+  "title_en": "Small Unmanned Aircraft Order (L.N. 116 of 2021)",
+  "language": "en",
+  "authors_or_issuer": "Chief Executive in Council, Hong Kong SAR (under Civil Aviation Ordinance, Cap. 448)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Hong Kong Government Gazette (Legal Notice)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport",
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "criminal_liability",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "insurance_requirement",
+   "human_oversight_requirement",
+   "prohibitions_bans",
+   "oversight_body_creation",
+   "education_training_programs",
+   "incident_reporting",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Hong Kong's Small Unmanned Aircraft Order (L.N. 116 of 2021, effective 1 June 2022) regulates drones up to 25 kg. It classifies them by weight, and requires aircraft and remote pilot registration, insurance, a safety system with flight data recording, and permissions for restricted zones. It also sets offences and enforcement powers.",
+  "key_provisions_or_claims": [
+   "Drones up to 25 kg are classified as A1 (≤250 g), A2 (≤7 kg) or B (>7 kg).",
+   "Aircraft and remote pilots must be registered; pilots need ratings, and category B flights need permission.",
+   "Third-party liability insurance of HK$5–10 million is required for non-enclosed flights.",
+   "Aircraft need a safety system recording location, altitude and speed, with data kept for 6 months.",
+   "Offences for dangerous operation, flying in restricted zones and carrying dangerous goods carry a level 6 fine and 2 years' imprisonment."
+  ],
+  "confidence": 0.9
+ }
+}

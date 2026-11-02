@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-4300b76f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0289656,
+  "in": 2,
+  "out": 584,
+  "cache_read": 2656,
+  "cache_create": 5714,
+  "api_ms": 3646,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The Act empowers and obliges the Minister of Transport, permit holders for trials/tests of self-driving vehicles and units, applicants for trial permits, and municipal road authorities.",
+  "bound_parties_quote": "Transportministeren fastsætter regler for forsøg med selvkørende motorkøretøjer.",
+  "entry_into_force_date": "2025-07-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Loven træder i kraft den 1. juli 2025.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Revision af forsøgsordninger for selvkørende motorkøretøjer og selvkørende enheder",
+  "confidence": 0.8
+ }
+}

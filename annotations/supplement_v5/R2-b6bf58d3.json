@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-b6bf58d3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0296316,
+  "in": 2,
+  "out": 521,
+  "cache_read": 2656,
+  "cache_create": 6038,
+  "api_ms": 7670,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The excerpt is a catalogue record for the Korean standard KS B ISO 10218-2 and does not name any party on whom obligations are imposed.",
+  "bound_parties_quote": "",
+  "entry_into_force_date": "2012-03-29",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "제정일\n2012-03-29",
+  "legal_effect_of_standard": "unknown",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2012,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "로봇 및 로봇 장치 - 산업용 로봇의 안전에 관한 요구사항 - 제2부: 로봇 시스템 및 통합",
+  "confidence": 0.6
+ }
+}

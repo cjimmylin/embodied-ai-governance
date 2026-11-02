@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-a8216a1a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:37",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2023056,
+  "in": 2,
+  "out": 590,
+  "cache_read": 2656,
+  "cache_create": 49034,
+  "api_ms": 10360,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The State Council circular directs provincial-level governments, State Council ministries and directly affiliated agencies (all regions and departments) to implement the plan.",
+  "bound_parties_quote": "各省、自治区、直辖市人民政府，国务院各部委、各直属机构：现将《“十三五”国家信息化规划》印发给你们，请认真贯彻执行。",
+  "entry_into_force_date": "2016-12-15",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "国务院 2016年12月15日（此件公开发布）",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2016,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "加快构建智能穿戴设备、高级机器人、智能汽车等新兴智能终端产业体系和政策环境。",
+  "confidence": 0.6
+ }
+}

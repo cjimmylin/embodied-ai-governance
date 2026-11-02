@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-f60a2aeb",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0180276,
+  "in": 2,
+  "out": 661,
+  "cache_read": 2656,
+  "cache_create": 2787,
+  "api_ms": 3919,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "member_states_or_subnational_governments",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "Local governments are barred from imposing taxes, fees or other requirements on automated driving systems or autonomous vehicles, and vehicles on on-demand autonomous vehicle networks and teleoperated vehicles must meet insurance and vehicle requirements.",
+  "bound_parties_quote": "A local government may not impose any tax, fee, for-hire vehicle requirement, or other requirement on automated driving systems or autonomous vehicles",
+  "entry_into_force_date": "2012",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "History.\ns. 3, ch. 2012-111; s. 107, ch. 2012-174; s. 7, ch. 2016-181; s. 12, ch. 2016-239; s. 8, ch. 2019-101.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2012,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Autonomous vehicles; operation; compliance with traffic and motor vehicle laws; testing.",
+  "confidence": 0.6
+ }
+}

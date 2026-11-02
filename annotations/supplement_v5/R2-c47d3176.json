@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-c47d3176",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0495936,
+  "in": 2,
+  "out": 584,
+  "cache_read": 2656,
+  "cache_create": 10871,
+  "api_ms": 4623,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "certification_or_notified_bodies"
+  ],
+  "bound_parties_text": "The manufacturer must comply with the AVP requirements and remains solely responsible, and approval authorities or their technical services assess the specifications.",
+  "bound_parties_quote": "The manufacturer remains the sole responsible for the compliance with the requirements of this Annex irrespective of any third parties involved in the in-use deployment or operation of the AVP feature.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "type-approval of the automated driving system of fully automated vehicles",
+  "confidence": 0.85
+ }
+}

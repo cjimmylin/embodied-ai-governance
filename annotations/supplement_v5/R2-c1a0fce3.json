@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-c1a0fce3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0911336,
+  "in": 2,
+  "out": 658,
+  "cache_read": 2656,
+  "cache_create": 21071,
+  "api_ms": 5400,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "employers",
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The employer must adopt protection measures for work on machinery, workers have listed duties, and the NR also covers the design, manufacture, import, commercialization, exhibition and transfer of machines and equipment.",
+  "bound_parties_quote": "12.1.7 O empregador deve adotar medidas de proteção para o trabalho em máquinas e equipamentos, capazes de resguardar a saúde e a integridade física dos trabalhadores.",
+  "entry_into_force_date": "1978-06-08",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Portaria MTb n.º 3.214, de 08 de junho de 1978                  06/07/78",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "12.1.12 Os sistemas robóticos que obedeçam às prescrições das normas ABNT ISO 10218-1, ABNT ISO 10218-2, da ISO/TS 15066",
+  "confidence": 0.55
+ }
+}

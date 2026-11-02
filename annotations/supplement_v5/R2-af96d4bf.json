@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-af96d4bf",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:02:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.07126160000000001,
+  "in": 2,
+  "out": 642,
+  "cache_read": 2656,
+  "cache_create": 16143,
+  "api_ms": 6244,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "manufacturers_or_producers",
+   "researchers_or_institutions"
+  ],
+  "bound_parties_text": "The guidelines apply to trial organizations (companies and organizations such as OEMs, technology companies, and academic or research institutions) conducting research and development trials of ADS-equipped vehicles in Canada.",
+  "bound_parties_quote": "The Testing Guidelines apply to any organization that is conducting research and development trials of ADS-equipped vehicles",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Version 2.0 of the Testing Guidelines replaces the previous version of this document published by Transport Canada in 2018.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Guidelines for Testing Automated Driving Systems in Canada: Version 2.0 (referred to hereafter as the Testing Guidelines) establishes a baseline of nationally consistent best practices",
+  "confidence": 0.6
+ }
+}

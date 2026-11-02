@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-0bf4c7d5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:16:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.029307800000000002,
+  "in": 2,
+  "out": 1834,
+  "cache_read": 11758,
+  "cache_create": 2447,
+  "api_ms": 9127,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "D.C. Law 25-168. Autonomous Vehicle Testing Permit Requirement Temporary Amendment Act of 2024",
+  "title_en": "D.C. Law 25-168. Autonomous Vehicle Testing Permit Requirement Temporary Amendment Act of 2024",
+  "language": "en",
+  "authors_or_issuer": "Council of the District of Columbia",
+  "issuer_type": "subnational_government",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "D.C. Law Library / Council of the District of Columbia",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "transparency_explainability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Temporary D.C. act amending the Autonomous Vehicle Act of 2012 to bar testing or operating autonomous vehicles on District roads without an AV testing permit. Until a permit application exists, testers must have a test operator in the vehicle and give DDOT 10 business days' notice. It expires 225 days after taking effect.",
+  "key_provisions_or_claims": [
+   "Prohibits testing or operating AVs on District roads without an AV testing permit.",
+   "Interim exception, while no permit application exists, requires a test operator physically present who performs or can take over the dynamic driving task.",
+   "Requires electronic notice to DDOT at least 10 business days before testing, covering vehicle numbers, models, operator training, locations and time period.",
+   "Repeals Section 3e of the Autonomous Vehicle Act and extends Section 3f(a)(1) to any person or entity.",
+   "Takes effect after Mayoral approval and 30-day congressional review; expires 225 days after taking effect."
+  ],
+  "confidence": 0.9
+ }
+}

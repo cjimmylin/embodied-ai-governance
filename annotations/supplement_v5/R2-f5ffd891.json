@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-f5ffd891",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.019421599999999997,
+  "in": 2,
+  "out": 580,
+  "cache_read": 2656,
+  "cache_create": 3338,
+  "api_ms": 3930,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers",
+   "certification_or_notified_bodies"
+  ],
+  "bound_parties_text": "The standard sets minimum requirements for entities developing and executing audit programs and for entities conducting audits against ASTM standards on Unmanned Aircraft Systems, and the responsibilities of all parties involved.",
+  "bound_parties_quote": "Compliance to this practice would ensure that audit programs and those who develop and execute them are following a consensus set of minimum requirements.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "This practice does not mandate either internal or external audits.",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Standard Practice for Compliance Audits to ASTM Standards on Unmanned Aircraft Systems",
+  "confidence": 0.6
+ }
+}

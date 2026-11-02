@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-77acbca3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0199456,
+  "in": 2,
+  "out": 714,
+  "cache_read": 2656,
+  "cache_create": 3134,
+  "api_ms": 7654,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The decision publishes a harmonised standard reference; it conveys a presumption of conformity for products (unmanned aircraft systems and direct remote identification add-ons) under Delegated Regulation (EU) 2019/945, so it chiefly concerns manufacturers of such products.",
+  "bound_parties_quote": "a product which is in conformity with harmonised standards or parts thereof, the references of which have been published in the Official Journal of the European Union, is to be presumed to be in conformity",
+  "entry_into_force_date": "2024-08-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Decision shall enter into force on the day of its publication in the Official Journal of the European Union.",
+  "legal_effect_of_standard": "harmonised_or_designated",
+  "legal_effect_quote": "Compliance with a harmonised standard confers a presumption of conformity with the corresponding requirements set out in Union harmonisation legislation from the date of publication of the reference of such standard",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "COMMISSION IMPLEMENTING DECISION (EU) 2024/2103 of 30 July 2024 on harmonised standard for direct remote identification for unmanned aircraft",
+  "confidence": 0.8
+ }
+}

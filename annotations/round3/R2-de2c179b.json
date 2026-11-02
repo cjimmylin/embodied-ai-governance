@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-de2c179b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:15:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0555538,
+  "in": 2,
+  "out": 1825,
+  "cache_read": 11758,
+  "cache_create": 9031,
+  "api_ms": 9522,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "California State Legislature",
+  "binding_nature": "legally_binding",
+  "confidence": 0.8,
+  "countries_discussed": [
+   "US"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [
+   "security_policing_robots",
+   "drones_uas",
+   "military_autonomous_weapons"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "oversight_body_creation",
+   "incident_reporting"
+  ],
+  "governance_topics": [
+   "human_oversight_control",
+   "transparency_explainability",
+   "civil_liability",
+   "fairness_bias_discrimination",
+   "safety_physical_harm"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "subnational_government",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "security_policing_robots",
+  "primary_topic": "transparency_explainability",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "pub_month": 9,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "rights_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "California Assembly Bill 481 (chaptered 30 Sept 2021) requires law enforcement and state agencies to obtain governing-body approval of a military equipment use policy, with public notice, annual reports and community meetings, before funding, acquiring or using military equipment. The definition includes unmanned remotely piloted aerial or ground vehicles and weaponized vehicles.",
+  "title_clean": "Law enforcement and state agencies: military equipment: funding, acquisition, and use (California AB 481)",
+  "title_en": "Law enforcement and state agencies: military equipment: funding, acquisition, and use (California AB 481)",
+  "venue": "California Legislative Information",
+  "key_provisions_or_claims": [
+   "Law enforcement agencies need governing-body ordinance approving a military equipment use policy before requesting, funding, acquiring or using military equipment.",
+   "Military equipment definition includes unmanned remotely piloted aerial or ground vehicles and weaponized vehicles.",
+   "Approval only if equipment is necessary, cost effective, and safeguards civil rights and safety.",
+   "Annual equipment reports and community engagement meetings are mandatory; governing body reviews and may not renew.",
+   "State agencies must create and publish use policies; applies to charter cities."
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-62a59fe7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.033193600000000004,
+  "in": 2,
+  "out": 636,
+  "cache_read": 2656,
+  "cache_create": 6641,
+  "api_ms": 5665,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Act binds applicants who conduct unmanned vehicle innovation experiments (who must comply with the Act and the conditions of approval), and the competent authority (Ministry of Economic Affairs) and transport authorities who must review, approve, disclose and issue licences.",
+  "bound_parties_quote": "申請人應遵守本條例規定及主管機關核准創新實驗時要求申請人辦理之事項，並應依主管機關指示說明創新實驗情形。",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "本條例施行日期，由行政院定之。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2018,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "為鼓勵無人載具科技之研究發展與應用，建構完善且安全之創新實驗環境，以促進產業技術及創新服務之發展，特制定本條例。",
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "doc_id": "R2-7e9640a0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:13:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1390598,
+  "in": 2,
+  "out": 1912,
+  "cache_read": 11758,
+  "cache_create": 29690,
+  "api_ms": 13034,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Verordnung über das automatisierte Fahren (VAF)",
+  "title_en": "Ordinance on Automated Driving (VAF)",
+  "language": "de",
+  "authors_or_issuer": "Swiss Federal Council (Schweizerischer Bundesrat)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2024,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Fedlex (SR 741.59)",
+  "jurisdiction_country": "CH",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CH",
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "cybersecurity",
+   "privacy_data_protection",
+   "civil_liability",
+   "criminal_liability",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "data_governance_requirements",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "education_training_programs",
+   "prohibitions_bans",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Swiss Federal Council ordinance (in force 1 March 2025) regulating approval and use of motor vehicles with automation systems: takeover-request vehicles (motorway), automated parking and driverless vehicles. Sets technical requirements, type approval aligned with UNECE/EU rules, data recorders, cybersecurity, incident reporting, remote operators, and penalties.",
+  "key_provisions_or_claims": [
+   "Automation systems and vehicles require type approval, aligned with UNECE and EU Regulation 2022/1426; no exemptions.",
+   "Vehicles must carry a driving-mode data recorder; data use limited to expert reports and accident/criminal investigations.",
+   "Manufacturers need UN R155 cybersecurity and R156 software update management certificates.",
+   "Driverless vehicles must be supervised by a trained natural-person operator located in Switzerland; cantons approve operating areas.",
+   "Manufacturers/importers must report safety-relevant incidents to ASTRA, which can demand software and training data access and suspend approvals."
+  ],
+  "confidence": 0.95
+ }
+}

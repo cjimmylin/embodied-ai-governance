@@ -1,0 +1,39 @@
+{
+ "doc_id": "R2-dffcf435",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:59:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0896376,
+  "in": 2,
+  "out": 692,
+  "cache_read": 2656,
+  "cache_create": 20612,
+  "api_ms": 4861,
+  "result_head": ""
+ },
+ "annotation": {
+  "applicability_date": null,
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "owners_or_users",
+   "pilots_or_drivers",
+   "researchers_or_institutions",
+   "certification_or_notified_bodies",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The instrument binds applicants for testing authorisations (manufacturers, second-stage manufacturers, official laboratories, technology installers, universities and consortia), owners of autonomous vehicles, designated drivers, authorised technical services, and DGT units.",
+  "bound_parties_quote": "El propietario del vehículo autónomo o cualquier persona que tenga interés en su aseguramiento estará obligado a suscribir y mantener en vigor un contrato de seguro",
+  "confidence": 0.8,
+  "dates_quote": "Madrid, 13 de noviembre de 2015 LA DIRECTORA GENERAL DE TRÁFICO",
+  "entry_into_force_date": null,
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "repeal_or_expiry_date": null,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Autorización de pruebas o ensayos de investigación realizados con vehículos de conducción automatizada en vías abiertas al tráfico en general",
+  "robot_provision_year": 2015
+ }
+}

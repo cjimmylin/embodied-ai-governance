@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-f9c66a43",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0752796,
+  "in": 2,
+  "out": 761,
+  "cache_read": 2656,
+  "cache_create": 16850,
+  "api_ms": 7213,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "importers_or_distributors",
+   "providers_or_developers",
+   "owners_or_users",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The rule applies to parties to ICTS Transactions (designer, developer, provider, buyer, seller, transferor, licensor, importer, end user etc.) and to persons required to furnish information, notified persons who must retain records, and violators subject to penalties.",
+  "bound_parties_quote": "Party or parties to a Transaction means a person or persons engaged in an ICTS Transaction or class of ICTS Transactions, including, but not limited to the following: designer, developer, provider, buyer, purchaser, seller, transferor, licensor, broker, acquiror, intermediary (including consignee), and end user.",
+  "entry_into_force_date": "2021-01-19",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Source: 86 FR 4923, Jan. 19, 2021, unless otherwise noted. Redesignated at 89 FR 58265, July 18, 2024.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "highly automated, autonomous, and uncrewed systems and robotics; ... [86 FR 4923, Jan. 19, 2021, as amended at 88 FR 39358, June 16, 2023; 89 FR 96893, Dec. 6, 2024]",
+  "confidence": 0.5
+ }
+}

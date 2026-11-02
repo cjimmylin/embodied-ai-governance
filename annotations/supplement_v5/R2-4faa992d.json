@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-4faa992d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:06:13",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0183616,
+  "in": 2,
+  "out": 478,
+  "cache_read": 2656,
+  "cache_create": 3328,
+  "api_ms": 4394,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The excerpt only contains bill tracking metadata and does not state who is bound by the bill's provisions.",
+  "bound_parties_quote": "",
+  "entry_into_force_date": "2019-05-14",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Effective Date:\n14 May 2019",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "H.B. 101 Autonomous Vehicle Regulations",
+  "confidence": 0.7
+ }
+}

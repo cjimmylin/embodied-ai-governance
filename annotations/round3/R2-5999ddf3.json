@@ -1,0 +1,94 @@
+{
+ "doc_id": "R2-5999ddf3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:16:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0262378,
+  "in": 2,
+  "out": 1645,
+  "cache_read": 11758,
+  "cache_create": 2152,
+  "api_ms": 7943,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "An Act Relating to Aeronautics -- Unpiloted Aerial Vehicle Regulation",
+  "title_en": "An Act Relating to Aeronautics -- Unpiloted Aerial Vehicle Regulation",
+  "language": "en",
+  "authors_or_issuer": "Rhode Island General Assembly (Senator Frank S. Lombardi)",
+  "issuer_type": "legislature",
+  "pub_year": 2016,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Rhode Island General Assembly, S 3099",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Rhode Island Senate bill S 3099 (2016) would add a chapter to the state aeronautics law giving the state and the Rhode Island Airport Corporation exclusive authority, subject to federal law, to regulate drones and unmanned aircraft systems. It includes a federal preemption clause.",
+  "key_provisions_or_claims": [
+   "State and RI Airport Corporation get exclusive legal authority to regulate drones, subject to federal law",
+   "Defines covered objects as remotely controlled or autonomous GPS-guided flying objects",
+   "Federal preemption clause voids conflicting provisions",
+   "Takes effect upon passage"
+  ],
+  "confidence": 0.9
+ }
+}

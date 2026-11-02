@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-2904db2e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0161296,
+  "in": 2,
+  "out": 578,
+  "cache_read": 2656,
+  "cache_create": 2520,
+  "api_ms": 5278,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "importers_or_distributors",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The Act amends 18 U.S.C. 1462 to prohibit importation or transportation of any child sex doll (including robots), thereby binding anyone who imports or transports such items.",
+  "bound_parties_quote": "SEC. 3. PROHIBITION OF IMPORTATION OR TRANSPORTATION OF CHILD SEX DOLLS.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2018,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "the term ‘child sex doll’ means an anatomically-correct doll, mannequin, or robot, with the features of, or with features that resemble those of, a minor",
+  "confidence": 0.6
+ }
+}

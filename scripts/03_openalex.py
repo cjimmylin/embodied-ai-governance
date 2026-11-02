@@ -4,7 +4,7 @@ Writes data/openalex.jsonl (one line per doc_id) and data/openalex_summary.csv."
 import json, time, re, os, sys, urllib.parse, urllib.request, unicodedata
 import pandas as pd
 from rapidfuzz import fuzz
-B="/home/user/embodied-ai-governance-v4/data/"
+B="/home/user/embodied-ai-governance-v5/data/"
 MAILTO="mail@drjimmylin.com"
 reg=pd.read_csv(B+"registry.csv"); feat=pd.read_csv(B+"text_features.csv")
 files=pd.read_csv(B+"files.csv")

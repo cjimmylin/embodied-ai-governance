@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-93c49f40",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0199596,
+  "in": 2,
+  "out": 575,
+  "cache_read": 2656,
+  "cache_create": 3485,
+  "api_ms": 3667,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "individuals_or_general_public",
+   "importers_or_distributors"
+  ],
+  "bound_parties_text": "The bill criminalizes importing or transporting child sex dolls and punishes \"whoever knowingly\" buys, sells, delivers, distributes or possesses them.",
+  "bound_parties_quote": "‘‘Whoever knowingly— ‘‘(1) buys, sells, delivers, or distributes in interstate or foreign commerce any child sex doll,",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "the term ‘child sex doll’ means an anatomically correct doll, mannequin, or robot, with the features of, or with features that resemble those of, a minor",
+  "confidence": 0.6
+ }
+}

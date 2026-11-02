@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-00b93992",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0176536,
+  "in": 2,
+  "out": 574,
+  "cache_read": 2656,
+  "cache_create": 2911,
+  "api_ms": 3373,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The specification sets requirements for training and training manuals of professional unmanned aircraft systems (UAS) operators.",
+  "bound_parties_quote": "This specification defines the requirements for training and the development of training manuals for the unmanned aircraft systems (UAS) operator.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "This international standard was developed in accordance with internationally recognized principles on standardization established in the Decision on Principles for the Development of International Standards, Guides and Recommendations",
+  "robot_provision_year": 2018,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "ASTM F3330-18 Standard Specification for Training and the Development of Training Manuals for the UAS Operator",
+  "confidence": 0.7
+ }
+}

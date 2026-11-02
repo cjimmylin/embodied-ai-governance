@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-03e6e0ff",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:57",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.023701600000000003,
+  "in": 2,
+  "out": 604,
+  "cache_read": 2656,
+  "cache_create": 4348,
+  "api_ms": 15849,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The National Strategic Special Zone Council (国家戦略特別区域会議) must deliver the written document to the entities designated as demonstration project operators when the certified technology demonstration zone plan is changed.",
+  "bound_parties_quote": "国家戦略特別区域会議は、実証事業者として定められた者に対し、前条の書面を交付するものとする。",
+  "entry_into_force_date": "2020-09-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "この府令は、国家戦略特別区域法の一部を改正する法律の施行の日（令和二年九月一日）から施行する。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "自動車の自動運転（同条第三項第一号に規定する自動車自動運転関係電波技術を含む。）",
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-32a9748e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0228456,
+  "in": 2,
+  "out": 516,
+  "cache_read": 2656,
+  "cache_create": 4354,
+  "api_ms": 3445,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The chapter binds law enforcement agencies (which may not authorize armed or unwarranted use of unmanned aerial vehicles or robots) and the persons authorized to conduct surveillance, who must document use.",
+  "bound_parties_quote": "A law enforcement agency may not authorize the use of, including granting a permit to use, an unmanned aerial vehicle armed with any lethal weapons.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.6
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-2e879111",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.7661638000000001,
+  "in": 2,
+  "out": 1974,
+  "cache_read": 11758,
+  "cache_create": 186311,
+  "api_ms": 20198,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ロボット介護機器開発のための安全ハンドブック",
+  "title_en": "Safety Handbook for the Development of Robotic Nursing-Care Devices",
+  "language": "ja",
+  "authors_or_issuer": "AMED ロボット介護機器開発・導入促進事業 基準策定評価コンソーシアム (AIST, JNIOSH, JARI, JQA, JASPEC, Nagoya University)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2021,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "AMED Robotic Devices for Nursing Care Project",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "rehabilitation_exoskeleton_prosthetic",
+   "domestic_household_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "civil_liability",
+   "human_robot_interaction_social_effects",
+   "cybersecurity"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment",
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "transparency_disclosure_labelling",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [
+   "ISO 13482",
+   "ISO/TS 15066",
+   "ISO 10218"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "self_regulation_or_standards_preferred",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Japanese AMED consortium handbook giving developers of robotic nursing-care devices risk-assessment templates, protective measures, safety verification items mapped to ISO 13482, and newly developed safety test methods (EMC, pacemaker interference, human-contact force limits, stability, durability) across eight priority device types.",
+  "key_provisions_or_claims": [
+   "Adopts ISO 12100 three-step risk reduction with R=S×(F+Ps+A) hybrid risk estimation and ALARP thresholds.",
+   "Applies ISO 13482 plus type-B standards, since no standard directly covers nursing-care robots.",
+   "Recommends keeping robot output below 300 N to avoid caregiver upper-limb fracture.",
+   "Provides test methods for EMC/pacemaker interference, power-loss lock delay, stability, durability and fall-precursor detection.",
+   "Residual risk must be communicated to users, but developers are not exempt from PL Act liability."
+  ],
+  "confidence": 0.9
+ }
+}

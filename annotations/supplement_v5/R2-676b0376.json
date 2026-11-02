@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-676b0376",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:54:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0719256,
+  "in": 2,
+  "out": 632,
+  "cache_read": 2656,
+  "cache_create": 16334,
+  "api_ms": 5675,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments",
+   "employers",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The Act binds the State and local governments, last-mile logistics business operators (package delivery service providers and certified small package delivery agent service providers), business offices, and delivery service workers.",
+  "bound_parties_quote": "The State and local governments shall formulate and implement policies necessary for the development and promotion of the last-mile logistics industry.",
+  "entry_into_force_date": "2021",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Act shall enter into force one month after the date of its promulgation.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "A package delivery service provider who uses a drone or an outdoor mobile robot to collect and deliver cargoes as at the time this Act enters into force shall be deemed to meet the requirements under the amended provisions of Article 5(1)3",
+  "confidence": 0.55
+ }
+}

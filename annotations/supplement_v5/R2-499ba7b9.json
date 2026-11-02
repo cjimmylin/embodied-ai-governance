@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-499ba7b9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:55:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06916560000000001,
+  "in": 2,
+  "out": 560,
+  "cache_read": 2656,
+  "cache_create": 15824,
+  "api_ms": 11424,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The non-binding European Parliament resolution only calls on the Commission and Member States to act and binds no one.",
+  "bound_parties_quote": "Instructs its President to forward this resolution to the Council and the Commission.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "European Parliament resolution of 19 May 2021 on artificial intelligence in education, culture and the audiovisual sector (2020/2017(INI))",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "European Parliament resolution of 19 May 2021 on artificial intelligence in education, culture and the audiovisual sector (2020/2017(INI))",
+  "confidence": 0.85
+ }
+}

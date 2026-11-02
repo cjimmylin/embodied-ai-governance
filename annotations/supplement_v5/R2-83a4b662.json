@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-83a4b662",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:02:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0972696,
+  "in": 2,
+  "out": 700,
+  "cache_read": 2656,
+  "cache_create": 22500,
+  "api_ms": 8130,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "owners_or_users",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The provisions are mandatory for all those involved in the operation of unmanned aircraft in Brazilian airspace, and for the SISCEAB bodies (including Explorers, Aircraft Operators and Remote Pilots in Command).",
+  "bound_parties_quote": "As disposições desta Portaria são de observância obrigatória e se aplicam a todos os envolvidos com a operação das aeronaves não tripuladas que utilizem o espaço aéreo sob jurisdição do Brasil, bem como aos órgãos do SISCEAB.",
+  "entry_into_force_date": "2026-07-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Art. 3º Esta Portaria entra em vigor em 1º de julho de 2026.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Aprova a edição da Instrução que dispõe sobre Aeronaves Não Tripuladas e o Acesso ao Espaço Aéreo Brasileiro.",
+  "confidence": 0.9
+ }
+}

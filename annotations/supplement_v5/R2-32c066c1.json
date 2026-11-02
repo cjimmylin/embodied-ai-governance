@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-32c066c1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.014285599999999999,
+  "in": 2,
+  "out": 482,
+  "cache_read": 2656,
+  "cache_create": 2299,
+  "api_ms": 3025,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The draft standard is a guideline that does not state any parties on whom it imposes obligations.",
+  "bound_parties_quote": "",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "only serves as a foundational guiding standard for collision avoidance test scenario generation.",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Guideline for test scenario generation process for collision avoidance for MASS",
+  "confidence": 0.7
+ }
+}

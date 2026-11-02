@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-457d18eb",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:55:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0799656,
+  "in": 2,
+  "out": 646,
+  "cache_read": 2656,
+  "cache_create": 18309,
+  "api_ms": 6454,
+  "result_head": ""
+ },
+ "annotation": {
+  "applicability_date": "2022-07-06",
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "certification_or_notified_bodies",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_quote": "The vehicle manufacturer shall demonstrate, through the use of documentation, that the system works at all load conditions.",
+  "bound_parties_text": "Vehicle manufacturers must meet the ELKS type-approval specifications and provide documentation, and approval authorities and technical services assess it. The Regulation is directly applicable in all Member States.",
+  "confidence": 0.85,
+  "dates_quote": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. It shall apply from 6 July 2022.",
+  "entry_into_force_date": "2021-05-10",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "repeal_or_expiry_date": null,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "laying down rules for the application of Regulation (EU) 2019/2144 ... with regard to their emergency lane-keeping systems (ELKS)",
+  "robot_provision_year": 2021
+ }
+}

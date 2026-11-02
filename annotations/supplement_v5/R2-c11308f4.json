@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-c11308f4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:59:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0257296,
+  "in": 2,
+  "out": 646,
+  "cache_read": 2656,
+  "cache_create": 4750,
+  "api_ms": 7491,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The Act requires a permit from the Minister for experiments on public roads with motor vehicles whose driver is outside the vehicle, with permit holders bound by permit conditions, applicants bearing costs, and the Minister required to evaluate experiments and report.",
+  "bound_parties_quote": "is een vergunning vereist van Onze Minister na overleg met Onze Minister van Justitie en Veiligheid.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2018,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Wet van 26 september 2018 tot wijziging van de Wegenverkeerswet 1994 in verband met mogelijk maken van experimenten met geautomatiseerde systemen in motorrijtuigen",
+  "confidence": 0.85
+ }
+}

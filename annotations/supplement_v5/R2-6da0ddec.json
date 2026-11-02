@@ -1,0 +1,40 @@
+{
+ "doc_id": "R2-6da0ddec",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1037924,
+  "in": 4,
+  "out": 1394,
+  "cache_read": 26284,
+  "cache_create": 21804,
+  "api_ms": 13758,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "owners_or_users",
+   "public_bodies_or_government",
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "providers_or_developers"
+  ],
+  "bound_parties_text": "The decree applies to civil UAS, their personnel and participating organisations, air traffic service providers, aerodrome/heliport managers, aeronautical information service providers, U-Space service providers, and public-authority bodies performing non-EASA activities.",
+  "bound_parties_quote": "Los UAS civiles y a las aeronaves no tripuladas civiles y, en todo caso, a su personal y a las organizaciones que participen en sus actividades;",
+  "entry_into_force_date": "2024-06-25",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Entrada en vigor:\n25/06/2024",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Real Decreto 517/2024, de 4 de junio, por el que se desarrolla el régimen jurídico para la utilización civil de sistemas de aeronaves no tripuladas (UAS)",
+  "confidence": 0.85
+ }
+}

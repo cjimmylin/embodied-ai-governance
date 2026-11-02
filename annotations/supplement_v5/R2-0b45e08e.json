@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-0b45e08e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0490456,
+  "in": 2,
+  "out": 604,
+  "cache_read": 2656,
+  "cache_create": 10684,
+  "api_ms": 7297,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "operators_or_deployers",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The guideline addresses persons who use unmanned aircraft (drones, radio-controlled aircraft), including business operators, hobbyists and guardians of children, asking them to comply with the Aviation Act and fly safely.",
+  "bound_parties_quote": "無人航空機を利用する皆様におかれましては、これらの法令を遵守し、第三者に迷惑を及ぼすことのないよう、安全な飛行を心掛けてください。",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "令和８年９月 29 日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "無人航空機（ドローン、ラジコン機等）の安全な飛行のためのガイドライン",
+  "confidence": 0.6
+ }
+}

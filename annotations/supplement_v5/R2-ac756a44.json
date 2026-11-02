@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-ac756a44",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0568616,
+  "in": 2,
+  "out": 738,
+  "cache_read": 2656,
+  "cache_create": 12303,
+  "api_ms": 4877,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "public_bodies_or_government",
+   "certification_or_notified_bodies"
+  ],
+  "bound_parties_text": "Applicants seeking FCC equipment authorization must certify that equipment is not covered, covered UAS and UAS critical components produced in foreign countries are prohibited from authorization, and PSHSB and staff must maintain the Covered List and guide TCBs and test labs.",
+  "bound_parties_quote": "all applicants seeking equipment authorization from the Commission must certify that the equipment is not prohibited from receiving an equipment authorization by virtue of being “covered equipment.”",
+  "entry_into_force_date": "2025-12-22",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Uncrewed aircraft systems (UAS) and UAS critical components produced in a foreign country and all communications and video surveillance equipment and services listed in Section 1709(a)(1) of the FY25 National Defense Authorization Act (Pub. L. 118-159). December 22, 2025",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "PSHSB announces the addition of uncrewed aircraft systems (UAS) and UAS critical components produced in foreign countries to the Covered List.",
+  "confidence": 0.72
+ }
+}

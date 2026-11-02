@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-ce2171ab",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1169136,
+  "in": 2,
+  "out": 736,
+  "cache_read": 2656,
+  "cache_create": 27321,
+  "api_ms": 6230,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "public_bodies_or_government",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The ordinance sets requirements for persons conducting private-vehicle paid tourist passenger transport (自家用有償観光旅客等運送者) in national strategic special zones, including municipalities, NPOs, associations and other designated entities applying for registration.",
+  "bound_parties_quote": "自家用有償観光旅客等運送者は、自家用有償観光旅客等運送を行う場合には、道路運送法施行規則第五十一条の二十七第一項に規定する標章に外国人観光旅客の利便の確保に関し必要な事項を記載するように努めるものとする。",
+  "entry_into_force_date": "2014-04-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "この省令は、国家戦略特別区域法附則第一条第一号に掲げる規定の施行の日（平成二十六年四月一日）から施行する。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2022,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "特定自動運行旅客運送（特定自動運行（道路交通法（昭和三十五年法律第百五号）第二条第一項第十七号の二に規定する特定自動運行をいう。）による旅客の運送をいう。）",
+  "confidence": 0.5
+ }
+}

@@ -3,7 +3,7 @@
 plus cross-checks against collector labels. Outputs data/reliability_fields.csv and data/reliability_team_crosscheck.csv."""
 import json, glob, os, numpy as np, pandas as pd
 from sklearn.metrics import cohen_kappa_score
-B="/home/user/embodied-ai-governance-v4/"
+B="/home/user/embodied-ai-governance-v5/"
 def load(d): return {json.load(open(p))["doc_id"]:json.load(open(p))["annotation"] for p in glob.glob(B+d+"/D*.json")}
 import sys
 SECOND=sys.argv[1] if len(sys.argv)>1 else "annotations/reliability_opus"

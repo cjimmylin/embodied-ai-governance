@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-f074e956",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.015149600000000001,
+  "in": 2,
+  "out": 604,
+  "cache_read": 2656,
+  "cache_create": 2210,
+  "api_ms": 5993,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The text names no bound parties; it offers guidance for in-vehicle fallback test driver training and on-road testing of prototype ADS-operated vehicles, addressed to 'users of this document'.",
+  "bound_parties_quote": "users of this document should nevertheless bear in mind",
+  "entry_into_force_date": "2020-12-04",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "PUBLISHED: 2020-12-04",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "safety-relevant guidance for in-vehicle fallback test driver training and for on-road testing of vehicles being operated by prototype conditional, high, and full (Levels 3 to 5) ADS",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "on-road testing of vehicles being operated by prototype conditional, high, and full (Levels 3 to 5) ADS",
+  "confidence": 0.6
+ }
+}

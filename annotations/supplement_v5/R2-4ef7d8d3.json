@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-4ef7d8d3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0822276,
+  "in": 2,
+  "out": 661,
+  "cache_read": 2656,
+  "cache_create": 18837,
+  "api_ms": 9525,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers",
+   "owners_or_users"
+  ],
+  "bound_parties_text": "The Act binds air navigation service providers and other persons with functions relating to air navigation (via Secretary of State directions), the CAA, and, through police powers and fixed penalties, persons operating unmanned aircraft.",
+  "bound_parties_quote": "a person is involved in airspace change if the person is— an air navigation service provider, another person with functions relating to air navigation.",
+  "entry_into_force_date": "2021-04-29",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "The following provisions come into force on the day on which this Act is passed— sections 7(2) and 13 to 15 and Schedules 2 and 8 to 10, but only for the purpose of making regulations;",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "to confer police powers relating to unmanned aircraft and requirements in Air Navigation Orders and to provide for fixed penalties for certain offences relating to unmanned aircraft.",
+  "confidence": 0.6
+ }
+}

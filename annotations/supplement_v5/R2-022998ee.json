@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-022998ee",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0257416,
+  "in": 2,
+  "out": 602,
+  "cache_read": 2656,
+  "cache_create": 4863,
+  "api_ms": 6627,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "Executive agencies (and contracting officers) are prohibited from procuring or operating FASC-prohibited unmanned aircraft systems, and must follow the documentation and assessment procedures.",
+  "bound_parties_quote": "executive agencies are prohibited from— (a) Procuring a FASC-prohibited unmanned aircraft system",
+  "entry_into_force_date": null,
+  "applicability_date": "2025-12-22",
+  "repeal_or_expiry_date": "2028-12-22",
+  "dates_quote": "The authorities in 40.202 expire on December 22, 2028 (section 1833 of Pub. L. 118-31, 41 U.S.C. 3901 note prec.).",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "Source: 89 FR 89470, Nov. 12, 2024, unless otherwise noted.",
+  "confidence": 0.7
+ }
+}

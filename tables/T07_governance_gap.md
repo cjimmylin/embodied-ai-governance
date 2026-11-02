@@ -1,27 +1,27 @@
-**T07_governance_gap. Governance-gap index per category: share among embodied research outputs (n=509) minus share among embodied governance instruments (n=505)**
+**T07_governance_gap. Governance-gap index per category: share among embodied research outputs (n=509) minus share among embodied governance instruments (n=598)**
 
 | category                              | level1                     |   research_pct |   n_research |   instrument_pct |   n_instruments |   binding_instruments |   gap_index |
 |:--------------------------------------|:---------------------------|---------------:|-------------:|-----------------:|----------------:|----------------------:|------------:|
-| social_companion_robots               | Service & social           |           43   |          219 |              3   |              15 |                     0 |        40.1 |
-| humanoid_general_purpose              | Humanoid & general-purpose |           22.8 |          116 |              4   |              20 |                     0 |        18.8 |
-| care_assistive_robots                 | Service & social           |           27.5 |          140 |              8.9 |              45 |                     4 |        18.6 |
-| professional_service_robots           | Service & social           |           17.5 |           89 |              9.9 |              50 |                     2 |         7.6 |
-| surgical_medical_robots               | Medical & body-integrated  |           14.5 |           74 |              7.3 |              37 |                     6 |         7.2 |
-| educational_robots                    | Service & social           |            6.9 |           35 |              1.6 |               8 |                     1 |         5.3 |
-| domestic_household_robots             | Service & social           |            7.7 |           39 |              3.4 |              17 |                     0 |         4.3 |
-| sex_robots                            | Service & social           |            4.5 |           23 |              0.8 |               4 |                     0 |         3.7 |
-| other_embodied                        | Other embodied             |            4.7 |           24 |              1.2 |               6 |                     3 |         3.5 |
-| biohybrid_or_cyborg                   | Medical & body-integrated  |            2.2 |           11 |              0.2 |               1 |                     0 |         2   |
-| toys_entertainment_robots             | Service & social           |            1.2 |            6 |              0.6 |               3 |                     0 |         0.6 |
-| collaborative_robots                  | Industrial & logistics     |            6.3 |           32 |              5.9 |              30 |                     6 |         0.3 |
-| space_or_extreme_environment          | Vehicles & field           |            3.1 |           16 |              4   |              20 |                     2 |        -0.8 |
-| military_autonomous_weapons           | Security & military        |           10.4 |           53 |             11.9 |              60 |                     3 |        -1.5 |
-| security_policing_robots              | Security & military        |            3.1 |           16 |              4.8 |              24 |                    11 |        -1.6 |
-| rehabilitation_exoskeleton_prosthetic | Medical & body-integrated  |            2.8 |           14 |              5.1 |              26 |                     2 |        -2.4 |
-| industrial_manipulators               | Industrial & logistics     |           10   |           51 |             13.3 |              67 |                    13 |        -3.2 |
-| autonomous_maritime_or_rail           | Vehicles & field           |            1   |            5 |              5.5 |              28 |                     1 |        -4.6 |
-| delivery_robots                       | Industrial & logistics     |            2.2 |           11 |              7.3 |              37 |                    15 |        -5.2 |
-| agricultural_robots                   | Vehicles & field           |            2.4 |           12 |              7.7 |              39 |                     7 |        -5.4 |
-| mobile_industrial_logistics           | Industrial & logistics     |            3.1 |           16 |              9.7 |              49 |                     9 |        -6.6 |
-| autonomous_road_vehicles              | Vehicles & field           |           12.4 |           63 |             39.8 |             201 |                    67 |       -27.4 |
-| drones_uas                            | Vehicles & field           |            6.3 |           32 |             42.4 |             214 |                   107 |       -36.1 |
+| social_companion_robots               | Service & social           |           43   |          219 |              3   |              18 |                     0 |        40   |
+| care_assistive_robots                 | Service & social           |           27.5 |          140 |              8.5 |              51 |                     4 |        19   |
+| humanoid_general_purpose              | Humanoid & general-purpose |           22.8 |          116 |              3.8 |              23 |                     0 |        18.9 |
+| surgical_medical_robots               | Medical & body-integrated  |           14.5 |           74 |              5.9 |              35 |                     5 |         8.7 |
+| professional_service_robots           | Service & social           |           17.5 |           89 |              9.9 |              59 |                     6 |         7.6 |
+| educational_robots                    | Service & social           |            6.9 |           35 |              1.2 |               7 |                     1 |         5.7 |
+| domestic_household_robots             | Service & social           |            7.7 |           39 |              3.3 |              20 |                     0 |         4.3 |
+| sex_robots                            | Service & social           |            4.5 |           23 |              0.7 |               4 |                     0 |         3.8 |
+| other_embodied                        | Other embodied             |            4.7 |           24 |              1.2 |               7 |                     4 |         3.5 |
+| biohybrid_or_cyborg                   | Medical & body-integrated  |            2.2 |           11 |              0.3 |               2 |                     0 |         1.8 |
+| collaborative_robots                  | Industrial & logistics     |            6.3 |           32 |              5   |              30 |                     5 |         1.3 |
+| toys_entertainment_robots             | Service & social           |            1.2 |            6 |              0.5 |               3 |                     1 |         0.7 |
+| military_autonomous_weapons           | Security & military        |           10.4 |           53 |             10.2 |              61 |                     6 |         0.2 |
+| space_or_extreme_environment          | Vehicles & field           |            3.1 |           16 |              3.3 |              20 |                     1 |        -0.2 |
+| industrial_manipulators               | Industrial & logistics     |           10   |           51 |             11.5 |              69 |                    13 |        -1.5 |
+| security_policing_robots              | Security & military        |            3.1 |           16 |              4.7 |              28 |                    14 |        -1.5 |
+| rehabilitation_exoskeleton_prosthetic | Medical & body-integrated  |            2.8 |           14 |              5   |              30 |                     2 |        -2.3 |
+| autonomous_maritime_or_rail           | Vehicles & field           |            1   |            5 |              4.8 |              29 |                     2 |        -3.9 |
+| agricultural_robots                   | Vehicles & field           |            2.4 |           12 |              6.9 |              41 |                     9 |        -4.5 |
+| mobile_industrial_logistics           | Industrial & logistics     |            3.1 |           16 |              8.9 |              53 |                    12 |        -5.7 |
+| delivery_robots                       | Industrial & logistics     |            2.2 |           11 |              9   |              54 |                    29 |        -6.9 |
+| autonomous_road_vehicles              | Vehicles & field           |           12.4 |           63 |             41.3 |             247 |                   109 |       -28.9 |
+| drones_uas                            | Vehicles & field           |            6.3 |           32 |             43.1 |             258 |                   146 |       -36.9 |

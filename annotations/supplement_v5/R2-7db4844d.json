@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-7db4844d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0353416,
+  "in": 2,
+  "out": 676,
+  "cache_read": 2656,
+  "cache_create": 7078,
+  "api_ms": 4394,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "operators_or_deployers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The plan directs government departments and local authorities to implement it, and says new energy heavy truck transport enterprises must strengthen driver training and must not illegally modify vehicles or overload them. It also covers charging/swapping facility operators and truck producers.",
+  "bound_parties_quote": "新能源重卡运输企业应当加强车辆安全驾驶培训和运营培训，不得非法改装车辆、违法超限超载运输，提高运行安全水平。",
+  "entry_into_force_date": "2026-05-29",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "现将《推动新能源重卡规模化应用实施方案》印发给你们，请结合实际抓好贯彻落实。 ... 2026年5月29日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "加快新能源重卡与人工智能、自动驾驶、现代通信信息等技术深度融合，打造“车、货、路、能、云”融合产业创新生态。",
+  "confidence": 0.6
+ }
+}

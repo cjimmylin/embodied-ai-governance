@@ -4,6 +4,8 @@ author: "Jimmy Lin (Centre for Enterprise Innovation) with the CEI regional coll
 date: "31 October 2026 (working paper, venue-agnostic)"
 ---
 
+*Version 5 note (collection round 3, 2 November 2026). The tables and figures in this package were regenerated after round 3, which recovered the text of round-2 instruments that could not be read before, harvested new service-robot, care, exoskeleton and humanoid instruments, re-read the truncated statutes in full and added supplementary fields (whom a rule binds, dates, legal effect of standards, robot-provision year). The narrative below still states the v4 counts of 31 October 2026 and has not been re-audited sentence by sentence against the v5 tables; where a number in the text and a number in a table differ, the table is current. The round-3 companion report (collection_round3) gives the v5 headline counts and what changed, and HUMAN_ASSISTANCE.md lists what still needs a person.*
+
 <div class="abstract">
 
 **Abstract.** Artificial-intelligence governance has been studied quantitatively for software; the governance of machines that act in the world (robots, vehicles, drones, medical and industrial machines) has not. We analyse a purposive multilingual collection of 3,165 usable documents from 116 countries, the European Union and the international standards layer, built by a topical search by eight regional teams and a database-driven search by AI agents and scripted harvests for the binding instruments the first round missed. Every document was labelled by a language model under a fixed codebook; no person read or labelled any document, and the second-round collectors and reviewers of earlier drafts were AI agents. Counted as principal instruments, a documented unit without commencement orders, exemptions, corrigenda, catalogue pages and stubs, the collection holds 505 instruments governing the machine classes in which embodied AI is deployed, 195 of them legally binding; only 15 binding instruments name AI explicitly. The main methodological result is that collection strategy, not coding, decides what such a corpus says: on a comparable unit the database round multiplied the binding count fifty-eight-fold, and the pooled comparison of embodied with general-AI instruments shows a thinner ethical core that does not exist within the first round, so the pooled reversal is a composition effect. What survives within round, within genre and after adjustment is the body: physical safety, autonomy-level control, conformity assessment and liability for physical damage distinguish embodied instruments, as do standards references, licensing and insurance. Research and rules attend to different robots: companion robots are 43% of embodied research papers and 3% of instruments. An independent audit found 54% of an earlier binding set distinct, binding and substantive, so counts are upper bounds on precision and lower bounds on recall. We release codebook, annotations, stored model inputs, run manifest, master table, dashboard and code.
@@ -63,17 +65,17 @@ The two literatures have rarely been brought together with numbers. This paper a
 
 | tier                                                                                                                                  |   count |
 |:--------------------------------------------------------------------------------------------------------------------------------------|--------:|
-| All legal texts of instrument class, embodied-AI set                                                                                  |     810 |
-| Principal instruments (amendments kept; commencement, levy, exemption, incorporation, corrigenda, stubs and catalogue pages excluded) |     505 |
-| Principal instruments rated robot-relevant (relevance 2 or 3)                                                                         |     408 |
-| Principal embodied instruments whose text contains autonomy or AI provisions                                                          |     395 |
-| Principal embodied instruments whose text names AI explicitly                                                                         |     153 |
-| Binding legal texts, embodied-AI set                                                                                                  |     291 |
-| Principal binding instruments, embodied-AI set                                                                                        |     195 |
-| Principal binding instruments rated robot-relevant (relevance 2 or 3)                                                                 |     168 |
-| Principal binding instruments counted once per instrument family                                                                      |     194 |
-| Principal binding instruments with autonomy or AI provisions in the text                                                              |     140 |
-| Principal binding instruments naming AI explicitly                                                                                    |      15 |
+| All legal texts of instrument class, embodied-AI set                                                                                  |     908 |
+| Principal instruments (amendments kept; commencement, levy, exemption, incorporation, corrigenda, stubs and catalogue pages excluded) |     598 |
+| Principal instruments rated robot-relevant (relevance 2 or 3)                                                                         |     490 |
+| Principal embodied instruments whose text contains autonomy or AI provisions                                                          |     464 |
+| Principal embodied instruments whose text names AI explicitly                                                                         |     164 |
+| Binding legal texts, embodied-AI set                                                                                                  |     377 |
+| Principal binding instruments, embodied-AI set                                                                                        |     278 |
+| Principal binding instruments rated robot-relevant (relevance 2 or 3)                                                                 |     241 |
+| Principal binding instruments counted once per instrument family                                                                      |     277 |
+| Principal binding instruments with autonomy or AI provisions in the text                                                              |     201 |
+| Principal binding instruments naming AI explicitly                                                                                    |      25 |
 
 Table 53b reads one collection under successively stricter definitions. The embodied set holds 810 texts of instrument class; 505 are principal instruments. The 305 removed are 222 catalogue or landing pages (mostly standards scope listings), 35 stubs under 150 words, 30 ancillary instruments, 10 dependent parts, 6 EEA incorporation decisions and 2 language copies. Of the 505, 408 are rated robot-relevant, 395 contain autonomy or AI provisions and 153 name AI explicitly. Among binding texts the ladder runs 291, 195 principal (164 principal acts and 31 amendments), 168 robot-relevant, 194 instrument families, 140 with autonomy or AI provisions and 15 naming AI explicitly: the AI Act and its 2026 amending regulation, the Machinery and Medical Devices Regulations, two EU type-approval regulations, Executive Order 14110, UN Regulation 155, Dubai's and Italy's automated-vehicle rules, Oman's drone regulation, El Salvador's robotics law, an Argentine resolution and two US export-control parts.
 
@@ -93,21 +95,21 @@ The precision audit (Table 62) shows why the unit matters. Of 100 randomly sampl
 
 | measure                                   |   v2 |   v3 |   added |   ratio |
 |:------------------------------------------|-----:|-----:|--------:|--------:|
-| Documents (annotated)                     | 1656 | 3295 |    1639 |    1.99 |
-| Usable documents                          | 1538 | 3165 |    1627 |    2.06 |
-| Embodied-AI set                           |  675 | 1603 |     928 |    2.37 |
-| General-AI set                            |  806 | 1015 |     209 |    1.26 |
-| Governance documents (incl. reports)      |  343 | 1709 |    1366 |    4.98 |
-| Governance instruments, all               |  345 | 1696 |    1351 |    4.92 |
-| Governance instruments, embodied-AI set   |   65 |  810 |     745 |   12.46 |
-| Robot-specific instruments (relevance 2+) |   34 |  699 |     665 |   20.56 |
-| Binding instruments, all                  |   34 |  702 |     668 |   20.65 |
-| Binding instruments, embodied-AI set      |    5 |  291 |     286 |   58.2  |
-| Binding instruments, robot-specific       |    4 |  254 |     250 |   63.5  |
-| Soft-law instruments, embodied-AI set     |   50 |  411 |     361 |    8.22 |
-| Proposals and drafts, embodied-AI set     |   10 |  108 |      98 |   10.8  |
-| Government reports, embodied-AI set       |   24 |   97 |      73 |    4.04 |
-| Jurisdictions with an embodied instrument |   30 |   60 |      30 |    2    |
+| Documents (annotated)                     | 1656 | 3450 |    1794 |    2.08 |
+| Usable documents                          | 1538 | 3320 |    1782 |    2.16 |
+| Embodied-AI set                           |  675 | 1704 |    1029 |    2.52 |
+| General-AI set                            |  806 | 1025 |     219 |    1.27 |
+| Governance documents (incl. reports)      |  343 | 1860 |    1517 |    5.42 |
+| Governance instruments, all               |  345 | 1846 |    1501 |    5.35 |
+| Governance instruments, embodied-AI set   |   65 |  908 |     843 |   13.97 |
+| Robot-specific instruments (relevance 2+) |   34 |  785 |     751 |   23.09 |
+| Binding instruments, all                  |   34 |  815 |     781 |   23.97 |
+| Binding instruments, embodied-AI set      |    5 |  377 |     372 |   75.4  |
+| Binding instruments, robot-specific       |    4 |  329 |     325 |   82.25 |
+| Soft-law instruments, embodied-AI set     |   50 |  417 |     367 |    8.34 |
+| Proposals and drafts, embodied-AI set     |   10 |  114 |     104 |   11.4  |
+| Government reports, embodied-AI set       |   24 |   98 |      74 |    4.08 |
+| Jurisdictions with an embodied instrument |   30 |   66 |      36 |    2.2  |
 
 Table 53 sets round 1 alone against the merged collection on the comparable unit of every text of instrument class. The database round doubled the collection (1,656 to 3,295 annotated documents), left the research side untouched and the general-AI set nearly so (806 to 1,015), and multiplied the governance side: embodied legal texts rose from 65 to 810, robot-relevant ones from 34 to 699, binding embodied texts from 5 to 291 and jurisdictions with an embodied instrument from 30 to 60. These ratios describe where the two rounds searched: the teams found research and strategies by topical search, the agents and harvests found statutes and regulations by database query. The higher binding share of the embodied set and the doubling of jurisdictions follow from the design and are not reported as findings about the world.
 
@@ -115,86 +117,86 @@ Table 53 sets round 1 alone against the merged collection on the comparable unit
 
 | stratum                         | principle                       | group             |   n_embodied |   n_general |   embodied_pct |   general_pct |   diff_pp | test       |      p |   p_holm | significant_holm_05   |
 |:--------------------------------|:--------------------------------|:------------------|-------------:|------------:|---------------:|--------------:|----------:|:-----------|-------:|---------:|:----------------------|
-| Round 1, all usable documents   | Transparency                    | core              |          675 |         803 |           43.7 |          59.4 |     -15.7 | chi-square | 0      |   0      | True                  |
-| Round 1, all usable documents   | Justice & fairness              | core              |          675 |         803 |           43.1 |          59.2 |     -16   | chi-square | 0      |   0      | True                  |
-| Round 1, all usable documents   | Non-maleficence                 | core              |          675 |         803 |           81.9 |          68.9 |      13.1 | chi-square | 0      |   0      | True                  |
-| Round 1, all usable documents   | Responsibility & accountability | core              |          675 |         803 |           66.1 |          63   |       3.1 | chi-square | 0.2422 |   0.2422 | False                 |
-| Round 1, all usable documents   | Privacy                         | core              |          675 |         803 |           37.3 |          50.4 |     -13.1 | chi-square | 0      |   0      | True                  |
-| Round 1, all usable documents   | Beneficence                     | core              |          675 |         803 |           70.4 |          79.6 |      -9.2 | chi-square | 0.0001 |   0.0003 | True                  |
-| Round 1, all usable documents   | Freedom & autonomy              | core              |          675 |         803 |           38.2 |          25.2 |      13.1 | chi-square | 0      |   0      | True                  |
-| Round 1, all usable documents   | Trust                           | core              |          675 |         803 |           46.5 |          51.3 |      -4.8 | chi-square | 0.0747 |   0.1494 | False                 |
-| Round 1, all usable documents   | Sustainability                  | core              |          675 |         803 |           19.6 |          33.9 |     -14.3 | chi-square | 0      |   0      | True                  |
-| Round 1, all usable documents   | Dignity                         | core              |          675 |         803 |           33.6 |          21.7 |      12   | chi-square | 0      |   0      | True                  |
-| Round 1, all usable documents   | Solidarity                      | core              |          675 |         803 |           23.7 |          35.4 |     -11.7 | chi-square | 0      |   0      | True                  |
-| Round 1, all usable documents   | Human oversight                 | core              |          675 |         803 |           40.9 |          32.8 |       8.1 | chi-square | 0.0015 |   0.0058 | True                  |
-| Round 1, all usable documents   | Robustness & security           | core              |          675 |         803 |           39.7 |          49.9 |     -10.2 | chi-square | 0.0001 |   0.0005 | True                  |
-| Round 1, all usable documents   | Inclusive growth                | core              |          675 |         803 |           34.8 |          75.5 |     -40.7 | chi-square | 0      |   0      | True                  |
-| Round 1, all usable documents   | Physical safety                 | embodied-specific |          675 |         803 |           48   |           2.9 |      45.1 | chi-square | 0      |   0      | True                  |
-| Round 1, all usable documents   | Human-robot proximity           | embodied-specific |          675 |         803 |           63.3 |           0.4 |      62.9 | chi-square | 0      |   0      | True                  |
-| Round 1, all usable documents   | Liability for physical damage   | embodied-specific |          675 |         803 |           23.9 |           0.4 |      23.5 | chi-square | 0      |   0      | True                  |
-| Round 1, all usable documents   | Autonomy level & control        | embodied-specific |          675 |         803 |           41.5 |           5.2 |      36.3 | chi-square | 0      |   0      | True                  |
-| Round 1, all usable documents   | Conformity assessment           | embodied-specific |          675 |         803 |           14.4 |          10.7 |       3.7 | chi-square | 0.0405 |   0.1214 | False                 |
-| Round 1, all usable documents   | Dual use & military             | embodied-specific |          675 |         803 |           15.3 |           5.5 |       9.8 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Transparency                    | core              |          928 |         212 |           30.5 |          59.4 |     -28.9 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Justice & fairness              | core              |          928 |         212 |           13.4 |          58   |     -44.7 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Non-maleficence                 | core              |          928 |         212 |           80.1 |          58   |      22   | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Responsibility & accountability | core              |          928 |         212 |           54.3 |          64.2 |      -9.8 | chi-square | 0.0115 |   0.0344 | True                  |
-| Round 2, all usable documents   | Privacy                         | core              |          928 |         212 |           19.9 |          46.7 |     -26.8 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Beneficence                     | core              |          928 |         212 |           32.9 |          72.2 |     -39.3 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Freedom & autonomy              | core              |          928 |         212 |            6.6 |          23.6 |     -17   | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Trust                           | core              |          928 |         212 |           15.7 |          54.2 |     -38.5 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Sustainability                  | core              |          928 |         212 |           16.4 |          46.2 |     -29.8 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Dignity                         | core              |          928 |         212 |            7   |          17.9 |     -10.9 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Solidarity                      | core              |          928 |         212 |            9.4 |          40.1 |     -30.7 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Human oversight                 | core              |          928 |         212 |           44.9 |          27.8 |      17.1 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Robustness & security           | core              |          928 |         212 |           57   |          61.8 |      -4.8 | chi-square | 0.2313 |   0.4518 | False                 |
-| Round 2, all usable documents   | Inclusive growth                | core              |          928 |         212 |           37.3 |          72.6 |     -35.4 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Physical safety                 | embodied-specific |          928 |         212 |           81.4 |          12.7 |      68.6 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Human-robot proximity           | embodied-specific |          928 |         212 |           28   |           0.5 |      27.5 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Liability for physical damage   | embodied-specific |          928 |         212 |           18.9 |           4.7 |      14.1 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Autonomy level & control        | embodied-specific |          928 |         212 |           54.4 |           5.2 |      49.2 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Conformity assessment           | embodied-specific |          928 |         212 |           57.1 |          20.8 |      36.4 | chi-square | 0      |   0      | True                  |
-| Round 2, all usable documents   | Dual use & military             | embodied-specific |          928 |         212 |           16.4 |          12.7 |       3.6 | chi-square | 0.2259 |   0.4518 | False                 |
-| Round 1, governance instruments | Transparency                    | core              |           61 |         245 |           83.6 |          83.3 |       0.3 | chi-square | 1      |   1      | False                 |
-| Round 1, governance instruments | Justice & fairness              | core              |           61 |         245 |           68.9 |          76.3 |      -7.5 | chi-square | 0.2989 |   1      | False                 |
-| Round 1, governance instruments | Non-maleficence                 | core              |           61 |         245 |           91.8 |          89   |       2.8 | chi-square | 0.681  |   1      | False                 |
-| Round 1, governance instruments | Responsibility & accountability | core              |           61 |         245 |           75.4 |          86.9 |     -11.5 | chi-square | 0.0417 |   0.5008 | False                 |
-| Round 1, governance instruments | Privacy                         | core              |           61 |         245 |           77   |          80.8 |      -3.8 | chi-square | 0.6313 |   1      | False                 |
-| Round 1, governance instruments | Beneficence                     | core              |           61 |         245 |           91.8 |          84.9 |       6.9 | chi-square | 0.2323 |   1      | False                 |
-| Round 1, governance instruments | Freedom & autonomy              | core              |           61 |         245 |           47.5 |          42.9 |       4.7 | chi-square | 0.6062 |   1      | False                 |
-| Round 1, governance instruments | Trust                           | core              |           61 |         245 |           80.3 |          69   |      11.3 | chi-square | 0.1109 |   1      | False                 |
-| Round 1, governance instruments | Sustainability                  | core              |           61 |         245 |           62.3 |          52.7 |       9.6 | chi-square | 0.2264 |   1      | False                 |
-| Round 1, governance instruments | Dignity                         | core              |           61 |         245 |           34.4 |          33.9 |       0.5 | chi-square | 1      |   1      | False                 |
-| Round 1, governance instruments | Solidarity                      | core              |           61 |         245 |           52.5 |          46.1 |       6.3 | chi-square | 0.4571 |   1      | False                 |
-| Round 1, governance instruments | Human oversight                 | core              |           61 |         245 |           65.6 |          56.7 |       8.8 | chi-square | 0.2677 |   1      | False                 |
-| Round 1, governance instruments | Robustness & security           | core              |           61 |         245 |           93.4 |          78.4 |      15.1 | chi-square | 0.0117 |   0.1632 | False                 |
-| Round 1, governance instruments | Inclusive growth                | core              |           61 |         245 |           90.2 |          76.3 |      13.8 | chi-square | 0.0277 |   0.3598 | False                 |
-| Round 1, governance instruments | Physical safety                 | embodied-specific |           61 |         245 |           57.4 |           6.5 |      50.8 | chi-square | 0      |   0      | True                  |
-| Round 1, governance instruments | Human-robot proximity           | embodied-specific |           61 |         245 |           39.3 |           0.4 |      38.9 | Fisher     | 0      |   0      | True                  |
-| Round 1, governance instruments | Liability for physical damage   | embodied-specific |           61 |         245 |           24.6 |           0.8 |      23.8 | Fisher     | 0      |   0      | True                  |
-| Round 1, governance instruments | Autonomy level & control        | embodied-specific |           61 |         245 |           49.2 |          11.8 |      37.3 | chi-square | 0      |   0      | True                  |
-| Round 1, governance instruments | Conformity assessment           | embodied-specific |           61 |         245 |           59   |          18.4 |      40.6 | chi-square | 0      |   0      | True                  |
-| Round 1, governance instruments | Dual use & military             | embodied-specific |           61 |         245 |           37.7 |          10.2 |      27.5 | chi-square | 0      |   0      | True                  |
-| Round 2, governance instruments | Transparency                    | core              |          444 |         127 |           41.7 |          58.3 |     -16.6 | chi-square | 0.0013 |   0.0092 | True                  |
-| Round 2, governance instruments | Justice & fairness              | core              |          444 |         127 |           16.2 |          55.9 |     -39.7 | chi-square | 0      |   0      | True                  |
-| Round 2, governance instruments | Non-maleficence                 | core              |          444 |         127 |           88.7 |          59.8 |      28.9 | chi-square | 0      |   0      | True                  |
-| Round 2, governance instruments | Responsibility & accountability | core              |          444 |         127 |           74.5 |          66.1 |       8.4 | chi-square | 0.078  |   0.1561 | False                 |
-| Round 2, governance instruments | Privacy                         | core              |          444 |         127 |           31.8 |          45.7 |     -13.9 | chi-square | 0.0052 |   0.0311 | True                  |
-| Round 2, governance instruments | Beneficence                     | core              |          444 |         127 |           41.2 |          70.1 |     -28.9 | chi-square | 0      |   0      | True                  |
-| Round 2, governance instruments | Freedom & autonomy              | core              |          444 |         127 |            9.7 |          18.9 |      -9.2 | chi-square | 0.0072 |   0.0359 | True                  |
-| Round 2, governance instruments | Trust                           | core              |          444 |         127 |           18.9 |          48.8 |     -29.9 | chi-square | 0      |   0      | True                  |
-| Round 2, governance instruments | Sustainability                  | core              |          444 |         127 |           24.3 |          43.3 |     -19   | chi-square | 0      |   0.0004 | True                  |
-| Round 2, governance instruments | Dignity                         | core              |          444 |         127 |            8.1 |          16.5 |      -8.4 | chi-square | 0.0086 |   0.0359 | True                  |
-| Round 2, governance instruments | Solidarity                      | core              |          444 |         127 |           13.1 |          34.6 |     -21.6 | chi-square | 0      |   0      | True                  |
-| Round 2, governance instruments | Human oversight                 | core              |          444 |         127 |           56.5 |          25.2 |      31.3 | chi-square | 0      |   0      | True                  |
-| Round 2, governance instruments | Robustness & security           | core              |          444 |         127 |           70.3 |          58.3 |      12   | chi-square | 0.0146 |   0.0439 | True                  |
-| Round 2, governance instruments | Inclusive growth                | core              |          444 |         127 |           47.7 |          69.3 |     -21.5 | chi-square | 0      |   0.0003 | True                  |
-| Round 2, governance instruments | Physical safety                 | embodied-specific |          444 |         127 |           86.9 |          15   |      72   | chi-square | 0      |   0      | True                  |
-| Round 2, governance instruments | Human-robot proximity           | embodied-specific |          444 |         127 |           32.4 |           0   |      32.4 | chi-square | 0      |   0      | True                  |
-| Round 2, governance instruments | Liability for physical damage   | embodied-specific |          444 |         127 |           26.8 |           6.3 |      20.5 | chi-square | 0      |   0      | True                  |
-| Round 2, governance instruments | Autonomy level & control        | embodied-specific |          444 |         127 |           61.9 |           5.5 |      56.4 | chi-square | 0      |   0      | True                  |
-| Round 2, governance instruments | Conformity assessment           | embodied-specific |          444 |         127 |           66.7 |          21.3 |      45.4 | chi-square | 0      |   0      | True                  |
-| Round 2, governance instruments | Dual use & military             | embodied-specific |          444 |         127 |           18.2 |          15   |       3.3 | chi-square | 0.4679 |   0.4679 | False                 |
+| Round 1, all usable documents   | Transparency                    | core              |          673 |         805 |           43.7 |          59.5 |     -15.8 | chi-square | 0      |   0      | True                  |
+| Round 1, all usable documents   | Justice & fairness              | core              |          673 |         805 |           42.9 |          59.3 |     -16.3 | chi-square | 0      |   0      | True                  |
+| Round 1, all usable documents   | Non-maleficence                 | core              |          673 |         805 |           81.9 |          68.9 |      12.9 | chi-square | 0      |   0      | True                  |
+| Round 1, all usable documents   | Responsibility & accountability | core              |          673 |         805 |           66.1 |          63.1 |       3   | chi-square | 0.2493 |   0.2493 | False                 |
+| Round 1, all usable documents   | Privacy                         | core              |          673 |         805 |           37.3 |          50.6 |     -13.3 | chi-square | 0      |   0      | True                  |
+| Round 1, all usable documents   | Beneficence                     | core              |          673 |         805 |           70.3 |          79.6 |      -9.3 | chi-square | 0      |   0.0003 | True                  |
+| Round 1, all usable documents   | Freedom & autonomy              | core              |          673 |         805 |           38.2 |          25.3 |      12.8 | chi-square | 0      |   0      | True                  |
+| Round 1, all usable documents   | Trust                           | core              |          673 |         805 |           46.4 |          51.4 |      -5.1 | chi-square | 0.0589 |   0.1589 | False                 |
+| Round 1, all usable documents   | Sustainability                  | core              |          673 |         805 |           19.3 |          34   |     -14.7 | chi-square | 0      |   0      | True                  |
+| Round 1, all usable documents   | Dignity                         | core              |          673 |         805 |           33.6 |          21.7 |      11.8 | chi-square | 0      |   0      | True                  |
+| Round 1, all usable documents   | Solidarity                      | core              |          673 |         805 |           23.3 |          35.5 |     -12.2 | chi-square | 0      |   0      | True                  |
+| Round 1, all usable documents   | Human oversight                 | core              |          673 |         805 |           41   |          32.8 |       8.2 | chi-square | 0.0013 |   0.0053 | True                  |
+| Round 1, all usable documents   | Robustness & security           | core              |          673 |         805 |           39.5 |          50.1 |     -10.5 | chi-square | 0.0001 |   0.0003 | True                  |
+| Round 1, all usable documents   | Inclusive growth                | core              |          673 |         805 |           34.6 |          75.5 |     -40.9 | chi-square | 0      |   0      | True                  |
+| Round 1, all usable documents   | Physical safety                 | embodied-specific |          673 |         805 |           48   |           2.9 |      45.1 | chi-square | 0      |   0      | True                  |
+| Round 1, all usable documents   | Human-robot proximity           | embodied-specific |          673 |         805 |           63.4 |           0.4 |      63.1 | chi-square | 0      |   0      | True                  |
+| Round 1, all usable documents   | Liability for physical damage   | embodied-specific |          673 |         805 |           24.1 |           0.5 |      23.6 | chi-square | 0      |   0      | True                  |
+| Round 1, all usable documents   | Autonomy level & control        | embodied-specific |          673 |         805 |           41.5 |           5.3 |      36.1 | chi-square | 0      |   0      | True                  |
+| Round 1, all usable documents   | Conformity assessment           | embodied-specific |          673 |         805 |           14.4 |          10.9 |       3.5 | chi-square | 0.053  |   0.1589 | False                 |
+| Round 1, all usable documents   | Dual use & military             | embodied-specific |          673 |         805 |           15.2 |           5.6 |       9.6 | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Transparency                    | core              |         1031 |         220 |           33.6 |          60.5 |     -26.9 | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Justice & fairness              | core              |         1031 |         220 |           14.5 |          58.6 |     -44.2 | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Non-maleficence                 | core              |         1031 |         220 |           81   |          59.1 |      21.9 | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Responsibility & accountability | core              |         1031 |         220 |           58.1 |          65.5 |      -7.4 | chi-square | 0.0522 |   0.1567 | False                 |
+| Round 2, all usable documents   | Privacy                         | core              |         1031 |         220 |           24.1 |          48.6 |     -24.6 | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Beneficence                     | core              |         1031 |         220 |           33.9 |          72.7 |     -38.9 | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Freedom & autonomy              | core              |         1031 |         220 |            7.4 |          25   |     -17.6 | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Trust                           | core              |         1031 |         220 |           15.5 |          54.5 |     -39   | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Sustainability                  | core              |         1031 |         220 |           17.7 |          46.8 |     -29.2 | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Dignity                         | core              |         1031 |         220 |            6.6 |          18.6 |     -12   | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Solidarity                      | core              |         1031 |         220 |            9.4 |          40.5 |     -31   | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Human oversight                 | core              |         1031 |         220 |           45.9 |          28.2 |      17.7 | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Robustness & security           | core              |         1031 |         220 |           57.7 |          62.7 |      -5   | chi-square | 0.195  |   0.39   | False                 |
+| Round 2, all usable documents   | Inclusive growth                | core              |         1031 |         220 |           40.1 |          72.7 |     -32.7 | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Physical safety                 | embodied-specific |         1031 |         220 |           82.3 |          12.7 |      69.6 | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Human-robot proximity           | embodied-specific |         1031 |         220 |           28.5 |           0.5 |      28.1 | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Liability for physical damage   | embodied-specific |         1031 |         220 |           23.6 |           4.5 |      19   | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Autonomy level & control        | embodied-specific |         1031 |         220 |           55   |           5   |      50   | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Conformity assessment           | embodied-specific |         1031 |         220 |           59.2 |          21.4 |      37.8 | chi-square | 0      |   0      | True                  |
+| Round 2, all usable documents   | Dual use & military             | embodied-specific |         1031 |         220 |           16.4 |          13.2 |       3.2 | chi-square | 0.279  |   0.39   | False                 |
+| Round 1, governance instruments | Transparency                    | core              |           59 |         247 |           84.7 |          83.4 |       1.3 | chi-square | 0.9561 |   1      | False                 |
+| Round 1, governance instruments | Justice & fairness              | core              |           59 |         247 |           67.8 |          76.5 |      -8.7 | chi-square | 0.2225 |   1      | False                 |
+| Round 1, governance instruments | Non-maleficence                 | core              |           59 |         247 |           91.5 |          89.1 |       2.5 | chi-square | 0.7511 |   1      | False                 |
+| Round 1, governance instruments | Responsibility & accountability | core              |           59 |         247 |           76.3 |          87   |     -10.8 | chi-square | 0.0604 |   0.7253 | False                 |
+| Round 1, governance instruments | Privacy                         | core              |           59 |         247 |           78   |          81   |      -3   | chi-square | 0.7339 |   1      | False                 |
+| Round 1, governance instruments | Beneficence                     | core              |           59 |         247 |           91.5 |          85   |       6.5 | chi-square | 0.2739 |   1      | False                 |
+| Round 1, governance instruments | Freedom & autonomy              | core              |           59 |         247 |           47.5 |          43.3 |       4.1 | chi-square | 0.6678 |   1      | False                 |
+| Round 1, governance instruments | Trust                           | core              |           59 |         247 |           79.7 |          69.2 |      10.4 | chi-square | 0.1527 |   1      | False                 |
+| Round 1, governance instruments | Sustainability                  | core              |           59 |         247 |           61   |          53   |       8   | chi-square | 0.3368 |   1      | False                 |
+| Round 1, governance instruments | Dignity                         | core              |           59 |         247 |           33.9 |          34   |      -0.1 | chi-square | 1      |   1      | False                 |
+| Round 1, governance instruments | Solidarity                      | core              |           59 |         247 |           49.2 |          46.6 |       2.6 | chi-square | 0.831  |   1      | False                 |
+| Round 1, governance instruments | Human oversight                 | core              |           59 |         247 |           67.8 |          56.7 |      11.1 | chi-square | 0.1581 |   1      | False                 |
+| Round 1, governance instruments | Robustness & security           | core              |           59 |         247 |           93.2 |          78.5 |      14.7 | chi-square | 0.0157 |   0.2199 | False                 |
+| Round 1, governance instruments | Inclusive growth                | core              |           59 |         247 |           89.8 |          76.5 |      13.3 | chi-square | 0.0375 |   0.487  | False                 |
+| Round 1, governance instruments | Physical safety                 | embodied-specific |           59 |         247 |           57.6 |           6.5 |      51.1 | chi-square | 0      |   0      | True                  |
+| Round 1, governance instruments | Human-robot proximity           | embodied-specific |           59 |         247 |           40.7 |           0.4 |      40.3 | Fisher     | 0      |   0      | True                  |
+| Round 1, governance instruments | Liability for physical damage   | embodied-specific |           59 |         247 |           27.1 |           1.2 |      25.9 | Fisher     | 0      |   0      | True                  |
+| Round 1, governance instruments | Autonomy level & control        | embodied-specific |           59 |         247 |           49.2 |          12.1 |      37   | chi-square | 0      |   0      | True                  |
+| Round 1, governance instruments | Conformity assessment           | embodied-specific |           59 |         247 |           61   |          19   |      42   | chi-square | 0      |   0      | True                  |
+| Round 1, governance instruments | Dual use & military             | embodied-specific |           59 |         247 |           37.3 |          10.5 |      26.8 | chi-square | 0      |   0      | True                  |
+| Round 2, governance instruments | Transparency                    | core              |          539 |         136 |           44.7 |          60.3 |     -15.6 | chi-square | 0.0016 |   0.008  | True                  |
+| Round 2, governance instruments | Justice & fairness              | core              |          539 |         136 |           17.6 |          56.6 |     -39   | chi-square | 0      |   0      | True                  |
+| Round 2, governance instruments | Non-maleficence                 | core              |          539 |         136 |           88.9 |          61   |      27.8 | chi-square | 0      |   0      | True                  |
+| Round 2, governance instruments | Responsibility & accountability | core              |          539 |         136 |           77.4 |          67.6 |       9.7 | chi-square | 0.0251 |   0.0775 | False                 |
+| Round 2, governance instruments | Privacy                         | core              |          539 |         136 |           37.1 |          48.5 |     -11.4 | chi-square | 0.0194 |   0.0775 | False                 |
+| Round 2, governance instruments | Beneficence                     | core              |          539 |         136 |           41.2 |          70.6 |     -29.4 | chi-square | 0      |   0      | True                  |
+| Round 2, governance instruments | Freedom & autonomy              | core              |          539 |         136 |           10.4 |          21.3 |     -10.9 | chi-square | 0.001  |   0.006  | True                  |
+| Round 2, governance instruments | Trust                           | core              |          539 |         136 |           17.8 |          50   |     -32.2 | chi-square | 0      |   0      | True                  |
+| Round 2, governance instruments | Sustainability                  | core              |          539 |         136 |           25.2 |          44.1 |     -18.9 | chi-square | 0      |   0.0002 | True                  |
+| Round 2, governance instruments | Dignity                         | core              |          539 |         136 |            7.1 |          17.6 |     -10.6 | chi-square | 0.0003 |   0.0018 | True                  |
+| Round 2, governance instruments | Solidarity                      | core              |          539 |         136 |           12.4 |          35.3 |     -22.9 | chi-square | 0      |   0      | True                  |
+| Round 2, governance instruments | Human oversight                 | core              |          539 |         136 |           56   |          25.7 |      30.3 | chi-square | 0      |   0      | True                  |
+| Round 2, governance instruments | Robustness & security           | core              |          539 |         136 |           69.2 |          59.6 |       9.6 | chi-square | 0.0414 |   0.0828 | False                 |
+| Round 2, governance instruments | Inclusive growth                | core              |          539 |         136 |           51   |          69.1 |     -18.1 | chi-square | 0.0002 |   0.0018 | True                  |
+| Round 2, governance instruments | Physical safety                 | embodied-specific |          539 |         136 |           87.8 |          14.7 |      73   | chi-square | 0      |   0      | True                  |
+| Round 2, governance instruments | Human-robot proximity           | embodied-specific |          539 |         136 |           32.5 |           0   |      32.5 | chi-square | 0      |   0      | True                  |
+| Round 2, governance instruments | Liability for physical damage   | embodied-specific |          539 |         136 |           33.8 |           5.9 |      27.9 | chi-square | 0      |   0      | True                  |
+| Round 2, governance instruments | Autonomy level & control        | embodied-specific |          539 |         136 |           61.6 |           5.1 |      56.4 | chi-square | 0      |   0      | True                  |
+| Round 2, governance instruments | Conformity assessment           | embodied-specific |          539 |         136 |           68.3 |          22.8 |      45.5 | chi-square | 0      |   0      | True                  |
+| Round 2, governance instruments | Dual use & military             | embodied-specific |          539 |         136 |           17.8 |          15.4 |       2.4 | chi-square | 0.5992 |   0.5992 | False                 |
 
 The design also changes conclusions. Table 20b repeats the embodied-versus-general comparison within each round. Within round-1 governance instruments (61 embodied, 245 general) none of the 14 core principles differs after Holm correction, while all six embodied-specific considerations do; within round-2 instruments (444 against 127) ten core principles are lower in the embodied set, three (non-maleficence, human oversight, robustness) are higher and only accountability does not differ. Round-2 general-AI instruments themselves mention transparency in 58% of cases against 83% for round-1 general instruments, and justice in 56% against 76%, so the collection mechanism moves the labels as much as set membership does. The pooled "thinner ethical core" of embodied instruments is thus a composition effect of harvested legal texts, and Section 5.5 reads the pooled models in that light. Trends move too: the risk-based-tiering mechanism rises by an odds ratio of 1.31 per year within round-1 documents (1.11 to 1.53) and 1.10 with round as a covariate (1.03 to 1.18), conformity assessment by 1.26 (1.10 to 1.45) against 1.05 (1.00 to 1.10) (Table 30, Section 5.7). A corpus collected by web search and one collected from legal databases give different pictures of the same world; which picture a study reports depends on which it collected.
 
@@ -210,16 +212,16 @@ The embodied-AI set is 32% research outputs (509 of 1,603), 32% principal instru
 
 <em class="cap">Figure 04. Governance documents: lifecycle status (left) and binding nature (right), embodied-AI set vs general-AI set (n in the axis labels).</em>
 
-*Table 33. Embodied-AI governance instruments by tier and capture quality (n=505; 'fraction seen' is the share of the text inside the v1 excerpt)*
+*Table 33. Embodied-AI governance instruments by tier and capture quality (n=598; 'fraction seen' is the share of the text inside the v1 excerpt)*
 
 | tier                                                           | doc_class           |   n |   substantive |   partial |   landing |   median_fraction_seen |
 |:---------------------------------------------------------------|:--------------------|----:|--------------:|----------:|----------:|-----------------------:|
-| general-AI instrument with embodied provisions (relevance 0-1) | Binding instrument  |  27 |            22 |         5 |         0 |                   0.09 |
-| general-AI instrument with embodied provisions (relevance 0-1) | Soft-law instrument |  64 |            63 |         1 |         0 |                   0.51 |
-| general-AI instrument with embodied provisions (relevance 0-1) | Proposal or draft   |   6 |             6 |         0 |         0 |                   0.33 |
-| robot-specific instrument (relevance 2-3)                      | Binding instrument  | 168 |           153 |        15 |         0 |                   0.56 |
-| robot-specific instrument (relevance 2-3)                      | Soft-law instrument | 176 |           112 |        64 |         0 |                   1    |
-| robot-specific instrument (relevance 2-3)                      | Proposal or draft   |  64 |            48 |        16 |         0 |                   1    |
+| general-AI instrument with embodied provisions (relevance 0-1) | Binding instrument  |  37 |            32 |         5 |         0 |                   0.09 |
+| general-AI instrument with embodied provisions (relevance 0-1) | Soft-law instrument |  63 |            62 |         1 |         0 |                   0.56 |
+| general-AI instrument with embodied provisions (relevance 0-1) | Proposal or draft   |   8 |             8 |         0 |         0 |                   0.29 |
+| robot-specific instrument (relevance 2-3)                      | Binding instrument  | 241 |           229 |        12 |         0 |                   0.74 |
+| robot-specific instrument (relevance 2-3)                      | Soft-law instrument | 181 |           117 |        64 |         0 |                   1    |
+| robot-specific instrument (relevance 2-3)                      | Proposal or draft   |  68 |            52 |        16 |         0 |                   1    |
 
 Of the 195 principal binding instruments, 132 are regulations or decrees, 60 statutes and 3 court decisions; 182 are in force, 9 superseded or repealed and 4 adopted but not yet in force. They are rules for machine classes: 107 mention drones, 67 autonomous road vehicles, 15 delivery robots, 13 industrial manipulators, 11 security or policing robots, and 9 or fewer each mobile logistics, agricultural, collaborative, surgical and care robots and autonomous weapons. The United States (56), the European Union (34), Japan (22), the United Kingdom (11) and Canada (9) supply 132 of the 195. Twenty-seven are general-sector or general-AI instruments that reach robots through a scope clause or product list (Executive Order 14110, revoked in January 2025, the Medical Devices Directive and Regulation, export-control lists, aircraft registration and noise rules, FAA reauthorisation acts, Japanese transport ordinances), while the AI Act, its 2026 amending regulation and the Machinery Regulation are rated robot-relevant for their product provisions. El Salvador's Robotic Technologies Law (2025, in force) is the only principal binding instrument with "robot" in its title that the collection has read; Hangzhou's 2026 embodied-robot regulations were verified by a collector but never fetched, and Beijing's development-zone measures were captured as a stub under 150 words. Table 33 gives the tiers by capture quality: 175 of the 195 are substantive captures and 20 partial, no catalogue page remains in the count, and 81 of the 310 soft and draft principal instruments are partial captures, mostly standards annotated on scope text.
 
@@ -231,7 +233,7 @@ Of the 195 principal binding instruments, 132 are regulations or decrees, 60 sta
 
 <em class="cap">Figure 41. Coverage audit: documents citing each reference instrument, coloured by whether the instrument itself was captured as a principal instrument with a content-analysed capture.</em>
 
-Figure 6 accumulates dated embodied governance documents by binding nature on the all-texts unit: legally binding texts rise from 4 in 2012 to 262 by 2026, voluntary guidance to 233, technical standards to 248 and drafts to 50. The early part of the curve inherits the dating rule: 18 of the 195 principal binding instruments are dated before 2010, among them Japanese road-vehicle, road-traffic and aviation statutes of the 1950s and 1960s whose automated-driving provisions come from amendments of 2019 to 2023. The coverage audit (Figure 41, Table 25) uses the strict criterion of a principal instrument with a content-analysed capture: of 39 reference instruments and standards relevant to embodied AI, 22 are captured as documents in the collection, 16 are cited by documents in the corpus but were not captured, and 1 are neither captured nor cited; on the looser title-family match 31 are present. Seventeen remain missing on the strict criterion: Germany's 2021 autonomous-driving amendment, Korea's Intelligent Robots Act and AI Basic Act, the revised Product Liability Directive, Shenzhen's intelligent-connected-vehicle regulation, Beijing's humanoid-robot measures, UN Regulation 171, Taiwan's industrial-robot hazard-prevention standards, the OECD AI Principles as a document, and eight standards (ISO/TS 15066, IEC 61508, ISO 26262, ISO 21448, ISO/IEC 42001, IEEE 7001, ANSI/RIA R15.06, ANSI/A3 R15.08). A governance reviewer further listed instruments that a collector verified but the environment could not fetch: Hangzhou's robot regulations, three Shenzhen special-zone regulations, Hong Kong's autonomous-vehicle regulation, Korea's robot and autonomous-vehicle decrees, DoD Directive 3000.09, California SB 243, India's Drone Rules 2021, the EU Toy Safety Regulation and Directive, France's 2021 ordinance and decree on automated-vehicle liability, Switzerland's special-category aircraft ordinance, ANSI/A3 R15.06-2025 and GB/T 48317.1; these are the first targets of a third round. What the collection shows reliably is the *route* by which binding law reaches robots: sector law (aviation, road traffic, machinery and workplace safety, medical devices) and general AI law, not robotics statutes.
+Figure 6 accumulates dated embodied governance documents by binding nature on the all-texts unit: legally binding texts rise from 4 in 2012 to 262 by 2026, voluntary guidance to 233, technical standards to 248 and drafts to 50. The early part of the curve inherits the dating rule: 18 of the 195 principal binding instruments are dated before 2010, among them Japanese road-vehicle, road-traffic and aviation statutes of the 1950s and 1960s whose automated-driving provisions come from amendments of 2019 to 2023. The coverage audit (Figure 41, Table 25) uses the strict criterion of a principal instrument with a content-analysed capture: of 39 reference instruments and standards relevant to embodied AI, 29 are captured as documents in the collection, 9 are cited by documents in the corpus but were not captured, and 1 are neither captured nor cited; on the looser title-family match 31 are present. Seventeen remain missing on the strict criterion: Germany's 2021 autonomous-driving amendment, Korea's Intelligent Robots Act and AI Basic Act, the revised Product Liability Directive, Shenzhen's intelligent-connected-vehicle regulation, Beijing's humanoid-robot measures, UN Regulation 171, Taiwan's industrial-robot hazard-prevention standards, the OECD AI Principles as a document, and eight standards (ISO/TS 15066, IEC 61508, ISO 26262, ISO 21448, ISO/IEC 42001, IEEE 7001, ANSI/RIA R15.06, ANSI/A3 R15.08). A governance reviewer further listed instruments that a collector verified but the environment could not fetch: Hangzhou's robot regulations, three Shenzhen special-zone regulations, Hong Kong's autonomous-vehicle regulation, Korea's robot and autonomous-vehicle decrees, DoD Directive 3000.09, California SB 243, India's Drone Rules 2021, the EU Toy Safety Regulation and Directive, France's 2021 ordinance and decree on automated-vehicle liability, Switzerland's special-category aircraft ordinance, ANSI/A3 R15.06-2025 and GB/T 48317.1; these are the first targets of a third round. What the collection shows reliably is the *route* by which binding law reaches robots: sector law (aviation, road traffic, machinery and workplace safety, medical devices) and general AI law, not robotics statutes.
 
 ![Figure 07. Documents by jurisdiction region and set (left) and the embodied share within each region (right).](../figures/F07_region_counts.png)
 
@@ -249,33 +251,33 @@ Europe supplies 42% of usable documents (1,332 of 3,165) and 48% of them are emb
 
 <em class="cap">Figure 40. Governance-gap index with 95% bootstrap intervals (research share minus principal-instrument share by robot type); the title names the categories whose interval excludes zero.</em>
 
-*Table 22. Governance-gap index with 95% bootstrap confidence intervals (2,000 resamples of research outputs n=509 and governance instruments n=505 separately)*
+*Table 22. Governance-gap index with 95% bootstrap confidence intervals (2,000 resamples of research outputs n=509 and governance instruments n=598 separately)*
 
 | category                              | level1                     |   research_pct |   n_research |   instrument_pct |   n_instruments |   gap_index |   ci_low |   ci_high | ci_excludes_zero   |
 |:--------------------------------------|:---------------------------|---------------:|-------------:|-----------------:|----------------:|------------:|---------:|----------:|:-------------------|
-| social_companion_robots               | Service & social           |           43   |          219 |              3   |              15 |        40.1 |     35.5 |      44.6 | True               |
-| humanoid_general_purpose              | Humanoid & general-purpose |           22.8 |          116 |              4   |              20 |        18.8 |     14.7 |      23   | True               |
-| care_assistive_robots                 | Service & social           |           27.5 |          140 |              8.9 |              45 |        18.6 |     13.9 |      22.9 | True               |
-| professional_service_robots           | Service & social           |           17.5 |           89 |              9.9 |              50 |         7.6 |      3.4 |      11.7 | True               |
-| surgical_medical_robots               | Medical & body-integrated  |           14.5 |           74 |              7.3 |              37 |         7.2 |      3.5 |      11   | True               |
-| educational_robots                    | Service & social           |            6.9 |           35 |              1.6 |               8 |         5.3 |      3.1 |       7.7 | True               |
-| domestic_household_robots             | Service & social           |            7.7 |           39 |              3.4 |              17 |         4.3 |      1.3 |       7.1 | True               |
-| sex_robots                            | Service & social           |            4.5 |           23 |              0.8 |               4 |         3.7 |      1.8 |       5.7 | True               |
-| other_embodied                        | Other embodied             |            4.7 |           24 |              1.2 |               6 |         3.5 |      1.6 |       5.7 | True               |
-| biohybrid_or_cyborg                   | Medical & body-integrated  |            2.2 |           11 |              0.2 |               1 |         2   |      0.8 |       3.3 | True               |
-| toys_entertainment_robots             | Service & social           |            1.2 |            6 |              0.6 |               3 |         0.6 |     -0.4 |       1.8 | False              |
-| collaborative_robots                  | Industrial & logistics     |            6.3 |           32 |              5.9 |              30 |         0.3 |     -2.6 |       3.3 | False              |
-| space_or_extreme_environment          | Vehicles & field           |            3.1 |           16 |              4   |              20 |        -0.8 |     -3   |       1.4 | False              |
-| military_autonomous_weapons           | Security & military        |           10.4 |           53 |             11.9 |              60 |        -1.5 |     -5.6 |       2.5 | False              |
-| security_policing_robots              | Security & military        |            3.1 |           16 |              4.8 |              24 |        -1.6 |     -4   |       0.8 | False              |
-| rehabilitation_exoskeleton_prosthetic | Medical & body-integrated  |            2.8 |           14 |              5.1 |              26 |        -2.4 |     -4.8 |      -0   | False              |
-| industrial_manipulators               | Industrial & logistics     |           10   |           51 |             13.3 |              67 |        -3.2 |     -7.2 |       0.7 | False              |
-| autonomous_maritime_or_rail           | Vehicles & field           |            1   |            5 |              5.5 |              28 |        -4.6 |     -6.7 |      -2.4 | True               |
-| delivery_robots                       | Industrial & logistics     |            2.2 |           11 |              7.3 |              37 |        -5.2 |     -7.9 |      -2.8 | True               |
-| agricultural_robots                   | Vehicles & field           |            2.4 |           12 |              7.7 |              39 |        -5.4 |     -7.7 |      -2.8 | True               |
-| mobile_industrial_logistics           | Industrial & logistics     |            3.1 |           16 |              9.7 |              49 |        -6.6 |     -9.7 |      -3.6 | True               |
-| autonomous_road_vehicles              | Vehicles & field           |           12.4 |           63 |             39.8 |             201 |       -27.4 |    -32.6 |     -22.1 | True               |
-| drones_uas                            | Vehicles & field           |            6.3 |           32 |             42.4 |             214 |       -36.1 |    -40.6 |     -31.2 | True               |
+| social_companion_robots               | Service & social           |           43   |          219 |              3   |              18 |        40   |     35.5 |      44.5 | True               |
+| care_assistive_robots                 | Service & social           |           27.5 |          140 |              8.5 |              51 |        19   |     14.4 |      23.6 | True               |
+| humanoid_general_purpose              | Humanoid & general-purpose |           22.8 |          116 |              3.8 |              23 |        18.9 |     14.9 |      23.1 | True               |
+| surgical_medical_robots               | Medical & body-integrated  |           14.5 |           74 |              5.9 |              35 |         8.7 |      5.1 |      12   | True               |
+| professional_service_robots           | Service & social           |           17.5 |           89 |              9.9 |              59 |         7.6 |      3.7 |      11.5 | True               |
+| educational_robots                    | Service & social           |            6.9 |           35 |              1.2 |               7 |         5.7 |      3.4 |       8   | True               |
+| domestic_household_robots             | Service & social           |            7.7 |           39 |              3.3 |              20 |         4.3 |      1.6 |       7.1 | True               |
+| sex_robots                            | Service & social           |            4.5 |           23 |              0.7 |               4 |         3.8 |      2   |       5.8 | True               |
+| other_embodied                        | Other embodied             |            4.7 |           24 |              1.2 |               7 |         3.5 |      1.6 |       5.6 | True               |
+| biohybrid_or_cyborg                   | Medical & body-integrated  |            2.2 |           11 |              0.3 |               2 |         1.8 |      0.5 |       3.2 | True               |
+| collaborative_robots                  | Industrial & logistics     |            6.3 |           32 |              5   |              30 |         1.3 |     -1.4 |       4.1 | False              |
+| toys_entertainment_robots             | Service & social           |            1.2 |            6 |              0.5 |               3 |         0.7 |     -0.4 |       1.8 | False              |
+| military_autonomous_weapons           | Security & military        |           10.4 |           53 |             10.2 |              61 |         0.2 |     -3.2 |       3.8 | False              |
+| space_or_extreme_environment          | Vehicles & field           |            3.1 |           16 |              3.3 |              20 |        -0.2 |     -2.3 |       2   | False              |
+| industrial_manipulators               | Industrial & logistics     |           10   |           51 |             11.5 |              69 |        -1.5 |     -5.2 |       2.2 | False              |
+| security_policing_robots              | Security & military        |            3.1 |           16 |              4.7 |              28 |        -1.5 |     -3.7 |       0.8 | False              |
+| rehabilitation_exoskeleton_prosthetic | Medical & body-integrated  |            2.8 |           14 |              5   |              30 |        -2.3 |     -4.5 |      -0.1 | True               |
+| autonomous_maritime_or_rail           | Vehicles & field           |            1   |            5 |              4.8 |              29 |        -3.9 |     -5.8 |      -2   | True               |
+| agricultural_robots                   | Vehicles & field           |            2.4 |           12 |              6.9 |              41 |        -4.5 |     -6.9 |      -2.1 | True               |
+| mobile_industrial_logistics           | Industrial & logistics     |            3.1 |           16 |              8.9 |              53 |        -5.7 |     -8.4 |      -3.1 | True               |
+| delivery_robots                       | Industrial & logistics     |            2.2 |           11 |              9   |              54 |        -6.9 |     -9.5 |      -4.4 | True               |
+| autonomous_road_vehicles              | Vehicles & field           |           12.4 |           63 |             41.3 |             247 |       -28.9 |    -33.6 |     -24.3 | True               |
+| drones_uas                            | Vehicles & field           |            6.3 |           32 |             43.1 |             258 |       -36.9 |    -41.3 |     -32.6 | True               |
 
 Autonomous road vehicles are the most addressed type (432 embodied documents mention them), then drones (415), companion and social robots (244), care robots (219), professional service robots (210), industrial manipulators (206), autonomous weapons (188), humanoids (170), surgical robots (146) and collaborative robots (115). The governance-gap index compares 509 research outputs with 505 principal instruments (Figure 40, Table 22) and separates three groups. Studied far more than governed: social and companion robots (43% of research outputs, 3% of instruments; gap +40 points, bootstrap interval 36 to 45; 15 instruments, none binding), humanoids (+19, 15 to 23; 20 instruments), care robots (+19, 14 to 23), professional service and surgical robots (+8 and +7), educational, domestic and sex robots (+4 to +5). Near parity, with intervals including zero: autonomous weapons (−2, −6 to 3), collaborative robots, toys, space robots, security robots, rehabilitation devices and industrial manipulators (−3, −7 to 1). Governed far more than studied: drones (6% of research, 42% of instruments; −36, −41 to −31), autonomous road vehicles (12% and 40%; −27, −33 to −22) and mobile logistics, agricultural, delivery and maritime or rail robots (−5 to −7, all intervals excluding zero). The instrument side inherits the round-2 search terms, which named drones, automated driving and machinery far more often than service robots, so the drone and vehicle gaps are partly what the search made them. Social robots are European (27% of Europe's embodied documents) and North American (15%), humanoids have their highest shares in the Middle East (22%) and Asia (15%), and drones dominate Oceania (65%), Africa (63%) and Latin America (53%). Within the embodied set, social robots fall from 20% of documents in 2020 to 2022 to 12% in 2025 to 2026 and humanoids rise from 8% to 17% (Figure 42 in the report).
 
@@ -293,63 +295,63 @@ Autonomous road vehicles are the most addressed type (432 embodied documents men
 
 | item                                           | group             |    n |   events |   events_embodied |   events_general |   sparse_cell |   crude_or |   adjusted_or |   ci_low |   ci_high |      p |   p_holm | significant_holm_05   |
 |:-----------------------------------------------|:------------------|-----:|---------:|------------------:|-----------------:|--------------:|-----------:|--------------:|---------:|----------:|-------:|---------:|:----------------------|
-| principle: Transparency                        | core              | 2526 |     1154 |               564 |              590 |             0 |       0.37 |          0.47 |     0.37 |      0.59 | 0      |   0      | True                  |
-| principle: Justice & fairness                  | core              | 2526 |      991 |               409 |              582 |             0 |       0.24 |          0.27 |     0.21 |      0.35 | 0      |   0      | True                  |
-| principle: Non-maleficence                     | core              | 2526 |     1916 |              1254 |              662 |             0 |       2.01 |          2.61 |     2.01 |      3.41 | 0      |   0      | True                  |
-| principle: Responsibility & accountability     | core              | 2526 |     1544 |               915 |              629 |             0 |       0.79 |          0.77 |     0.6  |      0.98 | 0.0336 |   0.1345 | False                 |
-| principle: Privacy                             | core              | 2526 |      929 |               433 |              496 |             0 |       0.38 |          0.51 |     0.4  |      0.65 | 0      |   0      | True                  |
-| principle: Beneficence                         | core              | 2526 |     1527 |               760 |              767 |             0 |       0.26 |          0.42 |     0.32 |      0.54 | 0      |   0      | True                  |
-| principle: Freedom & autonomy                  | core              | 2526 |      568 |               316 |              252 |             0 |       0.74 |          0.68 |     0.51 |      0.9  | 0.008  |   0.0644 | False                 |
-| principle: Trust                               | core              | 2526 |      975 |               455 |              520 |             0 |       0.36 |          0.55 |     0.43 |      0.7  | 0      |   0      | True                  |
-| principle: Sustainability                      | core              | 2526 |      637 |               276 |              361 |             0 |       0.37 |          0.65 |     0.5  |      0.84 | 0.0009 |   0.01   | True                  |
-| principle: Dignity                             | core              | 2526 |      500 |               291 |              209 |             0 |       0.85 |          0.76 |     0.57 |      1.03 | 0.0765 |   0.2295 | False                 |
-| principle: Solidarity                          | core              | 2526 |      598 |               241 |              357 |             0 |       0.32 |          0.42 |     0.32 |      0.55 | 0      |   0      | True                  |
-| principle: Human oversight                     | core              | 2526 |      989 |               670 |              319 |             0 |       1.57 |          1.7  |     1.34 |      2.15 | 0      |   0.0002 | True                  |
-| principle: Robustness & security               | core              | 2526 |     1298 |               774 |              524 |             0 |       0.86 |          1.38 |     1.08 |      1.76 | 0.0096 |   0.067  | False                 |
-| principle: Inclusive growth                    | core              | 2526 |     1308 |               567 |              741 |             0 |       0.18 |          0.43 |     0.33 |      0.55 | 0      |   0      | True                  |
-| principle: Physical safety                     | embodied-specific | 2526 |     1082 |              1036 |               46 |             0 |      40.75 |         45.18 |    31.2  |     65.42 | 0      |   0      | True                  |
-| principle: Human-robot proximity               | embodied-specific | 2526 |      672 |               668 |                4 |             1 |     184.04 |        140.4  |    51.13 |    385.58 | 0      |   0      | True                  |
-| principle: Liability for physical damage       | embodied-specific | 2526 |      343 |               330 |               13 |             0 |      20.04 |         20.96 |    11.23 |     39.12 | 0      |   0      | True                  |
-| principle: Autonomy level & control            | embodied-specific | 2526 |      809 |               757 |               52 |             0 |      16.96 |         16.69 |    11.67 |     23.87 | 0      |   0      | True                  |
-| principle: Conformity assessment               | embodied-specific | 2526 |      722 |               599 |              123 |             0 |       4.37 |          5.94 |     4.47 |      7.89 | 0      |   0      | True                  |
-| principle: Dual use & military                 | embodied-specific | 2526 |      323 |               252 |               71 |             0 |       2.47 |          3.28 |     2.28 |      4.72 | 0      |   0      | True                  |
-| mechanism: Audits impact assessment            | mechanism         | 2526 |      718 |               nan |              nan |           nan |       0.52 |          0.72 |     0.56 |      0.93 | 0.0106 |   0.067  | False                 |
-| mechanism: Conformity assessment certification | mechanism         | 2526 |      381 |               nan |              nan |           nan |       2.9  |          4.19 |     2.98 |      5.88 | 0      |   0      | True                  |
-| mechanism: Data governance requirements        | mechanism         | 2526 |      352 |               nan |              nan |           nan |       0.45 |          0.77 |     0.56 |      1.05 | 0.1013 |   0.2295 | False                 |
-| mechanism: Education training programs         | mechanism         | 2526 |      710 |               nan |              nan |           nan |       0.32 |          0.75 |     0.58 |      0.96 | 0.0236 |   0.1181 | False                 |
-| mechanism: Funding or incentives               | mechanism         | 2526 |      629 |               nan |              nan |           nan |       0.28 |          0.62 |     0.47 |      0.8  | 0.0003 |   0.004  | True                  |
-| mechanism: Human oversight requirement         | mechanism         | 2526 |      344 |               nan |              nan |           nan |       1.22 |          1.94 |     1.4  |      2.68 | 0.0001 |   0.0009 | True                  |
-| mechanism: Incident reporting                  | mechanism         | 2526 |      237 |               nan |              nan |           nan |       1.43 |          1.86 |     1.26 |      2.73 | 0.0017 |   0.0173 | True                  |
-| mechanism: Insurance requirement               | mechanism         | 2526 |      128 |               nan |              nan |           nan |       7.96 |          6.98 |     3.28 |     14.86 | 0      |   0      | True                  |
-| mechanism: International cooperation           | mechanism         | 2526 |      749 |               nan |              nan |           nan |       0.32 |          0.59 |     0.46 |      0.75 | 0      |   0.0004 | True                  |
-| mechanism: Liability regime                    | mechanism         | 2526 |      178 |               nan |              nan |           nan |       2.84 |          3.47 |     2.08 |      5.78 | 0      |   0      | True                  |
-| mechanism: Licensing registration              | mechanism         | 2526 |      387 |               nan |              nan |           nan |       4.67 |          4.01 |     2.66 |      6.06 | 0      |   0      | True                  |
-| mechanism: Oversight body creation             | mechanism         | 2526 |      687 |               nan |              nan |           nan |       0.27 |          0.51 |     0.4  |      0.66 | 0      |   0      | True                  |
-| mechanism: Prohibitions bans                   | mechanism         | 2526 |      266 |               nan |              nan |           nan |       1.22 |          1.68 |     1.17 |      2.42 | 0.0054 |   0.0484 | True                  |
-| mechanism: Risk based tiering                  | mechanism         | 2526 |      310 |               nan |              nan |           nan |       0.41 |          1    |     0.73 |      1.38 | 0.984  |   0.984  | False                 |
-| mechanism: Self regulation codes               | mechanism         | 2526 |      245 |               nan |              nan |           nan |       0.33 |          0.51 |     0.35 |      0.75 | 0.0005 |   0.0057 | True                  |
-| mechanism: Technical standards reference       | mechanism         | 2526 |      876 |               nan |              nan |           nan |       2.54 |          3.86 |     2.92 |      5.09 | 0      |   0      | True                  |
-| mechanism: Testing sandboxes                   | mechanism         | 2526 |      518 |               nan |              nan |           nan |       0.9  |          1.75 |     1.33 |      2.31 | 0.0001 |   0.0009 | True                  |
-| mechanism: Transparency disclosure labelling   | mechanism         | 2526 |      424 |               nan |              nan |           nan |       0.33 |          0.53 |     0.39 |      0.71 | 0      |   0.0003 | True                  |
+| principle: Transparency                        | core              | 2638 |     1223 |               624 |              599 |             0 |       0.39 |          0.49 |     0.39 |      0.62 | 0      |   0      | True                  |
+| principle: Justice & fairness                  | core              | 2638 |     1023 |               433 |              590 |             0 |       0.24 |          0.27 |     0.21 |      0.35 | 0      |   0      | True                  |
+| principle: Non-maleficence                     | core              | 2638 |     2015 |              1344 |              671 |             0 |       2.05 |          2.61 |     2.01 |      3.39 | 0      |   0      | True                  |
+| principle: Responsibility & accountability     | core              | 2638 |     1651 |              1012 |              639 |             0 |       0.86 |          0.79 |     0.62 |      1.01 | 0.0571 |   0.1714 | False                 |
+| principle: Privacy                             | core              | 2638 |      998 |               492 |              506 |             0 |       0.4  |          0.53 |     0.41 |      0.67 | 0      |   0      | True                  |
+| principle: Beneficence                         | core              | 2638 |     1580 |               804 |              776 |             0 |       0.26 |          0.42 |     0.33 |      0.54 | 0      |   0      | True                  |
+| principle: Freedom & autonomy                  | core              | 2638 |      588 |               329 |              259 |             0 |       0.7  |          0.65 |     0.49 |      0.86 | 0.0024 |   0.0196 | True                  |
+| principle: Trust                               | core              | 2638 |      994 |               467 |              527 |             0 |       0.34 |          0.52 |     0.41 |      0.67 | 0      |   0      | True                  |
+| principle: Sustainability                      | core              | 2638 |      671 |               303 |              368 |             0 |       0.38 |          0.64 |     0.5  |      0.82 | 0.0004 |   0.0052 | True                  |
+| principle: Dignity                             | core              | 2638 |      506 |               293 |              213 |             0 |       0.78 |          0.72 |     0.53 |      0.97 | 0.0299 |   0.1195 | False                 |
+| principle: Solidarity                          | core              | 2638 |      611 |               248 |              363 |             0 |       0.3  |          0.4  |     0.3  |      0.52 | 0      |   0      | True                  |
+| principle: Human oversight                     | core              | 2638 |     1051 |               728 |              323 |             0 |       1.62 |          1.73 |     1.37 |      2.19 | 0      |   0.0001 | True                  |
+| principle: Robustness & security               | core              | 2638 |     1371 |               838 |              533 |             0 |       0.87 |          1.36 |     1.07 |      1.73 | 0.0118 |   0.071  | False                 |
+| principle: Inclusive growth                    | core              | 2638 |     1381 |               632 |              749 |             0 |       0.2  |          0.44 |     0.34 |      0.57 | 0      |   0      | True                  |
+| principle: Physical safety                     | embodied-specific | 2638 |     1176 |              1129 |               47 |             0 |      43.13 |         46.96 |    32.61 |     67.63 | 0      |   0      | True                  |
+| principle: Human-robot proximity               | embodied-specific | 2638 |      707 |               703 |                4 |             1 |     181.86 |        146.79 |    53.43 |    403.29 | 0      |   0      | True                  |
+| principle: Liability for physical damage       | embodied-specific | 2638 |      414 |               400 |               14 |             0 |      22.18 |         21.75 |    11.94 |     39.6  | 0      |   0      | True                  |
+| principle: Autonomy level & control            | embodied-specific | 2638 |      873 |               820 |               53 |             0 |      17.35 |         16.83 |    11.81 |     23.99 | 0      |   0      | True                  |
+| principle: Conformity assessment               | embodied-specific | 2638 |      808 |               680 |              128 |             0 |       4.69 |          6.15 |     4.65 |      8.13 | 0      |   0      | True                  |
+| principle: Dual use & military                 | embodied-specific | 2638 |      341 |               267 |               74 |             0 |       2.38 |          3.13 |     2.19 |      4.48 | 0      |   0      | True                  |
+| mechanism: Audits impact assessment            | mechanism         | 2638 |      755 |               nan |              nan |           nan |       0.52 |          0.7  |     0.55 |      0.9  | 0.0045 |   0.0312 | True                  |
+| mechanism: Conformity assessment certification | mechanism         | 2638 |      437 |               nan |              nan |           nan |       3.23 |          4.5  |     3.22 |      6.27 | 0      |   0      | True                  |
+| mechanism: Data governance requirements        | mechanism         | 2638 |      397 |               nan |              nan |           nan |       0.53 |          0.82 |     0.61 |      1.11 | 0.2032 |   0.4063 | False                 |
+| mechanism: Education training programs         | mechanism         | 2638 |      744 |               nan |              nan |           nan |       0.33 |          0.73 |     0.57 |      0.94 | 0.0131 |   0.071  | False                 |
+| mechanism: Funding or incentives               | mechanism         | 2638 |      674 |               nan |              nan |           nan |       0.31 |          0.63 |     0.49 |      0.82 | 0.0005 |   0.0052 | True                  |
+| mechanism: Human oversight requirement         | mechanism         | 2638 |      379 |               nan |              nan |           nan |       1.27 |          1.82 |     1.33 |      2.5  | 0.0002 |   0.0025 | True                  |
+| mechanism: Incident reporting                  | mechanism         | 2638 |      294 |               nan |              nan |           nan |       1.82 |          2.2  |     1.52 |      3.19 | 0      |   0.0005 | True                  |
+| mechanism: Insurance requirement               | mechanism         | 2638 |      183 |               nan |              nan |           nan |       9.37 |          7.37 |     3.7  |     14.67 | 0      |   0      | True                  |
+| mechanism: International cooperation           | mechanism         | 2638 |      781 |               nan |              nan |           nan |       0.32 |          0.57 |     0.45 |      0.73 | 0      |   0.0001 | True                  |
+| mechanism: Liability regime                    | mechanism         | 2638 |      217 |               nan |              nan |           nan |       3.14 |          3.35 |     2.07 |      5.41 | 0      |   0      | True                  |
+| mechanism: Licensing registration              | mechanism         | 2638 |      470 |               nan |              nan |           nan |       5.68 |          4.64 |     3.11 |      6.92 | 0      |   0      | True                  |
+| mechanism: Oversight body creation             | mechanism         | 2638 |      761 |               nan |              nan |           nan |       0.32 |          0.54 |     0.42 |      0.69 | 0      |   0      | True                  |
+| mechanism: Prohibitions bans                   | mechanism         | 2638 |      305 |               nan |              nan |           nan |       1.41 |          1.78 |     1.25 |      2.55 | 0.0015 |   0.0133 | True                  |
+| mechanism: Risk based tiering                  | mechanism         | 2638 |      331 |               nan |              nan |           nan |       0.44 |          0.98 |     0.71 |      1.34 | 0.9009 |   0.9009 | False                 |
+| mechanism: Self regulation codes               | mechanism         | 2638 |      261 |               nan |              nan |           nan |       0.34 |          0.55 |     0.39 |      0.79 | 0.0013 |   0.0133 | True                  |
+| mechanism: Technical standards reference       | mechanism         | 2638 |      946 |               nan |              nan |           nan |       2.58 |          3.72 |     2.83 |      4.89 | 0      |   0      | True                  |
+| mechanism: Testing sandboxes                   | mechanism         | 2638 |      571 |               nan |              nan |           nan |       0.99 |          1.73 |     1.33 |      2.27 | 0.0001 |   0.0008 | True                  |
+| mechanism: Transparency disclosure labelling   | mechanism         | 2638 |      467 |               nan |              nan |           nan |       0.37 |          0.55 |     0.41 |      0.73 | 0      |   0.0005 | True                  |
 
 *Table 34. Core principles: Mantel-Haenszel odds ratios (embodied vs general) stratified by document class, with Holm correction*
 
 | principle                       |   strata |   mh_odds_ratio |   ci_low |   ci_high |      p |   p_holm |
 |:--------------------------------|---------:|----------------:|---------:|----------:|-------:|---------:|
-| Transparency                    |        7 |            0.28 |     0.23 |      0.34 | 0      |   0      |
-| Justice & fairness              |        7 |            0.16 |     0.13 |      0.2  | 0      |   0      |
-| Non-maleficence                 |        7 |            1.78 |     1.45 |      2.18 | 0      |   0      |
-| Responsibility & accountability |        7 |            0.55 |     0.46 |      0.67 | 0      |   0      |
-| Privacy                         |        7 |            0.26 |     0.22 |      0.32 | 0      |   0      |
-| Beneficence                     |        7 |            0.26 |     0.21 |      0.31 | 0      |   0      |
-| Freedom & autonomy              |        7 |            0.4  |     0.31 |      0.5  | 0      |   0      |
-| Trust                           |        7 |            0.29 |     0.24 |      0.36 | 0      |   0      |
-| Sustainability                  |        7 |            0.43 |     0.35 |      0.52 | 0      |   0      |
-| Dignity                         |        7 |            0.53 |     0.42 |      0.68 | 0      |   0      |
-| Solidarity                      |        7 |            0.3  |     0.24 |      0.38 | 0      |   0      |
-| Human oversight                 |        7 |            1.38 |     1.15 |      1.66 | 0.0003 |   0.0006 |
-| Robustness & security           |        7 |            0.94 |     0.78 |      1.14 | 0.5592 |   0.5592 |
-| Inclusive growth                |        7 |            0.29 |     0.24 |      0.35 | 0      |   0      |
+| Transparency                    |        7 |            0.29 |     0.24 |      0.35 | 0      |   0      |
+| Justice & fairness              |        7 |            0.17 |     0.14 |      0.2  | 0      |   0      |
+| Non-maleficence                 |        7 |            1.79 |     1.47 |      2.19 | 0      |   0      |
+| Responsibility & accountability |        7 |            0.58 |     0.48 |      0.7  | 0      |   0      |
+| Privacy                         |        7 |            0.28 |     0.23 |      0.34 | 0      |   0      |
+| Beneficence                     |        7 |            0.26 |     0.22 |      0.32 | 0      |   0      |
+| Freedom & autonomy              |        7 |            0.4  |     0.32 |      0.5  | 0      |   0      |
+| Trust                           |        7 |            0.29 |     0.24 |      0.35 | 0      |   0      |
+| Sustainability                  |        7 |            0.43 |     0.35 |      0.53 | 0      |   0      |
+| Dignity                         |        7 |            0.51 |     0.4  |      0.65 | 0      |   0      |
+| Solidarity                      |        7 |            0.3  |     0.24 |      0.37 | 0      |   0      |
+| Human oversight                 |        7 |            1.4  |     1.17 |      1.68 | 0.0001 |   0.0003 |
+| Robustness & security           |        7 |            0.94 |     0.78 |      1.13 | 0.519  |   0.519  |
+| Inclusive growth                |        7 |            0.31 |     0.26 |      0.37 | 0      |   0      |
 
 The within-round comparison (Table 20b, Section 5.2) is the primary result for Q3: within round-1 instruments no core principle differs, within round-2 instruments ten are lower, and in both rounds and both genres the embodied-specific considerations differ sharply. The pooled analyses agree once that is known. Within principal instruments pooled over rounds (505 against 372; Figure 39, Table 21 in the report), all six embodied-specific considerations are higher in the embodied set (physical safety 83% against 9%, conformity assessment 66% against 19%, autonomy-level control 60% against 10%, dual use 21% against 12%), ten core principles are lower (from dignity, 11% against 28%, to justice and fairness, 23% against 69%), non-maleficence (89% against 79%) and human oversight (58% against 46%) are higher, and accountability and robustness do not differ; within research outputs (509 against 48) four considerations differ and inclusive growth is the only core principle that does (22% against 54%). Adjusting for class, region, collection round and year (Table 20, n = 2,526), the embodied-specific considerations keep large odds ratios (physical safety 45, liability 21, autonomy-level control 17, conformity assessment 6.0, dual use 3.3; the proximity ratio rests on four general-set events and is flagged, not interpreted); eight core principles are lower (odds ratios 0.27 for justice to 0.65 for sustainability), non-maleficence (2.6) and human oversight (1.7) are higher, and accountability, freedom, dignity and robustness do not differ after correction. The Mantel-Haenszel analysis stratified by class alone (Table 34), which does not adjust for round, finds eleven lower; the three the round covariate removes (accountability, freedom, dignity) are the ones Table 20b shows to be round-2 artefacts, and the remaining eight should be read as a property of harvested legal texts rather than of robot governance as such.
 
@@ -361,30 +363,30 @@ The within-round comparison (Table 20b, Section 5.2) is the primary result for Q
 
 | group                |   n | principle                           | label                         |   any_pct |   substantive_pct |
 |:---------------------|----:|:------------------------------------|:------------------------------|----------:|------------------:|
-| Binding instruments  | 195 | physical_safety                     | Physical safety               |      89.2 |              61.5 |
-| Binding instruments  | 195 | human_robot_proximity               | Human-robot proximity         |      29.7 |               5.6 |
-| Binding instruments  | 195 | liability_for_physical_damage       | Liability for physical damage |      33.3 |              17.9 |
-| Binding instruments  | 195 | autonomy_level_control              | Autonomy level & control      |      61   |              24.6 |
-| Binding instruments  | 195 | conformity_assessment_certification | Conformity assessment         |      70.3 |              47.2 |
-| Binding instruments  | 195 | dual_use_military                   | Dual use & military           |      15.9 |               4.1 |
-| Soft-law instruments | 207 | physical_safety                     | Physical safety               |      73.4 |              32.9 |
-| Soft-law instruments | 207 | human_robot_proximity               | Human-robot proximity         |      37.7 |               9.7 |
-| Soft-law instruments | 207 | liability_for_physical_damage       | Liability for physical damage |      27.5 |               4.8 |
-| Soft-law instruments | 207 | autonomy_level_control              | Autonomy level & control      |      57   |              20.3 |
-| Soft-law instruments | 207 | conformity_assessment_certification | Conformity assessment         |      60.9 |              24.6 |
-| Soft-law instruments | 207 | dual_use_military                   | Dual use & military           |      25.1 |              13.5 |
+| Binding instruments  | 278 | physical_safety                     | Physical safety               |      90.6 |              60.1 |
+| Binding instruments  | 278 | human_robot_proximity               | Human-robot proximity         |      30.6 |               5.8 |
+| Binding instruments  | 278 | liability_for_physical_damage       | Liability for physical damage |      44.2 |              22.7 |
+| Binding instruments  | 278 | autonomy_level_control              | Autonomy level & control      |      61.5 |              26.3 |
+| Binding instruments  | 278 | conformity_assessment_certification | Conformity assessment         |      72.3 |              47.5 |
+| Binding instruments  | 278 | dual_use_military                   | Dual use & military           |      15.8 |               3.6 |
+| Soft-law instruments | 212 | physical_safety                     | Physical safety               |      74.5 |              33.5 |
+| Soft-law instruments | 212 | human_robot_proximity               | Human-robot proximity         |      38.7 |               9.4 |
+| Soft-law instruments | 212 | liability_for_physical_damage       | Liability for physical damage |      28.8 |               6.6 |
+| Soft-law instruments | 212 | autonomy_level_control              | Autonomy level & control      |      57.1 |              20.8 |
+| Soft-law instruments | 212 | conformity_assessment_certification | Conformity assessment         |      62.7 |              25   |
+| Soft-law instruments | 212 | dual_use_military                   | Dual use & military           |      24.1 |              12.3 |
 | Technical standards  |  62 | physical_safety                     | Physical safety               |      95.2 |              67.7 |
 | Technical standards  |  62 | human_robot_proximity               | Human-robot proximity         |      40.3 |               9.7 |
 | Technical standards  |  62 | liability_for_physical_damage       | Liability for physical damage |       3.2 |               0   |
 | Technical standards  |  62 | autonomy_level_control              | Autonomy level & control      |      59.7 |              22.6 |
 | Technical standards  |  62 | conformity_assessment_certification | Conformity assessment         |      71   |              21   |
 | Technical standards  |  62 | dual_use_military                   | Dual use & military           |       0   |               0   |
-| Proposals / drafts   |  77 | physical_safety                     | Physical safety               |      84.4 |              32.5 |
-| Proposals / drafts   |  77 | human_robot_proximity               | Human-robot proximity         |      27.3 |               5.2 |
-| Proposals / drafts   |  77 | liability_for_physical_damage       | Liability for physical damage |      19.5 |               5.2 |
-| Proposals / drafts   |  77 | autonomy_level_control              | Autonomy level & control      |      66.2 |              31.2 |
-| Proposals / drafts   |  77 | conformity_assessment_certification | Conformity assessment         |      57.1 |              24.7 |
-| Proposals / drafts   |  77 | dual_use_military                   | Dual use & military           |      32.5 |              24.7 |
+| Proposals / drafts   |  83 | physical_safety                     | Physical safety               |      81.9 |              31.3 |
+| Proposals / drafts   |  83 | human_robot_proximity               | Human-robot proximity         |      26.5 |               4.8 |
+| Proposals / drafts   |  83 | liability_for_physical_damage       | Liability for physical damage |      22.9 |               7.2 |
+| Proposals / drafts   |  83 | autonomy_level_control              | Autonomy level & control      |      63.9 |              31.3 |
+| Proposals / drafts   |  83 | conformity_assessment_certification | Conformity assessment         |      55.4 |              24.1 |
+| Proposals / drafts   |  83 | dual_use_military                   | Dual use & military           |      32.5 |              24.1 |
 | Research outputs     | 509 | physical_safety                     | Physical safety               |      43.6 |               9.4 |
 | Research outputs     | 509 | human_robot_proximity               | Human-robot proximity         |      71.3 |              34.4 |
 | Research outputs     | 509 | liability_for_physical_damage       | Liability for physical damage |      25   |              12.8 |
@@ -398,28 +400,28 @@ Figure 23 and Table 9 show which document types specify the embodied considerati
 
 <em class="cap">Figure 24. Governance mechanisms by set: principal governance instruments only (left, the fair comparison) and all documents (right, genre-confounded).</em>
 
-*Table 10. Governance mechanisms by set (all usable documents; instrument-only shares for governance documents, embodied n=822, general n=409)*
+*Table 10. Governance mechanisms by set (all usable documents; instrument-only shares for governance documents, embodied n=921, general n=419)*
 
 | mechanism                           |   embodied_pct |   general_pct |   embodied_instruments_pct |   general_instruments_pct | test       |      p |   p_holm |
 |:------------------------------------|---------------:|--------------:|---------------------------:|--------------------------:|:-----------|-------:|---------:|
-| technical_standards_reference       |           42.6 |          22.2 |                       67.6 |                      38.1 | chi-square | 0      |   0      |
-| audits_impact_assessment            |           23   |          36.4 |                       30.2 |                      56   | chi-square | 0      |   0      |
-| licensing_registration              |           22.4 |           5.5 |                       36   |                      10.5 | chi-square | 0      |   0      |
-| conformity_assessment_certification |           20   |           8   |                       31.4 |                      12   | chi-square | 0      |   0      |
-| international_cooperation           |           20   |          43.5 |                       23.7 |                      52.8 | chi-square | 0      |   0      |
-| testing_sandboxes                   |           19.4 |          20.8 |                       27.5 |                      29.6 | chi-square | 0.4149 |   0.4149 |
-| education_training_programs         |           19   |          42   |                       23.2 |                      49.4 | chi-square | 0      |   0      |
-| oversight_body_creation             |           17.3 |          42.8 |                       25.8 |                      53.1 | chi-square | 0      |   0      |
-| funding_or_incentives               |           15.4 |          38.8 |                       20.2 |                      45   | chi-square | 0      |   0      |
-| human_oversight_requirement         |           14.6 |          11.7 |                       19.5 |                      19.3 | chi-square | 0.0415 |   0.1245 |
-| prohibitions_bans                   |           11.2 |           9.2 |                       14.8 |                      10.8 | chi-square | 0.1052 |   0.2105 |
-| transparency_disclosure_labelling   |           10.9 |          25.8 |                       15   |                      39.9 | chi-square | 0      |   0      |
-| incident_reporting                  |           10.7 |           7.3 |                       17.2 |                      14.7 | chi-square | 0.0041 |   0.0164 |
-| data_governance_requirements        |            9.9 |          19.4 |                       14.7 |                      33.7 | chi-square | 0      |   0      |
-| liability_regime                    |            9.1 |           3.3 |                        7.4 |                       5.1 | chi-square | 0      |   0      |
-| risk_based_tiering                  |            8.3 |          17.7 |                       11.9 |                      22.5 | chi-square | 0      |   0      |
-| insurance_requirement               |            7.4 |           1   |                       10.6 |                       1.7 | chi-square | 0      |   0      |
-| self_regulation_codes               |            5.7 |          15.7 |                        4.6 |                      22.5 | chi-square | 0      |   0      |
+| technical_standards_reference       |           43.5 |          22.7 |                       66.7 |                      39.1 | chi-square | 0      |   0      |
+| licensing_registration              |           25.9 |           5.6 |                       40.9 |                      10.5 | chi-square | 0      |   0      |
+| audits_impact_assessment            |           23.6 |          36.7 |                       30.6 |                      56.3 | chi-square | 0      |   0      |
+| conformity_assessment_certification |           21.8 |           8.1 |                       33.3 |                      12.2 | chi-square | 0      |   0      |
+| testing_sandboxes                   |           21.1 |          21.1 |                       29.6 |                      30.1 | chi-square | 1      |   1      |
+| oversight_body_creation             |           20.5 |          42.9 |                       30.6 |                      53.2 | chi-square | 0      |   0      |
+| international_cooperation           |           20.2 |          43.8 |                       23.7 |                      53.2 | chi-square | 0      |   0      |
+| education_training_programs         |           19.4 |          42.2 |                       23.5 |                      49.9 | chi-square | 0      |   0      |
+| funding_or_incentives               |           16.7 |          39.1 |                       21.9 |                      45.6 | chi-square | 0      |   0      |
+| human_oversight_requirement         |           15.4 |          12.1 |                       20.4 |                      20   | chi-square | 0.0202 |   0.0404 |
+| incident_reporting                  |           13.4 |           7.4 |                       21.4 |                      14.8 | chi-square | 0      |   0      |
+| prohibitions_bans                   |           12.9 |           9.2 |                       17.6 |                      10.7 | chi-square | 0.0037 |   0.0111 |
+| transparency_disclosure_labelling   |           12.3 |          26.3 |                       17.3 |                      40.8 | chi-square | 0      |   0      |
+| data_governance_requirements        |           11.7 |          19.7 |                       17.7 |                      34.1 | chi-square | 0      |   0      |
+| liability_regime                    |           10.7 |           3.6 |                       10.5 |                       5.7 | chi-square | 0      |   0      |
+| insurance_requirement               |           10.1 |           1.2 |                       15.2 |                       2.1 | chi-square | 0      |   0      |
+| risk_based_tiering                  |            8.8 |          17.9 |                       12.4 |                      22.7 | chi-square | 0      |   0      |
+| self_regulation_codes               |            6.1 |          15.9 |                        5.3 |                      22.9 | chi-square | 0      |   0      |
 
 Among principal instruments (505 against 372; Table 21), embodied rules refer to technical standards (65% against 35%), use licensing and registration (44% against 10%), conformity assessment (42% against 12%) and insurance requirements (15% against 2%) more often, and audits, oversight bodies, international cooperation, education, funding, data governance, labelling obligations and self-regulation codes less often, all Holm-significant; incident reporting, prohibitions and liability regimes are modestly higher, and human-oversight requirements, risk-based tiering and testing or sandboxes do not differ at these sizes (Figure 24, left; Table 10 gives the shares among all governance documents). The adjusted models (Table 20) confirm insurance (7.0), conformity assessment (4.2), licensing (4.1), standards references (3.9) and liability regimes (3.5), add human-oversight requirements, incident reporting, testing and prohibitions (1.7 to 1.9), and confirm the lower use of oversight bodies, self-regulation, labelling, international cooperation and funding (0.51 to 0.62); risk-based tiering is at 1.00 after adjustment.
 
@@ -435,44 +437,44 @@ The two sets cite different instruments (Figure 29): general-AI documents the AI
 
 | item                                            | population                    |    n |   v_bias_corrected |   ci_low |   ci_high | test                     |      p |   p_holm |
 |:------------------------------------------------|:------------------------------|-----:|-------------------:|---------:|----------:|:-------------------------|-------:|---------:|
-| mechanism: Reference to technical standards     | embodied documents, 6 regions | 1576 |              0.353 |    0.31  |     0.398 | chi-square               | 0      |   0      |
-| mechanism: Licensing & registration             | embodied documents, 6 regions | 1576 |              0.34  |    0.298 |     0.399 | chi-square               | 0      |   0      |
-| principle: Beneficence                          | embodied documents, 6 regions | 1576 |              0.333 |    0.297 |     0.387 | chi-square               | 0      |   0      |
-| principle: Trust                                | embodied documents, 6 regions | 1576 |              0.298 |    0.255 |     0.353 | chi-square               | 0      |   0      |
-| mechanism: Liability regime                     | embodied documents, 6 regions | 1576 |              0.277 |    0.213 |     0.354 | chi-square               | 0      |   0      |
-| principle: Freedom & autonomy                   | embodied documents, 6 regions | 1576 |              0.268 |    0.227 |     0.315 | chi-square               | 0      |   0      |
-| principle: Privacy                              | embodied documents, 6 regions | 1576 |              0.262 |    0.219 |     0.306 | chi-square               | 0      |   0      |
-| principle: Responsibility & accountability      | embodied documents, 6 regions | 1576 |              0.245 |    0.202 |     0.3   | chi-square               | 0      |   0      |
-| principle: Liability for physical damage        | embodied documents, 6 regions | 1576 |              0.241 |    0.21  |     0.285 | chi-square               | 0      |   0      |
-| principle: Inclusive growth                     | embodied documents, 6 regions | 1576 |              0.232 |    0.196 |     0.288 | chi-square               | 0      |   0      |
-| principle: Human-robot proximity                | embodied documents, 6 regions | 1576 |              0.229 |    0.188 |     0.285 | chi-square               | 0      |   0      |
-| principle: Dignity                              | embodied documents, 6 regions | 1576 |              0.224 |    0.186 |     0.28  | chi-square               | 0      |   0      |
-| principle: Justice & fairness                   | embodied documents, 6 regions | 1576 |              0.223 |    0.185 |     0.277 | chi-square               | 0      |   0      |
-| mechanism: Funding & incentives                 | embodied documents, 6 regions | 1576 |              0.216 |    0.177 |     0.262 | chi-square               | 0      |   0      |
-| principle: Robustness & security                | embodied documents, 6 regions | 1576 |              0.199 |    0.156 |     0.257 | chi-square               | 0      |   0      |
-| mechanism: Prohibitions & bans                  | embodied documents, 6 regions | 1576 |              0.184 |    0.129 |     0.26  | chi-square               | 0      |   0      |
-| mechanism: Insurance requirement                | embodied documents, 6 regions | 1576 |              0.176 |    0.143 |     0.237 | chi-square               | 0      |   0      |
-| principle: Sustainability                       | embodied documents, 6 regions | 1576 |              0.176 |    0.145 |     0.229 | chi-square               | 0      |   0      |
-| principle: Transparency                         | embodied documents, 6 regions | 1576 |              0.173 |    0.132 |     0.236 | chi-square               | 0      |   0      |
-| mechanism: Incident reporting                   | embodied documents, 6 regions | 1576 |              0.171 |    0.126 |     0.237 | chi-square               | 0      |   0      |
-| mechanism: Risk-based tiering                   | embodied documents, 6 regions | 1576 |              0.164 |    0.102 |     0.241 | chi-square               | 0      |   0      |
-| mechanism: Creation of an oversight body        | embodied documents, 6 regions | 1576 |              0.159 |    0.118 |     0.221 | chi-square               | 0      |   0      |
-| principle: Conformity assessment                | embodied documents, 6 regions | 1576 |              0.151 |    0.111 |     0.207 | chi-square               | 0      |   0      |
-| principle: Physical safety                      | embodied documents, 6 regions | 1576 |              0.149 |    0.11  |     0.202 | chi-square               | 0      |   0      |
-| principle: Solidarity                           | embodied documents, 6 regions | 1576 |              0.137 |    0.091 |     0.188 | chi-square               | 0      |   0      |
-| principle: Non-maleficence                      | embodied documents, 6 regions | 1576 |              0.134 |    0.089 |     0.196 | chi-square               | 0      |   0.0001 |
-| principle: Human oversight                      | embodied documents, 6 regions | 1576 |              0.131 |    0.09  |     0.189 | chi-square               | 0      |   0.0001 |
-| principle: Autonomy level & control             | embodied documents, 6 regions | 1576 |              0.128 |    0.091 |     0.187 | chi-square               | 0      |   0.0002 |
-| mechanism: Education & training programmes      | embodied documents, 6 regions | 1576 |              0.124 |    0.083 |     0.183 | chi-square               | 0      |   0.0004 |
-| mechanism: International cooperation            | embodied documents, 6 regions | 1576 |              0.107 |    0.071 |     0.167 | chi-square               | 0.0005 |   0.0044 |
-| mechanism: Human-oversight requirement          | embodied documents, 6 regions | 1576 |              0.103 |    0.045 |     0.178 | chi-square               | 0.001  |   0.0077 |
-| mechanism: Data-governance requirements         | embodied documents, 6 regions | 1576 |              0.097 |    0.06  |     0.146 | chi-square               | 0.0021 |   0.0144 |
-| principle: Dual use & military                  | embodied documents, 6 regions | 1576 |              0.092 |    0.046 |     0.155 | chi-square               | 0.0038 |   0.0226 |
-| mechanism: Testing & sandboxes                  | embodied documents, 6 regions | 1576 |              0.087 |    0.051 |     0.154 | chi-square               | 0.0062 |   0.0311 |
-| mechanism: Conformity assessment                | embodied documents, 6 regions | 1576 |              0.07  |    0.019 |     0.138 | chi-square               | 0.034  |   0.1359 |
-| mechanism: Audits & impact assessment           | embodied documents, 6 regions | 1576 |              0.059 |    0     |     0.137 | chi-square               | 0.0746 |   0.2237 |
-| mechanism: Transparency, disclosure & labelling | embodied documents, 6 regions | 1576 |              0.054 |    0     |     0.147 | chi-square               | 0.1019 |   0.2237 |
-| mechanism: Self-regulation & codes              | embodied documents, 6 regions | 1576 |              0.028 |    0     |     0.108 | chi-square (Monte Carlo) | 0.8803 |   0.8803 |
+| mechanism: Licensing & registration             | embodied documents, 6 regions | 1675 |              0.346 |    0.311 |     0.4   | chi-square               | 0      |   0      |
+| mechanism: Reference to technical standards     | embodied documents, 6 regions | 1675 |              0.338 |    0.296 |     0.386 | chi-square               | 0      |   0      |
+| principle: Beneficence                          | embodied documents, 6 regions | 1675 |              0.324 |    0.289 |     0.369 | chi-square               | 0      |   0      |
+| principle: Trust                                | embodied documents, 6 regions | 1675 |              0.292 |    0.248 |     0.341 | chi-square               | 0      |   0      |
+| principle: Freedom & autonomy                   | embodied documents, 6 regions | 1675 |              0.265 |    0.228 |     0.31  | chi-square               | 0      |   0      |
+| principle: Privacy                              | embodied documents, 6 regions | 1675 |              0.259 |    0.225 |     0.3   | chi-square               | 0      |   0      |
+| mechanism: Liability regime                     | embodied documents, 6 regions | 1675 |              0.256 |    0.204 |     0.326 | chi-square               | 0      |   0      |
+| principle: Inclusive growth                     | embodied documents, 6 regions | 1675 |              0.249 |    0.214 |     0.297 | chi-square               | 0      |   0      |
+| mechanism: Funding & incentives                 | embodied documents, 6 regions | 1675 |              0.248 |    0.211 |     0.295 | chi-square               | 0      |   0      |
+| principle: Responsibility & accountability      | embodied documents, 6 regions | 1675 |              0.245 |    0.207 |     0.297 | chi-square               | 0      |   0      |
+| principle: Liability for physical damage        | embodied documents, 6 regions | 1675 |              0.245 |    0.217 |     0.292 | chi-square               | 0      |   0      |
+| principle: Dignity                              | embodied documents, 6 regions | 1675 |              0.23  |    0.186 |     0.284 | chi-square               | 0      |   0      |
+| principle: Justice & fairness                   | embodied documents, 6 regions | 1675 |              0.214 |    0.178 |     0.266 | chi-square               | 0      |   0      |
+| principle: Human-robot proximity                | embodied documents, 6 regions | 1675 |              0.212 |    0.169 |     0.268 | chi-square               | 0      |   0      |
+| mechanism: Insurance requirement                | embodied documents, 6 regions | 1675 |              0.209 |    0.169 |     0.265 | chi-square               | 0      |   0      |
+| mechanism: Risk-based tiering                   | embodied documents, 6 regions | 1675 |              0.207 |    0.131 |     0.286 | chi-square               | 0      |   0      |
+| principle: Robustness & security                | embodied documents, 6 regions | 1675 |              0.201 |    0.165 |     0.256 | chi-square               | 0      |   0      |
+| mechanism: Creation of an oversight body        | embodied documents, 6 regions | 1675 |              0.2   |    0.168 |     0.251 | chi-square               | 0      |   0      |
+| principle: Sustainability                       | embodied documents, 6 regions | 1675 |              0.192 |    0.161 |     0.239 | chi-square               | 0      |   0      |
+| mechanism: Prohibitions & bans                  | embodied documents, 6 regions | 1675 |              0.188 |    0.131 |     0.257 | chi-square               | 0      |   0      |
+| mechanism: Incident reporting                   | embodied documents, 6 regions | 1675 |              0.183 |    0.146 |     0.238 | chi-square               | 0      |   0      |
+| principle: Conformity assessment                | embodied documents, 6 regions | 1675 |              0.162 |    0.115 |     0.214 | chi-square               | 0      |   0      |
+| principle: Transparency                         | embodied documents, 6 regions | 1675 |              0.16  |    0.125 |     0.212 | chi-square               | 0      |   0      |
+| mechanism: Education & training programmes      | embodied documents, 6 regions | 1675 |              0.145 |    0.111 |     0.202 | chi-square               | 0      |   0      |
+| principle: Human oversight                      | embodied documents, 6 regions | 1675 |              0.14  |    0.098 |     0.199 | chi-square               | 0      |   0      |
+| principle: Physical safety                      | embodied documents, 6 regions | 1675 |              0.138 |    0.096 |     0.186 | chi-square               | 0      |   0      |
+| principle: Non-maleficence                      | embodied documents, 6 regions | 1675 |              0.132 |    0.093 |     0.184 | chi-square               | 0      |   0      |
+| principle: Solidarity                           | embodied documents, 6 regions | 1675 |              0.128 |    0.094 |     0.179 | chi-square               | 0      |   0.0001 |
+| mechanism: Data-governance requirements         | embodied documents, 6 regions | 1675 |              0.127 |    0.101 |     0.168 | chi-square               | 0      |   0.0001 |
+| principle: Autonomy level & control             | embodied documents, 6 regions | 1675 |              0.124 |    0.086 |     0.179 | chi-square               | 0      |   0.0002 |
+| mechanism: Testing & sandboxes                  | embodied documents, 6 regions | 1675 |              0.121 |    0.086 |     0.175 | chi-square               | 0      |   0.0002 |
+| mechanism: Conformity assessment                | embodied documents, 6 regions | 1675 |              0.115 |    0.078 |     0.178 | chi-square               | 0.0001 |   0.0006 |
+| mechanism: International cooperation            | embodied documents, 6 regions | 1675 |              0.106 |    0.069 |     0.167 | chi-square               | 0.0004 |   0.0021 |
+| principle: Dual use & military                  | embodied documents, 6 regions | 1675 |              0.095 |    0.055 |     0.157 | chi-square               | 0.0017 |   0.0086 |
+| mechanism: Human-oversight requirement          | embodied documents, 6 regions | 1675 |              0.095 |    0.048 |     0.17  | chi-square               | 0.0018 |   0.0086 |
+| mechanism: Transparency, disclosure & labelling | embodied documents, 6 regions | 1675 |              0.084 |    0.041 |     0.151 | chi-square               | 0.0069 |   0.0206 |
+| mechanism: Audits & impact assessment           | embodied documents, 6 regions | 1675 |              0.068 |    0.025 |     0.148 | chi-square               | 0.0329 |   0.0658 |
+| mechanism: Self-regulation & codes              | embodied documents, 6 regions | 1675 |              0.054 |    0     |     0.11  | chi-square (Monte Carlo) | 0.6043 |   0.6043 |
 
 ![Figure 31. Cosine distance between regional principle, topic and mechanism profiles (embodied documents; regions with at least 30), ordered by average-linkage clustering with n per region; distances below the split-half noise floor (T31b) are within sampling noise.](../figures/F31_region_similarity.png)
 
@@ -486,82 +488,82 @@ On a common population (embodied documents, six regions with at least 30, n = 1,
 
 <em class="cap">Figure 34. Governance topics in 2025 to 2026 embodied documents compared with 2020 to 2024: * crude difference Holm-significant; † significant after adjusting for document class and region.</em>
 
-*Table 28. Topic change 2025-26 vs 2020-24 in the embodied set: crude shares, research-only shares, and odds ratios adjusted for document class and region (n=1223)*
+*Table 28. Topic change 2025-26 vs 2020-24 in the embodied set: crude shares, research-only shares, and odds ratios adjusted for document class, region and collection round (n=1296)*
 
 | topic                                    |   pct_2020_2024 |   pct_2025_2026 |   change_pp |   research_only_2020_2024 |   research_only_2025_2026 |   adjusted_or |   ci_low |   ci_high |      p |   p_holm |
 |:-----------------------------------------|----------------:|----------------:|------------:|--------------------------:|--------------------------:|--------------:|---------:|----------:|-------:|---------:|
-| Industrial policy & innovation           |            22.5 |            32.9 |        10.4 |                       8.7 |                      13.5 |          1.69 |     1.24 |      2.31 | 0.001  |   0.0267 |
-| Other                                    |             4   |             5.9 |         1.8 |                       4   |                       4.3 |          1.62 |     0.92 |      2.84 | 0.094  |   1      |
-| Children & vulnerable groups             |             5.9 |             6.5 |         0.6 |                      13.4 |                      12.1 |          1.58 |     0.95 |      2.65 | 0.0792 |   1      |
-| Sustainability & environment             |             6.8 |             8.4 |         1.5 |                       4.7 |                       5   |          1.34 |     0.84 |      2.15 | 0.2175 |   1      |
-| Consumer protection                      |             6.3 |             8.6 |         2.3 |                       5.4 |                       8.5 |          1.31 |     0.83 |      2.07 | 0.254  |   1      |
-| Transparency & explainability            |            16.4 |            17.6 |         1.3 |                      23.5 |                      33.3 |          1.29 |     0.93 |      1.81 | 0.1291 |   1      |
-| Certification & conformity assessment    |            31.2 |            38.2 |         6.9 |                       5.1 |                       5.7 |          1.28 |     0.96 |      1.71 | 0.0922 |   1      |
-| Standards & interoperability             |            35.8 |            43.4 |         7.6 |                       8.7 |                      14.2 |          1.23 |     0.9  |      1.67 | 0.1948 |   1      |
-| Education & training                     |            14.3 |            16.8 |         2.4 |                       9.7 |                      13.5 |          1.2  |     0.85 |      1.7  | 0.2934 |   1      |
-| Trust & acceptance                       |            20.1 |            15.5 |        -4.6 |                      36.5 |                      38.3 |          1.2  |     0.83 |      1.72 | 0.3271 |   1      |
-| Safety & physical harm                   |            57.8 |            63.9 |         6.2 |                      28.2 |                      41.1 |          1.16 |     0.88 |      1.53 | 0.3044 |   1      |
-| Research ethics                          |             5.8 |             4.8 |        -0.9 |                      13.7 |                      12.1 |          1.16 |     0.66 |      2.04 | 0.6085 |   1      |
-| Risk management & risk tiers             |            23.1 |            24.5 |         1.5 |                       9   |                      17.7 |          1.11 |     0.83 |      1.49 | 0.4785 |   1      |
-| Labour & employment                      |            14.7 |            14   |        -0.7 |                      18.1 |                      14.9 |          1.11 |     0.78 |      1.6  | 0.5605 |   1      |
-| Cybersecurity                            |            18   |            19.3 |         1.3 |                       6.1 |                      10.6 |          1.1  |     0.8  |      1.52 | 0.5641 |   1      |
-| Intellectual property                    |             1.9 |             2.5 |         0.6 |                       1.1 |                       2.8 |          1.05 |     0.46 |      2.4  | 0.9125 |   1      |
-| Human oversight & control                |            24   |            25.6 |         1.6 |                      15.5 |                      28.4 |          1    |     0.75 |      1.33 | 0.9943 |   1      |
-| Fairness, bias & discrimination          |            12.6 |            10.3 |        -2.3 |                      18.4 |                      19.1 |          0.99 |     0.66 |      1.47 | 0.958  |   1      |
-| Privacy & data protection                |            23.1 |            20.8 |        -2.3 |                      25.3 |                      21.3 |          0.96 |     0.71 |      1.3  | 0.7911 |   1      |
-| Human-robot interaction & social effects |            30.3 |            20.8 |        -9.5 |                      63.9 |                      53.9 |          0.86 |     0.6  |      1.23 | 0.404  |   1      |
-| Taxation & economic policy               |             1.9 |             1.5 |        -0.4 |                       2.2 |                       2.1 |          0.73 |     0.27 |      1.97 | 0.5396 |   1      |
-| Civil liability                          |            25.6 |            21.2 |        -4.4 |                      33.2 |                      36.9 |          0.72 |     0.53 |      0.98 | 0.0364 |   0.873  |
-| Military use & IHL                       |            11.3 |             9.6 |        -1.6 |                       7.6 |                       4.3 |          0.71 |     0.46 |      1.09 | 0.1183 |   1      |
-| Human dignity & autonomy                 |            14.7 |             8.8 |        -5.9 |                      31.8 |                      26.2 |          0.68 |     0.44 |      1.04 | 0.075  |   1      |
-| Criminal liability                       |             8.7 |             7.3 |        -1.4 |                       9.4 |                       7.1 |          0.67 |     0.42 |      1.06 | 0.0847 |   1      |
-| Ethics principles                        |            36.6 |            24.1 |       -12.5 |                      69.3 |                      63.1 |          0.67 |     0.49 |      0.93 | 0.0179 |   0.447  |
-| Legal personhood & robot rights          |             9.8 |             4.6 |        -5.2 |                      24.2 |                      14.9 |          0.39 |     0.22 |      0.7  | 0.0015 |   0.0397 |
+| Other                                    |             3.8 |             5.4 |         1.6 |                       4   |                       4.3 |          1.6  |     0.91 |      2.79 | 0.1    |   1      |
+| Industrial policy & innovation           |            24.1 |            34.5 |        10.4 |                       8.7 |                      13.5 |          1.55 |     1.15 |      2.09 | 0.0043 |   0.1106 |
+| Children & vulnerable groups             |             6   |             6.8 |         0.7 |                      13.4 |                      12.1 |          1.53 |     0.94 |      2.5  | 0.089  |   1      |
+| Intellectual property                    |             1.5 |             3   |         1.5 |                       1.1 |                       2.8 |          1.48 |     0.64 |      3.43 | 0.3587 |   1      |
+| Sustainability & environment             |             6.7 |             8.8 |         2.1 |                       4.7 |                       5   |          1.41 |     0.9  |      2.21 | 0.135  |   1      |
+| Certification & conformity assessment    |            33.9 |            39.8 |         6   |                       5.1 |                       5.7 |          1.22 |     0.92 |      1.62 | 0.1578 |   1      |
+| Education & training                     |            14.4 |            17.7 |         3.4 |                       9.7 |                      13.5 |          1.22 |     0.88 |      1.71 | 0.2339 |   1      |
+| Standards & interoperability             |            36.1 |            43.2 |         7.1 |                       8.7 |                      14.2 |          1.2  |     0.89 |      1.61 | 0.227  |   1      |
+| Consumer protection                      |             8.2 |            10.2 |         2   |                       5.4 |                       8.5 |          1.19 |     0.79 |      1.78 | 0.4111 |   1      |
+| Transparency & explainability            |            16.4 |            16.7 |         0.4 |                      23.5 |                      33.3 |          1.16 |     0.84 |      1.61 | 0.3692 |   1      |
+| Trust & acceptance                       |            18.8 |            14.7 |        -4   |                      36.5 |                      38.3 |          1.16 |     0.81 |      1.67 | 0.4157 |   1      |
+| Safety & physical harm                   |            60.3 |            64.9 |         4.6 |                      28.2 |                      41.1 |          1.14 |     0.87 |      1.51 | 0.3454 |   1      |
+| Risk management & risk tiers             |            23.6 |            25.1 |         1.5 |                       9   |                      17.7 |          1.09 |     0.82 |      1.45 | 0.5498 |   1      |
+| Research ethics                          |             5.5 |             4.6 |        -1   |                      13.7 |                      12.1 |          1.08 |     0.61 |      1.9  | 0.7898 |   1      |
+| Labour & employment                      |            13.7 |            13.7 |         0   |                      18.1 |                      14.9 |          1.08 |     0.75 |      1.56 | 0.6621 |   1      |
+| Cybersecurity                            |            19.3 |            20.5 |         1.2 |                       6.1 |                      10.6 |          1.04 |     0.77 |      1.41 | 0.782  |   1      |
+| Fairness, bias & discrimination          |            12   |             9.8 |        -2.2 |                      18.4 |                      19.1 |          0.97 |     0.65 |      1.44 | 0.872  |   1      |
+| Human oversight & control                |            25.7 |            25.5 |        -0.2 |                      15.5 |                      28.4 |          0.91 |     0.69 |      1.2  | 0.5084 |   1      |
+| Privacy & data protection                |            24.6 |            21.7 |        -2.8 |                      25.3 |                      21.3 |          0.88 |     0.65 |      1.17 | 0.372  |   1      |
+| Human-robot interaction & social effects |            28.3 |            19.5 |        -8.8 |                      63.9 |                      53.9 |          0.85 |     0.59 |      1.21 | 0.3683 |   1      |
+| Taxation & economic policy               |             1.8 |             1.6 |        -0.2 |                       2.2 |                       2.1 |          0.83 |     0.32 |      2.15 | 0.6971 |   1      |
+| Military use & IHL                       |            10.7 |             9.4 |        -1.3 |                       7.6 |                       4.3 |          0.74 |     0.49 |      1.14 | 0.1734 |   1      |
+| Criminal liability                       |             9.1 |             7.8 |        -1.3 |                       9.4 |                       7.1 |          0.72 |     0.47 |      1.12 | 0.144  |   1      |
+| Ethics principles                        |            33.8 |            23.5 |       -10.2 |                      69.3 |                      63.1 |          0.71 |     0.51 |      0.99 | 0.0409 |   0.9818 |
+| Civil liability                          |            28.3 |            23.5 |        -4.8 |                      33.2 |                      36.9 |          0.69 |     0.52 |      0.92 | 0.0112 |   0.28   |
+| Human dignity & autonomy                 |            13.7 |             8.4 |        -5.4 |                      31.8 |                      26.2 |          0.69 |     0.45 |      1.07 | 0.0952 |   1      |
+| Legal personhood & robot rights          |             9.3 |             4.4 |        -4.9 |                      24.2 |                      14.9 |          0.38 |     0.21 |      0.67 | 0.001  |   0.027  |
 
 *Table 30. Trend models (odds ratio per year) under five specifications: collapsed region and class covariates; excluding 2026; stated-date documents only; round-1 documents only; collection round as a covariate*
 
 | outcome                                          | sensitivity                              |    n |   events |   odds_ratio_per_year |   ci_low |   ci_high |      p |
 |:-------------------------------------------------|:-----------------------------------------|-----:|---------:|----------------------:|---------:|----------:|-------:|
-| mechanism: Risk-based tiering                    | all years, collapsed covariates          | 1523 |      129 |                 1.1   |    1.029 |     1.176 | 0.0052 |
-| mechanism: Risk-based tiering                    | excluding partial year 2026              | 1264 |      100 |                 1.106 |    1.018 |     1.201 | 0.0166 |
-| mechanism: Risk-based tiering                    | documents with a stated date only        | 1297 |      116 |                 1.08  |    1.007 |     1.158 | 0.0316 |
-| mechanism: Risk-based tiering                    | round-1 documents only                   |  663 |       37 |                 1.306 |    1.112 |     1.534 | 0.0011 |
-| mechanism: Risk-based tiering                    | all years, collection round as covariate | 1523 |      129 |                 1.101 |    1.03  |     1.178 | 0.0048 |
-| mechanism: Conformity assessment & certification | all years, collapsed covariates          | 1523 |      300 |                 1.049 |    1.002 |     1.099 | 0.042  |
-| mechanism: Conformity assessment & certification | excluding partial year 2026              | 1264 |      241 |                 1.051 |    0.994 |     1.112 | 0.0826 |
-| mechanism: Conformity assessment & certification | documents with a stated date only        | 1297 |      261 |                 1.066 |    1.013 |     1.122 | 0.0142 |
-| mechanism: Conformity assessment & certification | round-1 documents only                   |  663 |       48 |                 1.262 |    1.1   |     1.449 | 0.0009 |
-| mechanism: Conformity assessment & certification | all years, collection round as covariate | 1523 |      300 |                 1.049 |    1.002 |     1.1   | 0.042  |
-| principle: Conformity assessment                 | all years, collapsed covariates          | 1523 |      584 |                 1.044 |    1.004 |     1.086 | 0.0327 |
-| principle: Conformity assessment                 | excluding partial year 2026              | 1264 |      466 |                 1.037 |    0.989 |     1.088 | 0.1364 |
-| principle: Conformity assessment                 | documents with a stated date only        | 1297 |      515 |                 1.042 |    0.999 |     1.088 | 0.0574 |
-| principle: Conformity assessment                 | round-1 documents only                   |  663 |       91 |                 1.119 |    1.018 |     1.231 | 0.0195 |
-| principle: Conformity assessment                 | all years, collection round as covariate | 1523 |      584 |                 1.046 |    1.005 |     1.088 | 0.0286 |
-| principle: Dual use & military                   | all years, collapsed covariates          | 1523 |      248 |                 0.966 |    0.923 |     1.012 | 0.1447 |
-| principle: Dual use & military                   | excluding partial year 2026              | 1264 |      217 |                 0.984 |    0.933 |     1.039 | 0.5687 |
-| principle: Dual use & military                   | documents with a stated date only        | 1297 |      217 |                 0.969 |    0.922 |     1.019 | 0.2202 |
-| principle: Dual use & military                   | round-1 documents only                   |  663 |      102 |                 0.907 |    0.843 |     0.976 | 0.0089 |
-| principle: Dual use & military                   | all years, collection round as covariate | 1523 |      248 |                 0.966 |    0.923 |     1.012 | 0.1415 |
-| principle: Physical safety                       | all years, collapsed covariates          | 1523 |     1016 |                 1.003 |    0.965 |     1.043 | 0.871  |
-| principle: Physical safety                       | excluding partial year 2026              | 1264 |      837 |                 1.002 |    0.956 |     1.05  | 0.9308 |
-| principle: Physical safety                       | documents with a stated date only        | 1297 |      889 |                 1.005 |    0.963 |     1.049 | 0.816  |
-| principle: Physical safety                       | round-1 documents only                   |  663 |      315 |                 1.024 |    0.97  |     1.082 | 0.3916 |
-| principle: Physical safety                       | all years, collection round as covariate | 1523 |     1016 |                 1.004 |    0.965 |     1.045 | 0.8394 |
-| principle: Autonomy level & control              | all years, collapsed covariates          | 1523 |      749 |                 0.99  |    0.956 |     1.025 | 0.5637 |
-| principle: Autonomy level & control              | excluding partial year 2026              | 1264 |      620 |                 0.985 |    0.945 |     1.027 | 0.4754 |
-| principle: Autonomy level & control              | documents with a stated date only        | 1297 |      660 |                 0.987 |    0.95  |     1.024 | 0.4824 |
-| principle: Autonomy level & control              | round-1 documents only                   |  663 |      274 |                 1.002 |    0.948 |     1.058 | 0.9465 |
-| principle: Autonomy level & control              | all years, collection round as covariate | 1523 |      749 |                 0.99  |    0.957 |     1.025 | 0.5837 |
-| principle: Human-robot proximity                 | all years, collapsed covariates          | 1523 |      657 |                 0.935 |    0.901 |     0.971 | 0.0005 |
-| principle: Human-robot proximity                 | excluding partial year 2026              | 1264 |      567 |                 0.935 |    0.894 |     0.978 | 0.0032 |
-| principle: Human-robot proximity                 | documents with a stated date only        | 1297 |      549 |                 0.921 |    0.883 |     0.96  | 0.0001 |
-| principle: Human-robot proximity                 | round-1 documents only                   |  663 |      417 |                 1.004 |    0.946 |     1.065 | 0.8997 |
-| principle: Human-robot proximity                 | all years, collection round as covariate | 1523 |      657 |                 0.935 |    0.9   |     0.971 | 0.0005 |
-| principle: Liability for physical damage         | all years, collapsed covariates          | 1523 |      326 |                 0.947 |    0.909 |     0.986 | 0.009  |
-| principle: Liability for physical damage         | excluding partial year 2026              | 1264 |      283 |                 0.958 |    0.913 |     1.006 | 0.0828 |
-| principle: Liability for physical damage         | documents with a stated date only        | 1297 |      289 |                 0.943 |    0.903 |     0.986 | 0.0099 |
-| principle: Liability for physical damage         | round-1 documents only                   |  663 |      159 |                 0.998 |    0.937 |     1.063 | 0.9502 |
-| principle: Liability for physical damage         | all years, collection round as covariate | 1523 |      326 |                 0.947 |    0.909 |     0.986 | 0.009  |
+| mechanism: Risk-based tiering                    | all years, collapsed covariates          | 1619 |      145 |                 1.108 |    1.04  |     1.181 | 0.0016 |
+| mechanism: Risk-based tiering                    | excluding partial year 2026              | 1353 |      113 |                 1.112 |    1.029 |     1.202 | 0.0074 |
+| mechanism: Risk-based tiering                    | documents with a stated date only        | 1387 |      132 |                 1.088 |    1.019 |     1.163 | 0.0123 |
+| mechanism: Risk-based tiering                    | round-1 documents only                   |  661 |       35 |                 1.37  |    1.152 |     1.629 | 0.0004 |
+| mechanism: Risk-based tiering                    | all years, collection round as covariate | 1619 |      145 |                 1.109 |    1.04  |     1.182 | 0.0015 |
+| mechanism: Conformity assessment & certification | all years, collapsed covariates          | 1619 |      352 |                 1.048 |    1.003 |     1.095 | 0.035  |
+| mechanism: Conformity assessment & certification | excluding partial year 2026              | 1353 |      287 |                 1.053 |    0.999 |     1.11  | 0.0544 |
+| mechanism: Conformity assessment & certification | documents with a stated date only        | 1387 |      312 |                 1.063 |    1.014 |     1.115 | 0.0116 |
+| mechanism: Conformity assessment & certification | round-1 documents only                   |  661 |       50 |                 1.197 |    1.052 |     1.362 | 0.0064 |
+| mechanism: Conformity assessment & certification | all years, collection round as covariate | 1619 |      352 |                 1.049 |    1.004 |     1.095 | 0.0342 |
+| principle: Conformity assessment                 | all years, collapsed covariates          | 1619 |      661 |                 1.042 |    1.003 |     1.083 | 0.0335 |
+| principle: Conformity assessment                 | excluding partial year 2026              | 1353 |      538 |                 1.043 |    0.996 |     1.092 | 0.0748 |
+| principle: Conformity assessment                 | documents with a stated date only        | 1387 |      589 |                 1.042 |    1     |     1.086 | 0.0518 |
+| principle: Conformity assessment                 | round-1 documents only                   |  661 |       91 |                 1.116 |    1.015 |     1.226 | 0.0233 |
+| principle: Conformity assessment                 | all years, collection round as covariate | 1619 |      661 |                 1.044 |    1.005 |     1.085 | 0.0276 |
+| principle: Dual use & military                   | all years, collapsed covariates          | 1619 |      261 |                 0.975 |    0.933 |     1.02  | 0.2779 |
+| principle: Dual use & military                   | excluding partial year 2026              | 1353 |      224 |                 0.979 |    0.928 |     1.032 | 0.4268 |
+| principle: Dual use & military                   | documents with a stated date only        | 1387 |      229 |                 0.981 |    0.934 |     1.03  | 0.4348 |
+| principle: Dual use & military                   | round-1 documents only                   |  661 |      101 |                 0.907 |    0.843 |     0.975 | 0.0085 |
+| principle: Dual use & military                   | all years, collection round as covariate | 1619 |      261 |                 0.975 |    0.932 |     1.02  | 0.2731 |
+| principle: Physical safety                       | all years, collapsed covariates          | 1619 |     1105 |                 1.008 |    0.97  |     1.048 | 0.6787 |
+| principle: Physical safety                       | excluding partial year 2026              | 1353 |      919 |                 1.012 |    0.966 |     1.06  | 0.62   |
+| principle: Physical safety                       | documents with a stated date only        | 1387 |      971 |                 1.014 |    0.972 |     1.058 | 0.5172 |
+| principle: Physical safety                       | round-1 documents only                   |  661 |      314 |                 1.025 |    0.971 |     1.083 | 0.3712 |
+| principle: Physical safety                       | all years, collection round as covariate | 1619 |     1105 |                 1.01  |    0.971 |     1.05  | 0.631  |
+| principle: Autonomy level & control              | all years, collapsed covariates          | 1619 |      807 |                 0.991 |    0.959 |     1.025 | 0.6028 |
+| principle: Autonomy level & control              | excluding partial year 2026              | 1353 |      673 |                 0.988 |    0.949 |     1.028 | 0.5496 |
+| principle: Autonomy level & control              | documents with a stated date only        | 1387 |      714 |                 0.991 |    0.955 |     1.028 | 0.6182 |
+| principle: Autonomy level & control              | round-1 documents only                   |  661 |      273 |                 1.004 |    0.95  |     1.061 | 0.89   |
+| principle: Autonomy level & control              | all years, collection round as covariate | 1619 |      807 |                 0.992 |    0.959 |     1.026 | 0.6364 |
+| principle: Human-robot proximity                 | all years, collapsed covariates          | 1619 |      690 |                 0.936 |    0.903 |     0.971 | 0.0004 |
+| principle: Human-robot proximity                 | excluding partial year 2026              | 1353 |      597 |                 0.936 |    0.897 |     0.977 | 0.0026 |
+| principle: Human-robot proximity                 | documents with a stated date only        | 1387 |      583 |                 0.921 |    0.885 |     0.959 | 0.0001 |
+| principle: Human-robot proximity                 | round-1 documents only                   |  661 |      417 |                 1.003 |    0.946 |     1.064 | 0.9165 |
+| principle: Human-robot proximity                 | all years, collection round as covariate | 1619 |      690 |                 0.936 |    0.902 |     0.971 | 0.0004 |
+| principle: Liability for physical damage         | all years, collapsed covariates          | 1619 |      392 |                 0.95  |    0.914 |     0.987 | 0.0085 |
+| principle: Liability for physical damage         | excluding partial year 2026              | 1353 |      345 |                 0.971 |    0.928 |     1.015 | 0.1967 |
+| principle: Liability for physical damage         | documents with a stated date only        | 1387 |      351 |                 0.952 |    0.913 |     0.992 | 0.0182 |
+| principle: Liability for physical damage         | round-1 documents only                   |  661 |      160 |                 0.996 |    0.935 |     1.061 | 0.8993 |
+| principle: Liability for physical damage         | all years, collection round as covariate | 1619 |      392 |                 0.95  |    0.914 |     0.987 | 0.0086 |
 
 Comparing 477 embodied documents from 2025 to 2026 with 746 from 2020 to 2024 (Table 16 in the report), crude shares rise for industrial policy (+10 points), standards (+8), certification (+7) and physical safety (+6) and fall for ethics principles (−13), human-robot interaction (−10), human dignity (−6) and personhood (−5); industrial policy, ethics principles, human-robot interaction and personhood are Holm-significant. Adjusted for document class and region (Table 28, n = 1,223), personhood falls (odds ratio 0.39, 0.22 to 0.70, Holm p = 0.04) and industrial policy rises (1.69, 1.24 to 2.31, p = 0.03; its research-only share moves from 9% to 14%), while ethics principles (0.67), civil liability (0.72), cybersecurity (1.10) and human oversight (1.00) do not change after correction; this model does not include collection round. The trend models (Table 17 in the report; 2015 to 2026, n = 1,496) give risk-based tiering an odds ratio of 1.10 per year (1.02 to 1.18) and the conformity-assessment mechanism 1.05 (1.00 to 1.11), neither Holm-significant pooled, with physical safety (1.00) and autonomy-level control (0.98) flat. Table 30 shows the pooled estimates understating the round-1 trends: within round-1 documents tiering rises at 1.31 per year (1.11 to 1.53) and conformity assessment at 1.26 (1.10 to 1.45), and dual use falls (0.91, 0.84 to 0.98), while with round as a covariate the three are 1.10, 1.05 and 0.97. The pooled declines of proximity and liability for physical damage (0.94 per year each in Table 17) are flat within round-1 documents (odds ratios 1.00, intervals 0.95 to 1.07 and 0.94 to 1.06; Table 30) and are composition effects, since the principal binding instruments that dominate the later years mention proximity in 30% of cases against 71% for research outputs (Table 9); they are not reported as trends. Within the embodied set, the terms "embodied AI" and "physical AI" appear in 1.0% of 2024 documents (2 of 194), 8.3% of 2025 documents (18 of 218) and 12.7% of 2026 documents (33 of 259) (Figure 33 in the report).
 

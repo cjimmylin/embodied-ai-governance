@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-51bf7d51",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:54:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0784516,
+  "in": 2,
+  "out": 687,
+  "cache_read": 2656,
+  "cache_create": 17828,
+  "api_ms": 4131,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments",
+   "operators_or_deployers",
+   "certification_or_notified_bodies"
+  ],
+  "bound_parties_text": "The decree binds the Minister of Land, Infrastructure and Transport, Mayors/Do Governors, road management authorities, persons seeking for-hire transport permission or approvals for autonomous vehicles, insurance purchasers, and certification/verification institutions.",
+  "bound_parties_quote": "The Minister of Land, Infrastructure and Transport shall determine whether to designate a pilot operation zone within 90 days from the date of receipt of the application under paragraph (1)",
+  "entry_into_force_date": "2020-05-01",
+  "applicability_date": "2026-01-02",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Decree shall enter into force on May 1, 2020.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "ENFORCEMENT DECREE OF ACT ON THE PROMOTION OF AND SUPPORT FOR COMMERCIALIZATION OF AUTONOMOUS VEHICLES",
+  "confidence": 0.7
+ }
+}

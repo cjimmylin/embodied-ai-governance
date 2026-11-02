@@ -1,0 +1,39 @@
+{
+ "doc_id": "R2-b649a539",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:53:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0456016,
+  "in": 2,
+  "out": 638,
+  "cache_read": 2656,
+  "cache_create": 9738,
+  "api_ms": 8140,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "operators_or_deployers",
+   "owners_or_users",
+   "pilots_or_drivers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The regulation binds intelligent connected vehicle product producers and sellers, road test and demonstration application entities, vehicle owners and managers, drivers, related enterprises, and municipal government departments.",
+  "bound_parties_quote": "智能网联汽车产品生产者、销售者应当对其生产、销售的产品质量安全负责，建立完善产品质量安全追溯机制。",
+  "entry_into_force_date": "2022-08-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "现予公布，自2022年8月1日起施行。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2022,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "本条例所称智能网联汽车，是指可以由自动驾驶系统替代人的操作在道路上安全行驶的汽车",
+  "confidence": 0.95
+ }
+}

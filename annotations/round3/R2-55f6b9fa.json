@@ -1,0 +1,101 @@
+{
+ "doc_id": "R2-55f6b9fa",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:15:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.036075800000000005,
+  "in": 2,
+  "out": 1788,
+  "cache_read": 11758,
+  "cache_create": 4254,
+  "api_ms": 9182,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Companion chatbots (California Senate Bill 243, Chapter 22.6 Business and Professions Code)",
+  "title_en": "Companion chatbots (California Senate Bill 243, Chapter 22.6 Business and Professions Code)",
+  "language": "en",
+  "authors_or_issuer": "California State Legislature",
+  "issuer_type": "subnational_government",
+  "pub_year": 2025,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "California Legislative Information",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "software_agent_called_robot",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "domestic_consumer",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "transparency_explainability",
+   "children_vulnerable_groups",
+   "consumer_protection",
+   "safety_physical_harm",
+   "civil_liability"
+  ],
+  "primary_topic": "children_vulnerable_groups",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "transparency_disclosure_labelling",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "California statute (chaptered Oct 2025) regulating companion chatbot platforms. Operators must disclose AI status, maintain suicide and self-harm prevention protocols, give minors break reminders and sexual-content safeguards, report annually to the Office of Suicide Prevention from 2027, and face private civil actions. Software-only; no physical robots.",
+  "key_provisions_or_claims": [
+   "Operators must clearly notify users that the companion chatbot is AI when a reasonable person might be misled.",
+   "Operators must maintain and publish a suicide/self-harm prevention protocol with crisis referrals.",
+   "For known minors: AI disclosure, break reminders every three hours, and measures against sexually explicit content.",
+   "From July 1, 2027, annual reporting to the Office of Suicide Prevention, which publishes the data.",
+   "Private right of action: injunctive relief, greater of actual damages or $1,000 per violation, and attorney's fees."
+  ],
+  "confidence": 0.93
+ }
+}

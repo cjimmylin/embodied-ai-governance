@@ -1,0 +1,111 @@
+{
+ "doc_id": "R2-f67080c2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:50:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.5654598,
+  "in": 2,
+  "out": 1948,
+  "cache_read": 11758,
+  "cache_create": 136200,
+  "api_ms": 19390,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Standards Document: Operation of Aircraft, Part IV – International Operations – Remotely Piloted Aircraft Systems (RPAS)",
+  "title_en": "Standards Document: Operation of Aircraft, Part IV – International Operations – Remotely Piloted Aircraft Systems (RPAS)",
+  "language": "en",
+  "authors_or_issuer": "Civil Aviation Authority of Fiji (CAAF)",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2025,
+  "pub_month": 2,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Civil Aviation Authority of Fiji – Standards Documents",
+  "jurisdiction_country": "FJ",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "FJ"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "cybersecurity",
+   "risk_management_risk_tiers",
+   "standards_interoperability",
+   "education_training",
+   "privacy_data_protection"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "education_training_programs",
+   "international_cooperation",
+   "risk_based_tiering"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Fiji CAAF Standards Document transposing ICAO Annex 6 Part IV, setting requirements for international operations of certificated remotely piloted aircraft systems: RPAS operator certificate, C2 link oversight, remote pilot qualifications, detect-and-avoid, recorders, maintenance, fatigue, security and dangerous goods.",
+  "key_provisions_or_claims": [
+   "Operators need an RPAS operator certificate (ROC) from the State of the Operator before international RPAS operations.",
+   "C2 Link service must be covered by an approved service level agreement and State oversight; lost-link procedures are mandatory.",
+   "Detect-and-avoid capability required for IFR RPAS, and the remote pilot must be able to intervene in automated avoidance.",
+   "RPA over 2,250 kg and remote pilot stations must carry recorder systems, with limits on non-investigation use of recordings.",
+   "Remote pilot-in-command controls only one RPA at a time; applies only to the certified category, not Open or Specific."
+  ],
+  "confidence": 0.85
+ }
+}

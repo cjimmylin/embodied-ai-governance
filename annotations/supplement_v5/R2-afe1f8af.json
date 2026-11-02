@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-afe1f8af",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0373796,
+  "in": 2,
+  "out": 563,
+  "cache_read": 2656,
+  "cache_create": 7870,
+  "api_ms": 8880,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The notice is addressed to provincial civil affairs, development and reform, education, industry and information technology, finance and other departments, and ministry members, who are asked to implement the action plan.",
+  "bound_parties_quote": "现印发给你们，请结合本地实际，认真抓好贯彻落实。",
+  "entry_into_force_date": "2026-07-09",
+  "applicability_date": "2026",
+  "repeal_or_expiry_date": "2028",
+  "dates_quote": "康复辅助器具产业扩能提质三年行动方案（2026-2028年）",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "重点引导支持外骨骼机器人、照护和康复机器人、智能仿生假肢、智能可穿戴设备",
+  "confidence": 0.5
+ }
+}

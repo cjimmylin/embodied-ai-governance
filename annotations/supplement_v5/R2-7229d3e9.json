@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-7229d3e9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0511016,
+  "in": 2,
+  "out": 756,
+  "cache_read": 2656,
+  "cache_create": 10818,
+  "api_ms": 4971,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "operators_or_deployers",
+   "owners_or_users",
+   "public_bodies_or_government",
+   "certification_or_notified_bodies"
+  ],
+  "bound_parties_text": "The chapter binds owners and operators of autonomous vehicles, manufacturers/developers of autonomous vehicles and automated driving systems, persons testing them, licensed autonomous vehicle certification facilities (licensees), and the Department of Motor Vehicles.",
+  "bound_parties_quote": "An autonomous vehicle may not be operated on the highways of this State until: (a) The manufacturer of the autonomous vehicle, the manufacturer or developer of the automated driving system utilized in the autonomous vehicle or an autonomous vehicle certification facility has submitted to the Department a certificate of compliance",
+  "entry_into_force_date": "2012-03-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "(Added to NAC by Dep’t of Motor Veh. by R084-11, 2-15-2012, eff. 3-1-2012; A by R027-13, 10-23-2013; R134-15, 6-28-2016; R136-17, 8-30-2018)",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2012,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "CHAPTER 482A - AUTONOMOUS VEHICLES",
+  "confidence": 0.85
+ }
+}

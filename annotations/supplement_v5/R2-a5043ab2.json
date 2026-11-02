@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-a5043ab2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0143596,
+  "in": 2,
+  "out": 629,
+  "cache_read": 2656,
+  "cache_create": 1950,
+  "api_ms": 5250,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The advisory circular addresses operators of small remotely piloted aircraft systems (drone operators) under 25 kilograms flying under Part 101, and encourages training providers and aviation groups to use it; it describes an acceptable means of compliance rather than imposing binding obligations.",
+  "bound_parties_quote": "This Advisory Circular (AC) describes an acceptable means of compliance when operating small remotely piloted aircraft systems (RPAS) that weigh less than 25 kilograms",
+  "entry_into_force_date": "2025-12-22",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "CAA is encouraging drone operators, training providers, and aviation groups to start using the Trial AC from 22nd December",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Revision 2 is a substantive update which updates content throughout and removes obsolete content.",
+  "confidence": 0.6
+ }
+}

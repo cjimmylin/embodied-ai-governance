@@ -1,0 +1,97 @@
+{
+ "doc_id": "R2-96de99fe",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:12:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.051676900000000005,
+  "in": 4,
+  "out": 3359,
+  "cache_read": 25549,
+  "cache_create": 3881,
+  "api_ms": 20117,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Drone (Amendment) Rules, 2023 (G.S.R. 715(E))",
+  "title_en": "Drone (Amendment) Rules, 2023 (G.S.R. 715(E))",
+  "language": "en",
+  "authors_or_issuer": "Ministry of Civil Aviation, Government of India",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2023,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "The Gazette of India: Extraordinary",
+  "jurisdiction_country": "IN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "other"
+  ],
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [
+   "Drone Rules 2021",
+   "Aircraft Act 1934"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Indian Ministry of Civil Aviation notification amending the Drone Rules, 2021 under the Aircraft Act, 1934. It changes Form D-4 identity documentation, accepting a passport number or government-issued proof of identity and address such as a voter ID, ration card or driving licence. It takes effect on publication.",
+  "key_provisions_or_claims": [
+   "Amends the Drone Rules, 2021 as the Drone (Amendment) Rules, 2023",
+   "Replaces Serial 5 of Form D-4, Part A (individual details)",
+   "Accepts a passport number or government ID plus proof of address (voter ID, ration card, driving licence)",
+   "Comes into force on publication in the Official Gazette"
+  ],
+  "confidence": 0.9
+ }
+}

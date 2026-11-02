@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-3ee8b70a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0333756,
+  "in": 2,
+  "out": 593,
+  "cache_read": 2656,
+  "cache_create": 6794,
+  "api_ms": 5146,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The guidance is addressed to provincial agriculture and rural affairs, animal husbandry, veterinary and fisheries departments, and ministry bodies, with agriculture and rural departments at all levels required to secure support and implement tasks.",
+  "bound_parties_quote": "各级农业农村部门要积极争取本级党委政府的政策资金扶持,细化工作举措,明确“路线图”、“时间表”,确保各项任务落实到位。",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "以推进物联网、大数据、人工智能、机器人等信息技术在农业农村领域全方位全链条普及应用为工作主线",
+  "confidence": 0.6
+ }
+}

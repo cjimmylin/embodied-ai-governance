@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-d864adaa",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.059593600000000004,
+  "in": 2,
+  "out": 632,
+  "cache_read": 2656,
+  "cache_create": 13251,
+  "api_ms": 4188,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "employers",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The guideline addresses employers (사업주) who install, use, inspect and train workers on industrial robots, and also sets design, marking and manual requirements for the robots themselves (manufacturers).",
+  "bound_parties_quote": "사업주는 산업용 로봇의 사용에 있어서 다음의 조치를 강구하여야 한다.",
+  "entry_into_force_date": "2017-11-27",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "공표일자 : 2017년 11월 27일",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "이 지침은 산업안전보건기준에 관한 규칙(이하 “안전보건규칙”이라 한다) 제222조(교시 등)에 의거 산업용 로봇을 사용함에 있어서",
+  "robot_provision_year": 2017,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "산업용 로봇의 사용 등에 관한 안전 기술지침",
+  "confidence": 0.6
+ }
+}

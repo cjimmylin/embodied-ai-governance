@@ -3,7 +3,7 @@ with the review fixes: titles that state the finding, n shown, small-n groups ha
 no label collisions, monotone sequential ramps in dark mode, label dictionaries, consistent region names/order,
 embodied = blue and general = orange throughout, dark ink on low-contrast fills."""
 import sys, json, numpy as np, pandas as pd
-sys.path.insert(0,"/home/user/embodied-ai-governance-v4/scripts")
+sys.path.insert(0,"/home/user/embodied-ai-governance-v5/scripts")
 from analysis_common import *
 from analysis_common import _lum
 from matplotlib.patches import Patch

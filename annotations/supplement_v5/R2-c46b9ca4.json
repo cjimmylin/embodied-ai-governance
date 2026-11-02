@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-c46b9ca4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:39",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0769316,
+  "in": 2,
+  "out": 647,
+  "cache_read": 2656,
+  "cache_create": 17548,
+  "api_ms": 4815,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "member_states_or_subnational_governments",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "Manufacturers must ensure vehicles, systems, components and separate technical units are type-approved and comply with the Regulation; national authorities must refuse type-approval, registration and market placement of non-compliant vehicles.",
+  "bound_parties_quote": "Manufacturers shall demonstrate that all new vehicles that are placed on the market, registered or entered into service, and all new systems, components and separate technical units that are placed on the market or entered into service, are type-approved",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Therefore, the application of this Regulation should be deferred,",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "‘automated vehicle’ means a motor vehicle designed and constructed to move autonomously for certain periods of time without continuous driver supervision but in respect of which driver intervention is still expected or required;",
+  "confidence": 0.6
+ }
+}

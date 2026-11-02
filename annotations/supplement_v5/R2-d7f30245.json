@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-d7f30245",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0407596,
+  "in": 2,
+  "out": 623,
+  "cache_read": 2656,
+  "cache_create": 8565,
+  "api_ms": 5265,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "public_bodies_or_government",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The bill binds manufacturers of autonomous technology/vehicles (insurance, certifications, emergency response lines, geofencing compliance, notice reporting) and the Department of Motor Vehicles (regulations, application approval), and regulates operators/drivers of autonomous vehicles.",
+  "bound_parties_quote": "A manufacturer shall comply with all of the following requirements:",
+  "entry_into_force_date": "2024-09-27",
+  "applicability_date": "2026-07-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "(g) This section shall become operative on July 1, 2026.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Section 38750 of the Vehicle Code is amended to read: ... “Autonomous vehicle” means any vehicle equipped with autonomous technology",
+  "confidence": 0.7
+ }
+}

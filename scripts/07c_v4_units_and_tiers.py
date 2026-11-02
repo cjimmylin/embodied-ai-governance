@@ -11,7 +11,7 @@
    the two text-based constructs.
 """
 import re, os, json, pandas as pd, numpy as np
-B="/home/user/embodied-ai-governance-v4/"
+B="/home/user/embodied-ai-governance-v5/"
 m=pd.read_csv(B+"data/master_table.csv",low_memory=False)
 t=m.title_en.fillna("").astype(str)
 ANC=re.compile(r"commencement|bringing into force|\blevy\b|\bfees?\b|charges? (regulations|order)|exemption\b|direction\b|area approval|approval for operation|\bpermit\b|authori[sz]ation (for|of) (operation|flights?)|definitions of terms|definitions and abbreviations|table of contents|chapter index|^part \d+[:—-]?\s*(definitions|general provisions)$",re.I)

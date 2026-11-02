@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-ee6d92ca",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1273196,
+  "in": 2,
+  "out": 535,
+  "cache_read": 2656,
+  "cache_create": 30425,
+  "api_ms": 4798,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The Act imposes duties on the State (national government, competent ministers) and on prefectures and municipalities (local governments) regarding promotion of remote islands.",
+  "bound_parties_quote": "国は、前条の基本理念にのつとり、離島の振興のために必要な施策を総合的かつ積極的に策定し、及び実施する責務を有する。",
+  "entry_into_force_date": "1953-07-22",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "昭和二十八年法律第七十二号",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.6
+ }
+}

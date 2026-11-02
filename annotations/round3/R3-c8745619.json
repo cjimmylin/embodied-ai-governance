@@ -1,0 +1,113 @@
+{
+ "doc_id": "R3-c8745619",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:10:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1187158,
+  "in": 2,
+  "out": 1946,
+  "cache_read": 11758,
+  "cache_create": 24519,
+  "api_ms": 12686,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare",
+   "domestic_consumer",
+   "public_administration_justice"
+  ],
+  "authors_or_issuer": "国务院 (State Council of the People's Republic of China)",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "national_strategy_or_action_plan",
+  "doi": null,
+  "embodied_categories": [
+   "care_assistive_robots",
+   "rehabilitation_exoskeleton_prosthetic",
+   "domestic_household_robots"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "education_training_programs",
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "international_cooperation",
+   "testing_sandboxes"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "labor_employment",
+   "education_training",
+   "consumer_protection",
+   "standards_interoperability",
+   "children_vulnerable_groups",
+   "trust_acceptance"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Targets 2025 indicators: 9 million+ elder-care beds, 55% nursing beds, universal visiting for vulnerable elderly.",
+   "Promotes AI, big data and 5G in elderly products, including home service robots and assistive devices.",
+   "Supports exoskeleton rehabilitation, intelligent prostheses, and robots for lifting, turning and inspection in care.",
+   "Funds major R&D on brain-computer interaction rehabilitation robots and a smart service robot action plan.",
+   "Calls for elder-care standards, quality certification, comprehensive supervision and a new elder-care services law."
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "care_assistive_robots",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 1,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "pub_month": 12,
+  "pub_year": 2021,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 1,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "China's State Council 14th Five-Year Plan for national aging undertakings and the elder-care service system (Dec 2021). It mainly covers social security, elder-care services, health and legal protection. It has limited embodied-AI content: promoting smart elderly products, care and rehabilitation robots, exoskeletons and prostheses, plus related standards and R&D support.",
+  "title_clean": "国务院关于印发“十四五”国家老龄事业发展和养老服务体系规划的通知",
+  "title_en": "State Council Notice on Issuing the 14th Five-Year National Plan for Aging Undertakings and the Elder-Care Service System",
+  "venue": "中国政府网 (State Council)",
+  "methodology": "not_applicable"
+ }
+}

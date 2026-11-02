@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-fc1e7082",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08107160000000001,
+  "in": 2,
+  "out": 649,
+  "cache_read": 2656,
+  "cache_create": 18578,
+  "api_ms": 4358,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "owners_or_users",
+   "public_bodies_or_government",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The Act binds motor vehicle owners, motor vehicle manufacturers, sellers, etc. (manufacturers, assemblers, importers), motor vehicle management business entities, and the Minister and Mayors/Do Governors.",
+  "bound_parties_quote": "A person who intends to run a motor vehicle management business shall have it registered with the head of a Si/Gun/Gu",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Act shall enter into force 1 year and 6 months after the date of its promulgation; provided, the amended provisions of Article 29-3 shall enter into force one year after the date of its promulgation",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "The term \"autonomous vehicle\" means a motor vehicle which can self operate without any operation by its driver or passenger;",
+  "confidence": 0.5
+ }
+}

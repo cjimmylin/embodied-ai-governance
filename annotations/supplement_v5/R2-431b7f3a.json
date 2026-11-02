@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-431b7f3a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.12443560000000001,
+  "in": 2,
+  "out": 573,
+  "cache_read": 2656,
+  "cache_create": 29609,
+  "api_ms": 8093,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "employers"
+  ],
+  "bound_parties_text": "Railway operators (鉄道事業者) and, for Shinkansen, the operating entity (営業主体) and construction entity (建設主体) must establish and comply with implementation standards and meet the technical standards.",
+  "bound_parties_quote": "鉄道事業者（新幹線にあっては、営業主体及び建設主体のそれぞれ。以下この条において同じ。）は、この省令の実施に関する基準（以下「実施基準」という。）を定め、これを遵守しなければならない。",
+  "entry_into_force_date": "2001-12-25",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "この省令は、公布の日から施行する。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.6
+ }
+}

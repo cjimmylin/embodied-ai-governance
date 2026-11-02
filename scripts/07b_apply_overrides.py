@@ -2,7 +2,7 @@
 Rows with field == duplicate_of are removed from the master table (recorded in data/duplicates_removed.csv);
 other rows set a single field. The original v1 table is kept as data/master_table_v1.csv on first run."""
 import pandas as pd, numpy as np, os, shutil, json
-B="/home/user/embodied-ai-governance-v4/"
+B="/home/user/embodied-ai-governance-v5/"
 SRC=B+"data/master_table_raw.csv" if os.path.exists(B+"data/master_table_raw.csv") else B+"data/master_table_v1.csv"
 if not os.path.exists(B+"data/master_table_v1.csv"): shutil.copy(B+"data/master_table.csv",B+"data/master_table_v1.csv")
 m=pd.read_csv(SRC,low_memory=False); print("overrides applied to",SRC)

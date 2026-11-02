@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-295bf91b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0150676,
+  "in": 2,
+  "out": 533,
+  "cache_read": 2656,
+  "cache_create": 2367,
+  "api_ms": 9634,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The regulations address owners or operators of aircraft, who must hold a noise certificate or other approval (including for remotely piloted aircraft).",
+  "bound_parties_quote": "Applications by owner or operator of an aircraft",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "Provisions relating to the Air Navigation (Aircraft Noise) Amendment (2021 Measures No. 1) Regulations 2021 31  Existing approvals relating to RPAs",
+  "confidence": 0.6
+ }
+}

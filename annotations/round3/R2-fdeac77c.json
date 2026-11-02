@@ -1,0 +1,112 @@
+{
+ "doc_id": "R2-fdeac77c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:46:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1616878,
+  "in": 4,
+  "out": 3760,
+  "cache_read": 51198,
+  "cache_create": 29740,
+  "api_ms": 19278,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Act on the Promotion of and Support for Commercialization of Autonomous Vehicles",
+  "title_en": "Act on the Promotion of and Support for Commercialization of Autonomous Vehicles",
+  "language": "en",
+  "authors_or_issuer": "National Assembly of the Republic of Korea (Korea Legislation Research Institute translation)",
+  "issuer_type": "legislature",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Korea Law Translation Center",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "civil_liability",
+   "privacy_data_protection",
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "criminal_liability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "insurance_requirement",
+   "liability_regime",
+   "incident_reporting",
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "data_governance_requirements",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Korean statute promoting commercialization of autonomous vehicles: master plans, pilot operation zones with regulatory exceptions, cooperative driving certification, performance certification and conformity approval, mandatory insurance, accident recorders, defect disclosure, video data processing rules (added 2026), and penalties.",
+  "key_provisions_or_claims": [
+   "Pilot operation zones allow regulatory exceptions for paid passenger/freight transport and safety standards",
+   "Performance certification and approval of conformity required for operating autonomous vehicles",
+   "Mandatory insurance, accident recorders and autonomous driving information recorders",
+   "Article 20-2 (2026) permits non-anonymized video data collection for ADS improvement, with 5-year destruction",
+   "Criminal penalties up to 10 years for concealing defects; fines for non-compliance"
+  ],
+  "confidence": 0.95
+ }
+}

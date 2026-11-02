@@ -2,8 +2,8 @@
 """Assemble the master document table: registry + text features + lexicons + OpenAlex + LLM annotations + derived fields.
 Outputs data/master_table.csv, data/master_table.xlsx (with data dictionary), data/data_dictionary.csv."""
 import os, re, json, glob, sys, pandas as pd, numpy as np
-sys.path.insert(0,"/home/user/embodied-ai-governance-v4/scripts"); from regions import lookup
-B="/home/user/embodied-ai-governance-v4/"
+sys.path.insert(0,"/home/user/embodied-ai-governance-v5/scripts"); from regions import lookup
+B="/home/user/embodied-ai-governance-v5/"
 ANN=sys.argv[1] if len(sys.argv)>1 else "annotations/main"
 reg=pd.read_csv(B+"data/registry.csv")
 feat=pd.read_csv(B+"data/text_features.csv").set_index("file_rel")
@@ -29,9 +29,9 @@ L1={"industrial_manipulators":"Industrial & logistics","collaborative_robots":"I
     "other_embodied":"Other embodied","none":"None"}
 PR=["transparency","justice_fairness","non_maleficence","responsibility_accountability","privacy","beneficence","freedom_autonomy","trust","sustainability","dignity","solidarity","human_oversight","robustness_security","inclusive_growth","physical_safety","human_robot_proximity","liability_for_physical_damage","autonomy_level_control","conformity_assessment_certification","dual_use_military"]
 ann={}
-for folder in [ANN, ANN+"_clean", "annotations/gov_extended", "annotations/round2", "annotations/cjk_fix"]:   # v4: CJK re-annotations with the character-aware cleaner override everything   # cleaned-excerpt re-annotations override the originals; extended-excerpt annotations of governance documents override both
-    for p in sorted(glob.glob(B+folder+"/D*.json"))+sorted(glob.glob(B+folder+"/R2-*.json")):
-        j=json.load(open(p)); ann[j["doc_id"]]={**j["annotation"],"_model":j["model"],"_prompt_hash":j["prompt_hash"],"_cost_usd":(j.get("usage") or {}).get("cost_usd"),"_excerpt_cleaned":folder.endswith("_clean"),"_excerpt_extended":folder.endswith("gov_extended") or folder.endswith("round2") or folder.endswith("cjk_fix"),"_policy":j.get("policy")}
+for folder in [ANN, ANN+"_clean", "annotations/gov_extended", "annotations/round2", "annotations/cjk_fix", "annotations/round3", "annotations/fulltext_v5"]:   # v5: round-3 labels and full-text re-reads of truncated instruments override earlier labels   # v4: CJK re-annotations with the character-aware cleaner override everything   # cleaned-excerpt re-annotations override the originals; extended-excerpt annotations of governance documents override both
+    for p in sorted(glob.glob(B+folder+"/D*.json"))+sorted(glob.glob(B+folder+"/R2-*.json"))+sorted(glob.glob(B+folder+"/R3-*.json")):
+        j=json.load(open(p)); ann[j["doc_id"]]={**j["annotation"],"_model":j["model"],"_prompt_hash":j["prompt_hash"],"_cost_usd":(j.get("usage") or {}).get("cost_usd"),"_excerpt_cleaned":folder.endswith("_clean"),"_excerpt_extended":folder.endswith("gov_extended") or folder.endswith("round2") or folder.endswith("cjk_fix") or folder.endswith("round3") or folder.endswith("fulltext_v5"),"_fulltext_v5":folder.endswith("fulltext_v5"),"_policy":j.get("policy")}
 rows=[]
 for _,d in reg.iterrows():
     r={"doc_id":d.doc_id,"collection_region":d.region,"collection_set":d.set_primary,"collection_tier":d.meta_tier,"collection_points":d.meta_points,

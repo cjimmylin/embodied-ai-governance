@@ -1,0 +1,38 @@
+{
+ "doc_id": "D0003",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:50:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.04718,
+  "in": 2,
+  "out": 652,
+  "cache_read": 0,
+  "cache_create": 10164,
+  "api_ms": 6437,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "owners_or_users",
+   "public_bodies_or_government",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The bill binds manufacturers, sellers/suppliers, acquirers and owners of humanoid robots, and the federal Executive Power, which must regulate the Act and designate the supervising body.",
+  "bound_parties_quote": "Art. 3º A fabricação e a comercialização de robôs humanoides ficam condicionadas à plena transparência de suas funções, devendo o fabricante:",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Art. 14. Esta Lei entra em vigor na data de sua publicação.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Esta Lei regulamenta a fabricação, a importação, a comercialização, a cessão, a posse, o uso, a operação e a atualização de robôs humanoides no território nacional",
+  "confidence": 0.85
+ }
+}

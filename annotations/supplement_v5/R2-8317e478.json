@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-8317e478",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1687956,
+  "in": 2,
+  "out": 695,
+  "cache_read": 2656,
+  "cache_create": 40394,
+  "api_ms": 9330,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The instrument sets application requirements and approval criteria for persons flying unmanned aircraft (applicants and those who fly them), and directs the examining authorities (MLIT Civil Aviation Bureau offices) on how to process permissions/approvals.",
+  "bound_parties_quote": "無人航空機を飛行させる者が、４－２に掲げる基準に適合しているかどうかを申請前に確認の上、「無人航空機を飛行させる者に関する飛行経歴・知識・能力確認書」（様式３）を作成し、申請書に添付すること。",
+  "entry_into_force_date": "2015-12-10",
+  "applicability_date": "2025-10-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "この審査要領は、平成 27 年 12 月 10 日から施行する。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2015,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "平成27年11月17日   制定 （国空航第684号、国空機第923号） 無人航空機の飛行に関する許可・承認の審査要領（カテゴリーⅡ飛行）",
+  "confidence": 0.7
+ }
+}

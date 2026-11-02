@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-1e959e91",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:06:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.017539600000000002,
+  "in": 2,
+  "out": 571,
+  "cache_read": 2656,
+  "cache_create": 2890,
+  "api_ms": 6562,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "individuals_or_general_public",
+   "public_bodies_or_government",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "No person, entity, or State agency may use an unmanned aircraft system for surveillance or to photograph individuals without consent, subject to law enforcement and emergency management exceptions.",
+  "bound_parties_quote": "no person, entity, or State agency shall use an unmanned aircraft system to do any of the following:",
+  "entry_into_force_date": "2014",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "(2014-100, s. 34.30(a); 2017-160, ss. 1-3.)",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2014,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Article 16B. Use of Unmanned Aircraft Systems.",
+  "confidence": 0.6
+ }
+}

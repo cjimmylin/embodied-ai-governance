@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-be4e03ba",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0414876,
+  "in": 2,
+  "out": 697,
+  "cache_read": 2656,
+  "cache_create": 8562,
+  "api_ms": 7396,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The ordinance binds registered training institutions (登録講習機関) and registered renewal training institutions (登録更新講習機関) for unmanned aircraft, and the Minister of Land, Infrastructure, Transport and Tourism in certain handover procedures; applicants for registration must also submit applications.",
+  "bound_parties_quote": "登録講習機関は、役員を選任したときは、その日から二週間以内に、選任した役員の氏名及び住所を記載した届出書にその者の経歴を記載した書類を添えて、国土交通大臣に届け出なければならない。",
+  "entry_into_force_date": "2022-12-05",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "この省令は、航空法等の一部を改正する法律（令和三年法律第六十五号）附則第一条第四号に掲げる規定の施行の日（令和四年十二月五日）から施行する。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2022,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "無人航空機の登録講習機関及び登録更新講習機関に関する省令",
+  "confidence": 0.85
+ }
+}

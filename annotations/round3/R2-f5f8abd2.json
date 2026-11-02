@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-f5f8abd2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:17:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06663279999999999,
+  "in": 4,
+  "out": 3558,
+  "cache_read": 28608,
+  "cache_create": 7046,
+  "api_ms": 18258,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Chapter 32-41 Automated Motor Vehicles",
+  "title_en": "Chapter 32-41 Automated Motor Vehicles",
+  "language": "en",
+  "authors_or_issuer": "South Dakota Legislature",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "South Dakota Codified Laws",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "criminal_liability",
+   "safety_physical_harm",
+   "legal_personhood_robot_rights",
+   "certification_conformity_assessment",
+   "industrial_policy_innovation",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "insurance_requirement",
+   "liability_regime",
+   "incident_reporting",
+   "technical_standards_reference",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "South Dakota statute (SL 2024 ch 122) permitting fully autonomous (SAE level 4/5) vehicles on public roads without a human driver, setting minimal risk condition, insurance, registration, owner liability and state preemption of local restrictions.",
+  "key_provisions_or_claims": [
+   "Fully autonomous vehicles may operate without a human driver if they achieve a minimal risk condition and comply with traffic laws.",
+   "Engaged automated driving system is deemed driver and operator; violations are imputed to the owner.",
+   "Proof of financial responsibility, titling and registration with autonomy level required.",
+   "Owner must report crashes; vehicle must remain at the scene.",
+   "State and localities cannot ban or impose AV-specific taxes or requirements; Transportation Commission makes rules."
+  ],
+  "confidence": 0.93
+ }
+}

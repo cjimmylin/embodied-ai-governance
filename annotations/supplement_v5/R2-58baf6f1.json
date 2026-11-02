@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-58baf6f1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.015445599999999999,
+  "in": 2,
+  "out": 560,
+  "cache_read": 2656,
+  "cache_create": 2394,
+  "api_ms": 4097,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "individuals_or_general_public",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "A person shall not fly unmanned aircraft in Kenya, including its territorial waters (unmanned State aircraft are excluded).",
+  "bound_parties_quote": "a person shall not fly unmanned aircraft in Kenya, including its territorial waters.",
+  "entry_into_force_date": "2019-06-14",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Commenced on 14 June 2019",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "THE CIVIL AVIATION (PROHIBITION TO FLY UNMANNED AIRCRAFT) REGULATIONS, 2019",
+  "confidence": 0.9
+ }
+}

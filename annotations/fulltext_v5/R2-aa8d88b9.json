@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-aa8d88b9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:55:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.6657778,
+  "in": 2,
+  "out": 1833,
+  "cache_read": 11758,
+  "cache_create": 161567,
+  "api_ms": 17015,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "貨物自動車運送事業輸送安全規則",
+  "title_en": "Ordinance on Transport Safety in the Freight Motor Vehicle Transport Business",
+  "language": "ja",
+  "authors_or_issuer": "Ministry of Transport (now Ministry of Land, Infrastructure, Transport and Tourism), Japan",
+  "issuer_type": "national_government_executive",
+  "pub_year": 1990,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search (Japan)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "labor_employment",
+   "cybersecurity",
+   "transparency_explainability",
+   "education_training"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "licensing_registration",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "education_training_programs",
+   "incident_reporting",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japanese ministerial ordinance setting transport safety obligations for freight motor vehicle operators: safety management rules, driver hours, roll calls, records, and operations manager qualifications. Includes provisions for specified automated-operation freight vehicles, requiring a safety attendant on board or remote monitoring, with cybersecurity and system-setting checks. Revised effective April 2026.",
+  "key_provisions_or_claims": [
+   "Operators must have a specified automated-operation safety attendant on board or remote monitoring via remote surveillance devices (Art. 3-2).",
+   "Operators must build systems to ensure safety measures for automated freight operations and supervise attendants.",
+   "Roll call must confirm automated driving device settings for attendants (Art. 7).",
+   "Designated large operators must include cybersecurity in safety management rules (Art. 2-5).",
+   "Operators must keep accident, driver and operation records and publish safety information annually."
+  ],
+  "confidence": 0.9
+ }
+}

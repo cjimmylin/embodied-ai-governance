@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-c6679a66",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.024365599999999998,
+  "in": 2,
+  "out": 670,
+  "cache_read": 2656,
+  "cache_create": 4349,
+  "api_ms": 4619,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "individuals_or_general_public",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The bill makes it unlawful for any person to operate drones within 100 meters of jail facilities, and directs the CAAP to turn over and dispose of confiscated drones and to publish updated drone restrictions.",
+  "bound_parties_quote": "It shall be unlawful for any person to operate Unmanned Aerial Vehicle (UAV), such as but not limited to drones, and other similar aerial vehicles",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This act shall take effect fifteen (15) days after its publication in the Official Gazette or in any two (2) newspapers of general circulation in the Philippines.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "PROHIBITING THE OPERATION OF DRONES WITHIN A 100-METER RADIUS FROM JAIL FACILITIES, PROVIDING PENALTIES FOR VIOLATIONS THEREOF",
+  "confidence": 0.85
+ }
+}

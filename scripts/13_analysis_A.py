@@ -230,6 +230,18 @@ for c in EMB:
     rows.append(dict(category=c,level1=L1[c],research_pct=round(r_,1),n_research=int(has(rs.embodied_categories,c).sum()),instrument_pct=round(g_,1),n_instruments=int(has(gi.embodied_categories,c).sum()),binding_instruments=int(has(gi[gi.binding].embodied_categories,c).sum()),gap_index=round(r_-g_,1)))
 t7=pd.DataFrame(rows).sort_values("gap_index",ascending=False); write_table("T07_governance_gap",t7,f"Governance-gap index per category: share among embodied research outputs (n={len(rs)}) minus share among embodied governance instruments (n={len(gi)})")
 R("governance_gap",t7.to_dict("records"))
+# v5: the same index with the instrument side split by collection source (round 1 web search vs round 2 database harvest), so that the round-2 search terms cannot masquerade as a gap
+gi1=gi[~gi.round2]; gi2=gi[gi.round2]; rows=[]
+for c in EMB:
+    r_=has(rs.embodied_categories,c).mean()*100
+    g1=has(gi1.embodied_categories,c).mean()*100 if len(gi1) else np.nan; g2=has(gi2.embodied_categories,c).mean()*100 if len(gi2) else np.nan
+    rows.append(dict(category=c,level1=L1[c],research_pct=round(r_,1),n_research=int(has(rs.embodied_categories,c).sum()),
+                     instrument_pct_round1=round(g1,1),n_instruments_round1=int(has(gi1.embodied_categories,c).sum()),gap_round1=round(r_-g1,1),
+                     instrument_pct_round2=round(g2,1),n_instruments_round2=int(has(gi2.embodied_categories,c).sum()),gap_round2=round(r_-g2,1),
+                     gap_all=round(r_-has(gi.embodied_categories,c).mean()*100,1)))
+t7b=pd.DataFrame(rows).sort_values("gap_all",ascending=False)
+write_table("T07b_governance_gap_by_source",t7b,f"Governance-gap index by collection source: research share (n={len(rs)}) minus the principal-instrument share among round-1 instruments (web search, n={len(gi1)}) and among round-2 instruments (database harvest, n={len(gi2)}); a gap present in both columns does not depend on the round-2 search terms")
+R("governance_gap_by_source",t7b.to_dict("records"))
 def F18(th):
     t=fs.setup(th); d=t7[(t7.n_research+t7.n_instruments)>=8].sort_values("research_pct",ascending=False); y=np.arange(len(d))
     fig,ax=plt.subplots(figsize=(7.2,4.6))

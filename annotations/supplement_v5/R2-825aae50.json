@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-825aae50",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0161276,
+  "in": 2,
+  "out": 617,
+  "cache_read": 2656,
+  "cache_create": 2422,
+  "api_ms": 4035,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The standard is intended for use by trialling organizations, including private developers and original equipment manufacturers (OEMs), developing safety cases for automated vehicle trials and testing.",
+  "bound_parties_quote": "is intended for use by trialling organizations, including private developers and original equipment manufacturers (OEMs), developing safety cases for automated vehicle trials and testing.",
+  "entry_into_force_date": "2022-04-30",
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2026-03-16",
+  "dates_quote": "Published:\n30 Apr 2022\nWithdrawn:\n16 Mar 2026",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "It might be of interest to organizations requiring assurance that a safety case has been developed in line with good practice.",
+  "robot_provision_year": 2022,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Assuring the operational safety of automated vehicles. Specification",
+  "confidence": 0.7
+ }
+}

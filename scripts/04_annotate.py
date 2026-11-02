@@ -4,7 +4,7 @@ Usage: python3 04_annotate.py [--model claude-sonnet-5-5] [--out annotations/mai
 import os, re, json, sys, time, hashlib, argparse, subprocess, random
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import pandas as pd
-B="/home/user/embodied-ai-governance-v4/"
+B="/home/user/embodied-ai-governance-v5/"
 ap=argparse.ArgumentParser(); ap.add_argument("--model",default="claude-sonnet-5-5"); ap.add_argument("--out",default="annotations/main")
 ap.add_argument("--ids",default=""); ap.add_argument("--workers",type=int,default=8); ap.add_argument("--limit",type=int,default=0); ap.add_argument("--effort",default=""); ap.add_argument("--head",type=int,default=10000); ap.add_argument("--mid",type=int,default=2500); ap.add_argument("--tail",type=int,default=1500); ap.add_argument("--blind",action="store_true",help="strip the CEI cover block and pass minimal metadata"); ap.add_argument("--policy",default="v1")
 a=ap.parse_args()

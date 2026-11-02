@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-d5f91156",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.09472359999999999,
+  "in": 2,
+  "out": 659,
+  "cache_read": 2656,
+  "cache_create": 21966,
+  "api_ms": 4012,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "manufacturers_or_producers",
+   "owners_or_users",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The regulation binds remote pilots in command, observers, operators, owners, manufacturers and applicants for RPAS design authorization, and state-controlled entities operating unmanned aircraft.",
+  "bound_parties_quote": "O piloto remoto em comando de uma aeronave não tripulada é diretamente responsável pela condução segura da aeronave, pelas consequências advindas, e tem a autoridade final por sua operação.",
+  "entry_into_force_date": "2023-05-02",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Data de emissão: 03.04.2023 Data de vigência: 02.05.2023",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2017,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Requisitos Gerais para aeronaves não tripuladas de uso civil Aprovação: Resolução nº 419, de 02.05.2017",
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-ab193fd3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:25",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1340476,
+  "in": 2,
+  "out": 607,
+  "cache_read": 2656,
+  "cache_create": 31927,
+  "api_ms": 10042,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The notice is addressed to the people's governments of provinces, autonomous regions and municipalities, and to State Council ministries and directly affiliated agencies, who must implement the plan.",
+  "bound_parties_quote": "各省、自治区、直辖市人民政府，国务院各部委、各直属机构：现将《“十四五”现代综合交通运输体系发展规划》印发给你们，请认真贯彻执行。",
+  "entry_into_force_date": "2021-12-09",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "国务院\n2021年12月9日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "稳妥发展自动驾驶和车路协同等出行服务，鼓励自动驾驶在港口、物流园区等限定区域测试应用",
+  "confidence": 0.6
+ }
+}

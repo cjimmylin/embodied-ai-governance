@@ -1,0 +1,122 @@
+{
+ "doc_id": "R2-ffc0247a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:46:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08977080000000001,
+  "in": 4,
+  "out": 4049,
+  "cache_read": 32808,
+  "cache_create": 11498,
+  "api_ms": 24485,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice",
+   "energy_environment",
+   "agriculture_food",
+   "defense_security",
+   "healthcare",
+   "cross_sector"
+  ],
+  "authors_or_issuer": "深圳市人民代表大会常务委员会 (Shenzhen Municipal People's Congress Standing Committee)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "statute_or_act",
+  "doi": null,
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "insurance_requirement",
+   "testing_sandboxes",
+   "funding_or_incentives",
+   "oversight_body_creation",
+   "incident_reporting",
+   "data_governance_requirements",
+   "prohibitions_bans",
+   "education_training_programs",
+   "international_cooperation",
+   "technical_standards_reference"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "privacy_data_protection",
+   "cybersecurity",
+   "civil_liability",
+   "standards_interoperability",
+   "education_training"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "subnational_government",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "subnational",
+  "key_provisions_or_claims": [
+   "Promotes low-altitude economy (manned and unmanned aircraft) with principles of safety first, innovation-driven, inclusive and prudent supervision",
+   "Municipal coordination mechanism, expert committee, low-altitude flight service platform and digital airspace map",
+   "Requires operating licences, airworthiness approval, aircraft registration and integration of drone data into regulatory platforms",
+   "Mandatory liability insurance; data security and privacy duties; incident reporting; ban on unlawful counter-drone equipment",
+   "Financial, talent, testing base and standards support for industry innovation"
+  ],
+  "language": "zh",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "中华人民共和国民用航空法",
+   "无人驾驶航空器飞行管理暂行条例"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "drones_uas",
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 1,
+  "pub_year": 2024,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "innovation_promotion",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Shenzhen Special Economic Zone Regulations on Promoting the Low-Altitude Economy Industry, adopted 29 Dec 2023, effective 1 Feb 2024. It promotes drone and low-altitude aircraft industry through infrastructure, flight services, applications, financial support and innovation, while setting safety, licensing, registration, insurance, data security and counter-drone rules.",
+  "title_clean": "深圳经济特区低空经济产业促进条例",
+  "title_en": "Shenzhen Special Economic Zone Regulations on Promoting the Low-Altitude Economy Industry",
+  "venue": "深圳市政府公报 2024年第4期"
+ }
+}

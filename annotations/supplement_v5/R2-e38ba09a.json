@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-e38ba09a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:55:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0718556,
+  "in": 2,
+  "out": 585,
+  "cache_read": 2656,
+  "cache_create": 16434,
+  "api_ms": 3917,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The Communication is a policy action plan that sets out planned Commission actions and calls on Member States and co-legislators, but imposes no binding obligations on any party.",
+  "bound_parties_quote": "The Commission will inform the European Parliament and the Council about this Action Plan and the actions proposed and calls on them to enable a swift implementation of targeted amendments proposed.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Brussels, 5.3.2025 COM(2025) 95 final",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "starting with allowing the approval of unlimited series of vehicles with automated parking systems in 2025 and more use cases (e.g. hub-to-hub freight transport) in 2026",
+  "confidence": 0.6
+ }
+}

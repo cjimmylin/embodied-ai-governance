@@ -1,0 +1,103 @@
+{
+ "doc_id": "R2-ee56555b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:13:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.17600380000000002,
+  "in": 2,
+  "out": 1734,
+  "cache_read": 11758,
+  "cache_create": 39371,
+  "api_ms": 15616,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Liiklusseadus (Traffic Act)",
+  "title_en": "Traffic Act (Estonia)",
+  "language": "en",
+  "authors_or_issuer": "Riigikogu (Parliament of Estonia)",
+  "issuer_type": "legislature",
+  "pub_year": 2010,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Riigi Teataja (RT I 2010, 44, 261)",
+  "jurisdiction_country": "EE",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "EE"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "other",
+   "human_robot_interaction_social_effects",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "technical_standards_reference",
+   "oversight_body_creation",
+   "prohibitions_bans"
+  ],
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Consolidated text of Estonia's Traffic Act, regulating road traffic, vehicle registration, driver licensing and road management. It includes specific provisions on self-driving delivery robots: definitions, a 6 km/h speed limit, use of cycle and pedestrian tracks, give-way duties, and road-owner restrictions.",
+  "key_provisions_or_claims": [
+   "Defines self-driving delivery robots as partially or fully automated or remotely controlled ground vehicles, with defined users and controllers.",
+   "Speed limit of 6 km/h for self-driving delivery robots.",
+   "Robots may use pedestrian and cycle tracks and are regulated by pedestrian traffic lights.",
+   "Road owners may restrict robot use and must publish restrictions in machine-processable form.",
+   "Drivers must give way to delivery robots when turning or leaving the carriageway."
+  ],
+  "confidence": 0.85
+ }
+}

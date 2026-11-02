@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-1373db2b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:01:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0220156,
+  "in": 2,
+  "out": 555,
+  "cache_read": 2656,
+  "cache_create": 4049,
+  "api_ms": 8300,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The working paper is a state position paper that encourages countries and parties to act but imposes no binding obligations on anyone.",
+  "bound_parties_quote": "Countries should uphold a national defense policy that is defensive in nature, develop and use AI technologies in the military domain in a prudent and responsible manner",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Working Paper of the People's Republic of China on (July 2022)",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2022,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Working Paper of the People's Republic of China on (July 2022) I. Regulating Military Application of Artificial Intelligence (Al)",
+  "confidence": 0.8
+ }
+}

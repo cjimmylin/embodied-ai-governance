@@ -1,0 +1,115 @@
+{
+ "doc_id": "R2-d97f5421",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:55:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2875278,
+  "in": 2,
+  "out": 1900,
+  "cache_read": 11758,
+  "cache_create": 66837,
+  "api_ms": 22302,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Automated Vehicles Act 2024",
+  "title_en": "Automated Vehicles Act 2024",
+  "language": "en",
+  "authors_or_issuer": "UK Parliament (King in Parliament)",
+  "issuer_type": "legislature",
+  "pub_year": 2024,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "legislation.gov.uk",
+  "jurisdiction_country": "GB",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "GB"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "criminal_liability",
+   "civil_liability",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "consumer_protection",
+   "transparency_explainability",
+   "privacy_data_protection",
+   "children_vulnerable_groups"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "liability_regime",
+   "oversight_body_creation",
+   "incident_reporting",
+   "prohibitions_bans",
+   "audits_impact_assessment",
+   "transparency_disclosure_labelling",
+   "technical_standards_reference",
+   "data_governance_requirements",
+   "testing_sandboxes"
+  ],
+  "named_instruments_referenced": [
+   "EU Machinery Regulation"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "UK Act regulating self-driving road vehicles in Great Britain. It creates a pre-market authorisation regime with an authorised self-driving entity, operator licensing for no-user-in-charge journeys, user-in-charge immunity, new offences, incident investigators, marketing restrictions, passenger service permits, and enforcement powers. Commencement is staged; this version reflects the 2026 position.",
+  "key_provisions_or_claims": [
+   "Secretary of State authorises vehicles meeting the self-driving test, assessed against a statement of safety principles (at least as safe as careful, competent drivers).",
+   "Authorised self-driving entity bears responsibility for the vehicle; no-user-in-charge operators must be licensed.",
+   "User-in-charge is immune from liability for the driving of the vehicle, with defined exceptions.",
+   "Information offences, civil sanctions (compliance, redress, monetary penalties), and statutory incident inspectors.",
+   "Restrictions on misleading self-driving marketing terms, and permits for automated passenger services."
+  ],
+  "confidence": 0.96
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-803015db",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0727696,
+  "in": 2,
+  "out": 696,
+  "cache_read": 2656,
+  "cache_create": 16385,
+  "api_ms": 4571,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "Personal delivery device operators, eligible entities that own and operate personal delivery devices, and any person operating a personal delivery device in Arizona; local authorities are limited from allowing operation on nonmotorized trails or bicycle paths.",
+  "bound_parties_quote": "A PERSON MAY NOT OPERATE A PERSONAL DELIVERY DEVICE IN THIS STATE UNLESS THE PERSON IS AUTHORIZED TO DO SO UNDER THIS SECTION AND COMPLIES WITH THIS SECTION.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2018,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "IS EQUIPPED WITH TECHNOLOGY TO ALLOW FOR THE OPERATION OF THE DEVICE WITH OR WITHOUT THE ACTIVE CONTROL OR MONITORING OF A NATURAL PERSON.",
+  "confidence": 0.85
+ }
+}

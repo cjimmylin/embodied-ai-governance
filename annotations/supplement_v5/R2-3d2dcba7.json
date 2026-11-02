@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-3d2dcba7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:53:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0384896,
+  "in": 2,
+  "out": 664,
+  "cache_read": 2656,
+  "cache_create": 7895,
+  "api_ms": 3842,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers",
+   "manufacturers_or_producers",
+   "owners_or_users",
+   "providers_or_developers"
+  ],
+  "bound_parties_text": "The ordinance binds municipal and county-level people's governments and their departments, smart connected vehicle enterprises and related parties, producers and sellers of smart connected vehicle products, and owners and managers of smart connected vehicles.",
+  "bound_parties_quote": "智能车联网企业应当建立健全智能车联网网络安全、数据安全管理制度，依法制定应急预案，落实安全保护责任。",
+  "entry_into_force_date": "2023-12-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "第四十四条 本条例自2023年12月1日起施行。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "（2023年8月29日苏州市第十七届人民代表大会常务委员会第九次会议通过 2023年9月27日江苏省第十四届人民代表大会常务委员会第五次会议批准）",
+  "confidence": 0.9
+ }
+}

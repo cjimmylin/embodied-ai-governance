@@ -5,7 +5,7 @@ writes data/recovered_docs.csv (file-level rows in the same shape as files.csv, 
 import os, re, json, subprocess, hashlib, pandas as pd, openpyxl
 TR="/root/.claude/projects/-home-user/92a26033-b014-57db-85f3-dc52d2f52803/tool-results/"
 OUTMD="/home/user/drive-md-out/_recovered/"
-B="/home/user/embodied-ai-governance-v4/"
+B="/home/user/embodied-ai-governance-v5/"
 # (json file, drive id, region_code, set, region folder, subpath, filename)
 EU2="6. Europe/Oct 29 - Version 2/Europe"
 idx=openpyxl.load_workbook("/home/user/drive-src/AI Robotics (Filtered Sources)/Filtered Sources/6. Europe/Oct 29 - Version 2/Europe/INDEX.xlsx",read_only=True,data_only=True)["Index"]

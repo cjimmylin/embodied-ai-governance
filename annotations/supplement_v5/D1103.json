@@ -1,0 +1,34 @@
+{
+ "doc_id": "D1103",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:51:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0393876,
+  "in": 2,
+  "out": 593,
+  "cache_read": 2656,
+  "cache_create": 8297,
+  "api_ms": 3896,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The annexes to the proposal refer to providers (and their authorised representatives), notified bodies and users of AI systems, but the excerpt contains no operative provision imposing obligations; the annexes support the main proposal.",
+  "bound_parties_quote": "The provider verifies that the established quality management system is in compliance with the requirements of Article 17.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "ANNEXES to the Proposal for a Regulation of the European Parliament and of the Council LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT)",
+  "confidence": 0.6
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "doc_id": "R3-e752c8e7",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:11:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.049277800000000004,
+  "in": 2,
+  "out": 1843,
+  "cache_read": 11758,
+  "cache_create": 7417,
+  "api_ms": 12282,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "民政部关于进一步扩大养老服务供给 促进养老服务消费的实施意见",
+  "title_en": "Implementation Opinions of the Ministry of Civil Affairs on Further Expanding Elderly Care Service Supply and Promoting Elderly Care Service Consumption",
+  "language": "zh",
+  "authors_or_issuer": "民政部 (Ministry of Civil Affairs of China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "rehabilitation_exoskeleton_prosthetic",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "consumer_protection",
+   "labor_employment",
+   "education_training",
+   "children_vulnerable_groups",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 2,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation",
+   "insurance_requirement",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "China's Ministry of Civil Affairs implementation opinions (2019) on expanding elderly care supply and consumption: community, home and institutional care, workforce training, insurance and market oversight. Only a passing provision supports R&D of exoskeleton, care and rehabilitation robots and smart elderly-care devices.",
+  "key_provisions_or_claims": [
+   "Targets by 2022: community day-care coverage over 90%, nursing beds at least 50% of institutional beds",
+   "Supports R&D of exoskeleton robots, care and rehabilitation robots and smart elderly-care devices",
+   "Train 2 million care workers and 10,000 facility directors by 2022",
+   "Encourages commercial long-term care and liability insurance for care providers",
+   "Strengthens quality and safety supervision and credit-based market regulation"
+  ],
+  "confidence": 0.9
+ }
+}

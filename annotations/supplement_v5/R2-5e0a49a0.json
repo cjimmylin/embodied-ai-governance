@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-5e0a49a0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:48",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0159856,
+  "in": 2,
+  "out": 538,
+  "cache_read": 2656,
+  "cache_create": 2584,
+  "api_ms": 3336,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The document is a draft ISO standard project description that names system integrators and facility owners as audiences but states no binding obligations.",
+  "bound_parties_quote": "A series of standards are necessary to provide information to system integrators and facility owners on the requirements when integrating robots and infrastructure.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "A working group has prepared a draft.",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Robotics — Infrastructure for robot applications — Part 2: Requirements for integration with lifts (elevators) and automatic doorways",
+  "confidence": 0.6
+ }
+}

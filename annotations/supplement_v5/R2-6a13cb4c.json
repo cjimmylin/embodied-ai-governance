@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-6a13cb4c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0147016,
+  "in": 2,
+  "out": 566,
+  "cache_read": 2656,
+  "cache_create": 2193,
+  "api_ms": 4167,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The standard is guidance said to be useful for robot and robotic device designers and managers and the robotics process automation industry, but it imposes no obligations.",
+  "bound_parties_quote": "Robot and robotic device designers and managers",
+  "entry_into_force_date": "2016-04-30",
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2023-03-27",
+  "dates_quote": "Published:\n30 Apr 2016\nWithdrawn:\n27 Mar 2023",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "BS 8611 gives guidance on the identification of potential ethical harm and provides guidelines on safe design",
+  "robot_provision_year": 2016,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Robots and robotic devices. Guide to the ethical design and application of robots and robotic systems",
+  "confidence": 0.7
+ }
+}

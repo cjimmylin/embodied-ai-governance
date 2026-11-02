@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-286dc01c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0450356,
+  "in": 2,
+  "out": 639,
+  "cache_read": 2656,
+  "cache_create": 9594,
+  "api_ms": 3783,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The Government, the Minister of Land, Infrastructure and Transport, other ministers, and local governments are tasked with promoting the drone industry; entrusted institutions and exclusive drone traffic management business entities are bound by confidentiality rules.",
+  "bound_parties_quote": "No person who performs or performed the functions entrusted under this Act shall disclose to a third party confidential information acquired in the course of performing such functions.",
+  "entry_into_force_date": "2020-04-30",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Act shall enter into force one year after the date of its promulgation.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "ACT ON PROMOTION OF UTILIZATION OF DRONES AND CREATION OF INFRASTRUCTURE THEREFOR Act No. 16420, Apr. 30, 2019",
+  "confidence": 0.85
+ }
+}

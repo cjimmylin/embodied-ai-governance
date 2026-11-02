@@ -1,0 +1,113 @@
+{
+ "doc_id": "R2-00a5169d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:46:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.15354790000000001,
+  "in": 4,
+  "out": 4088,
+  "cache_read": 48279,
+  "cache_create": 26958,
+  "api_ms": 22991,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "無人載具科技創新實驗計畫申請須知",
+  "title_en": "Application Guide for the Unmanned Vehicles Technology Innovation Experimentation Program",
+  "language": "zh",
+  "authors_or_issuer": "經濟部產業技術司 (Department of Industrial Technology, Ministry of Economic Affairs, Taiwan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "經濟部無人載具科技創新沙盒",
+  "jurisdiction_country": "TW",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "TW"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "drones_uas",
+   "autonomous_maritime_or_rail"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "human_oversight_control",
+   "privacy_data_protection",
+   "cybersecurity",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "risk_management_risk_tiers",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "licensing_registration",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "insurance_requirement",
+   "transparency_disclosure_labelling",
+   "data_governance_requirements",
+   "human_oversight_requirement",
+   "oversight_body_creation",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Taiwan MOEA's April 2020 application guide for the Unmanned Vehicles Technology Innovation Experimentation sandbox. It covers eligibility, review criteria, execution duties, incident reporting, and annexes reproducing the Act and its implementing rules, allowing temporary exemption from traffic, aviation and maritime laws for trials of unmanned road, sea and air vehicles.",
+  "key_provisions_or_claims": [
+   "Sandbox permits experiments with unmanned vehicles (land, sea, air) with approved exemptions from specified laws, for up to 1 year, extendable to 4 years at most.",
+   "Applicants must show innovation, prior closed-field testing, risk management, participant protection and insurance.",
+   "Monthly reporting of human interventions; data recorders must run throughout trials; records retained 3 years.",
+   "Safety accidents require immediate suspension, police and ministry notice within 2 hours, report within 10 days, and joint evaluation before resumption.",
+   "Applicant bears full responsibility for damages; civil and criminal liability provisions are not exempted."
+  ],
+  "confidence": 0.9
+ }
+}

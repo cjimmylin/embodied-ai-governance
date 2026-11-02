@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-65e22b57",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0739196,
+  "in": 2,
+  "out": 593,
+  "cache_read": 2656,
+  "cache_create": 16930,
+  "api_ms": 6113,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "member_states_or_subnational_governments",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The proposal amends EU funding programme regulations; it binds the Commission (which shall support actions and implement transferred resources) and Member States, and sets eligibility restrictions for legal entities in calls.",
+  "bound_parties_quote": "The Commission shall support actions that are conducive to developing disruptive technologies for defence in the areas of intervention defined in the work programmes",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2026-12-31",
+  "dates_quote": "This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "to the set-up and deployment of digital capacities such as cloud, AI and AI Gigafactories",
+  "confidence": 0.55
+ }
+}

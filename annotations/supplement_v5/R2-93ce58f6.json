@@ -1,0 +1,39 @@
+{
+ "doc_id": "R2-93ce58f6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:53:43",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0803876,
+  "in": 2,
+  "out": 735,
+  "cache_read": 2656,
+  "cache_create": 18192,
+  "api_ms": 7377,
+  "result_head": ""
+ },
+ "annotation": {
+  "applicability_date": null,
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "owners_or_users",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_quote": "This Implementing Standard shall be applicable to any person, including UAS operators, pilots, instructors     and/or     any     organization,     involved    in     Registration,    Operation,",
+  "bound_parties_text": "The standard applies to any person, including UAS operators, pilots, instructors and any organization involved in registration, operation, manufacturing/assembling, importing, selling and training of unmanned aircraft systems.",
+  "confidence": 0.85,
+  "dates_quote": "The rest of the Paragraphs of the Implementing Standard 053 First Edition Rev.03 issued on 06th of January 2022 shall be superseded/ replaced by this Implementing Standard and shall come into force with immediate effect (01st March 2025) and remain in force until revised or revoked.",
+  "entry_into_force_date": "2025-03-01",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "repeal_or_expiry_date": null,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Requirements for the Operation of Unmanned Aircraft Systems (Unmanned Aerial Vehicles/Remotely Piloted Aircraft)",
+  "robot_provision_year": 2025
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-ffc0247a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:53:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0441356,
+  "in": 2,
+  "out": 665,
+  "cache_read": 2656,
+  "cache_create": 9304,
+  "api_ms": 5596,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers",
+   "manufacturers_or_producers",
+   "owners_or_users",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The ordinance binds the Shenzhen municipal and district governments and their departments, as well as units and individuals engaged in low-altitude flight activities, aircraft production/maintenance/operation, and infrastructure builders and operators.",
+  "bound_parties_quote": "从事低空飞行以及相关活动的单位和个人，应当依法采取措施防止数据泄露、丢失、损毁或者被窃取、篡改，维护数据的完整性、安全性、保密性和可用性。",
+  "entry_into_force_date": "2024-02-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "现予公布，自2024年2月1日起施行。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "本条例所称低空经济，是指以民用有人驾驶航空器和无人驾驶航空器的低空飞行活动为牵引",
+  "confidence": 0.8
+ }
+}

@@ -3,7 +3,7 @@
 annotation agreement, and the list of newly captured embodied instruments. Writes tables T30-T37, figures F50-F52 and
 report/src/collection_round2.md. Run after 07/07b (v3 master table) and 18 (coverage audit)."""
 import os, re, json, sys, numpy as np, pandas as pd
-sys.path.insert(0,"/home/user/embodied-ai-governance-v4/scripts")
+sys.path.insert(0,"/home/user/embodied-ai-governance-v5/scripts")
 from analysis_common import *
 import figstyle as fs
 from matplotlib.patches import Patch

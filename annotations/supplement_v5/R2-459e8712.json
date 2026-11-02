@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-459e8712",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0707116,
+  "in": 2,
+  "out": 689,
+  "cache_read": 2656,
+  "cache_create": 15888,
+  "api_ms": 6740,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "manufacturers_or_producers",
+   "owners_or_users",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The rule binds persons operating unmanned aircraft in US airspace, persons producing standard remote identification unmanned aircraft and broadcast modules, and persons submitting means of compliance or declarations of compliance; it also sets duties for the FAA Administrator.",
+  "bound_parties_quote": "after September 16, 2023, no person may operate an unmanned aircraft within the airspace of the United States unless the operation meets the requirements of § 89.110 or § 89.115.",
+  "entry_into_force_date": "2021-01-15",
+  "applicability_date": "2023-09-16",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Amdt. 89-1, 86 FR 4505, Jan. 15, 2021, unless otherwise noted. ... after September 16, 2023, no person may operate an unmanned aircraft",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "PART 89—REMOTE IDENTIFICATION OF UNMANNED AIRCRAFT",
+  "confidence": 0.85
+ }
+}

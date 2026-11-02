@@ -40,117 +40,117 @@
 | Research outputs        | Technical standards reference       | mechanism |          509 |          48 |            9.8 |           4.2 |       5.7 | Fisher     | 0.2973 |   1      |
 | Research outputs        | Testing sandboxes                   | mechanism |          509 |          48 |            3.7 |           4.2 |      -0.4 | Fisher     | 0.7005 |   1      |
 | Research outputs        | Transparency disclosure labelling   | mechanism |          509 |          48 |            5.7 |          10.4 |      -4.7 | Fisher     | 0.2011 |   1      |
-| Governance instruments  | Transparency                        | principle |          505 |         372 |           46.7 |          74.7 |     -28   | chi-square | 0      |   0      |
-| Governance instruments  | Justice & fairness                  | principle |          505 |         372 |           22.6 |          69.4 |     -46.8 | chi-square | 0      |   0      |
-| Governance instruments  | Non-maleficence                     | principle |          505 |         372 |           89.1 |          79   |      10.1 | chi-square | 0.0001 |   0.0006 |
-| Governance instruments  | Responsibility & accountability     | principle |          505 |         372 |           74.7 |          79.8 |      -5.2 | chi-square | 0.0857 |   0.2952 |
-| Governance instruments  | Privacy                             | principle |          505 |         372 |           37.2 |          68.8 |     -31.6 | chi-square | 0      |   0      |
-| Governance instruments  | Beneficence                         | principle |          505 |         372 |           47.3 |          79.8 |     -32.5 | chi-square | 0      |   0      |
-| Governance instruments  | Freedom & autonomy                  | principle |          505 |         372 |           14.3 |          34.7 |     -20.4 | chi-square | 0      |   0      |
-| Governance instruments  | Trust                               | principle |          505 |         372 |           26.3 |          62.1 |     -35.8 | chi-square | 0      |   0      |
-| Governance instruments  | Sustainability                      | principle |          505 |         372 |           28.9 |          49.5 |     -20.6 | chi-square | 0      |   0      |
-| Governance instruments  | Dignity                             | principle |          505 |         372 |           11.3 |          28   |     -16.7 | chi-square | 0      |   0      |
-| Governance instruments  | Solidarity                          | principle |          505 |         372 |           17.8 |          42.2 |     -24.4 | chi-square | 0      |   0      |
-| Governance instruments  | Human oversight                     | principle |          505 |         372 |           57.6 |          46   |      11.7 | chi-square | 0.0008 |   0.0073 |
-| Governance instruments  | Robustness & security               | principle |          505 |         372 |           73.1 |          71.5 |       1.6 | chi-square | 0.6631 |   0.6631 |
-| Governance instruments  | Inclusive growth                    | principle |          505 |         372 |           52.9 |          73.9 |     -21.1 | chi-square | 0      |   0      |
-| Governance instruments  | Physical safety                     | principle |          505 |         372 |           83.4 |           9.4 |      74   | chi-square | 0      |   0      |
-| Governance instruments  | Human-robot proximity               | principle |          505 |         372 |           33.3 |           0.3 |      33   | chi-square | 0      |   0      |
-| Governance instruments  | Liability for physical damage       | principle |          505 |         372 |           26.5 |           2.7 |      23.8 | chi-square | 0      |   0      |
-| Governance instruments  | Autonomy level & control            | principle |          505 |         372 |           60.4 |           9.7 |      50.7 | chi-square | 0      |   0      |
-| Governance instruments  | Conformity assessment               | principle |          505 |         372 |           65.7 |          19.4 |      46.4 | chi-square | 0      |   0      |
-| Governance instruments  | Dual use & military                 | principle |          505 |         372 |           20.6 |          11.8 |       8.8 | chi-square | 0.0009 |   0.0073 |
-| Governance instruments  | Audits impact assessment            | mechanism |          505 |         372 |           42.6 |          57.5 |     -15   | chi-square | 0      |   0.0002 |
-| Governance instruments  | Conformity assessment certification | mechanism |          505 |         372 |           42   |          11.8 |      30.2 | chi-square | 0      |   0      |
-| Governance instruments  | Data governance requirements        | mechanism |          505 |         372 |           20.4 |          36.3 |     -15.9 | chi-square | 0      |   0      |
-| Governance instruments  | Education training programs         | mechanism |          505 |         372 |           35   |          52.7 |     -17.6 | chi-square | 0      |   0      |
-| Governance instruments  | Funding or incentives               | mechanism |          505 |         372 |           30.1 |          46.2 |     -16.1 | chi-square | 0      |   0      |
-| Governance instruments  | Human oversight requirement         | mechanism |          505 |         372 |           26.7 |          21   |       5.8 | chi-square | 0.059  |   0.2952 |
-| Governance instruments  | Incident reporting                  | mechanism |          505 |         372 |           24.4 |          15.9 |       8.5 | chi-square | 0.0029 |   0.02   |
-| Governance instruments  | Insurance requirement               | mechanism |          505 |         372 |           15.4 |           1.9 |      13.6 | chi-square | 0      |   0      |
-| Governance instruments  | International cooperation           | mechanism |          505 |         372 |           34.1 |          55.9 |     -21.9 | chi-square | 0      |   0      |
-| Governance instruments  | Liability regime                    | mechanism |          505 |         372 |           11.3 |           5.4 |       5.9 | chi-square | 0.0033 |   0.02   |
-| Governance instruments  | Licensing registration              | mechanism |          505 |         372 |           43.8 |          10.2 |      33.5 | chi-square | 0      |   0      |
-| Governance instruments  | Oversight body creation             | mechanism |          505 |         372 |           37.6 |          56.2 |     -18.6 | chi-square | 0      |   0      |
-| Governance instruments  | Prohibitions bans                   | mechanism |          505 |         372 |           21   |          11.8 |       9.2 | chi-square | 0.0005 |   0.0052 |
-| Governance instruments  | Risk based tiering                  | mechanism |          505 |         372 |           18.2 |          23.1 |      -4.9 | chi-square | 0.0895 |   0.2952 |
-| Governance instruments  | Self regulation codes               | mechanism |          505 |         372 |            7.3 |          23.7 |     -16.3 | chi-square | 0      |   0      |
-| Governance instruments  | Technical standards reference       | mechanism |          505 |         372 |           65   |          34.9 |      30   | chi-square | 0      |   0      |
-| Governance instruments  | Testing sandboxes                   | mechanism |          505 |         372 |           36.4 |          30.4 |       6.1 | chi-square | 0.0716 |   0.2952 |
-| Governance instruments  | Transparency disclosure labelling   | mechanism |          505 |         372 |           20.4 |          42.2 |     -21.8 | chi-square | 0      |   0      |
-| Government reports      | Transparency                        | principle |           97 |         148 |           57.7 |          69.6 |     -11.9 | chi-square | 0.0774 |   1      |
-| Government reports      | Justice & fairness                  | principle |           97 |         148 |           55.7 |          75   |     -19.3 | chi-square | 0.0026 |   0.0563 |
-| Government reports      | Non-maleficence                     | principle |           97 |         148 |           90.7 |          64.9 |      25.9 | chi-square | 0      |   0.0003 |
-| Government reports      | Responsibility & accountability     | principle |           97 |         148 |           80.4 |          69.6 |      10.8 | chi-square | 0.0825 |   1      |
-| Government reports      | Privacy                             | principle |           97 |         148 |           41.2 |          61.5 |     -20.2 | chi-square | 0.0029 |   0.0612 |
-| Government reports      | Beneficence                         | principle |           97 |         148 |           69.1 |          83.1 |     -14   | chi-square | 0.0156 |   0.2805 |
-| Government reports      | Freedom & autonomy                  | principle |           97 |         148 |           19.6 |          34.5 |     -14.9 | chi-square | 0.0175 |   0.298  |
-| Government reports      | Trust                               | principle |           97 |         148 |           53.6 |          68.9 |     -15.3 | chi-square | 0.022  |   0.352  |
-| Government reports      | Sustainability                      | principle |           97 |         148 |           34   |          43.9 |      -9.9 | chi-square | 0.1576 |   1      |
-| Government reports      | Dignity                             | principle |           97 |         148 |           27.8 |          23.6 |       4.2 | chi-square | 0.5573 |   1      |
-| Government reports      | Solidarity                          | principle |           97 |         148 |           28.9 |          45.9 |     -17.1 | chi-square | 0.0109 |   0.2189 |
-| Government reports      | Human oversight                     | principle |           97 |         148 |           71.1 |          39.2 |      31.9 | chi-square | 0      |   0.0001 |
-| Government reports      | Robustness & security               | principle |           97 |         148 |           63.9 |          63.5 |       0.4 | chi-square | 1      |   1      |
-| Government reports      | Inclusive growth                    | principle |           97 |         148 |           67   |          85.8 |     -18.8 | chi-square | 0.0008 |   0.022  |
-| Government reports      | Physical safety                     | principle |           97 |         148 |           76.3 |           2.7 |      73.6 | chi-square | 0      |   0      |
-| Government reports      | Human-robot proximity               | principle |           97 |         148 |           32   |           0   |      32   | chi-square | 0      |   0      |
-| Government reports      | Liability for physical damage       | principle |           97 |         148 |           37.1 |           1.4 |      35.8 | chi-square | 0      |   0      |
-| Government reports      | Autonomy level & control            | principle |           97 |         148 |           69.1 |           4.1 |      65   | chi-square | 0      |   0      |
-| Government reports      | Conformity assessment               | principle |           97 |         148 |           52.6 |          14.9 |      37.7 | chi-square | 0      |   0      |
-| Government reports      | Dual use & military                 | principle |           97 |         148 |           48.5 |           8.1 |      40.3 | chi-square | 0      |   0      |
-| Government reports      | Audits impact assessment            | mechanism |           97 |         148 |           45.4 |          43.2 |       2.1 | chi-square | 0.8455 |   1      |
-| Government reports      | Conformity assessment certification | mechanism |           97 |         148 |           18.6 |          10.8 |       7.7 | chi-square | 0.127  |   1      |
-| Government reports      | Data governance requirements        | mechanism |           97 |         148 |           14.4 |          18.9 |      -4.5 | chi-square | 0.4606 |   1      |
-| Government reports      | Education training programs         | mechanism |           97 |         148 |           39.2 |          50.7 |     -11.5 | chi-square | 0.1021 |   1      |
-| Government reports      | Funding or incentives               | mechanism |           97 |         148 |           27.8 |          54.7 |     -26.9 | chi-square | 0.0001 |   0.0017 |
-| Government reports      | Human oversight requirement         | mechanism |           97 |         148 |           36.1 |          11.5 |      24.6 | chi-square | 0      |   0.0003 |
-| Government reports      | Incident reporting                  | mechanism |           97 |         148 |           12.4 |           2   |      10.3 | chi-square | 0.0024 |   0.0562 |
-| Government reports      | Insurance requirement               | mechanism |           97 |         148 |           11.3 |           1.4 |      10   | chi-square | 0.0018 |   0.0434 |
-| Government reports      | International cooperation           | mechanism |           97 |         148 |           59.8 |          50   |       9.8 | chi-square | 0.1698 |   1      |
-| Government reports      | Liability regime                    | mechanism |           97 |         148 |           17.5 |           4.1 |      13.5 | chi-square | 0.0009 |   0.0232 |
-| Government reports      | Licensing registration              | mechanism |           97 |         148 |           14.4 |           2   |      12.4 | chi-square | 0.0005 |   0.0135 |
-| Government reports      | Oversight body creation             | mechanism |           97 |         148 |           32   |          47.3 |     -15.3 | chi-square | 0.0243 |   0.3643 |
-| Government reports      | Prohibitions bans                   | mechanism |           97 |         148 |           27.8 |           6.8 |      21.1 | chi-square | 0      |   0.0004 |
-| Government reports      | Risk based tiering                  | mechanism |           97 |         148 |           16.5 |          16.2 |       0.3 | chi-square | 1      |   1      |
-| Government reports      | Self regulation codes               | mechanism |           97 |         148 |           12.4 |          12.2 |       0.2 | chi-square | 1      |   1      |
-| Government reports      | Technical standards reference       | mechanism |           97 |         148 |           36.1 |          20.9 |      15.1 | chi-square | 0.0137 |   0.2607 |
-| Government reports      | Testing sandboxes                   | mechanism |           97 |         148 |           34   |          25   |       9   | chi-square | 0.1664 |   1      |
-| Government reports      | Transparency disclosure labelling   | mechanism |           97 |         148 |           20.6 |          22.3 |      -1.7 | chi-square | 0.878  |   1      |
-| News and communications | Transparency                        | principle |          165 |         380 |           17.6 |          39.7 |     -22.2 | chi-square | 0      |   0      |
-| News and communications | Justice & fairness                  | principle |          165 |         380 |           12.7 |          42.9 |     -30.2 | chi-square | 0      |   0      |
-| News and communications | Non-maleficence                     | principle |          165 |         380 |           74.5 |          55.3 |      19.3 | chi-square | 0      |   0.0007 |
-| News and communications | Responsibility & accountability     | principle |          165 |         380 |           41.8 |          41.8 |      -0   | chi-square | 1      |   1      |
-| News and communications | Privacy                             | principle |          165 |         380 |           10.9 |          28.2 |     -17.2 | chi-square | 0      |   0.0004 |
-| News and communications | Beneficence                         | principle |          165 |         380 |           58.8 |          77.4 |     -18.6 | chi-square | 0      |   0.0004 |
-| News and communications | Freedom & autonomy                  | principle |          165 |         380 |            6.1 |          11.6 |      -5.5 | chi-square | 0.068  |   0.6799 |
-| News and communications | Trust                               | principle |          165 |         380 |           21.2 |          36.6 |     -15.4 | chi-square | 0.0006 |   0.0106 |
-| News and communications | Sustainability                      | principle |          165 |         380 |           20   |          25.8 |      -5.8 | chi-square | 0.1789 |   1      |
-| News and communications | Dignity                             | principle |          165 |         380 |            5.5 |          13.2 |      -7.7 | chi-square | 0.0121 |   0.1694 |
-| News and communications | Solidarity                          | principle |          165 |         380 |            7.3 |          32.4 |     -25.1 | chi-square | 0      |   0      |
-| News and communications | Human oversight                     | principle |          165 |         380 |           31.5 |          13.2 |      18.4 | chi-square | 0      |   0      |
-| News and communications | Robustness & security               | principle |          165 |         380 |           33.3 |          32.1 |       1.2 | chi-square | 0.8558 |   1      |
-| News and communications | Inclusive growth                    | principle |          165 |         380 |           53.3 |          76.8 |     -23.5 | chi-square | 0      |   0      |
-| News and communications | Physical safety                     | principle |          165 |         380 |           67.9 |           1.1 |      66.8 | chi-square | 0      |   0      |
-| News and communications | Human-robot proximity               | principle |          165 |         380 |           35.8 |           0   |      35.8 | chi-square | 0      |   0      |
-| News and communications | Liability for physical damage       | principle |          165 |         380 |           12.1 |           0.3 |      11.9 | chi-square | 0      |   0      |
-| News and communications | Autonomy level & control            | principle |          165 |         380 |           38.8 |           1.3 |      37.5 | chi-square | 0      |   0      |
-| News and communications | Conformity assessment               | principle |          165 |         380 |           31.5 |           6.8 |      24.7 | chi-square | 0      |   0      |
-| News and communications | Dual use & military                 | principle |          165 |         380 |           17   |           3.2 |      13.8 | chi-square | 0      |   0      |
-| News and communications | Audits impact assessment            | mechanism |          165 |         380 |           13.3 |          15   |      -1.7 | chi-square | 0.7074 |   1      |
-| News and communications | Conformity assessment certification | mechanism |          165 |         380 |           16.4 |           3.4 |      12.9 | chi-square | 0      |   0      |
-| News and communications | Data governance requirements        | mechanism |          165 |         380 |            4.2 |           5.5 |      -1.3 | chi-square | 0.6799 |   1      |
-| News and communications | Education training programs         | mechanism |          165 |         380 |           17   |          33.7 |     -16.7 | chi-square | 0.0001 |   0.0021 |
-| News and communications | Funding or incentives               | mechanism |          165 |         380 |           24.8 |          30.5 |      -5.7 | chi-square | 0.2143 |   1      |
-| News and communications | Human oversight requirement         | mechanism |          165 |         380 |           11.5 |           5.3 |       6.3 | chi-square | 0.0155 |   0.2013 |
-| News and communications | Incident reporting                  | mechanism |          165 |         380 |            6.7 |           2.6 |       4   | chi-square | 0.0448 |   0.493  |
-| News and communications | Insurance requirement               | mechanism |          165 |         380 |            6.7 |           0   |       6.7 | Fisher     | 0      |   0      |
-| News and communications | International cooperation           | mechanism |          165 |         380 |           24.8 |          34.7 |      -9.9 | chi-square | 0.0294 |   0.3525 |
-| News and communications | Liability regime                    | mechanism |          165 |         380 |            4.8 |           1.1 |       3.8 | Fisher     | 0.0093 |   0.1402 |
-| News and communications | Licensing registration              | mechanism |          165 |         380 |           21.8 |           1.6 |      20.2 | chi-square | 0      |   0      |
-| News and communications | Oversight body creation             | mechanism |          165 |         380 |           15.8 |          34.7 |     -19   | chi-square | 0      |   0.0003 |
-| News and communications | Prohibitions bans                   | mechanism |          165 |         380 |           10.9 |           9.7 |       1.2 | chi-square | 0.7928 |   1      |
-| News and communications | Risk based tiering                  | mechanism |          165 |         380 |            5.5 |          14.7 |      -9.3 | chi-square | 0.0034 |   0.0546 |
-| News and communications | Self regulation codes               | mechanism |          165 |         380 |            5.5 |          10.5 |      -5.1 | chi-square | 0.0821 |   0.7387 |
-| News and communications | Technical standards reference       | mechanism |          165 |         380 |           23   |           8.9 |      14.1 | chi-square | 0      |   0.0004 |
-| News and communications | Testing sandboxes                   | mechanism |          165 |         380 |           18.2 |          13.2 |       5   | chi-square | 0.1642 |   1      |
-| News and communications | Transparency disclosure labelling   | mechanism |          165 |         380 |            4.2 |          13.2 |      -8.9 | chi-square | 0.003  |   0.0502 |
+| Governance instruments  | Transparency                        | principle |          598 |         383 |           48.7 |          75.2 |     -26.5 | chi-square | 0      |   0      |
+| Governance instruments  | Justice & fairness                  | principle |          598 |         383 |           22.6 |          69.5 |     -46.9 | chi-square | 0      |   0      |
+| Governance instruments  | Non-maleficence                     | principle |          598 |         383 |           89.1 |          79.1 |      10   | chi-square | 0      |   0.0002 |
+| Governance instruments  | Responsibility & accountability     | principle |          598 |         383 |           77.3 |          80.2 |      -2.9 | chi-square | 0.3189 |   0.6378 |
+| Governance instruments  | Privacy                             | principle |          598 |         383 |           41.1 |          69.5 |     -28.3 | chi-square | 0      |   0      |
+| Governance instruments  | Beneficence                         | principle |          598 |         383 |           46.2 |          79.9 |     -33.7 | chi-square | 0      |   0      |
+| Governance instruments  | Freedom & autonomy                  | principle |          598 |         383 |           14   |          35.5 |     -21.5 | chi-square | 0      |   0      |
+| Governance instruments  | Trust                               | principle |          598 |         383 |           23.9 |          62.4 |     -38.5 | chi-square | 0      |   0      |
+| Governance instruments  | Sustainability                      | principle |          598 |         383 |           28.8 |          49.9 |     -21.1 | chi-square | 0      |   0      |
+| Governance instruments  | Dignity                             | principle |          598 |         383 |            9.7 |          28.2 |     -18.5 | chi-square | 0      |   0      |
+| Governance instruments  | Solidarity                          | principle |          598 |         383 |           16.1 |          42.6 |     -26.5 | chi-square | 0      |   0      |
+| Governance instruments  | Human oversight                     | principle |          598 |         383 |           57.2 |          45.7 |      11.5 | chi-square | 0.0006 |   0.0039 |
+| Governance instruments  | Robustness & security               | principle |          598 |         383 |           71.6 |          71.8 |      -0.2 | chi-square | 0.9958 |   0.9958 |
+| Governance instruments  | Inclusive growth                    | principle |          598 |         383 |           54.8 |          73.9 |     -19   | chi-square | 0      |   0      |
+| Governance instruments  | Physical safety                     | principle |          598 |         383 |           84.8 |           9.4 |      75.4 | chi-square | 0      |   0      |
+| Governance instruments  | Human-robot proximity               | principle |          598 |         383 |           33.3 |           0.3 |      33   | chi-square | 0      |   0      |
+| Governance instruments  | Liability for physical damage       | principle |          598 |         383 |           33.1 |           2.9 |      30.2 | chi-square | 0      |   0      |
+| Governance instruments  | Autonomy level & control            | principle |          598 |         383 |           60.4 |           9.7 |      50.7 | chi-square | 0      |   0      |
+| Governance instruments  | Conformity assessment               | principle |          598 |         383 |           67.6 |          20.4 |      47.2 | chi-square | 0      |   0      |
+| Governance instruments  | Dual use & military                 | principle |          598 |         383 |           19.7 |          12.3 |       7.5 | chi-square | 0.0031 |   0.0184 |
+| Governance instruments  | Audits impact assessment            | mechanism |          598 |         383 |           41   |          57.7 |     -16.7 | chi-square | 0      |   0      |
+| Governance instruments  | Conformity assessment certification | mechanism |          598 |         383 |           43   |          12   |      31   | chi-square | 0      |   0      |
+| Governance instruments  | Data governance requirements        | mechanism |          598 |         383 |           23.6 |          36.6 |     -13   | chi-square | 0      |   0.0002 |
+| Governance instruments  | Education training programs         | mechanism |          598 |         383 |           33.8 |          53   |     -19.2 | chi-square | 0      |   0      |
+| Governance instruments  | Funding or incentives               | mechanism |          598 |         383 |           31.4 |          46.7 |     -15.3 | chi-square | 0      |   0      |
+| Governance instruments  | Human oversight requirement         | mechanism |          598 |         383 |           26.4 |          21.7 |       4.8 | chi-square | 0.1074 |   0.3221 |
+| Governance instruments  | Incident reporting                  | mechanism |          598 |         383 |           29.1 |          15.9 |      13.2 | chi-square | 0      |   0      |
+| Governance instruments  | Insurance requirement               | mechanism |          598 |         383 |           21.4 |           2.3 |      19.1 | chi-square | 0      |   0      |
+| Governance instruments  | International cooperation           | mechanism |          598 |         383 |           32.6 |          56.1 |     -23.5 | chi-square | 0      |   0      |
+| Governance instruments  | Liability regime                    | mechanism |          598 |         383 |           15.1 |           6   |       9   | chi-square | 0      |   0.0002 |
+| Governance instruments  | Licensing registration              | mechanism |          598 |         383 |           49.8 |          10.2 |      39.7 | chi-square | 0      |   0      |
+| Governance instruments  | Oversight body creation             | mechanism |          598 |         383 |           43.1 |          56.1 |     -13   | chi-square | 0.0001 |   0.0007 |
+| Governance instruments  | Prohibitions bans                   | mechanism |          598 |         383 |           23.7 |          11.7 |      12   | chi-square | 0      |   0.0001 |
+| Governance instruments  | Risk based tiering                  | mechanism |          598 |         383 |           17.7 |          23.2 |      -5.5 | chi-square | 0.0425 |   0.1701 |
+| Governance instruments  | Self regulation codes               | mechanism |          598 |         383 |            8   |          24   |     -16   | chi-square | 0      |   0      |
+| Governance instruments  | Technical standards reference       | mechanism |          598 |         383 |           64.2 |          36.3 |      27.9 | chi-square | 0      |   0      |
+| Governance instruments  | Testing sandboxes                   | mechanism |          598 |         383 |           38.1 |          30.8 |       7.3 | chi-square | 0.0231 |   0.1156 |
+| Governance instruments  | Transparency disclosure labelling   | mechanism |          598 |         383 |           22.6 |          43.3 |     -20.8 | chi-square | 0      |   0      |
+| Government reports      | Transparency                        | principle |           98 |         148 |           58.2 |          69.6 |     -11.4 | chi-square | 0.0883 |   1      |
+| Government reports      | Justice & fairness                  | principle |           98 |         148 |           55.1 |          75   |     -19.9 | chi-square | 0.0019 |   0.0427 |
+| Government reports      | Non-maleficence                     | principle |           98 |         148 |           90.8 |          64.9 |      26   | chi-square | 0      |   0.0002 |
+| Government reports      | Responsibility & accountability     | principle |           98 |         148 |           80.6 |          69.6 |      11   | chi-square | 0.0751 |   1      |
+| Government reports      | Privacy                             | principle |           98 |         148 |           40.8 |          61.5 |     -20.7 | chi-square | 0.0023 |   0.048  |
+| Government reports      | Beneficence                         | principle |           98 |         148 |           69.4 |          83.1 |     -13.7 | chi-square | 0.0177 |   0.3005 |
+| Government reports      | Freedom & autonomy                  | principle |           98 |         148 |           19.4 |          34.5 |     -15.1 | chi-square | 0.0155 |   0.2944 |
+| Government reports      | Trust                               | principle |           98 |         148 |           54.1 |          68.9 |     -14.8 | chi-square | 0.0261 |   0.3913 |
+| Government reports      | Sustainability                      | principle |           98 |         148 |           33.7 |          43.9 |     -10.2 | chi-square | 0.1405 |   1      |
+| Government reports      | Dignity                             | principle |           98 |         148 |           28.6 |          23.6 |       4.9 | chi-square | 0.4735 |   1      |
+| Government reports      | Solidarity                          | principle |           98 |         148 |           28.6 |          45.9 |     -17.4 | chi-square | 0.0093 |   0.1857 |
+| Government reports      | Human oversight                     | principle |           98 |         148 |           71.4 |          39.2 |      32.2 | chi-square | 0      |   0      |
+| Government reports      | Robustness & security               | principle |           98 |         148 |           64.3 |          63.5 |       0.8 | chi-square | 1      |   1      |
+| Government reports      | Inclusive growth                    | principle |           98 |         148 |           66.3 |          85.8 |     -19.5 | chi-square | 0.0005 |   0.0147 |
+| Government reports      | Physical safety                     | principle |           98 |         148 |           76.5 |           2.7 |      73.8 | chi-square | 0      |   0      |
+| Government reports      | Human-robot proximity               | principle |           98 |         148 |           32.7 |           0   |      32.7 | chi-square | 0      |   0      |
+| Government reports      | Liability for physical damage       | principle |           98 |         148 |           37.8 |           1.4 |      36.4 | chi-square | 0      |   0      |
+| Government reports      | Autonomy level & control            | principle |           98 |         148 |           69.4 |           4.1 |      65.3 | chi-square | 0      |   0      |
+| Government reports      | Conformity assessment               | principle |           98 |         148 |           53.1 |          14.9 |      38.2 | chi-square | 0      |   0      |
+| Government reports      | Dual use & military                 | principle |           98 |         148 |           49   |           8.1 |      40.9 | chi-square | 0      |   0      |
+| Government reports      | Audits impact assessment            | mechanism |           98 |         148 |           45.9 |          43.2 |       2.7 | chi-square | 0.7776 |   1      |
+| Government reports      | Conformity assessment certification | mechanism |           98 |         148 |           19.4 |          10.8 |       8.6 | chi-square | 0.0893 |   1      |
+| Government reports      | Data governance requirements        | mechanism |           98 |         148 |           14.3 |          18.9 |      -4.6 | chi-square | 0.4399 |   1      |
+| Government reports      | Education training programs         | mechanism |           98 |         148 |           39.8 |          50.7 |     -10.9 | chi-square | 0.1224 |   1      |
+| Government reports      | Funding or incentives               | mechanism |           98 |         148 |           27.6 |          54.7 |     -27.2 | chi-square | 0      |   0.0013 |
+| Government reports      | Human oversight requirement         | mechanism |           98 |         148 |           36.7 |          11.5 |      25.2 | chi-square | 0      |   0.0002 |
+| Government reports      | Incident reporting                  | mechanism |           98 |         148 |           13.3 |           2   |      11.2 | chi-square | 0.0012 |   0.0292 |
+| Government reports      | Insurance requirement               | mechanism |           98 |         148 |           11.2 |           1.4 |       9.9 | chi-square | 0.002  |   0.0429 |
+| Government reports      | International cooperation           | mechanism |           98 |         148 |           60.2 |          50   |      10.2 | chi-square | 0.1494 |   1      |
+| Government reports      | Liability regime                    | mechanism |           98 |         148 |           17.3 |           4.1 |      13.3 | chi-square | 0.001  |   0.0257 |
+| Government reports      | Licensing registration              | mechanism |           98 |         148 |           14.3 |           2   |      12.3 | chi-square | 0.0006 |   0.0147 |
+| Government reports      | Oversight body creation             | mechanism |           98 |         148 |           31.6 |          47.3 |     -15.7 | chi-square | 0.0207 |   0.3318 |
+| Government reports      | Prohibitions bans                   | mechanism |           98 |         148 |           28.6 |           6.8 |      21.8 | chi-square | 0      |   0.0002 |
+| Government reports      | Risk based tiering                  | mechanism |           98 |         148 |           16.3 |          16.2 |       0.1 | chi-square | 1      |   1      |
+| Government reports      | Self regulation codes               | mechanism |           98 |         148 |           12.2 |          12.2 |       0.1 | chi-square | 1      |   1      |
+| Government reports      | Technical standards reference       | mechanism |           98 |         148 |           35.7 |          20.9 |      14.8 | chi-square | 0.0158 |   0.2944 |
+| Government reports      | Testing sandboxes                   | mechanism |           98 |         148 |           34.7 |          25   |       9.7 | chi-square | 0.1339 |   1      |
+| Government reports      | Transparency disclosure labelling   | mechanism |           98 |         148 |           20.4 |          22.3 |      -1.9 | chi-square | 0.8458 |   1      |
+| News and communications | Transparency                        | principle |          167 |         380 |           17.4 |          39.7 |     -22.4 | chi-square | 0      |   0      |
+| News and communications | Justice & fairness                  | principle |          167 |         380 |           12.6 |          42.9 |     -30.3 | chi-square | 0      |   0      |
+| News and communications | Non-maleficence                     | principle |          167 |         380 |           74.9 |          55.3 |      19.6 | chi-square | 0      |   0.0005 |
+| News and communications | Responsibility & accountability     | principle |          167 |         380 |           42.5 |          41.8 |       0.7 | chi-square | 0.9579 |   1      |
+| News and communications | Privacy                             | principle |          167 |         380 |           10.8 |          28.2 |     -17.4 | chi-square | 0      |   0.0003 |
+| News and communications | Beneficence                         | principle |          167 |         380 |           58.7 |          77.4 |     -18.7 | chi-square | 0      |   0.0003 |
+| News and communications | Freedom & autonomy                  | principle |          167 |         380 |            6   |          11.6 |      -5.6 | chi-square | 0.0624 |   0.6243 |
+| News and communications | Trust                               | principle |          167 |         380 |           21.6 |          36.6 |     -15   | chi-square | 0.0008 |   0.0136 |
+| News and communications | Sustainability                      | principle |          167 |         380 |           19.8 |          25.8 |      -6   | chi-square | 0.1577 |   1      |
+| News and communications | Dignity                             | principle |          167 |         380 |            5.4 |          13.2 |      -7.8 | chi-square | 0.0108 |   0.1518 |
+| News and communications | Solidarity                          | principle |          167 |         380 |            7.8 |          32.4 |     -24.6 | chi-square | 0      |   0      |
+| News and communications | Human oversight                     | principle |          167 |         380 |           31.7 |          13.2 |      18.6 | chi-square | 0      |   0      |
+| News and communications | Robustness & security               | principle |          167 |         380 |           33.5 |          32.1 |       1.4 | chi-square | 0.8188 |   1      |
+| News and communications | Inclusive growth                    | principle |          167 |         380 |           53.3 |          76.8 |     -23.5 | chi-square | 0      |   0      |
+| News and communications | Physical safety                     | principle |          167 |         380 |           68.3 |           1.1 |      67.2 | chi-square | 0      |   0      |
+| News and communications | Human-robot proximity               | principle |          167 |         380 |           35.3 |           0   |      35.3 | chi-square | 0      |   0      |
+| News and communications | Liability for physical damage       | principle |          167 |         380 |           12   |           0.3 |      11.7 | chi-square | 0      |   0      |
+| News and communications | Autonomy level & control            | principle |          167 |         380 |           38.9 |           1.3 |      37.6 | chi-square | 0      |   0      |
+| News and communications | Conformity assessment               | principle |          167 |         380 |           32.3 |           6.8 |      25.5 | chi-square | 0      |   0      |
+| News and communications | Dual use & military                 | principle |          167 |         380 |           17.4 |           3.2 |      14.2 | chi-square | 0      |   0      |
+| News and communications | Audits impact assessment            | mechanism |          167 |         380 |           13.2 |          15   |      -1.8 | chi-square | 0.669  |   1      |
+| News and communications | Conformity assessment certification | mechanism |          167 |         380 |           17.4 |           3.4 |      13.9 | chi-square | 0      |   0      |
+| News and communications | Data governance requirements        | mechanism |          167 |         380 |            4.2 |           5.5 |      -1.3 | chi-square | 0.6587 |   1      |
+| News and communications | Education training programs         | mechanism |          167 |         380 |           17.4 |          33.7 |     -16.3 | chi-square | 0.0002 |   0.0029 |
+| News and communications | Funding or incentives               | mechanism |          167 |         380 |           25.1 |          30.5 |      -5.4 | chi-square | 0.2399 |   1      |
+| News and communications | Human oversight requirement         | mechanism |          167 |         380 |           11.4 |           5.3 |       6.1 | chi-square | 0.0174 |   0.2258 |
+| News and communications | Incident reporting                  | mechanism |          167 |         380 |            6.6 |           2.6 |       4   | chi-square | 0.0482 |   0.5301 |
+| News and communications | Insurance requirement               | mechanism |          167 |         380 |            6.6 |           0   |       6.6 | Fisher     | 0      |   0      |
+| News and communications | International cooperation           | mechanism |          167 |         380 |           25.1 |          34.7 |      -9.6 | chi-square | 0.0342 |   0.4106 |
+| News and communications | Liability regime                    | mechanism |          167 |         380 |            4.8 |           1.1 |       3.7 | Fisher     | 0.0099 |   0.1484 |
+| News and communications | Licensing registration              | mechanism |          167 |         380 |           22.8 |           1.6 |      21.2 | chi-square | 0      |   0      |
+| News and communications | Oversight body creation             | mechanism |          167 |         380 |           16.8 |          34.7 |     -18   | chi-square | 0      |   0.0007 |
+| News and communications | Prohibitions bans                   | mechanism |          167 |         380 |           10.8 |           9.7 |       1   | chi-square | 0.8269 |   1      |
+| News and communications | Risk based tiering                  | mechanism |          167 |         380 |            6   |          14.7 |      -8.7 | chi-square | 0.006  |   0.0952 |
+| News and communications | Self regulation codes               | mechanism |          167 |         380 |            6   |          10.5 |      -4.5 | chi-square | 0.1248 |   1      |
+| News and communications | Technical standards reference       | mechanism |          167 |         380 |           23.4 |           8.9 |      14.4 | chi-square | 0      |   0.0002 |
+| News and communications | Testing sandboxes                   | mechanism |          167 |         380 |           18.6 |          13.2 |       5.4 | chi-square | 0.1315 |   1      |
+| News and communications | Transparency disclosure labelling   | mechanism |          167 |         380 |            4.2 |          13.2 |      -9   | chi-square | 0.0026 |   0.0446 |

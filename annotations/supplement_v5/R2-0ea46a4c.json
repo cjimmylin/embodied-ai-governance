@@ -1,0 +1,40 @@
+{
+ "doc_id": "R2-0ea46a4c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:00",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0777076,
+  "in": 2,
+  "out": 757,
+  "cache_read": 2656,
+  "cache_create": 17467,
+  "api_ms": 4940,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "operators_or_deployers",
+   "owners_or_users",
+   "pilots_or_drivers",
+   "public_bodies_or_government",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The Decree applies to Vietnamese and foreign agencies, organizations and individuals involved in activities related to unmanned aircraft and other aerial vehicles in Vietnam, including importers/exporters, producers, traders, operators and pilots, and ministries and provincial People's Committees.",
+  "bound_parties_quote": "This Decree applies to Vietnamese and foreign agencies, organizations and individuals involved in activities related to unmanned aircraft and other aerial vehicles (below referred to as aerial vehicles) in Vietnam.",
+  "entry_into_force_date": "2025-11-05",
+  "applicability_date": "2026-07-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "1. This Decree takes effect on November 5, 2025.\n2. The provisions of Clauses 1 and 3, Article 19 of this Decree will take effect on July 1, 2026.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Decree No. 288/2025/ND-CP dated November 5, 2025 of the Government providing the management of unmanned aircraft and other aerial vehicles",
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-e09b2ee1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0736516,
+  "in": 2,
+  "out": 683,
+  "cache_read": 2656,
+  "cache_create": 16638,
+  "api_ms": 8245,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers",
+   "operators_or_deployers",
+   "member_states_or_subnational_governments",
+   "certification_or_notified_bodies",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The proposal amends the AI Act, which binds providers and deployers of AI systems, Member States and the Commission (e.g. to foster AI literacy), and conformity assessment/notified bodies.",
+  "bound_parties_quote": "Paragraph 4 transforms the obligation for providers and deployers of AI systems with regards to AI literacy in Article 4 AI Act to an obligation on the Commission and the Member States to foster AI literacy.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Article 3 provides the rule of entry into force and the binding nature of this Regulation.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
+  "confidence": 0.7
+ }
+}

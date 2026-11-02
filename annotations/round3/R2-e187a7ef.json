@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-e187a7ef",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:12:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0434098,
+  "in": 2,
+  "out": 1715,
+  "cache_read": 11758,
+  "cache_create": 6270,
+  "api_ms": 9291,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "無人航空機操縦士試験機関に関する省令",
+  "title_en": "Ordinance on Designated Examination Bodies for Unmanned Aircraft Pilots",
+  "language": "ja",
+  "authors_or_issuer": "国土交通省 (Ministry of Land, Infrastructure, Transport and Tourism)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2022,
+  "pub_month": 7,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov 法令検索",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "education_training",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "oversight_body_creation",
+   "education_training_programs"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japanese ministerial ordinance (Reiwa 4, MLIT Ordinance No. 58) under the Civil Aviation Act setting rules for designated bodies that administer unmanned aircraft pilot examinations: application, examiner requirements, examination rules, reporting, suspension and handover to the Minister. In force 5 December 2022.",
+  "key_provisions_or_claims": [
+   "Applicants for designation as examination body must submit detailed application to the MLIT Minister",
+   "Examiners must be at least 22 and have adequate knowledge and experience",
+   "Examination rules must cover methods, fees, certificates and confidentiality",
+   "Designated bodies must report exam results quarterly and notify officer changes",
+   "Minister takes over exam administration upon suspension or revocation"
+  ],
+  "confidence": 0.9
+ }
+}

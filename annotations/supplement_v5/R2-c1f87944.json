@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-c1f87944",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:54",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1776036,
+  "in": 2,
+  "out": 689,
+  "cache_read": 2656,
+  "cache_create": 42611,
+  "api_ms": 5786,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "public_bodies_or_government",
+   "providers_or_developers"
+  ],
+  "bound_parties_text": "The law binds persons operating autonomous vehicles and holders of operation permits (permit holders), as well as the National Traffic Supervisor and the Minister, who must act under the permit scheme.",
+  "bound_parties_quote": "לא יפעיל אדם רכב מנועי‪ ,‬בדרך‪ ,‬באמצעות מערכת לנהיגה עצמאית‪ ,‬אלא אם כן בידו היתר הפעלה לגבי אותו רכב",
+  "entry_into_force_date": "2022-04-15",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "תחילתו של חוק זה חודש מיום פרסומו (להלן ‪ -‬יום התחילה)‪ .",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2022,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "\"רכב עצמאי\" ‪ -‬רכב מנועי שמותקנות בו מערכת לנהיגה עצמאית ומערכות מחשוב נוספות",
+  "confidence": 0.72
+ }
+}

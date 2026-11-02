@@ -1,0 +1,96 @@
+{
+ "doc_id": "R3-95e69c52",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:11:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0302198,
+  "in": 2,
+  "out": 1676,
+  "cache_read": 11758,
+  "cache_create": 3070,
+  "api_ms": 9702,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "教育部办公厅关于进一步加强中小学生睡眠管理工作的通知",
+  "title_en": "Notice of the General Office of the Ministry of Education on Further Strengthening Sleep Management for Primary and Secondary School Students",
+  "language": "zh",
+  "authors_or_issuer": "教育部办公厅 (General Office of the Ministry of Education)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Education of China",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "education"
+  ],
+  "governance_topics": [
+   "children_vulnerable_groups",
+   "education_training"
+  ],
+  "primary_topic": "children_vulnerable_groups",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "education_training_programs",
+   "oversight_body_creation",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese Ministry of Education notice setting sleep duration targets for school students, school start times, homework limits, bedtime guidance, curfews on online tutoring and gaming for minors, and sleep monitoring and supervision. Not related to AI or robotics.",
+  "key_provisions_or_claims": [
+   "Sleep targets: 10 hours primary, 9 junior high, 8 senior high",
+   "School start no earlier than 8:20 (primary) and 8:00 (secondary)",
+   "Off-campus tutoring must end by 20:30; online live tutoring by 21:00",
+   "No game services for minors from 22:00 to 8:00",
+   "Sleep status included in student health monitoring and education supervision"
+  ],
+  "confidence": 0.95
+ }
+}

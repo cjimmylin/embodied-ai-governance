@@ -1,0 +1,39 @@
+{
+ "doc_id": "R2-3d3fd677",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:54:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.11809359999999999,
+  "in": 2,
+  "out": 634,
+  "cache_read": 2656,
+  "cache_create": 27871,
+  "api_ms": 4017,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "operators_or_deployers",
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "public_bodies_or_government",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The rules bind drone owners and operators, designers/manufacturers/modifiers and importers, and government agencies, schools and legal persons operating drones.",
+  "bound_parties_quote": "遙控無人機所有人(以下簡稱所有人)及操作人應負飛航安全之責，對遙控無人機為妥善之維護，並從事安全飛航作業。",
+  "entry_into_force_date": "2020-03-31",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "中華民國108年7月23日交通部交航字第10850094251號令訂定，並定自109年3月31日施行",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "中華民國108年7月23日交通部交航字第10850094251號令訂定",
+  "confidence": 0.9
+ }
+}

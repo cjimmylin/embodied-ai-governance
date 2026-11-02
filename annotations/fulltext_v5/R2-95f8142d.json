@@ -1,0 +1,109 @@
+{
+ "doc_id": "R2-95f8142d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.26180180000000003,
+  "in": 2,
+  "out": 1927,
+  "cache_read": 11758,
+  "cache_create": 60338,
+  "api_ms": 13464,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "介護ロボットの効果的な活用のための手引き",
+  "title_en": "Guide for Effective Use of Nursing-Care Robots",
+  "language": "ja",
+  "authors_or_issuer": "株式会社三菱総合研究所(「介護ロボットの効果的な活用方法に関する研究事業」検討委員会;厚生労働省老人保健事業推進費等補助金)",
+  "issuer_type": "industry_company",
+  "pub_year": 2019,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Mitsubishi Research Institute (MHLW-funded research project)",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "grey_literature",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "rehabilitation_exoskeleton_prosthetic",
+   "social_companion_robots",
+   "professional_service_robots"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_robot_interaction_social_effects",
+   "privacy_data_protection",
+   "labor_employment",
+   "industrial_policy_innovation",
+   "trust_acceptance",
+   "education_training",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "human_robot_interaction_social_effects",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "audits_impact_assessment",
+   "technical_standards_reference"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Japanese 2019 practical guide, funded by MHLW and produced by Mitsubishi Research Institute, on introducing nursing-care robots in care facilities. It covers 13 METI/MHLW priority device categories, costs, environment, safety cautions, case studies, and a staged adoption and evaluation process, plus subsidy contacts.",
+  "key_provisions_or_claims": [
+   "Describes 13 priority care-robot categories (transfer, mobility, excretion, monitoring, bathing, care-work support) with selection checklists",
+   "Recommends a four-stage adoption process: planning, preparation, trial, operation, with pre/post evaluation indicators",
+   "Stresses user and staff safety first; stop use if danger is sensed; select suitable users",
+   "Advises privacy explanation to families for camera/sensor monitoring and information security for cloud data",
+   "Lists prefectural subsidy contacts for care-robot introduction support under the Regional Medical and Care Fund"
+  ],
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "doc_id": "R3-9c8ae7d3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:11:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0389118,
+  "in": 2,
+  "out": 1680,
+  "cache_read": 11758,
+  "cache_create": 5233,
+  "api_ms": 8748,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国家发展改革委 国家能源局关于有序推动多用户绿电直连发展有关事项的通知",
+  "title_en": "Notice of the NDRC and National Energy Administration on Orderly Promoting the Development of Multi-User Direct Green Power Connection",
+  "language": "zh",
+  "authors_or_issuer": "国家发展改革委; 国家能源局",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "energy_environment"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "industrial_policy_innovation",
+   "other"
+  ],
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 2,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "oversight_body_creation",
+   "technical_standards_reference",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese NDRC/NEA notice setting rules for multi-user direct green power connection projects, covering planning, investment, operation, market participation, pricing and green power tracing. It is an energy policy document with no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Defines multi-user direct green power connection, grid-connected and off-grid types",
+   "Self-consumption at least 60% of available generation and 30% of consumption (35% before 2030)",
+   "Grid feed-in generally capped at 20% of available generation",
+   "Project lead entity bears responsibility for supply interruptions and internal settlement",
+   "Provincial energy authorities detail requirements and supervise safety"
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-ef4c6c76",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:03",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0165556,
+  "in": 2,
+  "out": 647,
+  "cache_read": 2656,
+  "cache_create": 2454,
+  "api_ms": 3855,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "manufacturers_or_producers",
+   "pilots_or_drivers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The model regulations address registration, inspection and approval of unmanned aircraft, operators and remote pilots, manufacturers under Part 102, and Approved Aviation Organizations and Civil Aviation Authorities; as a model text it binds States only if adopted.",
+  "bound_parties_quote": "Part 149: promotes using Approved Aviation Organizations as designees for tasks such as remote pilot licensing and UA inspection or approval",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Living document (Parts 101 and 102 version valid 5 April 2023; ACs valid November 2021)",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "ICAO reviewed national UAS rules and produced the Model UAS Regulations as Parts 101, 102 and 149.",
+  "confidence": 0.6
+ }
+}

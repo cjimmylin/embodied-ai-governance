@@ -1,0 +1,114 @@
+{
+ "doc_id": "R2-879a2153",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:46:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1520118,
+  "in": 4,
+  "out": 3960,
+  "cache_read": 48278,
+  "cache_create": 26894,
+  "api_ms": 22316,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "無人載具科技創新實驗計畫申請須知",
+  "title_en": "Unmanned Vehicles Technology Innovation Experiment Program: Application Guidelines",
+  "language": "zh",
+  "authors_or_issuer": "經濟部產業技術司 (Department of Industrial Technology, Ministry of Economic Affairs, Taiwan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "無人載具科技創新沙盒 (MOEA)",
+  "jurisdiction_country": "TW",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "TW"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "drones_uas",
+   "autonomous_maritime_or_rail"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "risk_management_risk_tiers",
+   "cybersecurity",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "incident_reporting",
+   "insurance_requirement",
+   "transparency_disclosure_labelling",
+   "human_oversight_requirement",
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "Taiwan Unmanned Vehicles Technology Innovative Experimentation Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Taiwan MOEA application guide for the Unmanned Vehicles Technology Innovation Experiment sandbox (April 2020), covering eligibility, review, and obligations for vehicles, vessels and aircraft. Annexes reproduce the Act and its implementing rules: exemptions from existing laws, incident reporting, data recorders, insurance, licensing and exit mechanisms.",
+  "key_provisions_or_claims": [
+   "Sandbox lets approved experiments be exempted from specified traffic, aviation and shipping laws, excluding civil and criminal liability.",
+   "Experiments are limited to one year, extendable once by up to one year (max four years if law reform is needed).",
+   "Mandatory data recorders, monthly reporting of human interventions, and three-year retention of unedited records.",
+   "Safety incidents require immediate suspension, police and ministry notice within 2 hours, and a report within 10 days.",
+   "Applicants must buy insurance, publicly disclose experiments, and bear full responsibility for damage."
+  ],
+  "confidence": 0.85
+ }
+}

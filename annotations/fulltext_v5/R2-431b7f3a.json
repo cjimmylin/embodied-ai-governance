@@ -1,0 +1,99 @@
+{
+ "doc_id": "R2-431b7f3a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.3758698,
+  "in": 2,
+  "out": 1753,
+  "cache_read": 11758,
+  "cache_create": 89290,
+  "api_ms": 11080,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "鉄道に関する技術上の基準を定める省令",
+  "title_en": "Ministerial Ordinance Establishing Technical Standards for Railways",
+  "language": "ja",
+  "authors_or_issuer": "Ministry of Land, Infrastructure, Transport and Tourism (MLIT), Japan",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2001,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "e-Gov Law Search",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "JP"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_maritime_or_rail"
+  ],
+  "primary_embodied_category": "autonomous_maritime_or_rail",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "audits_impact_assessment",
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Japan's MLIT ministerial ordinance setting binding technical standards for railway facilities, vehicles and operation (track, electrical, signalling, rolling stock, inspection, train operation). Only tangential relevance to embodied AI: Article 58 sets requirements for automatic train operation devices on trains without drivers.",
+  "key_provisions_or_claims": [
+   "Railway operators must set and comply with implementation standards notified to regional transport bureaus (Art. 3).",
+   "Art. 58: automatic operation devices on driverless trains must confirm passenger safety before departure and stop smoothly.",
+   "Art. 86(2): driverless trains need passenger-to-control-centre communication and emergency safety measures.",
+   "New or modified facilities and vehicles must be inspected and test-run before use (Art. 88).",
+   "Fail-safe requirement for operation safety equipment (Art. 63)."
+  ],
+  "confidence": 0.9
+ }
+}

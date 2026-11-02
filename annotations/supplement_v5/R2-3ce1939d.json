@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-3ce1939d",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1302536,
+  "in": 2,
+  "out": 604,
+  "cache_read": 2656,
+  "cache_create": 30986,
+  "api_ms": 5546,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "manufacturers_or_producers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Act binds owners of automobiles (road transport vehicles), designated automobile maintenance business operators, and the Minister of Land, Infrastructure, Transport and Tourism, among others.",
+  "bound_parties_quote": "自動車の所有者は、登録されている型式、車台番号、原動機の型式、所有者の氏名若しくは名称若しくは住所又は使用の本拠の位置に変更があつたときは、その事由があつた日から十五日以内に、国土交通大臣の行う変更登録の申請をしなければならない。",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "この法律は、令和八年四月一日から施行する。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.4
+ }
+}

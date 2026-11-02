@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-d7dae4f6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:01:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.023461600000000003,
+  "in": 2,
+  "out": 564,
+  "cache_read": 2656,
+  "cache_create": 4388,
+  "api_ms": 6780,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "member_states_or_subnational_governments",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The resolution calls upon the Group of Governmental Experts and the High Contracting Parties to the Convention, encourages all Member States to participate, and requests the Secretary-General to facilitate consultations.",
+  "bound_parties_quote": "calls upon the High Contracting Parties to the Convention to spare no effort in this regard;",
+  "entry_into_force_date": "2024-12-02",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Resolution adopted by the General Assembly on 2 December 2024",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "79/62.       Lethal autonomous weapons systems",
+  "confidence": 0.7
+ }
+}

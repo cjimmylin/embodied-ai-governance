@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-943609b1",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.037501599999999996,
+  "in": 2,
+  "out": 534,
+  "cache_read": 2656,
+  "cache_create": 7973,
+  "api_ms": 4771,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The action plan is a promotional policy document addressed to provincial industry, development and reform, science, finance and emergency management authorities, and it sets out encouragement and support measures rather than binding obligations on named parties.",
+  "bound_parties_quote": "请结合实际，认真贯彻落实。",
+  "entry_into_force_date": "2023-09-22",
+  "applicability_date": "2023",
+  "repeal_or_expiry_date": "2025",
+  "dates_quote": "2023年9月22日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "推动5G、人工智能、机器人、北斗、新材料等在安全应急装备领域的集成应用及规模应用",
+  "confidence": 0.55
+ }
+}

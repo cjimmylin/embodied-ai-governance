@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-ba4c58d6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.014225600000000001,
+  "in": 2,
+  "out": 564,
+  "cache_read": 2656,
+  "cache_create": 2079,
+  "api_ms": 5060,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The state or a political subdivision of the state is barred from using unmanned aerial vehicles for traffic law enforcement, and the department of public safety must examine regulation and develop model guidelines.",
+  "bound_parties_quote": "The state or a political subdivision of the state shall not\nuse an unmanned aerial vehicle for traffic law enforcement.",
+  "entry_into_force_date": "2014",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Approved _______________, 2014",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2014,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "AN ACT\nRELATING TO THE REGULATION AND USE OF UNMANNED AERIAL VEHICLES.",
+  "confidence": 0.6
+ }
+}

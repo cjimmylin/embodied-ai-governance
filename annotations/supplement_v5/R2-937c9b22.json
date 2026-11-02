@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-937c9b22",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:04",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0370396,
+  "in": 2,
+  "out": 665,
+  "cache_read": 2656,
+  "cache_create": 7530,
+  "api_ms": 4089,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The guideline directs the relevant departments and local governments (provincial energy, industry and IT, SASAC and market regulation authorities) to implement it according to their duties, and encourages central enterprises and industry associations.",
+  "bound_parties_quote": "各有关部门按照职责分工，加强战略谋划、统筹协调和督促检查，指导各地方和有关单位开展工作，形成合力共同推进本意见组织实施。各地方结合本地能源装备产业基础与特色优势，同步制定差异化实施方案",
+  "entry_into_force_date": "2025-09-15",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "国家能源局 工业和信息化部\n国务院国资委 市场监管总局\n2025年9月15日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "推进终端场景协作机器人、人形机器人研发，结合具身智能等技术，提升装备复杂环境下的自主作业能力。",
+  "confidence": 0.7
+ }
+}

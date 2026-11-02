@@ -50,9 +50,9 @@ overlap docs: 160
 47  principle:conformity_assessment_certification  ordinal 0-2  160              0.956  0.871
 48                    principle:dual_use_military  ordinal 0-2  160              0.975  0.865
                                                                                                                                     check     n  agreement  kappa
-0  Europe collector 'Robot focus' (Robotics/Humanoid/Embodied vs General AI) vs annotated ai_scope (embodied incl. provisions vs general)   684      0.817  0.612
-1                                         Europe collector 'Robot focus' vs annotated embodiment_status (physical/mixed vs none/software)   684      0.823  0.628
+0  Europe collector 'Robot focus' (Robotics/Humanoid/Embodied vs General AI) vs annotated ai_scope (embodied incl. provisions vs general)   684      0.817  0.613
+1                                         Europe collector 'Robot focus' vs annotated embodiment_status (physical/mixed vs none/software)   684      0.823  0.629
 2                                                                  Europe collector 'Type' vs annotated issuer_type (4 collapsed classes)   646      0.967  0.949
-3                                    Collector 2-letter country vs annotated jurisdiction_country (research papers, first-author country)  1594      0.977    NaN
-4                                                        Collector set (sprint=robotics vs database=general AI) vs annotated relevance>=2  3295      0.633  0.215
+3                                    Collector 2-letter country vs annotated jurisdiction_country (research papers, first-author country)  1746      0.978    NaN
+4                                                        Collector set (sprint=robotics vs database=general AI) vs annotated relevance>=2  3450      0.624  0.198
 5                                                                                 Collector tier Core vs annotated is_governance_document  1250      0.777  0.320

@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-dffcf435",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:55:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.17781380000000002,
+  "in": 2,
+  "out": 2001,
+  "cache_read": 11758,
+  "cache_create": 39156,
+  "api_ms": 14697,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Instrucción 15/V-113: Autorización de pruebas o ensayos de investigación realizados con vehículos de conducción automatizada en vías abiertas al tráfico en general",
+  "title_en": "Instruction 15/V-113: Authorisation of research tests or trials with automated driving vehicles on roads open to general traffic",
+  "language": "es",
+  "authors_or_issuer": "Dirección General de Tráfico (DGT), Subdirección General de Gestión de la Movilidad",
+  "issuer_type": "regulator_or_agency",
+  "pub_year": 2015,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Dirección General de Tráfico (Spain)",
+  "jurisdiction_country": "ES",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "ES"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "research_science"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "cybersecurity",
+   "civil_liability",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "insurance_requirement",
+   "human_oversight_requirement",
+   "testing_sandboxes",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [
+   "ISO 26262"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Spanish DGT instruction (Nov 2015) setting the procedure for special authorisations to test automated vehicles (levels 3–5) on open roads. It requires insurance, accredited technical-service certification, designated drivers able to take control, risk assessment (HARA/FMEA), override and emergency-stop tests, cybersecurity, and braking, AEB and lane-control tests.",
+  "key_provisions_or_claims": [
+   "Special DGT authorisation required for testing level 3-5 autonomous vehicles on open roads, valid up to 2 years, renewable.",
+   "Mandatory insurance covering at least compulsory motor limits plus civil liability for test damages.",
+   "Vehicle certification by ENAC-accredited technical service: documentation, inspection, dynamic checks, or equivalent EU authorisation.",
+   "Driver remains responsible and must be able to take full control at any time; override and emergency stop must have priority.",
+   "Risk assessment (HARA/FMEA per ISO 26262), software version control and cybersecurity required."
+  ],
+  "confidence": 0.9
+ }
+}

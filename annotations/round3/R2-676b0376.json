@@ -1,0 +1,112 @@
+{
+ "doc_id": "R2-676b0376",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:46:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1344898,
+  "in": 2,
+  "out": 1859,
+  "cache_read": 11758,
+  "cache_create": 28680,
+  "api_ms": 9833,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Last-Mile Logistics Industry Development Act",
+  "title_en": "Last-Mile Logistics Industry Development Act",
+  "language": "en",
+  "authors_or_issuer": "Republic of Korea (National Assembly; Ministry of Land, Infrastructure and Transport)",
+  "issuer_type": "legislature",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Korea Legislation Research Institute (elaw.klri.re.kr)",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "labor_employment",
+   "safety_physical_harm",
+   "consumer_protection",
+   "industrial_policy_innovation",
+   "civil_liability",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "labor_employment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "liability_regime",
+   "insurance_requirement",
+   "funding_or_incentives",
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "technical_standards_reference",
+   "education_training_programs",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "Korea Intelligent Robots Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Korea's Last-Mile Logistics Industry Development Act (as amended Dec. 2025) regulates package delivery registration and small-package delivery certification, worker protection, and industry promotion. Drones and outdoor mobile (delivery) robots are included as delivery means, with registration requiring operation safety certification under the Intelligent Robots Act.",
+  "key_provisions_or_claims": [
+   "Defines small package delivery to include drones and outdoor mobile robots (Art. 2).",
+   "Registration for drone/outdoor robot delivery requires aviation registration or Intelligent Robots Act operation safety certification (Art. 5(1)3).",
+   "Certification of small package delivery agents, with insurance, driving licence, and safety education verification for workers.",
+   "Standard contracts, renewal and termination protections for delivery workers.",
+   "Master plan every five years, pilot projects, tax and financial support for the industry."
+  ],
+  "confidence": 0.9
+ }
+}

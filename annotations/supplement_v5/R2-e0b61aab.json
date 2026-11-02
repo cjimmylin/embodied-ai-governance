@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-e0b61aab",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:16",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0246176,
+  "in": 2,
+  "out": 620,
+  "cache_read": 2656,
+  "cache_create": 4537,
+  "api_ms": 3930,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Administrator (of the FAA) is directed to develop a plan, charter a rulemaking committee, deploy and test detection and mitigation systems, and brief Congress; the plan may not delegate authority to other Federal, State, local, territorial, or tribal agencies.",
+  "bound_parties_quote": "The Administrator shall develop a plan for the certification, permitting, authorizing, or allowing of the deployment of technologies or systems for the detection and mitigation of",
+  "entry_into_force_date": "2018-10-05",
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2028-09-30",
+  "dates_quote": "This section ceases to be effective September 30, 2028",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2018,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Pub. L. 115–254, div. B, title III, § 383(a) Oct. 5, 2018 132 Stat. 3321",
+  "confidence": 0.72
+ }
+}

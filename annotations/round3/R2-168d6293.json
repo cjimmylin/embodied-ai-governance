@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-168d6293",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:16:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0315778,
+  "in": 2,
+  "out": 1813,
+  "cache_read": 11758,
+  "cache_create": 3067,
+  "api_ms": 8710,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Senate Bill No. 1134 - Relating to Aeronautics (Restrictions on Use of Unmanned Aircraft Systems)",
+  "title_en": "Senate Bill No. 1134 - Relating to Aeronautics (Restrictions on Use of Unmanned Aircraft Systems)",
+  "language": "en",
+  "authors_or_issuer": "Idaho Legislature, Senate State Affairs Committee",
+  "issuer_type": "legislature",
+  "pub_year": 2013,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Idaho Legislature",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "public_administration_justice",
+   "agriculture_food",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "privacy_data_protection",
+   "civil_liability",
+   "consumer_protection"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 2,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Idaho Senate Bill 1134 (2013) adds Section 21-213 to the Idaho Code, restricting use of unmanned aircraft systems for surveillance or photography of individuals, homes and farms without written consent, and creating a civil cause of action with $1,000 liquidated damages plus attorney's fees.",
+  "key_provisions_or_claims": [
+   "Defines UAS as powered aerial vehicles flying autonomously or remotely, excluding recreational models and commercial photography",
+   "Bans warrantless UAS surveillance of persons, dwellings and farms without written consent absent reasonable suspicion of crime",
+   "Prohibits photographing individuals for publication without consent",
+   "Creates civil cause of action with $1,000 liquidated damages and attorney's fees",
+   "Exempts facility owners inspecting facilities on easements and marijuana eradication by law enforcement"
+  ],
+  "confidence": 0.9
+ }
+}

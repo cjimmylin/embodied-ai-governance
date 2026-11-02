@@ -1,0 +1,34 @@
+{
+ "doc_id": "D1008",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:51:44",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0778956,
+  "in": 2,
+  "out": 555,
+  "cache_read": 2656,
+  "cache_create": 18019,
+  "api_ms": 5365,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The document is a non-binding discussion draft of recommendations addressed to technologists and stakeholders; it states it is not a code of conduct or policy statement and imposes no obligations.",
+  "bound_parties_quote": "Ethically Aligned Design is not a code of conduct or a professional code of ethics.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Published December 2017",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "this document is NOT AN IEEE STANDARD.",
+  "robot_provision_year": 2017,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Copyright © 2017 by The Institute of Electrical and Electronics Engineers, Incorporated Published December 2017",
+  "confidence": 0.85
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "doc_id": "D0478",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:51:20",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0369096,
+  "in": 2,
+  "out": 572,
+  "cache_read": 2656,
+  "cache_create": 7730,
+  "api_ms": 5531,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The implementation opinion is a policy/promotion document that mainly directs government departments (CAC, NDRC, MIIT) and encourages industry, without imposing explicit binding obligations on specific parties.",
+  "bound_parties_quote": "国家网信办、国家发展改革委、工业和信息化部会同有关方面加强统筹谋划，强化资源整合和力量协同，完善配套政策",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "智能体是具备自主感知、记忆、决策、交互与执行能力的智能系统，是人工智能产品及服务的重要形态。",
+  "confidence": 0.7
+ }
+}

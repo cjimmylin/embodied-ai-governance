@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-e736ab0f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:16:05",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0745878,
+  "in": 2,
+  "out": 1778,
+  "cache_read": 11758,
+  "cache_create": 13907,
+  "api_ms": 9053,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "House Bill No. 204 - Personal Delivery Devices (Idaho)",
+  "title_en": "House Bill No. 204 - Personal Delivery Devices (Idaho)",
+  "language": "en",
+  "authors_or_issuer": "Idaho Legislature, House State Affairs Committee",
+  "issuer_type": "legislature",
+  "pub_year": 2017,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Idaho Legislature",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "human_robot_interaction_social_effects",
+   "civil_liability",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling",
+   "licensing_registration"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Idaho House Bill 204 (2017) defines personal delivery devices (sidewalk delivery robots under 80 lb, max 10 mph) and authorizes their operation on sidewalks and crosswalks. It excludes them from motor vehicle status and sets pedestrian-style rights and duties, identification plates, brakes, and operator monitoring requirements.",
+  "key_provisions_or_claims": [
+   "Defines personal delivery device: electric, under 80 lb, max 10 mph, operable with or without active human control.",
+   "Personal delivery devices are not motor vehicles and may operate on sidewalks and crosswalks.",
+   "Devices have pedestrian rights and duties and must yield to pedestrians.",
+   "Must carry plate with operator name, contact and unique ID, plus a braking system.",
+   "Operator must actively control or monitor operation; no hazardous materials; localities may add regulations."
+  ],
+  "confidence": 0.93
+ }
+}

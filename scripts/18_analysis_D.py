@@ -2,7 +2,7 @@
 region distances, within-embodied term trends, k-means stability, coverage audit against reference instruments,
 excerpt coverage statistics. Figures F38-F43, tables T20-T25. Merges into data/results.json."""
 import sys, json, re, os, numpy as np, pandas as pd
-sys.path.insert(0,"/home/user/embodied-ai-governance-v4/scripts")
+sys.path.insert(0,"/home/user/embodied-ai-governance-v5/scripts")
 from analysis_common import *
 import statsmodels.api as sm
 from scipy.spatial.distance import cosine
@@ -219,9 +219,12 @@ def F42(th):
         yrs=list(range(2018,2027)); sh=[]; lo=[]; hi=[]
         for yv in yrs:
             d=E[E.year==yv]; k=int(has(d.embodied_categories,c).sum()); n=len(d); sh.append(100*k/n if n else np.nan); l,h=wilson(k,n); lo.append(100*l); hi.append(100*h)
-        ax.fill_between(yrs,lo,hi,color=t["cat"][0],alpha=0.15,lw=0); ax.plot(yrs,sh,color=t["cat"][0],marker="o",ms=3)
+        ax.fill_between(yrs,lo,hi,color=t["cat"][0],alpha=0.15,lw=0); ax.plot(yrs,sh,color=t["cat"][0],marker="o",ms=3,label="all embodied documents")
+        E1=E[~E.round2]; sh1=[(100*has(E1[E1.year==yv].embodied_categories,c).mean() if (E1.year==yv).sum()>=10 else np.nan) for yv in yrs]
+        ax.plot(yrs,sh1,color=t["cat"][1] if len(t["cat"])>1 else "#888888",ls="--",marker="s",ms=2.5,label="round-1 documents only")   # v5: round-1-only line (composition check)
         ax.set_title(nice(c),loc="left",fontsize=8); ax.set_ylim(0,60); ax.xaxis.grid(False); ax.set_xticks([2018,2020,2022,2024,2026]); ax.tick_params(labelsize=7)
     fig.supylabel("% of the year's embodied-AI documents (95% Wilson band)",fontsize=8)
+    axes.flat[0].legend(fontsize=6.5,loc="upper left",frameon=False)
     ch=sorted(((c,has(E[E.year>=2025].embodied_categories,c).mean()-has(E[E.year<=2022].embodied_categories,c).mean()) for c in cats),key=lambda z:-z[1])
     fig.suptitle(f"Within the embodied set, {', '.join(nice(c).lower() for c,_ in ch[:2])} rise most after 2024 while {', '.join(nice(c).lower() for c,_ in ch[-2:])} recede",x=0.02,ha="left",fontsize=10,fontweight="semibold")
     fig.text(0.02,0.935,f"Embodied-AI documents per year: "+", ".join(f"{yv}: {int((E.year==yv).sum())}" for yv in range(2018,2027)),fontsize=7,color=t["muted"])
@@ -244,6 +247,7 @@ TOP=sorted(set(labels_of(emb.governance_topics)))
 E2=emb[emb.year.between(2020,2026)].copy(); E2["new"]=(E2.year>=2025).astype(float)
 Xb=pd.get_dummies(E2[["doc_class","study_region"]],drop_first=False).astype(float)
 Xb=Xb.drop(columns=[c for c in Xb.columns if c.endswith("research_output") or c.endswith("Europe")],errors="ignore")
+Xb["r2"]=E2.round2.astype(float).values   # v5: collection round as a covariate
 X2=sm.add_constant(pd.concat([E2[["new"]],Xb],axis=1))
 rows=[]
 for tp in TOP:
@@ -259,7 +263,7 @@ for tp in TOP:
                          adjusted_or=round(float(np.exp(fit.params["new"])),2),ci_low=round(float(np.exp(ci[0])),2),ci_high=round(float(np.exp(ci[1])),2),p=float(fit.pvalues["new"])))
     except Exception: pass
 t28=pd.DataFrame(rows); t28["p_holm"]=holm(t28.p.fillna(1)); t28=t28.sort_values("adjusted_or",ascending=False)
-write_table("T28_topic_change_adjusted",t28.round(4),f"Topic change 2025-26 vs 2020-24 in the embodied set: crude shares, research-only shares, and odds ratios adjusted for document class and region (n={len(E2)})")
+write_table("T28_topic_change_adjusted",t28.round(4),f"Topic change 2025-26 vs 2020-24 in the embodied set: crude shares, research-only shares, and odds ratios adjusted for document class, region and collection round (n={len(E2)})")
 R("topic_change_adjusted",t28.to_dict("records"))
 
 # ---------- T29: regional divergence on a common population with bias-corrected V and bootstrap CIs (embodied documents, 6 regions)

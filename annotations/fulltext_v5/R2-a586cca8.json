@@ -1,0 +1,107 @@
+{
+ "doc_id": "R2-a586cca8",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2280458,
+  "in": 2,
+  "out": 1981,
+  "cache_read": 11758,
+  "cache_create": 51764,
+  "api_ms": 13082,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulation No 79 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of vehicles with regard to steering equipment",
+  "title_en": "Regulation No 79 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of vehicles with regard to steering equipment",
+  "language": "en",
+  "authors_or_issuer": "United Nations Economic Commission for Europe (UN/ECE), published in the Official Journal of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2018,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union, L 318/1",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "standards_interoperability",
+   "cybersecurity"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "testing_sandboxes",
+   "audits_impact_assessment",
+   "licensing_registration",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "ISO 3691-4"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "UN/ECE Regulation No 79 (03 series of amendments), published in the EU Official Journal, sets uniform type-approval requirements for vehicle steering equipment. It covers advanced driver assistance steering such as lane keeping, automatic lane change and emergency steering. It excludes fully autonomous steering systems. Driver override, hands-on detection, functional safety documentation and test procedures are required.",
+  "key_provisions_or_claims": [
+   "Excludes Autonomous Steering Systems controlled by off-board signals from general approval; ACSF Categories B2, D and E are not yet covered.",
+   "Driver must be able to override any assistance function at all times, with override force of no more than 50 N.",
+   "ACSF Category C lane changes require driver initiation, rear-vehicle detection of at least 55 m, and hands-on monitoring with escalating warnings.",
+   "Annex 6 requires a safety concept, fault analysis (FMEA/FTA) and verification for complex electronic steering systems.",
+   "Type approval with conformity-of-production checks, approval marks and mutual recognition under the 1958 Agreement."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "doc_id": "R2-c46b9ca4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:14:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2208752,
+  "in": 4,
+  "out": 3971,
+  "cache_read": 65172,
+  "cache_create": 43660,
+  "api_ms": 19935,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "embodied_ai_specific_category",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "binding_nature": "legally_binding",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "EU"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "embodiment_status": "physical_embodied",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "data_governance_requirements",
+   "human_oversight_requirement",
+   "prohibitions_bans",
+   "oversight_body_creation",
+   "international_cooperation",
+   "audits_impact_assessment"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "privacy_data_protection",
+   "cybersecurity",
+   "human_oversight_control",
+   "sustainability_environment"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "intergovernmental_org",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "key_provisions_or_claims": [
+   "Mandates advanced driver-assistance systems (ISA, AEB, emergency lane-keeping, drowsiness and distraction warning, event data recorders) in new vehicles.",
+   "Requires type-approval for automated and fully automated vehicles, with implementing acts on driver replacement systems, driver availability monitoring and data exchange.",
+   "Event data recorders must be anonymised, closed-loop and non-deactivatable; driver monitoring data must be deleted immediately.",
+   "Incorporates UN Regulations by reference and sets dates for refusing type-approval and registration.",
+   "Commission evaluation report due by 7 July 2027 and every five years after."
+  ],
+  "language": "en",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [
+   "GDPR"
+  ],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "pub_month": 11,
+  "pub_year": 2019,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 2,
+  "risk_framing": "risk_based",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "EU General Safety Regulation 2019/2144 sets type-approval requirements for motor vehicles, mandating advanced driver-assistance systems and event data recorders, protecting vulnerable road users, and establishing a framework for type-approval of automated and fully automated vehicles, with data protection safeguards and UN Regulation incorporation.",
+  "title_clean": "Regulation (EU) 2019/2144 on type-approval requirements for motor vehicles and their trailers, as regards their general safety and the protection of vehicle occupants and vulnerable road users",
+  "title_en": "Regulation (EU) 2019/2144 on type-approval requirements for motor vehicles and their trailers, as regards their general safety and the protection of vehicle occupants and vulnerable road users",
+  "venue": "Official Journal of the European Union, L 325"
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "doc_id": "R3-7f8f3bef",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:15:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1766638,
+  "in": 2,
+  "out": 2108,
+  "cache_read": 11758,
+  "cache_create": 38601,
+  "api_ms": 11805,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "UN Regulation No 171 – Uniform provisions concerning the approval of vehicles with regard to Driver Control Assistance Systems (DCAS)",
+  "title_en": "UN Regulation No 171 – Uniform provisions concerning the approval of vehicles with regard to Driver Control Assistance Systems (DCAS)",
+  "language": "en",
+  "authors_or_issuer": "UNECE World Forum for Harmonization of Vehicle Regulations (WP.29), published in the Official Journal of the EU",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union (L series, 2024/2689)",
+  "jurisdiction_country": "INT",
+  "jurisdiction_scope": "international",
+  "countries_discussed": [
+   "EU",
+   "NL"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "cybersecurity",
+   "human_robot_interaction_social_effects",
+   "consumer_protection",
+   "privacy_data_protection",
+   "transparency_explainability",
+   "risk_management_risk_tiers",
+   "standards_interoperability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "licensing_registration",
+   "transparency_disclosure_labelling",
+   "testing_sandboxes",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "ISO/IEC 22989"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "UN Regulation No 171 (published in the EU Official Journal, 2024) sets uniform type-approval requirements for SAE Level 2 Driver Control Assistance Systems in M and N category vehicles. It keeps the driver responsible. It requires driver monitoring, HMI, manoeuvre limits, failure response, audit-based safety assessment, physical and virtual validation, in-service monitoring and reporting, and software identification.",
+  "key_provisions_or_claims": [
+   "DCAS are SAE Level 2 systems; responsibility for driving remains with the driver at all times",
+   "Mandatory driver disengagement monitoring (hands-on, eyes-on) with timed warning escalation, ending in a risk mitigation stop",
+   "Lane change and manoeuvre constraints: lateral acceleration and jerk limits, deceleration limits for approaching vehicles, 3 s indication",
+   "Manufacturers must run in-service monitoring, notify safety-critical occurrences and report annually to the Type Approval Authority",
+   "Type approval needs a safety-concept audit, track and road tests, credibility-assessed virtual testing, and compliance with UN R156 software update rules"
+  ],
+  "confidence": 0.9
+ }
+}

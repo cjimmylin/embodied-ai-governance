@@ -1,0 +1,100 @@
+{
+ "doc_id": "R2-8d544bbe",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:16:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0324918,
+  "in": 2,
+  "out": 1740,
+  "cache_read": 11758,
+  "cache_create": 3478,
+  "api_ms": 8402,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "House Bill 4063 (Enrolled): Relating to autonomous vehicles",
+  "title_en": "House Bill 4063 (Enrolled): Relating to autonomous vehicles",
+  "language": "en",
+  "authors_or_issuer": "Oregon Legislative Assembly",
+  "issuer_type": "legislature",
+  "pub_year": 2018,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Oregon Legislative Assembly",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "superseded_or_repealed",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "consumer_protection",
+   "cybersecurity",
+   "privacy_data_protection",
+   "industrial_policy_innovation",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Oregon's enrolled HB 4063 (2018) designates the Department of Transportation as lead agency for autonomous vehicle policy and creates a 31-member Task Force on Autonomous Vehicles to recommend legislation on licensing, registration, enforcement, accident reporting, insurance and liability. The task force section is repealed on January 2, 2021.",
+  "key_provisions_or_claims": [
+   "ODOT designated lead agency for autonomous vehicle programs",
+   "Creates 31-member multi-stakeholder Task Force on Autonomous Vehicles",
+   "Task force to recommend legislation on licensing, registration, law enforcement, accident reporting, insurance and liability",
+   "May study land use, infrastructure, transit, cybersecurity and privacy",
+   "Report due September 15, 2018; task force section repealed January 2, 2021"
+  ],
+  "confidence": 0.9
+ }
+}

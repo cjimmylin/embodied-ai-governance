@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-08a1ad4b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:28",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0854416,
+  "in": 2,
+  "out": 688,
+  "cache_read": 2656,
+  "cache_create": 19573,
+  "api_ms": 8809,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "operators_or_deployers",
+   "certification_or_notified_bodies",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The regulation binds economic operators (manufacturer, authorised representative, importer, distributor) of UAS, third-country UAS operators, and conformity assessment/approved bodies and market surveillance authorities.",
+  "bound_parties_quote": "'economic operators' means the manufacturer, the authorised representative of the manufacturer, the importer, and the distributor of the UAS;",
+  "entry_into_force_date": null,
+  "applicability_date": "2026-01-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Word in Annex Pt. 16 substituted (1.1.2026) by The Unmanned Aircraft (Amendment) Regulations 2025 (S.I. 2025/1106)",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Commission Delegated Regulation (EU) 2019/945 of 12 March 2019 on unmanned aircraft systems and on third-country operators of unmanned aircraft systems",
+  "confidence": 0.6
+ }
+}

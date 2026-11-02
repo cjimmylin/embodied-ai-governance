@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-5139b2d3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0152616,
+  "in": 2,
+  "out": 554,
+  "cache_read": 2656,
+  "cache_create": 2363,
+  "api_ms": 3581,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "providers_or_developers"
+  ],
+  "bound_parties_text": "The standard is stated to be relevant to Tier-1 and Tier-2 supply chain suppliers and service providers to the vehicle and its occupants and/or cargo.",
+  "bound_parties_quote": "Tier-1 and Tier-2 supply chain suppliers\nService providers to both the vehicle and its occupants and/or cargo",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Published:\n31 Dec 2018",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "PAS 1885 is the international standard on road vehicles that discusses automotive cyber security across the lifetime.",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.5
+ }
+}

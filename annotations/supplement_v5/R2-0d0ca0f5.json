@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-0d0ca0f5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0731016,
+  "in": 2,
+  "out": 664,
+  "cache_read": 2656,
+  "cache_create": 16548,
+  "api_ms": 5398,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "employers"
+  ],
+  "bound_parties_text": "The part applies to all State, local, Tribal, and territorial (SLTT) law enforcement and correctional agencies and their personnel seeking to exercise or exercising C-UAS authority; contractors and others are also barred from circumventing it.",
+  "bound_parties_quote": "This part applies to all SLTT law enforcement and correctional agencies, and their personnel seeking to exercise or exercising authority under 6 U.S.C. 124n(a)(2).",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2031-12-31",
+  "dates_quote": "the authority of SLTT law enforcement and correctional agencies and their personnel under 6 U.S.C. 124n(a)(2) will terminate on December 31, 2031, as provided in 6 U.S.C. 124n(j)(2).",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Source: 91 FR 41498, July 6, 2026, unless otherwise noted.",
+  "confidence": 0.8
+ }
+}

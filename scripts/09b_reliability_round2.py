@@ -3,7 +3,7 @@
 Usage: python3 09b_reliability_round2.py annotations/reliability_round2_opus _r2opus"""
 import json, glob, sys, numpy as np, pandas as pd
 from sklearn.metrics import cohen_kappa_score
-B="/home/user/embodied-ai-governance-v4/"
+B="/home/user/embodied-ai-governance-v5/"
 def load(d): return {json.load(open(p))["doc_id"]:json.load(open(p))["annotation"] for p in glob.glob(B+d+"/R2-*.json")}
 SECOND=sys.argv[1]; OUTTAG=sys.argv[2] if len(sys.argv)>2 else "_r2"
 A=load("annotations/round2"); R=load(SECOND); ids=sorted(set(A)&set(R)); print("overlap docs:",len(ids))

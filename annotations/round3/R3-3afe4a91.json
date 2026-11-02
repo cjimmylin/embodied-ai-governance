@@ -1,0 +1,96 @@
+{
+ "doc_id": "R3-3afe4a91",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:17:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0274858,
+  "in": 2,
+  "out": 1779,
+  "cache_read": 11758,
+  "cache_create": 2129,
+  "api_ms": 8898,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Decision No 2/2003 of the Committee established under the Agreement between the European Community and the Swiss Confederation on mutual recognition in relation to conformity assessment on the listing of a conformity assessment body under the sectoral chapter for medical devices",
+  "title_en": "Decision No 2/2003 of the Committee established under the Agreement between the European Community and the Swiss Confederation on mutual recognition in relation to conformity assessment on the listing of a conformity assessment body under the sectoral chapter for medical devices",
+  "language": "en",
+  "authors_or_issuer": "Committee established under the EC–Swiss Agreement on mutual recognition in relation to conformity assessment",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2003,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union L 323",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU",
+   "CH"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "Directive 93/42/EEC Medical devices"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "2003 EC–Switzerland joint Committee decision adding a conformity assessment body to the medical devices list under the mutual recognition agreement. The listed body is responsible for class IIb male condoms under Directive 93/42/EEC. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Adds a named conformity assessment body to the EU list under the medical devices chapter of Annex I.",
+   "Decision effective from the later signature date.",
+   "Listed body covers class IIb male condoms under Directive 93/42/EEC Annex IV.",
+   "Adopted under Articles 10(4)(a) and 11 of the EC–Swiss MRA."
+  ],
+  "confidence": 0.92
+ }
+}

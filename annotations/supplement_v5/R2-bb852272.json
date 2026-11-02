@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-bb852272",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:53:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0180916,
+  "in": 2,
+  "out": 629,
+  "cache_read": 2656,
+  "cache_create": 2883,
+  "api_ms": 3872,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "individuals_or_general_public",
+   "public_bodies_or_government",
+   "importers_or_distributors",
+   "owners_or_users",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The rules bind units and individuals in Beijing (no flying, holding, storing, transporting, selling or renting drones), e-commerce operators, entities granted special guarantees, and municipal/district governments and departments responsible for drone management.",
+  "bound_parties_quote": "禁止向在本市行政区域内的单位和个人销售、出租无人驾驶航空器及其核心部件。电子商务经营者应当采取有效措施落实前款规定。",
+  "entry_into_force_date": "2026-11-15",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "本规定自2026年11月15日起施行。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "为了加强本市无人驾驶航空器的管理，维护首都安全",
+  "confidence": 0.85
+ }
+}

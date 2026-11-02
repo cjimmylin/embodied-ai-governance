@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-5d2b19e5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1179876,
+  "in": 2,
+  "out": 745,
+  "cache_read": 2656,
+  "cache_create": 27567,
+  "api_ms": 6817,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users",
+   "public_bodies_or_government",
+   "providers_or_developers"
+  ],
+  "bound_parties_text": "The Finnish Aviation Act binds aircraft owners, holders and users, aviation operators, aerodrome keepers, and authorities such as the Finnish Transport and Communications Agency and the Defence Forces, including operators of unmanned aircraft systems.",
+  "bound_parties_quote": "Ilma-aluksen omistajan on haettava rekisteröintiä Liikenne- ja viestintävirastolta.",
+  "entry_into_force_date": "2014-11-13",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Tämä laki tulee voimaan 13 päivänä marraskuuta 2014. Lain 37, 38, 47, 53, 62, 79 ja 87 §:n säännöksiä sovelletaan toimintaan kauko-ohjattavilla ilma-aluksilla kuitenkin vasta valtioneuvoston asetuksella säädettävästä ajankohdasta alkaen.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "Liikenne- ja viestintävirasto voi välttämättömästä syystä perustaa UAS-ilmatilavyöhykkeen",
+  "confidence": 0.6
+ }
+}

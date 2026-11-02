@@ -1,0 +1,98 @@
+{
+ "doc_id": "R3-ec62e02e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:12:12",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0375238,
+  "in": 2,
+  "out": 1778,
+  "cache_read": 11758,
+  "cache_create": 4641,
+  "api_ms": 11515,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "finance",
+   "agriculture_food"
+  ],
+  "authors_or_issuer": "国家金融监督管理总局; 财政部; 农业农村部; 中国人民银行",
+  "binding_nature": "voluntary_soft_law",
+  "confidence": 0.95,
+  "countries_discussed": [
+   "CN"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_soft",
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "audits_impact_assessment",
+   "education_training_programs"
+  ],
+  "governance_topics": [
+   "other",
+   "consumer_protection",
+   "taxation_economic_policy"
+  ],
+  "instrument_status": "published_current",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Loans up to 100,000 yuan, up to 3 years, no collateral, for people at risk of poverty relapse",
+   "Central government subsidises 70% of the loan rate, capped at 2.5 percentage points",
+   "Differentiated supervision tolerates NPL ratios up to 3 points above the bank's overall rate",
+   "Loans may be renewed or extended once; loan proceeds restricted to productive use",
+   "Risk compensation mechanisms and suspension of lending in high-delinquency areas"
+  ],
+  "language": "zh",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "other",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 2,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Joint 2026 notice from China's financial regulator, Ministry of Finance, Ministry of Agriculture and People's Bank of China on assistance microloans for rural people at risk of poverty relapse. It sets loan terms, interest subsidies, risk compensation, differentiated supervision and risk controls. It is unrelated to AI or robotics.",
+  "title_clean": "金融监管总局 财政部 农业农村部 中国人民银行关于做好帮扶小额信贷工作的通知",
+  "title_en": "Notice of the National Financial Regulatory Administration, Ministry of Finance, Ministry of Agriculture and Rural Affairs and People's Bank of China on Doing Well in Assistance Microcredit Work",
+  "venue": null,
+  "methodology": "not_applicable"
+ }
+}

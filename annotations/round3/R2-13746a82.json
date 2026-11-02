@@ -1,0 +1,116 @@
+{
+ "doc_id": "R2-13746a82",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:14:17",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.16265179999999999,
+  "in": 2,
+  "out": 1994,
+  "cache_read": 11758,
+  "cache_create": 35383,
+  "api_ms": 11660,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Regulation (EU) 2025/2509 of the European Parliament and of the Council of 26 November 2025 on the safety of toys and repealing Directive 2009/48/EC",
+  "title_en": "Regulation (EU) 2025/2509 of the European Parliament and of the Council of 26 November 2025 on the safety of toys and repealing Directive 2009/48/EC",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2025,
+  "pub_month": 11,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "toys_entertainment_robots"
+  ],
+  "primary_embodied_category": "toys_entertainment_robots",
+  "application_sectors": [
+   "domestic_consumer",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "children_vulnerable_groups",
+   "consumer_protection",
+   "certification_conformity_assessment",
+   "standards_interoperability",
+   "cybersecurity",
+   "privacy_data_protection",
+   "sustainability_environment",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "transparency_disclosure_labelling",
+   "prohibitions_bans",
+   "incident_reporting",
+   "data_governance_requirements",
+   "oversight_body_creation",
+   "audits_impact_assessment",
+   "insurance_requirement",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "EU Regulation replacing the Toy Safety Directive 2009/48/EC with directly applicable rules on toy safety, covering chemicals, economic operator duties, conformity assessment, CE marking and a digital product passport. It states that toys with AI or digital elements must also comply with the AI Act and Cyber Resilience Act, and it requires mental-health risk assessment for connected toys.",
+  "key_provisions_or_claims": [
+   "Toys must meet general and particular essential safety requirements, with due regard to the precautionary principle.",
+   "Generic bans on CMR substances, endocrine disruptors, PFAS and 34 bisphenols in toys.",
+   "Mandatory digital product passport and CE marking, with customs verification at the border.",
+   "Connected toys must comply with the AI Act, the Cyber Resilience Act and the Radio Equipment Directive; safety assessments must consider risks to mental health.",
+   "Online marketplaces must treat non-compliant toy offers as illegal content under the DSA."
+  ],
+  "confidence": 0.9
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-ed0d2da3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:05:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0325676,
+  "in": 2,
+  "out": 667,
+  "cache_read": 2656,
+  "cache_create": 6407,
+  "api_ms": 3937,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users",
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The Act imposes requirements on owners of fully autonomous vehicles (as operators), insurers/self-insurers, motor carriers, the Transportation Cabinet, and local governments whose regulatory authority is limited.",
+  "bound_parties_quote": "the owner of a fully autonomous vehicle shall be considered operator of the vehicle for the purpose of assessing compliance with traffic or motor vehicle laws",
+  "entry_into_force_date": null,
+  "applicability_date": "2026-08-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "amends KRS 281.764, effective August 1, 2026, to require only the lead vehicle in a truck platoon to have a human driver behind the wheel; EFFECTIVE, in part, August 1, 2026.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "AN ACT relating to autonomous vehicles.",
+  "confidence": 0.7
+ }
+}

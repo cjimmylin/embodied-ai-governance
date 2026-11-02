@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-0855b2d9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0262576,
+  "in": 2,
+  "out": 574,
+  "cache_read": 2656,
+  "cache_create": 5062,
+  "api_ms": 3634,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The relevant departments and local authorities are directed to strengthen coordination, intensify policy support and implement the measures; the Ministry of Commerce is to establish a working mechanism.",
+  "bound_parties_quote": "各有关部门要强化协同配合，加大政策支持力度，形成工作合力。各地相关部门要因地制宜，加大创新探索力度，推动各项措施落实落地。",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "2026年6月9日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "商务部等8部门关于加快“人工智能+消费”发展的实施意见 商建发2026年第89号",
+  "confidence": 0.8
+ }
+}

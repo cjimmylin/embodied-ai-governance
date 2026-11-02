@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-b0d4346b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:07",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0806856,
+  "in": 2,
+  "out": 746,
+  "cache_read": 2656,
+  "cache_create": 18239,
+  "api_ms": 10570,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users",
+   "certification_or_notified_bodies",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The Regulation binds organisations involved in the continuing airworthiness of certified UAS and their components (Part-CAO.UAS organisations), certifying staff, and owners of the unmanned aircraft, who are accountable for continuing airworthiness.",
+  "bound_parties_quote": "An organisation that is involved in the continuing airworthiness of UAS referred to in Article 1 and of components for installation thereon, including their maintenance, shall comply with Annex II (Part-CAO.UAS)",
+  "entry_into_force_date": "2024-06-12",
+  "applicability_date": "2025-05-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. It shall apply from 1 May 2025. However, point CAO.UAS.102 of Annex II (Part-CAO.UAS) shall apply from 22 February 2026.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "detailed rules for the continuing airworthiness of certified unmanned aircraft systems and their components, and on the approval of organisations and personnel involved in these tasks",
+  "confidence": 0.85
+ }
+}

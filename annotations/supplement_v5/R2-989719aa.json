@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-989719aa",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0224236,
+  "in": 2,
+  "out": 601,
+  "cache_read": 2656,
+  "cache_create": 4036,
+  "api_ms": 3533,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The specification's \"shalls\" apply to DAA system integrators/applicants, who are responsible for all requirements, with other actors such as DAA system designers and flight control designers expected to use it.",
+  "bound_parties_quote": "Except for DAA system integrators for whom all the “shalls” in this specification apply, not all aspects of this specification are relevant to all actors/contributors.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "Ultimate determination of applicability will be governed by the appropriate civil aviation authority (CAA).",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "This specification applies to uncrewed aircraft (UA) with a maximum dimension (for example, wingspan, disc diameter)",
+  "confidence": 0.6
+ }
+}

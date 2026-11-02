@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-f48a8103",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0729596,
+  "in": 2,
+  "out": 649,
+  "cache_read": 2656,
+  "cache_create": 16550,
+  "api_ms": 6870,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "certification_or_notified_bodies",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The proposed Regulation incorporates obligations for manufacturers, importers and distributors, and sets requirements for national authorities responsible for notified bodies, leaving designation and monitoring to Member States.",
+  "bound_parties_quote": "The proposal incorporates obligations for manufacturers, importers and distributors to be aligned with the NLF Decision 768/2008/EC.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "The proposed Regulation will become applicable 30 months after its entry into force to allow manufacturers, notified bodies and Member States time to adapt to the new requirements.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "Section 3 on offset risks due to the mobility of machinery has been adapted to address the risks on autonomous machines and remote supervisory stations.",
+  "confidence": 0.6
+ }
+}

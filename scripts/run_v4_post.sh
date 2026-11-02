@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/user/embodied-ai-governance-v4
+cd /home/user/embodied-ai-governance-v5
 set -e
 python3 scripts/07c_v4_units_and_tiers.py > logs/v4_07c.log 2>&1
 python3 scripts/09_reliability.py annotations/reliability_opus > logs/v4_09a.log 2>&1

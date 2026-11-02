@@ -2,9 +2,9 @@
 """v4: reliability variants promised in the methods: unweighted kappa for ordinal fields and level-2 (in depth) agreement for principles,
 for every reliability folder (round-1 samples and the round-2 samples). Writes data/reliability_variants.csv and tables/S09b_reliability_variants."""
 import json, glob, numpy as np, pandas as pd, sys
-sys.path.insert(0,"/home/user/embodied-ai-governance-v4/scripts"); from analysis_common import write_table, PRL
+sys.path.insert(0,"/home/user/embodied-ai-governance-v5/scripts"); from analysis_common import write_table, PRL
 from sklearn.metrics import cohen_kappa_score
-B="/home/user/embodied-ai-governance-v4/"
+B="/home/user/embodied-ai-governance-v5/"
 def load(d,pat): return {json.load(open(p))["doc_id"]:json.load(open(p))["annotation"] for p in glob.glob(B+d+"/"+pat)}
 A1=load("annotations/main","D*.json"); A1.update(load("annotations/main_clean","D*.json")); A1.update(load("annotations/gov_extended","D*.json")); A2=load("annotations/round2","R2-*.json")
 runs=[("Opus, round-1 sample","annotations/reliability_opus","D*.json",A1),("Sonnet re-run, round-1 sample","annotations/reliability_sonnet_rerun","D*.json",A1),("Sonnet full text, round-1 sample","annotations/reliability_fulltext","D*.json",A1),("Sonnet blind, round-1 sample","annotations/reliability_blind","D*.json",A1),("Opus, round-2 sample","annotations/reliability_round2_opus","R2-*.json",A2),("Sonnet re-run, round-2 sample","annotations/reliability_round2_rerun","R2-*.json",A2)]

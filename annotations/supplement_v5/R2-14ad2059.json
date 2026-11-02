@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-14ad2059",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:53",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0215936,
+  "in": 2,
+  "out": 616,
+  "cache_read": 2656,
+  "cache_create": 3791,
+  "api_ms": 6391,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "Air traffic services providers and air traffic control units must provide traffic information, establish coordination procedures, and dynamically reconfigure U-space airspace; the Regulation is binding on Member States.",
+  "bound_parties_quote": "Air traffic services providers shall:",
+  "entry_into_force_date": "2021-05-13",
+  "applicability_date": "2023-01-26",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. It shall apply from 26 January 2023.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "amending Implementing Regulation (EU) 2017/373 as regards requirements for providers of air traffic management/air navigation services and other air traffic management network functions in the U-space airspace",
+  "confidence": 0.85
+ }
+}

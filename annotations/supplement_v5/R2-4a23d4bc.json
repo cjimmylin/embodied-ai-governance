@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-4a23d4bc",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:02:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0155876,
+  "in": 2,
+  "out": 601,
+  "cache_read": 2656,
+  "cache_create": 2327,
+  "api_ms": 4226,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "pilots_or_drivers",
+   "owners_or_users"
+  ],
+  "bound_parties_text": "The regulation creates violation ticket offences for anyone who drives or permits driving of a Level 3, 4 or 5 automated vehicle (section 303.2).",
+  "bound_parties_quote": "Drive or permit driving of Level 3 automated vehicle",
+  "entry_into_force_date": "2024-04-05",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "orders that, effective April 5, 2024, (a) section 35 of the Motor Vehicle Amendment Act, 2023, S.B.C. 2023, c. 17, is brought into force",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "effective April 5, 2024, ... adding the following items as indicated: Section 303.2 (a) Drive or permit driving of Level 3 automated vehicle",
+  "confidence": 0.8
+ }
+}

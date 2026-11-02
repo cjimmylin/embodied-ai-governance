@@ -1,0 +1,103 @@
+{
+ "doc_id": "R3-2f6b0ed0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:17:35",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1478158,
+  "in": 2,
+  "out": 1818,
+  "cache_read": 11758,
+  "cache_create": 32114,
+  "api_ms": 9865,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Proposal for a Directive of the European Parliament and of the Council amending Council Directives 90/385/EEC and 93/42/EEC and Directive 98/8/EC as regards the review of the medical device directives",
+  "title_en": "Proposal for a Directive amending Directives 90/385/EEC, 93/42/EEC and 98/8/EC as regards the review of the medical device directives",
+  "language": "en",
+  "authors_or_issuer": "Commission of the European Communities",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2005,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "COM(2005) 681 final",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "bill_or_draft_law",
+  "doc_class": "governance_proposal_or_draft",
+  "is_governance_document": true,
+  "instrument_status": "draft_or_bill_under_consideration",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "certification_conformity_assessment",
+   "safety_physical_harm",
+   "transparency_explainability",
+   "consumer_protection",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "conformity_assessment_certification",
+   "licensing_registration",
+   "incident_reporting",
+   "transparency_disclosure_labelling",
+   "international_cooperation",
+   "technical_standards_reference",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "2005 European Commission proposal to amend the EU medical device directives (93/42/EEC, 90/385/EEC) and the biocides directive. It clarifies conformity assessment, clinical evaluation, post-market surveillance, notified body duties, transparency and software validation. It has no AI or robotics content beyond software as a medical device.",
+  "key_provisions_or_claims": [
+   "Notified bodies must assess design documentation for class IIa and IIb devices on a representative basis",
+   "Clinical data is required for all devices, with a European databank for clinical investigations",
+   "Stand-alone software can qualify as a medical device and must be validated to the state of the art",
+   "Manufacturers outside the Community must designate an authorised representative",
+   "Confidentiality is relaxed: registration, vigilance and certificate data are made public"
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-3f6382da",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06638759999999999,
+  "in": 2,
+  "out": 555,
+  "cache_read": 2656,
+  "cache_create": 15142,
+  "api_ms": 8045,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The notice asks the recipient units to implement the plan, and the plan says relevant departments and units must take responsibility and strengthen organisational leadership.",
+  "bound_parties_quote": "各有关部门、单位，要主动承接落实责任，加强组织领导",
+  "entry_into_force_date": "2026-09-11",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "国家铁路局\n2026年9月11日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "推动数字孪生、人工智能等技术在铁路运输、技术装备、工程建设、安全保障全领域的创新应用",
+  "confidence": 0.5
+ }
+}

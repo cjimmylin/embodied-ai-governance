@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-34d7721c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0347416,
+  "in": 2,
+  "out": 554,
+  "cache_read": 2656,
+  "cache_create": 7233,
+  "api_ms": 3449,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "member_states_or_subnational_governments",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "Member States must only accept approvals granted under UN Regulations No 140 and No 141 for EC type-approval of new vehicle types; vehicle manufacturers are subject to the amended type-approval requirements.",
+  "bound_parties_quote": "Member States shall only accept approvals granted under UN Regulation No 140.",
+  "entry_into_force_date": null,
+  "applicability_date": "2019-04-24",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "With effect from 24 April 2019, for the purposes of EC type-approval of new vehicle types with regard to their electronic stability control systems",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.8
+ }
+}

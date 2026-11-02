@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-528a1f4f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0361436,
+  "in": 2,
+  "out": 565,
+  "cache_read": 2656,
+  "cache_create": 7556,
+  "api_ms": 4289,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The notice is addressed to provincial industry and information technology authorities, communications administrations, cyberspace offices, development and reform commissions and other departments, universities and relevant units, who are asked to implement the plan.",
+  "bound_parties_quote": "现将《5G规模化应用\"扬帆\"行动升级方案》印发给你们，请结合实际认真贯彻落实。",
+  "entry_into_force_date": "2024-11-22",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "2024年11月22日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "推动基于5G的智能机器人、智能移动终端、云设备等研发应用",
+  "confidence": 0.6
+ }
+}

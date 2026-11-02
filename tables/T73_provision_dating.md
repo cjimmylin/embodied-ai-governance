@@ -1,0 +1,11 @@
+**T73_provision_dating. Principal binding embodied instruments whose robot-relevant provision was added later than the document's recorded year, according to the amendment history in the text (the dates to use for provision-level trend analyses)**
+
+| doc_id      | title_en                                                                                                | jurisdiction_country   |   year_final |   robot_provision_year | robot_provision_basis                  |
+|:------------|:--------------------------------------------------------------------------------------------------------|:-----------------------|-------------:|-----------------------:|:---------------------------------------|
+| R2-aa8d88b9 | Ordinance on Transport Safety in the Freight Motor Vehicle Transport Business                           | JP                     |         1990 |                   2025 | amendment_history_in_text              |
+| R2-ee56555b | Traffic Act (Estonia)                                                                                   | EE                     |         2010 |                   2017 | amendment_history_in_text              |
+| R2-5d2b19e5 | Finnish Aviation Act 864/2014 (consolidated version)                                                    | FI                     |         2014 |                   2020 | amendment_history_in_text              |
+| R2-ce2171ab | Ordinance for Enforcement of the National Strategic Special Zones Act (MLIT-related)                    | JP                     |         2014 |                   2022 | amendment_history_in_text              |
+| R2-f8592e32 | The Air Navigation Order 2016                                                                           | GB                     |         2016 |                   2025 | amendment_history_in_text              |
+| R2-295bf91b | Air Navigation (Aircraft Noise) Regulations 2018                                                        | AU                     |         2018 |                   2021 | amendment_history_in_text              |
+| R2-be225994 | Regulations Amending the Canadian Aviation Regulations (Remotely Piloted Aircraft Systems): SOR/2019-11 | CA                     |         2018 |                   2019 | whole_instrument_is_about_such_systems |

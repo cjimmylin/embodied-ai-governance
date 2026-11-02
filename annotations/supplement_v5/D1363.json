@@ -1,0 +1,34 @@
+{
+ "doc_id": "D1363",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:52:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0775336,
+  "in": 2,
+  "out": 586,
+  "cache_read": 2656,
+  "cache_create": 17851,
+  "api_ms": 6767,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The policy is a strategy document that sets objectives and planned activities for the state, society, companies, science and the public sector, without imposing binding obligations on named parties.",
+  "bound_parties_quote": "The overarching aim of the AI Policy is to support the society, companies, representatives of the academia and public administration in taking advantage of opportunities related to AI development",
+  "entry_into_force_date": "2020-12-28",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "no. 196 of the Council of Ministers of 28 December 2020 (item 23)",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "The “Policy for the Development of Artificial Intelligence in Poland from 2020”, which will hereinafter be referred to as the “AI Policy",
+  "confidence": 0.6
+ }
+}

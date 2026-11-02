@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-e039001f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0796976,
+  "in": 2,
+  "out": 618,
+  "cache_read": 2656,
+  "cache_create": 18312,
+  "api_ms": 5164,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "Manufacturers of fully automated vehicles' automated driving systems must meet the technical and documentation requirements, and type-approval authorities and technical services assess them; Member States are bound by the Regulation.",
+  "bound_parties_quote": "The manufacturer shall demonstrate that an acceptable degree of consideration has been given to the functional and operational safety for the ADS during its design and development processes.",
+  "entry_into_force_date": "2022-08-25",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2022,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "uniform procedures and technical specifications for the type-approval of the automated driving system (ADS) of fully automated vehicles",
+  "confidence": 0.85
+ }
+}

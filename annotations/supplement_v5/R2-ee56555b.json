@@ -1,0 +1,39 @@
+{
+ "doc_id": "R2-ee56555b",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08511560000000001,
+  "in": 2,
+  "out": 677,
+  "cache_read": 2656,
+  "cache_create": 19519,
+  "api_ms": 4517,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "pilots_or_drivers",
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments",
+   "manufacturers_or_producers",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The Act binds road users, drivers, vehicle owners and authorised users (including self-driving delivery robot users), and public bodies such as ministries, the Transport Administration and municipalities.",
+  "bound_parties_quote": "This Act extends to foreign road users and vehicles registered abroad, which are located in the territory of Estonia, unless an international agreement provides otherwise.",
+  "entry_into_force_date": "2011-07-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Passed 17.06.2010\nRT I 2010, 44,\n261\nEntry into force 01.07.2011",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2017,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "means a partially or fully automated or remotely controlled vehicle which moves on wheels or another chassis that is in contact with the ground\n[RT I, 04.07.2017,\n7 - entry into force 14.07.2017]",
+  "confidence": 0.8
+ }
+}

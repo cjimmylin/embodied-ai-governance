@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-c89a59fa",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1136156,
+  "in": 2,
+  "out": 511,
+  "cache_read": 2656,
+  "cache_create": 27059,
+  "api_ms": 4229,
+  "result_head": ""
+ },
+ "annotation": {
+  "applicability_date": null,
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_quote": "",
+  "bound_parties_text": "The guidebook is addressed mainly to developers of robotic care equipment as guidance, but it imposes no binding obligations on any party.",
+  "confidence": 0.8,
+  "dates_quote": "2018 年 3 月",
+  "entry_into_force_date": null,
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "repeal_or_expiry_date": null,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "本ガイドブックは、ロボット介護機器の開発者を主たる対象として、開発の方法論を開発プロセスに沿ってまとめたものである。",
+  "robot_provision_year": 2018
+ }
+}

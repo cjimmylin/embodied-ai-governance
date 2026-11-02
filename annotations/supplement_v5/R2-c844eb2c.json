@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-c844eb2c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0725716,
+  "in": 2,
+  "out": 517,
+  "cache_read": 2656,
+  "cache_create": 16783,
+  "api_ms": 5031,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The notice sets out the Commission's intended standardisation requests to the European standardisation organisations and does not impose obligations on any party.",
+  "bound_parties_quote": "this Commission Notice identifies the strategic priorities for European standardisation, as well as the European standards and European standardisation deliverables that the Commission intends to request from the European standardisation organisations",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "The 2026 annual Union work programme for European standardisation",
+  "confidence": 0.5
+ }
+}

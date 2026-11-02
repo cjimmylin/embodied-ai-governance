@@ -1,6 +1,6 @@
 #!/bin/bash
 # Full v3 pipeline: merge round-2 collection into the v2 project copy, then re-run every analysis, the dashboard and the reports.
-cd /home/user/embodied-ai-governance-v4
+cd /home/user/embodied-ai-governance-v5
 set -e
 mkdir -p logs
 python3 scripts/merge_round2.py > logs/v3_merge.log 2>&1

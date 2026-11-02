@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-2ab95ce6",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:01",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0212776,
+  "in": 2,
+  "out": 552,
+  "cache_read": 2656,
+  "cache_create": 3872,
+  "api_ms": 6642,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The AC applies to manufacturers and operators intending to develop or operate a Remotely Piloted Aircraft System (RPAS).",
+  "bound_parties_quote": "This document applies to manufacturers and operators intending to develop or operate an",
+  "entry_into_force_date": "2024-06-03",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Effective Date:\n2024-06-03",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Advisory Circular (AC) No. 903-001\nSubject: Remotely Piloted Aircraft Systems Operational Risk Assessment",
+  "confidence": 0.6
+ }
+}

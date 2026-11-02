@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-833ba7e9",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0687976,
+  "in": 2,
+  "out": 548,
+  "cache_read": 2656,
+  "cache_create": 15762,
+  "api_ms": 10361,
+  "result_head": ""
+ },
+ "annotation": {
+  "applicability_date": null,
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "member_states_or_subnational_governments",
+   "certification_or_notified_bodies",
+   "importers_or_distributors"
+  ],
+  "bound_parties_quote": "Member States shall take all necessary steps to ensure that devices may be placed on the market and put into service only if they do not compromise the safety and health of patients, users and, where applicable, other persons",
+  "bound_parties_text": "The Directive binds Member States, manufacturers (and their authorized representatives, and persons who assemble systems or procedure packs or sterilize devices), and notified bodies.",
+  "confidence": 0.6,
+  "dates_quote": "",
+  "entry_into_force_date": null,
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "repeal_or_expiry_date": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "robot_provision_year": null
+ }
+}

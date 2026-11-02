@@ -1,6 +1,6 @@
 """Supplementary tables S01-S13 (markdown) for the supplement and per-type synthesis numbers."""
 import pandas as pd, numpy as np, json, sys
-sys.path.insert(0,"/home/user/embodied-ai-governance-v4/scripts")
+sys.path.insert(0,"/home/user/embodied-ai-governance-v5/scripts")
 from analysis_common import load, write_table, EMB, L1
 m=load()
 u=m[m.usable]; e=u[u.embodied_set]
@@ -18,18 +18,18 @@ write_table("S03_drafts_embodied",tidy(g[g.doc_class=="governance_proposal_or_dr
 write_table("S04_govreports_embodied",tidy(e[e.doc_class=="government_report_or_parliamentary"].sort_values("year_final"),base),"Government and parliamentary reports in the embodied-AI set")
 prov=u[(u.ai_scope=="general_ai_with_embodied_provisions")&(u.is_governance_document==True)]
 write_table("S05_general_with_embodied_provisions",tidy(prov.sort_values(["doc_class","year_final"]),["doc_id","title_en","jurisdiction_country","year_final","doc_type","embodied_categories"]),"General-AI governance instruments that contain embodied-AI provisions")
-qa=pd.read_csv("/home/user/embodied-ai-governance-v4/data/qa_flags.csv")
+qa=pd.read_csv("/home/user/embodied-ai-governance-v5/data/qa_flags.csv")
 fl=qa["flags"].str.split(";").explode().str.strip().value_counts().reset_index(); fl.columns=["flag","documents"]
 write_table("S06_qa_flags",fl,"Quality-assurance flags on annotated documents")
-dd=pd.read_csv("/home/user/embodied-ai-governance-v4/data/data_dictionary.csv")
+dd=pd.read_csv("/home/user/embodied-ai-governance-v5/data/data_dictionary.csv")
 write_table("S07_data_dictionary",dd,"Master table data dictionary")
 # full country table
-t4=pd.read_csv("/home/user/embodied-ai-governance-v4/tables/T04_countries.csv")
+t4=pd.read_csv("/home/user/embodied-ai-governance-v5/tables/T04_countries.csv")
 write_table("S08_all_countries",t4,"All national jurisdictions with document counts")
-rel=pd.read_csv("/home/user/embodied-ai-governance-v4/figures/data/F35_reliability.csv")
+rel=pd.read_csv("/home/user/embodied-ai-governance-v5/figures/data/F35_reliability.csv")
 rel=rel[["lab","type","percent_agreement_model","kappa_model","percent_agreement_retest","kappa_retest","note"]].round(3).rename(columns={"lab":"field","percent_agreement_model":"agreement (Sonnet vs Opus)","kappa_model":"kappa (Sonnet vs Opus)","percent_agreement_retest":"agreement (test-retest)","kappa_retest":"kappa (test-retest)"})
 write_table("S09_reliability_full",rel.fillna(""),"Reliability per field: inter-model (160 documents) and same-model test-retest (161 documents)")
-cc=pd.read_csv("/home/user/embodied-ai-governance-v4/data/reliability_team_crosscheck.csv").round(3)
+cc=pd.read_csv("/home/user/embodied-ai-governance-v5/data/reliability_team_crosscheck.csv").round(3)
 write_table("S10_collector_crosscheck",cc.fillna(""),"Cross-checks of annotations against the collectors' own labels")
 oa=e[(e.doc_class=="research_output")&e.oa_cited_by.notna()].sort_values("oa_cited_by",ascending=False).head(25)
 write_table("S11_most_cited",tidy(oa,["doc_id","title_en","year_final","oa_cited_by","oa_match_type","venue"]).rename(columns={"oa_cited_by":"OpenAlex citations","oa_match_type":"match"}),"Most cited embodied-AI research outputs by OpenAlex citation count (indicative; see caveat)")

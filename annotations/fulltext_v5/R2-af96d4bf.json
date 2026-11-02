@@ -1,0 +1,112 @@
+{
+ "doc_id": "R2-af96d4bf",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.23469459999999998,
+  "in": 4,
+  "out": 3808,
+  "cache_read": 68946,
+  "cache_create": 47428,
+  "api_ms": 24082,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Guidelines for testing automated driving systems in Canada",
+  "title_en": "Guidelines for testing automated driving systems in Canada",
+  "language": "en",
+  "authors_or_issuer": "Transport Canada",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2021,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Transport Canada (canada.ca)",
+  "jurisdiction_country": "CA",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CA"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "cybersecurity",
+   "privacy_data_protection",
+   "risk_management_risk_tiers",
+   "trust_acceptance",
+   "children_vulnerable_groups",
+   "standards_interoperability",
+   "civil_liability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "technical_standards_reference",
+   "human_oversight_requirement",
+   "incident_reporting",
+   "audits_impact_assessment",
+   "testing_sandboxes",
+   "licensing_registration",
+   "insurance_requirement",
+   "transparency_disclosure_labelling",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Transport Canada's Version 2.0 non-binding guidelines for research and development trials of SAE level 3–5 automated driving vehicles. They clarify federal, provincial and municipal roles and set safety best practices on vehicle assessment, safety management plans, safety and remote drivers, passengers, incident reporting, cybersecurity and privacy, with an automated shuttle annex.",
+  "key_provisions_or_claims": [
+   "Provinces and territories approve and oversee trials; their requirements prevail over the guidelines.",
+   "Trial organizations should use Transport Canada's Safety Assessment for ADS and a risk-based safety management plan.",
+   "Take a graduated testing approach, from closed track and simulation to public roads.",
+   "Remote driving beyond line of sight in mixed traffic is judged to lack sufficient safety evidence.",
+   "Collisions causing injury or death should be reported to the provincial authority within 24 hours."
+  ],
+  "confidence": 0.93
+ }
+}

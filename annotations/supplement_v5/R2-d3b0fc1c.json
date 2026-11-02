@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-d3b0fc1c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:49",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1297636,
+  "in": 2,
+  "out": 625,
+  "cache_read": 2656,
+  "cache_create": 30811,
+  "api_ms": 8429,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The Act places duties on the State (government, Prime Minister) and on the Governor of Fukushima Prefecture and municipal heads in preparing and implementing reconstruction policies and plans.",
+  "bound_parties_quote": "国は、前条に規定する基本理念にのっとり、原子力災害からの福島の復興及び再生に関する施策を総合的に策定し、継続的かつ迅速に実施する責務を有する。",
+  "entry_into_force_date": "2012-03-31",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "この法律は、防災庁設置法（令和八年法律第六十一号）の施行の日から施行する。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "ロボットに係る新たな製品又は新技術の開発に関する試験研究を行う事業に関する次に掲げる事項",
+  "confidence": 0.4
+ }
+}

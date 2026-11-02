@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-c6368219",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:38",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0167016,
+  "in": 2,
+  "out": 578,
+  "cache_read": 2656,
+  "cache_create": 2663,
+  "api_ms": 6069,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers"
+  ],
+  "bound_parties_text": "The guide is addressed to trialling organizations that train or use safety operators (safety drivers) in automated vehicle testing and trialling.",
+  "bound_parties_quote": "is for any trialling organization training or using safety operators",
+  "entry_into_force_date": "2021-11-30",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "PAS 1884:2021 | 30 Nov 2021 | BSI Knowledge",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "gives guidance on the responsibilities, competencies, and training of safety drivers engaged in automated vehicle trialling and developmental testing.",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Safety operators in automated vehicle testing and trialling. Guide",
+  "confidence": 0.75
+ }
+}

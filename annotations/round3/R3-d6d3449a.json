@@ -1,0 +1,94 @@
+{
+ "doc_id": "R3-d6d3449a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:12:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.06245950000000001,
+  "in": 4,
+  "out": 3509,
+  "cache_read": 27855,
+  "cache_create": 6144,
+  "api_ms": 20435,
+  "result_head": ""
+ },
+ "annotation": {
+  "ai_scope": "not_ai",
+  "application_sectors": [
+   "manufacturing",
+   "construction",
+   "logistics_transport"
+  ],
+  "authors_or_issuer": "経済産業省 (Ministry of Economy, Trade and Industry)",
+  "binding_nature": "legally_binding",
+  "confidence": 0.9,
+  "countries_discussed": [
+   "JP"
+  ],
+  "date_basis": "stated_in_document",
+  "doc_class": "governance_instrument_binding",
+  "doc_type": "regulation_or_decree",
+  "doi": null,
+  "embodied_categories": [],
+  "embodiment_status": "none",
+  "faith_or_religious_perspective": false,
+  "governance_mechanisms": [
+   "none"
+  ],
+  "governance_topics": [
+   "sustainability_environment",
+   "other"
+  ],
+  "instrument_status": "in_force",
+  "is_governance_document": true,
+  "issuer_type": "national_government_executive",
+  "jurisdiction_country": "JP",
+  "jurisdiction_scope": "national",
+  "key_provisions_or_claims": [
+   "Lists ten types of special-purpose vehicles designated under Article 4(2)(ii)(chi) of the Enforcement Order of the Act on the Promotion of Effective Utilization of Resources.",
+   "Listed vehicles include wheeled aerial work platforms, automated guided vehicles, yard tractors, heavy dump trucks, drill jumbos, golf cars and amusement vehicles.",
+   "Enters into force on 1 April 2026."
+  ],
+  "language": "ja",
+  "methodology": "not_applicable",
+  "named_instruments_referenced": [],
+  "page_quality": "substantive_document",
+  "primary_embodied_category": "none",
+  "primary_topic": "sustainability_environment",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "pub_month": 3,
+  "pub_year": 2026,
+  "publication_stage": "not_applicable",
+  "relevance_to_embodied_ai_governance": 0,
+  "risk_framing": "not_applicable",
+  "robot_legal_personhood_position": "not_discussed",
+  "stance_toward_regulation": "not_applicable",
+  "summary_en": "Japanese METI ministerial ordinance (Reiwa 8, No. 12, 19 March 2026) specifying special-purpose vehicles, such as aerial work platforms, automated guided vehicles, dump trucks and golf cars, covered under the resource-recycling law's enforcement order. Effective 1 April 2026. Not AI-specific.",
+  "title_clean": "資源の有効な利用の促進に関する法律施行令第四条第二項第二号チの特殊の用途に使用する自動車を定める省令",
+  "title_en": "Ministerial Ordinance Specifying Vehicles Used for Special Purposes under Article 4(2)(ii)(chi) of the Enforcement Order of the Act on the Promotion of Effective Utilization of Resources",
+  "venue": "e-Gov Japanese Law Database"
+ }
+}

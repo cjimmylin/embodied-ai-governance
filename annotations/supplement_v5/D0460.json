@@ -1,0 +1,34 @@
+{
+ "doc_id": "D0460",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:51:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0364136,
+  "in": 2,
+  "out": 586,
+  "cache_read": 2656,
+  "cache_create": 7571,
+  "api_ms": 9775,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Plan directs the Shanghai Municipality (municipal government) to support, fund and establish platforms, frameworks and mechanisms for the embodied intelligence industry.",
+  "bound_parties_quote": "this Municipality shall organize scenario solicitation and task-based bidding to explore new models of embodied intelligence application.",
+  "entry_into_force_date": "2025-07-28",
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2028-07-27",
+  "dates_quote": "This Plan shall be effective as of July 28, 2025, and shall remain in effect until July 27, 2028.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Implementation Plan of Shanghai Municipality for the Development of the Embodied Intelligence Industry",
+  "confidence": 0.85
+ }
+}

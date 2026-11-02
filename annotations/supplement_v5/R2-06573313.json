@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-06573313",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:22",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08180359999999999,
+  "in": 2,
+  "out": 565,
+  "cache_read": 2656,
+  "cache_create": 18971,
+  "api_ms": 6636,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "employers",
+   "owners_or_users"
+  ],
+  "bound_parties_text": "The employer must ensure machinery and equipment is safeguarded; owners of roll-on/roll-off containers and employers must inspect and keep records; workers, operators and qualified persons are also bound.",
+  "bound_parties_quote": "Unless elsewhere provided for in this Occupational Health and Safety Regulation, the employer must ensure that machinery and equipment is fitted with adequate safeguards",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2003,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "12.83 Industrial robots ... [Amended by B.C. Reg. 312/2003, effective October 29, 2003.]",
+  "confidence": 0.5
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-bb41d5f5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:29",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0174236,
+  "in": 2,
+  "out": 557,
+  "cache_read": 2656,
+  "cache_create": 2896,
+  "api_ms": 5474,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers"
+  ],
+  "bound_parties_text": "The practice is directed at those developing UAS software and users of the standard, who must establish appropriate safety and health practices.",
+  "bound_parties_quote": "It is the responsibility of the user of this standard to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "This standard does not purport to address all of the safety concerns, if any, associated with its use.",
+  "robot_provision_year": 2016,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Standard Practice for Ensuring Dependability of Software Used in Unmanned Aircraft Systems (UAS)",
+  "confidence": 0.6
+ }
+}

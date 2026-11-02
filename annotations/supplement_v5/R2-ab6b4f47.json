@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-ab6b4f47",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:53:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0136276,
+  "in": 2,
+  "out": 611,
+  "cache_read": 2656,
+  "cache_create": 1812,
+  "api_ms": 11559,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users"
+  ],
+  "bound_parties_text": "The excerpt shows only a table of contents for amendments to the Civil Aviation Safety Regulations 1998 on registration and accreditation of remotely piloted aircraft and model aircraft, so the bound parties are inferred as operators and owners of such aircraft.",
+  "bound_parties_quote": "Civil Aviation Safety Amendment (Remotely Piloted Aircraft and Model Aircraft—Registration and Accreditation) Regulations 2019",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Civil Aviation Safety Amendment (Remotely Piloted Aircraft and Model Aircraft—Registration and Accreditation) Regulations 2019",
+  "confidence": 0.5
+ }
+}

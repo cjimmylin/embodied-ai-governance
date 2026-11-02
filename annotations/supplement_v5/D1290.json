@@ -1,0 +1,37 @@
+{
+ "doc_id": "D1290",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:52:14",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08560910000000001,
+  "in": 4,
+  "out": 1219,
+  "cache_read": 22391,
+  "cache_create": 17793,
+  "api_ms": 8408,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers",
+   "operators_or_deployers",
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The proposal lays down obligations that apply to providers and users of high-risk AI systems, with public authorities and Member States also bound by prohibitions and governance duties.",
+  "bound_parties_quote": "This proposal lays down obligation that will apply to providers and users of high-risk AI systems.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE",
+  "confidence": 0.7
+ }
+}

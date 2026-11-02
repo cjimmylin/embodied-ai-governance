@@ -1,0 +1,40 @@
+{
+ "doc_id": "R2-fdeac77c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:53:59",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0769336,
+  "in": 2,
+  "out": 682,
+  "cache_read": 2656,
+  "cache_create": 17461,
+  "api_ms": 4439,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "operators_or_deployers",
+   "owners_or_users",
+   "public_bodies_or_government",
+   "certification_or_notified_bodies",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The Act binds persons who manufacture, assemble, import or manage autonomous vehicles, persons conducting research or pilot operation in pilot zones, autonomous vehicle manufacturers collecting video data, certification and verification institutions, the Minister, and Mayors/Do Governors.",
+  "bound_parties_quote": "A person who manufactures, assembles, imports, or manages autonomous vehicles shall reflect the status of designation of safe autonomous driving sections in relevant autonomous driving systems.",
+  "entry_into_force_date": "2019-10-31",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Act shall enter into force 1 year after the date of its promulgation.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "The purpose of this Act is to promote and support the commercialization of autonomous vehicles",
+  "confidence": 0.6
+ }
+}

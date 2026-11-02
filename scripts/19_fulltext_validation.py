@@ -1,6 +1,6 @@
 """Excerpt-vs-full-text validation on the reliability sample: T26 (per field), T27 (label inflation and set membership), F43."""
 import sys, json, glob, numpy as np, pandas as pd
-sys.path.insert(0,"/home/user/embodied-ai-governance-v4/scripts")
+sys.path.insert(0,"/home/user/embodied-ai-governance-v5/scripts")
 from analysis_common import *
 from sklearn.metrics import cohen_kappa_score
 RESULTS.update(json.load(open(B+"data/results.json")))

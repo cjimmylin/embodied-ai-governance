@@ -1,0 +1,42 @@
+{
+ "doc_id": "R2-adef64ff",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:53:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1570736,
+  "in": 2,
+  "out": 688,
+  "cache_read": 2656,
+  "cache_create": 37481,
+  "api_ms": 4852,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "providers_or_developers",
+   "manufacturers_or_producers",
+   "operators_or_deployers",
+   "owners_or_users",
+   "employers",
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments",
+   "individuals_or_general_public",
+   "pilots_or_drivers"
+  ],
+  "bound_parties_text": "The law binds civil aviation entities including aircraft owners/lessees, operators, airlines, airports, aviation personnel, designers and producers of civil aviation products (including civil unmanned aircraft), local governments, and individuals.",
+  "bound_parties_quote": "从事民用无人驾驶航空器的设计、生产、进口、维修和飞行活动，应当按照国家有关规定向国务院民用航空主管部门申请取得适航许可，按照规定无需取得适航许可的除外。",
+  "entry_into_force_date": "2026-07-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "第二百六十二条　本法自2026年7月1日起施行。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "2025年12月27日第十四届全国人民代表大会常务委员会第十九次会议修订",
+  "confidence": 0.6
+ }
+}

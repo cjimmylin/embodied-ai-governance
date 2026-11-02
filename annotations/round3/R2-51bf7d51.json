@@ -1,0 +1,120 @@
+{
+ "doc_id": "R2-51bf7d51",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:46:18",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1505598,
+  "in": 2,
+  "out": 2042,
+  "cache_read": 11758,
+  "cache_create": 32240,
+  "api_ms": 13849,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Enforcement Decree of the Act on the Promotion of and Support for Commercialization of Autonomous Vehicles",
+  "title_en": "Enforcement Decree of the Act on the Promotion of and Support for Commercialization of Autonomous Vehicles",
+  "language": "en",
+  "authors_or_issuer": "Republic of Korea (President; Ministry of Land, Infrastructure and Transport)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2025,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Korea Legislation Research Institute (KLRI) Korean Law Translation Center",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "certification_conformity_assessment",
+   "civil_liability",
+   "industrial_policy_innovation",
+   "cybersecurity",
+   "privacy_data_protection",
+   "human_oversight_control",
+   "standards_interoperability"
+  ],
+  "primary_topic": "certification_conformity_assessment",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "conformity_assessment_certification",
+   "insurance_requirement",
+   "testing_sandboxes",
+   "incident_reporting",
+   "oversight_body_creation",
+   "funding_or_incentives",
+   "education_training_programs",
+   "international_cooperation",
+   "audits_impact_assessment",
+   "liability_regime",
+   "data_governance_requirements"
+  ],
+  "named_instruments_referenced": [
+   "Personal Information Protection Act",
+   "Motor Vehicle Management Act",
+   "Passenger Transport Service Act",
+   "Compulsory Motor Vehicle Liability Security Act",
+   "Road Traffic Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "South Korea's Presidential Decree enforcing the Autonomous Vehicles Commercialization Act (amended Dec. 30, 2025). It sets rules for pilot operation zones, for-hire passenger and freight permits, mandatory insurance, cooperative autonomous driving certification, performance certification and conformity approval of autonomous vehicles, safety manager duties, and penalties.",
+  "key_provisions_or_claims": [
+   "Procedures for designating, modifying and evaluating autonomous-vehicle pilot operation zones with regulatory exemptions",
+   "Mandatory insurance for pilot vehicles: 150M won per death, 1bn won property damage per accident",
+   "Performance certification (type confirmation and production inspection) and conformity approval for fully autonomous vehicles",
+   "Operators must designate safety managers, set emergency procedures, report accidents, protect event data recorders and prevent unauthorized access",
+   "Designation and supervision of cooperative autonomous driving certification and verification institutions, with penalty surcharges and fines"
+  ],
+  "confidence": 0.93
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-1ccf0ac2",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:33",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.044383599999999995,
+  "in": 2,
+  "out": 551,
+  "cache_read": 2656,
+  "cache_create": 9651,
+  "api_ms": 4899,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "Applicants (users of the robot/vehicle) seeking standards-relaxation certification must submit applications and a pledge of compliance to the regional transport bureau.",
+  "bound_parties_quote": "申請者（ロボットの使用者）",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "２０２０年４月    自動運転の実証実験に係る基準緩和認定制度の適用対象を「原動機付自転車」に拡大し、原動機付自転車に相当する自動配送ロボットの公道での実証実験を可能とした",
+  "confidence": 0.6
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-bc159f08",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.08151560000000001,
+  "in": 2,
+  "out": 663,
+  "cache_read": 2656,
+  "cache_create": 18654,
+  "api_ms": 5447,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "public_bodies_or_government",
+   "certification_or_notified_bodies",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "The regulation binds vehicle manufacturers applying for approval, Type Approval Authorities and Technical Services, and Contracting Parties to the Agreement applying the Regulation.",
+  "bound_parties_quote": "The application for approval of a vehicle type with regard to the Advanced Emergency Braking System shall be submitted by the vehicle manufacturer or by his authorised representative.",
+  "entry_into_force_date": "2021-01-03",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Incorporating all valid text up to:\nSupplement 1 to the 01 series of amendments – Date of entry into force: 3 January 2021",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "The system shall automatically detect a potential forward collision, provide the driver with an appropriate warning and activate the vehicle braking system to decelerate the vehicle",
+  "confidence": 0.6
+ }
+}

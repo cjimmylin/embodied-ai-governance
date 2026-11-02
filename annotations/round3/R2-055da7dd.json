@@ -1,0 +1,117 @@
+{
+ "doc_id": "R2-055da7dd",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:46:46",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1205018,
+  "in": 2,
+  "out": 2027,
+  "cache_read": 11758,
+  "cache_create": 24763,
+  "api_ms": 13830,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "無人載具科技創新實驗計畫申請須知",
+  "title_en": "Unmanned Vehicles Technology Innovative Experimentation Program: Application Guidelines",
+  "language": "zh",
+  "authors_or_issuer": "經濟部產業技術司 (Department of Industrial Technology, Ministry of Economic Affairs, Taiwan)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2020,
+  "pub_month": 4,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "無人載具科技創新沙盒 (MOEA)",
+  "jurisdiction_country": "TW",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "TW"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "drones_uas",
+   "autonomous_maritime_or_rail"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "human_oversight_control",
+   "privacy_data_protection",
+   "cybersecurity",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers",
+   "consumer_protection",
+   "certification_conformity_assessment"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 2,
+   "justice_fairness": 1,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "testing_sandboxes",
+   "licensing_registration",
+   "insurance_requirement",
+   "incident_reporting",
+   "transparency_disclosure_labelling",
+   "audits_impact_assessment",
+   "human_oversight_requirement",
+   "oversight_body_creation",
+   "data_governance_requirements",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [
+   "Taiwan Unmanned Vehicles Technology Innovative Experimentation Act",
+   "Taiwan Personal Data Protection Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "risk_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Taiwan MOEA application guide for the Unmanned Vehicles Technology Innovative Experimentation regulatory sandbox, covering eligibility, review criteria, incident reporting, and obligations. It reproduces the Act and four implementing measures, allowing time-limited exemptions from road, aviation and maritime laws for unmanned vehicle, drone and vessel trials.",
+  "key_provisions_or_claims": [
+   "Sandbox trials of unmanned vehicles, aircraft and vessels may receive exemption from specified traffic, aviation, shipping and telecom laws, but not civil or criminal liability.",
+   "Approval is for one year, extendable once by up to one year, or up to four years total if law amendment is needed.",
+   "Applicants must monthly report human interventions, install event data recorders, and retain records for three years.",
+   "Safety incidents require immediate suspension, police notice, MOEA report within 2 hours and a report within 10 days.",
+   "Insurance, participant and stakeholder protection, and full applicant responsibility for damage are mandatory."
+  ],
+  "confidence": 0.9
+ }
+}

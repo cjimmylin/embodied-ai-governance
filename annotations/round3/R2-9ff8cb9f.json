@@ -1,0 +1,105 @@
+{
+ "doc_id": "R2-9ff8cb9f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:17:15",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0921191,
+  "in": 4,
+  "out": 3620,
+  "cache_read": 34671,
+  "cache_create": 13111,
+  "api_ms": 17882,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "S.B. 111 Unmanned Aircraft Amendments",
+  "title_en": "S.B. 111 Unmanned Aircraft Amendments",
+  "language": "en",
+  "authors_or_issuer": "Utah State Legislature",
+  "issuer_type": "legislature",
+  "pub_year": 2017,
+  "pub_month": 3,
+  "date_basis": "inferred_from_content",
+  "doi": null,
+  "venue": "Utah Legislature",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "drones_uas"
+  ],
+  "primary_embodied_category": "drones_uas",
+  "application_sectors": [
+   "public_administration_justice",
+   "domestic_consumer",
+   "defense_security"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "privacy_data_protection",
+   "criminal_liability",
+   "civil_liability",
+   "military_use_ihl"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 2,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 1
+  },
+  "governance_mechanisms": [
+   "prohibitions_bans",
+   "data_governance_requirements",
+   "licensing_registration",
+   "transparency_disclosure_labelling",
+   "liability_regime"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Utah enrolled bill 2017 reorganizing state drone law: preempts local ordinances, exempts drones from state registration, restricts law enforcement data collection and retention, bans weaponized drones, sets safe-operation rules, and criminalizes drone trespass, privacy violations and voyeurism.",
+  "key_provisions_or_claims": [
+   "Law enforcement may use drone data only with warrant, recognized exception, or other listed grounds; non-target data must be destroyed",
+   "Weaponized drones prohibited (class B misdemeanor) unless FAA, government contract or DoD authorization",
+   "Safe operation: visual line of sight, 400 ft ceiling, airport airspace limits, damages liability and graduated penalties",
+   "Local drone ordinances preempted except airport operators",
+   "Drones exempt from state aircraft registration; criminal trespass, privacy and voyeurism statutes extended to drones"
+  ],
+  "confidence": 0.93
+ }
+}

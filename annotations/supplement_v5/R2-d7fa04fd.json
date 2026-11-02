@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-d7fa04fd",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:50",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0281876,
+  "in": 2,
+  "out": 557,
+  "cache_read": 2656,
+  "cache_create": 5587,
+  "api_ms": 7992,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "manufacturers_or_producers",
+   "providers_or_developers"
+  ],
+  "bound_parties_text": "The implementation opinion is issued by seven central government departments and directs government authorities, and encourages enterprises (producers, retailers, platforms) and financial institutions, to promote commodity consumption.",
+  "bound_parties_quote": "鼓励家电销售企业联合生产、回收企业开展促销活动。",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "2026年8月13日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "加快人工智能手机和电脑、智能穿戴设备、智能机器人、智能家居等产品推广应用。",
+  "confidence": 0.55
+ }
+}

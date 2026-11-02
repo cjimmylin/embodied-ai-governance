@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-0fdc3217",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:10",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0596356,
+  "in": 2,
+  "out": 575,
+  "cache_read": 2656,
+  "cache_create": 13404,
+  "api_ms": 14254,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The Communication is a non-binding strategy that only recommends that Member States, local authorities, vehicle manufacturers, road operators and the ITS industry implement C-ITS, and it binds no one.",
+  "bound_parties_quote": "Member States and local authorities, vehicle manufacturers, road operators and the ITS industry should implement C-ITS and ensure that at least the list of Day 1 C-ITS services is fully supported.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2016,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "A European strategy on Cooperative Intelligent Transport Systems, a milestone towards cooperative, connected and automated mobility",
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "doc_id": "R3-65d0e76c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:11:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0437698,
+  "in": 2,
+  "out": 1883,
+  "cache_read": 11758,
+  "cache_create": 5940,
+  "api_ms": 11877,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "关于促进老年用品产业发展的指导意见",
+  "title_en": "Guiding Opinions on Promoting the Development of the Elderly Products Industry",
+  "language": "zh",
+  "authors_or_issuer": "工业和信息化部; 民政部; 国家卫生健康委员会; 国家市场监督管理总局; 全国老龄工作委员会办公室",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 12,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": null,
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "care_assistive_robots",
+   "domestic_household_robots",
+   "social_companion_robots",
+   "rehabilitation_exoskeleton_prosthetic"
+  ],
+  "primary_embodied_category": "care_assistive_robots",
+  "application_sectors": [
+   "elder_care_social_care",
+   "healthcare",
+   "manufacturing",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "standards_interoperability",
+   "certification_conformity_assessment",
+   "consumer_protection",
+   "privacy_data_protection",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 1,
+   "beneficence": 2,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 1,
+   "inclusive_growth": 2,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "technical_standards_reference",
+   "conformity_assessment_certification",
+   "testing_sandboxes",
+   "insurance_requirement",
+   "self_regulation_codes",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "Chinese multi-ministry guidance (Dec 2019) promoting the elderly products industry, targeting over 5 trillion yuan by 2025. It encourages AI-enabled products including care, companion, household and exoskeleton rehabilitation robots, with standards, third-party testing and certification, pilots and incentives.",
+  "key_provisions_or_claims": [
+   "Target industry scale above 5 trillion yuan by 2025",
+   "Develop care robots for lifting, transfer, turning, night patrol, and companion and exoskeleton rehabilitation robots",
+   "Formulate standards for home service robots and smart elderly products, adopting international standards",
+   "Build third-party quality testing and certification platforms, including privacy and information security testing",
+   "Pilot demonstrations, product catalogue, insurance and subsidies for rehabilitation aids"
+  ],
+  "confidence": 0.9
+ }
+}

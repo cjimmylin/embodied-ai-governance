@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-e51e8afe",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:54:11",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0358656,
+  "in": 2,
+  "out": 902,
+  "cache_read": 2656,
+  "cache_create": 6644,
+  "api_ms": 5667,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "manufacturers_or_producers",
+   "providers_or_developers"
+  ],
+  "bound_parties_text": "The competent authorities (Ministry of Economic Affairs, Ministry of National Defense and other government bodies) and unmanned vehicle businesses (業者) that seek incentives or use uncertified components are bound.",
+  "bound_parties_quote": "無人載具業者欲申請國產化獎勵措施者，應通過主管機關建立之可信任供應鏈認證。",
+  "entry_into_force_date": "2026-09-11",
+  "applicability_date": "2027-03",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "本條例自公布後六個月施行，第四條自公布後施行。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "強化國防自主暨無人載具產業發展條例 中 華 民 國 115 年 9 月 11 日",
+  "confidence": 0.8
+ }
+}

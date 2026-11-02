@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-2f6acdc5",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:57:34",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1253476,
+  "in": 2,
+  "out": 569,
+  "cache_read": 2656,
+  "cache_create": 29847,
+  "api_ms": 10817,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "pilots_or_drivers",
+   "public_bodies_or_government",
+   "individuals_or_general_public",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The order sets traffic rules for pedestrians, remotely operated small vehicles, vehicle drivers and users, and prefectural public safety commissions, and includes special provisions for specified automated operation.",
+  "bound_parties_quote": "歩行者及び遠隔操作型小型車（遠隔操作により道路を通行しているものに限る。）（以下この条において「歩行者等」という。）は、進行することができること。",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "第四章の三　特定自動運行の特則",
+  "confidence": 0.4
+ }
+}

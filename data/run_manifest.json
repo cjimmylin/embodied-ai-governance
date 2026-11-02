@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-31T03:08:19.766582+00:00",
+ "generated": "2026-11-02T18:59:23.780855+00:00",
  "python": "Python 3.13.17",
- "claude_cli": "2.1.314 (Claude Code)",
+ "claude_cli": "2.1.316 (Claude Code)",
  "folders": {
   "cjk_fix": {
    "n": 46,
@@ -15,6 +15,20 @@
     "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4": 46
    },
    "cost_usd": 2.49,
+   "inputs_stored": true
+  },
+  "fulltext_v5": {
+   "n": 104,
+   "models": {
+    "claude-sonnet-5-5": 104
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 104
+   },
+   "policies": {
+    "v2|head=400000|mid=6000|tail=4000|blind=True|cjk_clean=v4": 104
+   },
+   "cost_usd": 46.16,
    "inputs_stored": true
   },
   "gov_extended": {
@@ -156,6 +170,34 @@
     "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4": 380
    },
    "cost_usd": 126.02,
+   "inputs_stored": true
+  },
+  "round3": {
+   "n": 165,
+   "models": {
+    "claude-sonnet-5-5": 165
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 165
+   },
+   "policies": {
+    "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4": 165
+   },
+   "cost_usd": 14.97,
+   "inputs_stored": false
+  },
+  "supplement_v5": {
+   "n": 603,
+   "models": {
+    "claude-sonnet-5-5": 603
+   },
+   "prompt_hashes": {
+    "c1b8d3e50751": 603
+   },
+   "policies": {
+    "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4": 603
+   },
+   "cost_usd": 31.3,
    "inputs_stored": true
   },
   "test": {

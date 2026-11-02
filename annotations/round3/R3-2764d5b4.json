@@ -1,0 +1,107 @@
+{
+ "doc_id": "R3-2764d5b4",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:15:21",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1280018,
+  "in": 2,
+  "out": 1895,
+  "cache_read": 11758,
+  "cache_create": 26968,
+  "api_ms": 15002,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Directive (EU) 2024/2853 of the European Parliament and of the Council of 23 October 2024 on liability for defective products and repealing Council Directive 85/374/EEC",
+  "title_en": "Directive (EU) 2024/2853 on liability for defective products and repealing Council Directive 85/374/EEC",
+  "language": "en",
+  "authors_or_issuer": "European Parliament and Council of the European Union",
+  "issuer_type": "intergovernmental_org",
+  "pub_year": 2024,
+  "pub_month": 10,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Official Journal of the European Union",
+  "jurisdiction_country": "EU",
+  "jurisdiction_scope": "supranational_regional",
+  "countries_discussed": [
+   "EU"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "mixed",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "healthcare",
+   "domestic_consumer"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "consumer_protection",
+   "cybersecurity",
+   "safety_physical_harm",
+   "transparency_explainability",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "transparency_disclosure_labelling",
+   "technical_standards_reference",
+   "international_cooperation"
+  ],
+  "named_instruments_referenced": [
+   "EU AI Act",
+   "GDPR",
+   "EU Product Liability Directive"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "The revised EU Product Liability Directive establishes no-fault liability of economic operators for damage caused by defective products, expressly extending to software, AI systems, related digital services and self-learning products. It eases claimants' evidence burden through disclosure duties and rebuttable presumptions, and repeals Directive 85/374/EEC from 9 December 2026.",
+  "key_provisions_or_claims": [
+   "Software, including AI systems, digital manufacturing files and related services are 'products' subject to strict liability.",
+   "Defectiveness assessment considers self-learning ability, interconnected products, cybersecurity requirements and manufacturer control after market placement.",
+   "Court-ordered disclosure of evidence and rebuttable presumptions of defect and causation ease claimants' burden in technically complex cases.",
+   "Manufacturers remain liable for defects from software updates, lack of security updates, or substantial modifications within their control.",
+   "Applies to products placed on the market after 9 December 2026; liability cannot be contractually limited; 10-year expiry (25 years for latent injury)."
+  ],
+  "confidence": 0.95
+ }
+}

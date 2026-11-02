@@ -1,0 +1,115 @@
+{
+ "doc_id": "R2-c1f87944",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:14:51",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.2391518,
+  "in": 2,
+  "out": 1992,
+  "cache_read": 11758,
+  "cache_create": 54513,
+  "api_ms": 12758,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "חוק לתיקון פקודת התעבורה (מס' 130), התשפ\"ב-2022",
+  "title_en": "Law Amending the Traffic Ordinance (No. 130), 5782-2022 (Autonomous Vehicles Pilot Regime)",
+  "language": "he",
+  "authors_or_issuer": "Knesset of Israel (Sefer HaChukim)",
+  "issuer_type": "legislature",
+  "pub_year": 2022,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Sefer HaChukim (Israel Book of Laws) No. 2967",
+  "jurisdiction_country": "IL",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "IL"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "cybersecurity",
+   "certification_conformity_assessment",
+   "human_oversight_control",
+   "privacy_data_protection",
+   "civil_liability",
+   "transparency_explainability",
+   "industrial_policy_innovation",
+   "risk_management_risk_tiers"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 0,
+   "non_maleficence": 2,
+   "responsibility_accountability": 2,
+   "privacy": 1,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 2,
+   "inclusive_growth": 2,
+   "physical_safety": 2,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 2,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "testing_sandboxes",
+   "incident_reporting",
+   "oversight_body_creation",
+   "insurance_requirement",
+   "audits_impact_assessment",
+   "data_governance_requirements",
+   "transparency_disclosure_labelling",
+   "conformity_assessment_certification",
+   "technical_standards_reference",
+   "human_oversight_requirement"
+  ],
+  "named_instruments_referenced": [
+   "ISO/SAE 21434"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Israeli statute amending the Traffic Ordinance to create a permit-based pilot regime for autonomous vehicles without drivers. It sets applicant conditions, remote control centers, cybersecurity, data retention, incident reporting, insurance, supervisory powers, and an advisory committee, with a National Traffic Supervisor issuing and suspending permits.",
+  "key_provisions_or_claims": [
+   "Operating an autonomous driving system on roads requires a three-year operating permit from the National Traffic Supervisor, capped at 500 vehicles.",
+   "Permit holders must run a manned control center, minimal-risk-condition capability, and cyber-protection plans with SOC connection and 6-hour attack reporting.",
+   "Safety incidents must be reported within 24 hours; the Supervisor can order incident investigations, suspend permits, or halt operation.",
+   "Insurance is required; the Pool insurance route is limited to transitional periods and the Finance Minister may mandate third-party liability cover.",
+   "An advisory committee reviews technology, safety, privacy and the regime at least every three years."
+  ],
+  "confidence": 0.93
+ }
+}

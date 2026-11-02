@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-c4f13b92",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:45",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0302796,
+  "in": 2,
+  "out": 631,
+  "cache_read": 2656,
+  "cache_create": 5925,
+  "api_ms": 5271,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The notice is addressed to provincial people's governments, the Xinjiang Production and Construction Corps and State Council departments, and the plan directs medical and health institutions and relevant departments to implement it.",
+  "bound_parties_quote": "各省、自治区、直辖市人民政府要加强组织领导，明确责任分工，细化落实举措，确保《方案》各项目标任务和政策措施落到实处。",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "国家卫生健康委 国家发展改革委\n2026年9月30日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "发展“人工智能+康复护理”服务，运用康复机器人、智能可穿戴设备等，实现多维数据监测，提供智能康复训练和健康管理服务。",
+  "confidence": 0.6
+ }
+}

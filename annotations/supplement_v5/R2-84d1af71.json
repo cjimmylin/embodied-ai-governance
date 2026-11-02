@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-84d1af71",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:53:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0658176,
+  "in": 2,
+  "out": 714,
+  "cache_read": 2656,
+  "cache_create": 14602,
+  "api_ms": 4403,
+  "result_head": ""
+ },
+ "annotation": {
+  "applicability_date": null,
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers",
+   "manufacturers_or_producers",
+   "member_states_or_subnational_governments",
+   "researchers_or_institutions"
+  ],
+  "bound_parties_text": "The Decree binds the Minister of Trade, Industry and Resources, heads of central administrative agencies, Mayors/Do Governors, project implementers, persons operating safety-certified outdoor mobile robots, specialized intelligent robot enterprises, and research institutes.",
+  "bound_parties_quote": "A person who intends to operate an outdoor mobile robot with safety certification shall purchase a liability insurance policy, etc. pursuant to Article 40-4 of the Act, before operating such robot.",
+  "confidence": 0.7,
+  "dates_quote": "This Decree shall enter into force on December 13, 2018.",
+  "entry_into_force_date": "2018-12-13",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "repeal_or_expiry_date": null,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "ENFORCEMENT DECREE OF THE INTELLIGENT ROBOTS DEVELOPMENT AND DISTRIBUTION PROMOTION ACT Presidential Decree No. 29343, Dec. 11, 2018",
+  "robot_provision_year": 2018
+ }
+}

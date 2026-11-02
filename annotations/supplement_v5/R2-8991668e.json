@@ -1,0 +1,39 @@
+{
+ "doc_id": "R2-8991668e",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:02:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.09591559999999999,
+  "in": 2,
+  "out": 845,
+  "cache_read": 2656,
+  "cache_create": 21799,
+  "api_ms": 7948,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "owners_or_users",
+   "pilots_or_drivers",
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The norm applies to any natural or legal person and state operators who operate RPAS, as well as RPAS manufacturers and assemblers, importers, and marketers (sellers).",
+  "bound_parties_quote": "El campo de aplicación va dirigido a toda persona física/moral, operadores de estado que pretendan operar u operen un RPAS; asimismo aplica a los fabricantes y armadores de RPAS, personas físicas/morales que requieran importar RPAS a territorio nacional y a los comercializadores de RPAS.",
+  "entry_into_force_date": "2020-01-13",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "La presente Norma Oficial Mexicana (NOM) se publica a efecto de que entre en vigor a los siguientes 60 días naturales posteriores a su publicación en el Diario Oficial de la Federación.",
+  "legal_effect_of_standard": "mandatory_by_its_own_terms",
+  "legal_effect_quote": "Todo operador de RPAS, de conformidad a su peso máximo de despegue y uso, debe dar cumplimiento a lo establecido en la presente Norma Oficial Mexicana.",
+  "robot_provision_year": 2019,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "NORMA Oficial Mexicana NOM-107-SCT3-2019, Que establece los requerimientos para operar un sistema de aeronave pilotada a distancia (RPAS) en el espacio aéreo mexicano.",
+  "confidence": 0.8
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-65539cdf",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:00:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0124596,
+  "in": 2,
+  "out": 541,
+  "cache_read": 2656,
+  "cache_create": 1695,
+  "api_ms": 3863,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The text describes guidance intended to assist those involved in the development and operation of UAS, and does not state that it imposes obligations on any party.",
+  "bound_parties_quote": "It is intended to assist those who are involved in all aspects of the development and operation of UAS.",
+  "entry_into_force_date": "2024-04-16",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "9.2\n16-Apr-2024\nCAP722 Edition 9 2.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "CAP 722 provides guidance and policy on the operation of unmanned aircraft systems within the UK.",
+  "confidence": 0.6
+ }
+}

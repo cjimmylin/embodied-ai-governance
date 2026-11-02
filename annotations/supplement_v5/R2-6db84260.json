@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-6db84260",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:54:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0379756,
+  "in": 2,
+  "out": 647,
+  "cache_read": 2656,
+  "cache_create": 7809,
+  "api_ms": 5812,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The decision concerns harmonised standards for machinery; the recitals refer to manufacturers who need time to prepare for the new standards, and the legal act itself is addressed to no one explicitly.",
+  "bound_parties_quote": "In order to give manufacturers sufficient time to prepare for application of the new standards, revised standards and amendments to standards, it is necessary to defer the withdrawal of the references of harmonised standards.",
+  "entry_into_force_date": "2020-04-02",
+  "applicability_date": "2021-10-02",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "This Decision shall enter into force on the day of its publication in the Official Journal of the European Union. Point (1) of Annex I shall apply from 2 October 2021..",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2020,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "EN ISO 18497:2018 Agricultural machinery and tractors – Safety of highly automated agricultural machines – Principles for design (ISO 18497:2018)",
+  "confidence": 0.6
+ }
+}

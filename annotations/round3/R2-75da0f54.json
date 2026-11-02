@@ -1,0 +1,106 @@
+{
+ "doc_id": "R2-75da0f54",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:13:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1807638,
+  "in": 2,
+  "out": 1872,
+  "cache_read": 11758,
+  "cache_create": 40216,
+  "api_ms": 11205,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "ROAD TRAFFIC ACT",
+  "title_en": "Road Traffic Act (Republic of Korea)",
+  "language": "en",
+  "authors_or_issuer": "Republic of Korea (National Assembly; Korea Law Translation Center)",
+  "issuer_type": "legislature",
+  "pub_year": 2025,
+  "pub_month": 8,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Korea Law Translation Center (KLRI)",
+  "jurisdiction_country": "KR",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "KR"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_with_embodied_provisions",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "autonomous_road_vehicles",
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "autonomous_road_vehicles",
+  "application_sectors": [
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "human_oversight_control",
+   "certification_conformity_assessment",
+   "children_vulnerable_groups",
+   "criminal_liability"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 2,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "prohibitions_bans",
+   "human_oversight_requirement",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [
+   "Korea Intelligent Robots Act"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 2,
+  "summary_en": "South Korea's Road Traffic Act (amended Aug. 2025) sets rules for road traffic, drivers, licensing and enforcement. It contains embodied-AI provisions: definitions of autonomous driving systems and autonomous vehicles, outdoor mobile robots treated as pedestrians with operator duties (Art. 8-2), and driver training for autonomous vehicle test drivers.",
+  "key_provisions_or_claims": [
+   "Defines autonomous driving system and autonomous motor vehicle; driving includes using an autonomous driving system.",
+   "Outdoor mobile robots (intelligent robots) are treated as pedestrians on sidewalks.",
+   "Art. 8-2: outdoor mobile robot operators must control the device correctly and not endanger or impede vehicles or persons.",
+   "Exempts devices for developing autonomous vehicle technology from the ban on enforcement-interfering devices.",
+   "Addenda require traffic safety education for autonomous vehicle test drivers (Art. 56-3)."
+  ],
+  "confidence": 0.9
+ }
+}

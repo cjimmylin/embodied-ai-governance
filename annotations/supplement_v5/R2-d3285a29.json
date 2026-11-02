@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-d3285a29",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:30",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1151056,
+  "in": 2,
+  "out": 656,
+  "cache_read": 2656,
+  "cache_create": 27069,
+  "api_ms": 4962,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The notice asks prefectural health authorities to inform relevant businesses under their jurisdiction, who are to refer to the evaluation indicators when applying for manufacturing and marketing approval of next-generation medical devices; the indicators are non-binding.",
+  "bound_parties_quote": "製造販売承認申請に当たって参考とするよう、貴管下関係業者に対しご周知いただきますよう御配慮願います。",
+  "entry_into_force_date": "2010-01-18",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "薬食機発０１１８第１号\n平成２２年１月１８日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2010,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "骨折整復支援装置、関節手術支援装置、重症心不全細胞治療用細胞シート及び角膜上皮細胞シートの評価を行うに当たって必要と考えられる資料、評価のポイント等を評価指標としてとりまとめました",
+  "confidence": 0.6
+ }
+}

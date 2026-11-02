@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-b94b96ae",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:53:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0408396,
+  "in": 2,
+  "out": 631,
+  "cache_read": 2656,
+  "cache_create": 8565,
+  "api_ms": 3720,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers",
+   "owners_or_users",
+   "individuals_or_general_public"
+  ],
+  "bound_parties_text": "The regulation binds municipal and county-level people's governments and their departments, operators of low-altitude infrastructure, and units or individuals carrying out low-altitude flight activities.",
+  "bound_parties_quote": "开展低空飞行活动的单位或者个人应当遵守飞行管理有关规定，对飞行安全承担主体责任，制定飞行紧急情况处置预案，落实安全风险防范责任。",
+  "entry_into_force_date": "2025-10-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "本条例自2025年10月1日起施行。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "苏州市低空经济促进条例（2025年6月25日苏州市第十七届人民代表大会常务委员会第二十二次会议通过",
+  "confidence": 0.85
+ }
+}

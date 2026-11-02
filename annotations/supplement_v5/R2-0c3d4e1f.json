@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-0c3d4e1f",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:03:56",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0151516,
+  "in": 2,
+  "out": 545,
+  "cache_read": 2656,
+  "cache_create": 2358,
+  "api_ms": 4370,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The document provides guidance on safety of automated driving systems and does not state any parties bound by obligations.",
+  "bound_parties_quote": "This document provides guidance for achieving and demonstrating safety of an automated driving system (ADS) integrated in a road vehicle.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "This document provides guidance for achieving and demonstrating safety of an automated driving system (ADS) integrated in a road vehicle.",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Road vehicles — Safety for automated driving systems — Design, verification and validation",
+  "confidence": 0.6
+ }
+}

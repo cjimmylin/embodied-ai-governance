@@ -1,0 +1,94 @@
+{
+ "doc_id": "R3-0e52a19c",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:11:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0662518,
+  "in": 2,
+  "out": 1720,
+  "cache_read": 11758,
+  "cache_create": 11968,
+  "api_ms": 17373,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "科技部基础研究司、资源配置与管理司关于2019年973计划（含重大科学研究计划）项目结题验收工作安排的通知",
+  "title_en": "Notice of the MOST Basic Research Department and Resource Allocation and Management Department on Arrangements for Completion Acceptance of 2019 973 Program (including Major Scientific Research Program) Projects",
+  "language": "zh",
+  "authors_or_issuer": "科技部基础研究司; 科技部资源配置与管理司",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2019,
+  "pub_month": 9,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Science and Technology of China",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "research_science"
+  ],
+  "governance_topics": [
+   "research_ethics",
+   "industrial_policy_innovation"
+  ],
+  "primary_topic": "research_ethics",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese Ministry of Science and Technology notice (Sept 2019) setting out procedures, deadlines and financial audit requirements for completion acceptance of 151 National Key Basic Research (973) Program projects, with an annex listing the projects. Unrelated to AI or robotics governance.",
+  "key_provisions_or_claims": [
+   "151 973 Program projects ending August 2019 must undergo completion acceptance",
+   "Task acceptance in Oct-Nov; project acceptance by MOST in mid-December",
+   "Financial acceptance requires audit by MOST-approved accounting firms",
+   "Online submission by 15 Nov and paper materials by 20 Nov 2019",
+   "Annex lists projects, chief scientists and host institutions"
+  ],
+  "confidence": 0.93
+ }
+}

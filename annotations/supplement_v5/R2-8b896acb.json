@@ -1,0 +1,36 @@
+{
+ "doc_id": "R2-8b896acb",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:01:02",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0406456,
+  "in": 2,
+  "out": 552,
+  "cache_read": 2656,
+  "cache_create": 8714,
+  "api_ms": 14375,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "owners_or_users",
+   "operators_or_deployers",
+   "manufacturers_or_producers"
+  ],
+  "bound_parties_text": "The Circular applies to autonomous and remotely operated ships on Norwegian domestic voyages, so it binds shipping companies/operational managers (DOC holders), shipowners and yards that must submit documentation to the Norwegian Maritime Authority.",
+  "bound_parties_quote": "This Circular applies to all ships with a level of autonomy equal to levels three to five (see appendix 1) that will be engaged on Norwegian domestic voyages.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": null,
+  "robot_provision_basis": "not_determinable",
+  "robot_provision_quote": "",
+  "confidence": 0.6
+ }
+}

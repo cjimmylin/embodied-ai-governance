@@ -1,0 +1,39 @@
+{
+ "doc_id": "R2-bfa44c2a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:27",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0643516,
+  "in": 2,
+  "out": 699,
+  "cache_read": 2656,
+  "cache_create": 14273,
+  "api_ms": 7314,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "manufacturers_or_producers",
+   "owners_or_users",
+   "operators_or_deployers",
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments",
+   "researchers_or_institutions"
+  ],
+  "bound_parties_text": "The amendment binds vehicle keepers (Fahrzeughalter), drivers, operators of driverless vehicles, the Federal Council, cantons and authorities such as ASTRA, and persons responsible for automated vehicle trials.",
+  "bound_parties_quote": "Fahrzeuge mit einem Automatisierungssystem, die keinen Fahrzeugführer benötigen, dürfen nur auf festgelegten Fahrstrecken zugelassen werden und müssen durch einen Operator beaufsichtigt werden.",
+  "entry_into_force_date": "2023-10-01",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Es wird mit Ausnahme der Bestimmungen im nachstehenden Absatz 3, auf den 1. Oktober 2023 in Kraft gesetzt.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "amendment_history_in_text",
+  "robot_provision_quote": "Änderung vom 17. März 2023",
+  "confidence": 0.8
+ }
+}

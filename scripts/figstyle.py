@@ -9,7 +9,7 @@ SEQ=["#cde2fb","#b7d3f6","#9ec5f4","#86b6ef","#6da7ec","#5598e7","#3987e5","#2a7
 DIV_BLUE,DIV_RED="#2a78d6","#e34948"
 THEMES={"light":dict(surface="#fcfcfb",page="#f9f9f7",ink="#0b0b0b",ink2="#52514e",muted="#898781",grid="#e1e0d9",axis="#c3c2b7",cat=CAT_LIGHT,mid="#f0efec"),
         "dark":dict(surface="#1a1a19",page="#0d0d0d",ink="#f0efec",ink2="#c3c2b7",muted="#898781",grid="#2c2c2a",axis="#383835",cat=CAT_DARK,mid="#383835")}
-FIGDIR="/home/user/embodied-ai-governance-v4/figures/"
+FIGDIR="/home/user/embodied-ai-governance-v5/figures/"
 def setup(theme="light"):
     t=THEMES[theme]
     rcParams.update({"font.family":["DejaVu Sans"],"font.size":9,"axes.titlesize":10,"axes.titleweight":"semibold","axes.labelsize":9,"xtick.labelsize":8,"ytick.labelsize":8,"legend.fontsize":8,

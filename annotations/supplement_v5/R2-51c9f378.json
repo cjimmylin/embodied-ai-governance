@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-51c9f378",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:52",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0490516,
+  "in": 2,
+  "out": 599,
+  "cache_read": 2656,
+  "cache_create": 10698,
+  "api_ms": 6487,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The notice is addressed to provincial transport, development and reform, finance and natural resources departments, railway, civil aviation and postal regulators, and railway bureau groups, who must implement the plan.",
+  "bound_parties_quote": "各地区有关部门要按照本规划要求，协调推进政策落实和重点项目实施，强化资源要素保障，建立枢纽定期评估机制。",
+  "entry_into_force_date": "2026-09-10",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "交规划发〔2026〕118号 ... 2026年9月10日",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "推动机场货运区及陆空联运功能区应用自动立体货架、自动分拣机、自动导引运输车、智能机器人等智能设备设施。",
+  "confidence": 0.6
+ }
+}

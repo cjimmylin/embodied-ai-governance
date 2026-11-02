@@ -1,0 +1,102 @@
+{
+ "doc_id": "R2-0bc9a6b3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:16:32",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0808481,
+  "in": 4,
+  "out": 3727,
+  "cache_read": 31581,
+  "cache_create": 10103,
+  "api_ms": 17751,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Vehicle Laws – Personal Delivery Devices – Standards and Requirements (Senate Bill 726, Chapter 351)",
+  "title_en": "Vehicle Laws – Personal Delivery Devices – Standards and Requirements (Senate Bill 726, Chapter 351)",
+  "language": "en",
+  "authors_or_issuer": "Maryland General Assembly",
+  "issuer_type": "legislature",
+  "pub_year": 2021,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "2021 Laws of Maryland",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "subnational",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "statute_or_act",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "delivery_robots"
+  ],
+  "primary_embodied_category": "delivery_robots",
+  "application_sectors": [
+   "logistics_transport",
+   "retail_hospitality"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "consumer_protection"
+  ],
+  "primary_topic": "safety_physical_harm",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 0,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 1,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 2,
+   "human_robot_proximity": 2,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "licensing_registration",
+   "insurance_requirement",
+   "testing_sandboxes",
+   "oversight_body_creation",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "mixed",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Maryland Chapter 351 (SB 726, 2021) regulates personal delivery devices, which are sidewalk delivery robots. They are exempt from vehicle registration and may use sidewalks, crosswalks and shoulders. The Act sets weight and speed limits, marking, controlled-stop, lighting and $100,000 insurance requirements, emergency response plans, local notice, and a permitting pilot.",
+  "key_provisions_or_claims": [
+   "PDDs excluded from 'motor vehicle' and 'vehicle' definitions and exempt from registration",
+   "Speed limited to 7 mph on sidewalks/crosswalks; weight limit 550 lb excluding cargo",
+   "Must carry unique ID, operator marking (also in Braille), controlled-stop system, lighting, and at least $100,000 liability insurance",
+   "Operators must file emergency response plans with the MVA and notify counties/municipalities 30 days ahead",
+   "MVA to develop a permitting pilot process by Oct 1, 2021 and report by Dec 31, 2021"
+  ],
+  "confidence": 0.9
+ }
+}

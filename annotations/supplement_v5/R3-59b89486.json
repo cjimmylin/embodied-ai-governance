@@ -1,0 +1,34 @@
+{
+ "doc_id": "R3-59b89486",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:54:19",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0308276,
+  "in": 2,
+  "out": 555,
+  "cache_read": 2656,
+  "cache_create": 6252,
+  "api_ms": 5956,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The action plan is a promotional policy plan that mainly encourages and supports universities, institutes, enterprises and other innovation entities, without imposing specific binding obligations; the notice only tells 'relevant units' to implement it earnestly.",
+  "bound_parties_quote": "现予印发，请认真执行。",
+  "entry_into_force_date": "2025-02-28",
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2027-12-31",
+  "dates_quote": "本计划自印发之日起实施，执行至2027年12月31日截止。",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "北京具身智能科技创新与产业培育行动计划（2025-2027年）",
+  "confidence": 0.7
+ }
+}

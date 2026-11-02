@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-e8323d98",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:56:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0303496,
+  "in": 2,
+  "out": 598,
+  "cache_read": 2656,
+  "cache_create": 6025,
+  "api_ms": 4026,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "member_states_or_subnational_governments"
+  ],
+  "bound_parties_text": "Local governments and relevant departments of the State Council (各地方各有关部门), government organs, public institutions and state-owned enterprises, and the National Development and Reform Commission are directed to implement the opinions.",
+  "bound_parties_quote": "各地方各有关部门要在党中央集中统一领导下，强化协同配合，加大场景培育和开放力度，结合实际抓好贯彻落实。政府机关、事业单位和国有企业要强化示范引领。",
+  "entry_into_force_date": "2025-11-02",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "国务院办公厅\n2025年11月2日\n（此件公开发布）",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2025,
+  "robot_provision_basis": "stated_in_provision",
+  "robot_provision_quote": "国办发〔2025〕37号",
+  "confidence": 0.6
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-2ecab9f0",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:31",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0260156,
+  "in": 2,
+  "out": 617,
+  "cache_read": 2656,
+  "cache_create": 4894,
+  "api_ms": 5055,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The standard is intended for use by sUAS manufacturers, sUAS operators, and CAAs, but it is a voluntary test method that imposes no obligations on them.",
+  "bound_parties_quote": "The test method is intended to be used by sUAS manufacturers, sUAS operators, and CAAs to assess the safety of sUA impacts to people on the ground",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "Results from testing using Methods A, B, C, or D are intended to be used to support an applicant in obtaining permission from the governing Civil Aviation Authority (CAA) for flight over people.",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "ASTM F3389/F3389M-21 Standard Test Method for Assessing the Safety of Small Unmanned Aircraft Impacts",
+  "confidence": 0.7
+ }
+}

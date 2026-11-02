@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-115aae90",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:06:24",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0171736,
+  "in": 2,
+  "out": 588,
+  "cache_read": 2656,
+  "cache_create": 2756,
+  "api_ms": 4702,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "individuals_or_general_public",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The statute binds any person who knowingly and intentionally causes an unmanned aircraft system to enter property, airspace or restricted areas.",
+  "bound_parties_quote": "Any person who knowingly and intentionally causes an unmanned aircraft system to (i) enter the property of another and come within 50 feet of a dwelling house",
+  "entry_into_force_date": "2018",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "2018, cc. 851 852 ; 2019, c. 612 ; 2023, cc. 24 25 ; 2025, cc. 374 381 622 .",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2018,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Trespass with an unmanned aircraft system; penalty.",
+  "confidence": 0.6
+ }
+}

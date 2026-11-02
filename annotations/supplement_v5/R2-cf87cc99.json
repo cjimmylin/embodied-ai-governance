@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-cf87cc99",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:58:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0242536,
+  "in": 2,
+  "out": 554,
+  "cache_read": 2656,
+  "cache_create": 4611,
+  "api_ms": 7317,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The notice instructs the Metropolitan Police Department Traffic Bureau chief and the prefectural police headquarters chiefs to observe these points of attention when handling applications and notifications for robot agricultural machinery on public roads.",
+  "bound_parties_quote": "事務処理上遺漏のないようにされたい。",
+  "entry_into_force_date": "2026-06-10",
+  "applicability_date": null,
+  "repeal_or_expiry_date": "2042-03-31",
+  "dates_quote": "有 効 期 間 一種（令和14年３月31日まで）",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "「ロボット農機の公道走行」についての留意事項について",
+  "confidence": 0.8
+ }
+}

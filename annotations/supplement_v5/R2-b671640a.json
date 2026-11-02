@@ -1,0 +1,37 @@
+{
+ "doc_id": "R2-b671640a",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:27:58",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.045015599999999996,
+  "in": 2,
+  "out": 663,
+  "cache_read": 2656,
+  "cache_create": 9529,
+  "api_ms": 3863,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "manufacturers_or_producers",
+   "importers_or_distributors",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Regulation binds operators of civil unmanned aviation, manufacturers and importers of RPA/RPAS, and the aeronautical authorities (ANAC) instructed to adapt and technically regulate within 180 days.",
+  "bound_parties_quote": "Todo operador de aviación civil no tripulada será responsable de la evaluación del riesgo operacional, del cumplimiento de las disposiciones relativas a seguridad operacional",
+  "entry_into_force_date": "2024-07-24",
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "El presente decreto entrará en vigencia el día de su publicación en el BOLETÍN OFICIAL.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2024,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Apruébase el REGLAMENTO PARA LA AVIACIÓN CIVIL NO TRIPULADA que como ANEXO",
+  "confidence": 0.85
+ }
+}

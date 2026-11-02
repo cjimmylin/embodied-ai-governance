@@ -1,0 +1,35 @@
+{
+ "doc_id": "R2-0bc9a6b3",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:28:47",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0395176,
+  "in": 2,
+  "out": 694,
+  "cache_read": 2656,
+  "cache_create": 8077,
+  "api_ms": 27394,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "public_bodies_or_government"
+  ],
+  "bound_parties_text": "The Act binds operators of personal delivery devices (who must file emergency response plans, notify counties and municipalities, and comply with local laws) and the Administrator of the Motor Vehicle Administration (who must develop a permitting pilot process and report to committees).",
+  "bound_parties_quote": "EACH OPERATOR OF A PERSONAL DELIVERY DEVICE SHALL FILE WITH THE ADMINISTRATOR AN EMERGENCY RESPONSE PLAN",
+  "entry_into_force_date": "2021-07-01",
+  "applicability_date": "2022-07-01",
+  "repeal_or_expiry_date": null,
+  "dates_quote": "That Section 1 of this Act shall take effect July 1, 2022. SECTION 2. 4. AND BE IT FURTHER ENACTED, That, except as provided in Section 3 of this Act, this Act shall take effect October July 1, 2021.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2021,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Vehicle Laws – Personal Delivery Devices – Standards and Requirements",
+  "confidence": 0.8
+ }
+}

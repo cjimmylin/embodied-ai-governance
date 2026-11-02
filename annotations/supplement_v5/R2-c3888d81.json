@@ -1,0 +1,38 @@
+{
+ "doc_id": "R2-c3888d81",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:02:41",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0934476,
+  "in": 2,
+  "out": 731,
+  "cache_read": 2656,
+  "cache_create": 21467,
+  "api_ms": 6608,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "operators_or_deployers",
+   "pilots_or_drivers",
+   "owners_or_users",
+   "public_bodies_or_government",
+   "providers_or_developers"
+  ],
+  "bound_parties_text": "The Regulation applies to natural and legal persons, public or private, national or foreign, who operate a remotely piloted aircraft system (RPAS) or participate in its activities and services, including RPAS operators (explotadores), remote pilots, RPA owners and civil aviation training centres.",
+  "bound_parties_quote": "Alcanza a las personas naturales y jurídicas, públicas o privadas, nacionales o extranjeras, que operen un Sistema de Aeronave Pilotada a Distancia, así como a aquellos que participen en sus actividades y servicios",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "Dado en la Casa de Gobierno, en Lima, a los veintiocho días del mes de mayo del año dos mil veintiséis.",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2026,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "Aprobar el Reglamento de la Ley Nº 30740, Ley que regula el uso y las operaciones de los sistemas de aeronaves pilotadas a distancia (RPAS)",
+  "confidence": 0.8
+ }
+}

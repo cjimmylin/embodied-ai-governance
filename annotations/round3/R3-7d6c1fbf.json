@@ -1,0 +1,100 @@
+{
+ "doc_id": "R3-7d6c1fbf",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:11:42",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0459678,
+  "in": 2,
+  "out": 1844,
+  "cache_read": 11758,
+  "cache_create": 6587,
+  "api_ms": 13050,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "国家税务总局等9部门关于开展2026年助力小微经营主体发展“春雨润苗”专项行动的通知",
+  "title_en": "Notice by the State Taxation Administration and 8 Other Departments on Launching the 2026 \"Spring Rain Nourishing Seedlings\" Special Action to Support the Development of Micro and Small Business Entities",
+  "language": "zh",
+  "authors_or_issuer": "国家税务总局; 国家发展改革委; 科技部; 工业和信息化部; 人力资源社会保障部; 市场监管总局; 金融监管总局; 国家医保局; 全国工商联",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 3,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "State Taxation Administration of China",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "policy_guideline_or_code_of_practice",
+  "doc_class": "governance_instrument_soft",
+  "is_governance_document": true,
+  "instrument_status": "published_current",
+  "binding_nature": "voluntary_soft_law",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector",
+   "public_administration_justice",
+   "finance"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "labor_employment",
+   "sustainability_environment",
+   "other"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 0,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 1,
+   "dignity": 0,
+   "solidarity": 1,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "education_training_programs",
+   "oversight_body_creation"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese joint notice from nine bodies, led by the State Taxation Administration, launching the 2026 \"Spring Rain\" action. It sets 15 service measures for micro and small businesses: inter-agency coordination and data sharing, tax compliance guidance, credit and financing, support for key groups, technology innovation, cross-border business, rural revitalisation and green development. It has no AI or robotics content.",
+  "key_provisions_or_claims": [
+   "Launches 15 service measures in four focus areas for micro and small business entities",
+   "Builds inter-agency communication, data-sharing and demand-response mechanisms",
+   "Expands bank-tax interaction and credit repair support for financing",
+   "Supports entrepreneurship for key groups, individual-to-enterprise conversion and platform workers",
+   "Promotes tax incentives for technological innovation, cross-border business, rural and green development"
+  ],
+  "confidence": 0.95
+ }
+}

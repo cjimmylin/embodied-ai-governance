@@ -1,0 +1,35 @@
+{
+ "doc_id": "D0013",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T17:50:36",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.0541096,
+  "in": 2,
+  "out": 622,
+  "cache_read": 2656,
+  "cache_create": 11905,
+  "api_ms": 5719,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "public_bodies_or_government",
+   "operators_or_deployers"
+  ],
+  "bound_parties_text": "The institutions in charge of implementing AI use in the land transport system must conduct periodic evaluations and controls, and the Ministry of Transport and Communications must disseminate the law.",
+  "bound_parties_quote": "Las instituciones encargadas de implementar el uso de la inteligencia artificial en el sistema de transporte terrestre deberán realizar evaluaciones periódicas y controles de su uso",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "not_a_standard",
+  "legal_effect_quote": "",
+  "robot_provision_year": 2023,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "PROYECTO DE LEY QUE PROMUEVE EL USO DE LA INTELIGENCIA ARTIFICIAL EN EL SISTEMA DE TRANSPORTE TERRESTRE DEL PAÍS",
+  "confidence": 0.8
+ }
+}

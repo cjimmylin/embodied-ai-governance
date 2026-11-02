@@ -5,6 +5,8 @@ author: "Prepared with Claude Code for Jimmy Lin, Centre for Enterprise Innovati
 date: "31 October 2026"
 ---
 
+*Version 5 note (collection round 3, 2 November 2026). The tables and figures in this package were regenerated after round 3, which recovered the text of round-2 instruments that could not be read before, harvested new service-robot, care, exoskeleton and humanoid instruments, re-read the truncated statutes in full and added supplementary fields (whom a rule binds, dates, legal effect of standards, robot-provision year). The narrative below still states the v4 counts of 31 October 2026 and has not been re-audited sentence by sentence against the v5 tables; where a number in the text and a number in a table differ, the table is current. The round-3 companion report (collection_round3) gives the v5 headline counts and what changed, and HUMAN_ASSISTANCE.md lists what still needs a person.*
+
 ## S1. Pipeline, reproducibility and what changed in v4
 
 All steps are scripts in `scripts/` and run in numerical order (`run_v4.sh`; `run_v4_post.sh` re-runs from the counting-unit step and `run_v4_analyses.sh` from the analyses). Steps 01 to 05 require the converted source texts; the round-2 merge appends the round-2 registry rows, text features and annotations before assembly; steps 07 onward run from the stored annotations, so every number in the report can be regenerated from the package.

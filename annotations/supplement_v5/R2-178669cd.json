@@ -1,0 +1,34 @@
+{
+ "doc_id": "R2-178669cd",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "c1b8d3e50751",
+ "policy": "supp_v5|v2|head=40000|mid=2000|tail=6000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:04:26",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.017677599999999998,
+  "in": 2,
+  "out": 600,
+  "cache_read": 2656,
+  "cache_create": 2852,
+  "api_ms": 3605,
+  "result_head": ""
+ },
+ "annotation": {
+  "bound_parties": [
+   "none_stated"
+  ],
+  "bound_parties_text": "The standard names no bound parties; it only notes that the user of the standard is responsible for establishing appropriate safety and health practices.",
+  "bound_parties_quote": "It is the responsibility of the user of this standard to establish appropriate safety and health practices and determine the applicability of regulatory limitations prior to use.",
+  "entry_into_force_date": null,
+  "applicability_date": null,
+  "repeal_or_expiry_date": null,
+  "dates_quote": "",
+  "legal_effect_of_standard": "voluntary",
+  "legal_effect_quote": "This specification is provided as a consensus standard in support of an application to a nation’s governing aviation authority (GAA) for a permit to operate a small unmanned aircraft system (sUAS)",
+  "robot_provision_year": 2014,
+  "robot_provision_basis": "whole_instrument_is_about_such_systems",
+  "robot_provision_quote": "ASTM F3002-14a Standard Specification for Design of the Command and Control System for Small Unmanned Aircraft Systems (sUAS)",
+  "confidence": 0.7
+ }
+}

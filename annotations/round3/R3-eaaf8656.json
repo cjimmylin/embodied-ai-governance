@@ -1,0 +1,97 @@
+{
+ "doc_id": "R3-eaaf8656",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-02T18:11:40",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.038697800000000004,
+  "in": 2,
+  "out": 1729,
+  "cache_read": 11758,
+  "cache_create": 5057,
+  "api_ms": 10109,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "关于印发《服务业发展资金管理办法》的通知",
+  "title_en": "Notice on Issuing the Administrative Measures for Service Industry Development Funds",
+  "language": "zh",
+  "authors_or_issuer": "财政部; 商务部 (Ministry of Finance; Ministry of Commerce, China)",
+  "issuer_type": "national_government_executive",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Ministry of Finance of the PRC (财建〔2026〕137号)",
+  "jurisdiction_country": "CN",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "CN"
+  ],
+  "doc_type": "regulation_or_decree",
+  "doc_class": "governance_instrument_binding",
+  "is_governance_document": true,
+  "instrument_status": "in_force",
+  "binding_nature": "legally_binding",
+  "publication_stage": "not_applicable",
+  "ai_scope": "not_ai",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "retail_hospitality",
+   "logistics_transport",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "industrial_policy_innovation",
+   "taxation_economic_policy"
+  ],
+  "primary_topic": "industrial_policy_innovation",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 0,
+   "responsibility_accountability": 1,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 2,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "funding_or_incentives",
+   "audits_impact_assessment"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "not_applicable",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 0,
+  "summary_en": "Chinese Ministry of Finance and Ministry of Commerce measures governing the central service-industry development fund, covering scope, allocation methods, application procedures, performance evaluation and oversight. AI is mentioned only as one consumer-sector application to promote. Replaces the 2023 measures.",
+  "key_provisions_or_claims": [
+   "Fund runs to 2028 and supports consumption growth, commerce and logistics competitiveness.",
+   "Allocation by formula (60% development, 30% budget execution, 10% regional tilt), project method, or both.",
+   "Funds may not be misappropriated or used for debt repayment or duplicate applications.",
+   "Performance management and supervision by finance bureaus; violations carry liability under the Budget Law.",
+   "Replaces the 2023 measures (财建〔2023〕9号)."
+  ],
+  "confidence": 0.95
+ }
+}

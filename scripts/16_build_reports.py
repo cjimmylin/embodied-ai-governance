@@ -2,7 +2,7 @@
 from the templates in report/src/, inlining figure embeds ({{Fxx}}) and tables ({{Txx}}),
 then export HTML (self-contained) and PDF (Chromium) for each."""
 import re, os, subprocess, json, sys
-ROOT="/home/user/embodied-ai-governance-v4"
+ROOT="/home/user/embodied-ai-governance-v5"
 SRC=f"{ROOT}/report/src"; OUT=f"{ROOT}/report"; FIG=f"{ROOT}/figures"; TAB=f"{ROOT}/tables"
 
 CAPTIONS={
@@ -44,7 +44,7 @@ CAPTIONS={
 "F39":"Embodied vs general principle presence within research outputs and within governance instruments (genre-stratified).",
 "F40":"Governance-gap index with 95% bootstrap intervals (research share minus principal-instrument share by robot type); the title names the categories whose interval excludes zero.",
 "F41":"Coverage audit: documents citing each reference instrument, coloured by whether the instrument itself was captured as a principal instrument with a content-analysed capture.",
-"F42":"Robot-type shares within the embodied-AI set by year, with 95% Wilson bands (composition-free trends).",
+"F42":"Robot-type shares within the embodied-AI set by year, with 95% Wilson bands, and the same shares among round-1 documents only (dashed), so that the arrival of round-2 legal texts can be told from a change in attention.",
 "F43":"Per-field kappa for three comparisons: different model on the same excerpt, same model re-run, and same model reading the full text instead of the excerpt.",
 "F44":"Per-field kappa for the metadata-blind, header-stripped re-annotation versus the original annotation (leakage check).",
 "F50":"Round-2 funnel: from de-duplicated candidates to texts obtained, content-analysed documents, usable captures and the instruments the blind annotation found among them.",
@@ -119,11 +119,12 @@ def build(name,title,toc=True):
     print("built",name,os.path.getsize(f"{OUT}/{name}.pdf")//1024,"KB")
 
 if __name__=="__main__":
-    which=sys.argv[1:] or ["brief","analysis_report","supplement","paper","collection_round2","methods_document_discovery","methods_review_and_revision"]
-    titles={"brief":"Who governs the robots? A short brief (v4)","analysis_report":"Governing machines that act in the world: analysis report (v4)",
+    which=sys.argv[1:] or ["brief","analysis_report","supplement","paper","collection_round2","collection_round3","methods_document_discovery","methods_review_and_revision"]
+    titles={"brief":"Who governs the robots? A short brief (v5)","analysis_report":"Governing machines that act in the world: analysis report (v5)",
             "supplement":"Supplementary material: codebook, reliability, coverage and extended tables",
             "paper":"Governing machines that act in the world: a content analysis of embodied-AI governance documents from eight world regions",
             "collection_round2":"Collection round 2: finding the instruments the first collection missed",
+            "collection_round3":"Collection round 3: recovered instruments, full-text re-reads and supplementary fields (v5)",
             "methods_document_discovery":"Document discovery and inclusion: methods",
             "methods_review_and_revision":"Adversarial review and revision: methods"}
     for w in which: build(w,titles[w],toc=(w!="brief"))
