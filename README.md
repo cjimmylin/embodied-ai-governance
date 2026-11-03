@@ -8,6 +8,7 @@ Version 5 (2 November 2026) adds collection round 3, executed by agents alone: t
 
 | What | Where |
 |---|---|
+| Two non-technical talks with narrated videos: a conference keynote (21 min) and a main-stage talk in the TED format (11 min), with scripts and editable decks | `report/talks/` (decks: https://claude.ai/artifact/FaM6krx6snfSm69VKW4d98 and https://claude.ai/artifact/MMcpN4zupd3k9EifNgSksq) |
 | Collection round 3 report (recovered instruments, harvest, full-text re-reads, supplementary fields, second audit, source split) | `report/collection_round3.md`, `.pdf`, `.html` |
 | What needs a person (blocked hosts, missing instruments, paid standards, validation kit, legal checks, boundary decisions) | `HUMAN_ASSISTANCE.md` |
 | Second precision audit (random n=100 of the v4 binding set, seed 2027) | `review/v5_audit/precision_audit_v5.md`, `precision_audit_v5_results.csv` |
