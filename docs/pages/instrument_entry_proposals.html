@@ -1,0 +1,510 @@
+<title>Instrument Entry Proposals</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#F7F5F0; --surface:#FFFFFF; --surface2:#EFEBE2; --fg:#1B2A41; --fg2:#4A5160; --muted:#6B7280;
+  --line:#DDD8CE; --accent:#C8552B; --accent-soft:#F6E3DA; --blue:#2E6F8E; --blue-soft:#DDE9F0;
+  --navy:#1B2A41; --navy-fg:#F7F5F0; --navy-muted:#BFC8D6; --navy-accent:#E8A07E;
+  --lvl0:#E9E5DC; --lvl1:#9FC2D4; --lvl2:#2E6F8E; --lvl2-fg:#F7F5F0; --ok:#2F7D4F; --warn:#B7791F;
+  --serif:'Source Serif 4', Georgia, serif; --sans:'IBM Plex Sans', Arial, sans-serif; --mono:'IBM Plex Mono', 'Courier New', monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#141C28; --surface:#1C2635; --surface2:#243144; --fg:#EEF1F5; --fg2:#C2CAD6; --muted:#8E99A8;
+  --line:#33405A; --accent:#E8A07E; --accent-soft:#3A2A24; --blue:#7FB4CF; --blue-soft:#243B4A;
+  --navy:#0E1420; --navy-fg:#EEF1F5; --navy-muted:#AAB4C3; --navy-accent:#E8A07E;
+  --lvl0:#2A3446; --lvl1:#4C7A93; --lvl2:#9CCBE3; --lvl2-fg:#0E1420; --ok:#6FC08A; --warn:#E0B35A; color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#141C28; --surface:#1C2635; --surface2:#243144; --fg:#EEF1F5; --fg2:#C2CAD6; --muted:#8E99A8;
+  --line:#33405A; --accent:#E8A07E; --accent-soft:#3A2A24; --blue:#7FB4CF; --blue-soft:#243B4A;
+  --navy:#0E1420; --navy-fg:#EEF1F5; --navy-muted:#AAB4C3; --navy-accent:#E8A07E;
+  --lvl0:#2A3446; --lvl1:#4C7A93; --lvl2:#9CCBE3; --lvl2-fg:#0E1420; --ok:#6FC08A; --warn:#E0B35A; color-scheme:dark }
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:16px;line-height:1.5;
+  padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px));padding-block:0 64px}
+.wrap{max-width:1180px;margin:0 auto}
+h1,h2,h3,h4{font-family:var(--serif);font-weight:600;line-height:1.15;text-wrap:balance;margin:0}
+h1{font-size:2.4rem;font-weight:400}
+h2{font-size:1.6rem;font-weight:400}
+h3{font-size:1.15rem}
+p{margin:0}
+a{color:var(--blue)}
+.eyebrow{font-size:.75rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.lede{color:var(--fg2);font-size:1.05rem;max-width:62ch}
+header.top{padding-block:40px 24px;display:flex;flex-direction:column;gap:14px;border-bottom:1px solid var(--line)}
+.brief{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin-top:8px}
+.brief div{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.brief b{font-size:.85rem;color:var(--muted);font-weight:600;letter-spacing:.06em;text-transform:uppercase}
+nav.tabs{position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);z-index:5;display:flex;gap:8px;overflow-x:auto;padding-block:14px;border-bottom:1px solid var(--line)}
+nav.tabs button{flex:0 0 auto;border:1px solid var(--line);background:var(--surface);color:var(--fg2);border-radius:999px;padding:8px 14px;font:inherit;font-size:.9rem;cursor:pointer;display:flex;gap:8px;align-items:center}
+nav.tabs button span.n{font-family:var(--mono);font-size:.75rem;color:var(--muted)}
+nav.tabs button[aria-selected="true"]{background:var(--navy);color:var(--navy-fg);border-color:var(--navy)}
+nav.tabs button[aria-selected="true"] span.n{color:var(--navy-accent)}
+section.proposal{padding-block:28px;display:flex;flex-direction:column;gap:22px}
+.phead{display:grid;grid-template-columns:1fr;gap:12px}
+@media(min-width:900px){.phead{grid-template-columns:1.4fr 1fr}}
+.verdict{background:var(--surface2);border-radius:12px;padding:16px 18px;display:flex;flex-direction:column;gap:8px;font-size:.95rem;min-width:0}
+.verdict b{color:var(--fg)}
+.verdict ul{margin:0;padding-left:18px;color:var(--fg2)}
+.frame{border:1px solid var(--line);border-radius:16px;background:var(--surface);overflow:hidden}
+.frame .bar{display:flex;gap:6px;padding:10px 14px;border-bottom:1px solid var(--line);background:var(--surface2);font-family:var(--mono);font-size:.75rem;color:var(--muted);align-items:center}
+.frame .bar i{display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--line)}
+.chip{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:3px 10px;font-size:.8rem;font-weight:500;border:1px solid var(--line);background:var(--surface2);color:var(--fg2);white-space:nowrap}
+.chip.ok{background:var(--blue-soft);border-color:transparent;color:var(--blue)}
+.chip.acc{background:var(--accent-soft);border-color:transparent;color:var(--accent)}
+.chip.raw{font-family:var(--mono);font-weight:400;font-size:.75rem}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.grid2{display:grid;grid-template-columns:1fr;gap:20px}
+@media(min-width:900px){.grid2{grid-template-columns:300px 1fr}}
+.grid2>*{min-width:0}
+.kv{display:grid;grid-template-columns:1fr;gap:0}
+.kv div{display:grid;grid-template-columns:150px 1fr;gap:10px;padding:8px 0;border-bottom:1px solid var(--line);font-size:.9rem}
+.kv div:last-child{border-bottom:none}
+.kv dt{color:var(--muted);font-weight:500}
+.kv dd{margin:0;color:var(--fg);overflow-wrap:anywhere}
+.kv dd code{font-family:var(--mono);font-size:.78rem;color:var(--muted)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.card h3{font-family:var(--sans);font-size:.8rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.heat{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}
+.heat div{border-radius:8px;padding:10px;font-size:.8rem;display:flex;flex-direction:column;gap:4px;min-width:0}
+.heat .l0{background:var(--lvl0);color:var(--fg2)}
+.heat .l1{background:var(--lvl1);color:#0E1420}
+.heat .l2{background:var(--lvl2);color:var(--lvl2-fg)}
+.heat b{font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;opacity:.8}
+.legend{display:flex;gap:14px;flex-wrap:wrap;font-size:.8rem;color:var(--muted);align-items:center}
+.legend i{display:inline-block;width:14px;height:14px;border-radius:4px;vertical-align:-2px;margin-right:4px}
+ol.prov{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px;color:var(--fg2);font-size:.95rem}
+.navyband{background:var(--navy);color:var(--navy-fg);padding:22px;display:flex;flex-direction:column;gap:12px}
+.navyband .eyebrow{color:var(--navy-accent)}
+.navyband .muted{color:var(--navy-muted)}
+.navyband h2{font-size:1.5rem;color:var(--navy-fg)}
+.badges{display:flex;flex-wrap:wrap;gap:8px}
+.badge{border:1px solid rgba(255,255,255,.25);border-radius:6px;padding:4px 10px;font-size:.8rem;color:var(--navy-fg)}
+.badge.hot{background:var(--navy-accent);color:#1B2A41;border-color:transparent;font-weight:600}
+/* passport */
+.passport{display:grid;grid-template-columns:1fr;gap:0}
+@media(min-width:900px){.passport{grid-template-columns:340px 1fr}}
+.idcard{background:var(--surface2);padding:20px;display:flex;flex-direction:column;gap:12px;border-right:1px solid var(--line)}
+.idcard .big{font-family:var(--serif);font-size:1.3rem;line-height:1.2}
+.mrz{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;color:var(--muted);word-break:break-all;background:var(--surface);border:1px dashed var(--line);border-radius:6px;padding:8px}
+.subtabs{display:flex;gap:4px;border-bottom:1px solid var(--line);padding:10px 14px 0;overflow-x:auto}
+.subtabs button{border:none;background:none;font:inherit;font-size:.9rem;color:var(--muted);padding:8px 10px;border-bottom:2px solid transparent;cursor:pointer;white-space:nowrap}
+.subtabs button[aria-selected="true"]{color:var(--fg);border-bottom-color:var(--accent)}
+.panel{padding:18px;display:flex;flex-direction:column;gap:14px}
+/* scorecard */
+.score{display:flex;flex-direction:column;gap:6px}
+.score .row{display:grid;grid-template-columns:200px 1fr 112px;gap:10px;align-items:center;font-size:.85rem}
+@media(max-width:600px){.score .row{grid-template-columns:110px 1fr 90px}}
+.track{position:relative;height:14px;background:var(--lvl0);border-radius:7px;overflow:hidden}
+.track .ctx{position:absolute;left:0;top:0;height:100%;background:var(--lvl1);opacity:.7}
+.track .ctx2{position:absolute;left:0;top:0;height:100%;background:var(--lvl2)}
+.score .lv{font-size:.75rem;color:var(--muted);text-align:right;white-space:nowrap}
+.score .lv b{display:inline-block;border-radius:999px;padding:2px 8px;font-weight:600}
+.score .lv b.l0{background:var(--lvl0);color:var(--fg2)}
+.score .lv b.l1{background:var(--lvl1);color:#0E1420}
+.score .lv b.l2{background:var(--lvl2);color:var(--lvl2-fg)}
+.score .lv b.used{background:var(--accent-soft);color:var(--accent)}
+.twocol{display:grid;grid-template-columns:1fr;gap:20px}
+@media(min-width:900px){.twocol{grid-template-columns:1fr 1fr}}
+.twocol>*{min-width:0}
+/* explainer */
+.qa{display:flex;flex-direction:column;gap:0}
+.qa details{border-bottom:1px solid var(--line);padding:14px 0}
+.qa details:last-child{border-bottom:none}
+.qa summary{cursor:pointer;font-family:var(--serif);font-size:1.15rem;list-style:none;display:flex;justify-content:space-between;gap:12px;align-items:center}
+.qa summary::-webkit-details-marker{display:none}
+.qa summary::after{content:"+";font-family:var(--mono);color:var(--muted);font-size:1.1rem}
+.qa details[open] summary::after{content:"−"}
+.qa .ans{padding-top:10px;display:flex;flex-direction:column;gap:10px;color:var(--fg2)}
+.qa .ans .raw{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:.8rem;color:var(--muted)}
+/* lifecycle */
+.timeline{position:relative;padding-left:26px;display:flex;flex-direction:column;gap:16px}
+.timeline::before{content:"";position:absolute;left:8px;top:6px;bottom:6px;width:2px;background:var(--line)}
+.timeline .ev{position:relative;display:flex;flex-direction:column;gap:2px}
+.timeline .ev::before{content:"";position:absolute;left:-23px;top:6px;width:12px;height:12px;border-radius:50%;background:var(--blue);border:2px solid var(--bg)}
+.timeline .ev.hot::before{background:var(--accent)}
+.timeline .ev.future::before{background:var(--surface);border:2px solid var(--blue)}
+.timeline .when{font-family:var(--mono);font-size:.75rem;color:var(--muted)}
+.rel{display:grid;grid-template-columns:1fr;gap:12px}
+@media(min-width:700px){.rel{grid-template-columns:repeat(3,1fr)}}
+.rel .card{gap:8px}
+.rel ul{margin:0;padding-left:18px;font-size:.9rem;color:var(--fg2)}
+.gap{border-left:3px solid var(--warn);padding:8px 12px;background:var(--surface2);border-radius:0 8px 8px 0;font-size:.9rem;color:var(--fg2)}
+.ledger{display:grid;grid-template-columns:1fr;gap:14px}
+@media(min-width:700px){.ledger{grid-template-columns:1fr 1fr}}
+@media(min-width:1000px){.ledger{grid-template-columns:1fr 1fr 1fr}}
+.ledger .group{background:var(--surface2);border-radius:10px;padding:12px;min-width:0}
+.ledger .group h4{font-family:var(--sans);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
+.ledger .group div{display:grid;grid-template-columns:1fr;gap:1px;font-size:.8rem;padding:4px 0;border-bottom:1px solid var(--line)}
+.ledger .group div:last-child{border-bottom:none}
+.ledger .group div span:first-child{color:var(--muted)}
+.ledger .group div span{overflow-wrap:anywhere}
+footer.note{margin-top:30px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;max-width:80ch}
+.compare{overflow-x:auto}
+.compare table{border-collapse:collapse;width:100%;font-size:.88rem;min-width:720px}
+.compare th,.compare td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+.compare th{font-weight:600;color:var(--muted);font-size:.78rem;letter-spacing:.06em;text-transform:uppercase}
+</style>
+
+<div class="wrap">
+<header class="top">
+  <p class="eyebrow">Design exploration · embodied-AI governance database</p>
+  <h1>Five ways to show one instrument</h1>
+  <p class="lede">Each proposal renders the same database entry, built from the 39 codebook fields plus the derived fields version 4 added, for one real instrument: the EU Machinery Regulation 2023/1230. The reader is someone learning how physical AI is governed, not a lawyer. Pick the proposal, or the mix, that fits the reference tool you want.</p>
+  <div class="brief">
+    <div><b>Sample entry</b><span>Regulation (EU) 2023/1230 on machinery, collection id R2-7bb2229f. Binding, in force, robot-relevant, one of 15 binding rules that name AI.</span></div>
+    <div><b>Data shown</b><span>All 39 annotated fields, the v4 derived fields (counting unit, family, AI tiers), and context from the 195 principal binding robot rules.</span></div>
+    <div><b>What differs</b><span>Not the data but the reading order: fact sheet, passport, scorecard, questions, or lifecycle. Each ends with who it serves and what it costs.</span></div>
+  </div>
+</header>
+
+<nav class="tabs" role="tablist" aria-label="Proposals">
+  <button role="tab" data-tab="dossier" aria-selected="true"><span class="n">1</span>Dossier</button>
+  <button role="tab" data-tab="passport" aria-selected="false"><span class="n">2</span>Passport</button>
+  <button role="tab" data-tab="scorecard" aria-selected="false"><span class="n">3</span>Scorecard</button>
+  <button role="tab" data-tab="explainer" aria-selected="false"><span class="n">4</span>Questions</button>
+  <button role="tab" data-tab="lifecycle" aria-selected="false"><span class="n">5</span>Lifecycle</button>
+</nav>
+
+<!-- ===================== 1. DOSSIER ===================== -->
+<section class="proposal" id="p-dossier" data-panel="dossier">
+  <div class="phead">
+    <div>
+      <p class="eyebrow">Proposal 1</p>
+      <h2>The dossier: a one-page fact sheet</h2>
+      <p class="lede">Everything on one scrolling page in a fixed order: identity band, what it is, which machines, what it requires, how the 20 principles score, where the record came from. The order follows the seven groups of the codebook, so every entry reads the same way.</p>
+    </div>
+    <div class="verdict"><b>Who it serves</b><p>Policy analysts and students who want the whole picture of one instrument without clicking.</p>
+      <ul><li>Strength: nothing hidden; prints well; the principle grid is scannable.</li><li>Trade-off: long; a newcomer meets raw field names early; no comparison to other entries.</li></ul></div>
+  </div>
+  <div class="frame">
+    <div class="bar"><i></i><i></i><i></i> entry / R2-7bb2229f / dossier</div>
+    <div class="navyband">
+      <p class="eyebrow">Binding instrument · European Union · adopted June 2023 · in force</p>
+      <h2>Regulation (EU) 2023/1230 on machinery</h2>
+      <p class="muted">Regulation of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC and Council Directive 73/361/EEC. Official Journal L 165/1.</p>
+      <div class="badges"><span class="badge hot">Names AI explicitly</span><span class="badge">Legally binding</span><span class="badge">Robot relevance 3 of 3</span><span class="badge">Principal instrument</span><span class="badge">Autonomy provisions</span><span class="badge">Full text read (52,119 words)</span></div>
+    </div>
+    <div class="grid2" style="padding:20px">
+      <aside class="card"><h3>At a glance</h3><div class="kv" id="dossier-side"></div></aside>
+      <div style="display:flex;flex-direction:column;gap:18px;min-width:0">
+        <div class="card"><h3>In one paragraph</h3><p id="dossier-summary"></p></div>
+        <div class="card"><h3>Key provisions the model recorded</h3><ol class="prov" id="dossier-prov"></ol></div>
+        <div class="card"><h3>Which machines and sectors</h3><div class="chips" id="dossier-machines"></div><div class="chips" id="dossier-sectors"></div></div>
+        <div class="card"><h3>Governance tools it uses (8 of 19)</h3><div class="chips" id="dossier-tools"></div></div>
+        <div class="card"><h3>The 20 principles, as scored</h3>
+          <p class="legend"><span><i style="background:var(--lvl0)"></i>absent</span><span><i style="background:var(--lvl1)"></i>mentioned</span><span><i style="background:var(--lvl2)"></i>spelled out in detail</span></p>
+          <div class="heat" id="dossier-heat"></div></div>
+        <div class="card"><h3>Provenance of this record</h3><div class="kv" id="dossier-prov-kv"></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== 2. PASSPORT ===================== -->
+<section class="proposal" id="p-passport" data-panel="passport" hidden>
+  <div class="phead">
+    <div>
+      <p class="eyebrow">Proposal 2</p>
+      <h2>The passport: identity card plus four tabs</h2>
+      <p class="lede">A compact identity card never changes: name, issuer, status, scope, a machine-readable strip. The 39 fields sit behind four tabs (What it is, Where it applies, What it says, How we know), so the reader opens only the layer they need.</p>
+    </div>
+    <div class="verdict"><b>Who it serves</b><p>People scanning many instruments quickly: the card is the same shape for all 505, so the eye learns where to look.</p>
+      <ul><li>Strength: compact; consistent; the strip holds ids and hashes for citation.</li><li>Trade-off: tabs hide content; not printable in one go; needs a click to reach the principles.</li></ul></div>
+  </div>
+  <div class="frame">
+    <div class="bar"><i></i><i></i><i></i> entry / R2-7bb2229f / passport</div>
+    <div class="passport">
+      <div class="idcard">
+        <p class="eyebrow">Instrument passport</p>
+        <p class="big">EU Machinery Regulation 2023/1230</p>
+        <div class="kv">
+          <div><dt>Issuer</dt><dd>European Parliament and Council</dd></div>
+          <div><dt>Kind</dt><dd>Statute or act · legally binding</dd></div>
+          <div><dt>Status</dt><dd><span class="chip ok">In force</span></dd></div>
+          <div><dt>Scope</dt><dd>Supranational (EU, 27 states)</dd></div>
+          <div><dt>Adopted</dt><dd>June 2023 (date stated in document)</dd></div>
+          <div><dt>Language</dt><dd>English (one of 24 official versions)</dd></div>
+          <div><dt>Robots</dt><dd>Industrial arms first; 5 types tagged</dd></div>
+          <div><dt>AI</dt><dd>General machinery law with AI and autonomy provisions</dd></div>
+        </div>
+        <p class="mrz">R2-7BB2229F&lt;&lt;EU&lt;&lt;2023&lt;&lt;BINDING&lt;&lt;INFORCE&lt;&lt;REL3<br>CELEX 32023R1230 · MODEL SONNET-5-5 · PROMPT 8D4D83E909F0 · CONF 0.90</p>
+      </div>
+      <div style="min-width:0">
+        <div class="subtabs" role="tablist" aria-label="Passport sections">
+          <button role="tab" data-sub="what" aria-selected="true">What it is</button>
+          <button role="tab" data-sub="where" aria-selected="false">Where it applies</button>
+          <button role="tab" data-sub="says" aria-selected="false">What it says</button>
+          <button role="tab" data-sub="know" aria-selected="false">How we know</button>
+        </div>
+        <div class="panel" data-subpanel="what">
+          <p id="pp-summary" style="color:var(--fg2)"></p>
+          <div class="kv" id="pp-what"></div>
+        </div>
+        <div class="panel" data-subpanel="where" hidden><div class="kv" id="pp-where"></div>
+          <p class="gap">Not in the 39 fields: whom the rule binds (manufacturers, importers, distributors) and the date it applies from (20 January 2027). The v3 review recommended adding both; a database would carry them as new columns.</p></div>
+        <div class="panel" data-subpanel="says" hidden>
+          <div class="chips" id="pp-topics"></div>
+          <div class="heat" id="pp-heat"></div>
+          <div class="kv" id="pp-says"></div>
+        </div>
+        <div class="panel" data-subpanel="know" hidden><div class="kv" id="pp-know"></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== 3. SCORECARD ===================== -->
+<section class="proposal" id="p-scorecard" data-panel="scorecard" hidden>
+  <div class="phead">
+    <div>
+      <p class="eyebrow">Proposal 3</p>
+      <h2>The scorecard: this instrument against its peers</h2>
+      <p class="lede">The same fields, but every scored or multi-choice field is drawn against the 195 principal binding robot rules in the collection. The reader sees at once what is typical (physical safety) and what is unusual (risk tiers, transparency duties) about this instrument.</p>
+    </div>
+    <div class="verdict"><b>Who it serves</b><p>Researchers and journalists asking “is this rule unusual?”; teachers showing what a strong instrument looks like.</p>
+      <ul><li>Strength: context on every line; the marker-on-bar idiom needs no legend after the first row.</li><li>Trade-off: the peer group must be chosen and stated; identity fields become secondary; percentages invite over-reading of model labels.</li></ul></div>
+  </div>
+  <div class="frame">
+    <div class="bar"><i></i><i></i><i></i> entry / R2-7bb2229f / scorecard · peers = 195 principal binding robot rules</div>
+    <div style="padding:20px;display:flex;flex-direction:column;gap:18px">
+      <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:baseline;justify-content:space-between">
+        <div><p class="eyebrow">Binding · EU · 2023 · in force</p><h2>Regulation (EU) 2023/1230 on machinery</h2></div>
+        <p class="legend"><span><i style="background:var(--lvl1);opacity:.7"></i>share of the 195 peers that mention the item</span><span><i style="background:var(--lvl2)"></i>share that spell it out in detail</span><span>chip: this instrument’s level</span></p>
+      </div>
+      <div class="twocol">
+        <div class="card"><h3>Considerations about the body (6)</h3><div class="score" id="sc-body"></div></div>
+        <div class="card"><h3>Core ethical values (14)</h3><div class="score" id="sc-core"></div></div>
+      </div>
+      <div class="twocol">
+        <div class="card"><h3>Governance tools (19): used by this instrument, and by what share of peers</h3><div class="score" id="sc-mech"></div></div>
+        <div style="display:flex;flex-direction:column;gap:18px;min-width:0">
+          <div class="card"><h3>Where it stands out</h3><ul style="margin:0;padding-left:18px;color:var(--fg2);font-size:.95rem;display:flex;flex-direction:column;gap:6px" id="sc-standout"></ul></div>
+          <div class="card"><h3>Identity (collapsed on this view)</h3><div class="kv" id="sc-id"></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== 4. QUESTIONS ===================== -->
+<section class="proposal" id="p-explainer" data-panel="explainer" hidden>
+  <div class="phead">
+    <div>
+      <p class="eyebrow">Proposal 4</p>
+      <h2>The questions: a plain-language walk-through</h2>
+      <p class="lede">The entry is a list of the questions a newcomer actually asks, each answered in a sentence, with the raw field values shown beneath as chips. The 39 fields are all present, but grouped by question rather than by schema.</p>
+    </div>
+    <div class="verdict"><b>Who it serves</b><p>First-time readers: students, journalists, product managers who have never read a regulation.</p>
+      <ul><li>Strength: no jargon before its explanation; the raw chips teach the schema gradually.</li><li>Trade-off: the sentences are written per entry (or generated and checked); long for experts; hard to scan 500 of them.</li></ul></div>
+  </div>
+  <div class="frame">
+    <div class="bar"><i></i><i></i><i></i> entry / R2-7bb2229f / questions</div>
+    <div style="padding:20px;display:flex;flex-direction:column;gap:14px">
+      <div><p class="eyebrow">A rule from the European Union, in force since 2023</p><h2>The EU’s law for machines, rewritten for the age of software that learns</h2></div>
+      <div class="qa" id="qa"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== 5. LIFECYCLE ===================== -->
+<section class="proposal" id="p-lifecycle" data-panel="lifecycle" hidden>
+  <div class="phead">
+    <div>
+      <p class="eyebrow">Proposal 5</p>
+      <h2>The lifecycle: where this instrument sits in time and among others</h2>
+      <p class="lede">The entry opens on a timeline (proposal, adoption, entry into force, application, repeal of the predecessor) and a map of relations: what it replaces, what it cites, what cites it, and the family of implementing decisions around it. The 39 fields follow as a compact ledger.</p>
+    </div>
+    <div class="verdict"><b>Who it serves</b><p>Anyone tracking change: compliance teams, legislative analysts, people who ask “is this still the law?”</p>
+      <ul><li>Strength: status and dates become visible facts, not labels; relations turn 505 entries into a network.</li><li>Trade-off: dates beyond adoption are not in the codebook today (application date, repeal date) and must be added; the relation graph depends on the citation field, which the model fills unevenly.</li></ul></div>
+  </div>
+  <div class="frame">
+    <div class="bar"><i></i><i></i><i></i> entry / R2-7bb2229f / lifecycle</div>
+    <div style="padding:20px;display:flex;flex-direction:column;gap:20px">
+      <div><p class="eyebrow">Binding · EU · in force · replaces the 2006 Machinery Directive</p><h2>Regulation (EU) 2023/1230 on machinery</h2></div>
+      <div class="twocol">
+        <div class="card"><h3>Timeline</h3>
+          <div class="timeline">
+            <div class="ev"><span class="when">17 May 2006</span><b>Machinery Directive 2006/42/EC adopted</b><span style="color:var(--fg2);font-size:.9rem">The predecessor, still in force today. In the collection as R2-80171de4.</span></div>
+            <div class="ev"><span class="when">April 2021</span><b>Commission proposal for a Machinery Regulation</b><span style="color:var(--fg2);font-size:.9rem">In the collection as a proposal, now marked superseded by the adopted act.</span></div>
+            <div class="ev hot"><span class="when">14 June 2023</span><b>Regulation (EU) 2023/1230 adopted</b><span style="color:var(--fg2);font-size:.9rem">The date the codebook records (pub_year 2023, pub_month 6, stated in the document).</span></div>
+            <div class="ev"><span class="when">19 July 2023</span><b>Entry into force</b><span style="color:var(--fg2);font-size:.9rem">Status field: in_force.</span></div>
+            <div class="ev future"><span class="when">20 January 2027</span><b>Applies; Directive 2006/42/EC repealed</b><span style="color:var(--fg2);font-size:.9rem">Not a codebook field. Added here from the regulation’s own Article 54; a database would store it as applicability_date.</span></div>
+          </div>
+        </div>
+        <div style="display:flex;flex-direction:column;gap:14px;min-width:0">
+          <div class="rel">
+            <div class="card"><h3>Replaces</h3><ul><li>Directive 2006/42/EC (machinery)</li><li>Directive 73/361/EEC (lifting gear)</li></ul></div>
+            <div class="card"><h3>Cites</h3><ul><li>EU AI Act</li><li>GDPR</li><li>Itself (the EU Machinery Regulation)</li></ul></div>
+            <div class="card"><h3>Cited by</h3><ul><li>74 documents in the collection name the Machinery Regulation</li></ul></div>
+          </div>
+          <div class="card"><h3>Family and neighbours in the collection</h3>
+            <ul style="margin:0;padding-left:18px;font-size:.9rem;color:var(--fg2);display:flex;flex-direction:column;gap:4px">
+              <li>Family size 1: no amendments or renewals yet (field family_size).</li>
+              <li>Eleven Commission decisions on harmonised machinery standards (2015 to 2026) sit beside it; the 2026 decision harmonises ISO 10218-1 and -2:2025, the industrial-robot safety standards.</li>
+              <li>A 2024 Commission web page about the Directive and the Regulation is in the collection as a catalogue page, not an instrument.</li>
+            </ul></div>
+          <p class="gap">Counting note: this entry counts once as a principal instrument. The eleven standards decisions are ancillary texts and the web page is a catalogue page; none of them enters the headline counts.</p>
+        </div>
+      </div>
+      <div class="card"><h3>The 39 fields, as a ledger</h3><div class="ledger" id="ledger"></div></div>
+    </div>
+  </div>
+</section>
+
+<section class="proposal" id="p-compare">
+  <p class="eyebrow">Side by side</p>
+  <h2>Choosing between them</h2>
+  <div class="compare"><table>
+    <tr><th>Proposal</th><th>Reading order</th><th>Best for</th><th>Needs beyond the 39 fields</th><th>Works for 500 entries?</th></tr>
+    <tr><td><b>1 Dossier</b></td><td>Schema order, all at once</td><td>Deep reading of one rule; printing</td><td>Nothing</td><td>Yes, but each page is long</td></tr>
+    <tr><td><b>2 Passport</b></td><td>Identity first, layers on demand</td><td>Scanning many rules</td><td>Nothing; two recommended new fields fit the Where tab</td><td>Yes, the card is uniform</td></tr>
+    <tr><td><b>3 Scorecard</b></td><td>Content first, against peers</td><td>Judging whether a rule is unusual</td><td>A stated peer group and its shares</td><td>Yes; peers recomputed per filter</td></tr>
+    <tr><td><b>4 Questions</b></td><td>Newcomer’s questions</td><td>Learning the subject</td><td>A written or generated sentence per question, checked</td><td>Costly to write; easy to read</td></tr>
+    <tr><td><b>5 Lifecycle</b></td><td>Time and relations first</td><td>Tracking change and dependencies</td><td>Application and repeal dates; a resolved citation graph</td><td>Yes, once relations are resolved</td></tr>
+  </table></div>
+  <p class="lede">A practical combination: the passport card as the list item and page header, the questions as the default body for newcomers, with the scorecard and lifecycle as two further tabs. The dossier then becomes the print view.</p>
+</section>
+
+<footer class="note">All values are the version-4 labels for document R2-7bb2229f, produced by Claude Sonnet 5.5 under prompt 8d4d83e909f0 with the metadata-blind extended-excerpt policy, confidence 0.90, and audited in the v3 review. Peer shares are computed over the 195 principal binding instruments in the embodied set. Dates after adoption (entry into force, application) come from the regulation’s text, not from the codebook, and are marked as such wherever they appear. <a href="https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA">← Back to the project hub</a></footer>
+</div>
+
+<script>
+const D = {
+  id:"R2-7bb2229f",
+  summary:"EU Machinery Regulation 2023/1230 replaces the Machinery Directive 2006/42/EC. It sets essential health and safety requirements for machinery, related products and partly completed machinery. It extends coverage to digital safety risks, including self-evolving behaviour, autonomy and cybersecurity. It requires third-party conformity assessment for machine-learning safety systems and sets out economic operators’ obligations and market surveillance.",
+  provisions:[
+    "Replaces Directive 2006/42/EC with a directly applicable regulation covering machinery, related products and partly completed machinery.",
+    "Safety components include software; systems with self-evolving behaviour ensuring safety functions require third-party conformity assessment (Annex I).",
+    "Risk assessment must cover evolving behaviour and varying levels of autonomy, plus interactions in coordinated machinery.",
+    "Manufacturers must protect against malicious third-party corruption affecting safety and make source code available to authorities on request.",
+    "Substantial modification by physical or digital means triggers a new conformity assessment; Member States must set penalties."],
+  groups:[
+    ["Who wrote it and when",[
+      ["title_clean","Title, cleaned","Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 on machinery and repealing Directive 2006/42/EC and Council Directive 73/361/EEC"],
+      ["title_en","Title in English","Regulation (EU) 2023/1230 on machinery and repealing Directive 2006/42/EC and Council Directive 73/361/EEC"],
+      ["language","Language","en"],
+      ["authors_or_issuer","Author or issuer","European Parliament and Council of the European Union"],
+      ["issuer_type","Kind of issuer","intergovernmental_org"],
+      ["pub_year","Year","2023"],["pub_month","Month","6"],["date_basis","Date basis","stated_in_document"],
+      ["doi","DOI","null"],["venue","Venue","Official Journal of the European Union, L 165/1"]]],
+    ["Where it applies",[
+      ["jurisdiction_country","Jurisdiction","EU"],["jurisdiction_scope","Scope","supranational_regional"],["countries_discussed","Countries discussed","EU"]]],
+    ["What kind of document",[
+      ["doc_type","Document type","statute_or_act"],["doc_class","Document class","governance_instrument_binding"],["is_governance_document","Governance document","true"],
+      ["instrument_status","Status","in_force"],["binding_nature","Binding nature","legally_binding"],["publication_stage","Publication stage","not_applicable"]]],
+    ["AI and machines",[
+      ["ai_scope","AI scope","general_ai_with_embodied_provisions"],["embodiment_status","Embodiment","physical_embodied"],
+      ["embodied_categories","Robot types","industrial_manipulators; collaborative_robots; mobile_industrial_logistics; professional_service_robots; other_embodied"],
+      ["primary_embodied_category","Main robot type","industrial_manipulators"],
+      ["application_sectors","Sectors","manufacturing; construction; agriculture_food; cross_sector"]]],
+    ["What it says",[
+      ["governance_topics","Topics","safety_physical_harm; certification_conformity_assessment; standards_interoperability; risk_management_risk_tiers; cybersecurity; consumer_protection; human_oversight_control; transparency_explainability"],
+      ["primary_topic","Main topic","safety_physical_harm"],
+      ["principles","Principles (20)","scored 0/1/2, see grid"],
+      ["governance_mechanisms","Tools","risk_based_tiering; conformity_assessment_certification; technical_standards_reference; transparency_disclosure_labelling; incident_reporting; oversight_body_creation; audits_impact_assessment; licensing_registration"],
+      ["named_instruments_referenced","Instruments cited","EU AI Act; EU Machinery Regulation; GDPR"],
+      ["robot_legal_personhood_position","Personhood position","not_discussed"],["risk_framing","Risk framing","risk_based"]]],
+    ["Stance and method",[
+      ["stance_toward_regulation","Stance toward regulation","not_applicable"],["methodology","Methodology","not_applicable"],["faith_or_religious_perspective","Faith perspective","false"]]],
+    ["Quality of the reading",[
+      ["page_quality","Page quality","substantive_document"],["relevance_to_embodied_ai_governance","Relevance (0 to 3)","3"],
+      ["summary_en","Summary","(shown above)"],["key_provisions_or_claims","Key provisions","5 items"],["confidence","Confidence","0.90"]]]
+  ],
+  derived:[["instrument_unit","Counting unit","principal (amendment flag set; counts once)"],["family_size","Family size","1"],["ai_explicit","Names AI explicitly","yes"],["autonomy_terms","Autonomy provisions in text","yes"],["collection_set","Collected in","round 2 (EUR-Lex harvest)"],["words","Words read","52,119 of 52,119 (not truncated)"]],
+  prov:[["model","Model","claude-sonnet-5-5"],["prompt_hash","Prompt hash","8d4d83e909f0"],["policy","Input policy","head 100,000 + mid 6,000 + tail 4,000 characters, metadata-blind"],["annotated_at","Annotated","2026-10-30 19:44"],["reviewed","Audited","governance expert review of v3: status corrected to in force"],["source_url","Source","eur-lex.europa.eu, CELEX 32023R1230"]],
+  // key, label, group, level, peer mention %, peer depth %
+  principles:[
+    ["physical_safety","Physical safety","body",2,89,62],["conformity_assessment_certification","Conformity assessment","body",2,70,47],
+    ["autonomy_level_control","Autonomy level and control","body",2,61,25],["liability_for_physical_damage","Liability for physical damage","body",1,33,18],
+    ["human_robot_proximity","Human-robot proximity","body",1,30,6],["dual_use_military","Dual use and military","body",0,16,4],
+    ["non_maleficence","Non-maleficence","core",2,91,25],["responsibility_accountability","Accountability","core",2,85,44],["robustness_security","Robustness and security","core",2,63,19],
+    ["human_oversight","Human oversight","core",1,64,28],["transparency","Transparency","core",1,42,3],["inclusive_growth","Inclusive growth","core",1,32,7],
+    ["beneficence","Beneficence","core",1,19,2],["sustainability","Sustainability","core",1,17,0],["trust","Trust","core",1,5,1],
+    ["privacy","Privacy","core",0,37,12],["freedom_autonomy","Freedom and autonomy","core",0,9,1],["justice_fairness","Justice and fairness","core",0,7,2],
+    ["dignity","Dignity","core",0,3,1],["solidarity","Solidarity","core",0,3,0]],
+  // key, label, used here, peer %
+  mechanisms:[
+    ["licensing_registration","Licensing and registration",true,76],["technical_standards_reference","Reference to technical standards",true,59],
+    ["conformity_assessment_certification","Conformity assessment",true,52],["incident_reporting","Incident reporting",true,41],
+    ["oversight_body_creation","Oversight body",true,41],["audits_impact_assessment","Audits and impact assessment",true,40],
+    ["prohibitions_bans","Prohibitions and bans",false,32],["human_oversight_requirement","Human-oversight requirement",false,32],
+    ["insurance_requirement","Insurance requirement",false,25],["education_training_programs","Education and training",false,22],
+    ["testing_sandboxes","Testing and sandboxes",false,21],["risk_based_tiering","Risk-based tiering",true,20],
+    ["transparency_disclosure_labelling","Transparency and labelling duties",true,20],["data_governance_requirements","Data governance",false,18],
+    ["liability_regime","Liability regime",false,17],["international_cooperation","International cooperation",false,12],
+    ["funding_or_incentives","Funding or incentives",false,10],["self_regulation_codes","Self-regulation codes",false,2],["none","No mechanism",false,2]],
+  machines:["Industrial manipulators (main)","Collaborative robots","Mobile industrial and logistics robots","Professional service robots","Other embodied"],
+  sectors:["Manufacturing","Construction","Agriculture and food","Cross-sector"],
+  tools:["Risk-based tiering","Conformity assessment","Reference to technical standards","Transparency and labelling","Incident reporting","Oversight body","Audits and impact assessment","Licensing and registration"]
+};
+const esc = s => String(s).replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+function kv(el, rows, raw){
+  el.innerHTML = rows.map(r => `<div><dt>${esc(r[1])}</dt><dd>${esc(r[2])}${raw?` <code>${esc(r[0])}</code>`:''}</dd></div>`).join('');
+}
+function heat(el){
+  el.innerHTML = D.principles.map(p => `<div class="l${p[3]}"><b>${p[2]==='body'?'body':'value'}</b><span>${esc(p[1])}</span></div>`).join('');
+}
+function chips(el, arr, cls){ el.innerHTML = arr.map(a => `<span class="chip ${cls||''}">${esc(a)}</span>`).join(''); }
+// 1 dossier
+kv(document.getElementById('dossier-side'), [["", "Collection id", D.id],["","Issuer","European Parliament and Council"],["","Kind","statute_or_act · legally_binding"],["","Status","in_force"],["","Jurisdiction","EU · supranational_regional"],["","Adopted","June 2023 (stated in document)"],["","Language","en"],["","AI scope","general AI with embodied provisions"],["","Embodiment","physical_embodied"],["","Relevance","3 of 3"],["","Page quality","substantive_document"],["","Counting unit","principal instrument, family of 1"],["","AI tiers","names AI; autonomy provisions"]]);
+document.getElementById('dossier-summary').textContent = D.summary;
+document.getElementById('dossier-prov').innerHTML = D.provisions.map(p=>`<li>${esc(p)}</li>`).join('');
+chips(document.getElementById('dossier-machines'), D.machines, 'ok');
+chips(document.getElementById('dossier-sectors'), D.sectors);
+chips(document.getElementById('dossier-tools'), D.tools, 'acc');
+heat(document.getElementById('dossier-heat'));
+kv(document.getElementById('dossier-prov-kv'), D.prov);
+// 2 passport
+document.getElementById('pp-summary').textContent = D.summary;
+kv(document.getElementById('pp-what'), D.groups[0][1].concat(D.groups[2][1]), true);
+kv(document.getElementById('pp-where'), D.groups[1][1].concat(D.groups[3][1]), true);
+chips(document.getElementById('pp-topics'), ["Safety and physical harm (main)","Certification and conformity","Standards and interoperability","Risk management and tiers","Cybersecurity","Consumer protection","Human oversight and control","Transparency and explainability"]);
+heat(document.getElementById('pp-heat'));
+kv(document.getElementById('pp-says'), D.groups[4][1].concat(D.groups[5][1]), true);
+kv(document.getElementById('pp-know'), D.groups[6][1].concat(D.derived, D.prov), true);
+// 3 scorecard
+function scoreRows(list, body){
+  return list.filter(p => (p[2]==='body')===body).map(p => {
+    const lv = ['absent','mentioned','in detail'][p[3]];
+    return `<div class="row"><span>${esc(p[1])}</span><div class="track" title="peers: ${p[4]}% mention, ${p[5]}% in detail"><div class="ctx" style="width:${p[4]}%"></div><div class="ctx2" style="width:${p[5]}%"></div></div><span class="lv"><b class="l${p[3]}">${lv}</b></span></div>`;
+  }).join('');
+}
+document.getElementById('sc-body').innerHTML = scoreRows(D.principles, true);
+document.getElementById('sc-core').innerHTML = scoreRows(D.principles, false);
+document.getElementById('sc-mech').innerHTML = D.mechanisms.map(m => `<div class="row"><span>${esc(m[1])}</span><div class="track" title="${m[3]}% of peers use it"><div class="ctx" style="width:${m[3]}%"></div></div><span class="lv">${m[2]?'<b class="used">used</b>':'not used'} · ${m[3]}%</span></div>`).join('');
+document.getElementById('sc-standout').innerHTML = [
+  "Spells out autonomy-level control in detail, as only 25% of binding robot rules do.",
+  "Uses risk-based tiering and transparency duties, each used by 20% of peers: the toolkit of AI law applied to machines.",
+  "Names AI explicitly: 15 of the 195 peers do.",
+  "Silent on privacy, fairness and dignity, like most machine-class rules; the model scored them absent.",
+  "Typical on physical safety and conformity assessment (89% and 70% of peers mention them)."].map(s=>`<li>${esc(s)}</li>`).join('');
+kv(document.getElementById('sc-id'), [["","Issuer","European Parliament and Council"],["","Kind","statute_or_act, legally binding, in force"],["","Jurisdiction","EU, supranational"],["","Adopted","June 2023"],["","Main robot type","industrial manipulators"],["","Confidence","0.90"]]);
+// 4 questions
+const QA = [
+  ["Who made this rule, and does it have legal force?","The European Parliament and the Council of the European Union adopted it in June 2023. It is a regulation, which in EU law applies directly in all 27 member states without national transposition, so it is legally binding.",[["issuer_type","intergovernmental_org"],["doc_type","statute_or_act"],["binding_nature","legally_binding"],["jurisdiction_scope","supranational_regional"],["pub_year","2023"],["pub_month","6"]]],
+  ["Is it in force right now?","Yes. It entered into force in July 2023. Its obligations apply from 20 January 2027, when it replaces the 2006 Machinery Directive, which stays in force until then. The codebook records the status; the application date is not a codebook field.",[["instrument_status","in_force"],["publication_stage","not_applicable"],["date_basis","stated_in_document"]]],
+  ["Is it about AI, or about machines?","Both. It is a general law for machinery that now includes provisions on software, self-learning behaviour and autonomy. The model classed it as general AI with embodied provisions and rated its relevance to robot governance 3 out of 3.",[["ai_scope","general_ai_with_embodied_provisions"],["embodiment_status","physical_embodied"],["relevance_to_embodied_ai_governance","3"]]],
+  ["Which machines does it cover?","Industrial robot arms first, then collaborative robots, mobile logistics robots, professional service robots and other embodied systems, in manufacturing, construction, agriculture and across sectors.",[["embodied_categories","industrial_manipulators; collaborative_robots; mobile_industrial_logistics; professional_service_robots; other_embodied"],["primary_embodied_category","industrial_manipulators"],["application_sectors","manufacturing; construction; agriculture_food; cross_sector"]]],
+  ["What does it require?","Essential health and safety requirements before a machine can be sold; third-party testing for safety systems that learn or evolve; risk assessment that covers autonomy; protection against malicious tampering; source code available to authorities on request; a new assessment after substantial modification; penalties set by member states.",[["governance_mechanisms","risk_based_tiering; conformity_assessment_certification; technical_standards_reference; transparency_disclosure_labelling; incident_reporting; oversight_body_creation; audits_impact_assessment; licensing_registration"],["governance_topics","safety_physical_harm; certification_conformity_assessment; standards_interoperability; risk_management_risk_tiers; cybersecurity; consumer_protection; human_oversight_control; transparency_explainability"],["primary_topic","safety_physical_harm"]]],
+  ["Which concerns does it spell out, and which does it only mention?","Spelled out in detail: physical safety, conformity assessment, autonomy level and control, avoiding harm, accountability, robustness and security. Mentioned: liability for damage, proximity to people, human oversight, transparency, trust, sustainability, inclusive growth, beneficence. Absent: privacy, fairness, dignity, solidarity, freedom, dual use.",[["principles","6 in detail · 8 mentioned · 6 absent"],["risk_framing","risk_based"],["robot_legal_personhood_position","not_discussed"]]],
+  ["How does it relate to other rules?","It replaces the Machinery Directive 2006/42/EC and the 1973 lifting-gear directive, and it cites the EU AI Act and the GDPR. Seventy-four documents in the collection cite it.",[["named_instruments_referenced","EU AI Act; EU Machinery Regulation; GDPR"],["countries_discussed","EU"]]],
+  ["Does it take a position, or use a method?","No. These fields apply to research papers and commentary: a regulation has no stance toward regulation and no research method. The model marks them not applicable.",[["stance_toward_regulation","not_applicable"],["methodology","not_applicable"],["faith_or_religious_perspective","false"]]],
+  ["How good is this record?","The model read the full official text (52,119 words, nothing truncated), rated the page a substantive document and its own confidence 0.90. A governance expert later checked the status label. The title, language, DOI and venue fields identify the source.",[["page_quality","substantive_document"],["confidence","0.90"],["language","en"],["doi","null"],["venue","Official Journal of the European Union, L 165/1"],["title_clean","Regulation (EU) 2023/1230 of the European Parliament and of the Council of 14 June 2023 …"],["title_en","Regulation (EU) 2023/1230 on machinery …"],["authors_or_issuer","European Parliament and Council of the European Union"],["is_governance_document","true"],["jurisdiction_country","EU"],["summary_en","(the paragraph in proposal 1)"],["key_provisions_or_claims","5 items"]]]
+];
+document.getElementById('qa').innerHTML = QA.map((q,i)=>`<details ${i<2?'open':''}><summary>${esc(q[0])}</summary><div class="ans"><p>${esc(q[1])}</p><div class="raw"><span>fields:</span>${q[2].map(r=>`<span class="chip raw" title="${esc(r[1])}">${esc(r[0])} = ${esc(r[1].length>48?r[1].slice(0,46)+'…':r[1])}</span>`).join('')}</div></div></details>`).join('');
+// 5 ledger
+document.getElementById('ledger').innerHTML = D.groups.map(g => `<div class="group"><h4>${esc(g[0])} (${g[1].length})</h4>${g[1].map(r=>`<div><span>${esc(r[0])}</span><span>${esc(r[2])}</span></div>`).join('')}</div>`).join('') + `<div class="group"><h4>Derived in v4 (${D.derived.length})</h4>${D.derived.map(r=>`<div><span>${esc(r[0])}</span><span>${esc(r[2])}</span></div>`).join('')}</div>`;
+// tabs
+const tabs=[...document.querySelectorAll('nav.tabs button')], panels=[...document.querySelectorAll('section[data-panel]')];
+function show(name){
+  if(!panels.some(p=>p.dataset.panel===name)) name='dossier';
+  tabs.forEach(b=>b.setAttribute('aria-selected', String(b.dataset.tab===name)));
+  panels.forEach(p=>p.hidden = p.dataset.panel!==name);
+}
+tabs.forEach(b=>b.addEventListener('click',()=>{ show(b.dataset.tab); try{ history.replaceState(null,'','#'+b.dataset.tab); }catch(e){} }));
+window.addEventListener('hashchange',()=>show(location.hash.slice(1)));
+show(location.hash.slice(1)||'dossier');
+const subs=[...document.querySelectorAll('.subtabs button')], subpanels=[...document.querySelectorAll('[data-subpanel]')];
+subs.forEach(b=>b.addEventListener('click',()=>{ subs.forEach(x=>x.setAttribute('aria-selected',String(x===b))); subpanels.forEach(p=>p.hidden=p.dataset.subpanel!==b.dataset.sub); }));
+</script>
