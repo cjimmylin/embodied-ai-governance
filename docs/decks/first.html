@@ -1,0 +1,565 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Who governs the robots? First deck (23 slides)</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600&display=swap"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+*{box-sizing:border-box} html,body{margin:0;padding:0;background:#0b0b0d;height:100%;overflow:hidden;font-family:'IBM Plex Sans',Inter,Arial,sans-serif}
+#stage{position:fixed;inset:0 0 40px 0}
+#frame{width:1920px;height:1080px;position:absolute;left:50%;top:50%;transform-origin:center center;box-shadow:0 20px 80px rgba(0,0,0,.6)}
+.slide{position:absolute;left:0;top:0;width:1920px;height:1080px;display:none} .slide.on{display:block}
+section{width:1920px;height:1080px;position:relative;overflow:hidden}
+h1,h2,h3,p{margin:0} h1{font-size:96px;font-weight:600;line-height:1.1} h2{font-size:64px;font-weight:600;line-height:1.15} h3{font-size:44px;font-weight:600;line-height:1.2} p{font-size:32px;line-height:1.4}
+ul,ol{margin:0;padding-left:34px;line-height:1.4} li{padding:2px 0}
+table{border-collapse:collapse} th,td{padding:0.35em 0.6em;border-bottom:1px solid rgba(27,42,65,0.15);vertical-align:top} th{font-weight:600}
+img{display:block} a{color:inherit;text-decoration:none}
+#bar{position:fixed;left:0;right:0;bottom:0;display:flex;justify-content:space-between;align-items:center;gap:12px;padding:8px 14px;color:#cfcfd4;font-size:13px;background:rgba(0,0,0,.55)}
+#bar a{color:#f2c37e} #bar button{font:inherit;color:#eee;background:#222;border:1px solid #444;border-radius:4px;padding:4px 10px;cursor:pointer}
+#bar .hint{color:#8a8a92}
+</style></head><body>
+<div id="stage"><div id="frame">
+<div class="slide"><section id="cover" data-transition="fade" style="background:#1B2A41;color:#F7F5F0;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px;display:flex;flex-direction:column;justify-content:space-between;gap:48px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#E8A07E">A study of 3,165 documents from eight world regions</p>
+<div style="display:flex;flex-direction:column;gap:32px;width:1400px">
+<h1 style="font-family:'Source Serif 4', Georgia, serif;font-size:132px;font-weight:400;line-height:1.05">Who governs the robots?</h1>
+<p style="font-size:40px;line-height:1.3;color:#BFC8D6;width:1300px">What the world’s laws, standards and research papers say about machines that act in the physical world, explained for people who are new to the subject</p>
+</div>
+<div style="display:flex;justify-content:space-between;align-items:flex-end">
+<p style="font-size:24px;color:#BFC8D6;line-height:1.5">Centre for Enterprise Innovation (CEI), AI Robotics project<br>Version 4 of the study, 31 October 2026</p>
+<p style="font-size:24px;color:#BFC8D6;text-align:right;line-height:1.5">Collected, labelled and reviewed with AI agents; no person read every document<br>Project hub, all deliverables: claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA</p>
+</div>
+</section>
+</div><div class="slide"><section id="why" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">Why this matters</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">Why machines with bodies need their own look</h2>
+<p style="font-size:30px;line-height:1.4;color:#4A5160;width:1300px">Most writing about “AI rules” is about software: chatbots, recommendation systems, credit scoring. A robot, a drone or a self-driving car is AI with a body. When it goes wrong, the harm is physical, and the questions change.</p>
+<div style="display:grid;grid-template-columns:repeat(4, 1fr);gap:32px">
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px">
+<h3 style="font-size:32px;font-weight:600">Safety</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">Can it hurt someone? A 200 kg arm or a 1,500 kg car can.</p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px">
+<h3 style="font-size:32px;font-weight:600">Proximity</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">How close may it work to people: a factory cage, a hospital corridor, a sidewalk?</p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px">
+<h3 style="font-size:32px;font-weight:600">Liability</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">Who pays when it damages property or injures a person?</p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px">
+<h3 style="font-size:32px;font-weight:600">Autonomy</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">How much may the machine decide on its own, and when must a person step in?</p>
+</div>
+</div>
+<p style="font-size:30px;line-height:1.4;color:#4A5160;width:1300px">The study calls this <b>embodied AI</b>: robots, drones, vehicles, surgical and factory machines. It asked what rules exist for them, anywhere in the world, and what those rules actually say.</p>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Sections 1 and 2</p>
+</section>
+</div><div class="slide"><section id="questions" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">The study</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">The questions we asked</h2>
+<table style="font-size:28px;width:1664px;color:#1B2A41">
+<tr style="background:#1B2A41"><th style="width:8%;text-align:left;color:#F7F5F0">No.</th><th style="width:46%;text-align:left;color:#F7F5F0">In plain words</th><th style="width:46%;text-align:left;color:#F7F5F0">Why it is hard</th></tr>
+<tr><td>1</td><td>What rules for robots exist, and how many?</td><td>The answer changes with what you decide to count as “one rule”.</td></tr>
+<tr style="background:#FFFFFF"><td>2</td><td>Which robots are governed, and which are only studied?</td><td>Researchers and lawmakers pay attention to different machines.</td></tr>
+<tr><td>3</td><td>What makes a robot rule different from a general AI rule?</td><td>Robot rules and AI rules come from different kinds of documents.</td></tr>
+<tr style="background:#FFFFFF"><td>4</td><td>Do regions of the world differ?</td><td>Each region’s documents are a different mix of papers, laws and standards.</td></tr>
+<tr><td>5</td><td>What is changing over time?</td><td>Old laws are amended; dates can mislead.</td></tr>
+<tr style="background:#FFFFFF"><td>6</td><td>Does how you search change what you find?</td><td>This question arose from the study itself. The answer is yes, a lot.</td></tr>
+</table>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Section 1</p>
+</section>
+</div><div class="slide"><section id="collection" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">How it was done</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">How the documents were collected</h2>
+<div style="display:flex;gap:32px">
+<div style="flex:1;background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:40px;display:flex;flex-direction:column;gap:16px">
+<p style="font-size:24px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:#2E6F8E">Round 1: people searching the web</p>
+<p style="font-size:28px;line-height:1.4;color:#4A5160">Eight regional teams (Africa, Asia, Europe, Latin America, Middle East, North America, Oceania, international bodies) searched for anything about robot and AI governance.</p>
+<p style="font-size:28px;line-height:1.4;color:#4A5160">They found research papers, strategies and guidelines, but few actual laws.</p>
+<p style="font-size:64px;font-weight:600;line-height:1;color:#1B2A41">1,656</p>
+<p style="font-size:26px;color:#6B7280">documents after duplicates were removed</p>
+</div>
+<div style="flex:1;background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:40px;display:flex;flex-direction:column;gap:16px">
+<p style="font-size:24px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:#2E6F8E">Round 2: AI agents searching legal databases</p>
+<p style="font-size:28px;line-height:1.4;color:#4A5160">Nine AI search agents and seven scripts queried official law databases (EU, UK, Japan, China, Australia, US, Brazil), standards catalogues and treaty archives for the laws the first round missed.</p>
+<p style="font-size:28px;line-height:1.4;color:#4A5160">2,075 candidates, 1,720 texts obtained, 1,626 usable.</p>
+<p style="font-size:64px;font-weight:600;line-height:1;color:#1B2A41">1,641</p>
+<p style="font-size:26px;color:#6B7280">documents added to the collection</p>
+</div>
+<div style="width:420px;background:#1B2A41;border-radius:16px;padding:40px;display:flex;flex-direction:column;gap:16px;color:#F7F5F0">
+<p style="font-size:24px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:#E8A07E">Together</p>
+<p style="font-size:72px;font-weight:600;line-height:1">3,295</p>
+<p style="font-size:26px;line-height:1.4;color:#BFC8D6">documents, 3,165 with enough readable text to use</p>
+<p style="font-size:72px;font-weight:600;line-height:1">116</p>
+<p style="font-size:26px;line-height:1.4;color:#BFC8D6">countries, plus the EU and international standards bodies</p>
+<p style="font-size:26px;line-height:1.4;color:#BFC8D6">75% in English; Chinese is the second language</p>
+</div>
+</div>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Section 3; round-2 companion report, Figure 50</p>
+</section>
+</div><div class="slide"><section id="labelling" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">How it was done</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">How the documents were labelled</h2>
+<div style="display:flex;gap:48px">
+<div style="flex:1;display:flex;flex-direction:column;gap:24px">
+<p style="font-size:30px;line-height:1.4;color:#4A5160">An AI model (Claude) read every document against a fixed questionnaire of 39 fields, the same for all 3,295 documents: What kind of document is this? Is it legally binding? Which machines does it cover? Which safety and ethics topics does it mention, and which does it spell out in detail?</p>
+<p style="font-size:30px;line-height:1.4;color:#4A5160">The model saw only the text, not the collector’s notes, so it could not be steered by a label someone had already given.</p>
+<p style="font-size:30px;line-height:1.4;color:#1B2A41"><b>No person read or labelled any document.</b> The collectors in round 2, the reviewers of earlier drafts and the auditor were also AI agents. Treat every label as consistent, not certified.</p>
+</div>
+<div style="width:720px;background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:40px;display:flex;flex-direction:column;gap:20px">
+<h3 style="font-size:32px;font-weight:600">How consistent are the labels?</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">Agreement is measured with kappa: 0 means two readers agree no more than chance, 1 means they always agree. Above 0.8 is usually called strong.</p>
+<table style="font-size:26px;width:640px">
+<tr style="background:#F7F5F0"><th style="width:60%;text-align:left">Check (160 documents each)</th><th style="width:20%;text-align:right">Round 1</th><th style="width:20%;text-align:right">Round 2</th></tr>
+<tr><td>A second, different model</td><td style="text-align:right">0.85</td><td style="text-align:right">0.86</td></tr>
+<tr><td>The same model, run again</td><td style="text-align:right">0.91</td><td style="text-align:right">0.91</td></tr>
+</table>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">Weakest fields: judging page quality, a document’s stance toward regulation, and whether a law is still in force.</p>
+</div>
+</div>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Sections 4 and 5.8; supplement S4.7</p>
+</section>
+</div><div class="slide"><section id="fields" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:28px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">How it was done</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:56px;font-weight:400;line-height:1.1">The 39 questions asked of every document</h2>
+<div style="display:grid;grid-template-columns:repeat(3, 1fr);gap:40px">
+<div style="display:flex;flex-direction:column;gap:16px">
+<h3 style="font-size:26px;font-weight:600;color:#2E6F8E">Who wrote it and when (10)</h3>
+<ul style="font-size:24px;line-height:1.3;color:#4A5160">
+<li>Title, cleaned</li>
+<li>Title in English</li>
+<li>Language of the text</li>
+<li>Author or issuing body</li>
+<li>Kind of issuer (16 kinds)</li>
+<li>Year of publication</li>
+<li>Month of publication</li>
+<li>Where the date comes from (3 options)</li>
+<li>DOI, for research papers</li>
+<li>Journal or venue</li>
+</ul>
+<h3 style="font-size:26px;font-weight:600;color:#2E6F8E">Stance and method (3)</h3>
+<ul style="font-size:24px;line-height:1.3;color:#4A5160">
+<li>Stance toward regulation (5 options)</li>
+<li>Research method, if a study (9 kinds)</li>
+<li>Faith or religious perspective (yes or no)</li>
+</ul>
+</div>
+<div style="display:flex;flex-direction:column;gap:16px">
+<h3 style="font-size:26px;font-weight:600;color:#2E6F8E">Where it applies (3)</h3>
+<ul style="font-size:24px;line-height:1.3;color:#4A5160">
+<li>Country or body it belongs to</li>
+<li>Scope: local, national, regional, global (5)</li>
+<li>Other countries it discusses</li>
+</ul>
+<h3 style="font-size:26px;font-weight:600;color:#2E6F8E">What kind of document (6)</h3>
+<ul style="font-size:24px;line-height:1.3;color:#4A5160">
+<li>Document type (28 types)</li>
+<li>Document class (8 classes)</li>
+<li>Is it a governance document? (yes or no)</li>
+<li>Status: proposed, in force, repealed … (11 states)</li>
+<li>Binding nature (5 options)</li>
+<li>Publication stage (7 stages)</li>
+</ul>
+<h3 style="font-size:26px;font-weight:600;color:#2E6F8E">Quality of the reading (5)</h3>
+<ul style="font-size:24px;line-height:1.3;color:#4A5160">
+<li>Page quality: full text, excerpt, index page … (5)</li>
+<li>Relevance to embodied AI (0 to 3)</li>
+<li>Summary in English</li>
+<li>Key provisions or claims</li>
+<li>The model’s own confidence (0 to 1)</li>
+</ul>
+</div>
+<div style="display:flex;flex-direction:column;gap:16px">
+<h3 style="font-size:26px;font-weight:600;color:#2E6F8E">AI and machines (5)</h3>
+<ul style="font-size:24px;line-height:1.3;color:#4A5160">
+<li>AI scope: general AI, robots, not AI … (5)</li>
+<li>Embodiment status (4 options)</li>
+<li>Robot types mentioned (23 types in 7 groups)</li>
+<li>Main robot type</li>
+<li>Sectors of application (16 sectors)</li>
+</ul>
+<h3 style="font-size:26px;font-weight:600;color:#2E6F8E">What it says (7)</h3>
+<ul style="font-size:24px;line-height:1.3;color:#4A5160">
+<li>Governance topics (27 topics)</li>
+<li>Main topic</li>
+<li>20 principles, each scored absent, mentioned or spelled out (14 ethical values, 6 about the body)</li>
+<li>Governance tools used (19 tools)</li>
+<li>Other laws or standards it cites</li>
+<li>Position on legal personhood for robots (4)</li>
+<li>How it frames risk (7 framings)</li>
+</ul>
+</div>
+</div>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: codebook and annotation schema (supplement S2); every field has a fixed list of allowed answers where a count is given</p>
+</section>
+</div><div class="slide"><section id="vocabulary" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">Before the numbers</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">Five words you need</h2>
+<table style="font-size:28px;width:1664px;color:#1B2A41">
+<tr style="background:#1B2A41"><th style="width:22%;text-align:left;color:#F7F5F0">Word</th><th style="width:40%;text-align:left;color:#F7F5F0">What it means here</th><th style="width:38%;text-align:left;color:#F7F5F0">Example</th></tr>
+<tr><td><b>Instrument</b></td><td>Any official text meant to steer conduct, from a statute to a voluntary guideline.</td><td>A drone regulation; a national AI strategy; a safety standard.</td></tr>
+<tr style="background:#FFFFFF"><td><b>Binding</b></td><td>Has legal force. You can be fined or stopped for ignoring it.</td><td>The EU Machinery Regulation; Japan’s Road Traffic Act.</td></tr>
+<tr><td><b>Soft law</b></td><td>Guidance, strategies and standards. Followed by choice or by contract, not by law.</td><td>The OECD AI Principles; ISO 10218 for industrial robots.</td></tr>
+<tr style="background:#FFFFFF"><td><b>Principal instrument</b></td><td>A law or regulation counted once, with its amendments, without its paperwork.</td><td>Paperwork not counted: commencement orders, fee rules, exemptions, corrigenda, index pages, stubs under 150 words.</td></tr>
+<tr><td><b>Embodied set</b></td><td>The documents the model judged to be about AI in a body, or tagged with a robot type.</td><td>1,603 of the 3,165 usable documents; 505 of them are principal instruments.</td></tr>
+</table>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">Every number on the following slides says which of these it is counting. That turns out to matter more than anything else in the study.</p>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Section 3 (counting unit, construct and capture tier)</p>
+</section>
+</div><div class="slide"><section id="ladder" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">Counting</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">How many rules there are depends on how you count</h2>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">One collection, read under successively stricter definitions. Each bar is a count of binding texts in the embodied set; the bar length is proportional to the count.</p>
+<div style="display:flex;flex-direction:column;gap:14px">
+<div style="display:flex;align-items:center;gap:24px"><p style="width:560px;font-size:26px;line-height:1.3;color:#4A5160">Every binding legal text, paperwork included</p><div style="width:1000px;height:48px;background:#BFC8D6;border-radius:6px"></div><p style="font-size:30px;font-weight:600;width:80px;text-align:right">291</p></div>
+<div style="display:flex;align-items:center;gap:24px"><p style="width:560px;font-size:26px;line-height:1.3;color:#4A5160">Principal instruments (paperwork removed)</p><div style="width:670px;height:48px;background:#2E6F8E;border-radius:6px"></div><p style="font-size:30px;font-weight:600;width:80px;text-align:right">195</p></div>
+<div style="display:flex;align-items:center;gap:24px"><p style="width:560px;font-size:26px;line-height:1.3;color:#4A5160">… rated genuinely about robots</p><div style="width:577px;height:48px;background:#2E6F8E;border-radius:6px"></div><p style="font-size:30px;font-weight:600;width:80px;text-align:right">168</p></div>
+<div style="display:flex;align-items:center;gap:24px"><p style="width:560px;font-size:26px;line-height:1.3;color:#4A5160">… whose text contains any autonomy or AI provision</p><div style="width:481px;height:48px;background:#2E6F8E;border-radius:6px"></div><p style="font-size:30px;font-weight:600;width:80px;text-align:right">140</p></div>
+<div style="display:flex;align-items:center;gap:24px"><p style="width:560px;font-size:26px;line-height:1.3;color:#4A5160">… that name artificial intelligence explicitly</p><div style="width:52px;height:48px;background:#C8552B;border-radius:6px"></div><p style="font-size:30px;font-weight:600;width:80px;text-align:right">15</p></div>
+</div>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">The 96 texts that leave between the first two rows are commencement orders, levies, exemptions, index pages, duplicates and stubs: the way legal databases expose one regime as many entries.</p>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Table 53b</p>
+</section>
+</div><div class="slide"><section id="fifteen" data-transition="fade" style="background:#C8552B;color:#F7F5F0;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px;display:flex;flex-direction:column;justify-content:center;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#F7F5F0">The number to remember</p>
+<div style="display:flex;align-items:flex-end;gap:48px">
+<p style="font-family:'Source Serif 4', Georgia, serif;font-size:360px;font-weight:600;line-height:0.9">15</p>
+<p style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.15;width:1100px">of the 195 binding rules that reach robots name artificial intelligence at all</p>
+</div>
+<p style="font-size:32px;line-height:1.4;width:1400px">The other 180 govern drones, vehicles and machines as machines. They were written for aviation, road traffic, factories and products, and reach robots because robots are also aircraft, vehicles and products.</p>
+</section>
+</div><div class="slide"><section id="origins" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">The 195 binding rules</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">Where the binding rules come from</h2>
+<div style="display:flex;gap:48px">
+<div style="flex:1;display:flex;flex-direction:column;gap:20px">
+<h3 style="font-size:30px;font-weight:600">By jurisdiction</h3>
+<div style="display:flex;align-items:center;gap:20px"><p style="width:260px;font-size:26px;color:#4A5160">United States</p><div style="width:560px;height:40px;background:#2E6F8E;border-radius:6px"></div><p style="font-size:28px;font-weight:600;width:60px">56</p></div>
+<div style="display:flex;align-items:center;gap:20px"><p style="width:260px;font-size:26px;color:#4A5160">European Union</p><div style="width:340px;height:40px;background:#2E6F8E;border-radius:6px"></div><p style="font-size:28px;font-weight:600;width:60px">34</p></div>
+<div style="display:flex;align-items:center;gap:20px"><p style="width:260px;font-size:26px;color:#4A5160">Japan</p><div style="width:220px;height:40px;background:#2E6F8E;border-radius:6px"></div><p style="font-size:28px;font-weight:600;width:60px">22</p></div>
+<div style="display:flex;align-items:center;gap:20px"><p style="width:260px;font-size:26px;color:#4A5160">United Kingdom</p><div style="width:110px;height:40px;background:#2E6F8E;border-radius:6px"></div><p style="font-size:28px;font-weight:600;width:60px">11</p></div>
+<div style="display:flex;align-items:center;gap:20px"><p style="width:260px;font-size:26px;color:#4A5160">Canada</p><div style="width:90px;height:40px;background:#2E6F8E;border-radius:6px"></div><p style="font-size:28px;font-weight:600;width:60px">9</p></div>
+<div style="display:flex;align-items:center;gap:20px"><p style="width:260px;font-size:26px;color:#4A5160">35 other jurisdictions</p><div style="width:630px;height:40px;background:#BFC8D6;border-radius:6px"></div><p style="font-size:28px;font-weight:600;width:60px">63</p></div>
+<p style="font-size:26px;line-height:1.4;color:#4A5160;width:860px">The collection over-represents places with open legal databases. France, Korea, Taiwan, Hong Kong and the Chinese provinces are thin because their law portals blocked the search.</p>
+</div>
+<div style="width:640px;display:flex;flex-direction:column;gap:24px">
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px">
+<h3 style="font-size:30px;font-weight:600">By kind</h3>
+<p style="font-size:28px;line-height:1.5;color:#4A5160">132 regulations or decrees<br>60 statutes passed by a legislature<br>3 court decisions</p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px">
+<h3 style="font-size:30px;font-weight:600">By status</h3>
+<p style="font-size:28px;line-height:1.5;color:#4A5160">182 in force<br>9 superseded or repealed<br>4 adopted but not yet in force</p>
+</div>
+<div style="background:#1B2A41;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px;color:#F7F5F0">
+<h3 style="font-size:30px;font-weight:600">Where they were found</h3>
+<p style="font-size:28px;line-height:1.5;color:#BFC8D6">190 of the 195 came from the second, database-driven round. The first round, searching the web, had found 5.</p>
+</div>
+</div>
+</div>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Section 5.3 and Table 33; Section 7</p>
+</section>
+</div><div class="slide"><section id="machines" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">The 195 binding rules</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">Which machines the binding rules cover</h2>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">Number of the 195 principal binding instruments that mention each kind of machine. One rule can mention several kinds, so the bars do not add up to 195.</p>
+<div style="display:flex;align-items:flex-end;gap:28px;height:420px">
+<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:8px;height:420px"><p style="font-size:30px;font-weight:600">107</p><div style="width:100%;height:321px;background:#C8552B;border-radius:6px 6px 0 0"></div></div>
+<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:8px;height:420px"><p style="font-size:30px;font-weight:600">67</p><div style="width:100%;height:201px;background:#C8552B;border-radius:6px 6px 0 0"></div></div>
+<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:8px;height:420px"><p style="font-size:30px;font-weight:600">15</p><div style="width:100%;height:45px;background:#2E6F8E;border-radius:6px 6px 0 0"></div></div>
+<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:8px;height:420px"><p style="font-size:30px;font-weight:600">13</p><div style="width:100%;height:39px;background:#2E6F8E;border-radius:6px 6px 0 0"></div></div>
+<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:8px;height:420px"><p style="font-size:30px;font-weight:600">11</p><div style="width:100%;height:33px;background:#2E6F8E;border-radius:6px 6px 0 0"></div></div>
+<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:8px;height:420px"><p style="font-size:30px;font-weight:600">4</p><div style="width:100%;height:12px;background:#2E6F8E;border-radius:6px 6px 0 0"></div></div>
+<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:8px;height:420px"><p style="font-size:30px;font-weight:600">0</p><div style="width:100%;height:2px;background:#2E6F8E"></div></div>
+<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:8px;height:420px"><p style="font-size:30px;font-weight:600">0</p><div style="width:100%;height:2px;background:#2E6F8E"></div></div>
+</div>
+<div style="display:flex;gap:28px">
+<p style="flex:1;font-size:24px;line-height:1.3;color:#4A5160;text-align:center">Drones</p>
+<p style="flex:1;font-size:24px;line-height:1.3;color:#4A5160;text-align:center">Self-driving road vehicles</p>
+<p style="flex:1;font-size:24px;line-height:1.3;color:#4A5160;text-align:center">Delivery robots</p>
+<p style="flex:1;font-size:24px;line-height:1.3;color:#4A5160;text-align:center">Factory robot arms</p>
+<p style="flex:1;font-size:24px;line-height:1.3;color:#4A5160;text-align:center">Security and police robots</p>
+<p style="flex:1;font-size:24px;line-height:1.3;color:#4A5160;text-align:center">Care robots</p>
+<p style="flex:1;font-size:24px;line-height:1.3;color:#4A5160;text-align:center">Companion robots</p>
+<p style="flex:1;font-size:24px;line-height:1.3;color:#4A5160;text-align:center">Humanoids</p>
+</div>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Section 5.3 and 5.4; brief. Mobile logistics, agricultural, collaborative and surgical robots and autonomous weapons: 9 or fewer each</p>
+</section>
+</div><div class="slide"><section id="route" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">The route</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">Law reaches robots sideways</h2>
+<p style="font-size:30px;line-height:1.4;color:#4A5160;width:1500px">Almost no country has written a law about robots. Instead, robots are caught by laws written for the things they also are: aircraft, vehicles, machinery, products, medical devices.</p>
+<div style="display:grid;grid-template-columns:repeat(5, 1fr);gap:24px">
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:32px;display:flex;flex-direction:column;gap:12px"><h3 style="font-size:28px;font-weight:600">Aviation law</h3><p style="font-size:24px;line-height:1.4;color:#4A5160">Drone rules: registration, pilot licences, no-fly zones.</p></div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:32px;display:flex;flex-direction:column;gap:12px"><h3 style="font-size:28px;font-weight:600">Road-traffic law</h3><p style="font-size:24px;line-height:1.4;color:#4A5160">Automated-driving amendments: who is the driver when nobody drives.</p></div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:32px;display:flex;flex-direction:column;gap:12px"><h3 style="font-size:28px;font-weight:600">Machinery and workplace safety</h3><p style="font-size:24px;line-height:1.4;color:#4A5160">Factory arms and collaborative robots as machines with CE marks.</p></div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:32px;display:flex;flex-direction:column;gap:12px"><h3 style="font-size:28px;font-weight:600">Product and medical-device law</h3><p style="font-size:24px;line-height:1.4;color:#4A5160">Surgical robots and consumer robots as products that must be safe.</p></div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:32px;display:flex;flex-direction:column;gap:12px"><h3 style="font-size:28px;font-weight:600">General AI law</h3><p style="font-size:24px;line-height:1.4;color:#4A5160">The EU AI Act reaches robots through its product lists, not by naming them.</p></div>
+</div>
+<div style="display:flex;gap:32px">
+<div style="flex:1;background:#1B2A41;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px;color:#F7F5F0">
+<h3 style="font-size:28px;font-weight:600;color:#E8A07E">The one robotics statute the study has read</h3>
+<p style="font-size:26px;line-height:1.4;color:#BFC8D6">El Salvador’s Robotic Technologies Law (2025), the only binding rule in the collection with “robot” in its title whose text was obtained.</p>
+</div>
+<div style="flex:1;background:#1B2A41;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px;color:#F7F5F0">
+<h3 style="font-size:28px;font-weight:600;color:#E8A07E">The ones it could not read</h3>
+<p style="font-size:26px;line-height:1.4;color:#BFC8D6">Hangzhou’s 2026 embodied-robot regulations and Korea’s Intelligent Robots Act (2008) were confirmed to exist but sit on websites the search could not reach.</p>
+</div>
+</div>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Sections 5.3 and 6</p>
+</section>
+</div><div class="slide"><section id="gap" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">Studied or governed</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">Research and rules point at different robots</h2>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">Share of 509 research papers and of 505 principal instruments that address each kind of robot. The last column is the difference in percentage points, with the range it could plausibly take.</p>
+<table style="font-size:28px;width:1664px;color:#1B2A41">
+<tr style="background:#1B2A41"><th style="width:30%;text-align:left;color:#F7F5F0">Kind of robot</th><th style="width:18%;text-align:right;color:#F7F5F0">Research papers</th><th style="width:18%;text-align:right;color:#F7F5F0">Instruments</th><th style="width:14%;text-align:right;color:#F7F5F0">Binding</th><th style="width:20%;text-align:right;color:#F7F5F0">Gap (points)</th></tr>
+<tr><td>Companion and social robots</td><td style="text-align:right">43%</td><td style="text-align:right">3%</td><td style="text-align:right">0</td><td style="text-align:right;color:#C8552B"><b>+40 (36 to 45)</b></td></tr>
+<tr style="background:#FFFFFF"><td>Humanoids</td><td style="text-align:right">23%</td><td style="text-align:right">4%</td><td style="text-align:right">0</td><td style="text-align:right;color:#C8552B"><b>+19 (15 to 23)</b></td></tr>
+<tr><td>Care and assistive robots</td><td style="text-align:right">28%</td><td style="text-align:right">9%</td><td style="text-align:right">4</td><td style="text-align:right;color:#C8552B"><b>+19 (14 to 23)</b></td></tr>
+<tr style="background:#FFFFFF"><td>Factory robot arms</td><td style="text-align:right">near parity</td><td style="text-align:right">near parity</td><td style="text-align:right">13</td><td style="text-align:right">−3 (−7 to 1)</td></tr>
+<tr><td>Self-driving road vehicles</td><td style="text-align:right">12%</td><td style="text-align:right">40%</td><td style="text-align:right">67</td><td style="text-align:right;color:#2E6F8E"><b>−27 (−33 to −22)</b></td></tr>
+<tr style="background:#FFFFFF"><td>Drones</td><td style="text-align:right">6%</td><td style="text-align:right">42%</td><td style="text-align:right">107</td><td style="text-align:right;color:#2E6F8E"><b>−36 (−41 to −31)</b></td></tr>
+</table>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">Scientists study the robots people will live with; lawmakers regulate the things that move through public space. Part of the drone and vehicle lead is the search itself, which looked for those terms in legal databases.</p>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Section 5.4, Table 22 and Figure 40</p>
+</section>
+</div><div class="slide"><section id="body" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">Robot rules versus AI rules</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">What makes a robot rule different</h2>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">Share of principal instruments that raise each concern: 505 robot instruments against 372 general-AI instruments. The body is what sets robot rules apart.</p>
+<table style="font-size:28px;width:1664px;color:#1B2A41">
+<tr style="background:#1B2A41"><th style="width:40%;text-align:left;color:#F7F5F0">Concern</th><th style="width:20%;text-align:right;color:#F7F5F0">Robot instruments</th><th style="width:20%;text-align:right;color:#F7F5F0">General-AI instruments</th><th style="width:20%;text-align:left;color:#F7F5F0">In plain words</th></tr>
+<tr><td>Physical safety</td><td style="text-align:right"><b>83%</b></td><td style="text-align:right">9%</td><td>Can it hurt someone?</td></tr>
+<tr style="background:#FFFFFF"><td>Conformity assessment</td><td style="text-align:right"><b>66%</b></td><td style="text-align:right">19%</td><td>Must it be tested before sale?</td></tr>
+<tr><td>Autonomy level and control</td><td style="text-align:right"><b>60%</b></td><td style="text-align:right">10%</td><td>How much may it decide alone?</td></tr>
+<tr style="background:#FFFFFF"><td>Human-robot proximity</td><td style="text-align:right"><b>33%</b></td><td style="text-align:right">0.3%</td><td>How close may it work to people?</td></tr>
+<tr><td>Liability for physical damage</td><td style="text-align:right"><b>27%</b></td><td style="text-align:right">3%</td><td>Who pays for the damage?</td></tr>
+<tr style="background:#FFFFFF"><td>Dual use and military</td><td style="text-align:right"><b>21%</b></td><td style="text-align:right">12%</td><td>Could it become a weapon?</td></tr>
+</table>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">These six differences hold in both collection rounds, in research papers as well as rules, and after statistical adjustment. The study calls them the most reliable result it has.</p>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Section 5.5, Table 21 and Figure 39</p>
+</section>
+</div><div class="slide"><section id="tools" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">Robot rules versus AI rules</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">The tools robot rules use</h2>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">Robot rules borrow the toolkit of product safety. General-AI rules reach for institutions and transparency. Share of principal instruments using each tool.</p>
+<div style="display:flex;gap:48px">
+<div style="flex:1;background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:40px;display:flex;flex-direction:column;gap:20px">
+<h3 style="font-size:30px;font-weight:600;color:#2E6F8E">Used more by robot rules</h3>
+<table style="font-size:27px;width:700px">
+<tr style="background:#F7F5F0"><th style="width:56%;text-align:left">Tool</th><th style="width:22%;text-align:right">Robot</th><th style="width:22%;text-align:right">General AI</th></tr>
+<tr><td>Reference to a technical standard</td><td style="text-align:right"><b>65%</b></td><td style="text-align:right">35%</td></tr>
+<tr><td>Licensing and registration</td><td style="text-align:right"><b>44%</b></td><td style="text-align:right">10%</td></tr>
+<tr><td>Testing before sale (conformity)</td><td style="text-align:right"><b>42%</b></td><td style="text-align:right">12%</td></tr>
+<tr><td>Compulsory insurance</td><td style="text-align:right"><b>15%</b></td><td style="text-align:right">2%</td></tr>
+</table>
+<p style="font-size:24px;line-height:1.4;color:#4A5160">Think of a car: a type approval, a registration plate, an insurance policy.</p>
+</div>
+<div style="flex:1;background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:40px;display:flex;flex-direction:column;gap:20px">
+<h3 style="font-size:30px;font-weight:600;color:#C8552B">Used more by general-AI rules</h3>
+<table style="font-size:27px;width:700px">
+<tr style="background:#F7F5F0"><th style="width:56%;text-align:left">Tool</th><th style="width:22%;text-align:right">Robot</th><th style="width:22%;text-align:right">General AI</th></tr>
+<tr><td>Creating an oversight body</td><td style="text-align:right">lower</td><td style="text-align:right"><b>higher</b></td></tr>
+<tr><td>Audits and impact assessments</td><td style="text-align:right">lower</td><td style="text-align:right"><b>higher</b></td></tr>
+<tr><td>Labelling and disclosure duties</td><td style="text-align:right">lower</td><td style="text-align:right"><b>higher</b></td></tr>
+<tr><td>Voluntary codes, funding, education</td><td style="text-align:right">lower</td><td style="text-align:right"><b>higher</b></td></tr>
+</table>
+<p style="font-size:24px;line-height:1.4;color:#4A5160">Think of a data regulator: an agency, an audit, a notice that you are talking to a machine.</p>
+</div>
+</div>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">Risk tiers, sandboxes and human-oversight duties are used about equally by both.</p>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Section 5.5, Table 21 and Figure 24; all differences significant after correction</p>
+</section>
+</div><div class="slide"><section id="depth" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">Mention versus detail</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">Mentioning a problem is not the same as solving it</h2>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">For each concern, the share of the 195 binding robot rules that mention it (light bar) and the share that spell out what must be done (dark bar).</p>
+<div style="display:flex;flex-direction:column;gap:22px">
+<div style="display:flex;align-items:center;gap:24px"><p style="width:380px;font-size:26px;color:#4A5160">Physical safety</p><div style="width:1100px;display:flex;flex-direction:column;gap:4px"><div style="width:979px;height:26px;background:#BFC8D6;border-radius:4px"></div><div style="width:682px;height:26px;background:#1B2A41;border-radius:4px"></div></div><p style="font-size:26px;font-weight:600;width:140px;line-height:1.2">89% / 62%</p></div>
+<div style="display:flex;align-items:center;gap:24px"><p style="width:380px;font-size:26px;color:#4A5160">Testing before sale</p><div style="width:1100px;display:flex;flex-direction:column;gap:4px"><div style="width:770px;height:26px;background:#BFC8D6;border-radius:4px"></div><div style="width:517px;height:26px;background:#1B2A41;border-radius:4px"></div></div><p style="font-size:26px;font-weight:600;width:140px;line-height:1.2">70% / 47%</p></div>
+<div style="display:flex;align-items:center;gap:24px"><p style="width:380px;font-size:26px;color:#4A5160">How much the machine may decide</p><div style="width:1100px;display:flex;flex-direction:column;gap:4px"><div style="width:671px;height:26px;background:#BFC8D6;border-radius:4px"></div><div style="width:275px;height:26px;background:#C8552B;border-radius:4px"></div></div><p style="font-size:26px;font-weight:600;width:140px;line-height:1.2">61% / 25%</p></div>
+<div style="display:flex;align-items:center;gap:24px"><p style="width:380px;font-size:26px;color:#4A5160">Who pays for damage</p><div style="width:1100px;display:flex;flex-direction:column;gap:4px"><div style="width:363px;height:26px;background:#BFC8D6;border-radius:4px"></div><div style="width:198px;height:26px;background:#C8552B;border-radius:4px"></div></div><p style="font-size:26px;font-weight:600;width:140px;line-height:1.2">33% / 18%</p></div>
+<div style="display:flex;align-items:center;gap:24px"><p style="width:380px;font-size:26px;color:#4A5160">How close to people</p><div style="width:1100px;display:flex;flex-direction:column;gap:4px"><div style="width:330px;height:26px;background:#BFC8D6;border-radius:4px"></div><div style="width:66px;height:26px;background:#C8552B;border-radius:4px"></div></div><p style="font-size:26px;font-weight:600;width:140px;line-height:1.2">30% / 6%</p></div>
+</div>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">Binding law is good at safety and pre-market testing. The control question, how much a machine may decide and when a person must step in, is raised by six rules in ten and answered by one in four.</p>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Section 5.5 and Table 9, content-analysed captures only</p>
+</section>
+</div><div class="slide"><section id="strategy" data-transition="fade" style="background:#1B2A41;color:#F7F5F0;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#E8A07E">The method lesson</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">Where you look changes what you find</h2>
+<div style="display:flex;gap:32px">
+<div style="flex:1;background:#243650;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:8px">
+<p style="font-size:24px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:#E8A07E">Version 2: web search</p>
+<p style="font-size:120px;font-weight:600;line-height:1">5</p>
+<p style="font-size:26px;line-height:1.4;color:#BFC8D6">binding robot rules found. Wrong: the laws live in legal registers, not on the open web.</p>
+</div>
+<div style="flex:1;background:#243650;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:8px">
+<p style="font-size:24px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:#E8A07E">Version 3: legal databases</p>
+<p style="font-size:120px;font-weight:600;line-height:1">299</p>
+<p style="font-size:26px;line-height:1.4;color:#BFC8D6">binding texts counted. Inflated: every fee rule and exemption counted as a law.</p>
+</div>
+<div style="flex:1;background:#243650;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:8px">
+<p style="font-size:24px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:#E8A07E">Version 4: counted properly</p>
+<p style="font-size:120px;font-weight:600;line-height:1">195</p>
+<p style="font-size:26px;line-height:1.4;color:#BFC8D6">principal binding instruments. Neither jump happened in the world; both happened in the method.</p>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;gap:16px">
+<h3 style="font-size:32px;font-weight:600">The search also changed a conclusion</h3>
+<p style="font-size:28px;line-height:1.4;color:#BFC8D6;width:1600px">Version 3 reported that robot rules talk less about fairness, transparency and privacy than general-AI rules do, in 11 of 14 core values. Looked at one round at a time, the difference appears only in the second round: among the first round’s instruments, none of the 14 values differs; among the second round’s, 10 are lower. Harvested legal texts are short and procedural; strategies found by web search are long on values. The “ethical deficit” was a property of the documents, not of robot governance.</p>
+</div>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#8A97AB">Source: paper, Sections 5.2 and 6, Tables 53 and 20b</p>
+</section>
+</div><div class="slide"><section id="regions" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">Around the world</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">How regions differ</h2>
+<div style="display:flex;gap:48px">
+<div style="flex:1;display:flex;flex-direction:column;gap:24px">
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px">
+<h3 style="font-size:30px;font-weight:600">On tools: clearly</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">Whether a document refers to technical standards, requires a licence or sets a liability regime varies most across regions. Oceania’s documents are drone-licensing law; the international layer is standards; Europe mixes research, strategies and regulation.</p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px">
+<h3 style="font-size:30px;font-weight:600">On harm: hardly at all</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">Physical safety, avoiding harm and human oversight are mentioned at similar rates everywhere. The harm-avoidance vocabulary travels.</p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px">
+<h3 style="font-size:30px;font-weight:600">On values: it depends what you compare</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">Among research papers, regions agree on fairness, transparency, privacy and beneficence (2 of 14 core values differ). Among instruments, 12 of 14 differ, with the standards-heavy international layer at the low end and Asia’s strategies at the high end. So the difference is about what kind of document each region produces.</p>
+</div>
+</div>
+<div style="width:620px;display:flex;flex-direction:column;gap:24px">
+<h3 style="font-size:30px;font-weight:600">Which region holds the documents</h3>
+<table style="font-size:26px;width:620px">
+<tr style="background:#1B2A41"><th style="width:46%;text-align:left;color:#F7F5F0">Region</th><th style="width:27%;text-align:right;color:#F7F5F0">Usable docs</th><th style="width:27%;text-align:right;color:#F7F5F0">Robot rules</th></tr>
+<tr><td>Europe</td><td style="text-align:right">1,332</td><td style="text-align:right">170</td></tr>
+<tr style="background:#FFFFFF"><td>Asia</td><td style="text-align:right">677</td><td style="text-align:right">119</td></tr>
+<tr><td>International bodies</td><td style="text-align:right">374</td><td style="text-align:right">64</td></tr>
+<tr style="background:#FFFFFF"><td>North America</td><td style="text-align:right">345</td><td style="text-align:right">102</td></tr>
+<tr><td>Latin America</td><td style="text-align:right">149</td><td style="text-align:right">21</td></tr>
+<tr style="background:#FFFFFF"><td>Oceania</td><td style="text-align:right">113</td><td style="text-align:right">11</td></tr>
+<tr><td>Middle East</td><td style="text-align:right">98</td><td style="text-align:right">8</td></tr>
+<tr style="background:#FFFFFF"><td>Africa</td><td style="text-align:right">76</td><td style="text-align:right">10</td></tr>
+</table>
+<p style="font-size:24px;line-height:1.4;color:#4A5160">“Robot rules” are principal instruments in the embodied set. Europe is 42% of everything; the collection is not a census of the world.</p>
+</div>
+</div>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Sections 5.3 and 5.6, Tables 29 and 29b</p>
+</section>
+</div><div class="slide"><section id="trends" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">Over time</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">What is changing</h2>
+<div style="display:grid;grid-template-columns:repeat(3, 1fr);gap:32px">
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:40px;display:flex;flex-direction:column;gap:12px">
+<p style="font-size:24px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:#2E6F8E">Rising</p>
+<p style="font-size:96px;font-weight:600;line-height:1">+31%</p>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">a year in the odds that a document uses <b>risk tiers</b> (stricter rules for riskier machines), within the first collection; pre-market testing rises 26% a year. Both diluted, not reversed, by the harvested legal texts.</p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:40px;display:flex;flex-direction:column;gap:12px">
+<p style="font-size:24px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:#2E6F8E">Shifting</p>
+<p style="font-size:96px;font-weight:600;line-height:1">0.39</p>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">odds ratio for the <b>robot personhood</b> debate in 2025 to 2026 against 2020 to 2024: it is fading. <b>Industrial policy</b> (subsidies, national champions) rises instead, odds ratio 1.69.</p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:40px;display:flex;flex-direction:column;gap:12px">
+<p style="font-size:24px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:#2E6F8E">Arriving</p>
+<p style="font-size:96px;font-weight:600;line-height:1">13%</p>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">of 2026 documents about robots use the terms <b>“embodied AI”</b> or <b>“physical AI”</b>, up from 1% in 2024 and 8% in 2025. The vocabulary is new; the machines are not.</p>
+</div>
+</div>
+<div style="background:#1B2A41;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px;color:#F7F5F0">
+<h3 style="font-size:28px;font-weight:600;color:#E8A07E">A trend that turned out not to be one</h3>
+<p style="font-size:26px;line-height:1.4;color:#BFC8D6">Pooled over both rounds, attention to “how close to people” and “who pays for damage” looked like it was declining 6% a year. Within the first collection it is flat. The decline was the arrival of short legal texts that never mention either, not a change in what people write about.</p>
+</div>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Section 5.7, Tables 28 and 30, Figure 33 in the report</p>
+</section>
+</div><div class="slide"><section id="trust" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">Read with care</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">How far to trust these numbers</h2>
+<div style="display:grid;grid-template-columns:repeat(2, 1fr);gap:32px">
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px">
+<h3 style="font-size:30px;font-weight:600">Even 195 is a ceiling</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">An independent re-reading of 100 randomly chosen texts from the earlier count found 54% to be distinct, binding and genuinely about a machine with a body (plausible range 44% to 63%). About one binding rule in four may still fail a careful reading.</p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px">
+<h3 style="font-size:30px;font-weight:600">And a floor</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">Of 39 well-known robot, drone and vehicle instruments, 22 are in the collection with their text. Germany’s autonomous-driving law, Korea’s robot act and eight safety standards are missing; 189 more were confirmed to exist but could not be downloaded.</p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px">
+<h3 style="font-size:30px;font-weight:600">No person labelled anything</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">Every label, every collector in round 2, every reviewer and the auditor was an AI model from one company. The checks show the labels are consistent, not that an expert would agree with them.</p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:36px;display:flex;flex-direction:column;gap:12px">
+<h3 style="font-size:30px;font-weight:600">The collection is lopsided</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">75% English, 42% European, and the countries with open legal databases (US, EU, Japan) supply 112 of the 195 binding rules. Old statutes carry old dates even when their robot clauses are recent.</p>
+</div>
+</div>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">The study was reviewed by six adversarial reviewers before this version, and every number was audited against the data. The reviews, the audit and a change log ship with the data, so each claim can be re-examined.</p>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: paper, Sections 5.1 and 7; review log</p>
+</section>
+</div><div class="slide"><section id="scenarios" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">In practice</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">What it means for three people</h2>
+<div style="display:grid;grid-template-columns:repeat(3, 1fr);gap:32px">
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:40px;display:flex;flex-direction:column;gap:16px">
+<h3 style="font-size:32px;font-weight:600">A worker beside a robot arm</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">Covered, but by machinery and workplace law, not robot law. ISO 10218 sets the safety requirements for robots working near people; in Europe the Machinery Regulation requires testing and a CE mark before sale. The 13 binding rules that reach factory arms were all written for machines in general.</p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:40px;display:flex;flex-direction:column;gap:16px">
+<h3 style="font-size:32px;font-weight:600">Someone buying a companion robot for a parent</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">No binding rule was written for it. What applies is the EU AI Act (bans on manipulative systems; a duty to tell people they are talking to a machine), product-safety and data-protection law, and the voluntary care-robot standard ISO 13482. The gap between research and law is widest here.</p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:40px;display:flex;flex-direction:column;gap:16px">
+<h3 style="font-size:32px;font-weight:600">A city buying delivery robots</h3>
+<p style="font-size:26px;line-height:1.4;color:#4A5160">Meets real rules. US states have “personal delivery device” statutes that admit robots to sidewalks under weight, speed and insurance conditions; Japan’s Road Traffic Act treats small remote-operated vehicles as pedestrians once the police are notified. Fifteen binding rules mention delivery robots.</p>
+</div>
+</div>
+<p style="font-size:28px;line-height:1.4;color:#4A5160;width:1500px">The pattern repeats: the more a robot resembles something already regulated (a vehicle, an aircraft, a machine), the more law it meets. The robots designed to be unlike anything before meet the least.</p>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">Source: brief, “What it means for you”; paper, Sections 5.3 and 6</p>
+</section>
+</div><div class="slide"><section id="explore" data-transition="fade" style="background:#F7F5F0;color:#1B2A41;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#C8552B">Go further</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">Explore the data yourself</h2>
+<div style="display:flex;gap:48px;align-items:flex-start">
+<div style="position:relative;width:1000px;height:560px;border:1px solid #DDD8CE;border-radius:16px;overflow:hidden">
+<img src="assets/dashboard.png" alt="The interactive dashboard: counts of documents and binding rules, start-here views and filters" style="position:absolute;left:0;top:0;width:1000px;height:560px;object-fit:cover">
+</div>
+<div style="flex:1;display:flex;flex-direction:column;gap:24px">
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:32px;display:flex;flex-direction:column;gap:10px">
+<h3 style="font-size:28px;font-weight:600">The dashboard</h3>
+<p style="font-size:24px;line-height:1.4;color:#4A5160">Every document, searchable and filterable by region, machine type, kind of rule and collection round. Click a row to read its summary.</p>
+<p style="font-size:24px;line-height:1.4;color:#2E6F8E"><a href="https://claude.ai/artifact/YKsXJRaT7tSfRXseuo5kuZ">claude.ai/artifact/YKsXJRaT7tSfRXseuo5kuZ</a></p>
+</div>
+<div style="background:#FFFFFF;border:1px solid #DDD8CE;border-radius:16px;padding:32px;display:flex;flex-direction:column;gap:10px">
+<h3 style="font-size:28px;font-weight:600">The paper, data and code</h3>
+<p style="font-size:24px;line-height:1.4;color:#4A5160">The full paper, the analysis report, the data tables, the reviews and the scripts that reproduce every figure.</p>
+<p style="font-size:24px;line-height:1.4;color:#2E6F8E"><a href="https://github.com/cjimmylin/embodied-ai-governance">github.com/cjimmylin/embodied-ai-governance</a></p>
+</div>
+</div>
+</div>
+<p style="position:absolute;left:128px;bottom:64px;font-size:24px;color:#6B7280">The dashboard works in a browser without any installation</p>
+</section>
+</div><div class="slide"><section id="takeaways" data-transition="fade" style="background:#1B2A41;color:#F7F5F0;font-family:'IBM Plex Sans', Arial, sans-serif;padding:128px;display:flex;flex-direction:column;gap:48px">
+<p style="font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:#E8A07E">To remember</p>
+<h2 style="font-family:'Source Serif 4', Georgia, serif;font-size:64px;font-weight:400;line-height:1.1">Five things to remember</h2>
+<div style="display:flex;flex-direction:column;gap:28px">
+<div style="display:flex;gap:32px;align-items:flex-start"><p style="font-family:'Source Serif 4', Georgia, serif;font-size:56px;font-weight:600;line-height:1;color:#E8A07E;width:80px">1</p><p style="font-size:30px;line-height:1.4;width:1500px"><b>Robots are governed sideways.</b> Of 195 binding rules that reach them, 15 name AI. The rest are aviation, road, machinery, product and medical-device law.</p></div>
+<div style="display:flex;gap:32px;align-items:flex-start"><p style="font-family:'Source Serif 4', Georgia, serif;font-size:56px;font-weight:600;line-height:1;color:#E8A07E;width:80px">2</p><p style="font-size:30px;line-height:1.4;width:1500px"><b>The body is what makes a robot rule different.</b> Physical safety, testing before sale, how much the machine may decide, and who pays for damage. These hold however the data are sliced.</p></div>
+<div style="display:flex;gap:32px;align-items:flex-start"><p style="font-family:'Source Serif 4', Georgia, serif;font-size:56px;font-weight:600;line-height:1;color:#E8A07E;width:80px">3</p><p style="font-size:30px;line-height:1.4;width:1500px"><b>Research and law look at different robots.</b> Companion robots are 43% of research papers and 3% of rules, with no binding rule at all. Drones and vehicles are the reverse.</p></div>
+<div style="display:flex;gap:32px;align-items:flex-start"><p style="font-family:'Source Serif 4', Georgia, serif;font-size:56px;font-weight:600;line-height:1;color:#E8A07E;width:80px">4</p><p style="font-size:30px;line-height:1.4;width:1500px"><b>Mention is not detail.</b> Six binding rules in ten raise the control question; one in four answers it.</p></div>
+<div style="display:flex;gap:32px;align-items:flex-start"><p style="font-family:'Source Serif 4', Georgia, serif;font-size:56px;font-weight:600;line-height:1;color:#E8A07E;width:80px">5</p><p style="font-size:30px;line-height:1.4;width:1500px"><b>Where you look changes what you find.</b> Five, then 299, then 195 binding rules from the same world. Any count of “AI regulation” should say how it was collected and what it counts.</p></div>
+</div>
+</section>
+</div>
+</div></div>
+<div id="bar"><span><a href="../index.html">← Project hub</a> · Who governs the robots? First deck (23 slides)</span><span class="hint">← → or click to move · F for full screen</span><span><button id="prev">Previous</button> <b id="n">1</b> / 23 <button id="next">Next</button></span></div>
+<script>
+(function(){
+const S=[...document.querySelectorAll('#frame > .slide')]; let i=0;
+function fit(){ const w=innerWidth, h=innerHeight-40; const s=Math.min(w/1920,h/1080); document.getElementById('frame').style.transform='translate(-50%,-50%) scale('+s+')'; }
+function show(k){ i=Math.max(0,Math.min(S.length-1,k)); S.forEach((s,j)=>s.classList.toggle('on',j===i)); document.getElementById('n').textContent=i+1; history.replaceState(null,'','#slide-'+(i+1)); }
+addEventListener('resize',fit); fit();
+const m=location.hash.match(/slide-(\d+)/); show(m?Number(m[1])-1:0);
+addEventListener('keydown',e=>{ if(e.key==='ArrowRight'||e.key===' '||e.key==='PageDown') show(i+1); else if(e.key==='ArrowLeft'||e.key==='PageUp') show(i-1); else if(e.key==='Home') show(0); else if(e.key==='End') show(S.length-1); else if(e.key==='f'||e.key==='F') document.documentElement.requestFullscreen&&document.documentElement.requestFullscreen(); });
+document.getElementById('stage').addEventListener('click',e=>{ if(e.target.closest('a')) return; show(i+1); });
+document.getElementById('prev').addEventListener('click',()=>show(i-1)); document.getElementById('next').addEventListener('click',()=>show(i+1));
+})();
+</script></body></html>
