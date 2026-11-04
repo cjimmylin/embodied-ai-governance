@@ -6,9 +6,9 @@ Two non-technical talks derived from the analysis report and paper, written for 
 
 | Talk | Deck (editable) | Script | Video |
 |---|---|---|---|
-| Expanded edition, version-4 numbers (41 slides, about 34 minutes) | https://claude.ai/artifact/47f5QuWtn598ui7JVAo7zw | `../who_governs_the_robots_v2_script.md` | https://claude.ai/artifact/LRUSm9G4dbFFXMYwsgWppH (player page) and `../who_governs_the_robots_v2.mp4` |
-| Keynote for an AI research or AI governance conference (20 slides, about 21 minutes) | https://claude.ai/artifact/FaM6krx6snfSm69VKW4d98 and `keynote_deck/` | `keynote_script.md` | https://claude.ai/artifact/J16RBooUfYnqT1y5bdSCEx (player page) and `who_governs_the_robots_keynote.mp4` (+ `.srt`) |
-| Main-stage talk in the TED format (15 slides, about 13 minutes) | https://claude.ai/artifact/MMcpN4zupd3k9EifNgSksq and `mainstage_deck/` | `mainstage_script.md` | https://claude.ai/artifact/QDW4WpoZntkYr6L3B3KpZ6 (player page) and `who_governs_the_robots_mainstage.mp4` (+ `.srt`) |
+| Expanded edition, version-4 numbers (41 slides, about 34 minutes) | https://claude.ai/artifact/47f5QuWtn598ui7JVAo7zw | `../who_governs_the_robots_v2_script.md` | https://claude.ai/artifact/LRUSm9G4dbFFXMYwsgWppH (player page) and `docs/videos/who_governs_the_robots_expanded.mp4` |
+| Keynote for an AI research or AI governance conference (20 slides, about 21 minutes) | https://claude.ai/artifact/FaM6krx6snfSm69VKW4d98 and `keynote_deck/` | `keynote_script.md` | https://claude.ai/artifact/J16RBooUfYnqT1y5bdSCEx (player page) and `docs/videos/who_governs_the_robots_keynote.mp4` (+ `.srt`) |
+| Main-stage talk in the TED format (15 slides, about 13 minutes) | https://claude.ai/artifact/MMcpN4zupd3k9EifNgSksq and `mainstage_deck/` | `mainstage_script.md` | https://claude.ai/artifact/QDW4WpoZntkYr6L3B3KpZ6 (player page) and `docs/videos/who_governs_the_robots_mainstage.mp4` (+ `.srt`) |
 
 The first, 23-slide deck is at https://claude.ai/artifact/BQAsXb71m8uLkpKDNFxXTw (no video). The player pages hold the videos as attached parts that hand over at slide boundaries, with chapters and the script beside the player.
 
