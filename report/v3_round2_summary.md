@@ -1,5 +1,7 @@
 # Collection round 2 and version 3: summary (31 October 2026)
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Version 3 adds a second collection round to the version-2 study of how embodied AI (robots, automated vehicles, drones, medical and industrial machines) is governed. Round 2 searched official legal databases, treaty-body archives, standards catalogues and regulator sites for the instruments the first collection had missed, using nine collector agents and scripted harvests of seven legal databases (EUR-Lex by title and by EuroVoc concept, legislation.gov.uk, the Japanese e-Gov law API, the Chinese State Council policy library, the Australian Federal Register of Legislation, the US eCFR and the Brazilian Camara API). Candidates were de-duplicated against round 1, fetched from the issuing source, and annotated with the same metadata-blind extended-excerpt policy as version 2.
 
 ## Funnel

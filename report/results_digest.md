@@ -1,5 +1,7 @@
 # Results digest (auto-generated numbers for the narrative)
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 - annotated / usable / embodied set / general set: 3450 / 3320 / 1704 / 1025
 - governance documents (usable) / embodied gov / general gov: 1860 / 921 / 419
 - binding instruments (usable) / in embodied set: 667 / 278

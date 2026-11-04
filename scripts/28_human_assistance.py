@@ -12,6 +12,7 @@ st=st.drop_duplicates("candidate_id",keep="last")
 tgi=tg.set_index("candidate_id")
 def row_md(df,cols): return df[cols].to_markdown(index=False) if len(df) else "_none_"
 L=[]
+L.append("← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)\n")
 L.append("# What a person is needed for\n")
 L.append("Round 3 ran everything an agent can run alone (see report/src/collection_round3.md). The items below need a person: a browser with ordinary access, a subscription, a judgement the model should not make, or a second pair of eyes. They are ordered by how much they would change the results.\n")
 # 1 blocked

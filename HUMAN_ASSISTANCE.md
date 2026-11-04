@@ -1,5 +1,7 @@
 # What a person is needed for
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Round 3 ran everything an agent can run alone (see report/src/collection_round3.md). The items below need a person: a browser with ordinary access, a subscription, a judgement the model should not make, or a second pair of eyes. They are ordered by how much they would change the results.
 
 ## 1. Download 74 instruments whose official hosts refuse the research crawler

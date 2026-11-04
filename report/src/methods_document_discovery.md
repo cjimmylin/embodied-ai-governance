@@ -5,6 +5,8 @@ author: "Centre for Enterprise Innovation (CEI) AI Robotics project, with Claude
 date: "31 October 2026"
 ---
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 ## 1. Rationale and design
 
 The first collection was assembled by eight regional teams in two exercises: a *sprint* for robot-specific sources and a *database* of general AI-governance instruments. Its coverage audit showed the limitation of that design for the question the study asks. Re-computed against the current reference list of 39 instruments known to govern robots, drones or automated vehicles, the first collection held 11 of them as principal instruments with a content-analysed capture (12 on a looser title match), and it held 65 texts of instrument class in the embodied-AI set, 5 of them legally binding. The instruments that bind robots in practice (aviation rules, road-traffic law, machinery and product-safety law, workplace-safety rules, technical standards) are catalogued in legal databases that topical web search rarely surfaces, and they are spread across many jurisdictions and languages.

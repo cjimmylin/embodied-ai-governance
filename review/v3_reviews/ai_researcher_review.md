@@ -1,5 +1,7 @@
 # Adversarial review of v3: LLM annotation validity, measurement and reproducibility
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Reviewer role: AI researcher (LLM-based annotation, measurement validity, reproducibility). Object: version 3 of "Governing machines that act in the world" (package `/home/user/embodied-ai-governance-v3/`), with particular attention to the 1,637 round-2 documents that entered the collection annotated once, metadata-blind, under the v2 extended-excerpt policy. Everything below was recomputed read-only from `data/master_table.csv`, `annotations/round2/*.json`, the stored model inputs and raw texts in the round-2 workspace (`/home/user/collection-round-2/annotations/round2/_inputs/`, `/home/user/collection-round-2/texts/`), `data/round2_inventory.csv`, the scripts and the reports. Items fixed in v2 (leakage of the collector cover block, v1 excerpt length, lexicon bugs, reliability against the wrong run) are not re-raised except where the fix regressed or did not reach round 2. No project file was edited; the only file written is this review.
 
 ## 1. Verdict

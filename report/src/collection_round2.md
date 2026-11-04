@@ -1,3 +1,5 @@
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 *Companion to the analysis report. All counts refer to content-analysed documents unless stated otherwise. The headline counting unit is the principal instrument: a text of instrument class that is not a commencement order, levy or fee instrument, individual exemption, direction, approval or permit, definitions-only part, table of contents, EEA incorporation decision, language-version corrigendum, byte-identical duplicate, catalogue page or metadata stub under 150 words; amendments count. Every count that uses another unit says so. The round-2 collectors, the reviewers of the previous version and the auditors were AI agents (Claude) running in one Claude Code session; no person read or labelled any document.*
 
 ## Summary

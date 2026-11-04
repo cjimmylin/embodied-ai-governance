@@ -1,5 +1,7 @@
 # Version 5 summary: what collection round 3 did (2 November 2026)
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Round 3 executed, without a person in the loop, the items of the round-3 plan that an agent can do alone. Everything that needs a person is in `HUMAN_ASSISTANCE.md`. The companion report is `report/collection_round3.md`; the counts below are from the v5 tables (`data/results.json`, `tables/`).
 
 ## What was done

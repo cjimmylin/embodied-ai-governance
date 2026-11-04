@@ -5,6 +5,8 @@ author: "Centre for Enterprise Innovation (CEI) AI Robotics project, with Claude
 date: "31 October 2026"
 ---
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 ## 1. Purpose
 
 The study's claims rest on a model-labelled collection assembled in two rounds with different selection mechanisms. Neither the labels nor the counts had been checked by anyone outside the pipeline that produced them. Version 4 therefore subjected version 3 to a structured adversarial review before any further claim was made, and treated the review as a measurement exercise: each reviewer was asked to find what was wrong and to show it with recomputed numbers or document identifiers, and the findings were converted into rules, corrections, additional measurements and rewritten claims. This section describes the procedure, the evidence it produced and its limits.

@@ -1,5 +1,7 @@
 # Who governs the robots? Main-stage script (TED-style, 15 slides)
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Written for a main-stage talk of about thirteen minutes. One speaker, no notes, slides as backdrop. Each heading names the slide; the paragraph beneath it is spoken while that slide is on screen. About 150 words a minute. Numbers are from version 5 of the study (November 2026).
 
 ## 1. Title

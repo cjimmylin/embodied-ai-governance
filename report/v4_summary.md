@@ -1,5 +1,7 @@
 # Version 4 summary: what the adversarial review of v3 changed
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Date: 31 October 2026. Project: global governance of embodied and physical AI (CEI AI Robotics collection, two collection rounds).
 
 Dashboard (v4): https://claude.ai/artifact/YKsXJRaT7tSfRXseuo5kuZ

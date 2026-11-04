@@ -1,5 +1,7 @@
 # Collection round 2 runbook (for agents extending the collection)
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Written 31 October 2026 after round 2 of the embodied-AI governance study. This file is the operational record: what was built, where it lives, exactly how each source was queried, what failed, and how to run a round 3. The human-readable methods narrative is `report/src/methods_document_discovery.md` in the v3 package. Numbers below are the final v3 figures.
 
 ## 1. Outcome in one table

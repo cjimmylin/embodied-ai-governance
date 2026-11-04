@@ -1,5 +1,7 @@
 # Who governs the robots? Keynote script (conference version, 20 slides)
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 For an AI research or AI governance conference. One speaker. Each heading names the slide; the paragraph beneath it is spoken while that slide is on screen. Pace about 150 words a minute; running time about 21 minutes. Numbers are from version 5 of the study (November 2026).
 
 ## 1. Cover

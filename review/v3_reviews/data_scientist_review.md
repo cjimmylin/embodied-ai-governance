@@ -1,5 +1,7 @@
 # Adversarial review of v3: data scientist and applied statistician
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Reviewed: `report/paper.md`, `report/analysis_report.md`, `report/brief.md`, `report/supplement.md` (S1, S4, S6, S8), `report/collection_round2.md`, `report/methods_document_discovery.md`, `tables/*.md`, `figures/data/*.csv`, `data/results.json`, `data/master_table.csv` (3,291 rows), `data/duplicates_removed.csv`, `data/round2_inventory.csv`, `data/reference_instruments.csv`, the scripts named in the brief, and the v1-to-v2 and v2-to-v3 review and audit logs. Every number below marked "recomputed" was recomputed with pandas from `data/master_table.csv` using the set definitions in `scripts/analysis_common.py::load()` and `scripts/21_round2_report.py::load_master()`; v2 comparisons use `/home/user/embodied-ai-governance-v2/data/master_table.csv`. No project file was edited.
 
 ## Verdict

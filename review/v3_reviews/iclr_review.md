@@ -1,5 +1,7 @@
 # Review of "Governing machines that act in the world: a content analysis of embodied-AI governance documents from eight world regions (v3)"
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Track: Datasets and Benchmarks / Societal Impact. Reviewer role: adversarial, ICLR/NeurIPS style.
 
 Materials read: `report/paper.md` (the submission), `report/supplement.md`, `report/collection_round2.md`, `report/methods_document_discovery.md`, `report/brief.md` (for consistency only), the tables the paper cites (T07, T09, T10, T17, T20 to T35, T50 to T58), figures F06, F23, F31, F39, F40, F41 and their `figures/data/*.csv`, `data/results.json`, `review/adversarial_review_and_changes.md`, `review/v3_changes_paper.md`, `review/v3_numbers_audit_*.md`, `collection_round2/COLLECTOR_REPORTS.md`, `CANDIDATE_SCHEMA.md`, `ROUND2_RUNBOOK.md`, `codebook/codebook.md`, and the analysis scripts (`scripts/14_analysis_B.py`, `18_analysis_D.py`, `20_figures_v2.py`, `analysis_common.py`). I also ran read-only recomputations on `data/master_table.csv` using the set definitions in `analysis_common.py::load()`. Where a number below is not in the paper, it comes from those recomputations and I say so. No project file was edited.

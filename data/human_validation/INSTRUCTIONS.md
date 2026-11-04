@@ -1,5 +1,7 @@
 # Human validation of the model labels: instructions for coders
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Purpose: the study's labels were produced by a language model and checked only against other model runs. This exercise produces the first human-coded labels, so that human-versus-model agreement can be reported per field and the headline counts corrected for measurement error.
 
 ## Materials in this folder

@@ -1,5 +1,7 @@
 # Precision audit of S01 "binding instruments reaching embodied AI" (v3)
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Independent re-reading of a random sample of the 299 documents in `tables/S01_binding_embodied.csv`, judged against five yes/no criteria from the documents' own texts. Date of audit: 2026-10-31. Auditor: independent (model-assisted) review for v4; no project file other than the two outputs in `review/v3_reviews/` was modified.
 
 ## 1. Sampling statement

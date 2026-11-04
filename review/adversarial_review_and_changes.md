@@ -1,5 +1,7 @@
 # Adversarial review of v1 and the changes made in v2
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Six independent reviews of the version-1 deliverables were commissioned, each from a fresh reviewer with no stake in the conclusions: a data scientist and statistician, an AI researcher specialising in LLM annotation validity, a conference reviewer (ICLR/NeurIPS style), a technology and policy journalist, an AI-governance and technology-law expert, and a data-visualisation and front-end QA engineer. The six full reviews are in this folder. This document consolidates their findings, states the decision taken on each, and records what changed between v1 and v2. Severity is the reviewers' own; where reviewers disagreed, the stricter reading was kept.
 
 ## 1. Summary verdicts

@@ -1,5 +1,7 @@
 # Talks built from the study (version 5 numbers)
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Two non-technical talks derived from the analysis report and paper, written for people with no background in robotics, AI or law.
 
 | Talk | Deck (editable) | Script | Video |

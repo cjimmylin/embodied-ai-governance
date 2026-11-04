@@ -1,5 +1,7 @@
 # Journalist's review of version 3: understandability, trust and story
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 **Reviewer role:** technology and policy journalist, general-audience desk, checking claims before quoting them.
 **Reviewed, in order:** `report/brief.md`; `dashboard/index.html` (rendered with Playwright/Chromium at 1360 px light and dark and at 390 px mobile, with the Start-here tiles, every filter, the search box, the record drawer, the keyboard path and the glossary/methods panels exercised; the shipped `shot-*.png` screenshots); `report/collection_round2.md`; `report/methods_document_discovery.md`; `report/paper.md` (abstract, introduction, background, data, methods, results 5.1 to 5.2, discussion, limitations, conclusion); `report/analysis_report.md` (key numbers, five findings, sections 1 to 3, 10.1, 10.4, 11, 12); figures F04, F06, F08, F18, F23, F24, F31, F33, F50, F51 (light); the predecessor's `review/journalist_review.md` and `review/adversarial_review_and_changes.md`; the v2 brief for comparison; and, to check numbers, `data/master_table.csv` and `tables/S01`, `T09`, `T22`, `T23`, `T31b`. All paths are under `/home/user/embodied-ai-governance-v3/`.
 **Date:** 31 October 2026.

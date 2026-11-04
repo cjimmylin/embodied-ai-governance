@@ -1,5 +1,7 @@
 # Precision audit of the v4 "principal binding instruments in the embodied-AI set" (v5 audit)
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Independent re-reading of a random sample of 100 of the 195 documents that the study counts as principal binding instruments in the embodied set, judged against five yes/no criteria from the documents' own texts. Date of audit: 2026-11-02. Auditor: independent (model-assisted) review; no project file other than `review/v5_audit/precision_audit_v5_results.csv` and this report was modified. The study's own labels were not consulted beyond the four rule-based columns carried in the sample file (`ai_explicit`, `autonomy_terms`, `relevance_to_embodied_ai_governance`, `instrument_unit`), which were recorded but not used in forming the judgments.
 
 ## 1. Sampling statement

@@ -1,5 +1,7 @@
 # Runbook: the v3 adversarial review and the v4 revision (for agents)
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Written 31 October 2026. This is the operational record of how the six adversarial reviews of version 3 were run, how their findings were triaged into data rules, overrides, code changes and narrative rewrites, and how to repeat the cycle on a later version. Read it together with `review/adversarial_review_v3_and_changes_v4.md` (the finding-by-finding log) and `collection_round2/ROUND2_RUNBOOK.md` (how round 2 was collected). The human-readable methods narrative is `report/methods_review_and_revision.md`.
 
 ## 1. Outcome in one table

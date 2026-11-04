@@ -1,5 +1,7 @@
 # Who governs the robots? Narration script for the expanded deck (v2, 41 slides)
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Spoken by one narrator. Each heading names the slide; the paragraph beneath it is read while that slide is on screen. Target pace: about 150 words a minute. Total running time: about 28 minutes.
 
 ## 1. Cover

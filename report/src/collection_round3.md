@@ -1,3 +1,5 @@
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 *Companion to the analysis report. Round 3 executed the items of the round-3 plan that an agent can do alone: re-fetching blocked and missing instruments by official alternative routes, a harvest with service-robot terms, a full-text re-read of truncated statutes, a supplementary schema (whom an instrument binds, dates, legal effect of standards, provision dating), a second precision audit, and a source split of the governance-gap index. Items that need a person are listed in HUMAN_ASSISTANCE.md.*
 
 ## Summary

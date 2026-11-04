@@ -1,5 +1,7 @@
 # Adversarial review of v3 and the changes made in v4
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 Six independent reviews of the version-3 deliverables were commissioned from fresh reviewers (AI agents in this session, each with a written brief and no stake in the conclusions): a data scientist and applied statistician, an AI researcher specialising in LLM annotation validity, a conference reviewer (ICLR/NeurIPS style), a technology and policy journalist, an AI and robotics governance expert, and a data-visualisation and dashboard QA specialist. Each wrote a full review to `review/v3_reviews/`. Two further checks were commissioned from the findings: an independent precision audit of 100 randomly sampled "binding embodied instruments" (`review/v3_reviews/precision_audit.md`) and a round-2 reliability sample (second model and same-model re-run on 160 stratified round-2 documents). This log maps every material finding to a decision and to what changed in v4. Status codes: **Fixed**, **Partly** (implemented with a stated limit), **Reframed** (claim withdrawn or rewritten rather than data changed), **Not done** (with reason).
 
 ## 1. Summary verdicts on v3

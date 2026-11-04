@@ -5,6 +5,8 @@ author: "Prepared with Claude Code for Jimmy Lin, Centre for Enterprise Innovati
 date: "31 October 2026"
 ---
 
+← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)
+
 *Version 5 note (collection round 3, 2 November 2026). The tables and figures in this package were regenerated after round 3, which recovered the text of round-2 instruments that could not be read before, harvested new service-robot, care, exoskeleton and humanoid instruments, re-read the truncated statutes in full and added supplementary fields (whom a rule binds, dates, legal effect of standards, robot-provision year). The narrative below still states the v4 counts of 31 October 2026 and has not been re-audited sentence by sentence against the v5 tables; where a number in the text and a number in a table differ, the table is current. The round-3 companion report (collection_round3) gives the v5 headline counts and what changed, and HUMAN_ASSISTANCE.md lists what still needs a person.*
 
 ## Key numbers
