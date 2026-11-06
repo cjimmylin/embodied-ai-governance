@@ -1,0 +1,377 @@
+{
+ "base": "https://github.com/cjimmylin/embodied-ai-governance/blob/main/",
+ "tree": "https://github.com/cjimmylin/embodied-ai-governance/tree/main/",
+ "tasks": [
+  {
+   "id": "t01-validation",
+   "n": 1,
+   "area": "Changes the results",
+   "title": "Hand-label the 200-document validation sample",
+   "why": "No person has labelled a document yet; every number in the study rests on model labels. Two independent human coders give the first human check of each field and let the headline counts be corrected.",
+   "skill": "Policy or legal reading. One coder who reads Japanese or Chinese helps (20 of the 200).",
+   "effort": "About 30 hours per coder (8 to 15 minutes a document)",
+   "people": 2,
+   "unitLabel": "documents coded (200 per coder)",
+   "unitsTotal": 400,
+   "steps": [
+    "Read the coder instructions and the codebook sections they point to.",
+    "Download the coding sheet and save your own copy as coding_sheet_<your initials>.xlsx. The two coders work independently and do not compare answers until both are finished.",
+    "For each row of the sample, open its source URL and read at least the first 6,000 characters and the end. Fill your row: the six drop-down fields, the robot types, the twelve principles at 0, 1 or 2, and the minutes taken.",
+    "Do not open the answer key (answer_key_model_labels.csv) until both sheets are finished.",
+    "After each session, raise the counter on this card and post a one-line update.",
+    "When both sheets are done, meet to settle each disagreement and record the agreed value in a third, adjudicated sheet."
+   ],
+   "files": [
+    [
+     "Coder instructions",
+     "data/human_validation/INSTRUCTIONS.md"
+    ],
+    [
+     "The 200 documents (sample.csv)",
+     "data/human_validation/sample.csv"
+    ],
+    [
+     "Coding sheet (coding_sheet.xlsx)",
+     "data/human_validation/coding_sheet.xlsx"
+    ],
+    [
+     "Codebook",
+     "codebook/codebook.md"
+    ],
+    [
+     "Taxonomies",
+     "codebook/taxonomies.md"
+    ]
+   ],
+   "output": "The two completed coding sheets and the adjudicated sheet, sent to the coordinator or added through a pull request to data/human_validation/returned/.",
+   "caution": "The stored texts are not in the public repository; work from the source URL. Machine translation is acceptable only as an aid, and should be noted on the row."
+  },
+  {
+   "id": "t02-blocked",
+   "n": 2,
+   "area": "Changes the results",
+   "title": "Download the 74 instruments the crawler could not reach",
+   "why": "Official sites in France, Norway, Korea, Taiwan, several Chinese provinces and elsewhere refuse the study's research crawler. A person with an ordinary browser can save the texts, and each one may change a count.",
+   "skill": "An ordinary web browser. Reading French, Chinese, Korean or Norwegian helps.",
+   "effort": "5 to 10 minutes per instrument; one to two days in all",
+   "people": 2,
+   "unitLabel": "instruments saved",
+   "unitsTotal": 74,
+   "steps": [
+    "Open the human-assistance list, item 1, which gives each instrument with its official URL. Claim a group by tagging yourself on this card and posting an update such as 'taking Legifrance (16)'.",
+    "Open each official URL in your browser. If the page asks for a login, a payment or a check you cannot pass as an ordinary visitor, skip it and note why. Never work around access controls.",
+    "Save the instrument as <candidate_id>.pdf, or copy its text into <candidate_id>.txt whose first line is SOURCE_URL: followed by the address you used.",
+    "Record each instrument in the download log template, including the ones you had to skip.",
+    "Put the files and the log in the team's shared folder, or send them to the coordinator. Do not commit the texts to the public repository: source texts are not redistributed.",
+    "Raise the counter on this card as you go."
+   ],
+   "files": [
+    [
+     "Human-assistance list (item 1)",
+     "HUMAN_ASSISTANCE.md"
+    ],
+    [
+     "Download log template",
+     "volunteers/templates/blocked_downloads_log.csv"
+    ],
+    [
+     "Collector reports with the routes already tried",
+     "collection_round3/status"
+    ]
+   ],
+   "output": "The saved files and the completed download log.",
+   "caution": ""
+  },
+  {
+   "id": "t03-standards",
+   "n": 3,
+   "area": "Changes the results",
+   "title": "Obtain the 44 obtainable technical standards through a library",
+   "why": "Technical standards say how to make a robot safe, but the study could read only their public preview pages. Full texts would let the standards be labelled properly.",
+   "skill": "A university, school or institutional library login.",
+   "effort": "A few days",
+   "people": 1,
+   "unitLabel": "standards obtained",
+   "unitsTotal": 44,
+   "steps": [
+    "Open the human-assistance list, item 3, and the list of standard ids. Set aside the 13 unpublished ISO drafts (marked PWI, AWI, WD, CD, DTS or DPAS): no one outside the committees can obtain them.",
+    "Check your library for these routes. ASTM Compass, or the ASTM academic programme (ASTM, 19 standards). British Standards Online, IHS/Accuris or Techstreet (the 9 published ISO standards and BS 8611). BSI's free download after registering, offered for the government-sponsored PAS documents (PAS 1881, 1882, 1884, 1885; check each). SAE Mobilus (SAE, 4; J3016 is also free from SAE). UL's free digital view after registering (UL, 3). The Korean standards portal, which shows KS standards online (the KS copies of ISO 13482 and 10218-1). The Singapore Standards eShop (TR 68-2).",
+    "Before anything is analysed, read the licence: confirm that it permits text analysis for research. If it does not, note the instrument's legal effect and scope by hand in the log instead.",
+    "Record each standard in the access log: route, licence answer, date.",
+    "Store permitted copies only where the coordinator says (data/texts_private/ on the project machine). Never commit a standard to the repository or share the PDF."
+   ],
+   "files": [
+    [
+     "Human-assistance list (item 3)",
+     "HUMAN_ASSISTANCE.md"
+    ],
+    [
+     "Standard ids (ids_standards.txt)",
+     "data/ids_standards.txt"
+    ],
+    [
+     "Access log template",
+     "volunteers/templates/standards_access_log.csv"
+    ]
+   ],
+   "output": "The completed access log, and the permitted texts stored privately.",
+   "caution": "Library licences cover their own members only and usually forbid redistribution."
+  },
+  {
+   "id": "t04-legal",
+   "n": 4,
+   "area": "Changes the results",
+   "title": "Rule on the audit failures and check the uncertain legal readings",
+   "why": "The second precision audit would exclude 27 sampled instruments, and the model was unsure about whom 99 instruments bind, their dates, the legal effect of standards or when the robot provision arrived. A ruling on each corrects the counts directly.",
+   "skill": "Legal training, or experience reading statutes and regulations.",
+   "effort": "About a week, split between two people",
+   "people": 2,
+   "unitLabel": "rulings recorded (27 audit + 99 checks)",
+   "unitsTotal": 126,
+   "steps": [
+    "Agree a split: one person takes the 27 audit failures, the other the 99 legal-check ids, or divide by jurisdiction.",
+    "Audit failures: read section 5 of the audit report and the failing rows of the results file. For each, rule keep, exclude or relabel (for example 'amendment', 'general-AI instrument') with a one-line reason.",
+    "Legal checks: for each id in ids_legal_check.txt, open annotations/supplement_v5/<doc_id>.json to see what the model answered and the quote it relied on, and open the instrument at its source_url (in data/master_table.csv). Confirm or correct: whom it binds, the entry-into-force, application and repeal dates, the legal effect of a standard, and the year the robot-relevant provision was added.",
+    "Record every ruling in the rulings template with the source you relied on (article, gazette page or amendment history).",
+    "Raise the counter on this card and post an update when you finish a jurisdiction."
+   ],
+   "files": [
+    [
+     "Second precision audit (section 5 lists the failures)",
+     "review/v5_audit/precision_audit_v5.md"
+    ],
+    [
+     "Audit results (CSV)",
+     "review/v5_audit/precision_audit_v5_results.csv"
+    ],
+    [
+     "Ids to check (ids_legal_check.txt)",
+     "data/ids_legal_check.txt"
+    ],
+    [
+     "Model answers with quotes",
+     "annotations/supplement_v5"
+    ],
+    [
+     "Master table (source URLs)",
+     "data/master_table.csv"
+    ],
+    [
+     "Rulings template",
+     "volunteers/templates/legal_rulings.csv"
+    ]
+   ],
+   "output": "The completed rulings file.",
+   "caution": ""
+  },
+  {
+   "id": "t05-reference",
+   "n": 5,
+   "area": "Changes the results",
+   "title": "Settle the reference list of instruments every collection should have",
+   "why": "The study measures what it missed against a list of key instruments that the AI agent compiled. The list should be the team's judgement, not the machine's.",
+   "skill": "Knowledge of AI or robot governance; three people form the panel.",
+   "effort": "An hour of reading each and a one-hour meeting",
+   "people": 3,
+   "unitLabel": "instruments reviewed",
+   "unitsTotal": 39,
+   "steps": [
+    "Each panellist reads the 39 instruments in the reference list and fills a copy of the review template: keep or drop each, and add instruments that are missing, with the jurisdiction and a reason.",
+    "Meet for an hour to agree the final list.",
+    "One panellist records the agreed list in reference_instruments.csv and opens a pull request, or sends it to the coordinator."
+   ],
+   "files": [
+    [
+     "Current reference list",
+     "data/reference_instruments.csv"
+    ],
+    [
+     "Review template",
+     "volunteers/templates/reference_list_review.csv"
+    ]
+   ],
+   "output": "The agreed reference list.",
+   "caution": ""
+  },
+  {
+   "id": "t06-regions",
+   "n": 6,
+   "area": "Extends the study",
+   "title": "Fill the thin regions: Africa, the Middle East, Latin America, Oceania",
+   "why": "These regions hold 36 of the 278 binding instruments, partly because their legal portals are hard to search automatically. People who know a country's legal publishing can find what the harvests missed.",
+   "skill": "Familiarity with a country's legal system or language.",
+   "effort": "A few hours per country",
+   "people": 2,
+   "unitLabel": "candidate instruments recorded",
+   "unitsTotal": null,
+   "steps": [
+    "Choose a country and post an update to claim it, so two people do not search the same one.",
+    "See what the collection already has: open the explorer and search the country, or filter data/master_table.csv on jurisdiction_country.",
+    "Search the official sources: the national gazette or legislation portal, the civil aviation authority (drone rules), the transport ministry (automated vehicles), the labour or industry ministry (industrial and service robots).",
+    "Record each instrument found in the new-instruments template, following the candidate schema. The official URL must open.",
+    "Raise the counter and post a one-line summary per country."
+   ],
+   "files": [
+    [
+     "Candidate schema (what to record)",
+     "collection_round2/CANDIDATE_SCHEMA.md"
+    ],
+    [
+     "New-instruments template",
+     "volunteers/templates/new_instruments.csv"
+    ],
+    [
+     "Master table",
+     "data/master_table.csv"
+    ],
+    [
+     "Explorer",
+     "https://cjimmylin.github.io/embodied-ai-governance/docs/explorer/index.html"
+    ]
+   ],
+   "output": "The completed new-instruments file for each country searched.",
+   "caution": ""
+  },
+  {
+   "id": "t07-watch",
+   "n": 7,
+   "area": "Extends the study",
+   "title": "Keep watch for new instruments each week",
+   "why": "The collection stops at October 2026 and 2026 is already its largest year. A weekly watch keeps the map current between collection rounds.",
+   "skill": "Comfort searching official legal databases.",
+   "effort": "About an hour a week",
+   "people": 1,
+   "unitLabel": "weekly checks done",
+   "unitsTotal": null,
+   "steps": [
+    "Once a week, search the sources the study already uses for new instruments on robots, automated driving, drones, exoskeletons and humanoids: EUR-Lex, legislation.gov.uk, the US Federal Register and state legislature sites, Japan's e-Gov law database and China's State Council policy library.",
+    "Check each find against the explorer to see whether it is already in the collection.",
+    "Record new finds in the new-instruments template, with the date found.",
+    "Raise the counter and post 'week of <date>: N new'."
+   ],
+   "files": [
+    [
+     "New-instruments template",
+     "volunteers/templates/new_instruments.csv"
+    ],
+    [
+     "Candidate schema",
+     "collection_round2/CANDIDATE_SCHEMA.md"
+    ],
+    [
+     "Explorer",
+     "https://cjimmylin.github.io/embodied-ai-governance/docs/explorer/index.html"
+    ]
+   ],
+   "output": "A running new-instruments file.",
+   "caution": ""
+  },
+  {
+   "id": "t08-translation",
+   "n": 8,
+   "area": "Extends the study",
+   "title": "Check the labels of Japanese, Chinese and Korean documents",
+   "why": "The East Asian documents were labelled from the original language. Native readers can test whether the model read them correctly.",
+   "skill": "Native or fluent reading of Japanese, Chinese or Korean.",
+   "effort": "About a day per language",
+   "people": 2,
+   "unitLabel": "documents checked (12 per language)",
+   "unitsTotal": 36,
+   "steps": [
+    "Open data/master_table.csv and filter the language column to ja, zh or ko. Choose 12 documents per language, at least half of them binding instruments (doc_class governance_instrument_binding).",
+    "Read each document at its source_url.",
+    "Compare five model labels with your own reading: doc_class, binding_nature, instrument_status, embodied_categories and relevance_to_embodied_ai_governance, plus the English summary in summary_en.",
+    "Record each comparison in the translation-check template.",
+    "Raise the counter on this card."
+   ],
+   "files": [
+    [
+     "Master table",
+     "data/master_table.csv"
+    ],
+    [
+     "Translation-check template",
+     "volunteers/templates/translation_check.csv"
+    ],
+    [
+     "Codebook (what each label means)",
+     "codebook/codebook.md"
+    ]
+   ],
+   "output": "The completed translation-check file.",
+   "caution": ""
+  },
+  {
+   "id": "t09-narrative",
+   "n": 9,
+   "area": "Extends the study",
+   "title": "Rewrite the reports with the version-5 numbers",
+   "why": "The brief, analysis report, paper and supplement still state the version-4 counts, while their tables and figures are version 5.",
+   "skill": "Clear writing; the checker needs care with numbers.",
+   "effort": "A few days for the writer, a day for the checker",
+   "people": 2,
+   "unitLabel": "documents updated",
+   "unitsTotal": 4,
+   "steps": [
+    "Read the version-5 summary to see what changed.",
+    "Writer: in report/src/<document>.md, replace each version-4 number with the value in the table the sentence cites (tables/ folder), and remove the 'Version 5 note' at the top when a document is done.",
+    "Checker: verify every number against its table, as the version-4 numbers audit did, and list any mismatch.",
+    "Submit each document as a pull request; the coordinator rebuilds the PDFs."
+   ],
+   "files": [
+    [
+     "Version-5 summary",
+     "report/v5_summary.md"
+    ],
+    [
+     "Report sources",
+     "report/src"
+    ],
+    [
+     "Tables",
+     "tables"
+    ],
+    [
+     "Example numbers audit",
+     "review/v4_numbers_audit.md"
+    ]
+   ],
+   "output": "Four updated report sources and a numbers-audit note.",
+   "caution": ""
+  },
+  {
+   "id": "t10-usertest",
+   "n": 10,
+   "area": "Extends the study",
+   "title": "Test the database entry designs with five real users",
+   "why": "Seven layouts for one instrument entry are ready. Watching intended users find answers shows which layout works before the recommended design is built for real.",
+   "skill": "Running a short interview; no technical background needed.",
+   "effort": "About a week, including recruiting",
+   "people": 1,
+   "unitLabel": "users tested",
+   "unitsTotal": 5,
+   "steps": [
+    "Recruit five intended users of the CEI database: researchers, policy staff or students.",
+    "Give each three questions about the example instrument (the EU Machinery Regulation): Whom does it bind? Is it in force, and since when? What does it require on physical safety?",
+    "Let them answer first on the Current tab, then on two of the five designs, then on Recommended. Note the time taken and whether the answer was right on each tab.",
+    "Record the sessions in the user-testing notes template and summarise which layout answered fastest and most reliably."
+   ],
+   "files": [
+    [
+     "The clone with the seven tabs",
+     "https://cjimmylin.github.io/embodied-ai-governance/docs/pages/clone/index.html#record"
+    ],
+    [
+     "The five designs side by side",
+     "https://cjimmylin.github.io/embodied-ai-governance/docs/pages/instrument_entry_proposals.html"
+    ],
+    [
+     "User-testing notes template",
+     "volunteers/templates/user_testing_notes.md"
+    ]
+   ],
+   "output": "The completed notes with a one-paragraph recommendation.",
+   "caution": ""
+  }
+ ]
+}

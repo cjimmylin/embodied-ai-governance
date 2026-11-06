@@ -1,0 +1,245 @@
+<title>Volunteer Sign-up and Tracker</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+:root{--bg:#F4F1EA;--bg2:#EAE5DA;--card:#FFFDF8;--fg:#123D33;--body:#4A5550;--mute:#6F7A75;--line:#D9D3C6;--acc:#A24A24;--accsoft:#F3E3D8;--ok:#1D6B4F;--oksoft:#DCEFE6;--warn:#8A5A12;--warnsoft:#F6E8CC;--bar:#123D33;--chip:#EAE5DA;color-scheme:light}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#0F2823;--bg2:#153630;--card:#183F38;--fg:#F4F1EA;--body:#C9D9D3;--mute:#8FA8A0;--line:#2A5048;--acc:#E7B98F;--accsoft:#2E4A42;--ok:#8FD4B5;--oksoft:#1E4A3D;--warn:#F0C77E;--warnsoft:#3E3620;--bar:#E7B98F;--chip:#22504A;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0F2823;--bg2:#153630;--card:#183F38;--fg:#F4F1EA;--body:#C9D9D3;--mute:#8FA8A0;--line:#2A5048;--acc:#E7B98F;--accsoft:#2E4A42;--ok:#8FD4B5;--oksoft:#1E4A3D;--warn:#F0C77E;--warnsoft:#3E3620;--bar:#E7B98F;--chip:#22504A;color-scheme:dark}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:'IBM Plex Sans',Arial,sans-serif;font-size:15px;line-height:1.5}
+.wrap{max-width:1120px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 72px}
+a{color:var(--acc)}
+.top{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:.9rem;margin-bottom:14px}
+.eyebrow{font-size:.78rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--acc);margin:0 0 6px}
+h1{font-family:'Fraunces',Georgia,serif;font-weight:500;font-size:clamp(1.9rem,5vw,3rem);line-height:1.05;margin:0 0 10px;text-wrap:balance}
+h2{font-family:'Fraunces',Georgia,serif;font-weight:500;font-size:1.45rem;margin:34px 0 10px}
+.lede{color:var(--body);max-width:72ch;margin:0 0 6px}
+.note{background:var(--accsoft);border-radius:10px;padding:10px 14px;font-size:.92rem;margin:12px 0;max-width:90ch}
+.note.warn{background:var(--warnsoft)}
+.how{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;margin:14px 0}
+.how div{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:.9rem;color:var(--body)}
+.how b{color:var(--fg);display:block;margin-bottom:2px}
+.me{display:flex;flex-wrap:wrap;gap:8px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:14px 0}
+.me label{font-weight:600;font-size:.9rem}
+.me small{color:var(--mute);font-size:.82rem;flex-basis:100%}
+input[type=text],input[type=email],input[type=number],select,textarea{font:inherit;font-size:.92rem;color:var(--fg);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:6px 9px;min-width:0}
+input[type=email]{width:min(320px,100%)}
+textarea{width:100%;resize:vertical;min-height:2.6em}
+button{font:inherit;font-size:.88rem;cursor:pointer;background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:999px;padding:5px 12px}
+button:hover{border-color:var(--acc)}
+button.primary{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+button:disabled,input:disabled,select:disabled,textarea:disabled{opacity:.55;cursor:not-allowed}
+button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:8px 0 6px}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+.tile .v{font-family:'Fraunces',Georgia,serif;font-size:1.9rem;line-height:1;color:var(--acc)}
+.tile .l{color:var(--body);font-size:.85rem;margin-top:4px}
+.tablewrap{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:10px}
+table{border-collapse:collapse;width:100%;font-size:.9rem;min-width:620px}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--mute);font-weight:600;font-size:.76rem;letter-spacing:.06em;text-transform:uppercase}
+td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
+.minibar{display:inline-block;width:90px;height:8px;background:var(--bg2);border-radius:4px;vertical-align:middle;margin-right:6px;overflow:hidden}
+.minibar i{display:block;height:100%;background:var(--bar)}
+.filters{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 12px}
+.filters button.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.task{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin-bottom:14px;display:flex;flex-direction:column;gap:10px;min-width:0;scroll-margin-top:12px}
+.task .hd{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:flex-start;justify-content:space-between}
+.task h3{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:1.2rem;margin:0;line-height:1.25;text-wrap:balance;flex:1 1 320px;min-width:0}
+.task h3 .n{color:var(--acc);margin-right:6px}
+.area{display:inline-block;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);font-weight:600;margin-bottom:2px}
+.why{margin:0;color:var(--body);max-width:80ch}
+.facts{display:flex;flex-wrap:wrap;gap:4px 18px;font-size:.88rem;color:var(--body)}
+.facts b{color:var(--fg);font-weight:600}
+.status{display:flex;align-items:center;gap:6px;font-size:.88rem}
+.pill{display:inline-block;border-radius:999px;padding:2px 10px;font-size:.8rem;font-weight:600}
+.pill.Open{background:var(--bg2);color:var(--fg)} .pill.In.progress,.pill.progress{background:var(--accsoft);color:var(--fg)} .pill.Blocked{background:var(--warnsoft);color:var(--warn)} .pill.Done{background:var(--oksoft);color:var(--ok)}
+.prog{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px}
+.bar{flex:1 1 220px;height:12px;background:var(--bg2);border-radius:6px;overflow:hidden;min-width:120px}
+.bar i{display:block;height:100%;background:var(--bar);transition:width .2s}
+.counter{display:flex;align-items:center;gap:4px;font-size:.9rem}
+.counter input{width:5.5em;text-align:right}
+.counter .lbl{color:var(--mute)}
+.people{display:flex;flex-direction:column;gap:6px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;align-items:center;min-height:28px}
+.chip{display:inline-flex;align-items:center;gap:6px;background:var(--chip);border-radius:999px;padding:3px 4px 3px 10px;font-size:.86rem;max-width:100%}
+.chip .em{overflow-wrap:anywhere}
+.chip .role{border:0;background:var(--card);border-radius:999px;padding:1px 8px;font-size:.74rem;font-weight:600}
+.chip .x{border:0;background:transparent;padding:0 6px;font-size:1rem;line-height:1;color:var(--mute)}
+.chip .x:hover{color:var(--acc)}
+.need{font-size:.84rem;color:var(--mute)}
+.need.short{color:var(--warn);font-weight:600}
+.addrow{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.addrow .emails{flex:1 1 280px}
+.err{color:var(--warn);font-size:.84rem;min-height:1em}
+details{border-top:1px solid var(--line);padding-top:8px}
+summary{cursor:pointer;font-weight:600;font-size:.92rem}
+details ol{margin:8px 0;padding-left:20px;color:var(--body)} details ol li{margin:4px 0}
+.files{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0}
+.files a{background:var(--bg2);color:var(--fg);text-decoration:none;border-radius:999px;padding:3px 11px;font-size:.84rem}
+.files a:hover{outline:1px solid var(--acc)}
+.small{font-size:.88rem;color:var(--body);margin:6px 0}
+.log{display:flex;flex-direction:column;gap:6px}
+.log ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:4px}
+.log li{font-size:.86rem;color:var(--body);border-left:3px solid var(--line);padding-left:8px;overflow-wrap:anywhere}
+.log li .w{color:var(--mute);font-size:.78rem}
+.postrow{display:flex;gap:6px;align-items:flex-start}
+.postrow textarea{flex:1}
+.empty{color:var(--mute);font-size:.86rem}
+.activity li{font-size:.88rem;padding:5px 0;border-bottom:1px solid var(--line);list-style:none;overflow-wrap:anywhere}
+.activity{margin:0;padding:0;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:4px 12px}
+footer{margin-top:40px;color:var(--mute);font-size:.84rem;max-width:90ch}
+@media (max-width:560px){.task{padding:14px}.postrow{flex-direction:column}.postrow button{align-self:flex-end}}
+@media (prefers-reduced-motion:reduce){.bar i{transition:none}}
+</style>
+
+<div class="wrap">
+<div class="top"><a href="https://cjimmylin.github.io/embodied-ai-governance/docs/index.html">← Project hub</a><a href="https://github.com/cjimmylin/embodied-ai-governance/blob/main/volunteers/README.md">Written copy of the task briefs</a><a href="https://github.com/cjimmylin/embodied-ai-governance/tree/main/volunteers/templates">Templates</a></div>
+<p class="eyebrow">Who governs the robots? · volunteer team</p>
+<h1>Volunteer sign-up and tracker</h1>
+<p class="lede">Ten pieces of work that a person can do and the study's AI agents could not, ordered by how much they change the results. Tag yourself (or a teammate) by email on a task, open its instructions, and keep its counter and status up to date so everyone can see where the work stands.</p>
+
+<div class="how">
+<div><b>1. Choose a task</b>Read the cards below; "Needs people" shows where help is short.</div>
+<div><b>2. Tag people</b>Type one or more email addresses on a card and press Tag. Click a person's role to switch lead and helper.</div>
+<div><b>3. Do the work</b>Open "What to do" on the card for the steps, the files and what to hand back.</div>
+<div><b>4. Report progress</b>Raise the counter, set the status, and post a one-line update when you stop for the day.</div>
+</div>
+
+<div class="note" id="state" hidden></div>
+
+<div class="me">
+<label for="myEmail">Your email</label>
+<input type="email" id="myEmail" placeholder="you@example.org" autocomplete="email">
+<button type="button" id="saveMe">Save</button>
+<small>Signs your updates and fills the "Tag me" buttons. It is remembered in this browser only. Emails you tag on a task are visible to everyone who can open this page.</small>
+</div>
+
+<h2>Where the work stands</h2>
+<div class="tiles" id="tiles"></div>
+<div class="tablewrap"><table id="overview"><thead><tr><th>Task</th><th>Status</th><th>People</th><th>Progress</th><th>Last update</th></tr></thead><tbody></tbody></table></div>
+
+<h2>The tasks</h2>
+<div class="filters" role="group" aria-label="Show tasks">
+<button type="button" class="on" data-f="all">All</button><button type="button" data-f="needs">Needs people</button><button type="button" data-f="progress">In progress</button><button type="button" data-f="blocked">Blocked</button><button type="button" data-f="done">Done</button>
+</div>
+<div id="tasks"><p class="empty" id="loading">Loading the tasks…</p></div>
+
+<h2>The team</h2>
+<p class="small">Everyone tagged on a task, with what they are on. <button type="button" id="copyAll">Copy all emails</button></p>
+<div class="tablewrap"><table id="roster"><thead><tr><th>Email</th><th>Tasks</th></tr></thead><tbody></tbody></table></div>
+<textarea id="copyBox" aria-label="Emails to copy" readonly hidden></textarea>
+
+<h2>Recent activity</h2>
+<ul class="activity" id="activity"><li class="empty">No updates yet.</li></ul>
+
+<footer>Coordinator: the project owner. Task briefs, templates and the study itself are public at github.com/cjimmylin/embodied-ai-governance. General rules for every task: work from official sources; never work around a login, payment or bot check; never commit source texts or standards to the public repository.</footer>
+</div>
+
+<script>
+(function(){
+const $=id=>document.getElementById(id);
+const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const EMAIL=/^[^\s@,;<>"']+@[^\s@,;<>"']+\.[^\s@,;<>"']{2,}$/;
+const STATUSES=["Open","In progress","Blocked","Done"];
+let db=null, readOnly=false, filter="all";
+const TASKS={}, ASSIGN={}, UPDATES=[];
+const built={};
+let me="";
+try{ me=localStorage.getItem("vol-me")||""; }catch(e){}
+$("myEmail").value=me;
+$("saveMe").addEventListener("click",()=>{ const v=$("myEmail").value.trim().toLowerCase(); if(v && !EMAIL.test(v)){ $("myEmail").setCustomValidity("Enter a valid email address"); $("myEmail").reportValidity(); return; } $("myEmail").setCustomValidity(""); me=v; try{ localStorage.setItem("vol-me",v); }catch(e){} $("saveMe").textContent="Saved"; setTimeout(()=>$("saveMe").textContent="Save",1500); });
+
+function note(msg, warn){ const n=$("state"); if(!msg){ n.hidden=true; return; } n.hidden=false; n.className="note"+(warn?" warn":""); n.textContent=msg; }
+function when(ms){ if(!ms) return ""; const d=new Date(ms); return d.toLocaleDateString(undefined,{day:"numeric",month:"short"})+" "+d.toLocaleTimeString(undefined,{hour:"2-digit",minute:"2-digit"}); }
+function slug(s){ return s.replace(/[^A-Za-z0-9_.~:@+-]/g,"_").slice(0,150); }
+function frac(t){ if(t.unitsTotal) return Math.max(0,Math.min(1,(t.unitsDone||0)/t.unitsTotal)); return t.status==="Done"?1:0; }
+function people(id){ return Object.values(ASSIGN).filter(a=>a.taskId===id).sort((a,b)=>(a.role==="lead"?0:1)-(b.role==="lead"?0:1)||a.email.localeCompare(b.email)); }
+function lastUpdate(id){ return UPDATES.find(u=>u.taskId===id); }
+function failed(e){ if(e&&e.code==="invalid_argument"){ setReadOnly(true); note("This view can read the sheet but not change it. Ask the owner to share it with you as Contributor or Editor to sign up.",true); } else if(e&&e.code==="quota_exceeded"){ note("The sheet's storage is full; tell the coordinator.",true); } else { note("That change did not save. Check your connection and try again.",true); } }
+function setReadOnly(v){ readOnly=v; document.querySelectorAll("#tasks input,#tasks select,#tasks textarea,#tasks button.w").forEach(el=>el.disabled=v); }
+
+function buildCard(id){
+  const t=TASKS[id]; const el=document.createElement("article"); el.className="task"; el.id=id;
+  el.innerHTML=`<div class="hd"><div style="flex:1 1 320px;min-width:0"><span class="area"></span><h3><span class="n"></span><span class="tt"></span></h3></div>
+  <div class="status"><label for="st-${id}">Status</label><select id="st-${id}" class="w">${STATUSES.map(s=>`<option>${s}</option>`).join("")}</select></div></div>
+  <p class="why"></p><div class="facts"></div>
+  <div class="prog"><div class="bar" role="img"><i></i></div><div class="counter"><button type="button" class="w dec" aria-label="Decrease">−</button><input type="number" min="0" class="w cnt" aria-label="Count done"><button type="button" class="w inc" aria-label="Increase">+</button><span class="lbl"></span></div></div>
+  <div class="people"><div class="chips"></div><div class="need"></div>
+   <div class="addrow"><input type="text" class="w emails" placeholder="name@example.org, other@example.org" aria-label="Email addresses to tag"><select class="w rolesel" aria-label="Role"><option value="helper">helper</option><option value="lead">lead</option></select><button type="button" class="w primary tag">Tag</button><button type="button" class="w tagme">Tag me</button><button type="button" class="copy">Copy emails</button></div><div class="err"></div></div>
+  <details><summary>What to do, files and what to hand back</summary><ol class="steps"></ol><div class="files"></div><p class="small out"></p><p class="small caut"></p></details>
+  <div class="log"><ul></ul><div class="postrow"><textarea class="w msg" rows="1" placeholder="Post an update, e.g. 'coded 40 today' or 'taking Legifrance'" aria-label="Update"></textarea><button type="button" class="w post">Post</button></div></div>`;
+  const q=s=>el.querySelector(s);
+  q("select").addEventListener("change",async e=>{ const v=e.target.value; try{ await db.doc("tasks/"+id).update({status:v,updatedAt:Date.now(),updatedBy:me}); await db.collection("updates").add({taskId:id,text:"Status set to "+v,by:me,at:Date.now(),auto:true}); }catch(err){ failed(err); } });
+  const setCount=async n=>{ const t=TASKS[id]; n=Math.max(0,Math.round(n)); if(t.unitsTotal) n=Math.min(n,t.unitsTotal); if(n===(t.unitsDone||0)) { q(".cnt").value=n; return; } try{ await db.doc("tasks/"+id).update({unitsDone:n,updatedAt:Date.now(),updatedBy:me}); }catch(err){ failed(err); } };
+  q(".dec").addEventListener("click",()=>setCount((TASKS[id].unitsDone||0)-1));
+  q(".inc").addEventListener("click",()=>setCount((TASKS[id].unitsDone||0)+1));
+  q(".cnt").addEventListener("change",e=>setCount(Number(e.target.value)||0));
+  const tag=async list=>{ const errEl=q(".err"); errEl.textContent=""; const bad=list.filter(x=>!EMAIL.test(x)); if(bad.length){ errEl.textContent="Not an email address: "+bad.join(", "); return; } const role=q(".rolesel").value||"helper"; let added=0;
+    for(const em of list){ const did=id+"--"+slug(em); if(ASSIGN[did]) continue; try{ await db.doc("assignments/"+did).set({taskId:id,email:em,role,addedAt:Date.now(),addedBy:me}); added++; }catch(err){ failed(err); return; } }
+    if(added){ q(".emails").value=""; try{ await db.collection("updates").add({taskId:id,text:"Tagged "+list.join(", ")+" as "+role,by:me,at:Date.now(),auto:true}); }catch(e){} } else errEl.textContent="Already tagged."; };
+  q(".tag").addEventListener("click",()=>{ const list=[...new Set(q(".emails").value.split(/[\s,;]+/).map(s=>s.trim().toLowerCase()).filter(Boolean))]; if(!list.length){ q(".err").textContent="Type at least one email address."; return; } tag(list); });
+  q(".emails").addEventListener("keydown",e=>{ if(e.key==="Enter"){ e.preventDefault(); q(".tag").click(); } });
+  q(".tagme").addEventListener("click",()=>{ if(!me){ q(".err").textContent="Save your email at the top of the page first."; $("myEmail").focus(); return; } tag([me]); });
+  q(".copy").addEventListener("click",()=>copy(people(id).map(a=>a.email).join(", ")));
+  q(".chips").addEventListener("click",async e=>{ const b=e.target.closest("button"); if(!b||readOnly) return; const did=b.dataset.id; const a=ASSIGN[did]; if(!a) return;
+    try{ if(b.classList.contains("x")){ await db.doc("assignments/"+did).delete(); await db.collection("updates").add({taskId:id,text:"Untagged "+a.email,by:me,at:Date.now(),auto:true}); }
+         else if(b.classList.contains("role")){ await db.doc("assignments/"+did).update({role:a.role==="lead"?"helper":"lead"}); } }catch(err){ failed(err); } });
+  q(".post").addEventListener("click",async()=>{ const v=q(".msg").value.trim(); if(!v) return; if(v.length>1000){ q(".err").textContent="Keep updates under 1,000 characters."; return; } try{ await db.collection("updates").add({taskId:id,text:v,by:me,at:Date.now()}); q(".msg").value=""; }catch(err){ failed(err); } });
+  built[id]=el; return el;
+}
+function fillCard(id){
+  const t=TASKS[id], el=built[id], q=s=>el.querySelector(s);
+  q(".area").textContent=t.area||""; q(".n").textContent=t.n+"."; q(".tt").textContent=t.title||""; q(".why").textContent=t.why||"";
+  q(".facts").innerHTML=`<span><b>Skill:</b> ${esc(t.skill)}</span><span><b>Effort:</b> ${esc(t.effort)}</span><span><b>People needed:</b> ${esc(t.people)}</span>`;
+  if(document.activeElement!==q("select")) q("select").value=t.status||"Open";
+  const f=frac(t); q(".bar i").style.width=(f*100).toFixed(1)+"%"; q(".bar").setAttribute("aria-label",Math.round(f*100)+"% done");
+  if(document.activeElement!==q(".cnt")) q(".cnt").value=t.unitsDone||0;
+  q(".cnt").max=t.unitsTotal||""; q(".lbl").textContent=(t.unitsTotal?"of "+t.unitsTotal+" ":"")+(t.unitLabel||"");
+  const ps=people(id);
+  q(".chips").innerHTML=ps.length?ps.map(a=>`<span class="chip"><span class="em">${esc(a.email)}</span><button type="button" class="role w" data-id="${esc(id+"--"+slug(a.email))}" title="Switch lead and helper">${a.role==="lead"?"lead":"helper"}</button><button type="button" class="x w" data-id="${esc(id+"--"+slug(a.email))}" aria-label="Untag ${esc(a.email)}">×</button></span>`).join(""):'<span class="empty">Nobody tagged yet.</span>';
+  const short=ps.length<(t.people||1); q(".need").className="need"+(short?" short":""); q(".need").textContent=short?`Needs ${(t.people||1)-ps.length} more (${ps.length} of ${t.people} tagged)`:`${ps.length} tagged (${t.people} needed)`;
+  q(".steps").innerHTML=(t.steps||[]).map(s=>`<li>${esc(s)}</li>`).join("");
+  q(".files").innerHTML=(t.files||[]).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.label)}</a>`).join("");
+  q(".out").innerHTML=t.output?`<b>Hand back:</b> ${esc(t.output)}`:""; q(".caut").innerHTML=t.caution?`<b>Note:</b> ${esc(t.caution)}`:"";
+  const us=UPDATES.filter(u=>u.taskId===id).slice(0,6);
+  q(".log ul").innerHTML=us.map(u=>`<li>${esc(u.text)} <span class="w">· ${esc(u.by||"someone")} · ${when(u.at)}</span></li>`).join("");
+  if(readOnly) el.querySelectorAll("input,select,textarea,button.w").forEach(x=>x.disabled=true);
+}
+function visible(t){ const ps=people(t.id).length;
+  if(filter==="needs") return ps<(t.people||1); if(filter==="progress") return t.status==="In progress"; if(filter==="blocked") return t.status==="Blocked"; if(filter==="done") return t.status==="Done"; return true; }
+function render(){
+  const ids=Object.keys(TASKS).sort((a,b)=>TASKS[a].n-TASKS[b].n); const box=$("tasks");
+  if(ids.length){ const l=$("loading"); if(l) l.remove(); }
+  ids.forEach(id=>{ if(!built[id]) box.appendChild(buildCard(id)); fillCard(id); built[id].hidden=!visible(TASKS[id]); });
+  Object.keys(built).forEach(id=>{ if(!TASKS[id]){ built[id].remove(); delete built[id]; } });
+  const ts=ids.map(i=>TASKS[i]); const emails=[...new Set(Object.values(ASSIGN).map(a=>a.email))];
+  const staffed=ts.filter(t=>people(t.id).length>=(t.people||1)).length, done=ts.filter(t=>t.status==="Done").length, prog=ts.filter(t=>t.status==="In progress").length;
+  const avg=ts.length?ts.reduce((s,t)=>s+frac(t),0)/ts.length:0;
+  $("tiles").innerHTML=[[emails.length,"people tagged"],[`${staffed} of ${ts.length}`,"tasks with enough people"],[prog,"tasks in progress"],[done,"tasks done"],[Math.round(avg*100)+"%","average completion"]].map(([v,l])=>`<div class="tile"><div class="v">${esc(v)}</div><div class="l">${esc(l)}</div></div>`).join("");
+  $("overview").tBodies[0].innerHTML=ts.map(t=>{ const ps=people(t.id).length, u=lastUpdate(t.id), f=frac(t);
+    return `<tr><td><a href="#${esc(t.id)}">${esc(t.n)}. ${esc(t.title)}</a></td><td><span class="pill ${esc(t.status||"Open")}">${esc(t.status||"Open")}</span></td><td class="num">${ps} of ${esc(t.people)}</td><td class="num"><span class="minibar"><i style="width:${(f*100).toFixed(0)}%"></i></span>${t.unitsTotal?`${t.unitsDone||0} / ${t.unitsTotal}`:`${t.unitsDone||0}`}</td><td>${u?esc(when(u.at)):'<span class="empty">none</span>'}</td></tr>`; }).join("");
+  const by={}; Object.values(ASSIGN).forEach(a=>{ (by[a.email]=by[a.email]||[]).push(a); });
+  $("roster").tBodies[0].innerHTML=Object.keys(by).sort().map(em=>`<tr><td>${esc(em)}</td><td>${by[em].map(a=>TASKS[a.taskId]?`<a href="#${esc(a.taskId)}">${esc(TASKS[a.taskId].n)}. ${esc(TASKS[a.taskId].title)}</a>${a.role==="lead"?" (lead)":""}`:"").join("<br>")}</td></tr>`).join("")||'<tr><td colspan="2" class="empty">Nobody tagged yet.</td></tr>';
+  const act=UPDATES.slice(0,15); $("activity").innerHTML=act.length?act.map(u=>`<li><b>${esc(TASKS[u.taskId]?TASKS[u.taskId].n+". ":"")}</b>${esc(u.text)} <span class="empty">· ${esc(u.by||"someone")} · ${when(u.at)}</span></li>`).join(""):'<li class="empty">No updates yet.</li>';
+}
+document.querySelectorAll(".filters button").forEach(b=>b.addEventListener("click",()=>{ filter=b.dataset.f; document.querySelectorAll(".filters button").forEach(x=>x.classList.toggle("on",x===b)); render(); }));
+function copy(text){ if(!text){ return; } const fallback=()=>{ const c=$("copyBox"); c.hidden=false; c.value=text; c.select(); };
+  try{ navigator.clipboard.writeText(text).then(()=>note("Copied: "+text),fallback); }catch(e){ fallback(); } }
+$("copyAll").addEventListener("click",()=>copy([...new Set(Object.values(ASSIGN).map(a=>a.email))].sort().join(", ")));
+
+async function start(){
+  if(!window.claude||!window.claude.use){ note("Open this page on claude.ai to sign up. The task briefs are also on GitHub (link at the top).",true); $("loading").textContent="The live sheet runs on claude.ai."; return; }
+  db=await window.claude.use("db");
+  if(!db){ note("The shared sheet cannot be reached in this view. The task briefs are on GitHub (link at the top).",true); $("loading").textContent="Unavailable in this view."; return; }
+  try{ const user=await window.claude.use("user"); if(user){ const w=await user.can("data.write"); if(w===false){ setReadOnly(true); note("You can read this sheet but not change it. Ask the owner to share it with you as Contributor or Editor to sign up."); } } }catch(e){}
+  let confirmed=false; const timer=setTimeout(()=>{ if(!confirmed) note("The sheet is taking a while to load; what you see may be out of date.",true); },10000);
+  const onErr=e=>{ clearTimeout(timer); note("The sheet stopped updating. Reload the page.",true); };
+  db.collection("tasks").onSnapshot(s=>{ s.docs.forEach(d=>{ if(d.exists) TASKS[d.id]=Object.assign({id:d.id},d.data()); }); s.docChanges().forEach(c=>{ if(c.type==="removed") delete TASKS[c.doc.id]; }); if(!s.metadata.fromCache){ confirmed=true; clearTimeout(timer); const n=$("state"); if(n.textContent.startsWith("The sheet is taking")) note(""); if(!s.size) $("loading").textContent="No tasks yet."; } render(); },onErr);
+  db.collection("assignments").onSnapshot(s=>{ for(const k in ASSIGN) delete ASSIGN[k]; s.docs.forEach(d=>{ if(d.exists) ASSIGN[d.id]=d.data(); }); render(); },onErr);
+  db.collection("updates").orderBy("at","desc").limit(300).onSnapshot(s=>{ UPDATES.length=0; s.docs.forEach(d=>{ if(d.exists) UPDATES.push(Object.assign({id:d.id},d.data())); }); render(); },onErr);
+}
+start();
+})();
+</script>
