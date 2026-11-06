@@ -2,7 +2,7 @@
 
 ← Back to the **[project hub](https://cjimmylin.github.io/embodied-ai-governance/docs/index.html)**
 
-Ten pieces of work a volunteer team can take on, ordered by how much they would change the study's results. **Sign up and log progress on the live sheet:** https://claude.ai/artifact/21o6idnP14fyQPwA7LsZ6i (tag yourself by email on a task, then raise its counter and post short updates). This page is the written copy of the same briefs, for anyone who cannot open the sheet.
+Ten pieces of work a volunteer team can take on, ordered by how much they would change the study's results. **Sign up and log progress on the live sheet:** https://claude.ai/artifact/21o6idnP14fyQPwA7LsZ6i (tag yourself by email on a task, then raise its counter and post short updates). This page is the written copy of the same briefs, for anyone who cannot open the sheet; the same cards are also on the public site at https://cjimmylin.github.io/embodied-ai-governance/docs/volunteers/index.html.
 
 General rules for every task: work from official sources; never work around a login, payment or bot check; never commit source texts or standards to this public repository (send them to the coordinator or the shared folder); fill the task's template in `volunteers/templates/` and return it.
 

@@ -214,6 +214,7 @@ function render(){
   if(ids.length){ const l=$("loading"); if(l) l.remove(); }
   ids.forEach(id=>{ if(!built[id]) box.appendChild(buildCard(id)); fillCard(id); built[id].hidden=!visible(TASKS[id]); });
   Object.keys(built).forEach(id=>{ if(!TASKS[id]){ built[id].remove(); delete built[id]; } });
+  if(!render.jumped && ids.length){ render.jumped=true; const h=(location.hash||"").slice(1); if(h && built[h]){ const d=built[h].querySelector("details"); if(d) d.open=true; setTimeout(()=>built[h].scrollIntoView({block:"start"}),50); } }
   const ts=ids.map(i=>TASKS[i]); const emails=[...new Set(Object.values(ASSIGN).map(a=>a.email))];
   const staffed=ts.filter(t=>people(t.id).length>=(t.people||1)).length, done=ts.filter(t=>t.status==="Done").length, prog=ts.filter(t=>t.status==="In progress").length;
   const avg=ts.length?ts.reduce((s,t)=>s+frac(t),0)/ts.length:0;
