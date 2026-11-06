@@ -3,6 +3,7 @@ Sign-ups and progress live on the claude.ai sheet; each card links to its task t
 import json, html, os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHEET = "https://claude.ai/artifact/21o6idnP14fyQPwA7LsZ6i"
+GSHEET = "https://docs.google.com/spreadsheets/d/1Y9S4a2xEwLg0HGKLu6-zRJyXm5DbrvyegGnK09Tg4AA/edit"
 d = json.load(open(os.path.join(ROOT, "volunteers/tasks.json"), encoding="utf8")); B, T = d["base"], d["tree"]
 e = html.escape
 def url(f): return f if f.startswith("http") else ((T if "." not in f.split("/")[-1] else B) + f)
@@ -66,7 +67,7 @@ footer{{margin-top:40px;color:var(--mute);font-size:.84rem;max-width:90ch}}
 <p class="eyebrow">Who governs the robots? · volunteer team</p>
 <h1>Volunteer sign-up</h1>
 <p class="lede">Ten pieces of work that a person can do and the study's AI agents could not, ordered by how much they change the results. Read the tasks here; sign up, tag teammates by email and record progress on the live sheet.</p>
-<div class="cta"><a class="primary" href="{SHEET}">Open the live sign-up sheet</a><a href="{B}HUMAN_ASSISTANCE.md">What needs a person (full list)</a></div>
+<div class="cta"><a class="primary" href="{SHEET}">Open the live sign-up sheet</a><a href="{GSHEET}">Same tracker as a Google Sheet</a><a href="{B}HUMAN_ASSISTANCE.md">What needs a person (full list)</a></div>
 <div class="note"><b>Why two pages:</b> this site is a public, read-only copy and cannot save anything. Sign-ups, email tags, counters, statuses and updates are kept on the live sheet on claude.ai, which opens for people the coordinator has shared it with. If the live sheet does not open for you, ask the coordinator for access, or reply with the task number you want and the coordinator will tag you.</div>
 <div class="how">
 <div><b>1. Choose a task</b>Read the cards below; each says the skill, effort and how many people it needs.</div>
