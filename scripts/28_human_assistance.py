@@ -73,6 +73,18 @@ except Exception: pass
 # 8 boundary decisions
 L.append("## 8. Boundary decisions only the authors can make\n")
 L.append("- Whether consolidated statutes amended for robots (the Japanese Road Traffic Act and Road Transport Vehicle Act, the German Road Traffic Act, the US Federal Motor Vehicle Safety Standards) count as one instrument each or as one per amendment; the counts in the report treat them as one and date them by the provision year where the text gives it (Table 73).\n- Whether purely sectoral vehicle and drone rules belong in the 'embodied AI' set at all, or only those that mention automation, autonomy or AI. The report gives both (Table 53b counts principal instruments with and without autonomy or AI provisions); the headline needs one.\n- The reference list of 'instruments every collection should have' (17 titles) was compiled by the agent; an expert panel should settle it before recall is reported against it.\n- Which categories in the governance-gap index count as governed by general product-safety law rather than by a robot-specific instrument (the index treats both as instruments; a stricter reading changes the gap for care, delivery and humanoid robots most).\n")
+# source URLs still unresolved, and saved files that are not the titled document (see data/source_url_recovery.csv)
+try:
+    su=pd.read_csv(B+"data/source_url_recovery.csv").fillna("")
+    un=su[~su.used_in_master_table.astype(str).str.lower().eq("true")]
+    fi=su[su.file_issue!=""]
+    L.append(f"## 8. Settle {len(un)} missing source URLs and re-collect {len(fi)} mis-saved files\n")
+    L.append(f"404 documents from the original Drive collection had no source URL. {len(su)-len(un)} now have one; how each was found is in `data/source_url_recovery.csv`. "
+             "The first table lists the documents still without a confirmed URL. The second lists saved files that turned out to be an error page or a different document from their title. "
+             "Those files need collecting again and then re-labelling or dropping. Two of them (D0093, D0455) are counted in the principal binding set, and one (D0909) is in the embodied set.\n")
+    L.append(un[["doc_id","source_url","confidence","note"]].assign(note=un.note.str.slice(0,160)).to_markdown(index=False)+"\n")
+    L.append(fi[["doc_id","file_issue","source_url"]].to_markdown(index=False)+"\n")
+except Exception: pass
 # 9 accounts and infrastructure
 L.append("## 9. Accounts and infrastructure\n")
 L.append("- GitHub: the repository's history still contains the model-input excerpts under `annotations/**/_inputs/` in earlier commits. Either force-push the cleaned history (commands in README) or make the repository private; the agent cannot force-push.\n- A database or API account for the national legal databases that block crawlers (item 1) would make rounds 4 onward reproducible without a person in the loop: EUR-Lex and the Japanese e-Gov API are already used; the Korean law.go.kr Open API, the Chinese flk.npc.gov.cn and the Taiwanese law.moj.gov.tw open-data portal all require registration by a person.\n- Translations: the Japanese, Chinese, Korean and Portuguese texts were labelled from the original language; a native-speaking reviewer for the 24 non-English documents in the validation sample would also validate the cross-language labels.\n- The narrated video and the decks cite the v4 counts; once the v5 counts are accepted, the slides with numbers need updating (the agent can do this on request).\n")
