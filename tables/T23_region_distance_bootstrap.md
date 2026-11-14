@@ -3,9 +3,9 @@
 | region_a                  | region_b                  |   n_a |   n_b |   distance |   ci_low |   ci_high |
 |:--------------------------|:--------------------------|------:|------:|-----------:|---------:|----------:|
 | Europe                    | North America             |   654 |   237 |      0.043 |    0.032 |     0.065 |
-| Asia                      | North America             |   376 |   237 |      0.046 |    0.036 |     0.072 |
+| Asia                      | North America             |   376 |   237 |      0.047 |    0.036 |     0.072 |
 | North America             | Latin America & Caribbean |   237 |    40 |      0.055 |    0.051 |     0.095 |
-| North America             | Middle East               |   237 |    46 |      0.059 |    0.043 |     0.111 |
+| North America             | Middle East               |   237 |    46 |      0.058 |    0.043 |     0.11  |
 | Europe                    | Asia                      |   654 |   376 |      0.073 |    0.058 |     0.095 |
 | Asia                      | Latin America & Caribbean |   376 |    40 |      0.085 |    0.07  |     0.133 |
 | Latin America & Caribbean | Middle East               |    40 |    46 |      0.094 |    0.077 |     0.171 |
@@ -17,7 +17,7 @@
 | Asia                      | Oceania                   |   376 |    80 |      0.124 |    0.095 |     0.18  |
 | Latin America & Caribbean | Oceania                   |    40 |    80 |      0.124 |    0.09  |     0.209 |
 | Oceania                   | International             |    80 |   242 |      0.147 |    0.122 |     0.197 |
-| North America             | International             |   237 |   242 |      0.148 |    0.124 |     0.187 |
+| North America             | International             |   237 |   242 |      0.149 |    0.124 |     0.187 |
 | Middle East               | Oceania                   |    46 |    80 |      0.161 |    0.123 |     0.236 |
 | Europe                    | Oceania                   |   654 |    80 |      0.167 |    0.119 |     0.239 |
 | Europe                    | International             |   654 |   242 |      0.193 |    0.166 |     0.227 |

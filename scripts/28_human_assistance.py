@@ -12,8 +12,9 @@ st=st.drop_duplicates("candidate_id",keep="last")
 tgi=tg.set_index("candidate_id")
 def row_md(df,cols): return df[cols].to_markdown(index=False) if len(df) else "_none_"
 L=[]
-L.append("← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)\n")
 L.append("# What a person is needed for\n")
+L.append("← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)\n")
+L.append("**Volunteer sign-up and tracker:** https://claude.ai/artifact/21o6idnP14fyQPwA7LsZ6i (task briefs: volunteers/README.md)\n")
 L.append("Round 3 ran everything an agent can run alone (see report/src/collection_round3.md). The items below need a person: a browser with ordinary access, a subscription, a judgement the model should not make, or a second pair of eyes. They are ordered by how much they would change the results.\n")
 # 1 blocked
 bl=st[st.outcome=="blocked"].copy()
@@ -81,7 +82,9 @@ try:
     L.append(f"## 8. Settle {len(un)} missing source URLs and re-collect {len(fi)} mis-saved files\n")
     L.append(f"404 documents from the original Drive collection had no source URL. {len(su)-len(un)} now have one; how each was found is in `data/source_url_recovery.csv`. "
              "The first table lists the documents still without a confirmed URL. The second lists saved files that turned out to be an error page or a different document from their title. "
-             "Those files need collecting again and then re-labelling or dropping. Two of them (D0093, D0455) are counted in the principal binding set, and one (D0909) is in the embodied set.\n")
+             "Those files need collecting again and then re-labelling or dropping. Three that affected the results were re-collected and re-labelled on 14 November 2026: "
+             "D0093 (now the Santa Fe court's generative-AI guide, soft law) and D0455 (now the RISA news article) left the principal binding set, which fell from 667 to 665; "
+             "D0909 (now the Carr policing-robots article, abstract only) stays in the embodied set. Their new texts are listed in `data/source_url_recovery.csv`.\n")
     L.append(un[["doc_id","source_url","confidence","note"]].assign(note=un.note.str.slice(0,160)).to_markdown(index=False)+"\n")
     L.append(fi[["doc_id","file_issue","source_url"]].to_markdown(index=False)+"\n")
 except Exception: pass

@@ -2,7 +2,7 @@
 """Collection round 2: discovery inventory, fetch funnel, before/after counts against v2, collector-metadata vs blind
 annotation agreement, and the list of newly captured embodied instruments. Writes tables T30-T37, figures F50-F52 and
 report/src/collection_round2.md. Run after 07/07b (v3 master table) and 18 (coverage audit)."""
-import os, re, json, sys, numpy as np, pandas as pd
+import os, re, json, sys, glob, numpy as np, pandas as pd
 sys.path.insert(0,"/home/user/embodied-ai-governance-v5/scripts")
 from analysis_common import *
 import figstyle as fs
@@ -202,7 +202,8 @@ V3="/home/user/embodied-ai-governance-v3/"; a4i=a3.set_index("doc_id")
 def _emb(d): return ((d.relevance_to_embodied_ai_governance>=2)|(d.embodied_categories.fillna("")!=""))&(d.ai_scope!="not_ai")
 if os.path.exists(V3+"data/master_table.csv"):
     m3v=pd.read_csv(V3+"data/master_table.csv",low_memory=False); a3v=m3v[m3v.annotated].set_index("doc_id")
-    common=a4i[a4i._policy.fillna("").str.contains("cjk_clean")].index.intersection(a3v.index)   # documents actually re-annotated with the character-aware cleaner and present in the previous version
+    _recollected=[os.path.basename(p)[:-5] for p in glob.glob(B+"annotations/recollect/*.json")]   # re-collected files carry the same policy tag but were not part of the CJK re-annotation
+    common=a4i[a4i._policy.fillna("").str.contains("cjk_clean")].index.intersection(a3v.index).difference(_recollected)   # documents actually re-annotated with the character-aware cleaner and present in the previous version
     n_cjk_r2=int((a3v.loc[common].collection_set=="round2").sum()); n_cjk_r1=len(common)-n_cjk_r2
     n_cjk_changed=int((_emb(a4i.loc[common])!=_emb(a3v.loc[common])).sum()); n_cjk_notai_before=int((a3v.loc[common].ai_scope=="not_ai").sum()); n_cjk_notai_after=int((a4i.loc[common].ai_scope=="not_ai").sum())
     cjk_change_txt=f"; of these {len(common)} documents, {n_cjk_changed} changed embodied-set membership and the number rated as not about AI fell from {n_cjk_notai_before} to {n_cjk_notai_after}"
@@ -239,6 +240,7 @@ ov=pd.read_csv(B+"data/manual_overrides_v4.csv",dtype=str,keep_default_na=False)
 ga=pd.read_csv(B+"review/v3_reviews/governance_audit_rows.csv",dtype=str,keep_default_na=False); gcodes=ga.error.str.upper().str.findall(r"\b([A-G])\b")
 n_gaud=len(ga); n_gaud_err=int(gcodes.map(lambda c: len(c)>0).sum()); n_gaud_mat=int(gcodes.map(lambda c: any(x in "ABCDG" for x in c)).sum())
 _W={1:"one",2:"two",3:"three",4:"four",5:"five",6:"six",7:"seven",8:"eight",9:"nine"}; _w=lambda n: _W.get(int(n),f"{int(n):,}")   # small counts as words in prose
+BACKLINK='← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)'
 md=f"""*Companion to the analysis report. All counts refer to content-analysed documents unless stated otherwise. The headline counting unit is the principal instrument: a text of instrument class that is not a commencement order, levy or fee instrument, individual exemption, direction, approval or permit, definitions-only part, table of contents, EEA incorporation decision, language-version corrigendum, byte-identical duplicate, catalogue page or metadata stub under {MIN_WORDS} words; amendments count. Every count that uses another unit says so. The round-2 collectors, the reviewers of the previous version and the auditors were AI agents (Claude) running in one Claude Code session; no person read or labelled any document.*
 
 ## Summary
@@ -312,7 +314,7 @@ T59 lists the {n_bind_emb_principal_r2} principal binding instruments in the emb
 - Validity: every label is model-produced. The collector-agreement tables are a consistency check between AI-agent labels, harvester constants and the annotation; the round-2 reliability sample (n = {n_rel_r2}; median kappa {k_r2_opus:.2f} against a second model, {k_r2_rerun:.2f} for a re-run) measures stability between models, not correctness. No person read or labelled any document, and no human validation exists. The precision audit shows that about {100*pa_joint/pa_n:.0f}% of the previous version's binding embodied instruments were distinct, binding and substantive, so every instrument count here is an upper bound on precision; the unread candidates make every count a lower bound on coverage within this collection.
 - Not addressed: human validation of labels (no human coders available in this setting); full-text annotation of statutes longer than the {excerpt_chars:,}-character excerpt, whose robot provisions may lie beyond it; stricter merging of near-duplicate title pairs beyond the instrument-family grouping.
 """
-os.makedirs(B+"report/src",exist_ok=True); open(B+"report/src/collection_round2.md","w",encoding="utf8").write(md)
+os.makedirs(B+"report/src",exist_ok=True); open(B+"report/src/collection_round2.md","w",encoding="utf8").write(BACKLINK+"\n\n"+md)
 R("round2_counts",{"candidates":len(inv),"with_text":int(inv.has_text.sum()),"annotated":int(inv.content_analysed.sum()),"usable":len(r3),"embodied":int(r3.embodied_set.sum()),"instruments":int(r3.instrument.sum()),"embodied_instruments":int((r3.instrument&r3.embodied_set).sum()),"robot_specific":int(r3.robot_specific.sum()),"binding_embodied":int((r3.binding&r3.embodied_set).sum())})
 # merge into results.json
 try:

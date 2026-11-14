@@ -109,5 +109,6 @@ add("embodied soft instruments sample",U[(U.doc_class=="governance_instrument_so
 add("embodied technical standards list",U[(U.doc_type=="technical_standard")&U.embodied_set][["doc_id","title_en","jurisdiction_country","year","embodied_categories"]].to_dict("records"))
 add("embodied drafts list",U[(U.doc_class=="governance_proposal_or_draft")&U.embodied_set][["doc_id","title_en","jurisdiction_country","year","doc_type","embodied_categories"]].to_dict("records"))
 add("most cited embodied research (openalex)",U[U.embodied_set&(U.doc_class=="research_output")].sort_values("oa_cited_by",ascending=False).head(10)[["doc_id","title_en","year","oa_cited_by","venue"]].to_dict("records"))
-open(B+"report/results_digest.md","w").write("\n".join(lines))
+_t="\n".join(lines); _t=_t.replace("\n",'\n\n← Back to the **[project hub](https://github.com/cjimmylin/embodied-ai-governance/blob/main/docs/index.html)** (all deliverables) · [live hub page on claude.ai](https://claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA)\n',1) if "Back to the" not in _t else _t   # hub back-link under the title
+open(B+"report/results_digest.md","w").write(_t)
 dump_results(); print("Part C done; digest chars:",sum(len(l) for l in lines))

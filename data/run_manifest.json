@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-02T18:59:23.780855+00:00",
+ "generated": "2026-11-14T23:41:30.907865+00:00",
  "python": "Python 3.13.17",
- "claude_cli": "2.1.316 (Claude Code)",
+ "claude_cli": "2.1.325 (Claude Code)",
  "folders": {
   "cjk_fix": {
    "n": 46,
@@ -72,6 +72,20 @@
    },
    "cost_usd": 17.28,
    "inputs_stored": false
+  },
+  "recollect": {
+   "n": 3,
+   "models": {
+    "claude-sonnet-5-5": 3
+   },
+   "prompt_hashes": {
+    "8d4d83e909f0": 3
+   },
+   "policies": {
+    "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4": 3
+   },
+   "cost_usd": 0.24,
+   "inputs_stored": true
   },
   "reliability_blind": {
    "n": 160,

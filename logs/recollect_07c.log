@@ -1,0 +1,31 @@
+/home/user/embodied-ai-governance-v5/scripts/07c_v4_units_and_tiers.py:29: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  m["instrument_unit"]=pd.DataFrame({"t":t}).apply(unit,axis=1)
+/home/user/embodied-ai-governance-v5/scripts/07c_v4_units_and_tiers.py:37: UserWarning: This pattern is interpreted as a regular expression, and has match groups. To actually get the groups, use str.extract.
+  dev=t.str.contains(r"\b(AWI|PWI|WD|CD|DIS|FDIS|DTS|DTR|PRF)\b",regex=True)&m.doc_type.eq("technical_standard")
+/home/user/embodied-ai-governance-v5/scripts/07c_v4_units_and_tiers.py:60: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  m["text_hash"]=m.doc_id.map(thash)
+v4 doc-level overrides applied: 156
+/home/user/embodied-ai-governance-v5/scripts/07c_v4_units_and_tiers.py:91: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  m["ai_explicit_n"]=m.doc_id.map(c.ai_explicit_n); m["autonomy_n"]=m.doc_id.map(c.autonomy_n)
+/home/user/embodied-ai-governance-v5/scripts/07c_v4_units_and_tiers.py:92: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  m["ai_explicit"]=m.ai_explicit_n.fillna(0)>=2          # at least two explicit AI mentions in the text
+/home/user/embodied-ai-governance-v5/scripts/07c_v4_units_and_tiers.py:93: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  m["autonomy_terms"]=(m.autonomy_n.fillna(0)>=2)|m.ai_explicit
+/home/user/embodied-ai-governance-v5/scripts/07c_v4_units_and_tiers.py:94: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  m["principal_instrument"]=m.doc_class.isin(["governance_instrument_binding","governance_instrument_soft","governance_proposal_or_draft"])&m.instrument_unit.isin(["principal","amendment"])
+/home/user/embodied-ai-governance-v5/scripts/07c_v4_units_and_tiers.py:105: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  m["family_key"]=m.title_en.fillna("").map(fam_key)+" | "+m.jurisdiction_country.fillna("XX").astype(str)
+/home/user/embodied-ai-governance-v5/scripts/07c_v4_units_and_tiers.py:108: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  m["family_size"]=1; m.loc[fam.index,"family_size"]=fam.values
+/home/user/embodied-ai-governance-v5/scripts/07c_v4_units_and_tiers.py:111: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  m["family_rep"]=m.doc_id.isin(set(rep))
+/home/user/embodied-ai-governance-v5/scripts/07c_v4_units_and_tiers.py:112: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  m["words_ok"]=m.words.fillna(0)>=150                            # minimum text for depth (level-2) statistics
+instrument_unit among embodied instruments: {'principal': 539, 'catalogue_page': 222, 'amendment': 59, 'stub': 35, 'ancillary': 31, 'dependent': 10, 'incorporation': 6, 'duplicate_text': 4, 'language_copy': 2}
+instrument_unit among binding embodied: {'principal': 231, 'amendment': 47, 'ancillary': 29, 'catalogue_page': 28, 'stub': 25, 'dependent': 7, 'incorporation': 6, 'language_copy': 2, 'duplicate_text': 2}
+embodied instruments: all=908 families=897 ai_explicit=182 autonomy_or_ai=610
+principal embodied instruments: all=598 families=597 ai_explicit=164 autonomy_or_ai=464
+binding embodied: all=377 families=366 ai_explicit=27 autonomy_or_ai=258
+principal binding embodied: all=278 families=277 ai_explicit=25 autonomy_or_ai=201
+                                                                                            family_key  family_size
+2082  decision of the eea joint committee of 28 april annex xiii (transport) to the eea agreement | EU            5

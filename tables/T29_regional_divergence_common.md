@@ -4,15 +4,15 @@
 |:------------------------------------------------|:------------------------------|-----:|-------------------:|---------:|----------:|:-------------------------|-------:|---------:|
 | mechanism: Licensing & registration             | embodied documents, 6 regions | 1675 |              0.346 |    0.311 |     0.4   | chi-square               | 0      |   0      |
 | mechanism: Reference to technical standards     | embodied documents, 6 regions | 1675 |              0.338 |    0.296 |     0.386 | chi-square               | 0      |   0      |
-| principle: Beneficence                          | embodied documents, 6 regions | 1675 |              0.324 |    0.289 |     0.369 | chi-square               | 0      |   0      |
+| principle: Beneficence                          | embodied documents, 6 regions | 1675 |              0.323 |    0.288 |     0.368 | chi-square               | 0      |   0      |
 | principle: Trust                                | embodied documents, 6 regions | 1675 |              0.292 |    0.248 |     0.341 | chi-square               | 0      |   0      |
-| principle: Freedom & autonomy                   | embodied documents, 6 regions | 1675 |              0.265 |    0.228 |     0.31  | chi-square               | 0      |   0      |
-| principle: Privacy                              | embodied documents, 6 regions | 1675 |              0.259 |    0.225 |     0.3   | chi-square               | 0      |   0      |
+| principle: Freedom & autonomy                   | embodied documents, 6 regions | 1675 |              0.265 |    0.228 |     0.309 | chi-square               | 0      |   0      |
+| principle: Privacy                              | embodied documents, 6 regions | 1675 |              0.259 |    0.225 |     0.302 | chi-square               | 0      |   0      |
 | mechanism: Liability regime                     | embodied documents, 6 regions | 1675 |              0.256 |    0.204 |     0.326 | chi-square               | 0      |   0      |
 | principle: Inclusive growth                     | embodied documents, 6 regions | 1675 |              0.249 |    0.214 |     0.297 | chi-square               | 0      |   0      |
 | mechanism: Funding & incentives                 | embodied documents, 6 regions | 1675 |              0.248 |    0.211 |     0.295 | chi-square               | 0      |   0      |
-| principle: Responsibility & accountability      | embodied documents, 6 regions | 1675 |              0.245 |    0.207 |     0.297 | chi-square               | 0      |   0      |
-| principle: Liability for physical damage        | embodied documents, 6 regions | 1675 |              0.245 |    0.217 |     0.292 | chi-square               | 0      |   0      |
+| principle: Responsibility & accountability      | embodied documents, 6 regions | 1675 |              0.246 |    0.208 |     0.297 | chi-square               | 0      |   0      |
+| principle: Liability for physical damage        | embodied documents, 6 regions | 1675 |              0.246 |    0.218 |     0.292 | chi-square               | 0      |   0      |
 | principle: Dignity                              | embodied documents, 6 regions | 1675 |              0.23  |    0.186 |     0.284 | chi-square               | 0      |   0      |
 | principle: Justice & fairness                   | embodied documents, 6 regions | 1675 |              0.214 |    0.178 |     0.266 | chi-square               | 0      |   0      |
 | principle: Human-robot proximity                | embodied documents, 6 regions | 1675 |              0.212 |    0.169 |     0.268 | chi-square               | 0      |   0      |
@@ -27,11 +27,11 @@
 | principle: Transparency                         | embodied documents, 6 regions | 1675 |              0.16  |    0.125 |     0.212 | chi-square               | 0      |   0      |
 | mechanism: Education & training programmes      | embodied documents, 6 regions | 1675 |              0.145 |    0.111 |     0.202 | chi-square               | 0      |   0      |
 | principle: Human oversight                      | embodied documents, 6 regions | 1675 |              0.14  |    0.098 |     0.199 | chi-square               | 0      |   0      |
-| principle: Physical safety                      | embodied documents, 6 regions | 1675 |              0.138 |    0.096 |     0.186 | chi-square               | 0      |   0      |
-| principle: Non-maleficence                      | embodied documents, 6 regions | 1675 |              0.132 |    0.093 |     0.184 | chi-square               | 0      |   0      |
+| principle: Physical safety                      | embodied documents, 6 regions | 1675 |              0.138 |    0.097 |     0.187 | chi-square               | 0      |   0      |
+| principle: Non-maleficence                      | embodied documents, 6 regions | 1675 |              0.134 |    0.094 |     0.185 | chi-square               | 0      |   0      |
 | principle: Solidarity                           | embodied documents, 6 regions | 1675 |              0.128 |    0.094 |     0.179 | chi-square               | 0      |   0.0001 |
 | mechanism: Data-governance requirements         | embodied documents, 6 regions | 1675 |              0.127 |    0.101 |     0.168 | chi-square               | 0      |   0.0001 |
-| principle: Autonomy level & control             | embodied documents, 6 regions | 1675 |              0.124 |    0.086 |     0.179 | chi-square               | 0      |   0.0002 |
+| principle: Autonomy level & control             | embodied documents, 6 regions | 1675 |              0.124 |    0.086 |     0.178 | chi-square               | 0      |   0.0002 |
 | mechanism: Testing & sandboxes                  | embodied documents, 6 regions | 1675 |              0.121 |    0.086 |     0.175 | chi-square               | 0      |   0.0002 |
 | mechanism: Conformity assessment                | embodied documents, 6 regions | 1675 |              0.115 |    0.078 |     0.178 | chi-square               | 0.0001 |   0.0006 |
 | mechanism: International cooperation            | embodied documents, 6 regions | 1675 |              0.106 |    0.069 |     0.167 | chi-square               | 0.0004 |   0.0021 |

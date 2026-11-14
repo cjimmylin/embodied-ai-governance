@@ -2,15 +2,15 @@
 
 | doc_type                                       |   Embodied-AI set |   General-AI set |   Other |   total |
 |:-----------------------------------------------|------------------:|-----------------:|--------:|--------:|
-| Regulation or decree                           |               247 |               62 |     313 |     622 |
+| Regulation or decree                           |               247 |               62 |     312 |     621 |
 | Web page informational                         |               117 |              234 |      28 |     379 |
 | Journal article                                |               246 |               32 |      10 |     288 |
 | Technical standard                             |               255 |               20 |       8 |     283 |
-| Policy guideline or code of practice           |                88 |               85 |      86 |     259 |
+| Policy guideline or code of practice           |                88 |               86 |      86 |     260 |
 | National strategy or action plan               |                92 |               86 |      27 |     205 |
 | Government report or review                    |                58 |              116 |      10 |     184 |
 | Statute or act                                 |               119 |               17 |      40 |     176 |
-| Press release or government news               |                33 |              126 |       2 |     161 |
+| Press release or government news               |                33 |              127 |       2 |     162 |
 | Conference paper                               |               105 |                4 |       3 |     112 |
 | Bill or draft law                              |                41 |               40 |      28 |     109 |
 | Intergovernmental recommendation or resolution |                26 |               40 |      14 |      80 |
@@ -27,5 +27,5 @@
 | News article                                   |                 8 |                4 |       0 |      12 |
 | Procurement or internal policy                 |                 0 |                8 |       4 |      12 |
 | Other                                          |                 3 |                6 |       1 |      10 |
-| Court decision or judicial notice              |                 3 |                4 |       1 |       8 |
+| Court decision or judicial notice              |                 3 |                4 |       0 |       7 |
 | International treaty or convention             |                 1 |                1 |       0 |       2 |

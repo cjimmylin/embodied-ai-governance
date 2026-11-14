@@ -1,0 +1,99 @@
+{
+ "doc_id": "D0909",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-14T23:34:55",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.071386,
+  "in": 2,
+  "out": 1681,
+  "cache_read": 0,
+  "cache_create": 13643,
+  "api_ms": 8499,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Programmed to Protect and Serve: The Dawn of Drones and Robots in Law Enforcement",
+  "title_en": "Programmed to Protect and Serve: The Dawn of Drones and Robots in Law Enforcement",
+  "language": "en",
+  "authors_or_issuer": "Carr, N.K.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2021,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Journal of Air Law and Commerce",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "security_policing_robots",
+   "drones_uas"
+  ],
+  "primary_embodied_category": "security_policing_robots",
+  "application_sectors": [
+   "defense_security",
+   "public_administration_justice"
+  ],
+  "governance_topics": [
+   "safety_physical_harm",
+   "civil_liability",
+   "privacy_data_protection",
+   "human_dignity_autonomy"
+  ],
+  "primary_topic": "privacy_data_protection",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 1,
+   "privacy": 2,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 1,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "rights_based",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Law review article on the use of autonomous drones and robotic officers in US law enforcement. It weighs efficiency and safety benefits against civil liberty and privacy concerns, and examines safety, liability and constitutional implications. Only the abstract was available.",
+  "key_provisions_or_claims": [
+   "Drones now act as first responders to emergency calls in the US.",
+   "Police drones can improve efficiency, community safety and save lives.",
+   "Drones can track people and vehicles without consent and store video, reducing privacy expectations.",
+   "The article examines safety, liability and constitutional implications of robotic law enforcement."
+  ],
+  "confidence": 0.8
+ }
+}

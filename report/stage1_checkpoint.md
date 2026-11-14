@@ -50,10 +50,10 @@ The collectors list 180 sprint sources they could not capture (bot walls, dead h
 
 | Document class | Documents | Share |
 |---|---|---|
-| governance_instrument_soft | 826 | 23.9% |
-| governance_instrument_binding | 818 | 23.7% |
+| governance_instrument_soft | 827 | 24.0% |
+| governance_instrument_binding | 816 | 23.7% |
 | research_output | 603 | 17.5% |
-| communication_or_news | 595 | 17.2% |
+| communication_or_news | 596 | 17.3% |
 | government_report_or_parliamentary | 263 | 7.6% |
 | governance_proposal_or_draft | 227 | 6.6% |
 | unusable | 62 | 1.8% |
@@ -62,8 +62,8 @@ The collectors list 180 sprint sources they could not capture (bot walls, dead h
 | AI scope | Documents | Share |
 |---|---|---|
 | embodied_ai_specific_category | 1073 | 31.1% |
-| general_ai_only | 1035 | 30.0% |
-| not_ai | 620 | 18.0% |
+| general_ai_only | 1037 | 30.1% |
+| not_ai | 618 | 17.9% |
 | embodied_ai_robotics_general | 392 | 11.4% |
 | general_ai_with_embodied_provisions | 330 | 9.6% |
 
@@ -108,8 +108,8 @@ Governance instruments by status:
 
 | Status | Documents |
 |---|---|
-| published_current | 783 |
-| in_force | 699 |
+| published_current | 784 |
+| in_force | 697 |
 | superseded_or_repealed | 124 |
 | draft_or_bill_under_consideration | 96 |
 | adopted_not_yet_in_force | 56 |
@@ -188,12 +188,12 @@ Overlap documents: 160. Cohen's kappa (quadratic-weighted for ordinal fields; me
 
 ## 4. Quality flags for review
 
-401 documents carry at least one flag (`data/qa_flags.csv`). Counts by flag:
+400 documents carry at least one flag (`data/qa_flags.csv`). Counts by flag:
 
 - sprint_doc_rated_irrelevant: 124
 - language_disagreement: 123
 - annotation_year_vs_openalex>1: 86
-- low_confidence_with_text: 54
+- low_confidence_with_text: 53
 - year<1990: 39
 - jurisdiction_unknown: 11
 - governance_doc_in_news_or_research_class: 2
