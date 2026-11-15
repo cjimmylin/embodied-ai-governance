@@ -1,0 +1,96 @@
+{
+ "doc_id": "D0138",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-15T00:05:09",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.026797800000000004,
+  "in": 2,
+  "out": 1703,
+  "cache_read": 11758,
+  "cache_create": 2147,
+  "api_ms": 13939,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Comisión de Educación Superior analiza matriz comparativa del proyecto de ley para regular el uso de inteligencia artificial",
+  "title_en": "Higher Education Commission reviews comparative matrix of the bill to regulate the use of artificial intelligence",
+  "language": "es",
+  "authors_or_issuer": "Senado de la República Dominicana",
+  "issuer_type": "legislature",
+  "pub_year": 2026,
+  "pub_month": 5,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Senado de la República Dominicana",
+  "jurisdiction_country": "DO",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "DO"
+  ],
+  "doc_type": "press_release_or_government_news",
+  "doc_class": "communication_or_news",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "not_applicable",
+  "ai_scope": "general_ai_only",
+  "embodiment_status": "none",
+  "embodied_categories": [],
+  "primary_embodied_category": "none",
+  "application_sectors": [
+   "cross_sector"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "human_dignity_autonomy",
+   "industrial_policy_innovation",
+   "trust_acceptance"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 1,
+   "trust": 1,
+   "sustainability": 0,
+   "dignity": 1,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 0,
+   "inclusive_growth": 1,
+   "physical_safety": 0,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 0,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "innovation_promotion",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "not_applicable",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Senate news item reporting that the Dominican Senate's Higher Education, Science and Technology Commission continued reviewing a comparative matrix of a bill on ethical and safe AI use. The bill sets a cross-sector legal framework balancing innovation with human dignity and rights, and the commission will invite institutions such as ITLA and OGTIC.",
+  "key_provisions_or_claims": [
+   "Bill establishes a comprehensive legal framework for developing, deploying, using and supervising AI systems across all sectors",
+   "Aims to promote responsible AI without unnecessary restrictions on innovation",
+   "Protects human dignity, personal autonomy, equality and constitutional rights",
+   "Seeks legal certainty and public trust",
+   "Commission will invite ITLA, INFOTEP, OGTIC to contribute at next meeting"
+  ],
+  "confidence": 0.9
+ }
+}

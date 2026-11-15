@@ -1,0 +1,94 @@
+{
+ "doc_id": "D0405",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-15T00:05:06",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.027947800000000002,
+  "in": 2,
+  "out": 1794,
+  "cache_read": 11758,
+  "cache_create": 2207,
+  "api_ms": 8669,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "Edge-Enabled Intelligence for Next Generation Surgical Robotics: Real-Time Optimization and Responsible Innovation",
+  "title_en": "Edge-Enabled Intelligence for Next Generation Surgical Robotics: Real-Time Optimization and Responsible Innovation",
+  "language": "en",
+  "authors_or_issuer": "Sadaf, R.; Reddy, C.K.K.; Anisha, P.R.; Gorak, T.; Sadaf, J.; Doss, S.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2026,
+  "pub_month": 6,
+  "date_basis": "stated_in_document",
+  "doi": "10.4018/979-8-3373-8022-3.ch005",
+  "venue": "Next-Generation Insights on Autonomous Surgical Robotics (IGI Global)",
+  "jurisdiction_country": "IN",
+  "jurisdiction_scope": "not_applicable",
+  "countries_discussed": [],
+  "doc_type": "book_or_chapter",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "book",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "ethics_principles",
+   "cybersecurity",
+   "safety_physical_harm"
+  ],
+  "primary_topic": "ethics_principles",
+  "principles": {
+   "transparency": 0,
+   "justice_fairness": 0,
+   "non_maleficence": 1,
+   "responsibility_accountability": 0,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 0,
+   "robustness_security": 2,
+   "inclusive_growth": 0,
+   "physical_safety": 1,
+   "human_robot_proximity": 0,
+   "liability_for_physical_damage": 0,
+   "autonomy_level_control": 1,
+   "conformity_assessment_certification": 0,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "none"
+  ],
+  "named_instruments_referenced": [],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "not_applicable",
+  "stance_toward_regulation": "descriptive_or_neutral",
+  "methodology": "technical_or_engineering",
+  "faith_or_religious_perspective": false,
+  "page_quality": "partial_or_excerpt",
+  "relevance_to_embodied_ai_governance": 1,
+  "summary_en": "Book chapter abstract on integrating edge intelligence into real-time surgical robotics, covering distributed, hierarchical and hybrid edge-cloud architectures, optimization challenges and ethical concerns. Mainly technical; governance content is limited to a passing mention of responsible innovation.",
+  "key_provisions_or_claims": [
+   "Edge computing enables low-latency, secure, real-time processing and localized decision-making at the surgical site.",
+   "ML/AI models at the network edge can improve reliability in surgical environments.",
+   "Reviews distributed edge, hierarchical edge and hybrid edge-cloud architectures for coordinating robotic instruments and sensors.",
+   "Notes ethical concerns accompanying edge-enabled surgical robotics."
+  ],
+  "confidence": 0.6
+ }
+}

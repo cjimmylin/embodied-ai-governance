@@ -2,24 +2,24 @@
 
 | region_a                  | region_b                  |   n_a |   n_b |   distance |   ci_low |   ci_high |
 |:--------------------------|:--------------------------|------:|------:|-----------:|---------:|----------:|
-| Europe                    | North America             |   654 |   237 |      0.043 |    0.032 |     0.065 |
-| Asia                      | North America             |   376 |   237 |      0.047 |    0.036 |     0.072 |
-| North America             | Latin America & Caribbean |   237 |    40 |      0.055 |    0.051 |     0.095 |
-| North America             | Middle East               |   237 |    46 |      0.058 |    0.043 |     0.11  |
-| Europe                    | Asia                      |   654 |   376 |      0.073 |    0.058 |     0.095 |
-| Asia                      | Latin America & Caribbean |   376 |    40 |      0.085 |    0.07  |     0.133 |
-| Latin America & Caribbean | Middle East               |    40 |    46 |      0.094 |    0.077 |     0.171 |
-| North America             | Oceania                   |   237 |    80 |      0.094 |    0.068 |     0.148 |
-| Europe                    | Middle East               |   654 |    46 |      0.095 |    0.062 |     0.152 |
-| Europe                    | Latin America & Caribbean |   654 |    40 |      0.096 |    0.07  |     0.159 |
-| Asia                      | International             |   376 |   242 |      0.114 |    0.095 |     0.139 |
-| Asia                      | Middle East               |   376 |    46 |      0.118 |    0.084 |     0.186 |
-| Asia                      | Oceania                   |   376 |    80 |      0.124 |    0.095 |     0.18  |
-| Latin America & Caribbean | Oceania                   |    40 |    80 |      0.124 |    0.09  |     0.209 |
-| Oceania                   | International             |    80 |   242 |      0.147 |    0.122 |     0.197 |
-| North America             | International             |   237 |   242 |      0.149 |    0.124 |     0.187 |
-| Middle East               | Oceania                   |    46 |    80 |      0.161 |    0.123 |     0.236 |
-| Europe                    | Oceania                   |   654 |    80 |      0.167 |    0.119 |     0.239 |
-| Europe                    | International             |   654 |   242 |      0.193 |    0.166 |     0.227 |
-| Latin America & Caribbean | International             |    40 |   242 |      0.208 |    0.179 |     0.263 |
-| Middle East               | International             |    46 |   242 |      0.226 |    0.183 |     0.295 |
+| Europe                    | North America             |   654 |   238 |      0.043 |    0.031 |     0.065 |
+| Asia                      | North America             |   377 |   238 |      0.047 |    0.035 |     0.072 |
+| North America             | Latin America & Caribbean |   238 |    40 |      0.055 |    0.049 |     0.094 |
+| North America             | Middle East               |   238 |    46 |      0.057 |    0.041 |     0.113 |
+| Europe                    | Asia                      |   654 |   377 |      0.073 |    0.056 |     0.092 |
+| Asia                      | Latin America & Caribbean |   377 |    40 |      0.085 |    0.068 |     0.132 |
+| Latin America & Caribbean | Middle East               |    40 |    46 |      0.094 |    0.077 |     0.169 |
+| Europe                    | Middle East               |   654 |    46 |      0.095 |    0.066 |     0.158 |
+| North America             | Oceania                   |   238 |    80 |      0.095 |    0.069 |     0.151 |
+| Europe                    | Latin America & Caribbean |   654 |    40 |      0.096 |    0.075 |     0.153 |
+| Asia                      | International             |   377 |   242 |      0.114 |    0.097 |     0.143 |
+| Asia                      | Middle East               |   377 |    46 |      0.118 |    0.078 |     0.19  |
+| Asia                      | Oceania                   |   377 |    80 |      0.123 |    0.093 |     0.174 |
+| Latin America & Caribbean | Oceania                   |    40 |    80 |      0.124 |    0.09  |     0.205 |
+| Oceania                   | International             |    80 |   242 |      0.147 |    0.121 |     0.196 |
+| North America             | International             |   238 |   242 |      0.149 |    0.125 |     0.185 |
+| Middle East               | Oceania                   |    46 |    80 |      0.161 |    0.124 |     0.251 |
+| Europe                    | Oceania                   |   654 |    80 |      0.167 |    0.114 |     0.243 |
+| Europe                    | International             |   654 |   242 |      0.193 |    0.167 |     0.225 |
+| Latin America & Caribbean | International             |    40 |   242 |      0.208 |    0.166 |     0.262 |
+| Middle East               | International             |    46 |   242 |      0.226 |    0.177 |     0.3   |

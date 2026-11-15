@@ -4,10 +4,10 @@ Generated from 3450 canonical documents (3450 annotated). Annotation spend so fa
 
 ## 1. Corpus construction
 
-- Files downloaded from Drive: 2557 (plus 26 recovered through the Drive text reader).
+- Files downloaded from Drive: 2557 (plus 24 recovered through the Drive text reader).
 - Unique documents after deduplication by content hash, URL, title and prose similarity: 3586.
 - Documents listed in more than one regional folder: 78.
-- Documents with usable text: 3496; bot-walled or empty captures kept as metadata-only rows: 90.
+- Documents with usable text: 3500; bot-walled or empty captures kept as metadata-only rows: 86.
 
 | Collection region | Sprint | Database |
 |---|---|---|
@@ -50,40 +50,40 @@ The collectors list 180 sprint sources they could not capture (bot walls, dead h
 
 | Document class | Documents | Share |
 |---|---|---|
-| governance_instrument_soft | 827 | 24.0% |
+| governance_instrument_soft | 825 | 23.9% |
 | governance_instrument_binding | 816 | 23.7% |
-| research_output | 603 | 17.5% |
-| communication_or_news | 596 | 17.3% |
-| government_report_or_parliamentary | 263 | 7.6% |
-| governance_proposal_or_draft | 227 | 6.6% |
-| unusable | 62 | 1.8% |
+| research_output | 605 | 17.5% |
+| communication_or_news | 601 | 17.4% |
+| government_report_or_parliamentary | 264 | 7.7% |
+| governance_proposal_or_draft | 228 | 6.6% |
 | grey_literature | 56 | 1.6% |
+| unusable | 55 | 1.6% |
 
 | AI scope | Documents | Share |
 |---|---|---|
-| embodied_ai_specific_category | 1073 | 31.1% |
-| general_ai_only | 1037 | 30.1% |
-| not_ai | 618 | 17.9% |
+| embodied_ai_specific_category | 1074 | 31.1% |
+| general_ai_only | 1046 | 30.3% |
+| not_ai | 608 | 17.6% |
 | embodied_ai_robotics_general | 392 | 11.4% |
 | general_ai_with_embodied_provisions | 330 | 9.6% |
 
 | Jurisdiction region (from jurisdiction, not folder) | Documents | Share |
 |---|---|---|
 | Europe | 1382 | 40.1% |
-| Asia | 789 | 22.9% |
+| Asia | 790 | 22.9% |
 | North America | 399 | 11.6% |
 | International | 389 | 11.3% |
-| Latin America & Caribbean | 160 | 4.6% |
+| Latin America & Caribbean | 161 | 4.7% |
 | Oceania | 131 | 3.8% |
 | Middle East | 111 | 3.2% |
 | Africa | 78 | 2.3% |
-| Unknown | 11 | 0.3% |
+| Unknown | 9 | 0.3% |
 
 | Language | Documents | Share |
 |---|---|---|
-| en | 2554 | 74.0% |
+| en | 2553 | 74.0% |
 | zh | 332 | 9.6% |
-| es | 120 | 3.5% |
+| es | 121 | 3.5% |
 | ja | 117 | 3.4% |
 | pt | 46 | 1.3% |
 | fr | 45 | 1.3% |
@@ -96,28 +96,28 @@ The collectors list 180 sprint sources they could not capture (bot walls, dead h
 
 | Page quality | Documents | Share |
 |---|---|---|
-| substantive_document | 2411 | 69.9% |
-| partial_or_excerpt | 554 | 16.1% |
+| substantive_document | 2415 | 70.0% |
+| partial_or_excerpt | 558 | 16.2% |
 | landing_or_index_page | 353 | 10.2% |
-| error_or_blocked_page | 124 | 3.6% |
+| error_or_blocked_page | 116 | 3.4% |
 | non_text | 8 | 0.2% |
 
-Year known for 3291 of 3450 annotated documents (annotation 3272, OpenAlex 3, PDF metadata 17). Median year 2024.
+Year known for 3294 of 3450 annotated documents (annotation 3279, OpenAlex 3, PDF metadata 13). Median year 2024.
 
 Governance instruments by status:
 
 | Status | Documents |
 |---|---|
-| published_current | 784 |
-| in_force | 697 |
+| published_current | 782 |
+| in_force | 698 |
 | superseded_or_repealed | 124 |
 | draft_or_bill_under_consideration | 96 |
 | adopted_not_yet_in_force | 56 |
 | under_development | 51 |
 | consultation_open | 35 |
 | proposal_or_concept | 32 |
-| unknown | 5 |
-| withdrawn_or_lapsed | 5 |
+| withdrawn_or_lapsed | 6 |
+| unknown | 4 |
 
 ## 3. Reliability (main model vs independent second model, 10% sample)
 
@@ -188,14 +188,14 @@ Overlap documents: 160. Cohen's kappa (quadratic-weighted for ordinal fields; me
 
 ## 4. Quality flags for review
 
-400 documents carry at least one flag (`data/qa_flags.csv`). Counts by flag:
+394 documents carry at least one flag (`data/qa_flags.csv`). Counts by flag:
 
-- sprint_doc_rated_irrelevant: 124
 - language_disagreement: 123
+- sprint_doc_rated_irrelevant: 122
 - annotation_year_vs_openalex>1: 86
-- low_confidence_with_text: 53
+- low_confidence_with_text: 49
 - year<1990: 39
-- jurisdiction_unknown: 11
+- jurisdiction_unknown: 9
 - governance_doc_in_news_or_research_class: 2
 
 ## 5. Deliverables in this stage

@@ -26,9 +26,9 @@
 | Proposals / drafts   |  83 | autonomy_level_control              | Autonomy level & control      |      63.9 |              31.3 |
 | Proposals / drafts   |  83 | conformity_assessment_certification | Conformity assessment         |      55.4 |              24.1 |
 | Proposals / drafts   |  83 | dual_use_military                   | Dual use & military           |      32.5 |              24.1 |
-| Research outputs     | 509 | physical_safety                     | Physical safety               |      43.8 |               9.4 |
-| Research outputs     | 509 | human_robot_proximity               | Human-robot proximity         |      71.3 |              34.4 |
-| Research outputs     | 509 | liability_for_physical_damage       | Liability for physical damage |      25.1 |              12.8 |
-| Research outputs     | 509 | autonomy_level_control              | Autonomy level & control      |      42   |               9.6 |
-| Research outputs     | 509 | conformity_assessment_certification | Conformity assessment         |       7.5 |               1.8 |
-| Research outputs     | 509 | dual_use_military                   | Dual use & military           |      11.8 |               4.3 |
+| Research outputs     | 511 | physical_safety                     | Physical safety               |      44   |               9.4 |
+| Research outputs     | 511 | human_robot_proximity               | Human-robot proximity         |      71.2 |              34.2 |
+| Research outputs     | 511 | liability_for_physical_damage       | Liability for physical damage |      25.2 |              12.9 |
+| Research outputs     | 511 | autonomy_level_control              | Autonomy level & control      |      42.3 |               9.8 |
+| Research outputs     | 511 | conformity_assessment_certification | Conformity assessment         |       7.6 |               1.8 |
+| Research outputs     | 511 | dual_use_military                   | Dual use & military           |      11.7 |               4.3 |

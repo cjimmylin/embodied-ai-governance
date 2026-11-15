@@ -82,9 +82,9 @@ try:
     L.append(f"## 8. Settle {len(un)} missing source URLs and re-collect {len(fi)} mis-saved files\n")
     L.append(f"404 documents from the original Drive collection had no source URL. {len(su)-len(un)} now have one; how each was found is in `data/source_url_recovery.csv`. "
              "The first table lists the documents still without a confirmed URL. The second lists saved files that turned out to be an error page or a different document from their title. "
-             "Those files need collecting again and then re-labelling or dropping. Three that affected the results were re-collected and re-labelled on 14 November 2026: "
-             "D0093 (now the Santa Fe court's generative-AI guide, soft law) and D0455 (now the RISA news article) left the principal binding set, which fell from 667 to 665; "
-             "D0909 (now the Carr policing-robots article, abstract only) stays in the embodied set. Their new texts are listed in `data/source_url_recovery.csv`.\n")
+             "The URL check found 19 such files. 17 were re-collected and re-labelled on 14 and 15 November 2026 (rows with basis 're-collected' in `data/source_url_recovery.csv`; labels in `annotations/recollect/`); "
+             "two of them carry only an abstract (D0405, D0909) and two come from a third-party copy because the official host refused the sandbox (D0093, D0385), as each row's note says. "
+             "The files below could not be re-collected from the sandbox: they need a person with a browser.\n")
     L.append(un[["doc_id","source_url","confidence","note"]].assign(note=un.note.str.slice(0,160)).to_markdown(index=False)+"\n")
     L.append(fi[["doc_id","file_issue","source_url"]].to_markdown(index=False)+"\n")
 except Exception: pass

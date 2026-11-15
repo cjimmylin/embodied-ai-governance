@@ -148,16 +148,16 @@ Two cross-cutting axes precede the categories: **embodiment status** (physical s
 
 | Embodiment status | Documents | Share |
 |---|---|---|
-| physical_embodied | 1630 | 47.2% |
-| none | 1536 | 44.5% |
+| physical_embodied | 1631 | 47.3% |
+| none | 1535 | 44.5% |
 | mixed | 236 | 6.8% |
 | software_agent_called_robot | 48 | 1.4% |
 
 | AI scope | Documents | Share |
 |---|---|---|
-| embodied_ai_specific_category | 1073 | 31.1% |
-| general_ai_only | 1037 | 30.1% |
-| not_ai | 618 | 17.9% |
+| embodied_ai_specific_category | 1074 | 31.1% |
+| general_ai_only | 1046 | 30.3% |
+| not_ai | 608 | 17.6% |
 | embodied_ai_robotics_general | 392 | 11.4% |
 | general_ai_with_embodied_provisions | 330 | 9.6% |
 
@@ -171,10 +171,10 @@ Two cross-cutting axes precede the categories: **embodiment status** (physical s
 | Service & social | `domestic_household_robots` | Vacuum, lawn and home-assistant robots | 83 | 13 | R2-f0fbb04b National Standards Information Public Service Platform search result: ; R2-30f2fdb4 National Standards Information Public Service Platform – Search Result; R2-215234e6 National Standards Information Public Service Platform – Search result |
 | Service & social | `social_companion_robots` | Companionship and emotional-interaction robots, robotic pets | 247 | 100 | D1465 Ethical Aspects of the Use of Social Robots in Elderly Care -- A Syste; D1607 Social Robots in Nursing Homes: Field Work and Ethics; D1481 Ethical perceptions towards real-world use of companion robots with ol |
 | Service & social | `educational_robots` | Robots used in teaching and learning | 50 | 15 | R2-49c7c292 Educational Robots—Safety Requirements and Testing Methods (GB/T 33265; D0024 Ethical implications of emotional and psychologic ties on human-robot ; D0848 Promoting STEAM Education and AI/Robot Ethics in a Child-Robot Theater |
-| Service & social | `care_assistive_robots` | Elder care, disability support and nursing assistance | 231 | 102 | D0185 ISO 13482:2014 Robots and robotic devices — Safety requirements for pe; R2-0855b2d9 Implementation Opinions of the Ministry of Commerce and Seven Other De; R2-082a618a Notice on Issuing the Several Measures on Cultivating Elderly Care Ser |
+| Service & social | `care_assistive_robots` | Elder care, disability support and nursing assistance | 232 | 102 | D0185 ISO 13482:2014 Robots and robotic devices — Safety requirements for pe; R2-0855b2d9 Implementation Opinions of the Ministry of Commerce and Seven Other De; R2-082a618a Notice on Issuing the Several Measures on Cultivating Elderly Care Ser |
 | Service & social | `toys_entertainment_robots` | Toys and entertainment robots | 13 | 6 | R2-492928d7 Entertainment robots—Safety requirements and testing methods (GB/T 413; R2-b83cc260 Revised: Internet-Connected Toys Could Present Privacy and Contact Con; D0838 Data protection for networked and robotic toys – a legal perspective |
 | Service & social | `sex_robots` | Sexual and intimate-companion robots | 28 | 20 | R2-93c49f40 H.R. 1186 – Curbing Realistic Exploitative Electronic Pedophilic Robot; R2-2904db2e Curbing Realistic Exploitative Electronic Pedophilic Robots Act of 201; D0551 Current Issues with Sex Robots and Three Approaches to its Regulation |
-| Medical & body-integrated | `surgical_medical_robots` | Surgical and clinical robots | 151 | 60 | D1013 Interplay between the Medical Devices Regulation (MDR) & In vitro Diag; R2-6a674697 The contribution of the robotics metaverse in the medical sector; R2-d3285a29 Publication of Evaluation Indicators for Next-Generation Medical Devic |
+| Medical & body-integrated | `surgical_medical_robots` | Surgical and clinical robots | 152 | 61 | D1013 Interplay between the Medical Devices Regulation (MDR) & In vitro Diag; R2-6a674697 The contribution of the robotics metaverse in the medical sector; R2-d3285a29 Publication of Evaluation Indicators for Next-Generation Medical Devic |
 | Medical & body-integrated | `rehabilitation_exoskeleton_prosthetic` | Exoskeletons, prostheses, wearable robots, BCI-driven actuators | 72 | 20 | R2-afe1f8af Three-Year Action Plan for Expanding Capacity and Improving Quality of; R2-dcb1bb49 General specifications for motion rehabilitation training robot (GB/T ; R2-9afd6f5a De Novo Classification Order for ReWalk Powered Exoskeleton (K131798) |
 | Medical & body-integrated | `biohybrid_or_cyborg` | Biohybrid systems and human augmentation | 14 | 4 | D1411 Bees, Humans and Robots: Ethical and Epistemic Implications of Biohybr; D1451 Ethical Concerns Of Surviving Via And From Robots: Cyborgs And Expiry ; R2-afe1f8af Three-Year Action Plan for Expanding Capacity and Improving Quality of |
 | Humanoid & general-purpose | `humanoid_general_purpose` | Humanoids, androids, general-purpose embodied agents and embodied foundation models | 173 | 96 | D0003 Bill No. 391/2026 - Regulating the manufacture, sale, possession, use ; R3-59b89486 Beijing Action Plan for Embodied Intelligence Technological Innovation; D0460 Implementation Plan of Shanghai Municipality for the Development of th |
@@ -193,32 +193,32 @@ Documents carry one `primary_topic` and any number of `governance_topics`.
 
 | Topic | Primary | Any mention | Example documents |
 |---|---|---|---|
-| `safety_physical_harm` | 474 | 1420 | R2-d97f5421 Automated Vehicles Act 2024; R2-b649a539 Regulations on the Management of Intelligent Connected Vehicles in the; R3-c4c110d0 Regulations on the Administration of Intelligent Connected Vehicles in |
-| `industrial_policy_innovation` | 648 | 1262 | R2-06ecd7f6 Beijing Municipality Autonomous Vehicles Regulations; R2-d364d95a Intelligent Robots Development and Distribution Promotion Act; R2-62a59fe7 Unmanned Vehicles Technology Innovative Experimentation Act |
-| `ethics_principles` | 399 | 1120 | R2-87907601 Framework of ethical aspects of artificial intelligence, robotics and ; D1008 Ethically Aligned Design: A Vision for Prioritizing Human Well-being w; R2-99c420d8 Robotics for Good Care |
-| `standards_interoperability` | 237 | 1068 | R2-77acbca3 Commission Implementing Decision (EU) 2024/2103 of 30 July 2024 on har; R2-3e221bc0 Commission Implementing Regulation (EU) 2021/1166 of 15 July 2021 amen; R2-a476daf2 ISO 9409-1:2004 Manipulating industrial robots — Mechanical interfaces |
-| `certification_conformity_assessment` | 240 | 940 | R2-6c14c9c2 Commission Delegated Regulation (EU) 2019/945 on unmanned aircraft sys; R2-b4af497c Commission Implementing Regulation (EU) 2022/425 of 14 March 2022 amen; R2-a283b42e Commission Implementing Regulation (EU) 2024/1110 amending Regulation  |
-| `privacy_data_protection` | 88 | 927 | R2-4c85870b Maine Revised Statutes Title 25 §4501. Regulation of unmanned aerial v; R2-84e63b91 Searches and seizure using a drone (F.S. 934.50, Freedom from Unwarran; R2-8e251575 626.19 Use of Unmanned Aerial Vehicles (2026 Minnesota Statutes) |
-| `risk_management_risk_tiers` | 161 | 834 | R2-ddd7d9c2 Commission Implementing Regulation (EU) 2019/947 of 24 May 2019 on the; D1140 White Paper on Artificial Intelligence - A European approach to excell; D0005 Robotic Technologies Law (Decree No. 340) |
-| `education_training` | 70 | 770 | R2-d2567eac Civil Aviation Directive 6011 Part (I) – Unmanned Aircraft System: Rem; R2-be4e03ba Ordinance on Registered Training Institutions and Registered Renewal T; R2-31dc68e0 ISO 23665:2026 Uncrewed aircraft systems — Training for personnel invo |
-| `transparency_explainability` | 36 | 762 | R3-e92e3ad7 IEEE 7001-2021 IEEE Standard for Transparency of Autonomous Systems; R2-de2c179b Law enforcement and state agencies: military equipment: funding, acqui; D1538 Is honesty the best policy for mismatched partners? Aligning multi-mod |
-| `human_oversight_control` | 42 | 646 | R2-c6368219 PAS 1884:2021 Safety operators in automated vehicle testing and triall; R2-43bd35c0 Working paper on the "human element"; R2-6e817897 ISO 7856:2025 Intelligent transport systems — Remote support for low s |
-| `cybersecurity` | 51 | 610 | R2-022998ee FAR Part 40—Information Security and Supply Chain Security (Subpart 40; R2-f9c66a43 Part 791—Securing the Information and Communications Technology and Se; R2-a061be42 General requirements for information security of service robots |
-| `civil_liability` | 77 | 598 | D1299 European Parliament Resolution of 16 February 2017 with recommendation; R2-3f7ae081 Autonomous driving in European transport; R2-66142fe4 Automated and Electric Vehicles Act 2018 |
-| `fairness_bias_discrimination` | 23 | 523 | R2-a85e7f8c Addressing Bias in Autonomous Weapons; D0850 Inclusion in Assistive Haircare Robotics: Practical and Ethical Consid; D1511 Gender Stereotyping of Robotic Systems in Eldercare: An Exploratory An |
-| `labor_employment` | 83 | 502 | D0221 Industrial Robotic Systems & International Human Rights; D0523 Toward a Synthesis of Computational Power and Human Wisdom. Review of ; R2-d2d88408 Opinion of the European Economic and Social Committee on 'Artificial i |
+| `safety_physical_harm` | 474 | 1422 | R2-d97f5421 Automated Vehicles Act 2024; R2-b649a539 Regulations on the Management of Intelligent Connected Vehicles in the; R3-c4c110d0 Regulations on the Administration of Intelligent Connected Vehicles in |
+| `industrial_policy_innovation` | 654 | 1272 | R2-06ecd7f6 Beijing Municipality Autonomous Vehicles Regulations; R2-d364d95a Intelligent Robots Development and Distribution Promotion Act; R2-62a59fe7 Unmanned Vehicles Technology Innovative Experimentation Act |
+| `ethics_principles` | 404 | 1129 | R2-87907601 Framework of ethical aspects of artificial intelligence, robotics and ; D1008 Ethically Aligned Design: A Vision for Prioritizing Human Well-being w; R2-99c420d8 Robotics for Good Care |
+| `standards_interoperability` | 236 | 1068 | R2-77acbca3 Commission Implementing Decision (EU) 2024/2103 of 30 July 2024 on har; R2-3e221bc0 Commission Implementing Regulation (EU) 2021/1166 of 15 July 2021 amen; R2-a476daf2 ISO 9409-1:2004 Manipulating industrial robots — Mechanical interfaces |
+| `certification_conformity_assessment` | 240 | 939 | R2-6c14c9c2 Commission Delegated Regulation (EU) 2019/945 on unmanned aircraft sys; R2-b4af497c Commission Implementing Regulation (EU) 2022/425 of 14 March 2022 amen; R2-a283b42e Commission Implementing Regulation (EU) 2024/1110 amending Regulation  |
+| `privacy_data_protection` | 87 | 929 | R2-4c85870b Maine Revised Statutes Title 25 §4501. Regulation of unmanned aerial v; R2-84e63b91 Searches and seizure using a drone (F.S. 934.50, Freedom from Unwarran; R2-8e251575 626.19 Use of Unmanned Aerial Vehicles (2026 Minnesota Statutes) |
+| `risk_management_risk_tiers` | 161 | 837 | R2-ddd7d9c2 Commission Implementing Regulation (EU) 2019/947 of 24 May 2019 on the; D1140 White Paper on Artificial Intelligence - A European approach to excell; D0005 Robotic Technologies Law (Decree No. 340) |
+| `education_training` | 71 | 777 | R2-d2567eac Civil Aviation Directive 6011 Part (I) – Unmanned Aircraft System: Rem; R2-be4e03ba Ordinance on Registered Training Institutions and Registered Renewal T; R2-31dc68e0 ISO 23665:2026 Uncrewed aircraft systems — Training for personnel invo |
+| `transparency_explainability` | 36 | 765 | R3-e92e3ad7 IEEE 7001-2021 IEEE Standard for Transparency of Autonomous Systems; R2-de2c179b Law enforcement and state agencies: military equipment: funding, acqui; D1538 Is honesty the best policy for mismatched partners? Aligning multi-mod |
+| `human_oversight_control` | 42 | 649 | R2-c6368219 PAS 1884:2021 Safety operators in automated vehicle testing and triall; R2-43bd35c0 Working paper on the "human element"; R2-6e817897 ISO 7856:2025 Intelligent transport systems — Remote support for low s |
+| `cybersecurity` | 50 | 612 | R2-022998ee FAR Part 40—Information Security and Supply Chain Security (Subpart 40; R2-f9c66a43 Part 791—Securing the Information and Communications Technology and Se; R2-a061be42 General requirements for information security of service robots |
+| `civil_liability` | 77 | 599 | D1299 European Parliament Resolution of 16 February 2017 with recommendation; R2-3f7ae081 Autonomous driving in European transport; R2-66142fe4 Automated and Electric Vehicles Act 2018 |
+| `fairness_bias_discrimination` | 23 | 529 | R2-a85e7f8c Addressing Bias in Autonomous Weapons; D0850 Inclusion in Assistive Haircare Robotics: Practical and Ethical Consid; D1511 Gender Stereotyping of Robotic Systems in Eldercare: An Exploratory An |
+| `labor_employment` | 82 | 505 | D0221 Industrial Robotic Systems & International Human Rights; D0523 Toward a Synthesis of Computational Power and Human Wisdom. Review of ; R2-d2d88408 Opinion of the European Economic and Social Committee on 'Artificial i |
 | `trust_acceptance` | 39 | 447 | D0182 Humanoid Robots, Public Trust, and Ethical Algorithm Design: A Multidi; D0971 The Ethical Dimensions of Public Opinion on Smart Robots; D1517 How Ethical Issues Raised by Human–Robot Interaction can Impact the In |
 | `human_robot_interaction_social_effects` | 65 | 439 | R2-95f8142d Guide for Effective Use of Nursing-Care Robots; R2-740db037 ISO/TR 23049:2018 Road Vehicles — Ergonomic aspects of external visual; R2-5f61e321 ISO/PAS 23735:2025 Road vehicles — Ergonomic design guidance for exter |
-| `other` | 289 | 409 | R2-0322d77f The Air Navigation (Minimum Age for Operators of Small Unmanned Aircra; R2-f3b175ef Part 48—Registration and Marking Requirements for Small Unmanned Aircr; R2-d7556225 The Air Traffic Management and Unmanned Aircraft Act 2021 (Commencemen |
-| `consumer_protection` | 46 | 381 | R2-5a3159c0 The Automated Vehicles (Marketing Restrictions) Regulations 2026; R2-2b73010a The Automated Vehicles Act 2024 (Commencement No. 3) Regulations 2026; R2-30f2fdb4 National Standards Information Public Service Platform – Search Result |
+| `other` | 281 | 405 | R2-0322d77f The Air Navigation (Minimum Age for Operators of Small Unmanned Aircra; R2-f3b175ef Part 48—Registration and Marking Requirements for Small Unmanned Aircr; R2-d7556225 The Air Traffic Management and Unmanned Aircraft Act 2021 (Commencemen |
+| `consumer_protection` | 46 | 382 | R2-5a3159c0 The Automated Vehicles (Marketing Restrictions) Regulations 2026; R2-2b73010a The Automated Vehicles Act 2024 (Commencement No. 3) Regulations 2026; R2-30f2fdb4 National Standards Information Public Service Platform – Search Result |
 | `sustainability_environment` | 61 | 350 | R2-ce7af517 ISO/TS 25213:2026 Robotics — Test methods for measuring the energy con; D0216 Sustainable and Ethical AI-Driven Recognition in Robotics: Integrating; D1299 European Parliament Resolution of 16 February 2017 with recommendation |
-| `human_dignity_autonomy` | 33 | 333 | D0183 Companion Robots, Digital Intimacy and the Purposes of Marriage in Isl; D1604 Social Assistive Robotics: An Ethical and Political Inquiry Through th; D1673 “Oh, Dignity too?” Said the Robot: Human Dignity as the Basis for the  |
+| `human_dignity_autonomy` | 33 | 334 | D0183 Companion Robots, Digital Intimacy and the Purposes of Marriage in Isl; D1604 Social Assistive Robotics: An Ethical and Political Inquiry Through th; D1673 “Oh, Dignity too?” Said the Robot: Human Dignity as the Basis for the  |
 | `military_use_ihl` | 101 | 215 | R2-d7dae4f6 Lethal autonomous weapons systems; R2-11825c4e European Parliament resolution of 12 September 2018 on autonomous weap; R2-300d8ec9 European Parliament resolution of 27 February 2014 on the use of armed |
 | `children_vulnerable_groups` | 17 | 214 | R2-2904db2e Curbing Realistic Exploitative Electronic Pedophilic Robots Act of 201; D0815 What Pediatric Robotic Surgery Since 2000 Suggests About E; R2-d97f5421 Automated Vehicles Act 2024 |
 | `criminal_liability` | 48 | 185 | R2-c6679a66 House Bill No. 4797: Drone-Free Jails Act; R2-cb3f9817 The Automated Vehicles Act 2024 (Commencement No. 1) Regulations 2025; R2-5e9a881e Draft Law on Automated-Driving Road Vehicles (Luxembourg) |
 | `legal_personhood_robot_rights` | 57 | 151 | D0037 Robot as Legal Person: Electronic Personhood in Robotics and Artificia; D0179 Towards Granting of Legal Personality to Autonomous Robots in the UAE; D0204 Endowed by Their Creator with Certain Inalienable Rights? On John-Stew |
-| `intellectual_property` | 20 | 138 | D0553 National Legal Protection Of Artificial Intelligence And Robots In The; D1299 European Parliament Resolution of 16 February 2017 with recommendation; D0005 Robotic Technologies Law (Decree No. 340) |
-| `research_ethics` | 23 | 132 | D0556 Ethical Design of a Robot Platform for Disabled Employees: Some Practi; D1466 Ethical Challenges in the Human-Robot Interaction Field; D0863 Robotics in Service and the Responsibility to Society |
+| `intellectual_property` | 20 | 137 | D0553 National Legal Protection Of Artificial Intelligence And Robots In The; D1299 European Parliament Resolution of 16 February 2017 with recommendation; D0005 Robotic Technologies Law (Decree No. 340) |
+| `research_ethics` | 23 | 133 | D0556 Ethical Design of a Robot Platform for Disabled Employees: Some Practi; D1466 Ethical Challenges in the Human-Robot Interaction Field; D0863 Robotics in Service and the Responsibility to Society |
 | `taxation_economic_policy` | 22 | 89 | R2-193753ad Civil Aviation Safety Amendment (Unmanned Aircraft Levy Collection) Re; R2-8ef9eda8 Civil Aviation Amendment (Unmanned Aircraft Levy Collection and Paymen; D0383 Robot Taxation as a Tool for Labor Market Protection: Legal Analysis o |
 
 ## 3. Document type taxonomy
@@ -228,72 +228,72 @@ Documents carry one `primary_topic` and any number of `governance_topics`.
 | communication_or_news | `blog_or_opinion` | 22 | 0 | D0861 Sex robots are here, but laws aren't keeping up with the ethical and p; D0256 Oman's National Artificial Intelligence Policy; D0806 Our pixelated selves: How AI is helping pensioners in Telangana |
 | communication_or_news | `news_article` | 12 | 0 | D0306 ‘Killer robots’ hit the road – and the law has yet to catch up; D0143 Artificial Intelligence: committee will have 30 more days to vote on f; D0171 Temporary committee will establish artificial intelligence framework |
 | communication_or_news | `other` | 6 | 0 | D1446 The Rape of Lucrece; D0425 Keynote Address by the Minister of Communications and Digital Technolo; D0121 Artificial Intelligence Policy |
-| communication_or_news | `press_release_or_government_news` | 164 | 0 | D0150 Latin America and the Caribbean Accelerate the Adoption of Artificial ; D1695 Smart Africa Steering Committee convenes in Kigali, and endorses the e; D0798 Strengthening Data-Based Policymaking, Government Utilizes Artificial  |
-| communication_or_news | `web_page_informational` | 392 | 2 | R2-dc5712a9 Pakistan Civil Aviation Authority – Announcements and News Page; D0296 Technology and Artificial Intelligence - Artificial Intelligence in th; D1377 Does Artificial Intelligence threaten decent work? |
+| communication_or_news | `press_release_or_government_news` | 168 | 0 | D0150 Latin America and the Caribbean Accelerate the Adoption of Artificial ; D1695 Smart Africa Steering Committee convenes in Kigali, and endorses the e; D0798 Strengthening Data-Based Policymaking, Government Utilizes Artificial  |
+| communication_or_news | `web_page_informational` | 393 | 2 | R2-64203dab Robotics in the Workplace: An Overview; D0713 Introduction to Member Services of the National Laws and Regulations D; D0797 Government Electronic Newspaper (homepage - weather forecast) |
 | governance_instrument_binding | `court_decision_or_judicial_notice` | 7 | 7 | D1169 Clearview AI Inc v The Information Commissioner [2023] UKFTT 00819 (GR; D0959 Notice to the Parties and the Profession: The Use of Artificial Intell; D0670 Registrar's Circular No. 9 of 2024: Guide on the Use of Generative Art |
 | governance_instrument_binding | `international_treaty_or_convention` | 2 | 2 | R2-d5631264 Council of Europe Framework Convention on Artificial Intelligence and ; R2-6e60e906 Convention on Road Traffic (Vienna, 8 November 1968) — UN Treaty Colle |
 | governance_instrument_binding | `regulation_or_decree` | 620 | 620 | R3-002e5473 Regulations of the People's Republic of China on Nature Reserves; R2-4eb557ff The Valuation for Rating (Plant and Machinery) (Wales) (Amendment) Reg; R2-e38aac12 Cabinet Order on Standard Fees of Local Governments |
 | governance_instrument_binding | `statute_or_act` | 178 | 178 | R2-d97f5421 Automated Vehicles Act 2024; R2-b649a539 Regulations on the Management of Intelligent Connected Vehicles in the; R3-c4c110d0 Regulations on the Administration of Intelligent Connected Vehicles in |
-| governance_instrument_binding | `technical_standard` | 9 | 9 | D0125 ABNT NBR 17225:2025 Accessibility in web content and applications — Re; R2-a476daf2 ISO 9409-1:2004 Manipulating industrial robots — Mechanical interfaces; R2-bdae7a53 ISO 13482 Robots and robotic devices – Safety requirements for persona |
+| governance_instrument_binding | `technical_standard` | 9 | 9 | R2-a476daf2 ISO 9409-1:2004 Manipulating industrial robots — Mechanical interfaces; R2-bdae7a53 ISO 13482 Robots and robotic devices – Safety requirements for persona; D0018 ISO 31101:2023 Robotics — Application services provided by service rob |
 | governance_instrument_soft | `consultation_or_white_paper` | 1 | 1 | D1140 White Paper on Artificial Intelligence - A European approach to excell; D0743 Artificial Intelligence in the Malaysian Financial Sector (Discussion ; D0759 Public Consultation on Artificial Intelligence and Singapore's Intelle |
 | governance_instrument_soft | `ethical_framework_or_principles` | 25 | 25 | D0763 Responsible AI #AIFORALL Part 1 – Principles for Responsible AI; D1696 Blueprint for an AI Bill of Rights: Making Automated Systems Work for ; D0315 Trustworthy AI in Aotearoa New Zealand: AI Principles |
 | governance_instrument_soft | `intergovernmental_recommendation_or_resolution` | 76 | 76 | R2-d7dae4f6 Lethal autonomous weapons systems; R2-35b25790 Mobilisation of the European Globalisation Adjustment Fund: Poland - P; R3-52ba85aa Recommendation of the Council on Artificial Intelligence |
-| governance_instrument_soft | `national_strategy_or_action_plan` | 209 | 209 | D0046 GoJ Communication Policy; R2-54555e36 Notice of the General Office of the State Council on Forwarding the Ac; R2-90ac2b88 General Office of the State Council Notice Forwarding the Ministry of  |
+| governance_instrument_soft | `national_strategy_or_action_plan` | 208 | 208 | R2-54555e36 Notice of the General Office of the State Council on Forwarding the Ac; R2-90ac2b88 General Office of the State Council Notice Forwarding the Ministry of ; R2-77f666d9 Notice on Issuing the "14th Five-Year Plan" Noise Pollution Prevention |
 | governance_instrument_soft | `parliamentary_material` | 1 | 1 | D1299 European Parliament Resolution of 16 February 2017 with recommendation; R2-9f60871f Opinion of the European Committee of the Regions – White Paper on Arti; R2-b2dc1e84 Driving Change: Technology and the Future of the Automated Vehicle |
-| governance_instrument_soft | `policy_guideline_or_code_of_practice` | 268 | 268 | R2-22526a8e Commission Recommendation (EU) 2026/510 of 6 March 2026 on revising th; D0669 Guidelines on Securing AI Systems; R3-06ba6cab Notice by the National Press and Publication Administration and others |
-| governance_instrument_soft | `procurement_or_internal_policy` | 12 | 11 | D0190 Annual Plan for Promoting Employment of People with Disabilities – Isr; D0930 Driving Efficient Acquisition of Artificial Intelligence in Government; D1344 Transparency of AI use in Procurement - Information Note 02/24 |
+| governance_instrument_soft | `policy_guideline_or_code_of_practice` | 269 | 269 | D0669 Guidelines on Securing AI Systems; R2-22526a8e Commission Recommendation (EU) 2026/510 of 6 March 2026 on revising th; R3-9c443c26 Notice on Carrying Out the 2026 Central Government Fiscal Support for  |
+| governance_instrument_soft | `procurement_or_internal_policy` | 11 | 10 | D0190 Annual Plan for Promoting Employment of People with Disabilities – Isr; D1344 Transparency of AI use in Procurement - Information Note 02/24; D0930 Driving Efficient Acquisition of Artificial Intelligence in Government |
 | governance_instrument_soft | `regulation_or_decree` | 2 | 2 | R3-002e5473 Regulations of the People's Republic of China on Nature Reserves; R2-4eb557ff The Valuation for Rating (Plant and Machinery) (Wales) (Amendment) Reg; R2-e38aac12 Cabinet Order on Standard Fees of Local Governments |
-| governance_instrument_soft | `technical_standard` | 232 | 231 | D0125 ABNT NBR 17225:2025 Accessibility in web content and applications — Re; R2-a476daf2 ISO 9409-1:2004 Manipulating industrial robots — Mechanical interfaces; R2-bdae7a53 ISO 13482 Robots and robotic devices – Safety requirements for persona |
-| governance_instrument_soft | `web_page_informational` | 1 | 0 | R2-dc5712a9 Pakistan Civil Aviation Authority – Announcements and News Page; D0296 Technology and Artificial Intelligence - Artificial Intelligence in th; D1377 Does Artificial Intelligence threaten decent work? |
-| governance_proposal_or_draft | `bill_or_draft_law` | 110 | 110 | D0055 Bill No. 5938/2023 - Amends Law 12.965 of 23 April 2014 (Brazilian Int; R2-21a51f86 Proposal for a Directive of the European Parliament and of the Council; R2-f32bac3c Proposal for a Regulation of the European Parliament and of the Counci |
+| governance_instrument_soft | `technical_standard` | 231 | 230 | R2-a476daf2 ISO 9409-1:2004 Manipulating industrial robots — Mechanical interfaces; R2-bdae7a53 ISO 13482 Robots and robotic devices – Safety requirements for persona; D0018 ISO 31101:2023 Robotics — Application services provided by service rob |
+| governance_instrument_soft | `web_page_informational` | 1 | 0 | R2-64203dab Robotics in the Workplace: An Overview; D0713 Introduction to Member Services of the National Laws and Regulations D; D0797 Government Electronic Newspaper (homepage - weather forecast) |
+| governance_proposal_or_draft | `bill_or_draft_law` | 111 | 111 | D0055 Bill No. 5938/2023 - Amends Law 12.965 of 23 April 2014 (Brazilian Int; R2-3cdaf66c Proposal for a Regulation amending Regulations (EU) 2017/745 and (EU) ; R2-21a51f86 Proposal for a Directive of the European Parliament and of the Council |
 | governance_proposal_or_draft | `consultation_or_white_paper` | 68 | 62 | D1140 White Paper on Artificial Intelligence - A European approach to excell; D0743 Artificial Intelligence in the Malaysian Financial Sector (Discussion ; D0759 Public Consultation on Artificial Intelligence and Singapore's Intelle |
 | governance_proposal_or_draft | `intergovernmental_recommendation_or_resolution` | 3 | 3 | R2-d7dae4f6 Lethal autonomous weapons systems; R2-35b25790 Mobilisation of the European Globalisation Adjustment Fund: Poland - P; R3-52ba85aa Recommendation of the Council on Artificial Intelligence |
 | governance_proposal_or_draft | `parliamentary_material` | 1 | 1 | D1299 European Parliament Resolution of 16 February 2017 with recommendation; R2-9f60871f Opinion of the European Committee of the Regions – White Paper on Arti; R2-b2dc1e84 Driving Change: Technology and the Future of the Automated Vehicle |
-| governance_proposal_or_draft | `technical_standard` | 45 | 45 | D0125 ABNT NBR 17225:2025 Accessibility in web content and applications — Re; R2-a476daf2 ISO 9409-1:2004 Manipulating industrial robots — Mechanical interfaces; R2-bdae7a53 ISO 13482 Robots and robotic devices – Safety requirements for persona |
-| government_report_or_parliamentary | `bill_or_draft_law` | 1 | 1 | D0055 Bill No. 5938/2023 - Amends Law 12.965 of 23 April 2014 (Brazilian Int; R2-21a51f86 Proposal for a Directive of the European Parliament and of the Council; R2-f32bac3c Proposal for a Regulation of the European Parliament and of the Counci |
+| governance_proposal_or_draft | `technical_standard` | 45 | 45 | R2-a476daf2 ISO 9409-1:2004 Manipulating industrial robots — Mechanical interfaces; R2-bdae7a53 ISO 13482 Robots and robotic devices – Safety requirements for persona; D0018 ISO 31101:2023 Robotics — Application services provided by service rob |
+| government_report_or_parliamentary | `bill_or_draft_law` | 1 | 1 | D0055 Bill No. 5938/2023 - Amends Law 12.965 of 23 April 2014 (Brazilian Int; R2-3cdaf66c Proposal for a Regulation amending Regulations (EU) 2017/745 and (EU) ; R2-21a51f86 Proposal for a Directive of the European Parliament and of the Council |
 | government_report_or_parliamentary | `consultation_or_white_paper` | 8 | 5 | D1140 White Paper on Artificial Intelligence - A European approach to excell; D0743 Artificial Intelligence in the Malaysian Financial Sector (Discussion ; D0759 Public Consultation on Artificial Intelligence and Singapore's Intelle |
-| government_report_or_parliamentary | `government_report_or_review` | 185 | 7 | R2-4afed03f Report of the Special Rapporteur on extrajudicial, summary or arbitrar; R2-198920a4 Report from the Commission on the Review of Regulation (EU) 2022/1925 ; R2-b480ed52 Report of the 2018 session of the Group of Governmental Experts on Eme |
+| government_report_or_parliamentary | `government_report_or_review` | 186 | 7 | R2-198920a4 Report from the Commission on the Review of Regulation (EU) 2022/1925 ; R2-4afed03f Report of the Special Rapporteur on extrajudicial, summary or arbitrar; R2-95e3bd18 DESI 2026 methodological note |
 | government_report_or_parliamentary | `intergovernmental_recommendation_or_resolution` | 1 | 1 | R2-d7dae4f6 Lethal autonomous weapons systems; R2-35b25790 Mobilisation of the European Globalisation Adjustment Fund: Poland - P; R3-52ba85aa Recommendation of the Council on Artificial Intelligence |
-| government_report_or_parliamentary | `national_strategy_or_action_plan` | 1 | 1 | D0046 GoJ Communication Policy; R2-54555e36 Notice of the General Office of the State Council on Forwarding the Ac; R2-90ac2b88 General Office of the State Council Notice Forwarding the Ministry of  |
+| government_report_or_parliamentary | `national_strategy_or_action_plan` | 1 | 1 | R2-54555e36 Notice of the General Office of the State Council on Forwarding the Ac; R2-90ac2b88 General Office of the State Council Notice Forwarding the Ministry of ; R2-77f666d9 Notice on Issuing the "14th Five-Year Plan" Noise Pollution Prevention |
 | government_report_or_parliamentary | `parliamentary_material` | 66 | 5 | D1299 European Parliament Resolution of 16 February 2017 with recommendation; R2-9f60871f Opinion of the European Committee of the Regions – White Paper on Arti; R2-b2dc1e84 Driving Change: Technology and the Future of the Automated Vehicle |
-| government_report_or_parliamentary | `policy_guideline_or_code_of_practice` | 1 | 1 | R2-22526a8e Commission Recommendation (EU) 2026/510 of 6 March 2026 on revising th; D0669 Guidelines on Securing AI Systems; R3-06ba6cab Notice by the National Press and Publication Administration and others |
+| government_report_or_parliamentary | `policy_guideline_or_code_of_practice` | 1 | 1 | D0669 Guidelines on Securing AI Systems; R2-22526a8e Commission Recommendation (EU) 2026/510 of 6 March 2026 on revising th; R3-9c443c26 Notice on Carrying Out the 2026 Central Government Fiscal Support for  |
 | grey_literature | `industry_or_ngo_report` | 52 | 0 | D0100 A Call to the State of Peru to Request Observer Status on the Council ; D0433 Comment of the Center for AI and Digital Policy (CAIDP) to the Governm; D0833 Making the Case: The Dangers of Killer Robots and the Need for a Preem |
 | grey_literature | `other` | 3 | 0 | D1446 The Rape of Lucrece; D0425 Keynote Address by the Minister of Communications and Digital Technolo; D0121 Artificial Intelligence Policy |
-| grey_literature | `web_page_informational` | 1 | 0 | R2-dc5712a9 Pakistan Civil Aviation Authority – Announcements and News Page; D0296 Technology and Artificial Intelligence - Artificial Intelligence in th; D1377 Does Artificial Intelligence threaten decent work? |
-| research_output | `book_or_chapter` | 51 | 0 | D0490 The Role of Robotics in Ethical Surgical Practices; D1467 Ethical Challenges of Assistive Robotics in the Elderly Care: Review a; D0472 Perspective Chapter: AI in Robotic Surgical Education – Expanding Hori |
+| grey_literature | `web_page_informational` | 1 | 0 | R2-64203dab Robotics in the Workplace: An Overview; D0713 Introduction to Member Services of the National Laws and Regulations D; D0797 Government Electronic Newspaper (homepage - weather forecast) |
+| research_output | `book_or_chapter` | 52 | 0 | D0490 The Role of Robotics in Ethical Surgical Practices; D1467 Ethical Challenges of Assistive Robotics in the Elderly Care: Review a; D0472 Perspective Chapter: AI in Robotic Surgical Education – Expanding Hori |
 | research_output | `conference_paper` | 112 | 0 | D1525 Human-data interaction and user rights at the personal robot era; D0194 The Basis of Civil Liability for Robot Damage - a comparative study; D0461 Redefining Financial Frontiers: Ethical Imperatives and Regulatory Dyn |
 | research_output | `editorial_or_commentary` | 46 | 0 | D1607 Social Robots in Nursing Homes: Field Work and Ethics; D0204 Endowed by Their Creator with Certain Inalienable Rights? On John-Stew; D0886 Ethics of Robotic Deception |
-| research_output | `journal_article` | 301 | 0 | D0037 Robot as Legal Person: Electronic Personhood in Robotics and Artificia; D1571 Robot Care Ethics Between Autonomy and Vulnerability: Coupling Princip; D0539 The urgency of robot trading regulation in Indonesia: Between innovati |
+| research_output | `journal_article` | 302 | 0 | D0037 Robot as Legal Person: Electronic Personhood in Robotics and Artificia; D0539 The urgency of robot trading regulation in Indonesia: Between innovati; D1571 Robot Care Ethics Between Autonomy and Vulnerability: Coupling Princip |
 | research_output | `other` | 1 | 0 | D1446 The Rape of Lucrece; D0425 Keynote Address by the Minister of Communications and Digital Technolo; D0121 Artificial Intelligence Policy |
 | research_output | `preprint_or_working_paper` | 55 | 0 | D0371 Buffer or Bottleneck? Employment Exposure to Generative AI and the Dig; D0312 Using Fitts' Law to Benchmark Assisted Human-Robot Performance; D0313 Ethical Asymmetry in Human-Robot Interaction – An Empirical Test of Sp |
 | research_output | `review_or_survey_article` | 22 | 0 | D1465 Ethical Aspects of the Use of Social Robots in Elderly Care -- A Syste; D0438 Legal and Ethical Implications of Data Privacy in Artificial Intellige; D1475 Ethical concerns in rescue robotics: a scoping review |
 | research_output | `thesis_or_dissertation` | 15 | 0 | D0634 Embodied care, spatiality, and the ethics of robotic surgery; D0859 Can Robots go to Heaven? Artificial Intelligence & Moral Standing in C; D1473 Ethical aspects concerning the use of social robots in medication coun |
 | unusable | `other` | 1 | 0 | D1446 The Rape of Lucrece; D0425 Keynote Address by the Minister of Communications and Digital Technolo; D0121 Artificial Intelligence Policy |
 | unusable | `statute_or_act` | 1 | 1 | R2-d97f5421 Automated Vehicles Act 2024; R2-b649a539 Regulations on the Management of Intelligent Connected Vehicles in the; R3-c4c110d0 Regulations on the Administration of Intelligent Connected Vehicles in |
-| unusable | `unusable` | 58 | 0 | D0577 Page Not Found; R2-01d562a9 Federal Register / eCFR bot-block page; R2-559b375a FederalRegister.gov bot-block / CAPTCHA page |
-| unusable | `web_page_informational` | 2 | 0 | R2-dc5712a9 Pakistan Civil Aviation Authority – Announcements and News Page; D0296 Technology and Artificial Intelligence - Artificial Intelligence in th; D1377 Does Artificial Intelligence threaten decent work? |
+| unusable | `unusable` | 51 | 0 | D0577 Page Not Found; R2-81070582 Federal Register / eCFR CAPTCHA bot-block page; R2-01d562a9 Federal Register / eCFR bot-block page |
+| unusable | `web_page_informational` | 2 | 0 | R2-64203dab Robotics in the Workplace: An Overview; D0713 Introduction to Member Services of the National Laws and Regulations D; D0797 Government Electronic Newspaper (homepage - weather forecast) |
 
 ## 4. Instrument lifecycle status (governance documents only)
 
 | Status | Documents |
 |---|---|
-| `published_current` | 784 |
-| `in_force` | 697 |
+| `published_current` | 782 |
+| `in_force` | 698 |
 | `superseded_or_repealed` | 124 |
 | `draft_or_bill_under_consideration` | 96 |
 | `adopted_not_yet_in_force` | 56 |
 | `under_development` | 51 |
 | `consultation_open` | 35 |
 | `proposal_or_concept` | 32 |
-| `unknown` | 5 |
-| `withdrawn_or_lapsed` | 5 |
+| `withdrawn_or_lapsed` | 6 |
+| `unknown` | 4 |
 
 | Binding nature | Documents |
 |---|---|
 | `legally_binding` | 815 |
-| `voluntary_soft_law` | 650 |
-| `technical_standard_voluntary` | 272 |
-| `not_applicable` | 135 |
+| `voluntary_soft_law` | 649 |
+| `technical_standard_voluntary` | 271 |
+| `not_applicable` | 136 |
 | `technical_standard_mandated` | 13 |
 
 ## 5. Principles framework
@@ -302,24 +302,24 @@ Core principles follow Jobin et al. (2019) and the OECD AI Principles; six embod
 
 | Principle | Mentioned (1) | Substantive (2) | Any |
 |---|---|---|---|
-| `transparency` | 993 | 435 | 1428 |
-| `justice_fairness` | 818 | 329 | 1147 |
-| `non_maleficence` | 1971 | 410 | 2381 |
-| `responsibility_accountability` | 1264 | 744 | 2008 |
-| `privacy` | 710 | 381 | 1091 |
-| `beneficence` | 1535 | 302 | 1837 |
-| `freedom_autonomy` | 474 | 147 | 621 |
-| `trust` | 739 | 314 | 1053 |
-| `sustainability` | 643 | 183 | 826 |
-| `dignity` | 419 | 113 | 532 |
-| `solidarity` | 639 | 68 | 707 |
-| `human_oversight` | 673 | 429 | 1102 |
-| `robustness_security` | 1085 | 441 | 1526 |
-| `inclusive_growth` | 828 | 771 | 1599 |
-| `physical_safety` | 833 | 585 | 1418 |
-| `human_robot_proximity` | 485 | 257 | 742 |
-| `liability_for_physical_damage` | 263 | 174 | 437 |
-| `autonomy_level_control` | 629 | 289 | 918 |
+| `transparency` | 996 | 436 | 1432 |
+| `justice_fairness` | 821 | 331 | 1152 |
+| `non_maleficence` | 1977 | 411 | 2388 |
+| `responsibility_accountability` | 1266 | 746 | 2012 |
+| `privacy` | 710 | 382 | 1092 |
+| `beneficence` | 1546 | 303 | 1849 |
+| `freedom_autonomy` | 476 | 147 | 623 |
+| `trust` | 742 | 313 | 1055 |
+| `sustainability` | 651 | 183 | 834 |
+| `dignity` | 421 | 113 | 534 |
+| `solidarity` | 642 | 68 | 710 |
+| `human_oversight` | 674 | 432 | 1106 |
+| `robustness_security` | 1086 | 443 | 1529 |
+| `inclusive_growth` | 832 | 778 | 1610 |
+| `physical_safety` | 835 | 585 | 1420 |
+| `human_robot_proximity` | 486 | 257 | 743 |
+| `liability_for_physical_damage` | 263 | 175 | 438 |
+| `autonomy_level_control` | 631 | 290 | 921 |
 | `conformity_assessment_certification` | 618 | 458 | 1076 |
 | `dual_use_military` | 207 | 158 | 365 |
 
@@ -327,25 +327,25 @@ Core principles follow Jobin et al. (2019) and the OECD AI Principles; six embod
 
 | Mechanism | Documents |
 |---|---|
-| `technical_standards_reference` | 1230 |
-| `oversight_body_creation` | 982 |
-| `audits_impact_assessment` | 938 |
-| `international_cooperation` | 880 |
-| `education_training_programs` | 854 |
-| `funding_or_incentives` | 813 |
-| `none` | 741 |
+| `technical_standards_reference` | 1229 |
+| `oversight_body_creation` | 984 |
+| `audits_impact_assessment` | 940 |
+| `international_cooperation` | 885 |
+| `education_training_programs` | 860 |
+| `funding_or_incentives` | 818 |
+| `none` | 733 |
 | `licensing_registration` | 675 |
 | `conformity_assessment_certification` | 647 |
-| `testing_sandboxes` | 597 |
-| `transparency_disclosure_labelling` | 579 |
-| `data_governance_requirements` | 453 |
-| `human_oversight_requirement` | 389 |
-| `incident_reporting` | 380 |
-| `prohibitions_bans` | 365 |
+| `testing_sandboxes` | 598 |
+| `transparency_disclosure_labelling` | 581 |
+| `data_governance_requirements` | 456 |
+| `human_oversight_requirement` | 392 |
+| `incident_reporting` | 381 |
+| `prohibitions_bans` | 366 |
 | `risk_based_tiering` | 361 |
 | `self_regulation_codes` | 278 |
-| `liability_regime` | 230 |
-| `insurance_requirement` | 196 |
+| `liability_regime` | 231 |
+| `insurance_requirement` | 197 |
 
 ## S4. Reliability
 
@@ -479,7 +479,7 @@ Kappa is Cohen's kappa for single-label fields, quadratic-weighted kappa for ord
 | Europe collector 'Robot focus' vs annotated embodiment_status (physical/mixed vs none/software)                                        |  684 |       0.823 |   0.629 |
 | Europe collector 'Type' vs annotated issuer_type (4 collapsed classes)                                                                 |  646 |       0.967 |   0.949 |
 | Collector 2-letter country vs annotated jurisdiction_country (research papers, first-author country)                                   | 1746 |       0.978 |         |
-| Collector set (sprint=robotics vs database=general AI) vs annotated relevance>=2                                                       | 3450 |       0.624 |   0.198 |
+| Collector set (sprint=robotics vs database=general AI) vs annotated relevance>=2                                                       | 3450 |       0.624 |   0.199 |
 | Collector tier Core vs annotated is_governance_document                                                                                | 1250 |       0.777 |   0.32  |
 
 The collectors' labels for issuer type and country were visible to the v1 annotator in the cover block of 483 texts and in the prompt metadata, so these cross-checks overstate independent agreement; the blind re-annotation (S4.1) measures how much the labels change without that information. The round-1 collectors were the regional teams; their labels were not used as a reference for any analysis.
@@ -2088,7 +2088,7 @@ The lists that follow are generated from the v4 master table on the comparable u
 | EU revised Product Liability Directive (EU) 2024/2853                      | EU             |   2024 | binding        | adopted_transposition_2026 | True                   |                 2 |                   49 |          1.5 |
 | EU drone rules: Regulation (EU) 2019/947 and 2019/945                      | EU             |   2019 | binding        | in_force                   | True                   |                14 |                   52 |          1.6 |
 | EU Cyber Resilience Act (EU) 2024/2847                                     | EU             |   2024 | binding        | adopted_applies_2027       | True                   |                 1 |                   34 |          1   |
-| EU Medical Devices Regulation (EU) 2017/745                                | EU             |   2017 | binding        | in_force                   | True                   |                17 |                  130 |          3.9 |
+| EU Medical Devices Regulation (EU) 2017/745                                | EU             |   2017 | binding        | in_force                   | True                   |                17 |                  131 |          3.9 |
 | EU General Product Safety Regulation (EU) 2023/988                         | EU             |   2023 | binding        | in_force                   | True                   |                 3 |                   20 |          0.6 |
 | UN Regulation No. 157 (ALKS)                                               | INT            |   2021 | binding        | in_force                   | True                   |                 2 |                   13 |          0.4 |
 | US FAA Part 107 small UAS rule                                             | US             |   2016 | binding        | in_force                   | True                   |                 2 |                   12 |          0.4 |
@@ -2106,14 +2106,14 @@ The lists that follow are generated from the v4 master table on the comparable u
 | IEEE 7001 transparency of autonomous systems                               | INT            |   2021 | standard       | published                  | False                  |                 0 |                    7 |          0.2 |
 | ANSI/RIA R15.06 industrial robot safety                                    | US             |   2012 | standard       | published                  | False                  |                 0 |                    5 |          0.2 |
 | ANSI/A3 R15.08 industrial mobile robots                                    | US             |   2020 | standard       | published                  | False                  |                 0 |                    1 |          0   |
-| EU AI Act Regulation (EU) 2024/1689                                        | EU             |   2024 | binding        | in_force_phased            | True                   |                25 |                  405 |         12.2 |
+| EU AI Act Regulation (EU) 2024/1689                                        | EU             |   2024 | binding        | in_force_phased            | True                   |                25 |                  406 |         12.2 |
 | US Executive Order 14110 (revoked Jan 2025)                                | US             |   2023 | binding        | revoked                    | True                   |                 1 |                   14 |          0.4 |
 | US Executive Order 14179 (Jan 2025, removing barriers to AI leadership)    | US             |   2025 | binding        | in_force                   | True                   |                 1 |                    6 |          0.2 |
 | Japan AI Promotion Act (2025)                                              | JP             |   2025 | binding        | in_force                   | True                   |                 1 |                    4 |          0.1 |
 | Korea AI Basic Act (2024/2025, applies Jan 2026)                           | KR             |   2025 | binding        | adopted                    | True                   |                 1 |                    5 |          0.2 |
 | Council of Europe Framework Convention on AI (2024)                        | INT            |   2024 | binding_treaty | open_for_signature         | True                   |                 5 |                   15 |          0.5 |
 | UNESCO Recommendation on the Ethics of AI (2021)                           | INT            |   2021 | soft           | adopted                    | True                   |                 1 |                   60 |          1.8 |
-| OECD AI Principles (2019, rev. 2024)                                       | INT            |   2019 | soft           | adopted                    | True                   |                 1 |                   57 |          1.7 |
+| OECD AI Principles (2019, rev. 2024)                                       | INT            |   2019 | soft           | adopted                    | True                   |                 1 |                   58 |          1.7 |
 | Dubai Law No. 9 of 2023 on autonomous vehicles                             | AE             |   2023 | binding        | in_force                   | True                   |                 1 |                    1 |          0   |
 | El Salvador Decree 340 Robotic Technologies Law (2025)                     | SV             |   2025 | binding        | in_force                   | True                   |                 1 |                    1 |          0   |
 | Taiwan Industrial Robot Hazard Prevention Standards (1987, amended 2018)   | TW             |   2018 | binding        | in_force                   | False                  |                 0 |                    0 |          0   |
@@ -2145,7 +2145,7 @@ The collection differs from these in coding research, policy and law in one sche
 | sprint_doc_rated_irrelevant              |         124 |
 | language_disagreement                    |         123 |
 | annotation_year_vs_openalex>1            |          86 |
-| low_confidence_with_text                 |          54 |
+| low_confidence_with_text                 |          53 |
 | year<1990                                |          39 |
 | jurisdiction_unknown                     |          11 |
 | governance_doc_in_news_or_research_class |           2 |
@@ -2182,10 +2182,10 @@ Generated from 3450 canonical documents (3450 annotated). Annotation spend so fa
 
 ## 1. Corpus construction
 
-- Files downloaded from Drive: 2557 (plus 26 recovered through the Drive text reader).
+- Files downloaded from Drive: 2557 (plus 24 recovered through the Drive text reader).
 - Unique documents after deduplication by content hash, URL, title and prose similarity: 3586.
 - Documents listed in more than one regional folder: 78.
-- Documents with usable text: 3496; bot-walled or empty captures kept as metadata-only rows: 90.
+- Documents with usable text: 3500; bot-walled or empty captures kept as metadata-only rows: 86.
 
 | Collection region | Sprint | Database |
 |---|---|---|
@@ -2228,40 +2228,40 @@ The collectors list 180 sprint sources they could not capture (bot walls, dead h
 
 | Document class | Documents | Share |
 |---|---|---|
-| governance_instrument_soft | 827 | 24.0% |
+| governance_instrument_soft | 825 | 23.9% |
 | governance_instrument_binding | 816 | 23.7% |
-| research_output | 603 | 17.5% |
-| communication_or_news | 596 | 17.3% |
-| government_report_or_parliamentary | 263 | 7.6% |
-| governance_proposal_or_draft | 227 | 6.6% |
-| unusable | 62 | 1.8% |
+| research_output | 605 | 17.5% |
+| communication_or_news | 601 | 17.4% |
+| government_report_or_parliamentary | 264 | 7.7% |
+| governance_proposal_or_draft | 228 | 6.6% |
 | grey_literature | 56 | 1.6% |
+| unusable | 55 | 1.6% |
 
 | AI scope | Documents | Share |
 |---|---|---|
-| embodied_ai_specific_category | 1073 | 31.1% |
-| general_ai_only | 1037 | 30.1% |
-| not_ai | 618 | 17.9% |
+| embodied_ai_specific_category | 1074 | 31.1% |
+| general_ai_only | 1046 | 30.3% |
+| not_ai | 608 | 17.6% |
 | embodied_ai_robotics_general | 392 | 11.4% |
 | general_ai_with_embodied_provisions | 330 | 9.6% |
 
 | Jurisdiction region (from jurisdiction, not folder) | Documents | Share |
 |---|---|---|
 | Europe | 1382 | 40.1% |
-| Asia | 789 | 22.9% |
+| Asia | 790 | 22.9% |
 | North America | 399 | 11.6% |
 | International | 389 | 11.3% |
-| Latin America & Caribbean | 160 | 4.6% |
+| Latin America & Caribbean | 161 | 4.7% |
 | Oceania | 131 | 3.8% |
 | Middle East | 111 | 3.2% |
 | Africa | 78 | 2.3% |
-| Unknown | 11 | 0.3% |
+| Unknown | 9 | 0.3% |
 
 | Language | Documents | Share |
 |---|---|---|
-| en | 2554 | 74.0% |
+| en | 2553 | 74.0% |
 | zh | 332 | 9.6% |
-| es | 120 | 3.5% |
+| es | 121 | 3.5% |
 | ja | 117 | 3.4% |
 | pt | 46 | 1.3% |
 | fr | 45 | 1.3% |
@@ -2274,28 +2274,28 @@ The collectors list 180 sprint sources they could not capture (bot walls, dead h
 
 | Page quality | Documents | Share |
 |---|---|---|
-| substantive_document | 2411 | 69.9% |
-| partial_or_excerpt | 554 | 16.1% |
+| substantive_document | 2415 | 70.0% |
+| partial_or_excerpt | 558 | 16.2% |
 | landing_or_index_page | 353 | 10.2% |
-| error_or_blocked_page | 124 | 3.6% |
+| error_or_blocked_page | 116 | 3.4% |
 | non_text | 8 | 0.2% |
 
-Year known for 3291 of 3450 annotated documents (annotation 3272, OpenAlex 3, PDF metadata 17). Median year 2024.
+Year known for 3294 of 3450 annotated documents (annotation 3279, OpenAlex 3, PDF metadata 13). Median year 2024.
 
 Governance instruments by status:
 
 | Status | Documents |
 |---|---|
-| published_current | 784 |
-| in_force | 697 |
+| published_current | 782 |
+| in_force | 698 |
 | superseded_or_repealed | 124 |
 | draft_or_bill_under_consideration | 96 |
 | adopted_not_yet_in_force | 56 |
 | under_development | 51 |
 | consultation_open | 35 |
 | proposal_or_concept | 32 |
-| unknown | 5 |
-| withdrawn_or_lapsed | 5 |
+| withdrawn_or_lapsed | 6 |
+| unknown | 4 |
 
 ## 3. Reliability (main model vs independent second model, 10% sample)
 
@@ -2366,14 +2366,14 @@ Overlap documents: 160. Cohen's kappa (quadratic-weighted for ordinal fields; me
 
 ## 4. Quality flags for review
 
-400 documents carry at least one flag (`data/qa_flags.csv`). Counts by flag:
+394 documents carry at least one flag (`data/qa_flags.csv`). Counts by flag:
 
-- sprint_doc_rated_irrelevant: 124
 - language_disagreement: 123
+- sprint_doc_rated_irrelevant: 122
 - annotation_year_vs_openalex>1: 86
-- low_confidence_with_text: 53
+- low_confidence_with_text: 49
 - year<1990: 39
-- jurisdiction_unknown: 11
+- jurisdiction_unknown: 9
 - governance_doc_in_news_or_research_class: 2
 
 ## 5. Deliverables in this stage
@@ -2425,14 +2425,14 @@ What changed between versions and why. v1 to v2 (`review/adversarial_review_and_
 | measure                                   |   v2 |   v3 |   added |   ratio |
 |:------------------------------------------|-----:|-----:|--------:|--------:|
 | Documents (annotated)                     | 1656 | 3450 |    1794 |    2.08 |
-| Usable documents                          | 1538 | 3320 |    1782 |    2.16 |
-| Embodied-AI set                           |  675 | 1704 |    1029 |    2.52 |
-| General-AI set                            |  806 | 1027 |     221 |    1.27 |
+| Usable documents                          | 1538 | 3328 |    1790 |    2.16 |
+| Embodied-AI set                           |  675 | 1706 |    1031 |    2.53 |
+| General-AI set                            |  806 | 1039 |     233 |    1.29 |
 | Governance documents (incl. reports)      |  343 | 1859 |    1516 |    5.42 |
 | Governance instruments, all               |  345 | 1845 |    1500 |    5.35 |
 | Governance instruments, embodied-AI set   |   65 |  908 |     843 |   13.97 |
 | Robot-specific instruments (relevance 2+) |   34 |  785 |     751 |   23.09 |
-| Binding instruments, all                  |   34 |  813 |     779 |   23.91 |
+| Binding instruments, all                  |   34 |  814 |     780 |   23.94 |
 | Binding instruments, embodied-AI set      |    5 |  377 |     372 |   75.4  |
 | Binding instruments, robot-specific       |    4 |  329 |     325 |   82.25 |
 | Soft-law instruments, embodied-AI set     |   50 |  417 |     367 |    8.34 |
@@ -2448,7 +2448,7 @@ Table 53 gives the before-and-after on the comparable unit. The twelvefold rise 
 
 | country   | country_name             | region                    |   docs |   embodied |   gov_instruments |   embodied_instruments_principal |   binding_embodied |   embodied_instruments |   binding |   research |   median_year |
 |:----------|:-------------------------|:--------------------------|-------:|-----------:|------------------:|---------------------------------:|-------------------:|-----------------------:|----------:|-----------:|--------------:|
-| US        | United States            | North America             |    315 |        200 |               182 |                              107 |                 75 |                    119 |       133 |         68 |          2023 |
+| US        | United States            | North America             |    316 |        201 |               182 |                              107 |                 75 |                    119 |       133 |         69 |          2023 |
 | CN        | China                    | Asia                      |    353 |        171 |               248 |                               75 |                 18 |                    147 |        65 |         20 |          2025 |
 | GB        | United Kingdom           | Europe                    |    233 |        142 |                78 |                               38 |                 11 |                     48 |        35 |         77 |          2022 |
 | JP        | Japan                    | Asia                      |    156 |         87 |               112 |                               51 |                 27 |                     54 |        72 |         26 |          2022 |
@@ -2464,10 +2464,10 @@ Table 53 gives the before-and-after on the comparable unit. The twelvefold rise 
 | ES        | Spain                    | Europe                    |     39 |         19 |                12 |                                6 |                  3 |                      6 |         3 |         11 |          2024 |
 | AT        | Austria                  | Europe                    |     20 |         18 |                 2 |                                2 |                  0 |                      3 |         0 |         12 |          2022 |
 | PL        | Poland                   | Europe                    |     29 |         16 |                 4 |                                2 |                  0 |                      4 |         1 |         12 |          2024 |
-| IN        | India                    | Asia                      |     27 |         15 |                 6 |                                2 |                  1 |                      3 |         1 |         12 |          2024 |
+| IN        | India                    | Asia                      |     28 |         16 |                 6 |                                2 |                  1 |                      3 |         1 |         13 |          2024 |
 | TW        | Taiwan                   | Asia                      |     21 |         15 |                 6 |                                5 |                  3 |                     10 |         4 |          3 |          2020 |
 | SG        | Singapore                | Asia                      |     39 |         14 |                18 |                                4 |                  0 |                      5 |         1 |          2 |          2024 |
-| BR        | Brazil                   | Latin America & Caribbean |     51 |         13 |                30 |                                8 |                  4 |                      8 |         4 |          2 |          2024 |
+| BR        | Brazil                   | Latin America & Caribbean |     51 |         13 |                29 |                                8 |                  4 |                      8 |         4 |          2 |          2024 |
 | NZ        | New Zealand              | Oceania                   |     22 |         13 |                10 |                                3 |                  1 |                      4 |         2 |          6 |          2023 |
 | IE        | Ireland                  | Europe                    |     15 |         13 |                 2 |                                1 |                  1 |                      2 |         2 |         10 |          2023 |
 | SE        | Sweden                   | Europe                    |     14 |         12 |                 2 |                                1 |                  1 |                      1 |         1 |          7 |          2021 |
@@ -2478,7 +2478,7 @@ Table 53 gives the before-and-after on the comparable unit. The twelvefold rise 
 | AE        | United Arab Emirates     | Middle East               |     14 |          7 |                 9 |                                3 |                  3 |                      3 |         3 |          1 |          2024 |
 | BE        | Belgium                  | Europe                    |      7 |          7 |                 3 |                                3 |                  0 |                      3 |         0 |          3 |          2021 |
 | HU        | Hungary                  | Europe                    |      7 |          7 |                 2 |                                2 |                  1 |                      2 |         1 |          3 |          2020 |
-| AR        | Argentina                | Latin America & Caribbean |     23 |          6 |                12 |                                4 |                  3 |                      6 |         5 |          1 |          2024 |
+| AR        | Argentina                | Latin America & Caribbean |     25 |          6 |                13 |                                4 |                  3 |                      6 |         5 |          1 |          2024 |
 | TR        | Türkiye                  | Middle East               |     13 |          6 |                 5 |                                1 |                  1 |                      1 |         1 |          4 |          2024 |
 | NG        | Nigeria                  | Africa                    |     12 |          6 |                 5 |                                2 |                  1 |                      2 |         1 |          4 |          2024 |
 | IQ        | Iraq                     | Middle East               |      8 |          6 |                 1 |                                0 |                  0 |                      0 |         0 |          6 |          2025 |
@@ -2501,7 +2501,7 @@ Table 53 gives the before-and-after on the comparable unit. The twelvefold rise 
 | UA        | Ukraine                  | Europe                    |      5 |          3 |                 0 |                                0 |                  0 |                      0 |         0 |          4 |          2025 |
 | IS        | Iceland                  | Europe                    |      4 |          3 |                 3 |                                2 |                  2 |                      2 |         2 |          1 |          2022 |
 | TZ        | Tanzania                 | Africa                    |      3 |          3 |                 2 |                                2 |                  2 |                      2 |         2 |          0 |          2023 |
-| CO        | Colombia                 | Latin America & Caribbean |     12 |          2 |                 3 |                                0 |                  0 |                      0 |         0 |          2 |          2024 |
+| CO        | Colombia                 | Latin America & Caribbean |     13 |          2 |                 5 |                                0 |                  0 |                      0 |         1 |          2 |          2025 |
 | VN        | Vietnam                  | Asia                      |     12 |          2 |                 3 |                                2 |                  2 |                      2 |         3 |          1 |          2025 |
 | UY        | Uruguay                  | Latin America & Caribbean |     11 |          2 |                 4 |                                2 |                  2 |                      2 |         2 |          0 |          2024 |
 | EG        | Egypt                    | Africa                    |      5 |          2 |                 2 |                                0 |                  0 |                      0 |         0 |          0 |          2025 |
@@ -2524,7 +2524,7 @@ Table 53 gives the before-and-after on the comparable unit. The twelvefold rise 
 | RW        | Rwanda                   | Africa                    |      5 |          1 |                 2 |                                1 |                  1 |                      1 |         1 |          0 |          2025 |
 | CR        | Costa Rica               | Latin America & Caribbean |      4 |          1 |                 2 |                                0 |                  0 |                      0 |         0 |          0 |          2024 |
 | PK        | Pakistan                 | Asia                      |      4 |          1 |                 0 |                                0 |                  0 |                      0 |         0 |          1 |          2025 |
-| JM        | Jamaica                  | Latin America & Caribbean |      3 |          1 |                 2 |                                0 |                  0 |                      0 |         0 |          0 |          2019 |
+| JM        | Jamaica                  | Latin America & Caribbean |      3 |          1 |                 1 |                                0 |                  0 |                      0 |         0 |          0 |          2024 |
 | LT        | Lithuania                | Europe                    |      3 |          1 |                 0 |                                0 |                  0 |                      0 |         0 |          2 |          2024 |
 | TT        | Trinidad and Tobago      | Latin America & Caribbean |      3 |          1 |                 1 |                                1 |                  1 |                      1 |         1 |          0 |          2026 |
 | UG        | Uganda                   | Africa                    |      3 |          1 |                 1 |                                1 |                  1 |                      1 |         1 |          2 |          2024 |
@@ -2546,12 +2546,12 @@ Table 53 gives the before-and-after on the comparable unit. The twelvefold rise 
 | CL        | Chile                    | Latin America & Caribbean |      6 |          0 |                 3 |                                0 |                  0 |                      0 |         0 |          0 |          2024 |
 | ZM        | Zambia                   | Africa                    |      3 |          0 |                 0 |                                0 |                  0 |                      0 |         0 |          0 |          2024 |
 | CU        | Cuba                     | Latin America & Caribbean |      2 |          0 |                 1 |                                0 |                  0 |                      0 |         0 |          0 |          2024 |
+| DO        | Dominican Republic       | Latin America & Caribbean |      2 |          0 |                 0 |                                0 |                  0 |                      0 |         0 |          0 |          2024 |
 | KW        | Kuwait                   | Middle East               |      2 |          0 |                 0 |                                0 |                  0 |                      0 |         0 |          0 |          2026 |
 | AD        | Andorra                  | Europe                    |      1 |          0 |                 1 |                                0 |                  0 |                      0 |         0 |          0 |          2024 |
 | BB        | Barbados                 | Latin America & Caribbean |      1 |          0 |                 0 |                                0 |                  0 |                      0 |         0 |          0 |          2024 |
 | CI        | Côte d'Ivoire            | Africa                    |      1 |          0 |                 0 |                                0 |                  0 |                      0 |         0 |          0 |          2025 |
 | CY        | Cyprus                   | Middle East               |      1 |          0 |                 1 |                                0 |                  0 |                      0 |         0 |          0 |          2026 |
-| DO        | Dominican Republic       | Latin America & Caribbean |      1 |          0 |                 0 |                                0 |                  0 |                      0 |         0 |          0 |          2023 |
 | GY        | Guyana                   | Latin America & Caribbean |      1 |          0 |                 1 |                                0 |                  0 |                      0 |         0 |          0 |          2023 |
 | HT        | Haiti                    | Latin America & Caribbean |      1 |          0 |                 0 |                                0 |                  0 |                      0 |         0 |          0 |          2025 |
 | LS        | Lesotho                  | Africa                    |      1 |          0 |                 0 |                                0 |                  0 |                      0 |         0 |          0 |          2025 |
@@ -2602,8 +2602,8 @@ OpenAlex citation counts are reported as retrieved; several values are implausib
 | group                      |   documents |   research |   governance_instruments |   binding |   standards |   drafts |   median_year |   physical_safety_any_pct |   liability_any_pct |   proximity_any_pct |   conformity_any_pct |   calls_for_regulation_pct | top_regions                                   |
 |:---------------------------|------------:|-----------:|-------------------------:|----------:|------------:|---------:|--------------:|--------------------------:|--------------------:|--------------------:|---------------------:|---------------------------:|:----------------------------------------------|
 | Industrial & logistics     |         373 |         88 |                      205 |        51 |          59 |       24 |          2023 |                      74.5 |                26.5 |                58.7 |                 42.6 |                       13.9 | Europe 155; Asia 103; International 48        |
-| Service & social           |         527 |        328 |                      138 |        10 |          48 |       20 |          2023 |                      50.5 |                20.3 |                75.1 |                 24.5 |                       18.4 | Europe 274; Asia 117; North America 64        |
-| Medical & body-integrated  |         199 |         91 |                       74 |         6 |          14 |       11 |          2023 |                      79.4 |                38.7 |                56.8 |                 43.2 |                       28.1 | Europe 93; Asia 51; International 16          |
+| Service & social           |         528 |        329 |                      138 |        10 |          48 |       20 |          2023 |                      50.6 |                20.5 |                75.2 |                 24.6 |                       18.6 | Europe 274; Asia 117; North America 65        |
+| Medical & body-integrated  |         201 |         93 |                       74 |         6 |          14 |       11 |          2023 |                      79.6 |                38.8 |                56.7 |                 43.3 |                       28.4 | Europe 93; Asia 52; International 16          |
 | Humanoid & general-purpose |         172 |        116 |                       34 |         0 |          10 |        4 |          2024 |                      43.6 |                27.3 |                72.7 |                 18   |                       31.4 | Europe 83; Asia 49; North America 15          |
 | Vehicles & field           |         920 |         96 |                      683 |       344 |         140 |       69 |          2023 |                      83.4 |                29.9 |                26.3 |                 56.5 |                       10.2 | Europe 323; Asia 202; North America 136       |
 | Security & military        |         226 |         64 |                       94 |        20 |           1 |       21 |          2022 |                      61.9 |                24.8 |                32.3 |                 32.7 |                       35.8 | Europe 89; International 51; North America 34 |
@@ -2616,12 +2616,12 @@ OpenAlex citation counts are reported as retrieved; several values are implausib
 | autonomous_road_vehicles              |    482 |           342 |       138 |          72 |                      84.2 |                39.8 |              38   |              10.4 | safety_physical_harm          | technical_standards_reference  | GDPR (56); OECD AI Principles (26); EU AI Act (21)                                    |
 | drones_uas                            |    464 |           368 |       211 |          51 |                      83   |                24.6 |              37.9 |               9.9 | safety_physical_harm          | licensing_registration         | GDPR (45); Civil Aviation Safety Regulations 1998 (15); OECD AI Principles (14)       |
 | social_companion_robots               |    246 |            19 |         0 |           1 |                      35.4 |                13.4 |              41.5 |              49.6 | ethics_principles             | technical_standards_reference  | GDPR (5); OECD AI Principles (4); EU Civil Law Rules on Robotics 2017 (4)             |
-| care_assistive_robots                 |    224 |            62 |         4 |          12 |                      56.2 |                23.2 |              50.4 |              43.3 | ethics_principles             | technical_standards_reference  | ISO 13482 (14); GDPR (14); EU Civil Law Rules on Robotics 2017 (8)                    |
+| care_assistive_robots                 |    225 |            62 |         4 |          12 |                      56.4 |                23.6 |              50.2 |              43.1 | ethics_principles             | technical_standards_reference  | ISO 13482 (14); GDPR (14); EU Civil Law Rules on Robotics 2017 (8)                    |
 | professional_service_robots           |    219 |            91 |         6 |          38 |                      70.8 |                26.5 |              37   |              16.4 | industrial_policy_innovation  | technical_standards_reference  | GDPR (15); ISO 13482 (13); OECD AI Principles (8)                                     |
 | industrial_manipulators               |    207 |           103 |        16 |          33 |                      72.5 |                21.7 |              35.7 |              19.3 | safety_physical_harm          | technical_standards_reference  | GDPR (30); ISO 10218 (23); OECD AI Principles (17)                                    |
 | military_autonomous_weapons           |    191 |            71 |         6 |           0 |                      61.8 |                25.7 |              28.3 |              36.6 | military_use_ihl              | international_cooperation      | UN LAWS/CCW GGE (40); GDPR (13); OECD AI Principles (11)                              |
 | humanoid_general_purpose              |    172 |            34 |         0 |          10 |                      43.6 |                27.3 |              35.5 |              41.9 | legal_personhood_robot_rights | technical_standards_reference  | GDPR (7); EU AI Act (4); OECD AI Principles (4)                                       |
-| surgical_medical_robots               |    144 |            46 |         5 |           8 |                      83.3 |                47.2 |              46.5 |              32.6 | ethics_principles             | technical_standards_reference  | GDPR (21); EU AI Act (15); EU Machinery Regulation (11)                               |
+| surgical_medical_robots               |    146 |            46 |         5 |           8 |                      83.6 |                47.3 |              45.9 |              32.2 | ethics_principles             | technical_standards_reference  | GDPR (21); EU AI Act (15); EU Machinery Regulation (11)                               |
 | collaborative_robots                  |    115 |            40 |         5 |           9 |                      80.9 |                18.3 |              37.4 |              20   | safety_physical_harm          | technical_standards_reference  | ISO 10218 (12); ISO/TS 15066 (10); GDPR (10)                                          |
 | mobile_industrial_logistics           |    111 |            68 |        12 |          26 |                      73.9 |                16.2 |              24.3 |               7.2 | industrial_policy_innovation  | technical_standards_reference  | ISO 13482 (9); ISO 10218 (7); EU Machinery Regulation (7)                             |
 | agricultural_robots                   |     82 |            47 |         9 |           8 |                      63.4 |                23.2 |              50   |              13.4 | industrial_policy_innovation  | technical_standards_reference  | GDPR (11); OECD AI Principles (10); UNESCO Recommendation on the Ethics of AI (4)     |
@@ -2643,19 +2643,19 @@ Tables S12 and S13 count governance-flagged documents on the comparable unit (an
 
 |   k |   silhouette |   mean_adjusted_rand_vs_bootstrap |   smallest_cluster |
 |----:|-------------:|----------------------------------:|-------------------:|
-|   2 |        0.188 |                             0.922 |                762 |
-|   3 |        0.191 |                             0.879 |                398 |
-|   4 |        0.143 |                             0.864 |                331 |
-|   5 |        0.15  |                             0.814 |                216 |
-|   6 |        0.154 |                             0.706 |                139 |
+|   2 |        0.187 |                             0.921 |                764 |
+|   3 |        0.191 |                             0.882 |                398 |
+|   4 |        0.143 |                             0.889 |                321 |
+|   5 |        0.151 |                             0.841 |                203 |
+|   6 |        0.154 |                             0.648 |                186 |
 
 *Table 11. Mechanism bundles: k-means clusters of governance documents on their mechanism vectors (k=3 chosen by silhouette=0.19, n=1798)*
 
 |   cluster |   n |   embodied_pct |   binding_pct |   median_year | top_regions                             | defining_mechanisms                                                                                                                          | examples                                                                                                                                                                                                                     |
 |----------:|----:|---------------:|--------------:|--------------:|:----------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|         1 | 398 |           59.8 |          53.8 |          2023 | Europe 149; Asia 107; North America 68  | Audits impact assessment (73%); Incident reporting (70%); Licensing registration (66%); Technical standards reference (64%)                  | R2-a5687b1b Regulation (EC) No 595/2009 on type-approval of motor vehicl; R2-b649a539 Regulations on the Management of Intelligent Connected Vehic; R3-c4c110d0 Regulations on the Administration of Intelligent Connected V |
-|         2 | 947 |           53.5 |          38.9 |          2023 | Europe 314; Asia 207; International 204 | Technical standards reference (58%); Licensing registration (29%); Conformity assessment certification (28%); Audits impact assessment (16%) | R2-4eb557ff The Valuation for Rating (Plant and Machinery) (Wales) (Amen; R2-94b85e9d The Medical Devices (Coronavirus Test Device Approvals) (Ame; R2-7810af6f Commission Implementing Regulation (EU) 2023/2090 on the pla |
-|         3 | 453 |           35.5 |          13   |          2024 | Asia 187; Europe 154; Latin America 31  | Funding or incentives (85%); Oversight body creation (75%); International cooperation (71%); Education training programs (70%)               | R2-891f74b3 Regulations on Promoting National Reading; R3-002e5473 Regulations of the People's Republic of China on Nature Rese; R2-94502255 Commission Implementing Regulation (EU) 2025/454 laying down                    |
+|         1 | 398 |           59.5 |          53   |          2023 | Europe 149; Asia 104; North America 67  | Audits impact assessment (74%); Incident reporting (70%); Licensing registration (65%); Technical standards reference (62%)                  | R2-a5687b1b Regulation (EC) No 595/2009 on type-approval of motor vehicl; R2-b649a539 Regulations on the Management of Intelligent Connected Vehic; R3-c4c110d0 Regulations on the Administration of Intelligent Connected V |
+|         2 | 954 |           53.4 |          39   |          2023 | Europe 318; Asia 209; International 204 | Technical standards reference (58%); Licensing registration (29%); Conformity assessment certification (28%); Audits impact assessment (16%) | R2-94b85e9d The Medical Devices (Coronavirus Test Device Approvals) (Ame; R2-4eb557ff The Valuation for Rating (Plant and Machinery) (Wales) (Amen; R2-c84441cf Commission Decision (EU) 2015/547 of 1 April 2015 on the saf |
+|         3 | 446 |           35.9 |          13.2 |          2024 | Asia 188; Europe 150; Latin America 30  | Funding or incentives (87%); Oversight body creation (75%); International cooperation (71%); Education training programs (71%)               | R3-002e5473 Regulations of the People's Republic of China on Nature Rese; R2-891f74b3 Regulations on Promoting National Reading; R2-94502255 Commission Implementing Regulation (EU) 2025/454 laying down                    |
 
 ## S12. Datasheet
 

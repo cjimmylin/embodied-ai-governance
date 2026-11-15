@@ -1,0 +1,108 @@
+{
+ "doc_id": "D0844",
+ "model": "claude-sonnet-5-5",
+ "prompt_hash": "8d4d83e909f0",
+ "policy": "v2|head=100000|mid=6000|tail=4000|blind=True|cjk_clean=v4",
+ "annotated_at": "2026-11-15T00:05:08",
+ "usage": {
+  "is_error": false,
+  "cost_usd": 0.1306598,
+  "in": 2,
+  "out": 1888,
+  "cache_read": 11758,
+  "cache_create": 27650,
+  "api_ms": 10523,
+  "result_head": ""
+ },
+ "annotation": {
+  "title_clean": "The Price of Autonomy: Liability Standards for Complementary and Substitutive Medical Robotics and Artificial Intelligence",
+  "title_en": "The Price of Autonomy: Liability Standards for Complementary and Substitutive Medical Robotics and Artificial Intelligence",
+  "language": "en",
+  "authors_or_issuer": "Pasquale, F.A.",
+  "issuer_type": "academic_or_research",
+  "pub_year": 2022,
+  "pub_month": null,
+  "date_basis": "stated_in_document",
+  "doi": null,
+  "venue": "Revista Ius et Praxis",
+  "jurisdiction_country": "US",
+  "jurisdiction_scope": "national",
+  "countries_discussed": [
+   "US",
+   "GB"
+  ],
+  "doc_type": "journal_article",
+  "doc_class": "research_output",
+  "is_governance_document": false,
+  "instrument_status": "not_applicable",
+  "binding_nature": "not_applicable",
+  "publication_stage": "peer_reviewed",
+  "ai_scope": "embodied_ai_specific_category",
+  "embodiment_status": "physical_embodied",
+  "embodied_categories": [
+   "surgical_medical_robots",
+   "care_assistive_robots"
+  ],
+  "primary_embodied_category": "surgical_medical_robots",
+  "application_sectors": [
+   "healthcare"
+  ],
+  "governance_topics": [
+   "civil_liability",
+   "safety_physical_harm",
+   "human_oversight_control",
+   "labor_employment",
+   "fairness_bias_discrimination",
+   "transparency_explainability",
+   "consumer_protection"
+  ],
+  "primary_topic": "civil_liability",
+  "principles": {
+   "transparency": 1,
+   "justice_fairness": 1,
+   "non_maleficence": 1,
+   "responsibility_accountability": 2,
+   "privacy": 0,
+   "beneficence": 1,
+   "freedom_autonomy": 0,
+   "trust": 0,
+   "sustainability": 0,
+   "dignity": 0,
+   "solidarity": 0,
+   "human_oversight": 2,
+   "robustness_security": 1,
+   "inclusive_growth": 1,
+   "physical_safety": 1,
+   "human_robot_proximity": 1,
+   "liability_for_physical_damage": 2,
+   "autonomy_level_control": 2,
+   "conformity_assessment_certification": 1,
+   "dual_use_military": 0
+  },
+  "governance_mechanisms": [
+   "liability_regime",
+   "insurance_requirement",
+   "human_oversight_requirement",
+   "transparency_disclosure_labelling"
+  ],
+  "named_instruments_referenced": [
+   "Asimov's Laws of Robotics"
+  ],
+  "robot_legal_personhood_position": "not_discussed",
+  "risk_framing": "liability_or_accountability_based",
+  "stance_toward_regulation": "calls_for_new_regulation",
+  "methodology": "legal_doctrinal",
+  "faith_or_religious_perspective": false,
+  "page_quality": "substantive_document",
+  "relevance_to_embodied_ai_governance": 3,
+  "summary_en": "Law journal article arguing that medical AI and robotics should be governed by a complementary/substitutive distinction. Vendors of tools that assist professionals face negligence liability. Vendors of systems that replace professionals face strict liability, with damages caps, insurance or public compensation to protect innovation.",
+  "key_provisions_or_claims": [
+   "Complementary medical robotics/AI: negligence standard, with the plaintiff bearing the burden of proof against the vendor as well as the professional.",
+   "Substitutive AI/robotics that replaces professional review should face strict liability up and down the distribution chain.",
+   "Vendors may use their AI's performance against the standard of care to mitigate damages, which forces information disclosure.",
+   "Damages caps, liability insurance or no-fault compensation can temper the effect on innovation.",
+   "Courts should resist exculpatory clauses and the 'competent human intervention' doctrine that deflect liability onto professionals."
+  ],
+  "confidence": 0.92
+ }
+}

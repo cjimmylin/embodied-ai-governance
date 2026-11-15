@@ -6,5 +6,5 @@
 | Europe collector 'Robot focus' vs annotated embodiment_status (physical/mixed vs none/software)                                        |  684 |       0.823 |   0.629 |
 | Europe collector 'Type' vs annotated issuer_type (4 collapsed classes)                                                                 |  646 |       0.967 |   0.949 |
 | Collector 2-letter country vs annotated jurisdiction_country (research papers, first-author country)                                   | 1746 |       0.978 |         |
-| Collector set (sprint=robotics vs database=general AI) vs annotated relevance>=2                                                       | 3450 |       0.624 |   0.198 |
+| Collector set (sprint=robotics vs database=general AI) vs annotated relevance>=2                                                       | 3450 |       0.624 |   0.199 |
 | Collector tier Core vs annotated is_governance_document                                                                                | 1250 |       0.777 |   0.32  |

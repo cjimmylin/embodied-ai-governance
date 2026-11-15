@@ -14,15 +14,16 @@
 | General-AI set  | adopted_not_yet_in_force          |                 4 |                0 |                             0 |                              0 |                    0 |
 | General-AI set  | consultation_open                 |                 0 |                9 |                             0 |                              0 |                   18 |
 | General-AI set  | draft_or_bill_under_consideration |                 0 |               38 |                             0 |                              0 |                    7 |
-| General-AI set  | in_force                          |                76 |                0 |                             0 |                              0 |                    3 |
+| General-AI set  | in_force                          |                77 |                0 |                             0 |                              0 |                    3 |
 | General-AI set  | proposal_or_concept               |                 0 |                1 |                             0 |                              0 |                    7 |
-| General-AI set  | published_current                 |                 1 |                1 |                             0 |                             15 |                  228 |
+| General-AI set  | published_current                 |                 1 |                1 |                             0 |                             15 |                  229 |
 | General-AI set  | superseded_or_repealed            |                 4 |                3 |                             0 |                              0 |                    0 |
 | General-AI set  | under_development                 |                 0 |                0 |                             0 |                              4 |                    0 |
 | General-AI set  | unknown                           |                 1 |                0 |                             0 |                              0 |                    0 |
+| General-AI set  | withdrawn_or_lapsed               |                 0 |                1 |                             0 |                              0 |                    0 |
 | Other           | adopted_not_yet_in_force          |                21 |                0 |                             0 |                              0 |                    0 |
 | Other           | draft_or_bill_under_consideration |                 0 |               22 |                             0 |                              0 |                    0 |
 | Other           | in_force                          |               265 |                0 |                             0 |                              0 |                    5 |
-| Other           | published_current                 |                 0 |                2 |                             0 |                              8 |                  121 |
+| Other           | published_current                 |                 0 |                2 |                             0 |                              7 |                  119 |
 | Other           | superseded_or_repealed            |                67 |                5 |                             0 |                              0 |                    1 |
 | Other           | withdrawn_or_lapsed               |                 0 |                1 |                             0 |                              0 |                    0 |

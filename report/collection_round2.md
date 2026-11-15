@@ -15,14 +15,14 @@ Across the merged collection, on the comparable unit (every text of instrument c
 | measure                                   |   v2 |   v3 |   added |   ratio |
 |:------------------------------------------|-----:|-----:|--------:|--------:|
 | Documents (annotated)                     | 1656 | 3450 |    1794 |    2.08 |
-| Usable documents                          | 1538 | 3320 |    1782 |    2.16 |
-| Embodied-AI set                           |  675 | 1704 |    1029 |    2.52 |
-| General-AI set                            |  806 | 1027 |     221 |    1.27 |
+| Usable documents                          | 1538 | 3328 |    1790 |    2.16 |
+| Embodied-AI set                           |  675 | 1706 |    1031 |    2.53 |
+| General-AI set                            |  806 | 1039 |     233 |    1.29 |
 | Governance documents (incl. reports)      |  343 | 1859 |    1516 |    5.42 |
 | Governance instruments, all               |  345 | 1845 |    1500 |    5.35 |
 | Governance instruments, embodied-AI set   |   65 |  908 |     843 |   13.97 |
 | Robot-specific instruments (relevance 2+) |   34 |  785 |     751 |   23.09 |
-| Binding instruments, all                  |   34 |  813 |     779 |   23.91 |
+| Binding instruments, all                  |   34 |  814 |     780 |   23.94 |
 | Binding instruments, embodied-AI set      |    5 |  377 |     372 |   75.4  |
 | Binding instruments, robot-specific       |    4 |  329 |     325 |   82.25 |
 | Soft-law instruments, embodied-AI set     |   50 |  417 |     367 |    8.34 |
@@ -108,8 +108,8 @@ These comparisons are on the comparable unit (every text of instrument class) be
 | region                    |   v2_embodied_instruments |   v3_embodied_instruments |   v2_binding_embodied |   v3_binding_embodied |   v2_embodied_docs |   v3_embodied_docs |
 |:--------------------------|--------------------------:|--------------------------:|----------------------:|----------------------:|-------------------:|-------------------:|
 | Europe                    |                        26 |                       188 |                     1 |                    82 |                383 |                654 |
-| Asia                      |                        10 |                       163 |                     0 |                    69 |                106 |                376 |
-| North America             |                         6 |                       127 |                     1 |                    85 |                 83 |                237 |
+| Asia                      |                        10 |                       163 |                     0 |                    69 |                106 |                377 |
+| North America             |                         6 |                       127 |                     1 |                    85 |                 83 |                238 |
 | Latin America & Caribbean |                         7 |                        25 |                     2 |                    16 |                 16 |                 40 |
 | Middle East               |                         4 |                         9 |                     1 |                     6 |                 35 |                 46 |
 | Africa                    |                         2 |                        11 |                     0 |                     7 |                 12 |                 29 |
@@ -122,8 +122,8 @@ These comparisons are on the comparable unit (every text of instrument class) be
 | robot_group                |   v2_documents |   v3_documents |   v2_instruments |   v3_instruments |   v2_binding |   v3_binding |
 |:---------------------------|---------------:|---------------:|-----------------:|-----------------:|-------------:|-------------:|
 | Industrial & logistics     |            169 |            373 |               38 |              154 |            2 |           46 |
-| Service & social           |            399 |            527 |               28 |               93 |            2 |            9 |
-| Medical & body-integrated  |            128 |            199 |               17 |               58 |            2 |            6 |
+| Service & social           |            399 |            528 |               28 |               93 |            2 |            9 |
+| Medical & body-integrated  |            128 |            201 |               17 |               58 |            2 |            6 |
 | Humanoid & general-purpose |            142 |            172 |                9 |               23 |            0 |            0 |
 | Vehicles & field           |            186 |            920 |               48 |              470 |            5 |          250 |
 | Security & military        |             98 |            226 |               16 |               81 |            1 |           18 |

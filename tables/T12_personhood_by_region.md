@@ -1,4 +1,4 @@
-**T12_personhood_by_region. Robot legal personhood: positions by jurisdiction region (documents discussing it, n=175)**
+**T12_personhood_by_region. Robot legal personhood: positions by jurisdiction region (documents discussing it, n=176)**
 
 | study_region              |   discusses_neutral |   opposes |   supports |
 |:--------------------------|--------------------:|----------:|-----------:|
@@ -6,7 +6,7 @@
 | Asia                      |                  23 |         2 |          3 |
 | Europe                    |                  58 |        23 |          6 |
 | International             |                   3 |         3 |          0 |
-| Latin America & Caribbean |                   1 |         1 |          0 |
+| Latin America & Caribbean |                   1 |         2 |          0 |
 | Middle East               |                  13 |         2 |          4 |
 | North America             |                  18 |         1 |          4 |
 | Oceania                   |                   2 |         1 |          1 |
