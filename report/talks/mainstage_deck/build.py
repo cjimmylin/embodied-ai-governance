@@ -32,7 +32,7 @@ sec("scene", f'''
 sec("looking", f'''
 {kicker("So we went looking for the rules")}
 <div style="display:flex;gap:80px;margin-top:10px">
-{num("3,320", "documents: laws, standards, strategies, studies, news", nsize=200, width=560, lsize=30)}
+{num("3,328", "documents: laws, standards, strategies, studies, news", nsize=200, width=560, lsize=30)}
 {num("119", "countries, plus the EU and the UN system", nsize=200, width=420, lsize=30)}
 {num("0", "humans who read them all. An AI did, 39 questions per document, and other AIs checked its work.", nsize=200, width=620, lsize=30)}
 </div>
@@ -70,7 +70,7 @@ sec("zeros", f'''
 {num("0", "for humanoids", nsize=320, width=420, lsize=34)}
 {num("4", "for care robots, all of them laws about something else that mention care robots in passing", nsize=320, width=620, lsize=34)}
 </div>
-{foot("Among 429 documents about companion, care and humanoid robots. The one text written for care robots is a voluntary standard from 2014.")}
+{foot("Among 430 documents about companion, care and humanoid robots. The one text written for care robots is a voluntary standard from 2014.")}
 ''', gap=24)
 
 # 8 gap
@@ -151,7 +151,7 @@ sec("three", f'''
 sec("close", f'''
 {statement("The question is not whether robots will come into our homes.", 96)}
 {statement("It is whether the rules will be there when they do.", 96, 1640, AMBER)}
-{foot("Data, code and every number: github.com/cjimmylin/embodied-ai-governance · Explore the 3,320 documents: claude.ai/artifact/YKsXJRaT7tSfRXseuo5kuZ")}
+{foot("Data, code and every number: github.com/cjimmylin/embodied-ai-governance · Explore the documents: claude.ai/artifact/YKsXJRaT7tSfRXseuo5kuZ · Project hub: claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA")}
 ''', gap=44)
 
 order = [s[0] for s in slides]

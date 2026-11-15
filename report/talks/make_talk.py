@@ -1,7 +1,7 @@
 """Narrate a script and assemble the video. Usage: python3 make_talk.py <script.md> <frames_dir> <work_dir> <voice> <title> <out.mp4> [rate]
 Each '## N. Title' section is one slide; frames are the sorted PNGs in frames_dir (one per section)."""
 import asyncio, re, subprocess, sys, os, glob, json
-script, FR_DIR, WORK, VOICE, TITLE, OUT = sys.argv[1:7]; RATE = sys.argv[7] if len(sys.argv) > 7 else "-3%"
+script, FR_DIR, WORK, VOICE, TITLE, OUT = sys.argv[1:7]; WORK = os.path.abspath(WORK); OUT = os.path.abspath(OUT); RATE = sys.argv[7] if len(sys.argv) > 7 else "-3%"
 AUD = os.path.join(WORK, "audio"); SEG = os.path.join(WORK, "segments"); os.makedirs(AUD, exist_ok=True); os.makedirs(SEG, exist_ok=True)
 text = open(script, encoding="utf8").read()
 parts = re.split(r"^## (\d+)\. (.*)$", text, flags=re.M)

@@ -31,7 +31,7 @@ sec("cover", f'''
 {eyebrow("Keynote · AI research and AI governance", "#E7B98F")}
 <div style="display:flex;flex-direction:column;gap:30px;width:1500px">
 <h1 style="font-family:{SERIF};font-size:140px;font-weight:500;line-height:1.02">Who governs<br>the robots?</h1>
-<p style="font-size:38px;line-height:1.35;color:#CFE3DC;width:1350px">What 3,320 documents from 119 countries say about the rules for machines that act in the physical world, and the gap those rules leave open</p>
+<p style="font-size:38px;line-height:1.35;color:#CFE3DC;width:1350px">What 3,328 documents from 119 countries say about the rules for machines that act in the physical world, and the gap those rules leave open</p>
 </div>
 <div style="display:flex;justify-content:space-between;align-items:flex-end">
 <p style="font-size:24px;color:#CFE3DC;line-height:1.5">Centre for Enterprise Innovation (CEI), AI Robotics project<br>Study version 5, November 2026</p>
@@ -57,7 +57,7 @@ sec("method", f'''
 {eyebrow("What we did")}
 {h2("We built a map of the world's robot rules, and let AI read it")}
 <div style="display:flex;gap:56px;margin-top:8px">
-{bignum("3,320", "documents: laws, standards, strategies, research papers and news", width=420)}
+{bignum("3,328", "documents: laws, standards, strategies, research papers and news", width=420)}
 {bignum("119", "countries, the EU and the international bodies", width=380)}
 {bignum("3", "collection rounds: regional teams, then AI agents searching legal databases, then recovering what was blocked", width=520)}
 {bignum("39", "questions put to every document by an AI reader, the same for all", width=380)}
@@ -100,8 +100,8 @@ sec("livedwith", f'''
 {bignum("0", "binding rules for humanoids", color="#E7B98F", width=420, lcolor="#CFE3DC")}
 {bignum("4", "binding rules for care and assistive robots", color="#E7B98F", width=460, lcolor="#CFE3DC")}
 </div>
-<p style="font-size:30px;line-height:1.4;color:#CFE3DC;width:1600px">Across the collection, 429 documents discuss these three kinds of robot. Four of them are binding rules, and those four are general laws that mention care robots in passing: a Salvadoran robotics law, a Korean robot-industry act, two Japanese special-zone ordinances. The one text written specifically for care robots is a voluntary standard, ISO 13482, from 2014.</p>
-{foot("Embodied set, v5: 429 documents mentioning companion, care or humanoid robots; 4 principal binding instruments among them.", "#9DB8B0")}
+<p style="font-size:30px;line-height:1.4;color:#CFE3DC;width:1600px">Across the collection, 430 documents discuss these three kinds of robot. Four of them are binding rules, and those four are general laws that mention care robots in passing: a Salvadoran robotics law, a Korean robot-industry act, two Japanese special-zone ordinances. The one text written specifically for care robots is a voluntary standard, ISO 13482, from 2014.</p>
+{foot("Embodied set, v5: 430 documents mentioning companion, care or humanoid robots; 4 principal binding instruments among them.", "#9DB8B0")}
 ''', bg=INK, fg=WHITE)
 
 # 7 the gap chart
@@ -109,7 +109,7 @@ gap = [("Companion and social robots", 43, 3), ("Care and assistive robots", 28,
 sec("gap", f'''
 {eyebrow("Headline two, continued")}
 {h2("Research and rules point at different robots")}
-{lead("Share of 509 research papers (left, blue) and of 598 governance instruments (right, copper) that address each kind of robot.", size=28)}
+{lead("Share of 511 research papers (left, blue) and of 598 governance instruments (right, copper) that address each kind of robot.", size=28)}
 <div style="display:flex;flex-direction:column;gap:14px;margin-top:4px">
 <div style="display:flex;align-items:center;gap:20px"><p style="width:420px"></p><p style="font-size:24px;width:560px;text-align:right;color:{SEA};font-weight:600;letter-spacing:2px;text-transform:uppercase">Research papers</p><p style="width:80px"></p><p style="width:80px"></p><p style="font-size:24px;width:560px;color:{COPPER};font-weight:600;letter-spacing:2px;text-transform:uppercase">Rules and policies</p></div>
 {"".join(dual(l, a, b) for l, a, b in gap)}
@@ -295,7 +295,7 @@ sec("takeaways", f'''
 {h2("Five things to take home", color=WHITE)}
 <div style="display:flex;flex-direction:column;gap:24px;margin-top:4px">
 <div style="display:flex;gap:30px;align-items:flex-start"><p style="font-family:{SERIF};font-size:54px;line-height:1;color:#E7B98F;width:76px">1</p><p style="font-size:30px;line-height:1.4;width:1520px"><b>Robots are governed sideways.</b> 278 binding rules reach them; 25 name AI. They are aviation, road, machinery and product law.</p></div>
-<div style="display:flex;gap:30px;align-items:flex-start"><p style="font-family:{SERIF};font-size:54px;line-height:1;color:#E7B98F;width:76px">2</p><p style="font-size:30px;line-height:1.4;width:1520px"><b>The robots we will live with have almost none.</b> Companions 0, humanoids 0, care robots 4, among 429 documents about them.</p></div>
+<div style="display:flex;gap:30px;align-items:flex-start"><p style="font-family:{SERIF};font-size:54px;line-height:1;color:#E7B98F;width:76px">2</p><p style="font-size:30px;line-height:1.4;width:1520px"><b>The robots we will live with have almost none.</b> Companions 0, humanoids 0, care robots 4, among 430 documents about them.</p></div>
 <div style="display:flex;gap:30px;align-items:flex-start"><p style="font-family:{SERIF};font-size:54px;line-height:1;color:#E7B98F;width:76px">3</p><p style="font-size:30px;line-height:1.4;width:1520px"><b>The body changes the rulebook.</b> Physical safety, certification, accountability and liability lead; transparency, fairness and dignity barely appear.</p></div>
 <div style="display:flex;gap:30px;align-items:flex-start"><p style="font-family:{SERIF};font-size:54px;line-height:1;color:#E7B98F;width:76px">4</p><p style="font-size:30px;line-height:1.4;width:1520px"><b>Mention is not detail.</b> Six rules in ten raise the control question; fewer than three in ten answer it. Duties fall on operators, rarely on the people who write the software.</p></div>
 <div style="display:flex;gap:30px;align-items:flex-start"><p style="font-family:{SERIF};font-size:54px;line-height:1;color:#E7B98F;width:76px">5</p><p style="font-size:30px;line-height:1.4;width:1520px"><b>Every count depends on where you looked.</b> Ours went 5, 299, 195, 278. Ask any number about AI regulation how it was made.</p></div>
@@ -309,7 +309,7 @@ sec("close", f'''
 <h2 style="font-family:{SERIF};font-size:92px;font-weight:500;line-height:1.05;color:{WHITE}">The question is not whether robots will come into our homes. It is whether the rules will be there when they do.</h2>
 </div>
 <div style="display:flex;justify-content:space-between;align-items:flex-end">
-<p style="font-size:26px;color:#CFE3DC;line-height:1.6">Data, code, every table and the list of what still needs a person:<br>github.com/cjimmylin/embodied-ai-governance<br>Explore the 3,320 documents: claude.ai/artifact/YKsXJRaT7tSfRXseuo5kuZ</p>
+<p style="font-size:26px;color:#CFE3DC;line-height:1.6">Data, code, every table and the list of what still needs a person:<br>github.com/cjimmylin/embodied-ai-governance<br>Explore the 3,328 documents: claude.ai/artifact/YKsXJRaT7tSfRXseuo5kuZ<br>Project hub, all deliverables: claude.ai/artifact/QRA3FAoGPUDJeNAg4QUQoA</p>
 <p style="font-size:24px;color:#CFE3DC;text-align:right;line-height:1.5">Centre for Enterprise Innovation (CEI)<br>AI Robotics project, November 2026</p>
 </div>''', bg=INK, fg=WHITE, pad="128px", gap=56, extra=";justify-content:space-between")
 

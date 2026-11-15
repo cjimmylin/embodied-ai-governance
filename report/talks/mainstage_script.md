@@ -14,7 +14,7 @@ Somewhere, right now, a robot is being built to live in your mother's room. Not 
 
 ## 3. We went looking
 
-So we went looking for the rules. All of them. Laws, regulations, standards, government strategies, scientific papers, news. Three thousand three hundred and twenty documents, from a hundred and nineteen countries, the European Union and the United Nations system. And I have to tell you something about how we read them, because it matters. No human read them all. Nobody could. An AI did. It asked every single document the same thirty-nine questions. Is this binding? What machine is it about? What does it say about safety, about who is in control, about who pays? Then other AIs checked its answers, and an independent one audited them. I will come back to how much you should trust that. Keep it in mind. For now, here is what the map shows.
+So we went looking for the rules. All of them. Laws, regulations, standards, government strategies, scientific papers, news. Three thousand three hundred and twenty-eight documents, from a hundred and nineteen countries, the European Union and the United Nations system. And I have to tell you something about how we read them, because it matters. No human read them all. Nobody could. An AI did. It asked every single document the same thirty-nine questions. Is this binding? What machine is it about? What does it say about safety, about who is in control, about who pays? Then other AIs checked its answers, and an independent one audited them. I will come back to how much you should trust that. Keep it in mind. For now, here is what the map shows.
 
 ## 4. 278
 
@@ -34,7 +34,7 @@ So what about the robots that do not fall into an old category? The robot in you
 
 ## 8. Companion robots
 
-Now here is the part that surprised me most. We also had five hundred and nine scientific papers in the collection, and we asked which robots they were about. Forty-three percent of the research on robot governance is about companion and social robots. Three percent of the rules are. Scientists are studying the robots we will live with: how people bond with them, whether they deceive, what happens when a lonely person depends on one. Lawmakers are regulating the ones already in the street. The two communities are looking at different machines. We checked whether that was an artefact of where we searched. It is not. The gap is real, and it is widest exactly where the machines are heading.
+Now here is the part that surprised me most. We also had five hundred and eleven scientific papers in the collection, and we asked which robots they were about. Forty-three percent of the research on robot governance is about companion and social robots. Three percent of the rules are. Scientists are studying the robots we will live with: how people bond with them, whether they deceive, what happens when a lonely person depends on one. Lawmakers are regulating the ones already in the street. The two communities are looking at different machines. We checked whether that was an artefact of where we searched. It is not. The gap is real, and it is widest exactly where the machines are heading.
 
 ## 9. After the accident
 
