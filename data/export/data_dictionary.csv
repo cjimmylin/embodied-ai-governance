@@ -1,0 +1,208 @@
+column,type,description,allowed_values,non_empty
+doc_id,string,Canonical document id after deduplication,,3328
+title_en,string,Title in English (annotation; translated where needed),,3328
+title_clean,string,"Title in the original language, cleaned (annotation)",,3328
+source_url,string,"Web address of the document: the collectors' URL, or for 400 documents first collected without one, the URL recovered in November 2026 (see source_url_basis)",,3327
+source_url_basis,string,"How source_url was obtained: collector manifest or harvest record; or, for documents recovered in November 2026, the saved page's own address tag, team source list, DOI (checked against Crossref), web search, or re-collected",,3328
+authors_or_issuer,string,Authors (research) or issuing body (instruments),,3328
+issuer_type,string,Codebook issuer type,national_government_executive | legislature | regulator_or_agency | court_or_judiciary | subnational_government | intergovernmental_org | standards_body | industry_company | industry_association | academic_or_research | ngo_or_civil_society | think_tank | news_media | professional_body | other | unknown,3328
+jurisdiction_country,string,"Final ISO alpha-2 jurisdiction (EU, INT, XX allowed): annotation, else OpenAlex first-author country, else collector code",,3327
+jurisdiction_country_name,string,Country or body name for jurisdiction_country,,3328
+study_region,string,"Region used in the analysis (from jurisdiction, not the collectors' folder)",,3328
+year_final,integer,"Year used in the analysis (annotation, else metadata)",,3256
+language,string,Annotated main language (ISO 639-1),,3328
+doc_class,string,Coarse document class,governance_instrument_binding | governance_instrument_soft | governance_proposal_or_draft | government_report_or_parliamentary | research_output | grey_literature | communication_or_news | unusable,3328
+doc_type,string,"Fine document genre (28 classes, codebook section C)",statute_or_act | regulation_or_decree | international_treaty_or_convention | court_decision_or_judicial_notice | bill_or_draft_law | consultation_or_white_paper | national_strategy_or_action_plan | policy_guideline_or_code_of_practice | ethical_framework_or_principles | technical_standard | intergovernmental_recommendation_or_resolution | government_report_or_review | parliamentary_material | procurement_or_internal_policy | journal_article | conference_paper | review_or_survey_article | book_or_chapter | preprint_or_working_paper | thesis_or_dissertation | editorial_or_commentary | industry_or_ngo_report | news_article | press_release_or_government_news | blog_or_opinion | web_page_informational | other | unusable,3328
+in_embodied_set,boolean,"In the embodied-AI (robot) set used by the analysis: relevance >= 2 or any embodied category, and about AI",,3328
+in_governance_set,boolean,Governance document (is_governance_document),,3328
+principal_binding_instrument,boolean,Counted as a principal binding instrument (the headline binding unit),,3328
+collection_region,string,Regional folder the collectors filed the document under,,3328
+collection_set,string,sprint = collectors' robotics subset; database = general AI governance set,,3328
+collection_tier,string,Collectors' rubric tier (Core/Supporting/Context only) where available,,1164
+collection_points,integer,Collectors' rubric points (Europe only),,680
+collection_country,string,Collectors' country/issuer field,,2944
+collection_robot_focus,string,Collectors' robot-focus label (Europe only),,680
+collection_type,string,Collectors' type label (Europe only),,2461
+collection_title,string,Best available collector title (may be a truncated filename slug),,3328
+filename,string,Primary captured file name,,3328
+file_ext,string,Primary file extension,,3328
+n_files,integer,Number of captured files merged into this document,,3328
+regions_listed,json_array,All regional folders listing the document,,3327
+sets_listed,json_array,All collection sets the merged files came from (JSON array),,3328
+text_status,string,"Conversion status of the primary file: ok, copied, blocked-source (bot wall), stub (no text), reader (recovered via Drive reader)",,3328
+text_chars,integer,Characters of converted text,,3328
+lang_detected,string,Language detected by fast-langdetect on the text,,1531
+words,integer,Word count of full text,,3328
+doi_extracted,string,First DOI found in text,,584
+pdf_creation_date,string,PDF CreationDate metadata,,486
+oa_matched,boolean,Matched to an OpenAlex record,,1547
+oa_match_type,string,How the OpenAlex match was made (doi or title),,464
+oa_year,integer,Publication year per OpenAlex,,464
+oa_date,string,Publication date per OpenAlex,,464
+oa_type,string,OpenAlex work type,,464
+oa_venue,string,Venue per OpenAlex,,431
+oa_cited_by,integer,OpenAlex citation count at harvest,,464
+oa_first_author_country,string,First author's institution country per OpenAlex,,417
+oa_n_authors,integer,Number of authors per OpenAlex,,1547
+oa_authors,json_array,Authors per OpenAlex (JSON array),,460
+oa_author_countries,json_array,Author institution countries per OpenAlex (JSON array),,417
+oa_doi,string,DOI per OpenAlex,,464
+oa_id,string,OpenAlex work id,,464
+oa_topics,json_array,OpenAlex topics (JSON array),,464
+pub_year,integer,Publication or adoption year stated or inferred by the annotation,,3246
+pub_month,integer,Publication month (annotation),,2853
+date_basis,string,Where the date came from (annotation),stated_in_document | inferred_from_content | unknown,3328
+doi,string,DOI of the document itself (annotation; distinct from DOIs it cites),,468
+venue,string,"Journal, gazette, website or outlet (annotation)",,3214
+jurisdiction_scope,string,international/supranational_regional/national/subnational/not_applicable,international | supranational_regional | national | subnational | not_applicable,3328
+countries_discussed,json_array,Countries analysed or targeted,,2788
+is_governance_document,boolean,Document itself governs/prescribes,,3328
+instrument_status,string,Lifecycle status for governance documents,proposal_or_concept | draft_or_bill_under_consideration | consultation_open | adopted_not_yet_in_force | in_force | published_current | under_development | superseded_or_repealed | withdrawn_or_lapsed | unknown | not_applicable,3328
+binding_nature,string,Binding/soft/standard,legally_binding | voluntary_soft_law | technical_standard_voluntary | technical_standard_mandated | not_applicable,3328
+publication_stage,string,Research publication stage,peer_reviewed | preprint | book | thesis | grey_literature | unknown | not_applicable,3328
+ai_scope,string,General AI vs embodied scope,general_ai_only | general_ai_with_embodied_provisions | embodied_ai_robotics_general | embodied_ai_specific_category | not_ai,3328
+embodiment_status,string,Physical vs software 'robot',physical_embodied | software_agent_called_robot | mixed | none,3328
+embodied_categories,json_array,Kinds of embodied AI or robot the document addresses (JSON array; annotation),industrial_manipulators | collaborative_robots | mobile_industrial_logistics | delivery_robots | professional_service_robots | domestic_household_robots | social_companion_robots | educational_robots | care_assistive_robots | toys_entertainment_robots | sex_robots | surgical_medical_robots | rehabilitation_exoskeleton_prosthetic | biohybrid_or_cyborg | humanoid_general_purpose | autonomous_road_vehicles | drones_uas | autonomous_maritime_or_rail | agricultural_robots | space_or_extreme_environment | military_autonomous_weapons | security_policing_robots | other_embodied,1715
+primary_embodied_category,string,Main embodied category (annotation),industrial_manipulators | collaborative_robots | mobile_industrial_logistics | delivery_robots | professional_service_robots | domestic_household_robots | social_companion_robots | educational_robots | care_assistive_robots | toys_entertainment_robots | sex_robots | surgical_medical_robots | rehabilitation_exoskeleton_prosthetic | biohybrid_or_cyborg | humanoid_general_purpose | autonomous_road_vehicles | drones_uas | autonomous_maritime_or_rail | agricultural_robots | space_or_extreme_environment | military_autonomous_weapons | security_policing_robots | other_embodied | none,3328
+application_sectors,json_array,Sectors addressed,healthcare | elder_care_social_care | manufacturing | logistics_transport | agriculture_food | defense_security | public_administration_justice | education | finance | retail_hospitality | construction | energy_environment | domestic_consumer | research_science | cross_sector | other,3319
+governance_topics,json_array,Governance topics substantively addressed (JSON array; annotation),ethics_principles | civil_liability | criminal_liability | legal_personhood_robot_rights | safety_physical_harm | cybersecurity | privacy_data_protection | human_oversight_control | transparency_explainability | fairness_bias_discrimination | labor_employment | human_dignity_autonomy | human_robot_interaction_social_effects | military_use_ihl | certification_conformity_assessment | standards_interoperability | risk_management_risk_tiers | intellectual_property | consumer_protection | industrial_policy_innovation | research_ethics | sustainability_environment | children_vulnerable_groups | trust_acceptance | education_training | taxation_economic_policy | other,3328
+primary_topic,string,Main governance topic (annotation),ethics_principles | civil_liability | criminal_liability | legal_personhood_robot_rights | safety_physical_harm | cybersecurity | privacy_data_protection | human_oversight_control | transparency_explainability | fairness_bias_discrimination | labor_employment | human_dignity_autonomy | human_robot_interaction_social_effects | military_use_ihl | certification_conformity_assessment | standards_interoperability | risk_management_risk_tiers | intellectual_property | consumer_protection | industrial_policy_innovation | research_ethics | sustainability_environment | children_vulnerable_groups | trust_acceptance | education_training | taxation_economic_policy | other,3328
+pr_transparency,string,"Principle 'transparency': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_justice_fairness,string,"Principle 'justice fairness': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_non_maleficence,string,"Principle 'non maleficence': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_responsibility_accountability,string,"Principle 'responsibility accountability': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_privacy,string,"Principle 'privacy': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_beneficence,string,"Principle 'beneficence': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_freedom_autonomy,string,"Principle 'freedom autonomy': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_trust,string,"Principle 'trust': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_sustainability,string,"Principle 'sustainability': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_dignity,string,"Principle 'dignity': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_solidarity,string,"Principle 'solidarity': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_human_oversight,string,"Principle 'human oversight': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_robustness_security,string,"Principle 'robustness security': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_inclusive_growth,string,"Principle 'inclusive growth': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_physical_safety,string,"Principle 'physical safety': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_human_robot_proximity,string,"Principle 'human robot proximity': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_liability_for_physical_damage,string,"Principle 'liability for physical damage': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_autonomy_level_control,string,"Principle 'autonomy level control': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_conformity_assessment_certification,string,"Principle 'conformity assessment certification': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+pr_dual_use_military,string,"Principle 'dual use military': 0 absent, 1 mentioned, 2 substantive or required (annotation)",0 | 1 | 2,3328
+governance_mechanisms,json_array,Mechanisms established or recommended,risk_based_tiering | prohibitions_bans | licensing_registration | conformity_assessment_certification | technical_standards_reference | liability_regime | insurance_requirement | human_oversight_requirement | transparency_disclosure_labelling | data_governance_requirements | testing_sandboxes | incident_reporting | audits_impact_assessment | oversight_body_creation | funding_or_incentives | education_training_programs | international_cooperation | self_regulation_codes | none,3326
+named_instruments_referenced,json_array,Instruments cited,,1457
+robot_legal_personhood_position,string,Stance on robot legal personhood,supports | opposes | discusses_neutral | not_discussed,3328
+risk_framing,string,Dominant framing,risk_based | rights_based | principle_or_ethics_based | innovation_promotion | liability_or_accountability_based | mixed | not_applicable,3328
+stance_toward_regulation,string,Regulatory stance,calls_for_new_regulation | existing_law_sufficient_or_adapt | self_regulation_or_standards_preferred | descriptive_or_neutral | not_applicable,3328
+methodology,string,Research methodology,conceptual_or_normative | legal_doctrinal | empirical_qualitative | empirical_quantitative | technical_or_engineering | systematic_or_scoping_review | case_study | mixed | not_applicable,3328
+faith_or_religious_perspective,boolean,Religious standpoint flag,,3328
+page_quality,string,Content quality of the capture,substantive_document | partial_or_excerpt | landing_or_index_page | error_or_blocked_page | non_text,3328
+relevance_to_embodied_ai_governance,string,0-3 relevance rating,,3328
+summary_en,string,60-word English summary,,3328
+key_provisions_or_claims,string,Up to 5 key provisions/claims,,3323
+confidence,number,Annotator confidence 0-1,,3328
+annotation_model,string,Model that produced the annotation,,3328
+annotation_prompt_hash,string,Hash of the codebook prompt used,,3328
+annotation_policy,string,"Excerpt policy used for the annotation (slice sizes, metadata-blind flag)",,2176
+n_embodied_categories,string,Count of embodied_categories,,3328
+n_topics,string,Count of governance_topics,,3328
+n_mechanisms,string,Count of governance_mechanisms,,3328
+principles_sum,string,Sum of the 20 principle scores (0-40),,3328
+n_principles_substantive,string,Principles scored 2 (substantive),,3328
+n_principles_any,string,Principles scored 1 or 2,,3328
+embodied_l1,json_array,Top-level embodied groups (JSON array),,1603
+jurisdiction_country_annotated,string,Jurisdiction as annotated from the text only,,3327
+jurisdiction_source,string,Where the final jurisdiction came from: annotation / openalex / collector / unknown,,3328
+continent,string,Continent of the jurisdiction,,3328
+un_subregion,string,UN M49 sub-region of the jurisdiction,,3328
+year_source,string,Source of year_final,,3328
+lex_words,integer,Words counted by the lexicon pass,,3169
+lex_robot_any_pk,number,"Lexicon rate per 1,000 words for 'robot any' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_humanoid_pk,number,"Lexicon rate per 1,000 words for 'humanoid' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_cobot_pk,number,"Lexicon rate per 1,000 words for 'cobot' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_industrial_robot_pk,number,"Lexicon rate per 1,000 words for 'industrial robot' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_logistics_mobile_pk,number,"Lexicon rate per 1,000 words for 'logistics mobile' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_delivery_robot_pk,number,"Lexicon rate per 1,000 words for 'delivery robot' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_service_robot_pk,number,"Lexicon rate per 1,000 words for 'service robot' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_domestic_robot_pk,number,"Lexicon rate per 1,000 words for 'domestic robot' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_social_robot_pk,number,"Lexicon rate per 1,000 words for 'social robot' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_care_robot_pk,number,"Lexicon rate per 1,000 words for 'care robot' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_educational_robot_pk,number,"Lexicon rate per 1,000 words for 'educational robot' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_sex_robot_pk,number,"Lexicon rate per 1,000 words for 'sex robot' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_surgical_robot_pk,number,"Lexicon rate per 1,000 words for 'surgical robot' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_exoskeleton_pk,number,"Lexicon rate per 1,000 words for 'exoskeleton' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_autonomous_vehicle_pk,number,"Lexicon rate per 1,000 words for 'autonomous vehicle' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_drone_pk,number,"Lexicon rate per 1,000 words for 'drone' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_maritime_rail_pk,number,"Lexicon rate per 1,000 words for 'maritime rail' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_agri_robot_pk,number,"Lexicon rate per 1,000 words for 'agri robot' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_space_extreme_pk,number,"Lexicon rate per 1,000 words for 'space extreme' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_military_laws_pk,number,"Lexicon rate per 1,000 words for 'military laws' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_police_security_pk,number,"Lexicon rate per 1,000 words for 'police security' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_embodied_ai_term_pk,number,"Lexicon rate per 1,000 words for 'embodied ai term' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_eu_ai_act_pk,number,"Lexicon rate per 1,000 words for 'eu ai act' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_eu_machinery_pk,number,"Lexicon rate per 1,000 words for 'eu machinery' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_product_liability_pk,number,"Lexicon rate per 1,000 words for 'product liability' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_civil_law_rules_robotics_pk,number,"Lexicon rate per 1,000 words for 'civil law rules robotics' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_gdpr_pk,number,"Lexicon rate per 1,000 words for 'gdpr' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_unesco_rec_pk,number,"Lexicon rate per 1,000 words for 'unesco rec' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_oecd_principles_pk,number,"Lexicon rate per 1,000 words for 'oecd principles' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_nist_rmf_pk,number,"Lexicon rate per 1,000 words for 'nist rmf' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_iso_10218_pk,number,"Lexicon rate per 1,000 words for 'iso 10218' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_iso_13482_pk,number,"Lexicon rate per 1,000 words for 'iso 13482' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_iso_ts_15066_pk,number,"Lexicon rate per 1,000 words for 'iso ts 15066' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_iso_3691_pk,number,"Lexicon rate per 1,000 words for 'iso 3691' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_iso_42001_pk,number,"Lexicon rate per 1,000 words for 'iso 42001' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_iso_23894_pk,number,"Lexicon rate per 1,000 words for 'iso 23894' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_iso_22989_pk,number,"Lexicon rate per 1,000 words for 'iso 22989' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_iso_any_pk,number,"Lexicon rate per 1,000 words for 'iso any' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_ieee_7000_pk,number,"Lexicon rate per 1,000 words for 'ieee 7000' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_ansi_r1506_pk,number,"Lexicon rate per 1,000 words for 'ansi r1506' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_asimov_pk,number,"Lexicon rate per 1,000 words for 'asimov' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_coe_convention_pk,number,"Lexicon rate per 1,000 words for 'coe convention' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_bletchley_pk,number,"Lexicon rate per 1,000 words for 'bletchley' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_hiroshima_pk,number,"Lexicon rate per 1,000 words for 'hiroshima' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_ccw_gge_pk,number,"Lexicon rate per 1,000 words for 'ccw gge' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_eo_14110_pk,number,"Lexicon rate per 1,000 words for 'eo 14110' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_korea_robot_act_pk,number,"Lexicon rate per 1,000 words for 'korea robot act' terms (multilingual patterns in codebook/lexicons.json)",,3169
+lex_p_transparency_pk,number,"Lexicon rate per 1,000 words for principle terms 'transparency'",,3169
+lex_p_fairness_pk,number,"Lexicon rate per 1,000 words for principle terms 'fairness'",,3169
+lex_p_safety_pk,number,"Lexicon rate per 1,000 words for principle terms 'safety'",,3169
+lex_p_accountability_pk,number,"Lexicon rate per 1,000 words for principle terms 'accountability'",,3169
+lex_p_privacy_pk,number,"Lexicon rate per 1,000 words for principle terms 'privacy'",,3169
+lex_p_beneficence_pk,number,"Lexicon rate per 1,000 words for principle terms 'beneficence'",,3169
+lex_p_autonomy_pk,number,"Lexicon rate per 1,000 words for principle terms 'autonomy'",,3169
+lex_p_trust_pk,number,"Lexicon rate per 1,000 words for principle terms 'trust'",,3169
+lex_p_sustainability_pk,number,"Lexicon rate per 1,000 words for principle terms 'sustainability'",,3169
+lex_p_dignity_pk,number,"Lexicon rate per 1,000 words for principle terms 'dignity'",,3169
+lex_p_solidarity_pk,number,"Lexicon rate per 1,000 words for principle terms 'solidarity'",,3169
+lex_p_human_oversight_pk,number,"Lexicon rate per 1,000 words for principle terms 'human oversight'",,3169
+lex_p_robustness_pk,number,"Lexicon rate per 1,000 words for principle terms 'robustness'",,3169
+lex_p_inclusive_growth_pk,number,"Lexicon rate per 1,000 words for principle terms 'inclusive growth'",,3169
+lex_p_physical_safety_pk,number,"Lexicon rate per 1,000 words for principle terms 'physical safety'",,3169
+lex_p_proximity_pk,number,"Lexicon rate per 1,000 words for principle terms 'proximity'",,3169
+lex_p_liability_physical_pk,number,"Lexicon rate per 1,000 words for principle terms 'liability physical'",,3169
+lex_p_autonomy_level_pk,number,"Lexicon rate per 1,000 words for principle terms 'autonomy level'",,3169
+lex_p_certification_pk,number,"Lexicon rate per 1,000 words for principle terms 'certification'",,3169
+lex_p_dual_use_pk,number,"Lexicon rate per 1,000 words for principle terms 'dual use'",,3169
+binding_nature_prospective,boolean,Binding once adopted (bill or draft of binding law),,3328
+capture_tier,string,"Quality of the captured text (substantive, partial, landing page)",,3328
+instrument_unit,string,"Counting unit: principal, amendment, or a paperwork type excluded from instrument counts",,3328
+text_hash,string,Hash of the captured text (duplicate detection),,3328
+ai_explicit_n,integer,Explicit AI-term mentions in the full text,,3328
+autonomy_n,integer,Autonomy and automation term mentions in the full text,,3328
+ai_explicit,boolean,At least two explicit AI mentions,,3328
+autonomy_terms,boolean,"At least two autonomy terms, or ai_explicit",,3328
+principal_instrument,boolean,Instrument-class text counted as a principal instrument or amendment,,3328
+family_size,integer,"Number of captures of the same instrument family (versions, renewals, parts)",,3328
+family_rep,boolean,Representative capture of its family (used for family-level counts),,3328
+bound_parties,json_array,"Who the instrument binds (JSON array; supplementary pass, principal instruments only)",manufacturers_or_producers | importers_or_distributors | providers_or_developers | operators_or_deployers | owners_or_users | employers | public_bodies_or_government | certification_or_notified_bodies | member_states_or_subnational_governments | pilots_or_drivers | researchers_or_institutions | individuals_or_general_public | none_stated | not_applicable,603
+bound_parties_text,string,"Who it binds, in the model's words",,602
+entry_into_force_date,string,Entry-into-force date (supplementary pass),,288
+applicability_date,string,Date the obligations apply (supplementary pass),,64
+repeal_or_expiry_date,string,Repeal or expiry date (supplementary pass),,36
+legal_effect_of_standard,string,For standards: how law gives them effect (supplementary pass),not_a_standard | voluntary | harmonised_or_designated | incorporated_by_reference_in_law | mandatory_by_its_own_terms | unknown,603
+robot_provision_year,integer,Year the robot-relevant provision was added (supplementary pass),,529
+robot_provision_basis,string,How the robot-relevant provision was dated (supplementary pass),whole_instrument_is_about_such_systems | amendment_history_in_text | stated_in_provision | not_determinable,603
+supp_confidence,number,Supplementary-pass confidence (0-1),,603
+supp_model,string,Supplementary-pass model,,603
+supp_prompt_hash,string,Supplementary-pass prompt hash,,603
+in_general_ai_set,boolean,In the general-AI comparison set,,3328
+analysis_period,string,Period bin used in trend analyses,,3256
